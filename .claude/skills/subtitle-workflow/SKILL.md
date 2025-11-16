@@ -211,7 +211,7 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/<episode>.ya
 
 #### 🎯 建議工作流程（最佳實踐）
 
-**第一步：AI 翻譯前 2-3 個 topics（建立基準）**
+**第一步：AI 翻譯前 1~2 個 topics（建立基準）**
 
 - ✅ **掌握語調脈絡** - 理解證詞的語氣風格與情緒表達
 - ✅ **發現細節問題** - 實際翻譯會暴露 guidelines 需要補充的地方
@@ -220,8 +220,8 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/<episode>.ya
 - ✅ **優化指令品質** - 有了實際經驗後，給 agent 的指令會更精準
 
 **推薦範圍**：
-- **最少**：topic_01 ~ topic_02（掌握基本語調）
-- **建議**：topic_01 ~ topic_03（涵蓋更多語境變化）
+- **最少**：topic_01（掌握基本語調）
+- **建議**：topic_01 ~ topic_02（涵蓋更多語境變化）
 
 **操作方式**：
 1. 載入 Context：
@@ -244,7 +244,7 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/<episode>.ya
 **第二步：使用 Task Tool 委派剩餘 topics（提升效率）**
 
 **何時開始委派**：
-- 已完成前 2-3 個 topics 的翻譯
+- 已完成前 1-2 個 topics 的翻譯
 - 確認翻譯品質符合預期
 - guidelines 與 terminology 已調整完善
 
@@ -266,7 +266,7 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/<episode>.ya
    請翻譯 data/<episode>/drafts/topic_0X.md
 
    **必讀參考文檔**（請先閱讀以下檔案）：
-   1. configs/guidelines_template.md - 翻譯風格與規範
+   1. data/<episode>/guidelines.md - 翻譯風格與規範
    2. data/<episode>/terminology.yaml - 術語翻譯標準（若已完成階段 5）
    3. data/<episode>/topics.json - 全集摘要與當前 topic 的語境
 
@@ -288,11 +288,11 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/<episode>.ya
 
 **逐一委派範例流程**：
 ```
-✅ 自行翻譯：topic_01, topic_02, topic_03（建立基準）
+✅ 自行翻譯：topic_01, topic_02（建立基準）
+→ 委派 topic_03 → 檢查品質 ✓
 → 委派 topic_04 → 檢查品質 ✓
 → 委派 topic_05 → 檢查品質 ✓
 → 委派 topic_06 → 檢查品質 ✓
-→ 委派 topic_07 → 檢查品質 ✓
 ```
 
 ---
@@ -385,7 +385,6 @@ PYTHONPATH=. python3 tools/fix_chinese_punctuation.py --config configs/<episode>
 
 3. **術語處理**：
    - 專有名詞保留原文（人名、地名、軍事單位、專案代號）
-   - 技術術語參考 `configs/terminology_template.yaml`
    - 軍銜與職稱翻譯為中文，必要時附註原文
 
 ---
