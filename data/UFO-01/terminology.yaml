@@ -1,0 +1,659 @@
+episode_id: UFO-01
+terms:
+  # ===== A =====
+  - term: A Strange Harvest
+    senses:
+      - id: strange_harvest_documentary
+        definition: Linda Moulton Howe 於 1980 年製作的調查紀錄片，探討神秘的動物肢解案件
+        preferred_translation: 《詭異收穫》
+        segments: [359, 360, 480, 486, 488]
+        notes: 該片獲得地區艾美獎，是 Linda 進入 UFO 研究領域的起點
+
+  - term: Air Technical Intelligence Center, ATIC
+    senses:
+      - id: atic_intelligence
+        definition: 位於萊特-帕特森空軍基地的美國空軍技術情報中心
+        preferred_translation: 空軍技術情報中心（ATIC）
+        segments: [99]
+        notes: 1947 年底，該中心分析師首次提出 UFO 具外星起源的結論
+
+  - term: Alfred O'Donnell
+    senses:
+      - id: odonnell_witness
+        definition: Area 51 的高階管理人員，掌握墜毀飛碟相關資訊的關鍵證人
+        preferred_translation: 阿爾弗雷德·歐唐納
+        segments: [424, 426]
+        notes: George Knapp 調查報導中的重要證人，國會曾嘗試聯繫他
+
+  - term: Apollo 14
+    senses:
+      - id: apollo_14_mission
+        definition: 美國第三次成功登月的太空任務（1971年）
+        preferred_translation: 阿波羅 14 號
+        segments: [16]
+        notes: Dr. Edgar Mitchell 參與的登月任務
+
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施
+        preferred_translation: 51 區
+        segments: [195, 416, 423, 425, 426, 435, 440]
+        notes: 與 UFO 和先進航空技術研發相關的傳說地點，出現頻率極高
+
+  - term: artificial intelligence
+    senses:
+      - id: ai_hypothesis
+        definition: 人工智慧，聽證會中討論外星訪客可能採用的技術形態
+        preferred_translation: 人工智慧
+        segments: [637, 638]
+        notes: 證人討論長距離星際旅行時，推測外星探訪者可能是 AI 而非生物實體
+
+  # ===== B =====
+  - term: Battelle Memorial Institute
+    senses:
+      - id: battelle_research
+        definition: 執行藍皮書計畫特別報告 14 號研究的機構
+        preferred_translation: 巴特爾紀念研究所
+        segments: [234]
+        notes: 美國空軍官方刻意隱瞞該研究機構名稱與報告標題
+
+  - term: Being
+    senses:
+      - id: being_extraterrestrial
+        definition: 外星生命體或智慧存在
+        preferred_translation: 存有
+        segments: [22, 65, 180, 196, 208, 416, 446, 514, 587, 602, 615, 667, 705]
+        notes: 證詞中提到的外星生命體，可補充為「外星存有」
+
+  - term: Blue Room
+    senses:
+      - id: blue_room_classified
+        definition: 萊特-帕特森空軍基地傳說中存放外星硬體與遺體的機密房間
+        preferred_translation: 藍色機密房
+        segments: [167]
+        notes: 參議員 Barry Goldwater 曾被將軍 Curtis LeMay 拒絕進入該處
+
+  # ===== C =====
+  - term: Cape Girardeau, Missouri
+    senses:
+      - id: cape_girardeau_crash
+        definition: 密蘇里州開普吉拉多，1941 年疑似 UFO 墜毀回收地點
+        preferred_translation: 密蘇里州開普吉拉多
+        segments: [560]
+        notes: 證詞指出美國政府早在 1941 年就開始回收飛行器與遺體
+
+  - term: Carolyn Kilpatrick
+    senses:
+      - id: kilpatrick_panelist
+        definition: 前美國眾議員，聽證會評審小組成員
+        preferred_translation: 卡蘿琳·基爾派翠克
+        segments: [4]
+        notes: 與其他退休國會議員共同組成模擬聽證會小組
+
+  - term: Chairman Bartlett
+    senses:
+      - id: bartlett_chairman
+        definition: 聽證會主席
+        preferred_translation: 巴特利特主席
+        segments: [2]
+        notes: UFO 公民聽證會的主持人
+
+  - term: Chase Brandon
+    senses:
+      - id: brandon_cia_witness
+        definition: CIA 42 年資深人員，公開證實羅斯威爾事件涉及外星飛行器墜毀
+        preferred_translation: 蔡斯·布蘭登
+        segments: [199, 201]
+        notes: CIA 與好萊塢聯絡人，2012 年在 Coast to Coast 節目中公開作證
+
+  - term: Chicago, O'Hare Airport
+    senses:
+      - id: ohare_sighting
+        definition: 芝加哥歐海爾機場，2006 年發生重大 UFO 目擊事件
+        preferred_translation: 芝加哥歐海爾機場
+        segments: [128]
+        notes: Richard Dolan 證詞中引用的近期 UFO 案例之一
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        segments: [91, 109, 116, 166, 199, 200, 303, 313, 315, 361, 695, 696, 697]
+        notes: 美國主要情報機構，參與UFO調查與保密工作，高頻出現
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        segments: [169, 170, 172, 185, 237, 508, 589, 599, 607, 738]
+        notes: 常見分類：Top Secret (最高機密)、Secret (機密)、Confidential (密)
+
+  - term: Coast to Coast
+    senses:
+      - id: coast_to_coast_short
+        definition: 美國深夜電台談話節目（簡稱）
+        preferred_translation: Coast to Coast
+        segments: [199]
+        notes: 擁有 200 萬聽眾的知名節目，Chase Brandon 曾在此公開作證
+
+  - term: Coast to Coast AM
+    senses:
+      - id: coast_to_coast_am_full
+        definition: 美國深夜電台談話節目完整名稱，專注於超自然與陰謀論主題
+        preferred_translation: Coast to Coast AM
+        segments: [378]
+        notes: Linda Moulton Howe 定期在此節目報導 UFO 相關資訊
+
+  - term: COMETA Report
+    senses:
+      - id: cometa_report_french
+        definition: 法國高層軍事和情報官員撰寫的UFO研究報告（1999年）
+        preferred_translation: COMETA報告
+        segments: [255]
+        notes: 法國高層研究，結論認為某些UFO可能是外星飛行器
+
+  - term: Condon Report
+    senses:
+      - id: condon_report_colorado
+        definition: 1960 年代科羅拉多大學政府資助的 UFO 研究報告
+        preferred_translation: 康登報告
+        segments: [252]
+        notes: 報告標題宣稱「科學研究顯示無 UFO」，但實際有 30% 案例無法解釋
+
+  - term: cosmic water gate
+    senses:
+      - id: cosmic_watergate_coverup
+        definition: 核物理學家 Stanton Friedman 用以形容 UFO 真相掩蓋的術語
+        preferred_translation: 宇宙水門案
+        segments: [213, 215]
+        notes: 比擬水門案醜聞，指政府對外星訪問真相的系統性隱瞞
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        segments: [154, 189, 200, 306, 709]
+        notes: 保持客觀中性語調，避免「政府掩蓋」等對立性用詞。上下文明確時可簡化為「掩蓋」
+
+  # ===== D =====
+  - term: Dan Quayle
+    senses:
+      - id: quayle_vp
+        definition: 美國前副總統（老布希政府時期）
+        preferred_translation: 丹·奎爾
+        segments: [182]
+        notes: Grant Cameron 證詞中提到他曾表示「外星情況非常有趣」，暗示掌握機密資訊
+
+  - term: Dick Cheney
+    senses:
+      - id: cheney_vp
+        definition: 美國前副總統（小布希政府時期）
+        preferred_translation: 迪克·錢尼
+        segments: [184]
+        notes: 2001年被問及UFO簡報時回應「若曾被簡報，那會是機密，我不會談論」
+
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [335]
+        notes: 與「真相掩蓋」(cover-up) 形成對仗概念，常指政府或官方的公開承認
+
+  - term: Donald Quarles
+    senses:
+      - id: quarles_secretary
+        definition: 美國空軍部長，1955年藍皮書特別報告14號發布時的官員
+        preferred_translation: 唐納德·夸爾斯
+        segments: [228]
+        notes: Stanton Friedman 指控他在新聞稿中刻意扭曲研究結論
+
+  - term: Dr. Carl Sagan
+    senses:
+      - id: sagan_skeptic
+        definition: 天文學家、科學傳播者，知名的UFO懷疑論者
+        preferred_translation: 卡爾·薩根博士
+        segments: [224]
+        notes: 與 Stanton Friedman 是芝加哥大學同學，Friedman 批評其論點忽視關鍵證據
+
+  - term: Dr. Edgar Mitchell
+    senses:
+      - id: mitchell_astronaut
+        definition: 阿波羅14號太空人，第六位登月者
+        preferred_translation: 艾德加·米切爾博士
+        segments: [13]
+        notes: 公開支持UFO揭露的太空人
+
+  - term: Dr. James E. McDonald
+    senses:
+      - id: mcdonald_physicist
+        definition: 亞利桑那大學物理學教授，UFO研究重要學者
+        preferred_translation: 詹姆斯·E·麥克唐納博士
+        segments: [241]
+        notes: 提交過關於UFO研究的重要學術論文，訪談過500名證人
+
+  # ===== E =====
+  - term: earthfiles.com
+    senses:
+      - id: earthfiles_website
+        definition: Linda Moulton Howe 經營的科學與環境網站
+        preferred_translation: earthfiles.com
+        segments: [378]
+        notes: 該網站發布UFO相關調查報導與證人證詞
+
+  - term: earthling orientation
+    senses:
+      - id: earthling_orientation_concept
+        definition: 地球人本位取向，指年輕世代可能在得知外星訪問真相後，優先考慮地球整體利益而非國家利益
+        preferred_translation: 地球人取向
+        segments: [446, 517]
+        notes: Grant Cameron 提出的政府擔憂之一：揭露真相可能削弱國家主義
+
+  - term: EBE
+    senses:
+      - id: ebe_entity
+        definition: Extraterrestrial Biological Entity，外星生物實體
+        preferred_translation: 外星生物實體
+        segments: [374]
+        notes: 美國軍方對外星生命的官方代號，可簡稱EBE
+
+  - term: Entity
+    senses:
+      - id: entity_unknown
+        definition: 不明屬性的存在或生命體（通常指外星或跨維度存在）
+        preferred_translation: 實體
+        segments: [373]
+        notes: 證詞中用於描述未知來源的智慧存在
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [99, 100, 159, 174, 196, 208, 373, 378, 567, 571, 637, 641]
+        notes: 名詞用法可譯為「外星人」、「外星生命」
+
+  - term: Extraterrestrial biological entities
+    senses:
+      - id: ebe_full_name
+        definition: 外星生物實體（全名），美國政府文件中對外星生命的官方用語
+        preferred_translation: 外星生物實體
+        segments: [567, 571]
+        notes: 縮寫為EBE，Linda Howe看到的機密文件中使用此術語
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [94, 158, 215, 216, 217, 219, 229, 251, 607, 661]
+        notes: 較早期的用語，後被 UFO 取代但仍常見於證詞中
+
+  - term: FOIA
+    senses:
+      - id: foia_law
+        definition: Freedom of Information Act，美國資訊自由法
+        preferred_translation: 資訊自由法
+        segments: [103]
+        notes: 首次出現使用全名，後續可簡稱 FOIA
+
+  - term: Freedom of Information Act
+    senses:
+      - id: foia_full_name
+        definition: 美國資訊自由法，允許公民申請政府文件解密
+        preferred_translation: 資訊自由法
+        segments: [93]
+        notes: 1970年代起成為UFO研究者獲取機密文件的重要管道，首次出現時使用全名
+
+  # ===== G =====
+  - term: General Carroll Bolander
+    senses:
+      - id: bolander_general
+        definition: 美國空軍將軍，揭露高層UFO報告不屬於藍皮書系統
+        preferred_translation: 卡羅爾·博蘭德將軍
+        segments: [319]
+        notes: 他的證詞揭示存在另一個秘密的UFO報告管道
+
+  - term: General Curtis LeMay
+    senses:
+      - id: lemay_general
+        definition: 美國空軍將軍，拒絕參議員Goldwater進入藍色房間
+        preferred_translation: 柯蒂斯·李梅將軍
+        segments: [167]
+        notes: Goldwater的友人，1964年拒絕其訪問萊特-帕特森空軍基地機密區域
+
+  - term: General Robert B. Landry
+    senses:
+      - id: landry_general
+        definition: 杜魯門總統的空軍助理
+        preferred_translation: 羅伯特·B·蘭德里將軍
+        segments: [105]
+        notes: 證實定期向杜魯門總統簡報UFO情報（每季一次）
+
+  - term: George Knapp
+    senses:
+      - id: knapp_journalist
+        definition: 拉斯維加斯調查記者
+        preferred_translation: 喬治·奈普
+        segments: [195, 417, 421, 426, 667]
+        notes: 首次報導51區和Bob Lazar的記者，跨集數出現
+
+  - term: Grant Cameron
+    senses:
+      - id: cameron_researcher
+        definition: UFO研究者，專注於美國總統對UFO的了解
+        preferred_translation: 格蘭特·卡麥隆
+        segments: [150, 580]
+        notes: 運營President's UFO website，跨集數高頻證人
+
+  # ===== H =====
+  - term: Holloman Air Force Base
+    senses:
+      - id: holloman_afb
+        definition: 新墨西哥州霍洛曼空軍基地
+        preferred_translation: 霍洛曼空軍基地
+        segments: [163]
+        notes: 尼克森政府時期紀錄片聲稱拍攝到外星人在此降落的畫面
+
+  - term: Homo sapien
+    senses:
+      - id: homo_sapien_species
+        definition: 智人，現代人類的學名
+        preferred_translation: 現代智人
+        segments: [567]
+        notes: Linda Howe看到的文件聲稱外星生物實體操縱DNA創造了現代智人
+
+  # ===== K =====
+  - term: Kenneth Arnold
+    senses:
+      - id: arnold_pilot
+        definition: 1947年6月在雷尼爾山上空目擊UFO的飛行員
+        preferred_translation: 肯尼斯·阿諾德
+        segments: [337]
+        notes: 他的目擊報告是現代UFO現象的起點，與Linda Howe父親是朋友
+
+  - term: Kirtland Air Force Base
+    senses:
+      - id: kirtland_afb
+        definition: 新墨西哥州阿布奎基的美國空軍基地
+        preferred_translation: 柯特蘭空軍基地
+        segments: [362, 377, 566]
+        notes: 與UFO目擊事件和核武設施相關，Linda Moulton Howe在此看到機密文件
+
+  # ===== L =====
+  - term: Linda Moulton Howe
+    senses:
+      - id: howe_journalist
+        definition: 調查記者，以動物肢解案件研究聞名
+        preferred_translation: 琳達·莫爾頓·豪
+        segments: [335, 570]
+        notes: 艾美獎得主，製作A Strange Harvest紀錄片，多集證人
+
+  # ===== M =====
+  - term: Merrill Cook
+    senses:
+      - id: cook_congressman
+        definition: 前美國眾議員，聽證會評審小組成員
+        preferred_translation: 梅里爾·庫克
+        segments: [4]
+        notes: 與其他退休國會議員共同組成模擬聽證會小組
+
+  - term: Minister of Defense of Canada
+    senses:
+      - id: canada_defense_minister
+        definition: 加拿大國防部長
+        preferred_translation: 加拿大國防部長
+        segments: [38]
+        notes: Paul Hellyer的職位，他是公開承認外星生命存在的最高級別政府官員之一
+
+  - term: Mr. Dolan
+    senses:
+      - id: dolan_title
+        definition: 歷史學家 Richard Dolan 的稱呼
+        preferred_translation: 多蘭先生
+        segments: [68, 75]
+        notes: 聽證會中對證人的正式稱呼方式
+
+  - term: MUFON
+    senses:
+      - id: mufon_network
+        definition: Mutual UFO Network，共同UFO網絡
+        preferred_translation: MUFON
+        segments: [663]
+        notes: 全球最大的UFO研究組織之一，跨集數高頻出現
+
+  - term: multiverse
+    senses:
+      - id: multiverse_concept
+        definition: 多重宇宙，包含多個宇宙的理論概念
+        preferred_translation: 多重宇宙
+        segments: [18]
+        notes: Dr. Edgar Mitchell使用此詞強調宇宙之浩瀚與生命存在的可能性
+
+  - term: Mutual UFO Network
+    senses:
+      - id: mufon_full_name
+        definition: 全球最大的UFO研究與報告組織之一（MUFON全名）
+        preferred_translation: UFO互動網絡
+        segments: [137]
+        notes: 每月收到超過600份目擊報告，與National UFO Reporting Center並列北美最大UFO報告網站
+
+  # ===== N =====
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [77, 90, 319, 321, 326, 378, 381, 395, 506]
+        notes: 常用於解釋 UFO 資訊保密的官方理由
+
+  - term: National UFO Reporting Center
+    senses:
+      - id: nuforc_organization
+        definition: 美國國家UFO報告中心
+        preferred_translation: 國家UFO報告中心
+        segments: [137]
+        notes: 與MUFON並列北美最大UFO報告網站，每年合計收到超過10,000份報告
+
+  - term: nuclear physicist
+    senses:
+      - id: nuclear_physicist_profession
+        definition: 核物理學家
+        preferred_translation: 核物理學家
+        segments: [207]
+        notes: Stanton Friedman的專業身份，他以此背景研究UFO超過50年
+
+  # ===== P =====
+  - term: Paul Hellyer
+    senses:
+      - id: hellyer_minister
+        definition: 加拿大前國防部長
+        preferred_translation: 保羅·赫勒
+        segments: [38]
+        notes: 公開承認外星生命存在的高級政府官員
+
+  - term: Peter Gerstin
+    senses:
+      - id: gerstin_attorney
+        definition: 紐約律師，1970年代末首位對政府提出UFO資訊自由法申請的人
+        preferred_translation: 彼得·格斯汀
+        segments: [361]
+        notes: 他的申請針對CIA、NSA、DIA、NRO等多個情報機構
+
+  - term: President Clinton
+    senses:
+      - id: clinton_president
+        definition: 美國第42任總統比爾·柯林頓
+        preferred_translation: 柯林頓總統
+        segments: [304, 461]
+        notes: 在羅克菲勒倡議下嘗試解密UFO文件
+
+  - term: President Harry S. Truman
+    senses:
+      - id: truman_president
+        definition: 美國第33任總統哈瑞·S·杜魯門
+        preferred_translation: 杜魯門總統
+        segments: [105]
+        notes: 定期接受UFO情報簡報（每季一次），在任期間UFO現象開始受到高層重視
+
+  - term: President Richard Nixon
+    senses:
+      - id: nixon_president
+        definition: 美國第37任總統理查·尼克森
+        preferred_translation: 尼克森總統
+        segments: [166]
+        notes: 任內配合製作UFO紀錄片，感謝製作人合作的信函由Linda Howe親眼見證
+
+  - term: President's UFO website
+    senses:
+      - id: presidents_ufo_website
+        definition: Grant Cameron經營的美國總統UFO知識網站
+        preferred_translation: 總統UFO網站
+        segments: [153]
+        notes: 專注於收集歷任美國總統對UFO現象的了解與發言
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        segments: [221, 250, 320, 325]
+        notes: 官方調查 UFO 的代表性計畫，跨集數高頻出現
+
+  - term: Project Blue Book Special Report Number 14
+    senses:
+      - id: bluebook_report_14
+        definition: 美國空軍委託的最大規模UFO研究報告，涵蓋3,200個案例
+        preferred_translation: 藍皮書計畫特別報告14號
+        segments: [221]
+        notes: 由Battelle Memorial Institute執行，官方新聞稿刻意扭曲研究結論
+
+  # ===== R =====
+  - term: Roscoe Hillencutter
+    senses:
+      - id: hillencutter_cia_director
+        definition: CIA前局長
+        preferred_translation: 羅斯科·希倫庫特
+        segments: [116]
+        notes: 1960年公開表示高階空軍官員私下嚴肅看待UFO，但透過保密與嘲笑誤導公眾
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [17, 19, 188, 201, 372, 374, 398, 559, 561, 588, 635, 700]
+        notes: UFO 史上最著名的事件，所有集數都會提及
+
+  - term: Roswell incident
+    senses:
+      - id: roswell_incident_full
+        definition: 1947年新墨西哥州羅斯威爾的疑似UFO墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [17, 19]
+        notes: Dr. Edgar Mitchell在高中時期親身經歷，UFO史上最著名事件
+
+  # ===== S =====
+  - term: Senator Barry Goldwater
+    senses:
+      - id: goldwater_senator
+        definition: 前美國參議員，參議院情報委員會主席
+        preferred_translation: 貝利·高華德參議員
+        segments: [167]
+        notes: 多次嘗試獲取UFO機密資訊，被將軍LeMay拒絕進入藍色房間
+
+  - term: Senator Gravel
+    senses:
+      - id: gravel_senator
+        definition: 前美國參議員麥克·格拉維爾，聽證會評審小組成員
+        preferred_translation: 格拉維爾參議員
+        segments: [3]
+        notes: 與其他退休國會議員共同組成模擬聽證會小組
+
+  - term: SETI Institute
+    senses:
+      - id: seti_institute
+        definition: 搜尋地外文明研究所
+        preferred_translation: SETI研究所
+        segments: [301]
+        notes: Stanton Friedman諷刺SETI為「Silly Effort to Investigate」（愚蠢的調查努力）
+
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        segments: [453]
+        notes: 可搭配使用「目擊事件」、「目擊報告」
+
+  - term: Steven Spielberg
+    senses:
+      - id: spielberg_director
+        definition: 美國導演史蒂芬·史匹柏
+        preferred_translation: 史蒂芬·史匹柏
+        segments: [174]
+        notes: 聲稱雷根總統在白宮觀看《E.T.外星人》後表示「螢幕上的一切都是真的」
+
+  # ===== T =====
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        segments: [112, 164, 169, 350, 604, 606]
+        notes: 美國機密等級：Top Secret (最高機密) > Secret (機密) > Confidential (密)
+
+  - term: top-secret Umbra
+    senses:
+      - id: umbra_classification
+        definition: 最高機密Umbra等級，NSA文件的特殊機密分類
+        preferred_translation: 最高機密Umbra
+        segments: [307]
+        notes: Stanton Friedman提到156份此等級的NSA UFO文件可透過FOIA取得
+
+  # ===== U =====
+  - term: U.S. national security policy
+    senses:
+      - id: us_national_security_policy
+        definition: 美國國家安全政策
+        preferred_translation: 美國國家安全政策
+        segments: [77]
+        notes: Richard Dolan研究UFO與此政策的關聯性
+
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [31, 79, 87, 91, 92, 108, 123, 133, 137, 152, 153, 159, 170, 223, 224, 251, 252, 254, 271, 307, 313, 315, 319, 321, 332, 338, 378, 390, 447, 450, 663, 665, 675]
+        notes: 可視語境簡稱「UFO」或使用完整中文
+
+  # ===== W =====
+  - term: Waldorf of Maryland
+    senses:
+      - id: waldorf_maryland_sighting
+        definition: 馬里蘭州沃爾多夫市
+        preferred_translation: 馬里蘭州沃爾多夫
+        segments: [119]
+        notes: 2002年夏天在華盛頓特區附近發生大規模UFO目擊事件的地點
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [242, 267, 416, 499]
+        notes: 聽證會中的核心角色，包括軍事人員、飛行員、平民等
+
+  - term: Wright-Patterson Air Force Base
+    senses:
+      - id: wright_patterson_afb
+        definition: 俄亥俄州代頓市附近的美國空軍基地
+        preferred_translation: 萊特-帕特森空軍基地
+        segments: [99, 416]
+        notes: 傳說中儲存UFO殘骸和外星遺體的地點，Project Blue Book總部，最高頻出現地點

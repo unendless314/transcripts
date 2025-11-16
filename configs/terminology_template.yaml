@@ -1,0 +1,437 @@
+# Terminology Template - UFO Citizen Hearing
+#
+# 此模板定義 UFO Citizen Hearing 系列共用的術語知識。
+# 專注於 UFO 現象、政府/軍事術語、科學概念。
+#
+# Template 結構（人工維護）：
+#   - term: 英文詞彙
+#   - senses: 多義項陣列
+#     - id: 唯一識別碼
+#     - definition: 語義說明
+#     - preferred_translation: 優先譯法
+#     - notes: 補充說明
+#
+# 重要原則：
+#   ❌ 不要加入 segments 欄位（由分類階段自動產生）
+#   ❌ 不要加入 episode_id（template 跨集數通用）
+#   ✅ 只定義術語的語義與譯法
+#   ✅ 詞彙按字母順序 (A-Z) 排列
+
+terms:
+  # ===== A =====
+  - term: Abductee
+    senses:
+      - id: abductee_et_victim
+        definition: 被外星存有綁架或強制接觸的人
+        preferred_translation: 被綁架者
+        notes: 指稱聲稱遭遇外星綁架經歷的證人
+
+  - term: Ancient Aliens
+    senses:
+      - id: ancient_aliens_theory
+        definition: 遠古文明與外星種族互動的理論或概念
+        preferred_translation: 遠古外星人
+        notes: 指史前時期可能的外星訪問與文明影響
+
+  - term: Apollo 14
+    senses:
+      - id: apollo_14_mission
+        definition: 美國第三次成功登月的太空任務（1971年）
+        preferred_translation: 阿波羅 14 號
+        notes: Dr. Edgar Mitchell 參與的登月任務
+
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施
+        preferred_translation: 51 區
+        notes: 與 UFO 和先進航空技術研發相關的傳說地點，出現頻率極高
+
+  # ===== B =====
+  - term: Being
+    senses:
+      - id: being_extraterrestrial
+        definition: 外星生命體或智慧存在
+        preferred_translation: 存有
+        notes: 證詞中提到的外星生命體，可補充為「外星存有」
+
+  - term: Breakaway civilization
+    senses:
+      - id: breakaway_civilization_secret
+        definition: 脫離主流社會、掌握先進科技的秘密人類文明
+        preferred_translation: 脫離文明
+        notes: 指源於地球但已脫離地表文明、掌握星際旅行技術的秘密人類群體
+
+  # ===== C =====
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        notes: 美國主要情報機構，參與UFO調查與保密工作，高頻出現
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        notes: 常見分類：Top Secret (絕密)、Secret (機密)、Confidential (密)
+
+  - term: Close Encounter
+    senses:
+      - id: close_encounter_ufo
+        definition: 近距離目擊或接觸 UFO 的經歷
+        preferred_translation: 近距離接觸
+        notes: 分類：第一類（目擊）、第二類（物理效應）、第三類（實體）、第四類（綁架）
+
+  - term: COMETA Report
+    senses:
+      - id: cometa_report_french
+        definition: 法國高層軍事和情報官員撰寫的UFO研究報告（1999年）
+        preferred_translation: COMETA報告
+        notes: 法國高層研究，結論認為某些UFO可能是外星飛行器
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        notes: 保持客觀中性語調，避免「政府掩蓋」等對立性用詞。上下文明確時可簡化為「掩蓋」
+
+  # ===== D =====
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        notes: 與「真相掩蓋」(cover-up) 形成對仗概念，常指政府或官方的公開承認
+
+  - term: Disclosure Project
+    senses:
+      - id: disclosure_project_greer
+        definition: 由Dr. Steven Greer發起的UFO揭露運動
+        preferred_translation: 揭露計畫
+        notes: 首次出現時可補充說明「揭露計畫（Disclosure Project，旨在揭露UFO真相的運動）」，後續使用「揭露計畫」。2001年在國家記者俱樂部舉辦重大記者會，多集出現
+
+  # ===== E =====
+  - term: EBE
+    senses:
+      - id: ebe_entity
+        definition: Extraterrestrial Biological Entity，外星生物實體
+        preferred_translation: 外星生物實體
+        notes: 美國軍方對外星生命的官方代號，可簡稱EBE
+
+  - term: Entity
+    senses:
+      - id: entity_unknown
+        definition: 不明屬性的存在或生命體（通常指外星或跨維度存在）
+        preferred_translation: 實體
+        notes: 證詞中用於描述未知來源的智慧存在
+
+  - term: Executive Order 12958
+    senses:
+      - id: eo_12958_clinton
+        definition: 柯林頓總統1995年簽署的解密行政命令
+        preferred_translation: 行政命令12958
+        notes: 解密了8億頁文件，但UFO文件仍未公開，多集提及
+
+  - term: Experiencer
+    senses:
+      - id: experiencer_ufo_contact
+        definition: 有過 UFO 或外星接觸經歷的人（強調經歷而非受害）
+        preferred_translation: 外星接觸體驗者
+        notes: 與 Abductee（被綁架者）相對，更中性的稱呼
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        notes: 名詞用法可譯為「外星人」、「外星生命」
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        notes: 較早期的用語，後被 UFO 取代但仍常見於證詞中
+
+  - term: FOIA
+    senses:
+      - id: foia_law
+        definition: Freedom of Information Act，美國資訊自由法
+        preferred_translation: 資訊自由法
+        notes: 首次出現使用全名，後續可簡稱 FOIA
+
+  # ===== G =====
+  - term: Grey
+    senses:
+      - id: grey_alien_type
+        definition: 小型灰色外星人，通常具有大眼睛和小身軀
+        preferred_translation: 灰人
+        notes: 最常見於綁架案例中的外星人類型
+
+  # ===== H =====
+  - term: Hybrid
+    senses:
+      - id: hybrid_human_alien
+        definition: 由人類與外星基因結合而成的生命
+        preferred_translation: 混種
+        notes: 指人類-外星混血或基因工程產物
+
+  # ===== I =====
+  - term: Implants
+    senses:
+      - id: implants_alien_device
+        definition: 外星存有植入人體的裝置或追蹤器
+        preferred_translation: 植入物
+        notes: 常見於綁架案例中，可能具有追蹤、通訊或監控功能
+
+  - term: Interdimensional
+    senses:
+      - id: interdimensional_travel
+        definition: 涉及跨越不同維度或次元的
+        preferred_translation: 跨維度
+        notes: 部分理論認為 UFO 來自其他維度而非外太空
+
+  # ===== K =====
+  - term: Kirtland Air Force Base
+    senses:
+      - id: kirtland_afb
+        definition: 新墨西哥州阿布奎基的美國空軍基地
+        preferred_translation: 柯特蘭空軍基地
+        notes: 與UFO目擊事件和核武設施相關，Linda Moulton Howe在此看到機密文件
+
+  # ===== M =====
+  - term: MJ-12
+    senses:
+      - id: mj12_group
+        definition: Majestic 12，傳說中的秘密政府 UFO 調查組織
+        preferred_translation: MJ-12
+        notes: 全稱 Majestic 12，代號不翻譯。首次出現時可補充「MJ-12（Majestic 12）」，後續簡稱 MJ-12
+
+  - term: MUFON
+    senses:
+      - id: mufon_network
+        definition: Mutual UFO Network，共同UFO網絡
+        preferred_translation: MUFON（UFO 互動網絡）
+        notes: 全球最大的UFO研究組織之一，跨集數高頻出現
+
+  # ===== N =====
+  - term: National Press Club
+    senses:
+      - id: npc_venue
+        definition: 華盛頓特區的專業記者組織
+        preferred_translation: 國家記者俱樂部
+        notes: 多次舉辦UFO相關記者會的場地，揭露計畫2001年記者會地點
+
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        notes: 常用於解釋 UFO 資訊保密的官方理由
+
+  # ===== P =====
+  - term: Phoenix Lights
+    senses:
+      - id: phoenix_lights_event
+        definition: 1997 年發生於美國亞利桑那州鳳凰城的大規模 UFO 目擊事件
+        preferred_translation: 鳳凰城光點事件
+        notes: UFO 史上最知名的大規模目擊案例之一
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        notes: 官方調查 UFO 的代表性計畫，跨集數高頻出現
+
+  - term: Project Pounce
+    senses:
+      - id: project_pounce_retrieval
+        definition: 據稱的軍方UFO回收小組
+        preferred_translation: 突襲計畫
+        notes: 負責搶救墜毀的不明飛行物，與Project Moon Dust類似
+
+  # ===== R =====
+  - term: Rockefeller Initiative
+    senses:
+      - id: rockefeller_initiative_1990s
+        definition: 1990年代Laurance Rockefeller推動的UFO揭露行動
+        preferred_translation: 洛克菲勒倡議
+        notes: 試圖說服柯林頓政府解密UFO文件，跨集數重要議題
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        notes: UFO 史上最著名的事件，所有集數都會提及
+
+  # ===== S =====
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        notes: 可搭配使用「目擊事件」、「目擊報告」
+
+  # ===== T =====
+  - term: Telepathic
+    senses:
+      - id: telepathic_communication
+        definition: 透過心靈感應進行的溝通方式
+        preferred_translation: 心靈感應的
+        notes: 許多證詞提到與外星存有的心靈溝通
+
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        notes: 美國機密等級：Top Secret (最高機密) > Secret (機密) > Confidential (密)
+
+  # ===== U =====
+  - term: UAP
+    senses:
+      - id: uap_phenomenon
+        definition: Unidentified Aerial Phenomena，不明空中現象
+        preferred_translation: 不明空中現象
+        notes: 美國政府近年較常使用的官方術語，取代 UFO
+
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        notes: 可視語境簡稱「UFO」或使用完整中文
+
+  - term: USAP
+    senses:
+      - id: usap_project
+        definition: Unacknowledged Special Access Project，未公開的特別訪問項目
+        preferred_translation: 未公開特別訪問項目
+        notes: 連國會都不知道存在的高度機密計畫，可簡稱USAP
+
+  # ===== W =====
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        notes: 聽證會中的核心角色，包括軍事人員、飛行員、平民等
+
+  - term: Wright-Patterson Air Force Base
+    senses:
+      - id: wright_patterson_afb
+        definition: 俄亥俄州代頓市附近的美國空軍基地
+        preferred_translation: 萊特-帕特森空軍基地
+        notes: 傳說中儲存UFO殘骸和外星遺體的地點，Project Blue Book總部，最高頻出現地點
+
+  # ========================================
+  # 重要人名（依姓氏字母排序）
+  # ========================================
+
+  # ----- 研究者/證人 -----
+  - term: Dr. Steven Greer
+    senses:
+      - id: greer_researcher
+        definition: 急診醫師、UFO研究者，揭露計畫創始人
+        preferred_translation: 史蒂芬·格里爾博士
+        notes: Disclosure Project發起人，多集重要證人
+
+  - term: Richard Dolan
+    senses:
+      - id: dolan_historian
+        definition: 歷史學家，UFO研究專家
+        preferred_translation: 理查德·多蘭
+        notes: 著有UFOs and the National Security State系列，多集證人
+
+  - term: Grant Cameron
+    senses:
+      - id: cameron_researcher
+        definition: UFO研究者，專注於美國總統對UFO的了解
+        preferred_translation: 格蘭特·卡麥隆
+        notes: 運營President's UFO website，跨集數高頻證人
+
+  - term: Linda Moulton Howe
+    senses:
+      - id: howe_journalist
+        definition: 調查記者，以動物肢解案件研究聞名
+        preferred_translation: 琳達·莫爾頓·豪
+        notes: 艾美獎得主，製作A Strange Harvest紀錄片，多集證人
+
+  - term: Daniel Sheehan
+    senses:
+      - id: sheehan_attorney
+        definition: 律師，曾處理多起重大案件
+        preferred_translation: 丹尼爾·希恩
+        notes: 參與五角大樓文件案、凱倫·西爾克伍德案、伊朗門事件，多集證人
+
+  - term: Dr. Edgar Mitchell
+    senses:
+      - id: mitchell_astronaut
+        definition: 阿波羅14號太空人，第六位登月者
+        preferred_translation: 艾德加·米切爾博士
+        notes: 公開支持UFO揭露的太空人
+
+  - term: Paul Hellyer
+    senses:
+      - id: hellyer_minister
+        definition: 加拿大前國防部長
+        preferred_translation: 保羅·赫勒
+        notes: 公開承認外星生命存在的高級政府官員
+
+  # ----- 政府/軍方官員 -----
+  - term: President Carter
+    senses:
+      - id: carter_president
+        definition: 美國第39任總統吉米·卡特
+        preferred_translation: 卡特總統
+        notes: 曾親眼目擊UFO，嘗試取得UFO資訊但被拒
+
+  - term: President Clinton
+    senses:
+      - id: clinton_president
+        definition: 美國第42任總統比爾·柯林頓
+        preferred_translation: 柯林頓總統
+        notes: 在羅克菲勒倡議下嘗試解密UFO文件
+
+  - term: Webster Hubbell
+    senses:
+      - id: hubbell_official
+        definition: 柯林頓政府司法部副部長
+        preferred_translation: 韋伯斯特·哈貝爾
+        notes: 柯林頓要求他調查兩件事：UFO和甘迺迪遇刺，跨集數出現
+
+  - term: John Podesta
+    senses:
+      - id: podesta_official
+        definition: 白宮幕僚長，歐巴馬顧問
+        preferred_translation: 約翰·波德斯達
+        notes: 公開支持UFO資訊揭露的政府高層
+
+  - term: Laurance Rockefeller
+    senses:
+      - id: rockefeller_philanthropist
+        definition: 億萬富翁慈善家
+        preferred_translation: 勞倫斯·洛克菲勒
+        notes: 1990年代資助UFO研究並遊說柯林頓政府揭露資訊，跨集數核心人物
+
+  # ----- 記者/媒體 -----
+  - term: George Knapp
+    senses:
+      - id: knapp_journalist
+        definition: 拉斯維加斯調查記者
+        preferred_translation: 喬治·奈普
+        notes: 首次報導51區和Bob Lazar的記者，跨集數出現
+
+  # ----- 軍工企業人士 -----
+  - term: Ben Rich
+    senses:
+      - id: rich_engineer
+        definition: 洛克希德臭鼬工廠主管
+        preferred_translation: 班·里奇
+        notes: 傳聞曾表示「我們已經擁有星際旅行的技術」，多集提及
