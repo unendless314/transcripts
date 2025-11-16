@@ -36,4 +36,4 @@ dist/
 *~
 
 # Claude Code
-.claude/
+# (no longer ignoring .claude/ - skills are now tracked)
