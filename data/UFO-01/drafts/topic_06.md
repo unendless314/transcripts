@@ -184,7 +184,7 @@
 → {"text": "有幾件事，非常感謝您的證詞，非常、非常好，非常好。", "confidence": "high", "notes": ""}
 
 443. Mr. Freeman, you were going to answer or add something to what Congressman Woolsey said, I'll give you that opportunity for a minute of my time if you'd like.
-→ {"text": "Freeman 先生，您要回答或補充一些關於 Woolsey 議員所說的話，如果您願意，我可以給您一分鐘時間。", "confidence": "medium", "notes": "Mr. Freeman likely refers to Friedman"}
+→ {"text": "Friedman 先生，您要回答或補充一些關於 Woolsey 議員所說的話，如果您願意，我可以給您一分鐘時間。", "confidence": "high", "notes": "原文 Mr. Freeman 應為 Mr. Friedman（核子物理學家 Stanton Friedman）"}
 
 
 ## Speaker Group 10
@@ -874,7 +874,7 @@
 → {"text": "到二戰結束時，有三件事告訴我們來自外太空的訪客，我們很快就會去那裡，這會讓他們嚇壞了，因為我們是如此原始的社會。", "confidence": "high", "notes": ""}
 
 634. Dark bombs, powerful rockets used to kill, not to deliver the mail, as some people said they would, and powerful radar at the beginning of the electronics revolution.
-→ {"text": "黑暗炸彈、用於殺戮而非像有些人說的那樣用於遞送郵件的強大火箭，以及電子革命開始時的強大雷達。", "confidence": "medium", "notes": "Dark bombs likely refers to atomic bombs"}
+→ {"text": "原子彈、用於殺戮而非像有些人說的那樣用於遞送郵件的強大火箭，以及電子革命開始時的強大雷達。", "confidence": "high", "notes": "原文 Dark bombs 指的是原子彈"}
 
 635. The only place in the world in July 1947 where you could check out all three of those was southeastern New Mexico, which is where Roswell is.
 → {"text": "1947 年 7 月世界上唯一可以檢查這三者的地方是新墨西哥州東南部，那就是羅斯威爾所在的地方。", "confidence": "high", "notes": ""}

@@ -22,13 +22,13 @@
 → {"text": "第二，毫無疑問，無論在美國還是海外，各國政府內部都有少數人一直在積極掩蓋這些造訪的真相。", "confidence": "high", "notes": ""}
 
 213. There really is a cosmic water gate.
-→ {"text": "確實存在著一個宇宙水門事件 (cosmic water gate)。", "confidence": "high", "notes": ""}
+→ {"text": "確實存在著一個宇宙水門案 (cosmic water gate)。", "confidence": "high", "notes": ""}
 
 214. Three, there are no good arguments against these conclusions, only people who haven't studied the relevant evidence.
 → {"text": "第三，沒有任何有力的論據可以反駁這些結論，只有那些尚未研究過相關證據的人才會質疑。", "confidence": "high", "notes": ""}
 
 215. And four, flying saucer visitations and the cosmic water gate represent the biggest story of the millennium.
-→ {"text": "第四，飛碟造訪與宇宙水門事件代表著千禧年來最重大的新聞。", "confidence": "high", "notes": ""}
+→ {"text": "第四，飛碟造訪與宇宙水門案代表著千禧年來最重大的新聞。", "confidence": "high", "notes": ""}
 
 216. And I should say that I prefer the term flying saucer because all flying saucers are UFOs.
 → {"text": "我應該說，我更喜歡使用「飛碟」這個詞，因為所有飛碟都是不明飛行物。", "confidence": "high", "notes": ""}
@@ -46,7 +46,7 @@
 → {"text": "這些結論的依據是，第一，至少有五項大規模科學研究提供了實質證據。", "confidence": "high", "notes": ""}
 
 221. These include Project Blue Book Special Report Number 14, the largest study ever done for the United States Air Force, covering more than 3,200 cases with more than 200 charts, tables, graphs, and maps.
-→ {"text": "其中包括 Project Blue Book Special Report Number 14，這是為美國空軍進行的最大規模研究，涵蓋超過 3,200 個案例，包含超過 200 個圖表、表格、圖形與地圖。", "confidence": "high", "notes": ""}
+→ {"text": "其中包括藍皮書計畫特別報告14號 (Project Blue Book Special Report Number 14)，這是為美國空軍進行的最大規模研究，涵蓋超過 3,200 個案例，包含超過 200 個圖表、表格、圖形與地圖。", "confidence": "high", "notes": ""}
 
 222. It is quality evaluation, cross-comparison between unknowns and knowns.
 → {"text": "這是一個質量評估，對未知案例與已知案例進行交叉比較。", "confidence": "high", "notes": ""}
@@ -55,19 +55,19 @@
 → {"text": "官方新聞稿對數據撒了謊——我稍後會證明這點——而 UFO 揭穿者幾乎從不引用這份報告。", "confidence": "high", "notes": ""}
 
 224. Dr. Carl Sagan, we were classmates at the University of Chicago, claimed there are interesting UFO sightings that are not reliable, and reliable UFO sightings that are not interesting.
-→ {"text": "Dr. Carl Sagan——我們是芝加哥大學的同學——聲稱有些有趣的 UFO 目擊事件並不可靠，而可靠的 UFO 目擊事件又不有趣。", "confidence": "high", "notes": ""}
+→ {"text": "卡爾·薩根博士 (Dr. Carl Sagan)——我們是芝加哥大學的同學——聲稱有些有趣的 UFO 目擊事件並不可靠，而可靠的 UFO 目擊事件又不有趣。", "confidence": "high", "notes": ""}
 
 225. But there are no cases that are both reliable and interesting.
 → {"text": "但沒有任何案例同時具備可靠性和趣味性。", "confidence": "high", "notes": ""}
 
 226. This statement was not backed up by reference to data, but is directly contradicted by the Blue Book Special Report 14 data.
-→ {"text": "這個說法並沒有數據支持，反而與 Blue Book Special Report 14 的數據直接矛盾。", "confidence": "high", "notes": ""}
+→ {"text": "這個說法並沒有數據支持，反而與藍皮書特別報告14號的數據直接矛盾。", "confidence": "high", "notes": ""}
 
 227. It was found that the more reliable the case, the more likely to be unexplainable.
 → {"text": "研究發現，案例越可靠，就越可能無法解釋。", "confidence": "high", "notes": ""}
 
 228. United States Air Force Secretary Donald Quarles, in the very widely distributed press release when the 1955 study was completed, flat out lied, it's a strong statement and I'm sorry to make it, but it's true.
-→ {"text": "美國空軍部長 Donald Quarles 在 1955 年研究完成時發布的廣為流傳的新聞稿中公然撒謊——這是一個強烈的指控，我很抱歉要這麼說，但這是事實。", "confidence": "high", "notes": ""}
+→ {"text": "美國空軍部長唐納德·夸爾斯 (Donald Quarles) 在 1955 年研究完成時發布的廣為流傳的新聞稿中公然撒謊——這是一個強烈的指控，我很抱歉要這麼說，但這是事實。", "confidence": "high", "notes": ""}
 
 229. He stated, "We believe that no objects such as those properly described as flying saucers have overflown the United States.
 → {"text": "他聲稱：「我們相信，沒有任何可以被正確描述為飛碟的物體飛越過美國。", "confidence": "high", "notes": ""}
@@ -85,7 +85,7 @@
 → {"text": "此外，對未知案例與已知案例的統計比較顯示，未知案例只是誤認已知現象的機率低於 1%。", "confidence": "high", "notes": ""}
 
 234. It must further be noted that the press release did not give the title of the report or the company that did the work, Battelle Memorial Institute.
-→ {"text": "還必須注意的是，新聞稿並未給出報告的標題，也沒有提到執行這項工作的公司——Battelle Memorial Institute。", "confidence": "high", "notes": ""}
+→ {"text": "還必須注意的是，新聞稿並未給出報告的標題，也沒有提到執行這項工作的公司——巴特爾紀念研究所 (Battelle Memorial Institute)。", "confidence": "high", "notes": ""}
 
 235. If they'd given the title, surely some newsman would have said, "Hey, what happened to reports one through 13?"
 → {"text": "如果他們公布了報告標題，肯定會有記者問：「嘿，第 1 到第 13 號報告呢？」", "confidence": "high", "notes": ""}
@@ -106,7 +106,7 @@
 → {"text": "另一個你們都應該感興趣的寶貴數據主要來源，是 1968 年 7 月 29 日的國會聽證會，其中包括 12 位科學家的證詞。", "confidence": "high", "notes": ""}
 
 241. The most important paper was by Dr. James E. McDonald, professor of physics at the University of Arizona.
-→ {"text": "最重要的論文是由亞利桑那大學物理學教授 Dr. James E. McDonald 提交的。", "confidence": "high", "notes": ""}
+→ {"text": "最重要的論文是由亞利桑那大學物理學教授詹姆斯·E·麥克唐納博士 (Dr. James E. McDonald) 提交的。", "confidence": "high", "notes": ""}
 
 242. He had talked to 500 witnesses, but he presented 41 outstanding cases, including multiple witness radar visual sightings, sightings by pilots, by astronomers, by meteorologists.
 → {"text": "他訪談了 500 名目擊者，但他呈現了 41 個傑出案例，包括多名目擊者的雷達視覺目擊、飛行員目擊、天文學家目擊、以及氣象學家目擊。", "confidence": "high", "notes": ""}
@@ -133,13 +133,13 @@
 → {"text": "順帶一提，這些聽證會記錄至今仍可在線上取得。", "confidence": "high", "notes": ""}
 
 250. One of the contributors was Dr. J. Allen Hynek, chairman of the astronomy department at Northwestern University, and for 20 years, United States Air Force scientific consultant to Project Blue Book.
-→ {"text": "其中一位貢獻者是 Dr. J. Allen Hynek，他是西北大學天文學系主任，並且擔任美國空軍 Project Blue Book 的科學顧問長達 20 年。", "confidence": "high", "notes": ""}
+→ {"text": "其中一位貢獻者是 Dr. J. Allen Hynek，他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。", "confidence": "high", "notes": ""}
 
 251. His book, The UFO Experience, a Scientific Inquiry, should be required reading by anybody who's going to talk about flying saucers, especially negatively.
 → {"text": "他的書《The UFO Experience, a Scientific Inquiry》應該是任何要談論飛碟的人——特別是持負面態度的人——的必讀讀物。", "confidence": "high", "notes": ""}
 
 252. According to another source here, according to a special UFO subcommittee of the American Institute of Aeronautics and Astronautics, world's largest group of space scientists, 30% of the 117 cases studied by the University of Colorado, government-sponsored study in the late '60s, and discussed in the Condon Report, Edward U. Condon, could not be identified, and yet the headline said, "Scientific study shows no UFOs."
-→ {"text": "根據另一個資料來源，根據美國航空航天學會——世界最大的太空科學家團體——的 UFO 特別小組委員會，科羅拉多大學在 60 年代後期進行的政府資助研究中所研究的 117 個案例中，有 30% 無法被識別，而這些案例在 Edward U. Condon 的 Condon Report 中有討論，但頭條卻寫著「科學研究顯示沒有 UFO」。", "confidence": "high", "notes": ""}
+→ {"text": "根據另一個資料來源，根據美國航空航天學會——世界最大的太空科學家團體——的 UFO 特別小組委員會，科羅拉多大學在 60 年代後期進行的政府資助研究中所研究的 117 個案例中，有 30% 無法被識別，而這些案例在 Edward U. Condon 的康登報告 (Condon Report) 中有討論，但頭條卻寫著「科學研究顯示沒有 UFO」。", "confidence": "high", "notes": ""}
 
 253. Totally untrue.
 → {"text": "完全不真實。", "confidence": "high", "notes": ""}
@@ -148,7 +148,7 @@
 → {"text": "有一份名為《UFO Evidence》的兩卷報告，其中包含大量數據，數百個無法識別的案例。", "confidence": "high", "notes": ""}
 
 255. There's also the COMETA Report from France, which goes into numerous excellent officially involved cases in France.
-→ {"text": "還有來自法國的 COMETA Report，其中詳細介紹了許多由法國官方參與的優秀案例。", "confidence": "high", "notes": ""}
+→ {"text": "還有來自法國的COMETA報告 (COMETA Report)，其中詳細介紹了許多由法國官方參與的優秀案例。", "confidence": "high", "notes": ""}
 
 256. There are a dozen PhD theses about UFOs.
 → {"text": "有十幾篇關於 UFO 的博士論文。", "confidence": "high", "notes": ""}
@@ -277,7 +277,7 @@
 → {"text": "進步來自於用不同的方式做事。", "confidence": "high", "notes": ""}
 
 298. A second problem I have found, I worked under security for 14 years for major companies like GE, GM, Westinghouse, McDonald Douglas, TRW systems, Aerojet-General Nucleonics, I set a record for working on cancelled government sponsored research and development programs.
-→ {"text": "我發現的第二個問題是，我曾在保密條件下為 GE、GM、Westinghouse、McDonald Douglas、TRW systems、Aerojet-General Nucleonics 等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。", "confidence": "high", "notes": ""}
+→ {"text": "我發現的第二個問題是，我曾在保密條件下為 GE、GM、Westinghouse、McDonald Douglas、TRW systems、Aerojet-General Nucleonics 等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。", "confidence": "high", "notes": "原文「aerogenerals, nucleonics」為 Whisper 轉錄錯誤，已修正為 Aerojet-General Nucleonics（航空噴射通用核子公司）"}
 
 299. Not intentionally, you understand.
 → {"text": "你要理解，這不是故意的。", "confidence": "high", "notes": ""}
@@ -286,7 +286,7 @@
 → {"text": "另一個錯誤的迷思是，政府無法保守秘密。", "confidence": "high", "notes": ""}
 
 301. Two astronomers have demonstrated this, Dr. Seth Shostak of the SETI Institute, S-E-T-I, that stands for Silly Effort to Investigate, incidentally, that's another story which I've written about in the book, said you can prove that the government can't keep secrets by how badly FEMA fouled up with Katrina and how poorly the post offices operated.
-→ {"text": "兩位天文學家展示了這一點，SETI Institute 的 Dr. Seth Shostak——S-E-T-I，順帶一提，我把它理解為「愚蠢的調查努力」，這是我在書中寫過的另一個故事——他說你可以通過 FEMA 在 Katrina 颶風中的糟糕表現以及郵局運作的低效來證明政府無法保守秘密。", "confidence": "high", "notes": ""}
+→ {"text": "兩位天文學家展示了這一點，SETI研究所 (SETI Institute) 的 Dr. Seth Shostak——S-E-T-I，順帶一提，我把它理解為「愚蠢的調查努力」，這是我在書中寫過的另一個故事——他說你可以通過 FEMA 在 Katrina 颶風中的糟糕表現以及郵局運作的低效來證明政府無法保守秘密。", "confidence": "high", "notes": ""}
 
 302. If you can see a connection between either of those things and governments keeping secrets, I sure can't.
 → {"text": "如果你能看出這兩件事與政府保守秘密之間有什麼關聯，我肯定看不出來。", "confidence": "high", "notes": ""}
@@ -295,7 +295,7 @@
 → {"text": "他沒有提到 CIA、DIA、NRO、NSA 以及所有那些字母縮寫的情報機構。", "confidence": "high", "notes": ""}
 
 304. Another great astronomer, Dr. Neil deGrasse Tyson, head of Hayden Planetarium, he said the proof that governments can't keep secrets is shown by how much we know about President Clinton's genitalia.
-→ {"text": "另一位偉大的天文學家，Hayden Planetarium 負責人 Dr. Neil deGrasse Tyson，他說政府無法保守秘密的證據是我們對 Clinton 總統生殖器的了解程度。", "confidence": "high", "notes": ""}
+→ {"text": "另一位偉大的天文學家，Hayden Planetarium 負責人 Dr. Neil deGrasse Tyson，他說政府無法保守秘密的證據是我們對柯林頓總統生殖器的了解程度。", "confidence": "high", "notes": ""}
 
 305. Now if you can figure that one out you're better than I am.
 → {"text": "如果你能理解那個邏輯，你比我強。", "confidence": "high", "notes": ""}
@@ -340,10 +340,10 @@
 → {"text": "我必須告訴你們，等一下，好吧，我不會告訴你們，也許我會在星期二晚上告訴你們。", "confidence": "high", "notes": ""}
 
 319. One more thing, Air Force General Carroll Bolander stated that UFO reports which could affect national security.
-→ {"text": "還有一件事，空軍上將 Carroll Bolander 聲明，可能影響國家安全的 UFO 報告。", "confidence": "high", "notes": ""}
+→ {"text": "還有一件事，空軍卡羅爾·博蘭德將軍 (General Carroll Bolander) 聲明，可能影響國家安全的 UFO 報告。", "confidence": "high", "notes": ""}
 
 320. He was asked to look about what we should do about Project Blue Book, are not part of the Blue Book system.
-→ {"text": "他被要求調查關於 Project Blue Book 應該如何處理，這些報告不是 Blue Book 系統的一部分。", "confidence": "high", "notes": ""}
+→ {"text": "他被要求調查關於藍皮書計畫 (Project Blue Book) 應該如何處理，這些報告不是藍皮書系統的一部分。", "confidence": "high", "notes": ""}
 
 321. UFO reports which could affect national security are not part of the Blue Book system.
 → {"text": "可能影響國家安全的 UFO 報告不是 Blue Book 系統的一部分。", "confidence": "high", "notes": ""}
@@ -358,10 +358,10 @@
 → {"text": "他從未從空軍那裡聽說過這件事。", "confidence": "high", "notes": ""}
 
 325. His job was to decide what to do about Project Blue Book, and it was canceled because of this memo.
-→ {"text": "他的工作是決定如何處理 Project Blue Book，而該計畫因為這份備忘錄而被取消。", "confidence": "high", "notes": ""}
+→ {"text": "他的工作是決定如何處理藍皮書計畫，而該計畫因為這份備忘錄而被取消。", "confidence": "high", "notes": ""}
 
 326. But the public never heard that he said, "Reports which could affect national security are not part of the Blue Book system."
-→ {"text": "但公眾從未聽說他說過：「可能影響國家安全的報告不是 Blue Book 系統的一部分。」", "confidence": "high", "notes": ""}
+→ {"text": "但公眾從未聽說他說過：「可能影響國家安全的報告不是藍皮書系統的一部分。」", "confidence": "high", "notes": ""}
 
 327. People are surprised.
 → {"text": "人們感到驚訝。", "confidence": "high", "notes": ""}

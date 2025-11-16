@@ -106,7 +106,7 @@
 → {"text": "後來我得知，1983 年 4 月 9 日那天，我坐在椅子上閱讀那份簡報文件，以及我對柯特蘭空軍特別調查辦公室探員的回應和提問，全程都被錄影、錄音和拍照記錄下來。", "confidence": "high", "notes": "原文誤為 Curlin，已修正為 Kirtland"}
 
 370. The document had a title all caps on a front page, quote, "Briefing paper for the President of the United States on the subject of unidentified aerial craft."
-→ {"text": "該文件的首頁有一個全大寫標題，原文為：「美利堅合眾國總統不明空中飛行器主題簡報文件」。", "confidence": "high", "notes": ""}
+→ {"text": "該文件的首頁有一個全大寫標題，原文為：「關於不明空中飛行器的美國總統簡報文件」。", "confidence": "high", "notes": ""}
 
 371. And in this document, the phrase unidentified aerial vehicles was also used, UACs and UAVs instead of UFOs.
 → {"text": "在這份文件中，還使用了「不明空中載具」一詞，縮寫為 UAC 和 UAV，而非 UFO。", "confidence": "high", "notes": ""}
