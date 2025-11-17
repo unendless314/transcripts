@@ -772,7 +772,7 @@
 → {"text": "嗯，這個小組實際上已經結束了，下一個小組即將開始，但我總是有一些懸而未決的事情，因為如果我們不能對此做任何事情，如果我們不這樣做，我們正在學習的一切都不會有任何區別。", "confidence": "high", "notes": ""}
 
 528. And in 1995, the Rockefeller-funded conference in Asilomar, my question, as you were talking about it, was, well, what were their goals?
-→ {"text": "而在 1995 年，洛克菲勒資助的在 Asilomar 的會議，我的問題，當您談論它時，是，他們的目標是什麼？", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：\'conference in the Sylmar\' → \'conference in Asilomar\'"}
+→ {"text": "而在 1995 年，洛克菲勒資助的在 Asilomar 的會議，我的問題，當您談論它時，是，他們的目標是什麼？", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：'conference in the Sylmar' → 'conference in Asilomar'"}
 
 529. What did they accomplish?
 → {"text": "他們實現了什麼？", "confidence": "high", "notes": ""}
