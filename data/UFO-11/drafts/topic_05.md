@@ -610,1021 +610,1021 @@
 → {"text": "", "confidence": "", "notes": ""}
 
 673. They are obviously more advanced than we are in their science and hopefully their cultural abilities too, that they can get here from wherever they come from.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們在科學上顯然比我們更先進，希望在文化能力上也是如此，才能從他們的來源地抵達這裡。", "confidence": "high", "notes": ""}
 
 674. It also means that they survive their nuclear destructive abilities too.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這也意味著他們度過了自己的核毀滅能力。", "confidence": "high", "notes": ""}
 
 675. I think any civilization that develops into the space travel has gone through a nuclear age and we're still on the precipice of either surviving or not surviving ours, but it means they did.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我認為任何發展到太空旅行的文明都經歷過核時代，而我們仍然處於生存或毀滅的邊緣，但這意味著他們做到了。", "confidence": "high", "notes": ""}
 
 676. If they can do it, we can also survive our nuclear war-like tendencies.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果他們能做到，我們也能度過我們的核戰爭傾向。", "confidence": "high", "notes": ""}
 
 677. My last final point for me, are you aware through your father or own experiences that we chase their aircraft or we have an occasion and obviously they have traced ours?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我最後一個問題是，您是否透過您父親或自己的經驗得知，我們曾追蹤他們的飛行器，或者他們顯然也曾追蹤我們的？", "confidence": "medium", "notes": ""}
 
 678. Does that exist and if so, why and did we find anything?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這種情況存在嗎？如果存在，為什麼？我們有發現什麼嗎？", "confidence": "high", "notes": ""}
 
 679. Did they catch us or are we gone or what?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們抓到我們了嗎？還是我們逃脫了？還是怎樣？", "confidence": "high", "notes": ""}
 
 680. Well, I just know what I'm reading in the papers.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我只知道我在報紙上讀到的。", "confidence": "high", "notes": ""}
 
 681. Okay, that's okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，沒關係。", "confidence": "high", "notes": ""}
 
 682. Don't speculate.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不要猜測。", "confidence": "high", "notes": ""}
 
 683. I'm just an observer of one event there and I have a lot of theories, but— I bet.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是那個事件的一個觀察者，我有很多理論，但——我相信。", "confidence": "high", "notes": ""}
 
 684. I'll talk to you offline on those.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我會私下跟您談那些。", "confidence": "high", "notes": ""}
 
 685. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 686. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 687. Thank you very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 688. I yield back.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我讓出發言權。", "confidence": "high", "notes": ""}
 
 689. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 690. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 691. I yield back to Congresswoman Lynn Woolsey.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我將發言權交還給眾議員琳恩·伍爾西。", "confidence": "high", "notes": ""}
 
 692. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 693. There's just so much and it's—you just—you, Marcells, I mean, don't you all worry that this isn't going to be resolved in your lifetime?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事情實在太多了，而且——你們只是——你們，馬塞爾家族，我的意思是，你們難道不擔心這件事在你們有生之年無法獲得解決嗎？", "confidence": "high", "notes": ""}
 
 694. I mean, good grief, tick, tick, tick.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的意思是，天啊，滴答，滴答，滴答。", "confidence": "high", "notes": ""}
 
 695. Here we are.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們就在這裡。", "confidence": "high", "notes": ""}
 
 696. I mean, what—you know, gray hair and gray hair and— I'm 76.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的意思是，什麼——你知道的，白髮和白髮，還有——我 76 歲了。", "confidence": "high", "notes": ""}
 
 697. Some pretty old people, the three of us, but I mean, then your story, then what happens to your story?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們三個都是相當年邁的人了，但我的意思是，那麼你們的故事呢？你們的故事會發生什麼事？", "confidence": "high", "notes": ""}
 
 698. I mean, it's—and your story, the truth, but it's so much more meaningful when it comes from you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的意思是，這是——而你們的故事，這個真相，但當它來自你們本人時，意義會深刻得多。", "confidence": "high", "notes": ""}
 
 699. Well, as a 76-year-old, you know, I'm no spring chicken, but, you know, I like to tell my story.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，作為一個 76 歲的人，你知道的，我已經不年輕了，但，你知道的，我喜歡講述我的故事。", "confidence": "high", "notes": ""}
 
 700. I don't want to embellish it, not tell exactly what I knew about this, and if people want to believe this, that's okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不想誇大它，只想確切地說出我所知道的，如果人們想相信這件事，那很好。", "confidence": "high", "notes": ""}
 
 701. If they don't want to believe it, that's also okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果他們不想相信，那也沒關係。", "confidence": "high", "notes": ""}
 
 702. That's their opinion.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是他們的意見。", "confidence": "high", "notes": ""}
 
 703. I would certainly like to have the government spill the beans about this while I'm still alive to say, "I told you so," but, I mean, I'd be—but it doesn't matter.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我當然希望政府能在我還活著的時候公開真相，讓我能說「我早就告訴過你們」，但，我的意思是，我會——但這不重要。", "confidence": "high", "notes": ""}
 
 704. I've been there and done that, so I know what it was.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我經歷過那件事，所以我知道那是什麼。", "confidence": "high", "notes": ""}
 
 705. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 706. All of you experts, how many actual ETs have been—I'm going to start saying that instead of the big long word—have been involved in starting with the Roswell and the two years before.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "各位專家，實際上有多少外星人——我要開始用這個詞而不是那個又長又複雜的詞——從羅斯威爾事件開始，以及之前兩年涉及其中？", "confidence": "high", "notes": ""}
 
 707. Wasn't there an actual person—not person—living being, living something as part of that crash before you said that somebody was offered to go in and see, you know, the remains of something?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "難道沒有一個實際的人——不是人——生命體，某種活著的東西，作為那次墜毀的一部分，在你們說有人被允許進去看，你知道的，某種遺體之前？", "confidence": "medium", "notes": ""}
 
 708. The story was, Walter Haught, as the public information officer, had issued the press release saying that he had retrieved a crash-flying saucer.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "故事是這樣的，Walter Haught 作為公共資訊官，發布了新聞稿，說他已經取得了一個墜毀的飛碟。", "confidence": "high", "notes": ""}
 
 709. In the years that followed, he just said, "All I did was write the press release."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在隨後的幾年裡，他只是說：「我所做的只是寫新聞稿。」", "confidence": "high", "notes": ""}
 
 710. Right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 711. Upon his, Don Schmidt and Tom Carey put together, working with Walter Haught and his family, put together an affidavit to be released after he passed away, giving much more information, and he talked about having actually seen the bodies of the aliens and more about that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在他過世後，Don Schmidt 和 Tom Carey 與 Walter Haught 及其家人合作，整理了一份宣誓書，提供了更多資訊，他談到實際上見過外星人的遺體以及更多相關細節。", "confidence": "high", "notes": ""}
 
 712. The important thing was this Richard Harris, who was a financial officer at Roswell in 1947, told me long before Walter admitted to that, that Walter had taken—or seen him in a hangar and said, "If you want to see something really incredible, it's beyond that door," and Harris didn't want to go in there and see the bodies, but it was the body of the alien craft.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "重要的是，Richard Harris 在 1947 年是羅斯威爾的財務官，早在 Walter 承認之前就告訴我，Walter 曾帶他——或者在機庫裡見到他，說：「如果你想看到真正令人難以置信的東西，就在那扇門後面。」Harris 不想進去看遺體，但那是外星飛行器的主體。", "confidence": "medium", "notes": ""}
 
 713. The other part of the question is, did one survive the crash?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "問題的另一部分是，有一個生還墜毀嗎？", "confidence": "high", "notes": ""}
 
 714. There has been testimony from a number of witnesses, yes, that one survived the craft and was in captivity.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，有許多證人的證詞指出，有一個從飛行器中生還並被囚禁。", "confidence": "high", "notes": ""}
 
 715. I hesitate to use that word because it really wasn't in captivity, but it was held for a number of years.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不太想用「囚禁」這個詞，因為它實際上不是被囚禁，而是被扣留了數年。", "confidence": "high", "notes": ""}
 
 716. Can you think of anything that would be more lonely than that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你能想到比這更孤獨的事情嗎？", "confidence": "high", "notes": ""}
 
 717. You're an alien creature on a planet.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你是一個星球上的外星生物。", "confidence": "high", "notes": ""}
 
 718. You have absolutely no possibility of getting home.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你完全沒有回家的可能性。", "confidence": "high", "notes": ""}
 
 719. You're dealing with a bunch of sentient beings that do not understand you, your culture, or your language, and you're stuck on this planet without any hope of rescue.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你要與一群不理解你、你的文化或你的語言的有知覺生物打交道，而你被困在這個星球上，沒有任何獲救的希望。", "confidence": "high", "notes": ""}
 
 720. It sounds like a Steven Spielberg movie.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "聽起來像史蒂芬·史匹柏的電影。", "confidence": "high", "notes": ""}
 
 721. But the point is, there is some testimony that suggests that one may have survived for a period of time.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但重點是，有一些證詞表明，有一個可能存活了一段時間。", "confidence": "high", "notes": ""}
 
 722. I believe the date of its supposed death was in 1952.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我相信它據稱的死亡日期是在 1952 年。", "confidence": "high", "notes": ""}
 
 723. Well, since then, okay, since then?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，從那之後呢，好的，從那之後？", "confidence": "high", "notes": ""}
 
 724. One of the things beyond first-hand witnesses to the materials, to the wreckage, to the characteristics that even by today's standards defy conventional explanation have been, sadly, but also much to the credit, again, of the witnesses in maintaining that sacred oath to the Constitution, that so many of them, to their very deathbeds, before they would finally confide to their spouses, to their children, and invariably, they all talk about the little people, the little men.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "除了親眼目睹材料、殘骸以及即使以今日標準也無法用常規解釋的特徵的第一手證人之外，令人遺憾但也非常值得讚揚的是，這些證人堅守對憲法的神聖誓言，他們中的許多人直到臨終前才向配偶、子女吐露，而他們無一例外地都談到小人、小矮人。", "confidence": "high", "notes": ""}
 
 725. They all describe either having been out at the site and having witnessed the bodies, or they were posted at the hangar, P3, Building 84, at the Roswell Army Airfield, where they were on guard, and they would observe the wooden crates being assembled and the bodies being placed into these boxes before being shipped out.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們都描述要麼曾在現場目睹遺體，要麼被派駐在羅斯威爾陸軍航空基地的 P3 機庫、84 號建築，在那裡站崗時，他們會觀察到木箱被組裝起來，遺體被放入這些箱子中，然後被運出。", "confidence": "high", "notes": ""}
 
 726. Shipped out to where?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "運到哪裡？", "confidence": "high", "notes": ""}
 
 727. Well, we have the documentation, again, and we have the eyewitness testimony right field in Dayton, Ohio.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我們再次擁有文件記錄，以及俄亥俄州代頓萊特機場的目擊證詞。", "confidence": "medium", "notes": ""}
 
 728. We have the late Brigadier General Arthur Exon, who was with Foreign Technology Division, which did the testing, the reverse engineering of captured weaponry and armory from World War II.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們有已故的准將 Arthur Exon，他曾在外國技術部門工作，該部門負責測試、逆向工程二戰中繳獲的武器和軍械。", "confidence": "high", "notes": ""}
 
 729. So it made perfect sense that you had something crash of either foreign or something beyond that design.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以很合理的是，如果有什麼東西墜毀，無論是外國的還是超越那種設計的東西。", "confidence": "high", "notes": ""}
 
 730. It would go to foreign technology.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它會被送到外國技術部門。", "confidence": "high", "notes": ""}
 
 731. And Exon described, not firsthand, but that he was aware of the fact that when the materials from Roswell arrived, when they came in, it was the first impression, because no one was able to recognize this wreckage, that it most likely was Soviet.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Exon 描述說，雖然不是第一手資料，但他知道當羅斯威爾的材料抵達時，第一印象是，因為沒有人能辨認出這個殘骸，最有可能是蘇聯的。", "confidence": "high", "notes": ""}
 
 732. But after it was tested, he described that there was a unanimous consensus that the materials had to be from space.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但在測試後，他描述說達成了一致共識，認為這些材料必定來自太空。", "confidence": "high", "notes": ""}
 
 733. So any of that recently?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那麼最近有任何相關的嗎？", "confidence": "high", "notes": ""}
 
 734. I mean, that was quite a while ago.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的意思是，那是很久以前的事了。", "confidence": "high", "notes": ""}
 
 735. We've conducted to date three archaeological digs at the debris field site, the very site that had this huge debris field that canvassed an area of almost three quarters of a mile long, hundreds of feet wide.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們迄今已在殘骸場地點進行了三次考古挖掘，就是那個擁有巨大殘骸場的地點，覆蓋了近四分之三英里長、數百英尺寬的區域。", "confidence": "high", "notes": ""}
 
 736. Where is it?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在哪裡？", "confidence": "high", "notes": ""}
 
 737. This is just outside of Corona, New Mexico.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "就在新墨西哥州科羅納郊外。", "confidence": "high", "notes": ""}
 
 738. It's about 65 miles northwest of Roswell.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "距離羅斯威爾西北方約 65 英里。", "confidence": "high", "notes": ""}
 
 739. This is where the rancher first reported the find and then led the two intelligence officers, Major Marcel and the head of counterintelligence, Captain Sheridan Cavitt.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是牧場主人首次報告發現的地方，然後帶領兩位情報官——Marcel 少校和反情報部隊負責人 Sheridan Cavitt 上尉前往。", "confidence": "high", "notes": ""}
 
 740. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 741. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 742. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 743. Thank you very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 744. Thank you, Congressman.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝，眾議員。", "confidence": "high", "notes": ""}
 
 745. Did your father, Colonel, mention seeing bodies?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "上校，您父親有提到看見遺體嗎？", "confidence": "high", "notes": ""}
 
 746. Actually, the closest that came to it, my wife asked me one day, "Did you see the bodies?"
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "實際上，最接近的情況是，有一天我妻子問我：「你看到遺體了嗎？」", "confidence": "high", "notes": ""}
 
 747. And he said, "No, I did not see them myself, but I knew people who did."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說：「不，我本人沒有看到，但我認識看到的人。」", "confidence": "high", "notes": ""}
 
 748. But what?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但什麼？", "confidence": "high", "notes": ""}
 
 749. He knew people who did see the bodies, but he did not see them himself.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他認識確實看到遺體的人，但他本人沒有看到。", "confidence": "high", "notes": ""}
 
 750. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 751. I need a blanket statement right there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我需要一個明確的聲明。", "confidence": "high", "notes": ""}
 
 752. My wife is the one who asked me, finally came out and asked me.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是我妻子問我的，她最終開口問我。", "confidence": "high", "notes": ""}
 
 753. Who were the people that saw the bodies?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那些看到遺體的人是誰？", "confidence": "high", "notes": ""}
 
 754. He did not elaborate, so I'm not sure who he was.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他沒有詳細說明，所以我不確定他是誰。", "confidence": "high", "notes": ""}
 
 755. But to answer the question, no, he did not see the bodies.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但回答這個問題，不，他沒有看到遺體。", "confidence": "high", "notes": ""}
 
 756. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 757. I'm trying to understand the sequence of events, what happened here.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我試圖理解事件的順序，這裡發生了什麼。", "confidence": "high", "notes": ""}
 
 758. You mentioned, Mr. Smith, that they sent two officers there when ordinarily they would have sent some lower level people to investigate.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Schmidt 先生，您提到他們派了兩名軍官到那裡，而通常他們會派一些低階人員去調查。", "confidence": "high", "notes": ""}
 
 759. What was unusual, when they simply got the word from the rancher that something had crashed, why would they think that was unusual enough to send officers?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有什麼不尋常的地方，當他們只是從牧場主人那裡得知有東西墜毀時，為什麼他們會認為這不尋常到需要派遣軍官？", "confidence": "high", "notes": ""}
 
 760. That is the question.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是問題所在。", "confidence": "high", "notes": ""}
 
 761. Yeah.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 762. What is it?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是什麼？", "confidence": "high", "notes": ""}
 
 763. And again, especially on a Fourth of July weekend, that it would have been brought to the attention.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且，尤其是在 7 月 4 日週末，這件事會被提起注意。", "confidence": "high", "notes": ""}
 
 764. Now, keep in mind, the rancher did not go to the military.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在請記住，牧場主人沒有去找軍方。", "confidence": "high", "notes": ""}
 
 765. He reported this to the sheriff, Sheriff George Wilcox of Chavez County, headquartered in Roswell.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他向警長報告了這件事，即 Chavez 郡警長喬治·威爾考克斯，總部設在羅斯威爾。", "confidence": "high", "notes": ""}
 
 766. And it was only due to the fact that it was a reporter by the name of Frank Joyce from radio station KGFL, who suggested, "This sounds like a military matter.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且只是因為電台 KGFL 的一位名叫 Frank Joyce 的記者建議說：「這聽起來像軍事事件。", "confidence": "high", "notes": ""}
 
 767. You should report this to the 509th."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你應該向 509 轟炸大隊報告這件事。」", "confidence": "high", "notes": ""}
 
 768. And they, in turn, the sheriff contacts the base, personally speaks to Major Marcel, who was at the PX having a sandwich.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後，警長聯繫了基地，親自與 Marcel 少校通話，他當時正在軍中福利社吃三明治。", "confidence": "high", "notes": ""}
 
 769. And it's important enough, again, Fourth of July weekend, that he alerts the very base commander, Colonel William Blanchard.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這件事足夠重要，再次強調，是在 7 月 4 日週末，以至於他通知了基地指揮官 William Blanchard 上校本人。", "confidence": "high", "notes": ""}
 
 770. And after examining the material, if it was nothing more mundane than a weather balloon, or even an aircraft, a rocket, an errant rocket.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在檢查材料後，如果它只不過是氣象氣球，甚至是飛機、火箭、失控的火箭。", "confidence": "high", "notes": ""}
 
 771. We were testing German V-2 rockets over at White Sands at that time.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們當時正在白沙導彈靶場測試德國 V-2 火箭。", "confidence": "high", "notes": ""}
 
 772. It was still unusual enough that he would dispatch the two head of intelligence.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但它仍然足夠不尋常，以至於他會派遣兩位情報部門負責人。", "confidence": "high", "notes": ""}
 
 773. And we believe the reason he also sent the head of counterintelligence, Plainclothes, Captain Sheridan Cavitt, was in the event it was something foreign, that he would be the most capable of identifying it if it was something foreign.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們相信他還派遣了反情報部隊負責人、便衣 Sheridan Cavitt 上尉的原因是，萬一它是外國的東西，他將是最有能力辨認的人，如果它確實是外國的。", "confidence": "high", "notes": ""}
 
 774. Did the rancher go to the site before the military?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "牧場主人在軍方之前去過現場嗎？", "confidence": "high", "notes": ""}
 
 775. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 776. He was the one who first discovered the briefing.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他是第一個發現殘骸的人。", "confidence": "medium", "notes": ""}
 
 777. But we don't know specifically what the rancher reported.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我們不確切知道牧場主人報告了什麼。", "confidence": "high", "notes": ""}
 
 778. He must have reported something somewhat unusual for them to send two officers rather than two enlisted men.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他肯定報告了某種相當不尋常的東西，才會讓他們派兩名軍官而不是兩名士兵。", "confidence": "high", "notes": ""}
 
 779. He brought some of the wreckage with him.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他帶了一些殘骸。", "confidence": "high", "notes": ""}
 
 780. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 781. Okay, okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，好的。", "confidence": "high", "notes": ""}
 
 782. He drove into the sheriff's office, the sheriff calls the base, Major Marcel goes and checks it out, and as he told me, there wasn't anything conventional there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他開車到警長辦公室，警長打電話給基地，Marcel 少校前去查看，正如他告訴我的，那裡沒有任何常規的東西。", "confidence": "high", "notes": ""}
 
 783. But the rancher also stressed that there's a huge amount of this stuff out at the ranch.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但牧場主人也強調，牧場那裡有大量這種東西。", "confidence": "high", "notes": ""}
 
 784. Yeah.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 785. Three-quarters of a mile, a few hundred yards wide, that's a lot of stuff.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "四分之三英里長，幾百碼寬，那是很多東西。", "confidence": "high", "notes": ""}
 
 786. And what he was worried about was that his sheep wouldn't cross the debris field.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而他擔心的是，他的羊不會穿過殘骸場。", "confidence": "high", "notes": ""}
 
 787. This is desert country out there, they need to go where the water is.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那裡是沙漠地區，牠們需要去有水的地方。", "confidence": "high", "notes": ""}
 
 788. They also don't want sheep eating anything like pieces of foil.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們也不希望羊吃到像金屬箔這樣的東西。", "confidence": "high", "notes": ""}
 
 789. It is a concern.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這確實是一個問題。", "confidence": "high", "notes": ""}
 
 790. So that was his concern also, and we haven't mentioned it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以這也是他的擔憂，而且我們還沒提到。", "confidence": "high", "notes": ""}
 
 791. There was an article in the local paper that rewards were being offered for pieces of one of these saucers people were seeing all over the place.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當地報紙上有一篇文章說，人們到處看到的這些飛碟碎片正在提供獎金。", "confidence": "high", "notes": ""}
 
 792. And when the rancher went to Corona and talked to his buddies there at Corona, that's where they did shopping and stuff like that, this is out in the middle of nowhere, they told him about the reward.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當牧場主人去科羅納鎮，與那裡的朋友交談時——那是他們購物等等的地方，這裡可是在偏僻的荒野中——他們告訴他關於獎金的事。", "confidence": "high", "notes": ""}
 
 793. You had to go try to collect the reward.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你得去試著領取獎金。", "confidence": "high", "notes": ""}
 
 794. And we have stories, and I don't know how we can confirm them, that the rancher suddenly wound up with some money after all this.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們有一些故事，雖然不知道如何證實，說牧場主人在這一切之後突然有了一些錢。", "confidence": "high", "notes": ""}
 
 795. He certainly was entitled to the reward, and the military said, "No way, Jose."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他當然有資格得到獎金，但軍方說：「絕對不行。」", "confidence": "high", "notes": ""}
 
 796. Was he also sworn to secrecy?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他也被要求保密嗎？", "confidence": "high", "notes": ""}
 
 797. Do we know that, the rancher?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們知道嗎，牧場主人？", "confidence": "high", "notes": ""}
 
 798. Two years later when his son, Bill Jr., had recovered enough pieces to fill up a cigar box, and his wife Shirley even described how he'd come home for dinner after working the ranch and he kept this one piece in his leather chaps, and she would describe how he would take this piece out, and she'd watch as he'd try to whittle on it and poke through it, and then he would crumble it up, crease it, fold it, and every time you'd lay it down it would just smooth right out.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "兩年後，當他的兒子小比爾收集了足夠的碎片裝滿一個雪茄盒時，他的妻子 Shirley 甚至描述了他如何在牧場工作後回家吃晚飯，他把其中一塊放在皮製護腿褲裡，她會描述他如何拿出這塊東西，她看著他試圖削它、戳穿它，然後他會把它揉皺、壓折、摺疊，但每次你放下它，它就會自動恢復平整。", "confidence": "high", "notes": ""}
 
 799. Two years later, there's a knock on his door, and there was a military captain and three non-commissioned officers.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "兩年後，有人敲他的門，是一名軍官上尉和三名士官。", "confidence": "high", "notes": ""}
 
 800. We know what you have, and you will give it to us.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們知道你有什麼，你必須交給我們。", "confidence": "high", "notes": ""}
 
 801. So he turned over the box, this was two years after the incident.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以他交出了盒子，這是在事件發生兩年後。", "confidence": "high", "notes": ""}
 
 802. They mentioned to him, according to Bill Jr., that just as your father swore that he would not say another word about this, and should he ever discover any more material, he would contact us immediately.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "根據小比爾的說法，他們對他說，就像你父親發誓不再說任何關於這件事的話一樣，如果他發現任何更多的材料，他會立即聯繫我們。", "confidence": "high", "notes": ""}
 
 803. We're asking the same of you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們也要求你這樣做。", "confidence": "high", "notes": ""}
 
 804. We should mention one other thing here that I think gives an idea of the scope of the concern by the military here.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們應該提到另一件事，我認為這可以讓人了解軍方對此事的關注程度。", "confidence": "high", "notes": ""}
 
 805. We have heard testimony from the daughter of the sheriff, that she was staying with her grandmother, it was the granddaughter, grandmother, it was a show on television about UFOs, and the grandmother says to the granddaughter, "You know, the reason your grandfather didn't rerun for sheriff was when that saucer crashed, the military came to him and said, 'If you ever tell about what you saw, we will kill you and we will kill your family.'"
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們聽到警長女兒的證詞，她當時與祖母住在一起，是孫女和祖母，電視上播放著關於不明飛行物的節目，祖母對孫女說：「你知道嗎，你祖父沒有再次競選警長的原因是，當那個飛碟墜毀時，軍方來找他說：『如果你敢說出你看到的，我們會殺了你，也會殺了你的家人。』」", "confidence": "high", "notes": ""}
 
 806. She was horrified.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "她感到恐懼。", "confidence": "high", "notes": ""}
 
 807. "You didn't believe them," she says to her grandmother.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "「你不相信他們吧。」她對祖母說。", "confidence": "high", "notes": ""}
 
 808. "I was there, I believed them," was the answer.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "「我當時在那裡，我相信他們。」這是回答。", "confidence": "high", "notes": ""}
 
 809. So sure, it's a little story, but we've heard it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以當然，這是個小故事，但我們聽到了。", "confidence": "high", "notes": ""}
 
 810. The granddaughter was a teacher, they were, how shall I put this, threatening.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "孫女是一名教師，他們，我該怎麼說呢，是在威脅。", "confidence": "high", "notes": ""}
 
 811. Could the gentleman from Maryland yield just 30 seconds to clear up one question that's, and anybody that can answer this, can anybody here give us the name of any person that would have been at least the age of 18 or older in 1947 who at the time, in a similar way to how Jesse Marcel Sr. said he had received these kinds of materials and they had these certain property trades, which he said almost immediately to people.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "馬里蘭州的先生能否讓出 30 秒來澄清一個問題，任何能回答這個問題的人，你們能否給我們任何在 1947 年至少 18 歲或以上的人的名字，他們當時以類似 Jesse Marcel Sr. 所說的方式，說他收到了這些材料，而且它們具有某些特性，他幾乎立即告訴了人們。", "confidence": "medium", "notes": ""}
 
 812. Is there anybody other than, or even the child, or who, can you give us the name of anybody who said they saw a body, they saw bodies back in 1947 in the name of any person that you've got in, you know, you've written, or you've studied this?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "除此之外還有誰，甚至是孩子，或者誰，你能給我們任何人的名字嗎，他們說在 1947 年看到了遺體，看到了遺體，你知道的，你們寫過或研究過的任何人的名字？", "confidence": "medium", "notes": ""}
 
 813. We should mention that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們應該提到這一點。", "confidence": "high", "notes": ""}
 
 814. We talked about, you know, and I know that Mr. Marcel said that he knew people that had seen the bodies, but he never said he had seen a body.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們談到了，你知道的，而且我知道 Marcel 先生說他認識看過遺體的人，但他從未說過他本人看到過遺體。", "confidence": "high", "notes": ""}
 
 815. I just want to make sure that we have a witness if we do or if we don't.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只想確定我們是否有證人。", "confidence": "high", "notes": ""}
 
 816. I just want to know that could give the kind of credibility on the question of bodies, which was talked about rather freely a few minutes ago, in the same vein, who has seen a body and said so back in 1947, '48, that's my question.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只想知道能否在遺體問題上提供這種可信度，幾分鐘前這個問題討論得相當自由，同樣的脈絡，誰在 1947 年、48 年看到過遺體並當時就說了，這是我的問題。", "confidence": "medium", "notes": ""}
 
 817. If you're looking for documentation from 1947, we simply don't have it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果您在尋找 1947 年的文件記錄，我們根本沒有。", "confidence": "high", "notes": ""}
 
 818. If you want the name of somebody who was there in 1947 who saw bodies, then we have lots of names.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果您想要 1947 年在那裡看到遺體的人的名字，那麼我們有很多名字。", "confidence": "high", "notes": ""}
 
 819. Even Easley, the provost marshal, mentioned to his family that he had seen the bodies.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "甚至憲兵司令 Easley 也向家人提到他看到過遺體。", "confidence": "high", "notes": ""}
 
 820. He mentioned that they quizzed him about it when he was very gravely ill with cancer, about that, and he said, "Oh, the creatures to them."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他提到當他身患癌症病情極為嚴重時，他們詢問他這件事，關於那個，他說：「哦，對他們來說是那些生物。」", "confidence": "medium", "notes": ""}
 
 821. Of course, I asked who had seen the bodies and said so in the same time period.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當然，我問的是誰在同一時期看到遺體並當時就說了。", "confidence": "high", "notes": ""}
 
 822. Nobody was asking those questions in 1947.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "1947 年沒有人問這些問題。", "confidence": "high", "notes": ""}
 
 823. Yeah, but nobody was asking about debris either until Mr. Marcel said, "I've seen this debris."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，但在 Marcel 先生說「我看到了這些殘骸」之前，也沒有人問關於殘骸的事。", "confidence": "high", "notes": ""}
 
 824. Precisely.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "正是如此。", "confidence": "high", "notes": ""}
 
 825. We have- Are you saying that nobody said anything about bodies back in 1947?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們有——你是說在 1947 年沒有人說任何關於遺體的事？", "confidence": "high", "notes": ""}
 
 826. It was only until way later?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "只是直到很久以後？", "confidence": "high", "notes": ""}
 
 827. I just want to know.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是想知道。", "confidence": "high", "notes": ""}
 
 828. I mean, I'm not questioning- That's probably an accurate statement.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的意思是，我不是在質疑——那可能是一個準確的陳述。", "confidence": "high", "notes": ""}
 
 829. I don't know.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不知道。", "confidence": "high", "notes": ""}
 
 830. I'm a little confused on the issue is what I'm- What you have to understand is after the story broke in the newspapers, the military got everybody out of town.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我對這個問題有點困惑，我的意思是——你必須理解的是，在報紙報導這個故事後，軍方把所有人都趕出了城。", "confidence": "high", "notes": ""}
 
 831. Marcel is not ... If you're a reporter and you're looking for Major Marcel, you can't find him.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Marcel 不在……如果你是記者，你要找 Marcel 少校，你找不到他。", "confidence": "high", "notes": ""}
 
 832. If you want to talk to Mac Brazel, you can't find him.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果你想和 Mack Brazel 談話，你也找不到他。", "confidence": "high", "notes": ""}
 
 833. If I could just recline my question, just so I make sure I'm clear here, what I'm trying to ask.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果我可以重新陳述我的問題，只是為了確保我在這裡說清楚了，我想問的是什麼。", "confidence": "high", "notes": ""}
 
 834. Hey, the Army, the Air Force, they could have been covering up from day ... less than day one.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嘿，陸軍、空軍，他們可能從第一天……不到第一天就開始掩蓋了。", "confidence": "high", "notes": ""}
 
 835. They could from the first second.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們可能從第一秒就開始了。", "confidence": "high", "notes": ""}
 
 836. That's not what I'm asking about.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那不是我問的。", "confidence": "high", "notes": ""}
 
 837. I'm asking was there any person at the time, and maybe they can't because of a cover-up even at the time.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我問的是當時有沒有任何人，也許他們不能因為當時就已經有真相掩蓋了。", "confidence": "high", "notes": ""}
 
 838. I'm just saying, is there the name of anybody, living or dead, who in 1947, it was documented, they said, and at that time, said, not on their deathbed, not later after they had some other situation, but at the time, said they saw a body.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是說，有沒有任何人的名字，無論生者或死者，在 1947 年有文件記錄，他們說了，而且在當時說了，不是在臨終時，不是後來在其他情況下，而是在當時，說他們看到了遺體。", "confidence": "high", "notes": ""}
 
 839. That's my question.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是我的問題。", "confidence": "high", "notes": ""}
 
 840. I understand the question.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我理解這個問題。", "confidence": "high", "notes": ""}
 
 841. I understand the question, and the answer is no.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我理解這個問題，答案是沒有。", "confidence": "high", "notes": ""}
 
 842. We have no documentation from that timeframe when they saw the bodies.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們沒有來自那個時間段的文件記錄，記載他們看到遺體的時候。", "confidence": "high", "notes": ""}
 
 843. What we have are the people who were there, who later on talked about it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們擁有的是那些當時在那裡的人，他們後來談論了這件事。", "confidence": "high", "notes": ""}
 
 844. Most of these people- I understand what you're saying. ... didn't come forward with their tails.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這些人中的大多數——我理解你在說什麼。……沒有挺身而出講述他們的故事。", "confidence": "medium", "notes": ""}
 
 845. That was the- But I wasn't trying to- That's the last time you'll yield to the gentleman from Utah.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是——但我不是想——這是你最後一次讓給猶他州的先生了。", "confidence": "high", "notes": ""}
 
 846. Let me- Let me make just one closing observation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "讓我——讓我做一個結束性的觀察。", "confidence": "high", "notes": ""}
 
 847. Oh, one quick question.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "哦，一個快速的問題。", "confidence": "high", "notes": ""}
 
 848. Were there any radar tracks from FAA over this?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "聯邦航空總署有任何關於這件事的雷達軌跡嗎？", "confidence": "high", "notes": ""}
 
 849. No?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒有？", "confidence": "high", "notes": ""}
 
 850. No radar tracks that you know of?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你們知道的沒有雷達軌跡？", "confidence": "high", "notes": ""}
 
 851. No.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒有。", "confidence": "high", "notes": ""}
 
 852. Okay, none.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，沒有。", "confidence": "high", "notes": ""}
 
 853. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 854. Curious about that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對此感到好奇。", "confidence": "high", "notes": ""}
 
 855. Curious about this, that tell me if I didn't know anything else and never met any of you, that the Air Force is not being honest.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對此感到好奇，這告訴我，即使我什麼都不知道，也從未見過你們任何人，空軍也沒有說實話。", "confidence": "high", "notes": ""}
 
 856. One is, if this was indeed a balloon, there was no darned reason to send it to right field.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "第一，如果這確實是一個氣球，根本沒有理由把它送到萊特機場。", "confidence": "high", "notes": ""}
 
 857. Everybody would have recognized the balloon, so the very fact that they sent the material there tells me that they're not telling the truth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "每個人都會認出氣球，所以他們把材料送到那裡這個事實本身就告訴我，他們沒有說實話。", "confidence": "high", "notes": ""}
 
 858. The second thing that tells me they're not telling the truth is that if in fact it was a balloon, why in the heck would it issue a press release saying that a flying saucer had crashed there?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "第二件告訴我他們沒有說實話的事是，如果它確實是一個氣球，為什麼還要發布新聞稿說有飛碟墜毀在那裡？", "confidence": "high", "notes": ""}
 
 859. I don't know how you can argue away those two things.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不知道你怎麼能辯解這兩件事。", "confidence": "high", "notes": ""}
 
 860. The debunker would say that's because Colonel Blanchard was a loose cannon, and he probably got banned to Siberia for putting out that stupid story.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "揭穿者會說那是因為布蘭查德上校是個不受控制的人，他可能因為發布那個愚蠢的故事而被流放到西伯利亞。", "confidence": "high", "notes": ""}
 
 861. I've had somebody tell me that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有人這樣告訴我。", "confidence": "high", "notes": ""}
 
 862. They don't mention he got four more promotions.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們沒有提到他後來又獲得了四次晉升。", "confidence": "high", "notes": ""}
 
 863. He was a four-star general when he died of a heart attack, and was Vice Chief of Staff of the Air Force.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他死於心臟病時是四星上將，而且是空軍副參謀長。", "confidence": "high", "notes": ""}
 
 864. That's not what you do when you have a loose cannon.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當你有一個不受控制的人時，你不會這麼做。", "confidence": "high", "notes": ""}
 
 865. Those two things alone tell the honest observer that they are not now telling us the truth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "僅這兩件事就告訴誠實的觀察者，他們現在沒有告訴我們真相。", "confidence": "high", "notes": ""}
 
 866. A balloon is not going to be sent to Wright-Patterson, and a balloon is not going to result in a press release that says that a flying saucer has crashed.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "氣球不會被送到萊特-帕特森空軍基地，氣球也不會導致發布說飛碟墜毀的新聞稿。", "confidence": "high", "notes": ""}
 
 867. That was the press release.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那就是新聞稿。", "confidence": "high", "notes": ""}
 
 868. It's what they did with what they found there, and what they found there as far as we know is either still in Wright-Patterson or has been destroyed, right?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是他們對在那裡發現的東西所做的處理，而據我們所知，他們在那裡發現的東西要麼仍在萊特-帕特森，要麼已被銷毀，對吧？", "confidence": "high", "notes": ""}
 
 869. Or it's been moved to another location.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "或者它被移到另一個地點。", "confidence": "high", "notes": ""}
 
 870. Or, yeah, it's still in their possession.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "或者，是的，它仍在他們手中。", "confidence": "high", "notes": ""}
 
 871. It can be tracked to Wright-Patterson Air Force Base with documentation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "可以透過文件追蹤到萊特-帕特森空軍基地。", "confidence": "high", "notes": ""}
 
 872. Wright Field then, I think.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想，當時是萊特機場。", "confidence": "high", "notes": ""}
 
 873. Wright Field at the time, yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當時是萊特機場，是的。", "confidence": "high", "notes": ""}
 
 874. From that point on, we don't know where it went.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從那之後，我們不知道它去了哪裡。", "confidence": "high", "notes": ""}
 
 875. It could have gone to Area 51.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它可能去了 51 區。", "confidence": "high", "notes": ""}
 
 876. We've been told that one of the bodies went to MacDill, which was an aerospace medical facility.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們被告知其中一具遺體被送到了 MacDill，那是一個航空醫學設施。", "confidence": "high", "notes": ""}
 
 877. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 878. Thank you for being generous with time, sir.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您慷慨給予時間，先生。", "confidence": "high", "notes": ""}
 
 879. Well, that's okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，沒關係。", "confidence": "high", "notes": ""}
 
 880. I was pushing in to keep that sign up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我一直在努力保持那個標誌。", "confidence": "medium", "notes": ""}
 
 881. I get three minutes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我得到三分鐘。", "confidence": "high", "notes": ""}
 
 882. First off, having been a CIC officer, we had a set format report system.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "首先，作為一名反情報部隊軍官，我們有一套固定格式的報告系統。", "confidence": "high", "notes": ""}
 
 883. Was there any documentation within the CIC about the report of going to the crash site?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "反情報部隊內部有任何關於前往墜毀現場報告的文件記錄嗎？", "confidence": "high", "notes": ""}
 
 884. What was especially interesting to us was after Major Marcel was sent directly, and as Kevin had mentioned, how they took all the key players immediately out of the picture, that anybody who had information on this was immediately either sent away or went on leave or in the case of Colonel Blanchard, he set up an operation at the crash site.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "特別有趣的是，在 Marcel 少校被直接派遣之後，正如 Kevin 所提到的，他們如何立即將所有關鍵人物排除在外，任何擁有這方面資訊的人要麼立即被送走，要麼休假，或者像布蘭查德上校的情況，他在墜毀現場設立了一個行動。", "confidence": "high", "notes": ""}
 
 885. They were unavailable to the press, and yet there was still a lot of rumor throughout the area.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們對新聞界不可接觸，然而整個地區仍然有很多謠言。", "confidence": "high", "notes": ""}
 
 886. In fact, in talking to surviving people throughout the Roswell area, there was a lot of talk about the bodies, a lot of rumor about bodies recovered, a lot of talk about the little men recovered north of town.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事實上，在與羅斯威爾地區倖存的人們交談時，有很多關於遺體的談論，很多關於回收遺體的謠言，很多關於在城鎮北部回收小人的談論。", "confidence": "high", "notes": ""}
 
 887. As far as the counterintelligence officer, when Major Marcel was sent for the balloon press conference in Fort Worth with General Ramey, he was kept overnight, and then when he returned late afternoon the next day, July 9th, on the very flight that we're convinced transported a crate of material which was hidden in bomb pit number one, and it wasn't an atomic bomb.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "至於反情報部隊軍官，當 Marcel 少校被派往沃斯堡與雷米將軍參加氣球新聞發布會時，他被留宿了一夜，然後第二天 7 月 9 日下午晚些時候回來，就在我們確信運送了一箱材料的那架飛機上，這箱材料被藏在一號炸彈坑中，而且它不是原子彈。", "confidence": "high", "notes": ""}
 
 888. We have first-hand testimony to that fact, we even have a copy of the manifest.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們有關於這一事實的第一手證詞，我們甚至有一份貨物清單的副本。", "confidence": "high", "notes": ""}
 
 889. It was an unscheduled flight that went out at 4 p.m. on Wednesday, July 9th.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一架非計劃航班，在 7 月 9 日星期三下午 4 點起飛。", "confidence": "high", "notes": ""}
 
 890. Well, Marcel, the next morning, the morning of July 10th, he immediately confronted Cavett.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，Marcel 在第二天早上，7 月 10 日早上，立即質問 Cavett。", "confidence": "high", "notes": ""}
 
 891. He wanted to see the report.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他想看報告。", "confidence": "high", "notes": ""}
 
 892. He wanted to know what had transpired in his absence while he had been kept over at Fort Worth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他想知道在他被留在沃斯堡期間，在他缺席時發生了什麼。", "confidence": "high", "notes": ""}
 
 893. What did Cavett say?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Cavett 說了什麼？", "confidence": "high", "notes": ""}
 
 894. And Cavett kept responding, and this was also in the presence of counterintelligence non-commissioned officer Louis Rickett, who we also interviewed quite extensively, that Cavett kept telling him or kept responding, "What are you talking about?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Cavett 不斷回應，而且這也是在反情報部隊士官 Louis Rickett 在場的情況下，我們也對他進行了相當廣泛的採訪，Cavett 不斷告訴他或不斷回應：「你在說什麼？", "confidence": "high", "notes": ""}
 
 895. What are you talking about?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你在說什麼？", "confidence": "high", "notes": ""}
 
 896. Nothing happened."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "什麼都沒發生。」", "confidence": "high", "notes": ""}
 
 897. And Marcel finally reminded him, "I outrank you," to which Cavett responded, "It's out of my hands.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Marcel 最後提醒他：「我的軍階比你高。」Cavett 回應說：「這不是我能管的。", "confidence": "high", "notes": ""}
 
 898. Take it up with Washington.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "去找華盛頓談。", "confidence": "high", "notes": ""}
 
 899. They're now calling the shots."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在是他們在做主。」", "confidence": "high", "notes": ""}
 
 900. Thank you very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 901. I want to ask questions of an 11-year-old boy.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想問一個 11 歲男孩的問題。", "confidence": "high", "notes": ""}
 
 902. This is not a hypnotic situation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這不是催眠狀況。", "confidence": "high", "notes": ""}
 
 903. Put your mind back as an 11-year-old.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "把你的思緒拉回到 11 歲。", "confidence": "high", "notes": ""}
 
 904. You're in the living room.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你在客廳裡。", "confidence": "high", "notes": ""}
 
 905. Did your dad come back from the site in a pick-up truck, in a sedan, do you recall?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你父親是開皮卡車還是轎車從現場回來的，你還記得嗎？", "confidence": "high", "notes": ""}
 
 906. We had a 1942 Buick convertible.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們有一輛 1942 年的別克敞篷車。", "confidence": "high", "notes": ""}
 
 907. Okay, so he didn't have a military vehicle, he took his own vehicle to go to the site.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，所以他沒有軍用車輛，他開自己的車去現場。", "confidence": "high", "notes": ""}
 
 908. That's correct.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 909. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 910. Did your dad come back in his vehicle, was Captain Cavett with him or was your dad alone?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你父親開他的車回來時，Cavett 上尉跟他在一起嗎，還是你父親一個人？", "confidence": "high", "notes": ""}
 
 911. He was alone.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他一個人。", "confidence": "high", "notes": ""}
 
 912. He was alone.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他一個人。", "confidence": "high", "notes": ""}
 
 913. He took some, you weren't there at the vehicle or you were in the living room, he took some material out of the vehicle and brought it into the living room.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他拿了一些，你當時不在車旁或你在客廳，他從車上拿了一些材料帶進客廳。", "confidence": "high", "notes": ""}
 
 914. Correct?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對嗎？", "confidence": "high", "notes": ""}
 
 915. Actually, in the kitchen.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "實際上是在廚房。", "confidence": "high", "notes": ""}
 
 916. In the kitchen.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在廚房。", "confidence": "high", "notes": ""}
 
 917. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 918. Now, how big was it?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那麼，有多大？", "confidence": "high", "notes": ""}
 
 919. A little bit big?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有點大？", "confidence": "high", "notes": ""}
 
 920. You got a kitchen table now.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你現在有一張廚房桌子。", "confidence": "high", "notes": ""}
 
 921. What did you see in the kitchen table?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你在廚房桌子上看到什麼？", "confidence": "high", "notes": ""}
 
 922. An 11-year-old boy.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "一個 11 歲的男孩。", "confidence": "high", "notes": ""}
 
 923. Well, this was distributed on the floor of the kitchen, which was about eight by, oh, seven by five or eight by 10 area.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，這些是分布在廚房地板上的，大約是八乘，哦，七乘五或八乘十的區域。", "confidence": "high", "notes": ""}
 
 924. He had pre-positioned the material on the kitchen floor before he got us up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他在叫我們起床之前就已經把材料預先擺放在廚房地板上了。", "confidence": "high", "notes": ""}
 
 925. So when we got up and walked into the kitchen, the debris was already pre-positioned on the floor of the kitchen, which was about maybe 30 square feet worth, you know, just a couple of...
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以當我們起床走進廚房時，殘骸已經預先擺放在廚房地板上了，大約可能有 30 平方英尺，你知道的，就是幾……", "confidence": "high", "notes": ""}
 
 926. So you weren't there when he brought it in.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以當他把它帶進來時你不在那裡。", "confidence": "high", "notes": ""}
 
 927. And he set it all up and then called you and your mother to come in and, "Let's take a look at this."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他把它全部擺好，然後叫你和你母親進來，「讓我們看看這個。」", "confidence": "high", "notes": ""}
 
 928. Exactly.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "正是如此。", "confidence": "high", "notes": ""}
 
 929. He pre-positioned it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他預先擺放好了。", "confidence": "high", "notes": ""}
 
 930. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 931. Pre-positioning, he was trying to form somewhat of a design, if you're pre-positioning.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "預先擺放，如果你在預先擺放，他是在試圖形成某種設計。", "confidence": "high", "notes": ""}
 
 932. Well, I think he was trying to put it together, you know, but there's so much of it, you couldn't do that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我想他是在試圖把它拼湊起來，你知道的，但數量太多了，你做不到那樣。", "confidence": "high", "notes": ""}
 
 933. There wasn't enough.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不夠多。", "confidence": "high", "notes": ""}
 
 934. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 935. And was a beam like this, which you're circling, is this one of the things you saw there on the floor?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這樣的一個樑，你正在圈起來的，是你在地板上看到的東西之一嗎？", "confidence": "high", "notes": ""}
 
 936. Yeah.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 937. There are several beams like that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有好幾個這樣的樑。", "confidence": "high", "notes": ""}
 
 938. And like I said, there was also some black plastic debris, like a broken phonograph record at that time, but it wasn't that, it wasn't vinyl.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且就像我說的，還有一些黑色塑膠碎片，當時像是破碎的留聲機唱片，但不是那個，不是黑膠唱片。", "confidence": "high", "notes": ""}
 
 939. But the debris primarily was the beams, the foil, and the black plastic debris.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但殘骸主要是樑、金屬箔和黑色塑膠碎片。", "confidence": "high", "notes": ""}
 
 940. I did not, again, see any electronics.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我再次強調，沒有看到任何電子設備。", "confidence": "high", "notes": ""}
 
 941. As your father is talking to you and your mother, did he mention any fact that, "Boy, we saw this debris and look at it, but we also saw some bodies"?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當你父親跟你和你母親說話時，他有沒有提到任何事實，比如「孩子，我們看到了這些殘骸，看看它，但我們也看到了一些遺體」？", "confidence": "high", "notes": ""}
 
 942. Did he say anything like that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他有說過類似的話嗎？", "confidence": "high", "notes": ""}
 
 943. No, sir.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒有，先生。", "confidence": "high", "notes": ""}
 
 944. So he made, he did not want to horrify you as a child or your mother that he saw something worse than that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以他做出了決定，他不想嚇壞作為孩子的你或你母親，不想讓你們知道他看到了比那更糟的東西。", "confidence": "high", "notes": ""}
 
 945. So do you have any conclusion from the conversation as an 11-year-old that maybe your dad was not telling you everything that he saw?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那麼，作為一個 11 歲的孩子，從對話中你有沒有得出任何結論，認為你父親可能沒有告訴你他看到的一切？", "confidence": "high", "notes": ""}
 
 946. The bodies were at another location.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "遺體在另一個地點。", "confidence": "high", "notes": ""}
 
 947. It wasn't all in one place.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不是全都在一個地方。", "confidence": "high", "notes": ""}
 
 948. The debris was over here, the crew compartment, call it what you want, was someplace else.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "殘骸在這裡，機組艙，隨你怎麼稱呼，在別的地方。", "confidence": "high", "notes": ""}
 
 949. Very good.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "很好。", "confidence": "high", "notes": ""}
 
 950. That's a good addition.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一個很好的補充。", "confidence": "high", "notes": ""}
 
 951. But I want to stay with the 11-year-old boy.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我想繼續問這個 11 歲男孩的問題。", "confidence": "high", "notes": ""}
 
 952. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 953. The question was, I'm sorry.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "問題是，對不起。", "confidence": "high", "notes": ""}
 
 954. Oh, well.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "哦，好吧。", "confidence": "high", "notes": ""}
 
 955. Did you have any inkling as an 11-year-old that your father was withholding horrific information from you as he's displaying the physical findings?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "作為一個 11 歲的孩子，你有沒有任何感覺，認為你父親在展示這些實物發現時對你隱瞞了可怕的資訊？", "confidence": "high", "notes": ""}
 
 956. He kind of kept things close to his chest.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他有點守口如瓶。", "confidence": "high", "notes": ""}
 
 957. So I'm not sure what the internal thoughts were on this, but he was very adamant that we were not to talk about it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我不確定他內心對此的想法是什麼，但他非常堅決地要求我們不要談論這件事。", "confidence": "high", "notes": ""}
 
 958. That we were going to what?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們要做什麼？", "confidence": "high", "notes": ""}
 
 959. That we were not to talk about this.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們不要談論這件事。", "confidence": "high", "notes": ""}
 
 960. But he kept things close to his chest.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但他守口如瓶。", "confidence": "high", "notes": ""}
 
 961. He had a job on the base, and I really never knew what he did because he was an intelligence, he didn't really confide with the family what his job was or what he did, things like that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他在基地有一份工作，我真的從來不知道他做什麼，因為他是情報官，他真的不會向家人透露他的工作是什麼或他做了什麼，諸如此類的事情。", "confidence": "high", "notes": ""}
 
 962. Which would be the normal task of a father who's an intelligence.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這對一個情報官父親來說是正常的做法。", "confidence": "high", "notes": ""}
 
 963. Is there anything else you can share with us of your impressions and knowledge of an 11-year-old boy?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "作為一個 11 歲男孩，你還有什麼其他可以與我們分享的印象和認知嗎？", "confidence": "high", "notes": ""}
 
 964. Well, it was a very Earth awakening experience or space awakening experience for me.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，對我來說這是一次非常喚醒地球意識或太空意識的經歷。", "confidence": "high", "notes": ""}
 
 965. It did make this very, did make me very interested in astronomy and cosmology because I realized that whatever was on the kitchen floor didn't come from here, but came from out there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這確實讓我非常，確實讓我對天文學和宇宙學非常感興趣，因為我意識到廚房地板上的東西不是來自這裡，而是來自那裡。", "confidence": "high", "notes": ""}
 
 966. I got that impression from other comments that you've made that you've intellectualized your experience quite extensively.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我從你所做的其他評論中得到這種印象，你對自己的經歷進行了相當廣泛的理性思考。", "confidence": "high", "notes": ""}
 
 967. Let me close this facet for another hearing.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "讓我為另一場聽證會結束這個方面。", "confidence": "high", "notes": ""}
 
 968. We're going to take a segment.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們要進行一個環節。", "confidence": "high", "notes": ""}
 
 969. Carolyn has a question.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Carolyn 有一個問題。", "confidence": "high", "notes": ""}
 
 970. Carolyn, please.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Carolyn，請說。", "confidence": "high", "notes": ""}
 
 971. I heard you were about to close it, and I just wanted to ask.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我聽說你們要結束了，我只是想問一下。", "confidence": "high", "notes": ""}
 
 972. I just wanted to ask something you just said.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是想問你剛才說的一些事情。", "confidence": "high", "notes": ""}
 
 973. The major was an intelligence high-level man.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這位少校是一個高級情報官。", "confidence": "high", "notes": ""}
 
 974. Yes, ma'am.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，女士。", "confidence": "high", "notes": ""}
 
 975. Kept things close to his chest.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "守口如瓶。", "confidence": "high", "notes": ""}
 
 976. Yes, ma'am.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，女士。", "confidence": "high", "notes": ""}
 
 977. Didn't share a lot with you that he felt was very high intellectually, has to do with his work.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒有與你分享很多他認為非常高度智識的、與他的工作有關的事情。", "confidence": "high", "notes": ""}
 
 978. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 979. But he prearranged what he had gotten that night and put it away on the floor, woke you up and your mom to come take a look at it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但他預先安排了那晚他得到的東西，把它擺放在地板上，叫醒你和你媽媽來看一看。", "confidence": "high", "notes": ""}
 
 980. Now, that in and of itself, this goes my mystery side of me, but then that was significant.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在，這件事本身，這觸動了我神秘的一面，但那是很重要的。", "confidence": "high", "notes": ""}
 
 981. He wanted you to talk about it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他想讓你談論它。", "confidence": "high", "notes": ""}
 
 982. He never talked to you about it, but he wanted you to see that and never to mention it again.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他從未與你談論過它，但他想讓你看到它，然後再也不要提起。", "confidence": "high", "notes": ""}
 
 983. What do you make of that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你怎麼看這件事？", "confidence": "high", "notes": ""}
 
 984. Well, later.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，後來。", "confidence": "high", "notes": ""}
 
 985. Sorry?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "抱歉？", "confidence": "high", "notes": ""}
 
 986. There's a time period in between when he saw it on the floor and when it came back from Texas.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在他在地板上看到它和從德州回來之間有一段時間。", "confidence": "high", "notes": ""}
 
 987. Okay, I'm talking about just the floor and just waking you up, seeing you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，我只是在談論地板以及叫醒你、讓你看見。", "confidence": "high", "notes": ""}
 
 988. He didn't have to show anything.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他不必展示任何東西。", "confidence": "high", "notes": ""}
 
 989. He could have just took it onto the base and did whatever he did.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他本可以直接把它帶到基地，做他要做的事。", "confidence": "high", "notes": ""}
 
 990. I should bring that up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我應該提出這一點。", "confidence": "high", "notes": ""}
 
 991. He thought it was significant material.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他認為這是重要的材料。", "confidence": "high", "notes": ""}
 
 992. Right, and he wanted his child to see it and his wife who he never even discussed things with.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯，他想讓他的孩子和他從未討論過事情的妻子看到它。", "confidence": "high", "notes": ""}
 
 993. At that time, the material was not classified, so he felt okay to do that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當時，這些材料還沒有被列為機密，所以他覺得可以這樣做。", "confidence": "high", "notes": ""}
 
 994. As a matter of fact, the only time I knew my dad to break security clearances is when he came back from overseas, I asked him what did the atomic bomb look like?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事實上，我唯一知道我父親打破保密規定的一次是，當他從海外回來時，我問他原子彈看起來是什麼樣子？", "confidence": "high", "notes": ""}
 
 995. What he did, he drew the outline of the Fat Man bomb that was used on Nagasaki, but then he tore it up and threw it away in the trash can.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他做的是，他畫了用於長崎的「胖子」原子彈的輪廓，但隨後他把它撕毀扔進了垃圾桶。", "confidence": "high", "notes": ""}
 
 996. I wasn't suggesting that he was breaking any kind of intelligence by showing it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不是說他展示它就違反了任何情報規定。", "confidence": "high", "notes": ""}
 
 997. He thought it ... He's a major.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他認為它……他是少校。", "confidence": "high", "notes": ""}
 
 998. He's a big time.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他是個大人物。", "confidence": "high", "notes": ""}
 
 999. He's up there with the generals and almost with the joint chief of staff, you know?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他與將軍們平起平坐，幾乎與參謀長聯席會議成員齊平，你知道嗎？", "confidence": "high", "notes": ""}
 
 1000. He wanted to show you what he had found and what had obviously crashed near your home, but you couldn't say something about it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他想向你展示他發現的東西，以及明顯在你家附近墜毀的東西，但你不能說出這件事。", "confidence": "high", "notes": ""}
 
 1001. Then, for whomever they are to take it and make a light of it and it never happened and it's a balloon, that doesn't go together.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後，無論他們是誰，拿走它，輕描淡寫地說它從未發生過，說它是氣球，這說不通。", "confidence": "high", "notes": ""}
 
 1002. No.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不對。", "confidence": "high", "notes": ""}
 
 1003. Again, he was very excited about this.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "再次強調，他對此非常興奮。", "confidence": "high", "notes": ""}
 
 1004. This is a very special event there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一個非常特殊的事件。", "confidence": "high", "notes": ""}
 
 1005. He wanted my mother and myself to be first-hand witnesses to this thing, but when he came back from Fort Worth after General Ramey, then he said, "No more."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他希望我母親和我成為這件事的第一手證人，但當他從沃斯堡回來，在雷米將軍之後，他說：「不要再提了。」", "confidence": "high", "notes": ""}
 
 1006. It didn't happen.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這件事沒發生過。", "confidence": "high", "notes": ""}
 
 1007. Period.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "就這樣。", "confidence": "high", "notes": ""}
 
 1008. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 1009. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 1010. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 1011. We're going to take a 10-minute stretch recess.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們要休息 10 分鐘伸展一下。", "confidence": "high", "notes": ""}
 
 1012. No more than that, 10 minutes, and we'll go into the next testimony.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不超過那個時間，10 分鐘，然後我們將進入下一個證詞。", "confidence": "high", "notes": ""}
