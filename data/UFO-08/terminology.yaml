@@ -161,8 +161,8 @@ terms:
   - term: Governor Fife Symington
     senses:
       - id: symington_governor
-        definition: 菲夫·賽明頓，1997 年亞利桑那州州長
-        preferred_translation: 菲夫·賽明頓州長
+        definition: 費伏·森明頓，1997 年亞利桑那州州長
+        preferred_translation: 費伏·森明頓州長
         segments: [83]
         notes: 鳳凰城光點事件後在記者會上嘲弄此事，後來承認他本人也目擊了該飛行器
 
@@ -188,8 +188,8 @@ terms:
   - term: Johnson Island
     senses:
       - id: johnson_island_test_site
-        definition: 強生島（Johnston Island），太平洋核試驗場
-        preferred_translation: 強生島
+        definition: 約翰遜島（Johnston Island），太平洋核試驗場
+        preferred_translation: 約翰遜島
         segments: [103]
         notes: 1962 年 Starfish Prime 核試驗地點，EMP 影響 800 英里外夏威夷的電力設備
 
@@ -246,19 +246,19 @@ terms:
   - term: Mulders and Scullies
     senses:
       - id: xfiles_characters
-        definition: 穆德與史卡利，《X檔案》影集中的主角
-        preferred_translation: 穆德與史卡利
+        definition: 穆德與史考莉，《X檔案》影集中的主角
+        preferred_translation: 穆德與史考莉
         segments: [95]
-        notes: 媒體文章用此比喻聽證會「充滿穆德（相信陰謀論）但缺乏史卡利（相信科學）」
+        notes: 媒體文章用此比喻聽證會「充滿穆德（相信陰謀論）但缺乏史考莉（相信科學）」
 
   # ===== N =====
   - term: National Press Club
     senses:
       - id: npc_venue_hearing
-        definition: 華盛頓特區的國家記者俱樂部
-        preferred_translation: 國家記者俱樂部
+        definition: 華盛頓特區的專業記者組織
+        preferred_translation: 國家新聞俱樂部
         segments: [96]
-        notes: 本次公民聽證會舉辦地點
+        notes: 本次公民聽證會舉辦地點，多次舉辦UFO相關記者會的場地
 
   - term: National Security
     senses:
@@ -346,8 +346,8 @@ terms:
   - term: Senator Gravel
     senses:
       - id: gravel_senator_panelist
-        definition: 麥克·格拉維爾參議員，聽證會評審小組成員
-        preferred_translation: 格拉維爾參議員
+        definition: 麥克·格拉韋爾參議員，聽證會評審小組成員
+        preferred_translation: 格拉韋爾參議員
         segments: [216]
         notes: Whisper 轉錄誤拼為 Gravell
 
@@ -395,10 +395,10 @@ terms:
   - term: triad
     senses:
       - id: triad_nuclear_forces
-        definition: 三位一體（核武三位一體），指陸基、海基、空基核武力量
-        preferred_translation: 核武三位一體
+        definition: 核武三位一體，指陸基、海基、空基三種核武打擊力量
+        preferred_translation: 核武三位一體（陸基、海基、空基）
         segments: [238]
-        notes: 討論美國核威懾能力，強調潛艇等多重打擊手段
+        notes: 上下文提到「our triad, with our submarines」，強調美國擁有潛艇等多重核打擊手段
 
   # ===== U =====
   - term: UFO
