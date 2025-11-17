@@ -30,7 +30,7 @@
 127. I'm 58. Okay. So, I'm old enough that I bounce one from the other. If I'm not happy, I'll go to Medicare or VA, preferably VA. And your age? 52, sir. Okay. You both got a little bit of time to wait. But in your case, there's no record at all of you in the VA system?
 → {"text": "", "confidence": "", "notes": ""}
 
-128. Okay. Two things happened with Senator Kyle. Number one, when he initially requested my records, they didn't exist. They weren't where they were supposed to be. And after a second letter was sent, and it was interesting the way the St. Louis treated him, they told him they'd try to look into it for him. They said, "We'll try to locate his records, but they're not where they belong." Eventually, they were able to get part of my personnel records released.
+128. Okay. Two things happened with Senator Kyl. Number one, when he initially requested my records, they didn't exist. They weren't where they were supposed to be. And after a second letter was sent, and it was interesting the way the St. Louis treated him, they told him they'd try to look into it for him. They said, "We'll try to locate his records, but they're not where they belong." Eventually, they were able to get part of my personnel records released.
 → {"text": "", "confidence": "", "notes": ""}
 
 129. Okay? And then from the personnel records, my DD form 214 is missing from 79 to 82. When I went in and saw the doctor, she was the one that brought up to me that there was no medical records in her file that she had received for me from 79 to 82. And she looked at me funny and said, "There's no record of you being in the Air Force from 79 to 82." And I pulled out a piece of paper that I brought with me showing where I came in the Air Force enlisted in 1979. And I also showed her the physical showing that I came in with no heart problems, and my exit physical with heart problems. And that changed her attitude towards me at that point. And again, like I said, she looked at me and said, "There's some things that we don't have need to know." And I said to her, I says, "Well, how are you going to do a fair evaluation on my case? Because you're the one that's going to recommend whether
@@ -45,7 +45,7 @@
 132. Can I bring up a point?
 → {"text": "", "confidence": "", "notes": ""}
 
-133. Sir, can I bring up a point though? The reason why we contacted Senator Kyle was his vast experience in helping veterans. He had a vast staff in Phoenix, then we did our research that their job, and they were very successful at helping veterans solve their cases.
+133. Sir, can I bring up a point though? The reason why we contacted Senator Kyl was his vast experience in helping veterans. He had a vast staff in Phoenix, then we did our research that their job, and they were very successful at helping veterans solve their cases.
 → {"text": "", "confidence": "", "notes": ""}
 
 134. Were they successful helping you?

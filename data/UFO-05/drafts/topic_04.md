@@ -18,7 +18,7 @@
 49. But everybody that was working on Woodbridge base that night and Bentwaters base that night seen it take off. That was observed by everybody. When it landed, I gather that it was not detailed enough so there was some concern that it might be a crash of one of our aircraft? Well, when I approached the craft itself, we were familiar with all types of aircraft and silhouettes.
 → {"text": "", "confidence": "", "notes": ""}
 
-50. We practiced routinely. We could tell by looking at the silhouettes what kind of aircraft they were Warsaw Pack or if they were Chinese or ours. But the craft itself was void of things that aircraft need to fly. I mean, it did not have a crew compartment that I could see, did not have exhaust, did not have intake. I did not know what the front was. So it was pretty void of all those things. And aerodynamically, well, it was a brick. I mean, there's no way that thing could fly. And my mindset at the time was that was not going anywhere. It was just going to stay there. So I had all the time in the world.
+50. We practiced routinely. We could tell by looking at the silhouettes what kind of aircraft they were Warsaw Pact or if they were Chinese or ours. But the craft itself was void of things that aircraft need to fly. I mean, it did not have a crew compartment that I could see, did not have exhaust, did not have intake. I did not know what the front was. So it was pretty void of all those things. And aerodynamically, well, it was a brick. I mean, there's no way that thing could fly. And my mindset at the time was that was not going anywhere. It was just going to stay there. So I had all the time in the world.
 → {"text": "", "confidence": "", "notes": ""}
 
 

@@ -12,7 +12,7 @@
 196. They did nothing to stop that. They did nothing to step up and make sure that we were treated medically after the incident. OK, the chain of command is clearly partly, or at least partly, being prohibited and what they need to do because this incident has been classified.
 → {"text": "", "confidence": "", "notes": ""}
 
-197. And not only has it been classified, it's been classified and kept away from the people that serve this country, which is the Senate and House of Representatives, the United States of America. And we're trying to do what we're trying to do, but at the same time, where are we going to go when people like Senator Kyle are prohibited from receiving records?
+197. And not only has it been classified, it's been classified and kept away from the people that serve this country, which is the Senate and House of Representatives, the United States of America. And we're trying to do what we're trying to do, but at the same time, where are we going to go when people like Senator Kyl are prohibited from receiving records?
 → {"text": "", "confidence": "", "notes": ""}
 
 198. Yeah. I was going to say . . .
@@ -72,7 +72,7 @@
 216. Okay. So that would have been about 1982, '83? '82 or '83, if I'm correct.
 → {"text": "", "confidence": "", "notes": ""}
 
-217. Okay. After the Reynolds and Forrest incident?
+217. Okay. After the Rendlesham Forest incident?
 → {"text": "", "confidence": "", "notes": ""}
 
 218. Yes, sir.
@@ -138,7 +138,7 @@
 
 ## Speaker Group 24
 
-238. That is correct. Yes, that is correct, sir. She said she became aware of it because of her work through Senator, you know, with Senator Kyle for veterans and their assistance, and she specifically said it was for PTSD and Agent Orange that they came across this.
+238. That is correct. Yes, that is correct, sir. She said she became aware of it because of her work through Senator, you know, with Senator Kyl for veterans and their assistance, and she specifically said it was for PTSD and Agent Orange that they came across this.
 → {"text": "", "confidence": "", "notes": ""}
 
 239. And she also told me that very few members of Congress were aware of this.

@@ -322,7 +322,7 @@ terms:
     source_text: No, I'll get to that in a minute. I'll get to that, how it's all
       about. Because of all this, Mr. Frisco and I started inquiring with the government,
       the VA and everybody else about, because my doctor's requesting my medical records
-      from the military, about my records. Senator Kyle, who I sent a letter to in
+      from the military, about my records. Senator Kyl, who I sent a letter to in
       December or January of 2010, took my case. He started looking into it, okay?
       During the process of his investigation, we received a letter, which we have
       here today, and a phone call from his, from one of his senior staffers saying
@@ -338,7 +338,7 @@ terms:
       my VA records were denied. The VA said that because I had not filed for disability,
       they would not even release my medical records, which belonged to me. They would
       not release my records to my doctor so I could receive treatment, because I
-      had not filed for disability and allowed the VA to review it. Senator Kyle had
+      had not filed for disability and allowed the VA to review it. Senator Kyl had
       me go in, file a disability claim, and bring him that claim. This was in June
       of 2010. In November of 2010, after not hearing from him, we sent him a letter.
       His response back to us was I was unable to obtain your records. My suggestion
@@ -373,7 +373,7 @@ terms:
       away from the people that serve this country, which is the Senate and House
       of Representatives, the United States of America. And we're trying to do what
       we're trying to do, but at the same time, where are we going to go when people
-      like Senator Kyle are prohibited from receiving records?
+      like Senator Kyl are prohibited from receiving records?
   - segment_id: 231
     sources:
     - template
@@ -1411,19 +1411,6 @@ terms:
       puzzling parts of it, is it was just too small for it to be piloted, in my opinion.
       >> Was there any investigation of the landing site? Was it cordoned off, and
       did experts come to see what artifacts might have been
-- term: Warsaw Pack
-  occurrences:
-  - segment_id: 50
-    sources:
-    - topic
-    source_text: We practiced routinely. We could tell by looking at the silhouettes
-      what kind of aircraft they were Warsaw Pack or if they were Chinese or ours.
-      But the craft itself was void of things that aircraft need to fly. I mean, it
-      did not have a crew compartment that I could see, did not have exhaust, did
-      not have intake. I did not know what the front was. So it was pretty void of
-      all those things. And aerodynamically, well, it was a brick. I mean, there's
-      no way that thing could fly. And my mindset at the time was that was not going
-      anywhere. It was just going to stay there. So I had all the time in the world.
 - term: Langley
   occurrences:
   - segment_id: 53
@@ -1521,7 +1508,7 @@ terms:
       my VA records were denied. The VA said that because I had not filed for disability,
       they would not even release my medical records, which belonged to me. They would
       not release my records to my doctor so I could receive treatment, because I
-      had not filed for disability and allowed the VA to review it. Senator Kyle had
+      had not filed for disability and allowed the VA to review it. Senator Kyl had
       me go in, file a disability claim, and bring him that claim. This was in June
       of 2010. In November of 2010, after not hearing from him, we sent him a letter.
       His response back to us was I was unable to obtain your records. My suggestion
@@ -1561,7 +1548,7 @@ terms:
       heart failure. At that point, they did a bunch of tests in the hospital. They
       shocked my heart back into regular rhythm, but none of the tests were conclusive
       on why I would have AFib or congestive heart failure.
-- term: Senator Kyle
+- term: Senator Kyl
   occurrences:
   - segment_id: 91
     sources:
@@ -1569,7 +1556,7 @@ terms:
     source_text: No, I'll get to that in a minute. I'll get to that, how it's all
       about. Because of all this, Mr. Frisco and I started inquiring with the government,
       the VA and everybody else about, because my doctor's requesting my medical records
-      from the military, about my records. Senator Kyle, who I sent a letter to in
+      from the military, about my records. Senator Kyl, who I sent a letter to in
       December or January of 2010, took my case. He started looking into it, okay?
       During the process of his investigation, we received a letter, which we have
       here today, and a phone call from his, from one of his senior staffers saying
@@ -1585,7 +1572,7 @@ terms:
       my VA records were denied. The VA said that because I had not filed for disability,
       they would not even release my medical records, which belonged to me. They would
       not release my records to my doctor so I could receive treatment, because I
-      had not filed for disability and allowed the VA to review it. Senator Kyle had
+      had not filed for disability and allowed the VA to review it. Senator Kyl had
       me go in, file a disability claim, and bring him that claim. This was in June
       of 2010. In November of 2010, after not hearing from him, we sent him a letter.
       His response back to us was I was unable to obtain your records. My suggestion
@@ -1609,11 +1596,11 @@ terms:
     source_text: Shame, shame. Well, it goes to the next point I want to make, which
       all I would do is call the liaison with BLM and have them send a call out there
       and move them on. But it's interesting to watch the reaction whenever I approach,
-      particularly in this case with John, Senator Kyle's office.
+      particularly in this case with John, Senator Kyl's office.
   - segment_id: 115
     sources:
     - topic
-    source_text: So nothing against Senator Kyle or his staff. But it goes to show
+    source_text: So nothing against Senator Kyl or his staff. But it goes to show
       how there is a wall at some point you reach in this case. And thus, we're at
       the point that we are.
   - segment_id: 197
@@ -1623,12 +1610,12 @@ terms:
       away from the people that serve this country, which is the Senate and House
       of Representatives, the United States of America. And we're trying to do what
       we're trying to do, but at the same time, where are we going to go when people
-      like Senator Kyle are prohibited from receiving records?
+      like Senator Kyl are prohibited from receiving records?
   - segment_id: 238
     sources:
     - topic
     source_text: That is correct. Yes, that is correct, sir. She said she became aware
-      of it because of her work through Senator, you know, with Senator Kyle for veterans
+      of it because of her work through Senator, you know, with Senator Kyl for veterans
       and their assistance, and she specifically said it was for PTSD and Agent Orange
       that they came across this.
 - term: DD form 214
@@ -1659,7 +1646,7 @@ terms:
       my VA records were denied. The VA said that because I had not filed for disability,
       they would not even release my medical records, which belonged to me. They would
       not release my records to my doctor so I could receive treatment, because I
-      had not filed for disability and allowed the VA to review it. Senator Kyle had
+      had not filed for disability and allowed the VA to review it. Senator Kyl had
       me go in, file a disability claim, and bring him that claim. This was in June
       of 2010. In November of 2010, after not hearing from him, we sent him a letter.
       His response back to us was I was unable to obtain your records. My suggestion
