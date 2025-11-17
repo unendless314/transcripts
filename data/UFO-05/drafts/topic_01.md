@@ -1,31 +1,31 @@
 ## Speaker Group 1
 
 1. I do hereby affirm that I will tell the truth and nothing but the truth to this committee today. Thank you very much. And welcome to our visitors and presenters this morning.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我在此宣誓，今日向本委員會所陳述之內容，句句屬實，絕無虛言。非常感謝各位。歡迎今早蒞臨的來賓與證人。", "confidence": "high", "notes": ""}
 
 2. I'm going to start at the right and have each member take 30 seconds just to introduce yourself.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們將從右側開始，請每位成員用 30 秒時間簡短介紹自己。", "confidence": "high", "notes": ""}
 
 3. We have our counselor on the end who was an excellent expert witness yesterday. Would you get about 15 seconds please open up with introductions. We have new people in the room. So yes. Identify us. Yes. My name is Dan Sheehan. I'm general counsel for the committee and I've been involved in this for about 20 years probably in these kind of hearings since representing Dr. John Mack in front of the Harvard Faculty Committee and prior to that time had participated as I mentioned in the preparation of a special report from the Congressional Research Service to President Carter on this issue back in 1977. Thank you very much sir. Madam Congresswoman.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們最右側是我們的法律顧問，他昨天是位傑出的專家證人。能否請您用 15 秒時間開場介紹一下？因為房間裡有新來的聽眾，所以麻煩介紹一下我們。是的，我叫丹·希恩（Dan Sheehan），是本委員會的總法律顧問。我參與這個議題大約 20 年了，參加過許多類似的聽證會，包括在哈佛教職員委員會前代表約翰·麥克博士（Dr. John Mack）作證。在那之前，如同我昨天提到的，我曾於 1977 年參與國會研究服務處（Congressional Research Service）為卡特總統（President Carter）準備的一份關於此議題的特別報告。非常感謝您，先生。眾議員女士。", "confidence": "high", "notes": ""}
 
 4. Yes I'm Congresswoman Darlene Hooley. Left Congress four years ago. Had a wonderful experience while I was there. It was an amazing thing to do. And I am back home in Oregon and have a business and delighted that I was invited. I served on the science committee. Delighted that I was invited to attend these meetings and I will tell you yesterday was spectacular.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，我是達蓮·胡利眾議員（Congresswoman Darlene Hooley）。四年前離開國會。在職期間有非常美好的經歷，那是一段令人驚嘆的時光。我現在回到俄勒岡州（Oregon）老家，經營一家企業。很高興受邀參加這次會議。我曾在科學委員會（Science Committee）任職。非常榮幸能受邀參加這些會議，我必須告訴各位，昨天的聽證會非常精彩。", "confidence": "high", "notes": ""}
 
 5. Really appreciate all the witnesses. And I learned something new. It was fascinating to me. Thank you. Thank you. My name is Mike Gravel. Senator from Alaska for two terms.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "真的很感謝所有證人。我學到了許多新知識，對我而言非常引人入勝。謝謝。謝謝各位。我叫麥克·格拉維爾（Mike Gravel），曾擔任阿拉斯加州參議員兩屆。", "confidence": "high", "notes": ""}
 
 6. Been out of office for 40 years. So but I found the hearings absolutely very interesting edifying and I really want to congratulate those who put this conference on. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "離開公職已經 40 年了。但我發現這次聽證會非常有趣且富有啟發性，我真的要恭賀籌辦這次會議的所有人員。謝謝。", "confidence": "high", "notes": ""}
 
 7. I'm Roscoe Bartlett. I had the great honor of serving Maryland's sixth district in the Congress for 20 years. I didn't come to the Congress until I was 66 years old. So obviously I had a life before that. I have a Ph.D. I worked for the military. Various, every way you can work for the military for 20 years before I came to the Congress. Taught medical school. Really a great honor to serve and really pleased that I was asked to be a part of this activity. Thank you. Congresswoman. I'm Lynn Woolsey from just across the Golden Gate Bridge from San Francisco. Retired four months now after 20 years in Congress. And served the entire 20 years on the science committee and on the education and labor committee and find this issue that we're talking about this week absolutely stimulating and important.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我是羅斯科·巴特利特（Roscoe Bartlett）。我有幸在國會為馬里蘭州第六選區服務了 20 年。我直到 66 歲才進入國會，所以顯然在那之前我有另一段人生。我擁有博士學位，曾為軍方工作。在進入國會前，我以各種方式為軍方工作了 20 年。也曾在醫學院任教。能夠服務公眾是莫大的榮幸，很高興受邀參與這項活動。謝謝。眾議員女士，我是琳恩·伍爾西（Lynn Woolsey），來自舊金山金門大橋對岸。退休才四個月，在國會服務了 20 年。這整整 20 年間，我都在科學委員會與教育勞工委員會任職。我認為我們本週討論的議題絕對令人振奮且意義重大。", "confidence": "high", "notes": ""}
 
 8. Not just the extraterrestrial piece of it, but mainly the governance and knowing what's going on in our government and comparing with other governments. So I too am honored that I was asked to be part of this. Thank you. Congressman. I'm Merrill Cook. I had the great opportunity to serve the state of Utah as a congressman from the second district which is basically the Salt Lake City metropolitan area. I, among other committees, I was pleased to serve on the science, the space subcommittee and the aviation subcommittee. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不僅僅是外星生命的部分，更重要的是治理問題——了解我們政府內部的運作，並與其他國家政府進行比較。因此我也深感榮幸能受邀參與。謝謝。眾議員先生，我是梅里爾·庫克（Merrill Cook）。我有幸擔任猶他州第二選區的眾議員，為該州服務，該選區基本上涵蓋鹽湖城都會區。在任職的諸多委員會中，我很榮幸能在科學委員會、太空小組委員會與航空小組委員會服務。謝謝。", "confidence": "high", "notes": ""}
 
 9. Need no introduction on the end Mr. Bookman. I'm Dr. Joseph Bookman. I held a PhD from Indiana University. I ran for Congress in 2008 as a Libertarian. I'm currently the chair of the Libertarian Party's platform committee. And I serve as a researcher for the Paradigm Research Group. Thank you. And I'm Congresswoman Carolyn Kilpatrick. 14 years in the House of Representatives. 12 on the Appropriations Committee. First African American woman to serve on the Defense Appropriations Committee which was a thrill. And served on the Air Force Academy Board for five or six years in that time. So you have here over 80 years of service and public service and giving. And I want to tell you to a person some of the best. So the, again, to commend staff for putting this together. I know you guys have been in it 30, 40, 50, 60 years and up. We're neophytes and we're here to learn and
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "最後這位布克曼先生（Mr. Bookman）無需介紹了。我是約瑟夫·布克曼博士（Dr. Joseph Bookman），擁有印第安那大學（Indiana University）博士學位。我於 2008 年以自由黨（Libertarian）身分競選國會議員。目前擔任自由黨政綱委員會主席，並在範式研究組織（Paradigm Research Group）擔任研究員。謝謝。我是卡蘿琳·基爾派翠克眾議員（Congresswoman Carolyn Kilpatrick）。在眾議院服務了 14 年，其中 12 年在撥款委員會（Appropriations Committee）任職。我是第一位在國防撥款委員會（Defense Appropriations Committee）任職的非裔美國女性，這是一項殊榮。在那段時間，我也在空軍官校董事會（Air Force Academy Board）服務了五、六年。所以在座各位加起來有超過 80 年的公職服務與奉獻經歷。我要告訴各位，你們每個人都是最優秀的。因此，我要再次讚揚工作人員籌辦這次會議。我知道你們各位已經投入此議題 30、40、50、60 年甚至更久。我們是新手，我們來此學習，", "confidence": "high", "notes": ""}
 
 10. to hopefully take back something so that we can move forward like the rest of the world on this topic. Okay, Mr. Pope, thank you. Thank you, Madam Chair, fellow committee members.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "希望能從中學到一些東西，讓我們能在這個議題上像世界其他國家一樣向前邁進。好的，波普先生（Mr. Pope），請開始。謝謝主席女士，各位委員。", "confidence": "high", "notes": ""}

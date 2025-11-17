@@ -1,61 +1,61 @@
 ## Speaker Group 1
 
 24. Thank you very much. I want to now yield to Patrick. I don't want to mispronounce your name and I appreciate you having your testimony to us last night.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。現在我要請派翠克發言。我不想念錯您的名字，也很感謝您昨晚向我們提供證詞。", "confidence": "high", "notes": ""}
 
 25. Thank you, Mr. Frescona. Please proceed. Madame Chair, my name is Patrick Frescona.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您，弗雷斯科納先生。請開始。主席女士，我的名字是派翠克·弗雷斯科納。", "confidence": "high", "notes": ""}
 
 26. I am legal counsel to James Penniston and John Burroughs, both of whom proudly and passionately served our country in the United States Air Force. Mr. Burroughs and Mr. Penniston are seated with me this morning along with Nick Pope, formerly with the United Kingdom's Ministry of Defense. Mr. Pope has been a long-time advocate for full disclosure of the events for which we will discuss today. For me, it is indeed nothing short of an honor to be seated beside these gentlemen. Thirty-three years ago at the zenith of the Cold War in 1980, Staff Sergeant James Penniston and Airman First Class John Burroughs were assigned to the twin Royal Air Force bases of Bentwaters and Woodbridge near Suffolk, England. At that time, RAF Bentwaters and Woodbridge were leased by the United Kingdom to the U.S. Air Force.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我是詹姆斯·潘尼斯頓和約翰·巴勒斯的法律顧問，兩位都曾自豪且熱誠地在美國空軍為國服務。巴勒斯先生和潘尼斯頓先生今天早上與我一同在座，還有英國國防部的前官員尼克·波普先生。波普先生長期以來一直倡導全面揭露我們今天將討論的事件真相。對我而言，能與這些先生們並肩而坐確實是無上的榮幸。三十三年前，在1980年冷戰高峰時期，技術軍士詹姆斯·潘尼斯頓和一等兵約翰·巴勒斯被分派至英國薩福克郡附近的 RAF Bentwaters 和 RAF Woodbridge 雙基地。當時，RAF Bentwaters 和 RAF Woodbridge 由英國租借給美國空軍使用。", "confidence": "high", "notes": ""}
 
 27. Together, the twin bases were home to the largest tactical fighter wing in existence anywhere in the world at that time. James Penniston held U.S. as well as NATO security clearances and was responsible for the protection of sophisticated war-making assets in addition to the personnel located at the bases. By December of 1980, he was the senior security officer in charge of base security at the twin base facility. After midnight on December 26, 1980, Airman Burroughs along with Staff Sergeant Bud Steffens were on patrol. Together, when they noticed strange lights emanating from just outside the east gate of the Bentwaters base in the adjacent Rendlesham Forest. Mr. Burroughs had been stationed at the twin base facility for nearly two years and had never seen such an unusual phenomenon previously in the forest. Sergeant Steffens and Airman Burroughs telephoned Central Security Control,
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當時，這對雙基地是世界上任何地方最大的戰術戰鬥機聯隊駐地。詹姆斯·潘尼斯頓持有美國以及北約的安全許可，負責保護先進的作戰資產以及駐紮在基地的人員。到1980年12月，他已是負責雙基地設施安全的資深安全官員。1980年12月26日午夜後，一等兵巴勒斯與技術軍士巴德·史蒂芬斯正在巡邏，兩人注意到從 Bentwaters 基地東門外、鄰近的藍道申森林中發出的奇怪燈光。巴勒斯先生駐紮在雙基地設施已近兩年，此前從未在森林中見過如此異常的現象。史蒂芬斯軍士和巴勒斯一等兵從東門哨亭致電中央安全管制中心，", "confidence": "high", "notes": ""}
 
 28. Tennessee from the kiosk at the east gate to report the unidentified lights just beyond the bases perimeter. Shortly thereafter, Mr. Penniston was briefed by Staff Sergeant Steffens regarding the strange lights that they had seen. Mr. Penniston was further informed that the lights did not result from a crash but had landed in the forest. This is a remark he discounted by Sergeant Steffens and proceeded to notify the base control center that there was instead a possible downed aircraft. Mr. Penniston also learned that an object had been seen on radar over Rendlesham Forest. Moreover, a call came over his radio that eastern radar had also confirmed an object that disappeared from their screens over the forest. The team Mr. Penniston assembled to investigate the lights in the forest consisted of himself, Airman Burroughs, and Airman Ed Kabancik. As he and the rest of the team approached
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "回報基地周邊外的不明燈光。不久後，潘尼斯頓先生由史蒂芬斯技術軍士簡報關於他們所見的奇怪燈光。潘尼斯頓先生進一步被告知，這些燈光並非由墜機造成，而是降落在森林中。他對史蒂芬斯軍士的說法持保留態度，並通知基地控制中心可能有飛機墜毀。潘尼斯頓先生也得知雷達上曾偵測到一個物體位於藍道申森林上空。此外，他的無線電傳來訊息，東部雷達站也確認有物體在森林上空從他們的螢幕上消失。潘尼斯頓先生組建的森林調查小組成員包括他本人、巴勒斯一等兵以及艾德·卡班希克一等兵。當他和小組其他成員接近", "confidence": "high", "notes": "原文中「Tennessee from the kiosk」疑似為轉錄錯誤或無意義片段，依上下文翻譯為「回報」"}
 
 29. the forest, they experienced uncharacteristic problems with their radios. As a result, Mr.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "森林時，他們的無線電出現了異常問題。因此，潘尼斯頓先生", "confidence": "high", "notes": ""}
 
 30. Penniston instructed Airman Kabancik to remain at the edge of the forest to act as a relay for transmissions between he and Mr. Burroughs as they entered the forest themselves. As these two gentlemen proceeded into the forest, they were expecting to find a downed aircraft.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "指示卡班希克一等兵留在森林邊緣，作為他與巴勒斯先生之間的無線電中繼站，當他們兩人進入森林時。這兩位先生進入森林時，他們原本預期會發現墜毀的飛機。", "confidence": "high", "notes": ""}
 
 31. Upon arriving at the suspected crash site, it immediately became apparent to both Penniston and Burroughs that they were not looking at a crashed aerial vehicle or, for that matter, any kind of vehicle they had ever seen. Suddenly, a blinding flash of white light emanated from that craft, instinctively causing Airman Burroughs, excuse me, Mr. Penniston and Burroughs to drop to the ground. As both men returned to their feet, they witnessed a triangular craft approximately nine feet long by six and a half feet wide at rest in a small clearing in the forest. Also observed were blue and yellow lights swirling around the exterior skin of the craft as if they were part of the craft's skin itself. The air in the vicinity of the craft felt electrically charged and was in fact so full of static electricity they could feel it all over their clothes, skin and throughout their hair. Nothing, absolutely
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "抵達疑似墜機地點後，潘尼斯頓和巴勒斯立即明白，他們看到的既不是墜毀的飛行器，也不是他們見過的任何一種飛行器。突然間，一道耀眼的白光從那架飛行器閃現，本能地使巴勒斯一等兵——抱歉，是潘尼斯頓先生和巴勒斯趴倒在地。當兩人重新站起時，他們目睹一架三角形飛行器，長約九英呎、寬約六英呎半，靜止在森林中的一處小空地。他們還觀察到藍色和黃色的燈光在飛行器外殼周圍旋轉，彷彿這些燈光就是飛行器表面本身的一部分。飛行器附近的空氣感覺帶電，實際上充滿了靜電，他們能在全身衣服、皮膚以及頭髮上感受到靜電。完全沒有，絕對", "confidence": "high", "notes": ""}
 
 32. nothing in the military training of these men had prepared them for this encounter.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒有任何軍事訓練能讓這些人為這次遭遇做好準備。", "confidence": "high", "notes": ""}
 
 33. After perhaps ten minutes had passed without any recognizable aggression displayed by the craft, Mr. Penniston concluded there was no threat to either himself or Mr. Burroughs and the rest of his response team or, more importantly, to the Bentwaters base itself.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "大約十分鐘過去後，飛行器沒有顯示任何可辨識的攻擊性，潘尼斯頓先生判斷對他本人或巴勒斯先生及其他應變小組成員，更重要的是對 Bentwaters 基地本身，都沒有威脅。", "confidence": "high", "notes": ""}
 
 34. Consequently, he commenced a thorough on-site inspection of the craft in accordance with the usual security protocols. His inspection of the craft included photographs, notebook entries and radio contact with Airman Kubancik for relay back to the Bentwaters Control Center.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "因此，他依照常規安全協議展開對飛行器的徹底現場檢查。他對飛行器的檢查包括拍照、筆記本記錄，以及透過無線電與卡班希克一等兵聯繫，以中繼回報給 Bentwaters 控制中心。", "confidence": "high", "notes": "原文拼寫為 Kubancik，但根據 terminology.yaml 應為 Kabancik"}
 
 35. Mr. Penniston noted a row of symbols which was two and a half feet long and about three inches in height on one side of the craft. The symbols Mr. Penniston saw were pictorial and hieroglyphic like in design, the largest one being a triangle which was centered in the middle of others. All of the symbols were etched into the skin of the craft which was self-warmed to the touch and smooth as glass. Approximately 45 minutes after arriving on scene with the craft, it rapidly began to brighten. In response, both Penniston and Burroughs took defensive positions away from it and watched as the craft became airborne without generating any air or sound disturbance. The craft maneuvered through the trees as it ascended skyward then streaked away at an unbelievable rate of speed. In fact, Mr.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "潘尼斯頓先生注意到飛行器一側有一排符號，長約兩英呎半、高約三英吋。潘尼斯頓先生看到的符號是圖案式和象形文字般的設計，最大的符號是一個三角形，位於其他符號的中央。所有符號都蝕刻在飛行器的表面上，觸摸時感覺溫暖且光滑如玻璃。抵達現場大約四十五分鐘後，飛行器快速開始變亮。作為回應，潘尼斯頓和巴勒斯都採取了遠離飛行器的防禦姿勢，並看著飛行器升空，過程中沒有產生任何空氣擾動或聲音。飛行器在樹木間機動上升，然後以難以置信的速度疾馳而去。事實上，潘尼斯頓先生", "confidence": "high", "notes": ""}
 
 36. Penniston described the craft's departure speed in his field notes as impossible. The craft's departure from the forest was observed not only by Mr. Penniston and Burroughs but by more than 40 Air Force personnel, all of whom were trained observers assigned to the 81st Security Police Squadron. The information acquired during Penniston and Burroughs' investigation in the forest was dutifully reported by them through normal military channels. Their team and other personnel who witnessed the craft were instructed to treat the investigation as top secret and not to discuss what they had seen. The camera film containing photographs of the craft Mr. Penniston took were turned into the base lab but when he picked them up they were strangely all overexposed rendering them useless. Add to this oddity that following the encounter in the forest both Penniston and Burroughs were interrogated by government
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在現場筆記中將飛行器的離開速度描述為不可能。飛行器從森林離開的過程，不僅被潘尼斯頓先生和巴勒斯看到，也被四十多名空軍人員目睹，所有這些人都是訓練有素的觀察者，隸屬於第 81 安全警察中隊。潘尼斯頓和巴勒斯在森林調查期間獲得的資訊，都由他們透過正常軍事管道進行回報。他們的小組以及其他目擊飛行器的人員被指示將調查視為最高機密，不得討論他們所見。潘尼斯頓先生拍攝的飛行器照片底片被交到基地實驗室，但當他取回時，底片全部離奇地過度曝光，導致無法使用。除了這個怪事，森林遭遇之後，潘尼斯頓和巴勒斯都被政府", "confidence": "high", "notes": ""}
 
 37. agents believed to be from the Air Force Office of Special Investigations in which narcotics were even given them prior to interrogation as if they were some kind of enemy captives.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "特工審訊，這些特工被認為來自空軍特別調查辦公室，審訊前甚至對他們施打了藥物，彷彿他們是某種敵方俘虜。", "confidence": "high", "notes": ""}
 
 38. The previous description of the encounter Jim Penniston and John Burroughs had in Rendlesham Forest in late December of 1980 was not solitary. John Burroughs would join Colonel Charles Halt on another investigation in the forest two nights subsequent when an illuminated craft moved silently through the forest before becoming multiple aerial objects overhead.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "前述對詹姆·潘尼斯頓和約翰·巴勒斯在1980年12月下旬於藍道申森林遭遇的描述並非孤立事件。兩晚後的另一次森林調查中，約翰·巴勒斯與查爾斯·霍爾特上校同行，當時一架發光的飛行器無聲地在森林中移動，隨後在空中變成多個空中物體。", "confidence": "high", "notes": ""}
 
 39. Colonel Halt generated an official Air Force memorandum commonly referred to as the Halt Memo in which he memorializes this event. Moreover the Colonel has even stood in this very room we are in today and said he believed the objects were under intelligent control.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "霍爾特上校撰寫了一份正式的空軍備忘錄，通常稱為 Halt 備忘錄，其中記載了這一事件。此外，上校甚至曾站在我們今天所在的這個房間裡，表示他相信這些物體處於智慧控制之下。", "confidence": "high", "notes": ""}
 
 40. Jim Penniston and John Burroughs both began suffering from physical ailments after their encounter in the forest. Ailments which did not exist prior to joining the Air Force but ailments which began almost immediately after exposure to the craft in the forest. These ailments have persisted in both men to this day. In 2011 I began assisting both gentlemen in propounding Freedom of Information Act requests on the Central Intelligence Agency, National Security Agency, Defense Intelligence Agency, Department of the Air Force, Defense Advanced Research Projects Agency via the Department of Defense, Air Force Office of Special Investigations, and the Department of Veterans Affairs. All of the previously listed divisions of our government responded to our inquiries for information regarding John and Jim by essentially saying they had nothing on file about them. The one exception
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "詹姆·潘尼斯頓和約翰·巴勒斯在森林遭遇後都開始出現身體疾病。這些疾病在加入空軍前並不存在，但在森林中接觸到飛行器後幾乎立即出現。這些疾病在兩人身上持續至今。2011年，我開始協助這兩位先生向中央情報局、國家安全局、國防情報局、空軍部、國防高等研究計劃署（透過國防部）、空軍特別調查辦公室以及退伍軍人事務部提出資訊自由法申請。前述所有政府部門對我們關於約翰和詹姆的查詢回應，基本上都說他們沒有相關檔案。唯一例外", "confidence": "high", "notes": ""}
 
 41. is the CIA's response which was the most frustrating of them all by their stating that they could neither confirm nor deny the existence or non-existence of records responsive to our request. In other words none of the governmental entities we contacted, those we just named, even the Air Force seemed to know anything about a John Burroughs or a Jim Penniston despite the fact that we're all fairly certain they served in the United States Air Force for many years. We have repeatedly sought to obtain the medical records of John's and Jim's default requests but have yet to succeed. John's physicians in particular have requested his service medical records especially those related to what it was he and Jim came into contact with in the forest. They have requested this information time and time again from John in order to provide the best chance to treat his medical problems which have at times
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "的是 CIA 的回應，他們的回應最令人沮喪，他們表示無法確認或否認存在或不存在回應我們申請的記錄。換句話說，我們聯繫的所有政府實體，也就是我們剛才提到的那些，甚至空軍，似乎都不知道有約翰·巴勒斯或詹姆·潘尼斯頓這樣的人，儘管我們都相當確定他們在美國空軍服役多年。我們反覆尋求獲得約翰和詹姆的醫療記錄，但預設申請至今仍未成功。約翰的醫生特別要求他的服役醫療記錄，尤其是與他和詹姆在森林中接觸到什麼有關的記錄。他們一次又一次地向約翰要求這些資訊，以便提供治療其醫療問題的最佳機會，這些問題有時", "confidence": "high", "notes": ""}
 
 42. been life-threatening. We even enlisted the help of a former senator from John's home state of Arizona but still did not get anything other than learning that the Veterans Administration has a classified records section. In closing I want to say that in December of 1980 I was thousands of miles away from Rendlesham Forest studying in college. I was completely unaware of the incident. I was completely unaware of these gentlemen. It would not be but for another 28 years in 2008 that I would first encounter that incident and become aware of it. But once I learned of their story I felt compelled to assist them however I could as this was an event of tremendous fascination, importance and one with casualties too. It has been cowardly the way their requests for medical records and the like have been rejected using excuses like we have no records responsive to your request or the requested records are
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "曾危及生命。我們甚至請來約翰家鄉亞利桑那州的一位前參議員協助，但仍然沒有獲得任何東西，只得知退伍軍人事務部有一個機密記錄系統。最後我想說，1980年12月時，我身處離藍道申森林數千英里外的地方，在大學求學。我當時完全不知道這個事件。我完全不知道這些先生們的存在。直到2008年，也就是另外二十八年後，我才首次接觸到那個事件並了解到它。但一旦得知他們的故事，我感到必須盡我所能協助他們，因為這是一個極具吸引力、重要性的事件，也是一個有受害者的事件。用諸如『我們沒有回應您申請的記錄』或『申請的記錄不再』等藉口拒絕他們的醫療記錄及類似申請，這種做法是懦弱的", "confidence": "high", "notes": ""}
 
 43. no longer under our purview. Nevertheless we continue undaunted in our search for these gentleman's medical records so that their physicians may properly treat them as John Burroughs once said to me Jim and I have been left behind on the battlefield of the Cold War. Thank you Madam Chair. Thank you very much for the both of your testimonies. It's very hard to explain why a country this great can treat our military so poorly. I want to yield now to Mr. Pennington. Sergeant are you prepared? Thank you madam. I appreciate that all of you are here today and I look forward to your questions and I'll try to answer them as honestly as I can. It's been 32 years though. There's a few gray areas that I can't recall on so I'll try to answer them as best as I can and keep it strictly to the facts. Thank you. Thank you sir and thank you for your service. Sergeant Burroughs.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在我們管轄範圍內。』儘管如此，我們在尋找這些先生的醫療記錄方面持續不懈，以便他們的醫生能夠妥善治療他們。正如約翰·巴勒斯曾對我說的：『詹姆和我被遺留在冷戰的戰場上。』謝謝您，主席女士。非常感謝你們兩位的證詞。很難解釋為什麼如此偉大的國家會如此糟糕地對待我們的軍人。現在我要請潘寧頓先生發言。軍士，您準備好了嗎？謝謝您，女士。我很感激今天各位的蒞臨，期待您的提問，我會盡力誠實回答。不過已經過了三十二年了。有些灰色地帶我無法回憶，所以我會盡力回答，並嚴格按照事實陳述。謝謝。謝謝您，先生，也謝謝您的服役。巴勒斯軍士。", "confidence": "high", "notes": "原文稱「Mr. Pennington」但應為「Mr. Penniston」（潘尼斯頓），這裡保持原文錯誤但翻譯為潘寧頓"}
