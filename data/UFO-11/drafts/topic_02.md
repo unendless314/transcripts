@@ -16,7 +16,7 @@
 → {"text": "您說得對。我想展示我提供的光學資料、視覺資料，快速瀏覽一下，非常快速。", "confidence": "high", "notes": ""}
 
 83. Biggest study ever done for the United States Air Force, Project Blue Book Special Report 14, 3,200 sightings never referred to by the debunkers.
-→ {"text": "這是為美國空軍所做的最大規模研究，藍皮書特別報告 14 號，包含 3，200 個目擊事件，懷疑論者從未提及。", "confidence": "high", "notes": ""}
+→ {"text": "這是為美國空軍所做的最大規模研究，藍皮書特別報告 14 號，包含 3,200 個目擊事件，懷疑論者從未提及。", "confidence": "high", "notes": ""}
 
 84. The next one, please.
 → {"text": "請看下一張。", "confidence": "high", "notes": ""}
