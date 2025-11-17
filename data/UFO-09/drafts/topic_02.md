@@ -15,7 +15,7 @@
 166. I've been involved in the field of UFO studies for more than 30 years as a researcher, lecturer, activist, consultant, author, and conference organizer.
 → {"text": "", "confidence": "", "notes": ""}
 
-167. I've consulted to numerous television and radio shows, films, appear on radio regularly commenting about these subjects, write a column, actually a new one that will be starting in June for a new online magazine called UFO Truth, published by my friend and colleague to my right, Gary Hazeltine.
+167. I've consulted to numerous television and radio shows, films, appear on radio regularly commenting about these subjects, write a column, actually a new one that will be starting in June for a new online magazine called UFO Truth, published by my friend and colleague to my right, Gary Heseltine.
 → {"text": "", "confidence": "", "notes": ""}
 
 168. I'm also the co-author of a 540-page book that was a bestseller in the United Kingdom entitled Left at East Gate, a first-hand account of the Rendlesham Forest UFO investigation, Rendlesham Forest UFO incident, its cover-up and investigation.

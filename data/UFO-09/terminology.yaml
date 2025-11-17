@@ -70,7 +70,7 @@ terms:
     senses:
       - id: coast_to_coast_am_radio
         definition: 美國深夜電台談話節目，專注於超自然與陰謀論主題
-        preferred_translation: Coast to Coast AM
+        preferred_translation: Coast to Coast AM 節目
         segments: [298]
         notes: Linda Moulton Howe 定期在此節目報導 UFO 相關資訊
 
@@ -202,7 +202,7 @@ terms:
     senses:
       - id: heseltine_detective
         definition: 退休英國警探，PRUFOS資料庫創建者
-        preferred_translation: 蓋瑞·赫瑟汀
+        preferred_translation: 蓋瑞·海絲汀
         segments: [167, 216, 217, 218, 221, 387, 661, 676, 806]
         notes: 在英國運輸警察服務近24年，收集警察UFO目擊報告。本集轉錄中大部分誤拼為 "Hazeltine"
 
@@ -219,7 +219,7 @@ terms:
     senses:
       - id: forrestal_secretary
         definition: 美國首任國防部長，1949年神秘死亡
-        preferred_translation: 詹姆斯·文森特·福雷斯托
+        preferred_translation: 詹姆斯·文森特·福萊斯特
         segments: [177]
         notes: Peter Robbins 研究其死亡與 UFO 保密的關聯
 
@@ -287,7 +287,7 @@ terms:
     senses:
       - id: davenport_director
         definition: 國家UFO報告中心主任
-        preferred_translation: 彼得·B·戴文波特
+        preferred_translation: 彼得·B·達文波特
         segments: [5]
         notes: UFO研究者，管理超過86,000份目擊報告的資料庫
 
@@ -402,17 +402,17 @@ terms:
     senses:
       - id: trumbull_county_sighting
         definition: 俄亥俄州特朗布爾縣
-        preferred_translation: 俄亥俄州特朗布爾縣
+        preferred_translation: 俄亥俄州杜倫巴爾郡
         segments: [271]
         notes: 1994年12月14日，15名警察從不同地點目擊多個圓形UFO
 
   - term: truth embargo
     senses:
       - id: truth_embargo_concept
-        definition: 真相禁運，指政府對UFO真相的系統性封鎖
-        preferred_translation: 真相禁運
+        definition: 透過媒體控制、嘲笑文化與自我審查維持的資訊封鎖
+        preferred_translation: 真相封鎖
         segments: [831]
-        notes: 與「真相揭露」(disclosure) 相對的概念，描述長期的資訊封鎖狀態
+        notes: Dr. Steven Greer 創造並推廣的術語，描述 UFO 資訊被系統性壓制的狀態。與「真相掩蓋」(cover-up) 相對應：cover-up 指隱藏內部事實，truth embargo 指阻斷對外流通
 
   # ===== U =====
   - term: UFO
@@ -426,8 +426,8 @@ terms:
   - term: UFO ridicule factor
     senses:
       - id: ufo_ridicule_factor
-        definition: UFO嘲弄因素，指媒體與社會對UFO主題的系統性嘲諷態度
-        preferred_translation: UFO嘲弄因素
+        definition: UFO嘲諷現象，指媒體與社會對UFO主題的系統性嘲諷態度
+        preferred_translation: UFO嘲諷現象
         segments: [177, 180]
         notes: Peter Robbins 主要研究主題，認為這是1947年起刻意製造的現象
 

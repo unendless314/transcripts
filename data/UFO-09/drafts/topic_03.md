@@ -1,12 +1,12 @@
 ## Speaker Group 1
 
-216. Next witness is Gary Hazeltine.
+216. Next witness is Gary Heseltine.
 → {"text": "", "confidence": "", "notes": ""}
 
-217. Hazeltine.
+217. Heseltine.
 → {"text": "", "confidence": "", "notes": ""}
 
-218. Hazeltine.
+218. Heseltine.
 → {"text": "", "confidence": "", "notes": ""}
 
 219. Thank you.
@@ -15,7 +15,7 @@
 220. Good morning, and I will not go over 10 minutes of my practice.
 → {"text": "", "confidence": "", "notes": ""}
 
-221. My name is Gary Hazeltine, and I am a recently retired police detective in England, having served almost 24 years with the British Transport Police.
+221. My name is Gary Heseltine, and I am a recently retired police detective in England, having served almost 24 years with the British Transport Police.
 → {"text": "", "confidence": "", "notes": ""}
 
 222. For the majority of that time, for 20 years, I was a detective.
