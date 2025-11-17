@@ -1,139 +1,139 @@
 ## Speaker Group 1
 
 1. I would like to call the afternoon session of our hearing Citizens Hearing on Disclosure to order.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我宣布「真相揭露公民聽證會」下午場會議正式開始。", "confidence": "high", "notes": "Citizens Hearing on Disclosure 為正式名稱，已修正 Whisper 轉錄錯誤（原為 assistance hearing）"}
 
 2. Gentlemen, if you would rise and repeat after me, I'd appreciate it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "各位先生，請起立並跟我複誦，謝謝。", "confidence": "high", "notes": ""}
 
 3. I do hereby affirm that I will tell the truth and nothing but the truth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我在此鄭重宣誓，我將陳述真相，且僅陳述真相。", "confidence": "high", "notes": "正式宣誓用語"}
 
 4. And nothing but the truth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "且僅陳述真相。", "confidence": "high", "notes": "證人跟誦"}
 
 5. To this committee today.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "向本委員會作證。", "confidence": "high", "notes": ""}
 
 6. To this committee today.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "向本委員會作證。", "confidence": "high", "notes": "證人跟誦"}
 
 7. Thank you very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 8. We'll begin with Captain Robert Salas.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們將從羅伯特·薩拉斯上尉 (Captain Robert Salas) 開始。", "confidence": "high", "notes": "已修正 Whisper 錯誤（原為 Roger Salas）"}
 
 9. Am I pronouncing that right, sir?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我念對了嗎，先生？", "confidence": "high", "notes": ""}
 
 10. Salas is correct.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Salas 是正確的。", "confidence": "high", "notes": ""}
 
 11. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 12. Thank you, sir.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您，先生。", "confidence": "high", "notes": ""}
 
 13. Mr. Kilpatrick and panel, I would first like to briefly describe the incident that I experienced in March 1967.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Kilpatrick 先生以及各位委員，我想首先簡要描述我在 1967 年 3 月經歷的事件。", "confidence": "high", "notes": ""}
 
 14. At that time, I was a First Lieutenant, U.S. Air Force Station at Malmstrom Air Force Base, Montana.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當時，我是一名少尉，駐紮於蒙大拿州馬姆斯特羅姆空軍基地 (Malmstrom Air Force Base)，隸屬美國空軍。", "confidence": "high", "notes": "已修正 Whisper 錯誤（原為 Maldenstrom）"}
 
 15. I was trained in assigned duties as a missile launch officer for the Minuteman I intercontinental ballistic missile.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我接受訓練並被指派擔任民兵一型洲際彈道導彈 (Minuteman I intercontinental ballistic missile) 的導彈發射官。", "confidence": "high", "notes": ""}
 
 16. I was designated Deputy Missile Combat Crew Commander and part of a two-man crew.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我被指定為副導彈戰鬥組指揮官，隸屬於一個兩人編組。", "confidence": "high", "notes": ""}
 
 17. My commander at that time was Lieutenant Frederick Mywald.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我當時的指揮官是弗雷德里克·邁沃爾德中尉 (Lieutenant Frederick Mywald)。", "confidence": "high", "notes": "已修正 Whisper 錯誤（原為 Mywold）"}
 
 18. He's now deceased.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他現已過世。", "confidence": "high", "notes": ""}
 
 19. I will briefly review the -- well, the diagrams showing the launch control center, the launch facility we will show you shortly when one of the other speakers present.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我會簡要說明——嗯，稍後其他發言人會向各位展示發射控制中心與發射設施的示意圖。", "confidence": "medium", "notes": "句子結構較鬆散，可能為口語停頓"}
 
 20. We were on duty inside the Oscar Launch Control Center, a concrete capsule located about 60 feet underground.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們在 Oscar 發射控制中心 (Oscar Launch Control Center) 內值勤，那是一個位於地下約 60 英呎的混凝土艙室。", "confidence": "high", "notes": ""}
 
 21. We had operational control over 10 Minuteman nuclear missiles.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們負責操作控制 10 枚民兵核導彈。", "confidence": "high", "notes": ""}
 
 22. Each missile operates independently and has its own source of primary and backup power systems.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "每枚導彈都獨立運作，並配備各自的主要電源與備用電源系統。", "confidence": "high", "notes": ""}
 
 23. It is important for you to note that the command and control for these missiles was entirely located within the capsule.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "各位務必注意，這些導彈的指揮與控制系統完全位於艙室內部。", "confidence": "high", "notes": ""}
 
 24. There was absolutely no means to affect any of the missile systems from outside the capsule.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從艙室外部絕對沒有任何方法能夠影響導彈系統。", "confidence": "high", "notes": ""}
 
 25. On the evening of March 24, 1967, while my commander was on a scheduled rest break, I received the first of two phone calls from my topside flight security controller, FSC.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "1967 年 3 月 24 日晚間，當我的指揮官正在預定的休息時間休息時，我接到來自地面飛行安全管制員 (FSC) 的第一通電話。", "confidence": "high", "notes": ""}
 
 26. The first call was to report unidentified lighted objects flying above the facility.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "第一通電話是報告有不明發光物體在設施上空飛行。", "confidence": "high", "notes": ""}
 
 27. They reported they were flying at very high speeds, making very odd maneuvers, nothing that an aircraft could do, and they just wanted to report it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們報告這些物體以極高速度飛行，做出非常奇怪的機動動作，完全不是任何飛行器所能做到的，他們只是想回報這個情況。", "confidence": "high", "notes": ""}
 
 28. I didn't pay much attention to that first call, and I basically hung up on them.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我沒有太注意第一通電話，基本上就掛斷了。", "confidence": "high", "notes": ""}
 
 29. Just later, the FSC phoned again and reported in a very agitated state that there was a large oval-shaped object hovering above the front gate.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不久之後，飛行安全管制員再次來電，語氣非常激動地報告說有一個大型橢圓形物體懸停在正門上方。", "confidence": "high", "notes": ""}
 
 30. It was a red pulsating lighted object, approximately 30, 40 feet in diameter, the best he could describe it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是一個紅色脈動發光的物體，直徑約 30 到 40 英呎，這是他能描述的最精確程度。", "confidence": "high", "notes": ""}
 
 31. It was difficult to distinguish a structural part of it on the inside, except that it was a glowing red pulsating object.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "很難辨識它內部的結構部分，只能看出它是一個發紅光的脈動物體。", "confidence": "high", "notes": ""}
 
 32. He had all the men out there with their weapons drawn, and he wanted me to tell him what to do next.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他讓所有人員都拔槍在外待命，他希望我告訴他接下來該怎麼做。", "confidence": "high", "notes": ""}
 
 33. I, of course, told him something like, "Make sure nothing comes inside the perimeter fence."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我當然告訴他類似這樣的話：「確保沒有任何東西進入圍欄範圍內。」", "confidence": "high", "notes": ""}
 
 34. Of course, our primary duty was to secure those nuclear missiles.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當然，我們的首要職責是確保那些核導彈的安全。", "confidence": "high", "notes": ""}
 
 35. Immediately after that call, I started to inform my commander about the incident.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在那通電話之後，我立即開始向我的指揮官報告這個事件。", "confidence": "high", "notes": ""}
 
 36. As I started to inform my commander, our missiles began to shut down.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "就在我開始向指揮官報告的同時，我們的導彈開始關閉。", "confidence": "high", "notes": ""}
 
 37. We lost alert status on all 10 missiles while this object was above our facility.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當這個物體在我們設施上方時，我們失去了全部 10 枚導彈的警戒狀態。", "confidence": "high", "notes": ""}
 
 38. When we queried the fault system, all missiles reported guidance and control system failure.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當我們查詢故障系統時，所有導彈都顯示導引與控制系統故障。", "confidence": "high", "notes": ""}
 
 39. We had a way of querying faults within the system called VERSA.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們有一套查詢系統故障的方法，稱為 VERSA。", "confidence": "high", "notes": ""}
 
 40. It's a voice activated system, and we were getting channels 9 and 12, which is guidance and control system.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一個語音啟動系統，我們收到的是第 9 和第 12 頻道的故障訊號，也就是導引與控制系統。", "confidence": "high", "notes": ""}
 
 41. At the same time, we had indicator lights showing security violations at two of the launch facilities where the missiles were physically located.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "與此同時，我們有指示燈顯示在兩個導彈實際所在的發射設施出現安全警報。", "confidence": "high", "notes": ""}
 
 42. While Lieutenant Mywald reported the incident to the Wing Command post, I phoned upstairs and directed the security alert team to be sent to those launch facilities with security violations to investigate those indications.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當 Mywald 中尉向聯隊指揮所報告這個事件時，我打電話到地面，指示派遣安全警戒小組前往那些出現安全警報的發射設施進行調查。", "confidence": "high", "notes": ""}
 
 43. At that time, the FSC reported to me that the object had flown off at high speed.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "此時，飛行安全管制員向我報告說該物體已經高速飛離。", "confidence": "high", "notes": ""}
 
 44. When the security alert team arrived at the affected LFs, LFs meaning launch facilities, they reported seeing the object hovering over those sites.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當安全警戒小組抵達受影響的發射設施（LF 即 launch facility 的縮寫）時，他們報告看到該物體懸停在那些地點上方。", "confidence": "high", "notes": ""}
 
 45. As they approached closer to the object, they lost all communications with the FSC.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當他們靠近該物體時，他們與飛行安全管制員的所有通訊都中斷了。", "confidence": "high", "notes": ""}
 
 46. After speaking to the Wing Command post, Lieutenant Mywald informed me that the same thing happened at another flight.
 → {"text": "", "confidence": "", "notes": ""}
