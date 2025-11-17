@@ -1,34 +1,34 @@
 ## Speaker Group 1
 
 209. We have about 10 minutes for each member of the six of you and that will take us to 1250.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們六位成員每人約有 10 分鐘時間，這將帶我們到 12 點 50 分。", "confidence": "high", "notes": ""}
 
 210. I've been asked by both the chair and the co-chair to give time reminders as we're approaching that 10 minute limit for each of you, so I'll do that as gently as possible.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "主席與副主席都要求我在接近各位的 10 分鐘限制時提醒時間，所以我會盡可能溫和地提醒。", "confidence": "high", "notes": ""}
 
 211. My understanding is that there will be time cue cards visible to the panelists here and to the members back here. We will watch those and time ourselves. I remember a number of years ago I was traveling in a car and had my car radio on and there were two news accounts.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的理解是這裡的小組成員與後面的委員會成員都能看到時間提示卡。我們會注意那些卡片並自己計時。我記得多年前我在車上旅行，打開車上的收音機，聽到兩則新聞報導。", "confidence": "high", "notes": ""}
 
 212. One was that there were some UFO sightings over New Mexico and the other was that there had been two mysterious deaths in New York City that might have been cyticosis and if it was cyticosis it might have come from dried pigeon manure, so it was a serious suggestion that maybe we ought to kill all the pigeons in New York. I listened to those two newscasts and I thought, gee, if these flying saucers are extraterrestrial I think I'd wander around a bit up there and watch for a while yet before I landed. As I said when we started this it is really enormously arrogant and presumptive to believe that we're the most advanced civilization in the universe. We still fight stupid wars and kill each other. There just has to be a better way, doesn't there. Again, I will reserve my question until the end. My co-chair.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "一則是新墨西哥州上空有不明飛行物目擊事件，另一則是紐約市有兩起神秘死亡事件，可能是鸚鵡熱，如果是鸚鵡熱，可能來自乾燥的鴿子糞便，所以有人認真建議也許我們應該殺死紐約所有的鴿子。我聽著這兩則新聞播報，心想，天啊，如果這些飛碟是外星的，我想我會在上面多轉轉，再觀察一陣子才降落。正如我在開始時所說的，相信我們是宇宙中最先進的文明，實在是極度傲慢與自以為是。我們仍在進行愚蠢的戰爭並互相殘殺。一定有更好的方式，不是嗎。我會再次將我的問題保留到最後。我的副主席。", "confidence": "high", "notes": ""}
 
 213. I wanted to mention one other thing. All of the time, and there's a period there that's about 12 years, but during that 12-year period my primary job as a member of the OSI was to debunk them. In other words, I'd come up with any kind of explanation. We'd say it was swamp gas or you name it, anything that we could come up with to apparently convince the general public and maintain the secrecy level on that. Some of my answers, I swear, were observed. The swamp gas, for instance, at that time there was an average of about three a week UFOs had descended into the Gulf Breeze, Florida area, if you know where that is. It's just where the panhandle is in Florida. Anyway, I went down there and we observed them just regularly, just sit there every evening with a cocktail and in they'd come.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想提另一件事。一直以來，那段時期大約有 12 年，但在那 12 年期間，我作為 OSI 成員的主要工作就是揭穿它們。換句話說，我會想出任何解釋。我們會說那是沼氣或你說什麼都行，任何我們能想到的東西，顯然是為了說服一般大眾並維持保密層級。我發誓，我的一些答案真的很荒謬。例如沼氣，當時佛羅里達州海灣微風地區平均每週有大約三次不明飛行物降落，如果你知道那裡在哪的話。就是佛羅里達州狹長地帶那裡。無論如何，我去了那裡，我們定期觀察它們，每天晚上就坐在那裡喝著雞尾酒，它們就進來了。", "confidence": "high", "notes": ""}
 
 214. But what was it? It was swamp gas. That was my lie and I made good on it. But that was my actual job, to be the most artful lawyer on earth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但那是什麼？那是沼氣。那是我的謊言，而且我說得很好。但那就是我的實際工作，成為地球上最狡猾的律師。", "confidence": "high", "notes": ""}
 
 215. So Colonel French, you did a good job of it, obviously.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以法蘭奇中校，你顯然做得很好。", "confidence": "high", "notes": ""}
 
 216. So for all four of you, it's just starting to weigh on me. If transparency would reveal that we really aren't in control, that there are actually as intelligent or more powerful than likely, more intelligent life form than humans, and that in so knowing and admitting would be dangerous, that's a closed circle, folks. So what do you recommend? How do you recommend we handle this? Let's start with the Colonel who won't tell us it's a gas form.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以對你們四位，這件事開始讓我感到沉重。如果透明化會揭示我們實際上沒有控制權，實際上有與人類一樣聰明或很可能更強大、更聰明的生命形式存在，而且知道並承認這一點會很危險，這是個封閉的循環，各位。那麼你們有什麼建議？你們建議我們如何處理這件事？讓我們從不會告訴我們那是氣體形式的中校開始。", "confidence": "high", "notes": ""}
 
 217. Well, I see no other way to attack it than to come up with some kind of international organization, something along the line of what we already have in here, or some similar governmental way, and then putting those people, you know, because when you think about it, this confronts religion directly and very firmly. And we do need some type of organization, something that can hold us, if need be, to contact these people from another universe.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我認為除了建立某種國際組織，沒有其他方法來應對它，類似於我們這裡已經有的組織，或某種類似的政府方式，然後讓那些人參與，你知道，因為仔細想想，這直接且堅定地挑戰了宗教。我們確實需要某種組織，在必要時可以支持我們與這些來自另一個宇宙的人接觸的組織。", "confidence": "high", "notes": ""}
 
 218. And when they come, you know, it's a lot better if you say, "Hi, buddy," not try and shoot their tail end off.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當他們來的時候，你知道，說「嗨，朋友」會比試圖把他們的尾巴打掉要好得多。", "confidence": "high", "notes": ""}
 
 219. So, we're claiming my time to go on to you, Daniel. But let me add a piece to this now.
 → {"text": "", "confidence": "", "notes": ""}
