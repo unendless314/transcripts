@@ -1,539 +1,5 @@
 episode_id: UFO-07
 terms:
-- term: Atomic Energy Commission, AEC
-  senses:
-  - id: aec_commission
-    definition: 美國原子能委員會，負責管理核武與核能設施
-    preferred_translation: 原子能委員會
-    segments: []
-    notes: 管理Los Alamos、Oak Ridge等核設施，1940-50年代UFO多次飛越此類設施
-- term: Captain Bruce Fenstermacher
-  senses:
-  - id: fenstermacher_witness
-    definition: 前美國空軍Minuteman III導彈發射官，1976年於F.E. Warren空軍基地遭遇UFO事件的證人
-    preferred_translation: 布魯斯·芬斯特馬赫上尉
-    segments: []
-    notes: 目擊雪茄狀UFO懸停於發射設施上空，遭上級命令銷毀筆記並簽署保密文件
-- term: Captain David D. Scindelli
-  senses:
-  - id: scindelli_witness
-    definition: 前美國空軍Minuteman ICBM副導彈戰鬥指揮官，1966年於Minot空軍基地遭遇UFO事件的證人
-    preferred_translation: 大衛·D·辛德利上尉
-    segments: []
-    notes: November Flight事件證人，十枚導彈全部離線失效，遭OSI命令永不許談論此事
-- term: Captain Robert Salas
-  senses:
-  - id: salas_witness
-    definition: 前美國空軍導彈發射官，1967年於Malmstrom空軍基地遭遇UFO導致導彈關閉事件的證人
-    preferred_translation: 羅伯特·薩拉斯上尉
-    segments:
-    - 8
-    notes: Oscar Launch Control Center事件主要證人，揭露空軍刻意隱瞞資訊不讓Condon委員會知情
-- term: Colonel James Manatt
-  senses:
-  - id: manatt_officer
-    definition: 美國空軍上校，1967年發信給Condon委員會否認Malmstrom基地UFO事件
-    preferred_translation: 詹姆斯·馬納特上校
-    segments: []
-    notes: Whisper轉寫錯誤為「Menott」，此信函被用作掩蓋真相的證據
-- term: Colonel Lewis Chase
-  senses:
-  - id: chase_officer
-    definition: 美國空軍上校，曾親身目擊UFO並於藍皮書計畫中報告
-    preferred_translation: 路易斯·蔡斯上校
-    segments:
-    - 164
-    notes: 向藍皮書計畫報告UFO目擊的高階軍官之一
-- term: Condon Committee, Condon investigation
-  senses:
-  - id: condon_committee
-    definition: 科羅拉多大學受政府資助進行的UFO調查委員會（1966-1968）
-    preferred_translation: 康登委員會
-    segments: []
-    notes: 空軍刻意隱瞞Malmstrom導彈事件，未向該委員會揭露真相，最終報告被用於終止藍皮書計畫
-- term: Dr. J. Allen Hynek
-  senses:
-  - id: hynek_astronomer
-    definition: 天文學家，藍皮書計畫科學顧問
-    preferred_translation: J·艾倫·海尼克博士
-    segments:
-    - 252
-    notes: Whisper轉寫錯誤為「Alan Heineck」，藍皮書計畫最知名的科學顧問
-- term: Dr. Robert Low
-  senses:
-  - id: low_coordinator
-    definition: 康登研究計畫的專案協調員
-    preferred_translation: 羅伯特·洛博士
-    segments: []
-    notes: Whisper轉寫錯誤為「deputy accountant」（副會計），實為project coordinator
-- term: Dr. Roy Craig
-  senses:
-  - id: craig_investigator
-    definition: 康登委員會調查員
-    preferred_translation: 羅伊·克雷格博士
-    segments:
-    - 163
-    notes: 負責調查UFO案件的康登委員會成員
-- term: Echo flight incident
-  senses:
-  - id: echo_flight_incident
-    definition: 1967年3月16日Malmstrom空軍基地Echo Flight的十枚導彈關閉事件，發生於Oscar Flight事件一週前
-    preferred_translation: Echo飛行中隊事件
-    segments:
-    - 47
-    - 134
-    notes: 與Oscar Flight事件類似的導彈關閉案例，共同證明UFO影響核武系統的模式
-- term: EMF pulse
-  senses:
-  - id: emf_pulse
-    definition: 電磁脈衝（Electromagnetic Pulse），可能導致電子設備失效
-    preferred_translation: 電磁脈衝
-    segments:
-    - 228
-    notes: 證人推測UFO可能使用此技術導致導彈與車輛失效
-- term: F.E. Warren Air Force Base
-  senses:
-  - id: warren_afb
-    definition: 懷俄明州F.E. Warren空軍基地，美國戰略導彈基地之一
-    preferred_translation: F.E. 華倫空軍基地
-    segments: []
-    notes: 1976年Fenstermacher上尉目擊雪茄狀UFO懸停於導彈設施上空的地點
-- term: FBI
-  senses:
-  - id: fbi_agency
-    definition: Federal Bureau of Investigation，美國聯邦調查局
-    preferred_translation: FBI
-    segments: []
-    notes: 1949-1950年FBI備忘錄記錄Los Alamos上空的不明物體入侵
-- term: Flight Security Controller, FSC
-  senses:
-  - id: fsc_role
-    definition: 導彈飛行中隊安全管制員
-    preferred_translation: 飛行安全管制員
-    segments: []
-    notes: 負責地面安全與通訊，Fenstermacher事件中描述UFO懸停的關鍵證人
-- term: FOIA, Freedom of Information Act
-  senses:
-  - id: foia_law
-    definition: 美國資訊自由法，允許公民申請政府文件解密
-    preferred_translation: 資訊自由法
-    segments: []
-    notes: 研究者透過FOIA取得FBI與空軍的UFO文件
-- term: green fireballs
-  senses:
-  - id: green_fireballs_phenomenon
-    definition: 1940年代末在新墨西哥州Los Alamos上空頻繁出現的綠色火球狀UFO
-    preferred_translation: 綠色火球
-    segments:
-    - 438
-    notes: FBI文件記錄此現象，排除隕石與自然現象，與核設施關聯密切
-- term: Grumman F6F Hellcats
-  senses:
-  - id: hellcat_fighter
-    definition: 格魯曼F6F地獄貓戰鬥機，美國海軍二戰時期戰鬥機
-    preferred_translation: 格魯曼F6F地獄貓戰鬥機
-    segments:
-    - 406
-    notes: 1945年七月六架此型戰機被派往Hanford核設施攔截巨型碟狀物體
-- term: Hanford Atomic Facility
-  senses:
-  - id: hanford_facility
-    definition: 華盛頓州漢福德原子設施，曼哈頓計畫的鈽生產基地
-    preferred_translation: 漢福德原子設施
-    segments:
-    - 401
-    notes: 1945年七月有巨型UFO懸停其上，空軍派戰機攔截，1950年持續有目擊報告
-- term: Kirtland Air Force Base
-  senses:
-  - id: kirtland_afb
-    definition: 新墨西哥州柯特蘭空軍基地，重要核武設施
-    preferred_translation: 柯特蘭空軍基地
-    segments: []
-    notes: 與UFO目擊事件和核武設施相關，聽證會其他集數重點討論地點
-- term: Larry King Live
-  senses:
-  - id: larry_king_show
-    definition: CNN知名訪談節目
-    preferred_translation: 賴瑞金現場
-    segments:
-    - 375
-    notes: Fenstermacher上尉曾在此節目與作者Robert Hastings同台
-- term: Launch Control Center, Launch Control Facility, LCF
-  senses:
-  - id: lcc_facility
-    definition: 導彈發射控制中心，地下指揮設施
-    preferred_translation: 發射控制中心
-    segments: []
-    notes: 美國核導彈系統的地下指揮中心，配置兩名軍官控制十枚導彈
-- term: Lieutenant Frederick Mywald
-  senses:
-  - id: mywald_officer
-    definition: 美國空軍中尉，1967年Oscar Flight事件時的指揮官，Robert Salas的上級
-    preferred_translation: 弗雷德里克·邁沃德中尉
-    segments: []
-    notes: Whisper轉寫初次錯誤為「Mywold」，後來修正為「Mywald」，事件退役後的錄音證實關鍵細節
-- term: logic coupler
-  senses:
-  - id: logic_coupler_component
-    definition: 導彈導引與控制系統的邏輯耦合器，Minuteman導彈的關鍵電子元件
-    preferred_translation: 邏輯耦合器
-    segments:
-    - 130
-    - 131
-    - 132
-    notes: Oscar與Echo Flight事件中，此元件被診斷為故障原因，但無法解釋同時失效
-- term: Los Alamos
-  senses:
-  - id: los_alamos_lab
-    definition: 新墨西哥州洛斯阿拉莫斯國家實驗室，曼哈頓計畫的核心研發基地
-    preferred_translation: 洛斯阿拉莫斯
-    segments:
-    - 425
-    - 430
-    - 435
-    notes: 1949-1950年FBI文件記錄不明物體反覆入侵敏感空域，包括綠色火球
-- term: Malmstrom Air Force Base
-  senses:
-  - id: malmstrom_afb
-    definition: 蒙大拿州馬姆斯特羅姆空軍基地，美國戰略導彈基地
-    preferred_translation: 馬姆斯特羅姆空軍基地
-    segments:
-    - 14
-    notes: Whisper轉寫初次錯誤為「Maldenstrom」，1967年發生Oscar與Echo Flight導彈關閉事件
-- term: Manhattan Project
-  senses:
-  - id: manhattan_project
-    definition: 曼哈頓計畫，二戰期間美國研發原子彈的秘密計畫
-    preferred_translation: 曼哈頓計畫
-    segments:
-    - 444
-    notes: UFO現象與核設施的關聯可追溯至該計畫時期
-- term: Minot Air Force Base
-  senses:
-  - id: minot_afb
-    definition: 北達科他州邁諾特空軍基地，美國戰略導彈基地
-    preferred_translation: 邁諾特空軍基地
-    segments:
-    - 187
-    - 265
-    - 293
-    notes: Whisper轉寫錯誤為「Minut」，1966年November Flight事件與1974年Scott目擊事件發生地點
-- term: Minuteman I intercontinental ballistic missile
-  senses:
-  - id: minuteman_i_icbm
-    definition: 民兵一型洲際彈道導彈，美國1960年代核武主力
-    preferred_translation: 民兵一型洲際彈道導彈
-    segments:
-    - 15
-    notes: Oscar與Echo Flight配備此型號，1967年事件中十枚同時失效
-- term: Minuteman III
-  senses:
-  - id: minuteman_iii_icbm
-    definition: 民兵三型洲際彈道導彈，升級版本
-    preferred_translation: 民兵三型洲際彈道導彈
-    segments:
-    - 308
-    notes: Fenstermacher上尉於F.E. Warren基地負責此型號導彈
-- term: Minuteman ICBM, Minuteman missile
-  senses:
-  - id: minuteman_icbm_general
-    definition: 民兵系列洲際彈道導彈，美國核武主力系統
-    preferred_translation: 民兵洲際彈道導彈
-    segments: []
-    notes: Whisper轉寫錯誤為「M91 missile」，是美國冷戰時期的核心嚇阻武器
-- term: Mohall, North Dakota
-  senses:
-  - id: mohall_town
-    definition: 北達科他州莫霍爾鎮，Minot空軍基地附近小鎮
-    preferred_translation: 北達科他州莫霍爾
-    segments:
-    - 193
-    notes: Whisper轉寫錯誤為「Mole Hall」，1966年當地新聞報導此處目擊奇怪光點
-- term: MUFON, Mutual UFO Network
-  senses:
-  - id: mufon_network
-    definition: UFO互動網絡，全球最大UFO研究組織之一
-    preferred_translation: UFO互動網絡
-    segments: []
-    notes: Richard Dolan引用此組織提供的非機密證詞
-- term: non-disclosure statements, non-disclosure agreements
-  senses:
-  - id: nda_military
-    definition: 軍方保密協議，禁止談論機密事件
-    preferred_translation: 保密協議
-    segments: []
-    notes: Salas與Fenstermacher均被強制簽署，違反者面臨軍事法庭
-- term: November Flight
-  senses:
-  - id: november_flight_unit
-    definition: Minot空軍基地November飛行中隊，1966年導彈關閉事件發生單位
-    preferred_translation: November飛行中隊
-    segments:
-    - 194
-    - 196
-    - 198
-    - 229
-    notes: Scindelli上尉所屬單位，十枚導彈在UFO懸停時全部離線
-- term: Oak Ridge, Tennessee
-  senses:
-  - id: oak_ridge_facility
-    definition: 田納西州橡樹嶺，曼哈頓計畫的鈾濃縮基地
-    preferred_translation: 田納西州橡樹嶺
-    segments:
-    - 443
-    notes: 1950年陸軍情報發布高度警戒，多次雷達與目視確認UFO飛越此核設施
-- term: Office of Special Investigations, OSI
-  senses:
-  - id: osi_agency
-    definition: 美國空軍特別調查辦公室
-    preferred_translation: 特別調查辦公室
-    segments: []
-    notes: 負責軍方機密調查，命令證人不得談論UFO事件
-- term: Oscar Launch Control Center
-  senses:
-  - id: oscar_lcc
-    definition: Malmstrom空軍基地Oscar發射控制中心
-    preferred_translation: Oscar發射控制中心
-    segments:
-    - 20
-    notes: 1967年3月24日Salas上尉值勤地點，十枚導彈關閉事件發生處
-- term: Personnel Reliability Program, PRP
-  senses:
-  - id: prp_program
-    definition: 核武人員可靠性計畫，篩選與監督核武人員的心理穩定性
-    preferred_translation: 人員可靠性計畫
-    segments: []
-    notes: 用於確保核武人員心理健康，報告UFO可能被視為精神不穩定而被除役
-- term: Project Blue Book
-  senses:
-  - id: project_blue_book_usaf
-    definition: 美國空軍1952-1969年的UFO調查計畫
-    preferred_translation: 藍皮書計畫
-    segments:
-    - 172
-    - 641
-    - 642
-    - 653
-    - 654
-    - 661
-    notes: 證人批評為「門面工程」（whitewash），刻意減少「未知」案例，1969年基於康登報告而終止
-- term: Quebec flight
-  senses:
-  - id: quebec_flight_unit
-    definition: F.E. Warren空軍基地Quebec飛行中隊
-    preferred_translation: Quebec飛行中隊
-    segments: []
-    notes: 1976年同一晚目擊UFO，方向朝向Fenstermacher的Romeo設施
-- term: Richard Dolan
-  senses:
-  - id: dolan_historian
-    definition: 歷史學家，UFO研究專家，著有UFOs and the National Security State系列
-    preferred_translation: 理查德·多蘭
-    segments: []
-    notes: Whisper轉寫錯誤為「Mr. Doley」，本集提供歷史文件背景的專家證人
-- term: Robert Hastings
-  senses:
-  - id: hastings_researcher
-    definition: UFO研究者，專注於UFO與核武設施的關係
-    preferred_translation: 羅伯特·黑斯廷斯
-    segments:
-    - 381
-    notes: 著有UFOs and Nukes相關研究，與Fenstermacher同台訪談
-- term: Robertson Panel
-  senses:
-  - id: robertson_panel_cia
-    definition: 1952年CIA召集的UFO評估小組
-    preferred_translation: 羅伯森小組
-    segments:
-    - 694
-    notes: CIA下令削弱藍皮書計畫，減少「未知」案例以降低公眾關注
-- term: Romeo Launch Facility, LCF
-  senses:
-  - id: romeo_lcf
-    definition: F.E. Warren空軍基地Romeo發射控制設施
-    preferred_translation: Romeo發射設施
-    segments: []
-    notes: Fenstermacher上尉1976年值勤地點，UFO懸停於此上空
-- term: SAC command post, Strategic Air Command
-  senses:
-  - id: sac_command
-    definition: 戰略空軍司令部指揮所
-    preferred_translation: 戰略空軍司令部
-    segments: []
-    notes: Whisper轉寫錯誤為「SAT command post」，負責美國核武戰略指揮
-- term: Saturday Evening Post
-  senses:
-  - id: saturday_evening_post
-    definition: 美國知名週刊雜誌
-    preferred_translation: 《週六晚郵報》
-    segments:
-    - 252
-    notes: Dr. Hynek曾在此撰文討論UFO調查
-- term: Security Alert Team, SAT
-  senses:
-  - id: sat_team
-    definition: 導彈基地安全警戒小組，武裝巡邏隊
-    preferred_translation: 安全警戒小組
-    segments: []
-    notes: 負責地面安全與目擊UFO的第一線人員，Fenstermacher事件中拒絕靠近UFO
-- term: Tech Sergeant David Charles Scott
-  senses:
-  - id: scott_witness
-    definition: 前美國空軍安全警察技術士官，1974年於Minot空軍基地目擊UFO的證人
-    preferred_translation: 大衛·查爾斯·斯科特技術士官
-    segments:
-    - 264
-    notes: 目擊脈動紅光UFO，車輛與無線電同時失效，全翼區導彈警報同時響起
-- term: top secret clearance
-  senses:
-  - id: top_secret_clearance
-    definition: 最高機密安全許可
-    preferred_translation: 最高機密許可
-    segments:
-    - 192
-    notes: 核武人員必備的安全許可等級
-- term: UFO, Unidentified Flying Object
-  senses:
-  - id: ufo_craft
-    definition: 不明飛行物
-    preferred_translation: 不明飛行物
-    segments: []
-    notes: 本集專注於UFO與核武設施的互動案例
-- term: VHF radio
-  senses:
-  - id: vhf_radio
-    definition: 甚高頻無線電通訊系統
-    preferred_translation: 甚高頻無線電
-    segments:
-    - 314
-    notes: 飛行安全管制員用於地面通訊的設備
-- term: Wing Command post, Wing headquarters
-  senses:
-  - id: wing_command
-    definition: 空軍聯隊指揮所
-    preferred_translation: 聯隊指揮所
-    segments: []
-    notes: Whisper轉寫錯誤為「Wigan headquarters」，負責整個導彈聯隊的指揮中樞
-- term: Winnipeg, Canada
-  senses:
-  - id: winnipeg_city
-    definition: 加拿大溫尼伯市
-    preferred_translation: 加拿大溫尼伯
-    segments:
-    - 293
-    notes: Scott士官聽聞加拿大空軍從此地起飛攔截UFO的廣播報導
-- term: Above Top Secret by Timothy Goode
-  senses:
-  - id: above_top_secret_book
-    definition: Timothy Goode著作《最高機密之上》
-    preferred_translation: 《最高機密之上》
-    segments: []
-    notes: 書中首次揭露Malmstrom事件部分細節
-- term: Coast to Coast
-  senses:
-  - id: coast_to_coast_show
-    definition: 美國深夜電台談話節目，專注超自然與陰謀論主題
-    preferred_translation: Coast to Coast
-    segments: []
-    notes: 知名UFO主題廣播節目
-- term: 1984, Orwellian
-  senses:
-  - id: orwellian_concept
-    definition: 喬治·歐威爾《1984》的極權監控概念
-    preferred_translation: 歐威爾式極權
-    segments: []
-    notes: 證人用以形容軍方保密文化的壓迫性
-- term: black budget
-  senses:
-  - id: black_budget_funding
-    definition: 秘密預算，不受國會監督的機密計畫資金
-    preferred_translation: 秘密預算
-    segments:
-    - 619
-    - 622
-    notes: 用於資助高度機密的UFO調查或逆向工程計畫
-- term: ICBM, intercontinental ballistic missile
-  senses:
-  - id: icbm_weapon
-    definition: 洲際彈道導彈
-    preferred_translation: 洲際彈道導彈
-    segments: []
-    notes: 冷戰時期美國核嚇阻力量的核心
-- term: Soviet Union
-  senses:
-  - id: soviet_union_nation
-    definition: 蘇維埃社會主義共和國聯盟（蘇聯）
-    preferred_translation: 蘇聯
-    segments:
-    - 543
-    - 546
-    - 571
-    - 616
-    notes: 討論蘇聯導彈基地也發生類似UFO事件，1982年UFO啟動導彈發射序列事件
-- term: 91st Missile Security Squadron
-  senses:
-  - id: 91st_missile_security
-    definition: 第91飛彈安全中隊
-    preferred_translation: 第91飛彈安全中隊
-    segments:
-    - 265
-    notes: Scott士官所屬單位
-- term: 400th Strategic Missile Squadron
-  senses:
-  - id: 400th_strategic_missile
-    definition: 第400戰略飛彈中隊
-    preferred_translation: 第400戰略飛彈中隊
-    segments:
-    - 309
-    notes: Fenstermacher上尉所屬單位
-- term: Alpha 1 Launch Control Facility
-  senses:
-  - id: alpha_1_lcf
-    definition: Alpha 1發射控制設施
-    preferred_translation: Alpha 1發射控制設施
-    segments:
-    - 266
-    notes: Scott士官1974年值勤地點
-- term: Canadian Air Force
-  senses:
-  - id: canadian_air_force
-    definition: 加拿大空軍
-    preferred_translation: 加拿大空軍
-    segments:
-    - 294
-    notes: 1974年同夜派戰機追蹤UFO，與Scott目擊可能為同一物體
-- term: Congressman Peter King
-  senses:
-  - id: king_congressman
-    definition: 美國眾議員彼得·金
-    preferred_translation: 彼得·金眾議員
-    segments: []
-    notes: 聽證會小組成員提及的現任議員
-- term: Congressman Rohrabacher
-  senses:
-  - id: rohrabacher_congressman
-    definition: 美國眾議員羅拉巴克
-    preferred_translation: 羅拉巴克眾議員
-    segments:
-    - 712
-    notes: 聽證會討論中提及的現任議員
-- term: Being
-  senses:
-  - id: being_extraterrestrial
-    definition: 外星生命體或智慧存在
-    preferred_translation: 存有
-    segments:
-    - 211
-    - 389
-    - 410
-    - 424
-    - 437
-    - 530
-    - 642
-    - 643
-    - 705
-    - 716
-    notes: 證詞中提到的外星生命體，可補充為「外星存有」
 - term: CIA
   senses:
   - id: cia_agency
@@ -580,8 +46,6 @@ terms:
     preferred_translation: 真相揭露
     segments:
     - 1
-    - 123
-    - 124
     notes: 與「真相掩蓋」(cover-up) 形成對仗概念，常指政府或官方的公開承認
 - term: Extraterrestrial
   senses:
@@ -613,7 +77,7 @@ terms:
 - term: MUFON
   senses:
   - id: mufon_network
-    definition: Mutual UFO Network，共同UFO網絡
+    definition: Mutual UFO Network，UFO 互動網絡
     preferred_translation: MUFON（UFO 互動網絡）
     segments:
     - 400
@@ -628,6 +92,19 @@ terms:
     - 181
     - 388
     notes: 常用於解釋 UFO 資訊保密的官方理由
+- term: Project Blue Book
+  senses:
+  - id: project_blue_book_usaf
+    definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+    preferred_translation: 藍皮書計畫
+    segments:
+    - 172
+    - 641
+    - 642
+    - 653
+    - 654
+    - 661
+    notes: 官方調查 UFO 的代表性計畫，跨集數高頻出現
 - term: Sighting
   senses:
   - id: sighting_ufo_observation
@@ -647,7 +124,6 @@ terms:
     preferred_translation: 最高機密
     segments:
     - 192
-    - 592
     notes: 美國機密等級：Top Secret (最高機密) > Secret (機密) > Confidential (密)
 - term: UFO
   senses:
@@ -697,54 +173,38 @@ terms:
     segments:
     - 394
     notes: 聽證會中的核心角色，包括軍事人員、飛行員、平民等
-- term: Condon investigation
+- term: Captain Robert Salas
   senses:
-  - id: condon_investigation
-    definition: 科羅拉多大學受政府資助進行的UFO調查（1966-1968），與Condon Committee同義
-    preferred_translation: 康登調查
+  - id: salas_witness
+    definition: 前美國空軍導彈發射官，1967年於Malmstrom空軍基地遭遇UFO導致導彈關閉事件的證人
+    preferred_translation: 羅伯特·薩拉斯上尉
     segments:
-    - 158
-    notes: 與Condon Committee為同一調查的不同稱呼
-- term: FE Warren Air Force Base
+    - 8
+    notes: Oscar Launch Control Center事件主要證人，揭露空軍刻意隱瞞資訊不讓Condon委員會知情
+- term: Malmstrom Air Force Base
   senses:
-  - id: fe_warren_afb_short
-    definition: F.E. Warren空軍基地簡稱（無句點）
-    preferred_translation: F.E. Warren空軍基地
+  - id: malmstrom_afb
+    definition: 蒙大拿州馬姆斯特羅姆空軍基地，美國戰略導彈基地
+    preferred_translation: 馬姆斯特羅姆空軍基地
     segments:
-    - 309
-    notes: Whisper轉寫有時會省略句點
-- term: Francis E. Warren Air Force Base
+    - 14
+    notes: 1967年發生Oscar與Echo Flight導彈關閉事件
+- term: Minuteman I intercontinental ballistic missile
   senses:
-  - id: francis_warren_afb
-    definition: F.E. Warren空軍基地全名
-    preferred_translation: F.E. Warren空軍基地
+  - id: minuteman_i_icbm
+    definition: 民兵一型洲際彈道導彈，美國1960年代核武主力
+    preferred_translation: 民兵一型洲際彈道導彈
     segments:
-    - 525
-    notes: 全名包含Francis，通常簡稱為F.E. Warren
-- term: ICBMs
+    - 15
+    notes: Oscar與Echo Flight配備此型號，1967年事件中十枚同時失效
+- term: Oscar Launch Control Center
   senses:
-  - id: icbms_plural
-    definition: 洲際彈道導彈（複數形式）
-    preferred_translation: 洲際彈道導彈
+  - id: oscar_lcc
+    definition: Malmstrom空軍基地Oscar發射控制中心
+    preferred_translation: Oscar發射控制中心
     segments:
-    - 567
-    notes: ICBM的複數形式
-- term: Minuteman ICBM
-  senses:
-  - id: minuteman_icbm_general
-    definition: 民兵系列洲際彈道導彈（通稱，未指定型號）
-    preferred_translation: 民兵導彈
-    segments:
-    - 191
-    notes: 與Minuteman I、Minuteman III為同系列
-- term: Strategic Air Command
-  senses:
-  - id: sac_full_name
-    definition: 美國戰略空軍司令部（Strategic Air Command，簡稱SAC）
-    preferred_translation: 戰略空軍司令部
-    segments:
-    - 265
-    notes: 負責美國核武戰略指揮，1946-1992年存在
+    - 20
+    notes: 1967年3月24日Salas上尉值勤地點，十枚導彈關閉事件發生處
 - term: Wing Command post
   senses:
   - id: wing_command_post
@@ -753,18 +213,105 @@ terms:
     segments:
     - 42
     - 46
-    notes: Wing headquarters的同義詞
-- term: flight security controller
+    notes: 負責整個導彈聯隊的指揮中樞
+- term: Echo flight incident
   senses:
-  - id: fsc_role
-    definition: 導彈飛行中隊安全管制員
-    preferred_translation: 飛行安全管制員
+  - id: echo_flight_incident
+    definition: 1967年3月16日Malmstrom空軍基地Echo Flight的十枚導彈關閉事件
+    preferred_translation: Echo飛行中隊事件
     segments:
-    - 277
-    notes: 簡稱FSC，負責地面安全與通訊
+    - 47
+    - 134
+    notes: 發生於Oscar Flight事件一週前，證明UFO影響核武系統的模式
+- term: non-disclosure statements
+  senses:
+  - id: nda_statements
+    definition: 保密聲明，禁止談論機密事件的軍方文件
+    preferred_translation: 保密聲明
+    segments:
+    - 123
+    notes: Salas等證人均被強制簽署
+- term: logic coupler
+  senses:
+  - id: logic_coupler
+    definition: 導彈導引與控制系統的邏輯耦合器
+    preferred_translation: 邏輯耦合器
+    segments:
+    - 130
+    - 131
+    - 132
+    notes: Oscar與Echo Flight事件中被診斷為故障原因，但無法解釋同時失效
+- term: Condon committee
+  senses:
+  - id: condon_committee
+    definition: 1966-1968年科羅拉多大學受政府資助進行的UFO調查委員會
+    preferred_translation: 康登委員會
+    segments:
+    - 158
+    - 159
+    - 160
+    - 162
+    - 163
+    - 686
+    - 688
+    - 689
+    notes: 由Edward Condon領導，也稱Condon investigation、Condon team，最終產出Condon Report（康登報告）。空軍刻意隱瞞Malmstrom導彈事件，未向該委員會揭露真相
+- term: Dr. Roy Craig
+  senses:
+  - id: craig_investigator
+    definition: 康登委員會首席調查員
+    preferred_translation: 羅伊·克雷格博士
+    segments:
+    - 163
+    notes: 負責調查Echo Flight事件但被空軍誤導
+- term: Colonel Lewis Chase
+  senses:
+  - id: chase_officer
+    definition: Malmstrom空軍基地作戰官，曾親身目擊UFO
+    preferred_translation: 路易斯·蔡斯上校
+    segments:
+    - 164
+    notes: 拒絕讓康登調查員查閱機密報告
+- term: Minot Air Force Base
+  senses:
+  - id: minot_afb
+    definition: 北達科他州邁諾特空軍基地，美國戰略導彈基地
+    preferred_translation: 邁諾特空軍基地
+    segments:
+    - 187
+    - 265
+    - 293
+    notes: 1966年November Flight事件與1974年Scott目擊事件發生地點
+- term: Minuteman ICBM
+  senses:
+  - id: minuteman_icbm
+    definition: 民兵系列洲際彈道導彈（通稱）
+    preferred_translation: 民兵導彈
+    segments:
+    - 191
+    notes: 美國冷戰時期核嚇阻武器主力
+- term: November Flight
+  senses:
+  - id: november_flight
+    definition: Minot空軍基地November飛行中隊
+    preferred_translation: November飛行中隊
+    segments:
+    - 194
+    - 196
+    - 198
+    - 229
+    notes: 1966年導彈關閉事件發生單位，Scindelli上尉所屬
+- term: Mohall, North Dakota
+  senses:
+  - id: mohall_town
+    definition: 北達科他州莫霍爾鎮，Minot空軍基地附近小鎮
+    preferred_translation: 北達科他州莫霍爾
+    segments:
+    - 193
+    notes: 1966年當地新聞報導目擊奇怪光點
 - term: launch control facility
   senses:
-  - id: lcf_facility
+  - id: lcf
     definition: 導彈發射控制設施
     preferred_translation: 發射控制設施
     segments:
@@ -774,24 +321,136 @@ terms:
     - 204
     - 220
     - 242
-    notes: 簡稱LCF，與Launch Control Center（LCC）類似但略有不同
-- term: non-disclosure statements
+    notes: 簡稱LCF，與Launch Control Center類似
+- term: top secret clearance
   senses:
-  - id: nda_statements
-    definition: 保密聲明，禁止談論機密事件的軍方文件
-    preferred_translation: 保密聲明
+  - id: top_secret_clearance
+    definition: 最高機密安全許可
+    preferred_translation: 最高機密許可
     segments:
-    - 123
-    notes: 與non-disclosure agreements同義
+    - 192
+    notes: 核武人員必備的安全許可等級
+- term: EMF pulse
+  senses:
+  - id: emf_pulse
+    definition: 電磁脈衝（Electromagnetic Pulse）
+    preferred_translation: 電磁脈衝
+    segments:
+    - 228
+    notes: 證人推測UFO可能使用此技術導致導彈失效
+- term: Dr. J. Allen Hynek
+  senses:
+  - id: hynek_astronomer
+    definition: 天文學家，藍皮書計畫科學顧問
+    preferred_translation: J·艾倫·海尼克博士
+    segments:
+    - 252
+    notes: 藍皮書計畫最知名的科學顧問
+- term: Saturday Evening Post
+  senses:
+  - id: saturday_evening_post
+    definition: 美國知名週刊雜誌
+    preferred_translation: 《週六晚郵報》
+    segments:
+    - 252
+    notes: Dr. Hynek曾在此撰文討論UFO調查
+- term: Tech Sergeant David Charles Scott
+  senses:
+  - id: scott_witness
+    definition: 前美國空軍安全警察技術士官，1974年於Minot空軍基地目擊UFO的證人
+    preferred_translation: 大衛·查爾斯·斯科特技術士官
+    segments:
+    - 264
+    notes: 目擊脈動紅光UFO，車輛與無線電同時失效
+- term: Strategic Air Command
+  senses:
+  - id: sac
+    definition: 美國戰略空軍司令部（Strategic Air Command，簡稱SAC）
+    preferred_translation: 戰略空軍司令部
+    segments:
+    - 265
+    notes: 負責美國核武戰略指揮，1946-1992年存在
+- term: 91st Missile Security Squadron
+  senses:
+  - id: 91st_missile_security
+    definition: 第91飛彈安全中隊
+    preferred_translation: 第91飛彈安全中隊
+    segments:
+    - 265
+    notes: Scott士官所屬單位
+- term: Alpha 1 Launch Control Facility
+  senses:
+  - id: alpha_1_lcf
+    definition: Alpha 1發射控制設施
+    preferred_translation: Alpha 1發射控制設施
+    segments:
+    - 266
+    notes: Scott士官1974年值勤地點
 - term: security alert team
   senses:
-  - id: sat_team_full
+  - id: sat
     definition: 導彈基地安全警戒小組，武裝巡邏隊
     preferred_translation: 安全警戒小組
     segments:
     - 266
     - 285
     notes: 簡稱SAT，負責地面安全與目擊UFO的第一線人員
+- term: flight security controller
+  senses:
+  - id: fsc
+    definition: 導彈飛行中隊安全管制員
+    preferred_translation: 飛行安全管制員
+    segments:
+    - 277
+    notes: 簡稱FSC，負責地面安全與通訊
+- term: Canadian Air Force
+  senses:
+  - id: canadian_air_force
+    definition: 加拿大空軍
+    preferred_translation: 加拿大空軍
+    segments:
+    - 294
+    notes: 1974年同夜派戰機追蹤UFO
+- term: Winnipeg, Canada
+  senses:
+  - id: winnipeg
+    definition: 加拿大溫尼伯市
+    preferred_translation: 加拿大溫尼伯
+    segments:
+    - 293
+    notes: Scott士官聽聞加拿大空軍攔截UFO的廣播報導
+- term: Minuteman III
+  senses:
+  - id: minuteman_iii
+    definition: 民兵三型洲際彈道導彈
+    preferred_translation: 民兵三型洲際彈道導彈
+    segments:
+    - 308
+    notes: Fenstermacher上尉於F.E. Warren基地負責此型號
+- term: FE Warren Air Force Base
+  senses:
+  - id: fe_warren_afb
+    definition: 懷俄明州F.E. Warren空軍基地（簡稱形式）
+    preferred_translation: F.E. Warren空軍基地
+    segments:
+    - 309
+    notes: 1976年Fenstermacher上尉目擊雪茄狀UFO懸停於導彈設施上空
+- term: 400th Strategic Missile Squadron
+  senses:
+  - id: 400th_strategic_missile
+    definition: 第400戰略飛彈中隊
+    preferred_translation: 第400戰略飛彈中隊
+    segments:
+    - 309
+    notes: Fenstermacher上尉所屬單位
+- term: VHF radio
+  senses:
+  - id: vhf_radio
+    definition: 甚高頻無線電通訊系統
+    preferred_translation: 甚高頻無線電
+    segments:
+    - 314
+    notes: 飛行安全管制員用於地面通訊
 - term: SAC command post
   senses:
   - id: sac_command_post
@@ -801,11 +460,129 @@ terms:
     - 337
     - 345
     notes: 負責美國核武戰略指揮的指揮中心
+- term: Robert Hastings
+  senses:
+  - id: hastings_researcher
+    definition: UFO研究者，專注於UFO與核武設施的關係
+    preferred_translation: 羅伯特·黑斯廷斯
+    segments:
+    - 381
+    notes: 著有UFOs and Nukes相關研究
+- term: Larry King Live
+  senses:
+  - id: larry_king_live
+    definition: CNN知名訪談節目
+    preferred_translation: 賴瑞金現場
+    segments:
+    - 375
+    notes: Fenstermacher上尉曾在此節目與Hastings同台
+- term: Hanford Atomic Facility
+  senses:
+  - id: hanford_facility
+    definition: 華盛頓州漢福德原子設施，曼哈頓計畫的鈽生產基地
+    preferred_translation: 漢福德原子設施
+    segments:
+    - 401
+    notes: 1945年七月有巨型UFO懸停其上
+- term: Grumman F6F Hellcats
+  senses:
+  - id: hellcat_fighter
+    definition: 格魯曼F6F地獄貓戰鬥機，美國海軍二戰時期戰鬥機
+    preferred_translation: 格魯曼F6F地獄貓戰鬥機
+    segments:
+    - 406
+    notes: 1945年七月六架此型戰機被派往Hanford攔截UFO
+- term: Los Alamos
+  senses:
+  - id: los_alamos
+    definition: 新墨西哥州洛斯阿拉莫斯國家實驗室，曼哈頓計畫核心研發基地
+    preferred_translation: 洛斯阿拉莫斯
+    segments:
+    - 425
+    - 430
+    - 435
+    notes: 1949-1950年FBI文件記錄不明物體反覆入侵敏感空域
+- term: green fireballs
+  senses:
+  - id: green_fireballs
+    definition: 1940年代末在新墨西哥州Los Alamos上空頻繁出現的綠色火球狀UFO
+    preferred_translation: 綠色火球
+    segments:
+    - 438
+    notes: FBI文件記錄此現象，排除隕石與自然現象
+- term: Oak Ridge, Tennessee
+  senses:
+  - id: oak_ridge
+    definition: 田納西州橡樹嶺，曼哈頓計畫的鈾濃縮基地
+    preferred_translation: 田納西州橡樹嶺
+    segments:
+    - 443
+    notes: 1950年陸軍情報發布高度警戒，多次雷達與目視確認UFO飛越
+- term: Manhattan Project
+  senses:
+  - id: manhattan_project
+    definition: 曼哈頓計畫，二戰期間美國研發原子彈的秘密計畫
+    preferred_translation: 曼哈頓計畫
+    segments:
+    - 444
+    notes: UFO現象與核設施的關聯可追溯至該計畫時期
 - term: Orwellian, 1984
   senses:
   - id: orwellian_1984
     definition: 喬治·歐威爾小說《1984》所描繪的極權監控概念
-    preferred_translation: 歐威爾式極權
+    preferred_translation: 歐威爾小說《1984》的極權監控
     segments:
     - 506
     notes: 證人用以形容軍方保密文化的壓迫性
+- term: Francis E. Warren Air Force Base
+  senses:
+  - id: francis_warren_afb
+    definition: F.E. Warren空軍基地全名
+    preferred_translation: F.E. Warren空軍基地
+    segments:
+    - 525
+    notes: 全名包含Francis，通常簡稱為F.E. Warren
+- term: Soviet Union
+  senses:
+  - id: soviet_union
+    definition: 蘇維埃社會主義共和國聯盟（蘇聯）
+    preferred_translation: 蘇聯
+    segments:
+    - 543
+    - 546
+    - 571
+    - 616
+    notes: 蘇聯導彈基地也發生類似UFO事件，1982年UFO啟動導彈發射序列
+- term: ICBMs
+  senses:
+  - id: icbms
+    definition: 洲際彈道導彈（複數形式）
+    preferred_translation: 洲際彈道導彈
+    segments:
+    - 567
+    notes: ICBM的複數形式
+- term: black budget
+  senses:
+  - id: black_budget
+    definition: 黑預算，不受國會監督的機密計畫資金
+    preferred_translation: 黑預算
+    segments:
+    - 619
+    - 622
+    notes: 用於資助高度機密的UFO調查或逆向工程計畫
+- term: Robertson Panel
+  senses:
+  - id: robertson_panel
+    definition: 1952年CIA召集的UFO評估小組
+    preferred_translation: 羅伯森小組
+    segments:
+    - 694
+    notes: CIA下令削弱藍皮書計畫，減少「未知」案例
+- term: Congressman Rohrabacher
+  senses:
+  - id: rohrabacher
+    definition: 美國眾議員羅拉巴克
+    preferred_translation: 羅拉巴克眾議員
+    segments:
+    - 712
+    notes: 聽證會討論中提及的現任議員

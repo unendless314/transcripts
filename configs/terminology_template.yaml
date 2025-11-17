@@ -214,7 +214,7 @@ terms:
   - term: MUFON
     senses:
       - id: mufon_network
-        definition: Mutual UFO Network，共同UFO網絡
+        definition: Mutual UFO Network，UFO 互動網絡
         preferred_translation: MUFON（UFO 互動網絡）
         notes: 全球最大的UFO研究組織之一，跨集數高頻出現
 
