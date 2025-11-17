@@ -424,190 +424,190 @@
 → {"text": "看，這些都是媒體拒絕深入調查的問題，但我們沒有拒絕。", "confidence": "high", "notes": ""}
 
 611. That dilemma, that as Major Marcel, when he finally stepped forward and said, being familiar with all materials, both familiar and domestic, this was something not made on this earth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那個困境，就是當馬塞爾少校最終站出來說，他熟悉所有材料，無論是熟悉的還是國內的，這是某種並非在地球上製造的東西。", "confidence": "high", "notes": ""}
 
 612. We didn't read about this in the papers, did we?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們沒有在報紙上讀到這件事，不是嗎？", "confidence": "high", "notes": ""}
 
 613. It wasn't on the CBS Evening News.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這也不在 CBS 晚間新聞上。", "confidence": "high", "notes": ""}
 
 614. The only publication to touch that was the National Enquirer.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "唯一觸及這個話題的出版物是《國家詢問報》。", "confidence": "high", "notes": ""}
 
 615. So we wonder why there's this constant taboo, this ridicule factor, and it's the very reason that witnesses have refused to come forward after all these years because they know how it's going to be treated.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我們想知道為什麼會有這種持續的禁忌，這種嘲笑因素，而這正是證人這麼多年來拒絕站出來的原因，因為他們知道這件事會如何被對待。", "confidence": "high", "notes": ""}
 
 616. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 617. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 618. I'm going to ask Colonel Randall.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我要問蘭德爾上校。", "confidence": "high", "notes": ""}
 
 619. What is the significance of the July 1947 Roswell incident in that we also had a significant one in July of 1945?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "1947 年 7 月的羅斯威爾事件有什麼重要意義，因為我們在 1945 年 7 月也有一個重大事件？", "confidence": "high", "notes": ""}
 
 620. Tell me.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "告訴我。", "confidence": "high", "notes": ""}
 
 621. What is the significance?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它的重要意義是什麼？", "confidence": "high", "notes": ""}
 
 622. Well, the events in Roswell in 1947 set up the entire cover-up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，1947 年在羅斯威爾發生的事件開啟了整個真相掩蓋行動。", "confidence": "high", "notes": ""}
 
 623. At that point ... Cover-up of what?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在那個時候……掩蓋什麼？", "confidence": "high", "notes": ""}
 
 624. Cover-up of the alien visitation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "掩蓋外星人來訪。", "confidence": "high", "notes": ""}
 
 625. What we look at is, after the Kenneth Arnold signing on June 24, 1947, there was an awful lot of stories in the newspapers about flying saucers.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們看到的是，在 1947 年 6 月 24 日 Kenneth Arnold 目擊事件之後，報紙上出現了大量關於飛碟的報導。", "confidence": "high", "notes": ""}
 
 626. There was all kinds of discussion about what they were.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "關於它們是什麼有各種各樣的討論。", "confidence": "high", "notes": ""}
 
 627. One scientist postulated that if you left a dark movie theater and you walked out into the bright sunlight, you'd see spots in front of your eyes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "一位科學家假設，如果你離開黑暗的電影院，走到明亮的陽光下，你會在眼前看到斑點。", "confidence": "high", "notes": ""}
 
 628. This is what people were seeing.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是人們看到的。", "confidence": "high", "notes": ""}
 
 629. Didn't explain why the spots were black instead of silver.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但這沒有解釋為什麼這些斑點是黑色的而不是銀色的。", "confidence": "high", "notes": ""}
 
 630. There were military officers making comments.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有軍官發表評論。", "confidence": "high", "notes": ""}
 
 631. At one point, one officer said, "Well, we're not interested in the flying saucers anymore."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在某個時候，一名軍官說：「嗯，我們對飛碟不再感興趣了。」", "confidence": "high", "notes": ""}
 
 632. Okay, stop.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，停。", "confidence": "high", "notes": ""}
 
 633. I don't want to know the editorial.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不想知道評論性的內容。", "confidence": "high", "notes": ""}
 
 634. I want to know what, about the Roswell incident, began the cover-up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想知道關於羅斯威爾事件的什麼事情，開啟了真相掩蓋。", "confidence": "high", "notes": ""}
 
 635. You just said it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您剛才說了。", "confidence": "high", "notes": ""}
 
 636. No, don't give me the editorial pile.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不，不要給我一堆評論性的內容。", "confidence": "high", "notes": ""}
 
 637. Just stay on that part.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "就專注在那個部分。", "confidence": "high", "notes": ""}
 
 638. Stay on the scientific part right there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "就專注在那裡的科學部分。", "confidence": "high", "notes": ""}
 
 639. What happened at Roswell, the cover-up of the alien, whatever we think that is.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在羅斯威爾發生了什麼事，掩蓋外星人，無論我們認為那是什麼。", "confidence": "high", "notes": ""}
 
 640. I hate that word, or whatever that is.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我討厭那個詞，或者無論那是什麼。", "confidence": "high", "notes": ""}
 
 641. Why, even yet today, why?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "為什麼，即使到今天，為什麼？", "confidence": "high", "notes": ""}
 
 642. In 1947, we'd just come out of a war.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在 1947 年，我們剛剛結束一場戰爭。", "confidence": "high", "notes": ""}
 
 643. We are worried about our competitors in the world.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們擔心世界上的競爭對手。", "confidence": "high", "notes": ""}
 
 644. If we can exploit this find, discover the propulsion system, discover the materials, how they work, we take a huge step ahead of our competitors and the rest of the world.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果我們能利用這個發現，破解推進系統，破解材料，了解它們如何運作，我們就能在競爭對手和世界其他國家面前邁出一大步。", "confidence": "high", "notes": ""}
 
 645. In 1947, it makes perfect sense.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在 1947 年，這完全說得通。", "confidence": "high", "notes": ""}
 
 646. We don't want people talking about this.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們不希望人們談論這件事。", "confidence": "high", "notes": ""}
 
 647. The Russians aren't going to spy on us if they don't think there's anything there to spy on, so they've eliminated our competitors.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果俄羅斯人認為沒有什麼值得間諜的東西，他們就不會對我們進行間諜活動，所以我們就排除了競爭對手。", "confidence": "high", "notes": ""}
 
 648. Why it persists today, I am somewhat puzzled about, because it would seem that we've become much more sophisticated, and we would understand what's going on in the world around us and space around us.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "為什麼它今天仍然持續，我有些困惑，因為看起來我們已經變得更加成熟，我們應該理解我們周圍的世界和我們周圍的太空發生了什麼。", "confidence": "high", "notes": ""}
 
 649. Unless we still don't understand.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "除非我們仍然不理解。", "confidence": "high", "notes": ""}
 
 650. I think the problem is we haven't decoded the materials.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我認為問題是我們還沒有破解這些材料。", "confidence": "high", "notes": ""}
 
 651. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 652. Thank you, sir.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您，先生。", "confidence": "high", "notes": ""}
 
 653. That was good.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "說得很好。", "confidence": "high", "notes": ""}
 
 654. Now you guys who know these people, you don't get to be a major in any of our militaries unless you're a well-respected, highly decorated individual about our nation, our family, and who we are, and that with your father, sir.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在你們這些認識這些人的人，在我們的任何軍隊中，除非你是一個備受尊敬、高度獲獎的個人，對我們的國家、我們的家庭和我們是誰有深刻認識，否則你不會成為少校，而這正是您父親的情況，先生。", "confidence": "medium", "notes": "句子結構較複雜，可能需要審校"}
 
 655. Congratulations on that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "為此恭喜您。", "confidence": "high", "notes": ""}
 
 656. As 11 years old, if you testify today, you witnessed the Roswell Incident's crash.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "作為一個 11 歲的孩子，如果您今天作證，您目擊了羅斯威爾事件的墜毀。", "confidence": "high", "notes": ""}
 
 657. I'm saying crash.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說的是墜毀。", "confidence": "high", "notes": ""}
 
 658. You might've called it something else.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您可能稱它為別的東西。", "confidence": "high", "notes": ""}
 
 659. Crash is good, okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "墜毀這個詞很好，可以。", "confidence": "high", "notes": ""}
 
 660. You witnessed particles from the crash, balloon notwithstanding, whatever else they said not withstanding, actually saw particles of what the craft may or may not have been.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您目擊了墜毀的碎片，儘管有氣球之說，儘管他們說了其他任何東西，實際上看到了那個飛行器可能或可能不是的碎片。", "confidence": "high", "notes": ""}
 
 661. Did you not?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是不是？", "confidence": "high", "notes": ""}
 
 662. Yes, ma'am.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，女士。", "confidence": "high", "notes": ""}
 
 663. Decorated father, you're now a Colonel, a medical doctor, and the Roswell Incident continues to be mysterious to some, factual to many.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您有一位功勳卓著的父親，您現在是一位上校、一位醫生，而羅斯威爾事件對某些人來說仍然是個謎，對許多人來說則是事實。", "confidence": "high", "notes": ""}
 
 664. You had firsthand information and now your children who have lived with a grandfather and a father they've respected of high decorated ability and consequence and served in our military.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您擁有第一手資訊，而現在您的孩子們，他們與一位祖父和一位父親一起生活，他們尊敬這位具有高度功勳、影響力和曾在我們軍隊服役的人。", "confidence": "medium", "notes": "句子結構較複雜"}
 
 665. Military has a special emphasis in most countries and certainly in ours.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "軍隊在大多數國家都有特殊的重要性，在我們國家當然也是如此。", "confidence": "high", "notes": ""}
 
 666. That's why everybody who testified in these three days to me, who's ever military, have the highest respect for this service and dedication.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是為什麼在這三天中向我作證的每個人，只要曾經在軍隊服役，對這種服務和奉獻都有最高的尊重。", "confidence": "high", "notes": ""}
 
 667. What would you offer to this committee at this time on this issue, Roswell, that would help me to understand and the rest of us as well?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在這個時候，關於羅斯威爾這個議題，您會向這個委員會提供什麼，來幫助我和我們其他人理解呢？", "confidence": "high", "notes": ""}
 
 668. Where we go from here, what you've seen, you've already kind of gave us a sample of it and all of that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們從這裡往哪裡走，您所看到的，您已經給了我們一個樣本，以及所有這些。", "confidence": "high", "notes": ""}
 
 669. What else should we know before we get up from here today?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在我們今天從這裡起身離開之前，我們還應該知道些什麼？", "confidence": "high", "notes": ""}
 
 670. Well, I think what it does, it tells us that we are not alone in the universe.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我認為它告訴我們的是，我們在宇宙中並不孤單。", "confidence": "high", "notes": ""}
 
 671. As a matter of fact, there's other civilizations out there and they're finding Earth-like planets around other store systems every day.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事實上，宇宙中還有其他文明，而且他們每天都在其他恆星系統周圍發現類地行星。", "confidence": "high", "notes": ""}
 
 672. That means that we are probably just beginners, new kids on the block, so to speak.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這意味著我們可能只是初學者，可以說是新來的菜鳥。", "confidence": "high", "notes": ""}
 
 673. They are obviously more advanced than we are in their science and hopefully their cultural abilities too, that they can get here from wherever they come from.
 → {"text": "他們在科學上顯然比我們更先進，希望在文化能力上也是如此，才能從他們的來源地抵達這裡。", "confidence": "high", "notes": ""}
