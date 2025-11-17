@@ -30,10 +30,10 @@
 10. And he was friends with the man who became CIA Director Woolsey.
 → {"text": "", "confidence": "", "notes": ""}
 
-11. CI Director Woolsey invited us to come to Washington to meet with him and some folks to discuss this.
+11. CIA Director Woolsey invited us to come to Washington to meet with him and some folks to discuss this.
 → {"text": "", "confidence": "", "notes": ""}
 
-12. And it was to my great surprise and dismay to learn that the CI Director had made inquiries into this subject and had not gotten any information.
+12. And it was to my great surprise and dismay to learn that the CIA Director had made inquiries into this subject and had not gotten any information.
 → {"text": "", "confidence": "", "notes": ""}
 
 13. This was also true of President Clinton who, through Webster Hubbell, had also made inquiries.

@@ -16,14 +16,6 @@ terms:
         notes: 文法功能詞,非術語意義
 
   # ===== C =====
-  - term: CI Director Woolsey
-    senses:
-      - id: woolsey_cia_director_typo
-        definition: CIA局長伍爾西(轉錄錯誤拼寫,正確為CIA Director Woolsey)
-        preferred_translation: CIA局長伍爾西
-        segments: [11]
-        notes: Whisper轉錄錯誤,將"CIA"聽成"CI",正確拼寫見segment 10
-
   - term: CIA
     senses:
       - id: cia_agency
@@ -31,6 +23,14 @@ terms:
         preferred_translation: CIA
         segments: [10, 24, 36, 95, 162, 163, 165, 166, 167, 315, 389, 390, 405, 515]
         notes: UFO-03中重點討論CIA在洛克菲勒倡議中的角色,以及在秘密行動中的權力
+
+  - term: CIA Director Woolsey
+    senses:
+      - id: woolsey_cia_director
+        definition: CIA局長詹姆斯·伍爾西
+        preferred_translation: CIA局長伍爾西
+        segments: [10, 11, 315]
+        notes: 柯林頓政府時期的CIA局長,Dr. Greer曾向他簡報UFO資訊
 
   - term: Classified
     senses:
@@ -260,7 +260,7 @@ terms:
     senses:
       - id: maccabee_researcher
         definition: UFO研究者與物理學家
-        preferred_translation: 布魯斯·馬卡比
+        preferred_translation: 布魯斯·麥卡比
         segments: [167]
         notes: Pandolfi委託他撰寫白宮UFO簡報
 
@@ -276,17 +276,17 @@ terms:
     senses:
       - id: pell_senator
         definition: 前參議員,參議院外交關係委員會主席
-        preferred_translation: 克萊本·佩爾參議員
+        preferred_translation: 克萊伯恩·佩爾參議員
         segments: [228]
         notes: 對超心理學深感興趣,Scott-Jones曾任其特別助理
 
-  - term: Marie Goldbreath
+  - term: Marie Galbraith
     senses:
-      - id: goldbreath_coordinator
+      - id: galbraith_coordinator
         definition: 洛克菲勒UFO倡議協調人,駐法大使夫人
         preferred_translation: 瑪莉·高布瑞斯
-        segments: [243, 244, 248, 254, 256]
-        notes: 1995年起接替Scott-Jones,協調UFO Briefing Document製作(正確拼寫應為Galbraith)
+        segments: [242, 243, 244, 248, 254, 256]
+        notes: 1995年起接替Scott-Jones,協調UFO Briefing Document製作,夫婿為Evan Galbraith
 
   # ----- 軍方官員 -----
   - term: Admiral Tom Wilson
@@ -344,18 +344,18 @@ terms:
   - term: Unacknowledged special access project
     senses:
       - id: usap_classification
-        definition: 未公開的特別訪問項目,連國會都不知道存在的高度機密計畫
-        preferred_translation: 未公開特別訪問項目
+        definition: 未公開的特別許可項目,連國會都不知道存在的高度機密計畫
+        preferred_translation: 未公開特別許可項目
         segments: [47, 73]
-        notes: 簡稱USAP,UFO-03的核心概念之一
+        notes: 簡稱USAP,需要特殊許可才能接觸的機密項目,UFO-03的核心概念之一
 
   - term: alien reproduction vehicles
     senses:
       - id: arv_craft
-        definition: 仿製外星飛行器技術的人造載具
-        preferred_translation: 外星仿製載具
+        definition: 人類仿製外星飛行器技術製造的載具
+        preferred_translation: 仿製外星載具
         segments: [80]
-        notes: 簡稱ARV,Dr. Greer證詞提到的秘密計畫
+        notes: 簡稱ARV,Dr. Greer證詞提到的秘密計畫,是人類仿製外星技術的產物
 
   - term: Frank Carlucci
     senses:
@@ -369,7 +369,7 @@ terms:
     senses:
       - id: brown_physicist
         definition: 反重力研究先驅物理學家
-        preferred_translation: T·湯森·布朗
+        preferred_translation: 托馬斯·湯森·布朗
         segments: [80]
         notes: 1929年開始進行先進反重力研究
 
@@ -377,8 +377,8 @@ terms:
   - term: Pentagon Papers
     senses:
       - id: pentagon_papers_case
-        definition: 五角大樓文件案,揭露越戰秘密的重大洩密事件
-        preferred_translation: 五角大樓文件案
+        definition: 五角大廈文件案,揭露越戰秘密的重大洩密事件
+        preferred_translation:  五角大廈文件案
         segments: [87, 89, 103, 131]
         notes: Daniel Sheehan經手的著名案件之一
 
@@ -418,7 +418,7 @@ terms:
     senses:
       - id: shackley_cia_officer
         definition: CIA西貢站長
-        preferred_translation: 西奧多·沙克利
+        preferred_translation: 西奧多·謝克利
         segments: [95]
         notes: 設立Nugan Hand Bank的CIA官員
 
@@ -441,8 +441,8 @@ terms:
   - term: Karen Silkwood case
     senses:
       - id: silkwood_case
-        definition: 凱倫·西爾克伍德案,涉及核材料走私的重大案件
-        preferred_translation: 凱倫·西爾克伍德案
+        definition: 凱倫·絲克伍案,涉及核材料走私的重大案件
+        preferred_translation: 凱倫·絲克伍案
         segments: [105, 114, 132]
         notes: Daniel Sheehan擔任首席律師的案件
 
@@ -457,8 +457,8 @@ terms:
   - term: Nuclear Nonproliferation Treaty
     senses:
       - id: npt_treaty
-        definition: 核不擴散條約
-        preferred_translation: 核不擴散條約
+        definition: 核武禁擴條約
+        preferred_translation: 核武禁擴條約
         segments: [112, 118]
         notes: 美國向以色列走私鈽材料違反此條約
 
@@ -515,7 +515,7 @@ terms:
     senses:
       - id: gao_office
         definition: 美國政府問責辦公室
-        preferred_translation: 政府問責辦公室
+        preferred_translation: 美國政府問責署
         segments: [176]
         notes: 簡稱GAO,曾調查羅斯威爾事件
 
@@ -523,7 +523,7 @@ terms:
     senses:
       - id: schiff_congressman
         definition: 新墨西哥州眾議員史蒂芬·席夫
-        preferred_translation: 史蒂芬·席夫眾議員
+        preferred_translation: 史蒂文·希夫眾議員
         segments: [177]
         notes: 下令GAO調查羅斯威爾,遭國防部長Les Aspin阻撓
 
@@ -538,10 +538,10 @@ terms:
   - term: mogul balloon
     senses:
       - id: mogul_balloon_explanation
-        definition: 魔球氣球,空軍對羅斯威爾事件的官方解釋
-        preferred_translation: 魔球氣球
+        definition: 莫古爾計畫氣球,空軍對羅斯威爾事件的官方解釋
+        preferred_translation: 莫古爾計畫氣球
         segments: [182]
-        notes: 1994年空軍聲稱羅斯威爾墜毀物為監測蘇聯核試的秘密氣球
+        notes: Project Mogul，1940年代美國空軍秘密計畫，用高空氣球監測蘇聯核試驗。1994年空軍聲稱羅斯威爾墜毀物為此氣球
 
   # ----- 洛克菲勒倡議文件與組織 -----
   - term: Rockefeller Archive Center
@@ -566,15 +566,15 @@ terms:
         definition: 白宮科學技術政策辦公室
         preferred_translation: 白宮科學技術政策辦公室
         segments: [221]
-        notes: 簡稱OSTP,Dr. Jack Gibbons的機構
+        notes: 簡稱OSTP,Dr. Jack Gibbons領導的機構,負責向總統提供科技政策建議
 
   - term: OSTP
     senses:
       - id: ostp_abbreviation
-        definition: Office of Science and Technology Policy簡稱
-        preferred_translation: OSTP
+        definition: Office of Science and Technology Policy,白宮科學技術政策辦公室
+        preferred_translation: 白宮科學技術政策辦公室
         segments: [230, 234]
-        notes: 白宮科學技術政策辦公室的縮寫
+        notes: 全名為White House Office of Science and Technology Policy,後續可簡稱「科技政策辦公室」
 
   - term: Paradigm Research Group
     senses:
@@ -676,10 +676,10 @@ terms:
   - term: Lord Hill Norton
     senses:
       - id: hill_norton_uk_defense
-        definition: 英國國防部長希爾諾頓勳爵
-        preferred_translation: 希爾諾頓勳爵
+        definition: 彼得·希爾-諾頓勳爵,英國前國防參謀長
+        preferred_translation: 彼得·希爾-諾頓勳爵
         segments: [316]
-        notes: Dr. Greer向他解釋為何英國高層被拒絕UFO資訊
+        notes: 海軍元帥,英國國防參謀長(Chief of the Defence Staff),Dr. Greer向他解釋為何英國高層被拒絕UFO資訊
 
   - term: Federation of American Scientists
     senses:
@@ -709,7 +709,7 @@ terms:
     senses:
       - id: nro_agency
         definition: 國家偵察辦公室
-        preferred_translation: 國家偵察辦公室
+        preferred_translation: 美國國家偵察局
         segments: [421]
         notes: 簡稱NRO,負責衛星偵察的機構
 

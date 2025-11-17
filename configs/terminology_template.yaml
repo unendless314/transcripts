@@ -311,9 +311,9 @@ terms:
   - term: USAP
     senses:
       - id: usap_project
-        definition: Unacknowledged Special Access Project，未公開的特別訪問項目
-        preferred_translation: 未公開特別訪問項目
-        notes: 連國會都不知道存在的高度機密計畫，可簡稱USAP
+        definition: Unacknowledged Special Access Project，未公開的特別許可項目
+        preferred_translation: 未公開特別許可項目
+        notes: 連國會都不知道存在的高度機密計畫，需要特殊許可才能接觸，可簡稱USAP
 
   # ===== W =====
   - term: Witness

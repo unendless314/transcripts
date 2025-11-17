@@ -129,13 +129,13 @@
 241. This derailed to a great extent the initial Rockefeller effort at the White House, but didn't stop him to try a different approach.
 → {"text": "", "confidence": "", "notes": ""}
 
-242. By 1995, Lawrence Rockefeller switched his UFO-related coordinator from Scott Jones to Marie Galbrath, the well-connected wife of investment banker Evan Goldbreath, who was ambassador to France during the Reagan administration, Republican candidate for New York governor in 1994, and chairman of William Buckley's National Review, among other things.
+242. By 1995, Lawrence Rockefeller switched his UFO-related coordinator from Scott Jones to Marie Galbraith, the well-connected wife of investment banker Evan Galbraith, who was ambassador to France during the Reagan administration, Republican candidate for New York governor in 1994, and chairman of William Buckley's National Review, among other things.
 → {"text": "", "confidence": "", "notes": ""}
 
-243. Marie Goldbreath and Sandra S. Wright, another well-connected high society lady who run the BSW Foundation, had come up with the idea of preparing a comprehensive UFO briefing document that could be sent to members of Congress and VIPs in general.
+243. Marie Galbraith and Sandra S. Wright, another well-connected high society lady who run the BSW Foundation, had come up with the idea of preparing a comprehensive UFO briefing document that could be sent to members of Congress and VIPs in general.
 → {"text": "", "confidence": "", "notes": ""}
 
-244. The original draft was written by Don Berliner, an aviation journalist and long-time ufologist with the Fund for UFO Research, FUFOR, in the Washington area, and I was brought in to help edit and expand the document from a small office ran by Marie Goldbreath in New York's Madison Avenue.
+244. The original draft was written by Don Berliner, an aviation journalist and long-time ufologist with the Fund for UFO Research, FUFOR, in the Washington area, and I was brought in to help edit and expand the document from a small office ran by Marie Galbraith in New York's Madison Avenue.
 → {"text": "", "confidence": "", "notes": ""}
 
 245. The final briefing document was finished in December 1995, but sent out in early 1996.
@@ -147,7 +147,7 @@
 247. Copies of the report were sent to Dr. Gibbons at the White House, some members of Congress and VIPs worldwide, but there was no well-connected effort to disseminate the document, and as a result, its political impact was limited.
 → {"text": "", "confidence": "", "notes": ""}
 
-248. The one exception was France, due to Marie Goldbreath's extensive connections there from her U.S. Embassy days back in the 1980s.
+248. The one exception was France, due to Marie Galbraith's extensive connections there from her U.S. Embassy days back in the 1980s.
 → {"text": "", "confidence": "", "notes": ""}
 
 249. Copies of the UFO briefing document were sent from President Chirac down the food chain in the French government.
@@ -165,13 +165,13 @@
 253. There can be little doubt that the UFO briefing document became the model for the Cometa report, an important study conducted by a group of retired French generals and intelligence officers led by Major General Denis Letty.
 → {"text": "", "confidence": "", "notes": ""}
 
-254. In their final 1999 report titled "UFOs and Defense, What Should We Prepare For?" the Cometa authors praised highly, quote, "the leading U.S. personality, Marie Goldbreath, who was supported both morally and financially by Lawrence Rockefeller."
+254. In their final 1999 report titled "UFOs and Defense, What Should We Prepare For?" the Cometa authors praised highly, quote, "the leading U.S. personality, Marie Galbraith, who was supported both morally and financially by Lawrence Rockefeller."
 → {"text": "", "confidence": "", "notes": ""}
 
 255. That's from the Cometa report.
 → {"text": "", "confidence": "", "notes": ""}
 
-256. Marie Goldbreath was also the coordinator for a number of separate UFO-related projects funded by the philanthropists.
+256. Marie Galbraith was also the coordinator for a number of separate UFO-related projects funded by the philanthropists.
 → {"text": "", "confidence": "", "notes": ""}
 
 257. By 1997, Lawrence Rockefeller dropped the political UFO initiatives and concentrated instead on the scientific angle.
