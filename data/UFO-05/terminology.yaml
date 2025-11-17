@@ -1,0 +1,522 @@
+episode_id: UFO-05
+terms:
+- term: AFib
+  senses:
+  - id: afib_condition
+    definition: Atrial fibrillation，心房顫動，一種心律不整疾病
+    preferred_translation: 心房顫動
+    segments:
+    - 87
+    notes: John Burroughs 提到的健康狀況之一
+- term: Air Force Office of Special Investigations
+  senses:
+  - id: afosi_agency
+    definition: 美國空軍特別調查辦公室，負責反情報與刑事調查
+    preferred_translation: 空軍特別調查辦公室
+    segments:
+    - 37
+    - 40
+    notes: 簡稱 OSI，事件後對證人進行審訊的機構
+- term: Airman Ed Kabancik
+  senses:
+  - id: kabancik_witness
+    definition: 參與 Rendlesham Forest 事件的空軍士兵
+    preferred_translation: 艾德·卡班希克
+    segments:
+    - 28
+    notes: 事件目擊者之一，在 topic 03 和 04 中提及
+- term: British Ministry of Defence
+  senses:
+  - id: mod_uk
+    definition: 英國國防部（簡稱 MOD）
+    preferred_translation: 英國國防部
+    segments:
+    - 11
+    - 12
+    - 14
+    - 15
+    - 17
+    - 18
+    - 19
+    - 20
+    - 22
+    - 54
+    - 271
+    notes: Nick Pope 曾任職的機構，負責調查英國境內的 UFO 事件
+- term: Carolyn Kilpatrick
+  senses:
+  - id: kilpatrick_panelist
+    definition: 前美國眾議員，聽證會主席
+    preferred_translation: 卡蘿琳·基爾派翠克
+    segments:
+    - 9
+    notes: 本次聽證會的主持人
+- term: Central Security Control
+  senses:
+  - id: csc_facility
+    definition: 基地中央保安管制中心
+    preferred_translation: 中央保安管制中心
+    segments:
+    - 27
+    notes: Penniston 和 Burroughs 向該中心回報發現的異常狀況
+- term: CIA
+  senses:
+  - id: cia_agency
+    definition: Central Intelligence Agency，美國中央情報局
+    preferred_translation: CIA
+    segments:
+    - 41
+    - 248
+    - 254
+    - 258
+    - 265
+    notes: Frescona 律師向其提出 FOIA 申請但遭拒絕
+- term: Classified
+  senses:
+  - id: classified_information
+    definition: 政府或軍方列為機密的資訊或文件
+    preferred_translation: 機密
+    segments:
+    - 42
+    - 46
+    - 72
+    - 75
+    - 76
+    - 77
+    - 91
+    - 92
+    - 93
+    - 196
+    - 197
+    - 231
+    - 233
+    - 234
+    - 235
+    - 236
+    - 237
+    - 271
+    - 323
+    notes: VA 內部存在機密檔案區，證人的醫療記錄可能被列為機密
+- term: Colonel Halt incident
+  senses:
+  - id: halt_incident_night3
+    definition: Rendlesham Forest 事件第三夜，Halt 上校率隊調查並錄音的遭遇
+    preferred_translation: Halt 上校事件
+    segments:
+    - 176
+    notes: 第三夜事件，有著名的 17 分鐘錄音記錄
+- term: congestive heart failure
+  senses:
+  - id: chf_condition
+    definition: 鬱血性心臟衰竭，嚴重的心臟疾病
+    preferred_translation: 鬱血性心臟衰竭
+    segments:
+    - 87
+    notes: John Burroughs 因輻射暴露導致的嚴重健康問題
+- term: Dan Sheehan
+  senses:
+  - id: sheehan_counsel
+    definition: 聽證會法律顧問
+    preferred_translation: 丹·希恩
+    segments:
+    - 3
+    notes: 擔任本次公民聽證會的總法律顧問
+- term: Dr. Joseph Bookman
+  senses:
+  - id: bookman_prg
+    definition: 典範研究組織（Paradigm Research Group）代表
+    preferred_translation: 約瑟夫·布克曼博士
+    segments:
+    - 9
+    notes: 聽證會評審小組成員之一
+- term: Darlene Hooley
+  senses:
+  - id: hooley_panelist
+    definition: 前美國眾議員，聽證會評審小組成員
+    preferred_translation: 達琳·胡利
+    segments:
+    - 4
+    notes: 聽證會小組成員之一
+- term: DD form 214
+  senses:
+  - id: dd214_form
+    definition: 美國國防部退伍證明文件
+    preferred_translation: DD-214 表格
+    segments:
+    - 93
+    notes: 退伍軍人的官方服役記錄文件，Burroughs 的記錄顯示服役期間有空白
+- term: Defence Intelligence staff
+  senses:
+  - id: di_staff_uk
+    definition: 英國國防部情報人員
+    preferred_translation: 國防情報人員
+    segments:
+    - 12
+    - 13
+    - 18
+    notes: 評估 Rendlesham 現場輻射讀數「顯著高於背景值」的機構
+- term: Eastern radar
+  senses:
+  - id: eastern_radar_facility
+    definition: 東部雷達站，負責監控英國東部空域
+    preferred_translation: 東部雷達站
+    segments:
+    - 51
+    - 52
+    notes: 追蹤到不明物體消失在森林上方，促使地面人員前往調查
+- term: ejection fraction
+  senses:
+  - id: ejection_fraction_medical
+    definition: 射血分數，心臟每次收縮時泵出的血液百分比，用於評估心臟功能
+    preferred_translation: 射血分數
+    segments:
+    - 89
+    notes: John Burroughs 的射血分數率降至危險水平，顯示嚴重心臟衰竭
+- term: FOIA
+  senses:
+  - id: foia_law
+    definition: Freedom of Information Act，美國資訊自由法
+    preferred_translation: 資訊自由法
+    segments:
+    - 248
+    - 261
+    notes: Frescona 律師使用此法向多個機構申請證人的醫療記錄
+- term: General Gabriel
+  senses:
+  - id: gabriel_general
+    definition: 美國空軍將軍，事件後訪問基地並移除證據
+    preferred_translation: 蓋博上將
+    segments:
+    - 15
+    - 16
+    - 17
+    notes: Nick Pope 指出他的介入破壞了官方調查
+- term: Glomar response
+  senses:
+  - id: glomar_response_legal
+    definition: 政府機構「既不確認也不否認」的法律回應方式
+    preferred_translation: 葛洛瑪回應
+    segments:
+    - 253
+    - 254
+    - 255
+    - 256
+    - 257
+    notes: CIA 對 Frescona 的 FOIA 申請使用此回應，源自 Hughes Glomar Explorer 案例
+- term: Halt Memo
+  senses:
+  - id: halt_memo_document
+    definition: Charles Halt 上校撰寫的事件報告備忘錄
+    preferred_translation: Halt 備忘錄
+    segments:
+    - 39
+    notes: 正式記錄 Rendlesham Forest 事件的重要官方文件
+- term: heart murmur
+  senses:
+  - id: heart_murmur_condition
+    definition: 心雜音，異常的心臟聲音
+    preferred_translation: 心雜音
+    segments:
+    - 84
+    notes: John Burroughs 事件後出現的早期健康症狀
+- term: James Penniston
+  senses:
+  - id: penniston_witness
+    definition: 美國空軍技術軍士，Rendlesham Forest 事件主要證人
+    preferred_translation: 詹姆斯·潘尼斯頓
+    segments:
+    - 26
+    - 27
+    notes: 第一夜事件的核心證人，曾觸摸不明飛行器並拍照記錄
+- term: John Burroughs
+  senses:
+  - id: burroughs_witness
+    definition: 美國空軍一等兵/技術軍士，Rendlesham Forest 事件主要證人
+    preferred_translation: 約翰·巴勒斯
+    segments:
+    - 26
+    - 38
+    - 40
+    - 41
+    - 43
+    notes: 第一夜事件的核心證人，事件後罹患嚴重心臟疾病
+- term: Lieutenant Colonel Charles Halt
+  senses:
+  - id: halt_officer
+    definition: 美國空軍中校，RAF Bentwaters 副基地指揮官
+    preferred_translation: 查爾斯·霍爾特中校
+    segments:
+    - 11
+    - 38
+    - 173
+    - 174
+    - 175
+    - 176
+    - 177
+    - 188
+    notes: 第三夜事件的主要證人，錄製了著名的 17 分鐘現場錄音
+- term: Lord Hill Norton
+  senses:
+  - id: hill_norton_admiral
+    definition: 英國海軍上將，前北約盟軍最高司令
+    preferred_translation: 希爾·諾頓勳爵
+    segments:
+    - 21
+    - 22
+    notes: 他指出 Rendlesham 事件只有兩種可能：外星入侵或軍人集體妄想
+- term: Lynn Woolsey
+  senses:
+  - id: woolsey_panelist
+    definition: 前美國眾議員，聽證會評審小組成員
+    preferred_translation: 琳恩·伍爾西
+    segments:
+    - 7
+    notes: 聽證會小組成員之一
+- term: Maxwell Air Force Base
+  senses:
+  - id: maxwell_afb
+    definition: 阿拉巴馬州麥克斯威爾空軍基地，空軍歷史檔案所在地
+    preferred_translation: 麥克斯威爾空軍基地
+    segments:
+    - 323
+    notes: Burroughs 發現該基地檔案館中缺少 81st Wing 1980 年 12 月的官方歷史記錄
+- term: Merrill Cook
+  senses:
+  - id: cook_congressman
+    definition: 前美國眾議員，聽證會評審小組成員
+    preferred_translation: 梅里爾·庫克
+    segments:
+    - 8
+    notes: 聽證會小組成員，積極質詢 VA 機密檔案系統
+- term: Mike Gravel
+  senses:
+  - id: gravel_senator
+    definition: 前美國參議員，聽證會評審小組成員
+    preferred_translation: 麥克·格拉維爾
+    segments:
+    - 5
+    - 128
+    - 131
+    - 133
+    - 164
+    notes: 前阿拉斯加州參議員，建議證人更積極追求真相
+- term: NATO status of forces agreement
+  senses:
+  - id: nato_sofa
+    definition: 北約部隊地位協定，規範駐外軍隊的管轄權
+    preferred_translation: 北約部隊地位協定
+    segments:
+    - 104
+    notes: 涉及美軍在英國基地發生事件的管轄權問題
+- term: Nick Pope
+  senses:
+  - id: pope_mod_official
+    definition: 前英國國防部官員，1991-1994 年負責 UFO 調查事務
+    preferred_translation: 尼克·波普
+    segments:
+    - 11
+    notes: 本次聽證會的專家證人，提供英國官方視角的事件分析
+- term: Paradigm Research Group
+  senses:
+  - id: prg_organization
+    definition: 主辦本次公民聽證會的 UFO 研究組織
+    preferred_translation: 典範研究組織
+    segments:
+    - 9
+    notes: Dr. Joseph Bookman 所代表的組織
+- term: Patrick Frescona
+  senses:
+  - id: frescona_attorney
+    definition: Penniston 和 Burroughs 的法律顧問
+    preferred_translation: 派翠克·弗雷斯科納
+    segments:
+    - 25
+    notes: 代表兩位證人追討醫療記錄和 VA 福利的律師
+- term: Personal Reliability Program
+  senses:
+  - id: prp_security
+    definition: 人員可靠性計畫，核武相關人員的安全審查制度
+    preferred_translation: 人員可靠性計畫
+    segments:
+    - 178
+    - 179
+    - 180
+    notes: 簡稱 PRP，證人強調參與此計畫的人員心智健全且可靠
+- term: Project Blue Book
+  senses:
+  - id: project_blue_book_usaf
+    definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+    preferred_translation: 藍皮書計畫
+    segments:
+    - 17
+    - 63
+    - 64
+    notes: Nick Pope 提到美國版的 UFO 調查計畫
+- term: PTSD
+  senses:
+  - id: ptsd_condition
+    definition: Post-Traumatic Stress Disorder，創傷後壓力症候群
+    preferred_translation: 創傷後壓力症候群
+    segments:
+    - 71
+    - 92
+    notes: James Penniston 經歷的心理健康問題，VA 機密檔案系統與 PTSD 案件相關
+- term: RAF Bentwaters
+  senses:
+  - id: bentwaters_base
+    definition: 位於英國薩福克郡的皇家空軍基地，1980 年由美國空軍運作
+    preferred_translation: 班特沃特斯皇家空軍基地
+    segments:
+    - 11
+    - 15
+    - 26
+    - 27
+    - 33
+    - 34
+    - 44
+    - 47
+    - 49
+    - 179
+    notes: Rendlesham Forest 事件的兩個相關基地之一
+- term: regressional hypnosis
+  senses:
+  - id: regressional_hypnosis_therapy
+    definition: 回溯催眠，一種探索過去記憶的催眠治療方法
+    preferred_translation: 回溯催眠
+    segments:
+    - 73
+    - 75
+    - 286
+    - 290
+    - 291
+    notes: James Penniston 使用此方法回溯事件細節，注意 Whisper 誤轉為「transgressional」
+- term: RAF Woodbridge
+  senses:
+  - id: woodbridge_base
+    definition: 位於英國薩福克郡的皇家空軍基地，1980 年由美國空軍運作
+    preferred_translation: 伍德布里奇皇家空軍基地
+    segments:
+    - 11
+    - 15
+    - 26
+    - 48
+    - 49
+    - 52
+    - 75
+    - 179
+    notes: Rendlesham Forest 事件的兩個相關基地之一，事件發生地點鄰近此基地
+- term: Rendlesham Forest incident
+  senses:
+  - id: rendlesham_incident
+    definition: 1980 年 12 月發生於英國薩福克郡 Rendlesham Forest 的 UFO 著陸事件
+    preferred_translation: 藍德勒森林事件
+    segments:
+    - 11
+    - 18
+    - 19
+    - 23
+    notes: 又稱 Bentwaters incident，英國最重要的 UFO 事件，本集聽證會的核心主題
+- term: Roscoe Bartlett
+  senses:
+  - id: bartlett_congressman
+    definition: 前美國眾議員，聽證會主席
+    preferred_translation: 羅斯科·巴特利特
+    segments:
+    - 7
+    notes: 本次聽證會的主持人之一，曾任科學委員會成員
+- term: Senator Jon Kyl
+  senses:
+  - id: kyl_senator
+    definition: 美國參議員（亞利桑那州）
+    preferred_translation: 強·凱爾參議員
+    segments:
+    - 91
+    - 92
+    - 94
+    - 112
+    - 115
+    - 197
+    - 238
+    notes: 他的辦公室告知 Burroughs VA 內部存在機密檔案區
+- term: Senator McCain
+  senses:
+  - id: mccain_senator
+    definition: 美國參議員（亞利桑那州）
+    preferred_translation: 約翰·麥凱恩參議員
+    segments:
+    - 92
+    - 93
+    - 94
+    notes: 曾協助調查 Burroughs 的案件
+- term: Staff Sergeant Bud Steffens
+  senses:
+  - id: steffens_witness
+    definition: 參與 Rendlesham Forest 事件的空軍技術軍士
+    preferred_translation: 巴德·史蒂芬斯技術軍士
+    segments:
+    - 27
+    notes: 第一夜事件的目擊者之一
+- term: State Department
+  senses:
+  - id: state_dept_us
+    definition: 美國國務院
+    preferred_translation: 美國國務院
+    segments:
+    - 259
+    - 260
+    - 261
+    - 262
+    - 265
+    notes: Frescona 的 FOIA 申請中，國務院承認持有記錄但轉介給空軍
+- term: Tech Sergeant John Burroughs
+  senses:
+  - id: burroughs_tech_sergeant
+    definition: 約翰·巴勒斯的技術軍士軍銜稱呼
+    preferred_translation: 技術軍士約翰·巴勒斯
+    segments:
+    - 44
+    notes: Burroughs 在聽證會中的正式稱呼
+- term: UFO
+  senses:
+  - id: ufo_craft
+    definition: Unidentified Flying Object，不明飛行物
+    preferred_translation: 不明飛行物
+    segments:
+    - 11
+    - 13
+    - 14
+    - 18
+    - 19
+    - 22
+    - 23
+    - 56
+    - 63
+    - 64
+    - 275
+    notes: 本集核心主題，可視語境簡稱「UFO」或使用完整中文
+- term: Veterans Administration
+  senses:
+  - id: va_agency
+    definition: 美國退伍軍人事務部（簡稱 VA）
+    preferred_translation: 退伍軍人事務部
+    segments:
+    - 42
+    - 69
+    - 93
+    notes: 證人與其長期對抗以取得醫療記錄和福利，VA 內部存在機密檔案區
+- term: Warsaw Pact
+  senses:
+  - id: warsaw_pact_alliance
+    definition: 華沙公約組織，冷戰時期蘇聯領導的軍事同盟
+    preferred_translation: 華沙公約
+    segments:
+    - 50
+    notes: 冷戰時期美軍在英國基地的主要防禦對象
+- term: 81st Tactical Fighter Wing
+  senses:
+  - id: 81st_tfw
+    definition: 駐紮於 RAF Bentwaters 的美國空軍第 81 戰術戰鬥機聯隊
+    preferred_translation: 第 81 戰術戰鬥機聯隊
+    segments:
+    - 44
+    notes: 證人所屬部隊，該部隊 1980 年 12 月的官方歷史記錄在檔案館中神秘消失

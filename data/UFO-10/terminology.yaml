@@ -1,0 +1,517 @@
+episode_id: UFO-10
+terms:
+  # ===== A =====
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施
+        preferred_translation: 51 區
+        segments: [27]
+        notes: 與 UFO 和先進航空技術研發相關的傳說地點，出現頻率極高
+
+  - term: Area 51 S4
+    senses:
+      - id: area_51_s4_facility
+        definition: Area 51 內部的 S4 設施，據稱用於儲存 UFO 零件或遺體
+        preferred_translation: 51 區 S4 設施
+        segments: [27]
+        notes: Bob Lazar 聲稱曾在此工作的秘密設施，與 Blue Lab WP-61 並列於文件中
+
+  # ===== B =====
+  - term: Battle of LA
+    senses:
+      - id: battle_la_1942
+        definition: 1942 年 2 月洛杉磯防空砲擊不明飛行物事件
+        preferred_translation: 洛杉磯之戰
+        segments: [266]
+        notes: Dr. Wood 引用的文件聲稱與此事件相關的墜毀飛行器被回收
+
+  - term: Being
+    senses:
+      - id: being_extraterrestrial
+        definition: 外星生命體或智慧存在
+        preferred_translation: 存有
+        segments: [73]
+        notes: 證詞中提到的外星生命體，可補充為「外星存有」。注意：candidates 中多數出現是動詞用法，僅 segment 73 明確指外星存有
+
+  # ===== C =====
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        segments: [630]
+        notes: 美國主要情報機構，參與UFO調查與保密工作，高頻出現
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        segments: [69, 73, 83, 94, 115, 117, 118, 124, 127, 129, 216, 318, 320, 323, 349, 350, 352, 356, 370]
+        notes: 常見分類：Top Secret (絕密)、Secret (機密)、Confidential (密)
+
+  - term: Clinton Library
+    senses:
+      - id: clinton_library_arkansas
+        definition: 位於阿肯色州的柯林頓總統圖書館
+        preferred_translation: 柯林頓總統圖書館
+        segments: [167, 172]
+        notes: 洛克菲勒倡議文件曾存放於此，後神秘消失
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        segments: [563]
+        notes: 保持客觀中性語調，避免「政府掩蓋」等對立性用詞。上下文明確時可簡化為「掩蓋」
+
+  - term: Cutler-Twining memo
+    senses:
+      - id: cutler_twining_memo_mj12
+        definition: 疑似 MJ-12 相關的卡特勒-特溫寧備忘錄
+        preferred_translation: 卡特勒-特溫寧備忘錄
+        segments: [126]
+        notes: Stanton Friedman 驗證的 MJ-12 文件之一
+
+  # ===== D =====
+  - term: Department of Transport
+    senses:
+      - id: canada_transport_dept
+        definition: 加拿大運輸部，管理 UFO 檔案的四個機構之一
+        preferred_translation: 運輸部
+        segments: [177]
+        notes: 加拿大政府管理 UFO 檔案的機構之一
+
+  - term: Don Berliner
+    senses:
+      - id: berliner_researcher
+        definition: UFO 研究者，擁有 SOM 1-01 手冊的 35mm 底片
+        preferred_translation: 唐·伯林納
+        segments: [17]
+        notes: Dr. Bob Wood 從他處取得 MJ-12 手冊的底片進行驗證
+
+  - term: Donald Menzel
+    senses:
+      - id: menzel_astronomer
+        definition: 天文學家，表面上的 UFO 懷疑論者，實際從事高度機密工作
+        preferred_translation: 唐納德·孟澤爾博士
+        segments: [111, 127]
+        notes: Stanton Friedman 揭露他實際參與大量機密計畫，可能是 MJ-12 成員
+
+  - term: Dr. Bob Wood
+    senses:
+      - id: wood_physicist
+        definition: 物理學博士，McDonnell Douglas 資深工程師，MJ-12 文件驗證專家
+        preferred_translation: 鮑勃·伍德博士
+        segments: [9]
+        notes: 43 年航太工程經驗，驗證 SOM 1-01 手冊的真實性
+
+  - term: Dr. Vannevar Bush
+    senses:
+      - id: bush_scientist
+        definition: 科學家，羅斯福總統科學顧問，據稱領導 MJ-12 計畫
+        preferred_translation: 范內瓦·布希博士
+        segments: [69, 218]
+        notes: 加拿大 Top Secret Memo 指出他領導美國 UFO 計畫的小組
+
+  # ===== E =====
+  - term: EBE
+    senses:
+      - id: ebe_entity
+        definition: Extraterrestrial Biological Entity，外星生物實體
+        preferred_translation: 外星生物實體
+        segments: [24]
+        notes: 美國軍方對外星生命的官方代號，可簡稱EBE
+
+  - term: EBE's extraterrestrial biological entities
+    senses:
+      - id: ebes_possessive_full
+        definition: 帶所有格的 EBE 完整說明用語
+        preferred_translation: EBE（外星生物實體）
+        segments: [24]
+        notes: 完整形式，首次出現時使用
+
+  - term: E-B-E-S
+    senses:
+      - id: ebes_acronym
+        definition: Extraterrestrial Biological Entities 的全大寫縮寫
+        preferred_translation: E-B-E-S
+        segments: [82]
+        notes: SOM 1-01 手冊中使用的正式縮寫格式
+
+  - term: Entity
+    senses:
+      - id: entity_organization
+        definition: 組織、機構或實體（非外星實體）
+        preferred_translation: 實體/機構
+        segments: [657, 665, 666]
+        notes: 證詞中討論文件驗證時，指能夠驗證文件的公正機構
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [16, 24, 65, 68, 71, 73, 74, 77, 79, 81, 82, 83, 94, 99, 203, 255, 260, 262, 278, 294, 295, 297, 325, 459, 465, 471, 472, 650]
+        notes: 名詞用法可譯為「外星人」、「外星生命」
+
+  - term: Extraterrestrial biological entities
+    senses:
+      - id: ebe_full_name
+        definition: 外星生物實體（全名），美國政府文件中對外星生命的官方用語
+        preferred_translation: 外星生物實體
+        segments: [82, 94]
+        notes: 縮寫為 EBE 或 E-B-E-S
+
+  - term: Extraterrestrial Entities in Technology Recovery and Disposal
+    senses:
+      - id: eet_manual_title_variant
+        definition: SOM 1-01 手冊的標題變體（Recovery 而非逗號分隔）
+        preferred_translation: 《外星實體與科技回收處置》
+        segments: [65]
+        notes: 與 "Extraterrestrial Entities in Technology, Recovery and Disposal" 為同一文件的不同標題形式
+
+  - term: Extraterrestrial Entities in Technology, Recovery and Disposal
+    senses:
+      - id: eet_manual_title
+        definition: 1954 年戰爭部訓練手冊標題，SOM 1-01
+        preferred_translation: 《外星實體、科技回收與處置》
+        segments: [16]
+        notes: Dr. Bob Wood 驗證的 MJ-12 核心文件之一
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [125, 213, 217, 221, 223, 236, 281, 326, 328, 335, 373, 382, 645]
+        notes: 較早期的用語，後被 UFO 取代但仍常見於證詞中
+
+  - term: fugo balloons
+    senses:
+      - id: fugo_balloons_japan
+        definition: 日本二戰期間施放的氣球炸彈
+        preferred_translation: 風船炸彈
+        segments: [103]
+        notes: Stanton Friedman 用於說明戰時審查制度的範例
+
+  # ===== G =====
+  - term: General Assembly
+    senses:
+      - id: un_general_assembly
+        definition: 聯合國大會
+        preferred_translation: 大會
+        segments: [696, 698]
+        notes: Senator Gravel 建議透過聯合國大會推動 UFO 真相揭露
+
+  # ===== I =====
+  - term: Interplanetary Phenomenon Unit
+    senses:
+      - id: ipu_military
+        definition: 跨行星現象研究小組，美國軍方早期 UFO 研究單位
+        preferred_translation: 跨行星現象研究小組
+        segments: [280]
+        notes: 分類等級為最高機密（Top Secret）
+
+  # ===== J =====
+  - term: James V. Forrestal
+    senses:
+      - id: forrestal_secretary
+        definition: 美國國防部長，推薦成立 MJ-12 計畫
+        preferred_translation: 詹姆斯·V·福雷斯塔爾
+        segments: [69]
+        notes: 與 Vannevar Bush 共同建議杜魯門總統成立 Operation Majestic 12
+
+  # ===== L =====
+  - term: Len Stringfield
+    senses:
+      - id: stringfield_researcher
+        definition: UFO 研究者，專注於墜毀飛碟回收案例
+        preferred_translation: 倫·斯特林菲爾德
+        segments: [41]
+        notes: Whisper 錯誤轉錄為 "Lin Stringfield"，應為 Len Stringfield
+
+  - term: Library of Congress
+    senses:
+      - id: library_of_congress
+        definition: 美國國會圖書館
+        preferred_translation: 國會圖書館
+        segments: [110]
+        notes: Stanton Friedman 進行檔案研究的場所之一
+
+  # ===== M =====
+  - term: Magic 12
+    senses:
+      - id: magic_12_code
+        definition: Majestic 12 的代號變體
+        preferred_translation: Magic 12
+        segments: [28]
+        notes: SOM 1-01 手冊中使用的行動代號
+
+  - term: Majestic 12
+    senses:
+      - id: majestic_12_full_name
+        definition: MJ-12 的全名，負責 UFO 調查與回收的秘密組織
+        preferred_translation: Majestic 12
+        segments: [247, 264]
+        notes: 也稱為 MJ-12 或 Magic 12，1947 年成立
+
+  - term: Majestic 12 Group
+    senses:
+      - id: majestic_12_group
+        definition: Majestic 12 組織的正式名稱
+        preferred_translation: Majestic 12 小組
+        segments: [66, 99, 112, 114]
+        notes: SOM 1-01 手冊及相關文件中的正式組織名稱
+
+  - term: McDonnell Douglas
+    senses:
+      - id: mcdonnell_douglas_corp
+        definition: 美國航太製造公司，Dr. Bob Wood 任職 43 年的公司
+        preferred_translation: 麥克唐納-道格拉斯公司
+        segments: [11, 15]
+        notes: 後併入波音公司
+
+  - term: majestic 12
+    senses:
+      - id: majestic_12_lowercase
+        definition: Majestic 12 的小寫形式，非正式提及
+        preferred_translation: Majestic 12
+        segments: [247, 264]
+        notes: 口語或非正式討論中使用的小寫形式
+
+  - term: MJ-12
+    senses:
+      - id: mj12_group
+        definition: Majestic 12，傳說中的秘密政府 UFO 調查組織
+        preferred_translation: MJ-12
+        segments: [71]
+        notes: 全稱 Majestic 12，代號不翻譯。首次出現時可補充「MJ-12（Majestic 12）」，後續簡稱 MJ-12
+
+  - term: monotype modern
+    senses:
+      - id: monotype_modern_typeface
+        definition: 1950 年代五角大樓政府印刷廠使用的字型
+        preferred_translation: Monotype Modern 字型
+        segments: [37]
+        notes: 該字型的 Z 字母略微凸起，成為驗證 SOM 1-01 手冊真偽的關鍵證據
+
+  # ===== N =====
+  - term: National Archives
+    senses:
+      - id: national_archives_us
+        definition: 美國國家檔案館
+        preferred_translation: 國家檔案館
+        segments: [110]
+        notes: Stanton Friedman 進行檔案研究的重要場所
+
+  - term: National Research Council
+    senses:
+      - id: nrc_canada
+        definition: 加拿大國家研究委員會
+        preferred_translation: 國家研究委員會
+        segments: [178, 188, 189]
+        notes: 1960 年代接收加拿大 UFO 目擊檔案的機構
+
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [128, 133]
+        notes: 常用於解釋 UFO 資訊保密的官方理由
+
+  - term: need to know
+    senses:
+      - id: need_to_know_principle
+        definition: 知密權原則，即使有安全許可也必須有工作需要才能接觸機密
+        preferred_translation: 知密權
+        segments: [118, 119, 147]
+        notes: 安全管理的核心原則，Stanton Friedman 強調此原則常被誤解
+
+  - term: non-terrestrial
+    senses:
+      - id: non_terrestrial_origin
+        definition: 非地球的，比 extraterrestrial（外星的）更謹慎的用語
+        preferred_translation: 非地球的
+        segments: [274, 275, 457, 458, 459, 466, 470, 472, 650]
+        notes: 1940 年代文件使用此詞以避免直接說「外星」，可能包括海底、地心或其他維度來源
+
+  # ===== O =====
+  - term: Operation Majestic 12
+    senses:
+      - id: operation_majestic_12
+        definition: Majestic 12 行動的正式名稱
+        preferred_translation: Majestic 12 行動
+        segments: [69]
+        notes: 1947 年 9 月 24 日由總統密令成立
+
+  # ===== P =====
+  - term: Philip Class
+    senses:
+      - id: class_debunker
+        definition: 《航空週刊與太空技術》記者，知名 UFO 懷疑論者
+        preferred_translation: 菲利普·克拉斯
+        segments: [111, 131]
+        notes: Stanton Friedman 在字型驗證上擊敗他的論點，贏得 $1,000 賭注
+
+  - term: Project Magnet
+    senses:
+      - id: project_magnet_canada
+        definition: 加拿大政府 UFO 研究計畫，由 Wilbert B. Smith 領導
+        preferred_translation: 磁力計畫
+        segments: [190, 192, 194, 196, 200]
+        notes: 1950 年代加拿大官方 UFO 研究計畫，相關討論文件原定銷毀但部分留存
+
+  # ===== R =====
+  - term: RCMP
+    senses:
+      - id: rcmp_canada
+        definition: Royal Canadian Mounted Police，加拿大皇家騎警
+        preferred_translation: 皇家騎警
+        segments: [179]
+        notes: 加拿大管理 UFO 檔案的四個機構之一
+
+  - term: Rockefeller Initiative
+    senses:
+      - id: rockefeller_initiative_1990s
+        definition: 1990年代Laurance Rockefeller推動的UFO揭露行動
+        preferred_translation: 洛克菲勒倡議
+        segments: [167]
+        notes: 試圖說服柯林頓政府解密UFO文件，跨集數重要議題
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [99, 261, 355, 356, 360, 711]
+        notes: UFO 史上最著名的事件，所有集數都會提及
+
+  # ===== S =====
+  - term: Security Council
+    senses:
+      - id: un_security_council
+        definition: 聯合國安全理事會
+        preferred_translation: 安理會
+        segments: [697]
+        notes: Senator Gravel 認為美國在安理會的否決權將阻礙 UFO 真相揭露
+
+  - term: SOM 101
+    senses:
+      - id: som_101_manual
+        definition: SOM 1-01 的口語簡稱，Majestic 12 技術行動手冊
+        preferred_translation: SOM 1-01
+        segments: [99]
+        notes: 正式編號應為 SOM 1-01，證詞中簡稱為 SOM 101
+
+  - term: Stan Friedman
+    senses:
+      - id: friedman_nickname
+        definition: Stanton Friedman 的暱稱
+        preferred_translation: 史坦·傅利曼
+        segments: [16, 39]
+        notes: Dr. Bob Wood 證詞中使用的暱稱形式
+
+  - term: Stanton Friedman
+    senses:
+      - id: friedman_physicist
+        definition: 核物理學家，MJ-12 文件研究專家
+        preferred_translation: 史坦頓·傅利曼
+        segments: [197, 321]
+        notes: 加拿大-美國雙重國籍，UFO 研究領域的重要人物。Whisper 在 segment 206 錯誤轉錄為 "Stanton Freeman"
+
+  # ===== T =====
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        segments: [26, 70, 99, 112, 118, 125, 140, 141, 174, 205, 206, 208, 210, 222, 280, 307, 317, 607, 624, 625, 630]
+        notes: 美國機密等級：Top Secret (最高機密) > Secret (機密) > Confidential (密)
+
+  - term: top secret magic eyes only
+    senses:
+      - id: ts_magic_eyes_only
+        definition: 最高機密 Magic Eyes Only，MJ-12 文件的特殊機密分類
+        preferred_translation: 最高機密 Magic Eyes Only
+        segments: [26]
+        notes: SOM 1-01 手冊每頁都蓋有此機密等級戳記
+
+  - term: Top Secret Memo
+    senses:
+      - id: top_secret_memo_canada
+        definition: 加拿大 Wilbert B. Smith 撰寫的最高機密備忘錄（1950）
+        preferred_translation: 最高機密備忘錄
+        segments: [174, 206, 222]
+        notes: 結論指出 UFO 是美國最高機密主題，等級高於氫彈
+
+  - term: Truman, Eisenhower, Kennedy, Reagan Presidential Archives
+    senses:
+      - id: presidential_archives
+        definition: 杜魯門、艾森豪、甘迺迪、雷根總統檔案館
+        preferred_translation: 杜魯門、艾森豪、甘迺迪、雷根總統檔案館
+        segments: [110]
+        notes: Stanton Friedman 多次訪問的檔案研究地點
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [16, 27, 41, 42, 43, 155, 176, 181, 195, 260, 451, 625, 630]
+        notes: 可視語境簡稱「UFO」或使用完整中文
+
+  - term: UFOBs
+    senses:
+      - id: ufobs_military_term
+        definition: Unidentified Flying Objects 的軍方縮寫形式
+        preferred_translation: UFOBs
+        segments: [79, 83, 94]
+        notes: SOM 1-01 手冊中使用的正式軍方術語
+
+  - term: United Nations
+    senses:
+      - id: united_nations
+        definition: 聯合國
+        preferred_translation: 聯合國
+        segments: [542, 549, 694, 701]
+        notes: Senator Gravel 建議在聯合國主持下召開國際會議推動真相揭露
+
+  # ===== V =====
+  - term: Varginha, Brazil
+    senses:
+      - id: varginha_crash
+        definition: 巴西瓦爾吉尼亞市，據稱 1996 年發生 UFO 墜毀事件
+        preferred_translation: 巴西瓦爾吉尼亞
+        segments: [394]
+        notes: 證詞指出美國取走了墜毀飛行器和遺體
+
+  # ===== W =====
+  - term: Warren Christopher
+    senses:
+      - id: christopher_secretary
+        definition: 美國國務卿（柯林頓政府時期）
+        preferred_translation: 華倫·克里斯多福
+        segments: [395]
+        notes: 據稱曾前往巴西協商 Varginha 事件的墜毀物資交換
+
+  - term: Wilbert B. Smith
+    senses:
+      - id: smith_engineer
+        definition: 加拿大工程師，Project Magnet 負責人
+        preferred_translation: 威爾伯特·B·史密斯
+        segments: [211]
+        notes: 撰寫著名的 1950 年 Top Secret Memo，揭露 UFO 是美國最高機密主題
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [9, 100, 149]
+        notes: 聽證會中的核心角色，包括軍事人員、飛行員、平民等

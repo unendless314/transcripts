@@ -1,0 +1,449 @@
+episode_id: UFO-09
+terms:
+  # ===== A =====
+  - term: A Strange Harvest
+    senses:
+      - id: strange_harvest_documentary
+        definition: Linda Moulton Howe 於 1980 年製作的調查紀錄片，探討神秘的動物肢解案件
+        preferred_translation: 《詭異收穫》
+        segments: [295, 316, 368, 371]
+        notes: 該片獲得地區艾美獎，是 Linda 進入 UFO 研究領域的起點
+
+  - term: Andrews Air Force Base
+    senses:
+      - id: andrews_afb
+        definition: 位於馬里蘭州的美國空軍基地，靠近華盛頓特區
+        preferred_translation: 安德魯斯空軍基地
+        segments: [79]
+        notes: 2002年7月26日發生UFO被F-16戰機追逐的目擊事件
+
+  - term: animal mutilation phenomena
+    senses:
+      - id: animal_mutilation
+        definition: 全球性的神秘動物肢解現象，屍體器官被精密移除且無血跡
+        preferred_translation: 動物肢解現象
+        segments: [295]
+        notes: Linda Moulton Howe 的主要研究領域，與 UFO 目擊有關聯
+
+  # ===== C =====
+  - term: Chalice, Idaho
+    senses:
+      - id: chalice_idaho_location
+        definition: 愛達荷州查利斯市
+        preferred_translation: 愛達荷州查利斯
+        segments: [66, 67]
+        notes: 2000年9月27日，四名獵人在此附近遭遇UFO事件
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        segments: [378, 729]
+        notes: 美國主要情報機構，參與UFO調查與保密工作
+
+  - term: Civilian Conservation Corps
+    senses:
+      - id: ccc_program
+        definition: 1930年代美國平民保育團
+        preferred_translation: 平民保育團（CCC）
+        segments: [41]
+        notes: 1936年阿拉斯加UFO目擊事件中，證人是CCC僱員
+
+  - term: Class B airspace
+    senses:
+      - id: class_b_airspace
+        definition: 美國聯邦航空管理局定義的B級管制空域
+        preferred_translation: B級管制空域
+        segments: [96]
+        notes: 2006年歐海爾機場UFO事件發生於此類空域，需要嚴格管制
+
+  - term: coagulative necrosis
+    senses:
+      - id: coagulative_necrosis_medical
+        definition: 凝固性壞死，組織因高熱造成的病理變化
+        preferred_translation: 凝固性壞死
+        segments: [351]
+        notes: 病理學家在動物肢解案件中發現的組織特徵，由高溫切割工具造成
+
+  - term: Coast to Coast AM
+    senses:
+      - id: coast_to_coast_am_radio
+        definition: 美國深夜電台談話節目，專注於超自然與陰謀論主題
+        preferred_translation: Coast to Coast AM
+        segments: [298]
+        notes: Linda Moulton Howe 定期在此節目報導 UFO 相關資訊
+
+  - term: Colonel Halt
+    senses:
+      - id: halt_officer
+        definition: 查爾斯·霍爾特上校，蘭德沙姆森林事件的副基地指揮官
+        preferred_translation: 霍爾特上校
+        segments: [190]
+        notes: 撰寫了著名的霍爾特備忘錄，記錄蘭德沙姆森林UFO事件。本集轉錄中曾誤拼為 "Charles Holt"
+
+  - term: cooked hemoglobin
+    senses:
+      - id: cooked_hemoglobin_forensic
+        definition: 經高溫處理的血紅素，呈現烹煮過的特徵
+        preferred_translation: 熟化血紅素
+        segments: [334]
+        notes: Dr. John Altshuler 在肢解牛隻中發現此異常現象，顯示使用高溫切割工具
+
+  - term: Cosford Incident
+    senses:
+      - id: cosford_incident_1993
+        definition: 1993年英國科斯福德地區的大規模UFO目擊事件
+        preferred_translation: 科斯福德事件
+        segments: [246]
+        notes: 涉及多名警察證人的重要英國UFO案例
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        segments: [168, 309]
+        notes: 保持客觀中性語調，避免「政府掩蓋」等對立性用詞
+
+  # ===== D =====
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [177, 642, 644]
+        notes: 與「真相掩蓋」(cover-up) 形成對仗概念，常指政府或官方的公開承認
+
+  - term: Dr. John Altshuler
+    senses:
+      - id: altshuler_pathologist
+        definition: 病理學家，研究動物肢解案件的先驅科學家
+        preferred_translation: 約翰·奧舒勒博士
+        segments: [333, 337, 338, 345, 346]
+        notes: 在肢解牛隻中發現「熟化血紅素」等異常病理特徵。轉錄中以 "John Altshuler" 或 "Dr. Altshuler" 出現
+
+  # ===== E =====
+  - term: E-B-E-S
+    senses:
+      - id: ebes_acronym
+        definition: Extraterrestrial Biological Entities 的縮寫，外星生物實體
+        preferred_translation: 外星生物實體（E-B-E-S）
+        segments: [827]
+        notes: 出現在 SOM 101 文件中的官方術語
+
+  - term: earthfiles.com
+    senses:
+      - id: earthfiles_website
+        definition: Linda Moulton Howe 經營的科學與環境新聞網站
+        preferred_translation: earthfiles.com
+        segments: [297]
+        notes: 該網站發布UFO相關調查報導與證人證詞
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [283, 411, 439, 803, 827]
+        notes: 名詞用法可譯為「外星人」、「外星生命」
+
+  - term: extraterrestrial biological entities
+    senses:
+      - id: ebe_full_name
+        definition: 外星生物實體（全名），美國政府文件中對外星生命的官方用語
+        preferred_translation: 外星生物實體
+        segments: [827]
+        notes: 縮寫為 E-B-E-S，出現在 SOM 101 文件中
+
+  # ===== F =====
+  - term: FDR
+    senses:
+      - id: fdr_president
+        definition: Franklin Delano Roosevelt，美國第32任總統
+        preferred_translation: 羅斯福總統（FDR）
+        segments: [828]
+        notes: 據洩露文件顯示，1942年洛杉磯空戰後曾與戰爭部長討論外星飛行器
+
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [710]
+        notes: 較早期的用語，後被 UFO 取代但仍常見於證詞中
+
+  - term: FOIA
+    senses:
+      - id: foia_law
+        definition: Freedom of Information Act，美國資訊自由法
+        preferred_translation: 資訊自由法
+        segments: [190]
+        notes: Larry Warren 透過此法取得霍爾特備忘錄
+
+  - term: Freedom of Information Act
+    senses:
+      - id: foia_full_name
+        definition: 美國資訊自由法，允許公民申請政府文件解密
+        preferred_translation: 資訊自由法
+        segments: [64]
+        notes: 首次出現時使用全名，後續可簡稱 FOIA
+
+  # ===== G =====
+  - term: British Transport Police
+    senses:
+      - id: btp_uk
+        definition: 英國運輸警察
+        preferred_translation: 英國運輸警察
+        segments: [221]
+        notes: Gary Heseltine 服務近24年的警察機構
+
+  - term: Gary Heseltine
+    senses:
+      - id: heseltine_detective
+        definition: 退休英國警探，PRUFOS資料庫創建者
+        preferred_translation: 蓋瑞·赫瑟汀
+        segments: [167, 216, 217, 218, 221, 387, 661, 676, 806]
+        notes: 在英國運輸警察服務近24年，收集警察UFO目擊報告。本集轉錄中大部分誤拼為 "Hazeltine"
+
+  - term: genetic harvest
+    senses:
+      - id: genetic_harvest_theory
+        definition: 基因收穫理論，認為動物肢解是系統性的基因採集行為
+        preferred_translation: 基因收穫
+        segments: []
+        notes: Linda Moulton Howe 提出的理論，解釋動物肢解現象的目的。本集在 topics.json 中提及但未在轉錄文本中直接出現此完整術語
+
+  # ===== J =====
+  - term: James Vincent Forrestal
+    senses:
+      - id: forrestal_secretary
+        definition: 美國首任國防部長，1949年神秘死亡
+        preferred_translation: 詹姆斯·文森特·福雷斯托
+        segments: [177]
+        notes: Peter Robbins 研究其死亡與 UFO 保密的關聯
+
+  # ===== L =====
+  - term: Larry Warren
+    senses:
+      - id: warren_whistleblower
+        definition: 前美國空軍安全警察，蘭德沙姆森林事件吹哨者
+        preferred_translation: 賴瑞·華倫
+        segments: [190]
+        notes: 冒著個人風險揭露蘭德沙姆森林事件，透過FOIA取得霍爾特備忘錄
+
+  - term: Left at East Gate
+    senses:
+      - id: left_at_east_gate_book
+        definition: Peter Robbins 合著的540頁書籍，記錄蘭德沙姆森林事件
+        preferred_translation: 《留在東門》
+        segments: [168]
+        notes: 英國暢銷書，第一手記錄蘭德沙姆森林UFO事件及其掩蓋
+
+  - term: Linda Moulton Howe
+    senses:
+      - id: howe_journalist
+        definition: 調查記者，以動物肢解案件研究聞名
+        preferred_translation: 琳達·莫爾頓·豪
+        segments: [294]
+        notes: 史丹佛大學傳播碩士，艾美獎得主，製作《詭異收穫》紀錄片
+
+  - term: Lord Peter Hill Norton
+    senses:
+      - id: hill_norton_admiral
+        definition: 英國海軍上將，前國防部參謀長
+        preferred_translation: 彼得·希爾·諾頓勳爵
+        segments: [207]
+        notes: 在英國上議院公開質詢國防部長關於蘭德沙姆森林事件的問題
+
+  # ===== N =====
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [621, 623]
+        notes: 常用於解釋 UFO 資訊保密的官方理由。蘭德沙姆事件24小時內美國國安局接管調查
+
+  - term: National UFO Reporting Center
+    senses:
+      - id: nuforc_organization
+        definition: 美國國家UFO報告中心，1974年成立於華盛頓州
+        preferred_translation: 國家UFO報告中心
+        segments: [5, 9, 27, 92, 106]
+        notes: Peter Davenport 擔任主任，維護超過86,000份目擊報告的資料庫
+
+  # ===== O =====
+  - term: O'Hare Airport case
+    senses:
+      - id: ohare_sighting_2006
+        definition: 2006年11月7日芝加哥歐海爾機場UFO目擊事件
+        preferred_translation: 歐海爾機場事件
+        segments: [94]
+        notes: 碟形UFO懸停在C-17登機門上方約10分鐘，直徑約30-40英尺
+
+  # ===== P =====
+  - term: Peter B. Davenport
+    senses:
+      - id: davenport_director
+        definition: 國家UFO報告中心主任
+        preferred_translation: 彼得·B·戴文波特
+        segments: [5]
+        notes: UFO研究者，管理超過86,000份目擊報告的資料庫
+
+  - term: Peter Robbins
+    senses:
+      - id: robbins_researcher
+        definition: UFO研究者、作家，專注於蘭德沙姆森林事件與UFO嘲弄因素
+        preferred_translation: 彼得·羅賓斯
+        segments: []
+        notes: 《留在東門》共同作者，研究UFO領域超過30年。本集在 topics.json 中提及但轉錄文本中未直接以完整姓名出現
+
+  - term: Phoenix Lights
+    senses:
+      - id: phoenix_lights_event
+        definition: 1997年發生於美國亞利桑那州鳳凰城的大規模UFO目擊事件
+        preferred_translation: 鳳凰城光點事件
+        segments: [55, 469]
+        notes: UFO史上最知名的大規模目擊案例之一，數千人目擊
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        segments: [404]
+        notes: 官方承認701個案例為「不明飛行物」
+
+  - term: PRUFOS Database
+    senses:
+      - id: prufos_database
+        definition: Police Reporting UFO Sightings Database，警察UFO目擊報告資料庫
+        preferred_translation: PRUFOS資料庫
+        segments: [233, 234]
+        notes: Gary Heseltine 於2002年1月創建，記錄超過425起案例，涉及940多名英國警察。本集轉錄中誤拼為 "Proof Force Police Database"
+
+  - term: psittacosis
+    senses:
+      - id: psittacosis_disease
+        definition: 鸚鵡熱，一種可能由鳥類傳播的疾病
+        preferred_translation: 鸚鵡熱
+        segments: [434]
+        notes: 證人在描述1952年華盛頓UFO目擊事件時，提到媒體如何用無關的鸚鵡熱報導轉移注意力
+
+  # ===== R =====
+  - term: Ramsey Clark
+    senses:
+      - id: clark_attorney_general
+        definition: 前美國司法部長
+        preferred_translation: 拉姆齊·克拉克
+        segments: [208]
+        notes: 無償協助恢復 Larry Warren 的護照，支持蘭德沙姆森林事件調查
+
+  - term: Rendlesham Forest UFO incident
+    senses:
+      - id: rendlesham_forest_incident
+        definition: 1980年12月英國蘭德沙姆森林的重大UFO事件
+        preferred_translation: 蘭德沙姆森林事件
+        segments: [168, 177, 188, 225]
+        notes: 涉及美國空軍人員在英國核武基地附近的UFO遭遇，被稱為「英國的羅斯威爾」。轉錄中同時出現 "Rendlesham Forest UFO incident" 和 "Rendlesham Forest Incident" 兩種寫法
+
+  - term: Richard Dolan
+    senses:
+      - id: dolan_historian
+        definition: 歷史學家，UFO研究專家
+        preferred_translation: 理查德·多蘭
+        segments: [79, 94]
+        notes: 著有 UFOs and the National Security State 系列，本週聽證會證人
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [564, 716]
+        notes: UFO 史上最著名的事件，所有集數都會提及
+
+  - term: Royal Air Force
+    senses:
+      - id: raf_uk
+        definition: 英國皇家空軍
+        preferred_translation: 英國皇家空軍（RAF）
+        segments: [229]
+        notes: Gary Heseltine 曾在 RAF 核武基地服役三年（1983-1989）
+
+  - term: Royal Canadian Mounted Police
+    senses:
+      - id: rcmp_canada
+        definition: 加拿大皇家騎警
+        preferred_translation: 加拿大皇家騎警（RCMP）
+        segments: [367]
+        notes: 1980年在亞伯達省調查數百起動物肢解案件，對外宣稱是邪教所為
+
+  # ===== S =====
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        segments: [91, 244, 272, 424, 429, 770, 774]
+        notes: 可搭配使用「目擊事件」、「目擊報告」
+
+  - term: SOM 101 document
+    senses:
+      - id: som_101_manual
+        definition: 1954年戰爭部蓋章的機密文件，提及外星生物實體
+        preferred_translation: SOM 101文件
+        segments: [827]
+        notes: 洩露的政府文件，使用「外星生物實體（E-B-E-S）」術語
+
+  # ===== T =====
+  - term: Trumbull County, Ohio
+    senses:
+      - id: trumbull_county_sighting
+        definition: 俄亥俄州特朗布爾縣
+        preferred_translation: 俄亥俄州特朗布爾縣
+        segments: [271]
+        notes: 1994年12月14日，15名警察從不同地點目擊多個圓形UFO
+
+  - term: truth embargo
+    senses:
+      - id: truth_embargo_concept
+        definition: 真相禁運，指政府對UFO真相的系統性封鎖
+        preferred_translation: 真相禁運
+        segments: [831]
+        notes: 與「真相揭露」(disclosure) 相對的概念，描述長期的資訊封鎖狀態
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [5, 9, 27, 29, 56, 92, 101, 106, 119, 121, 123, 166, 167, 168, 177, 180, 188, 233, 273, 283, 293, 309, 312, 313, 404, 469, 498, 501, 537, 551, 585, 774, 798, 811]
+        notes: 可視語境簡稱「UFO」或使用完整中文
+
+  - term: UFO ridicule factor
+    senses:
+      - id: ufo_ridicule_factor
+        definition: UFO嘲弄因素，指媒體與社會對UFO主題的系統性嘲諷態度
+        preferred_translation: UFO嘲弄因素
+        segments: [177, 180]
+        notes: Peter Robbins 主要研究主題，認為這是1947年起刻意製造的現象
+
+  - term: ufologist
+    senses:
+      - id: ufologist_researcher
+        definition: UFO研究者，專門研究不明飛行物現象的人
+        preferred_translation: UFO研究者
+        segments: [15]
+        notes: Peter Davenport 提到此身份常被質疑心理健全性
+
+  # ===== W =====
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [169, 216, 243, 809]
+        notes: 聽證會中的核心角色，包括軍事人員、飛行員、警察、平民等

@@ -1,0 +1,508 @@
+episode_id: UFO-06
+terms:
+  # ===== 事件與地點 =====
+  - term: Rendlesham Forest incident
+    senses:
+      - id: rendlesham_incident
+        definition: 1980年12月發生於英國倫德沙姆森林的UFO事件，涉及RAF Bentwaters和RAF Woodbridge基地
+        preferred_translation: 倫德沙姆森林事件
+        segments: []
+        notes: UFO史上最著名的軍事基地目擊事件之一，被稱為「英國的羅斯威爾」
+
+  - term: RAF Bentwaters
+    senses:
+      - id: raf_bentwaters_base
+        definition: 英國皇家空軍本特沃特斯基地，美軍租用的戰術戰鬥機聯隊基地
+        preferred_translation: 皇家空軍本特沃特斯基地
+        segments: []
+        notes: 倫德沙姆森林事件的主要發生地之一，當時是美國空軍最大的戰術戰鬥機聯隊所在地
+
+  - term: RAF Woodbridge
+    senses:
+      - id: raf_woodbridge_base
+        definition: 英國皇家空軍伍德布里奇基地，與RAF Bentwaters相鄰的基地
+        preferred_translation: 皇家空軍伍德布里奇基地
+        segments: []
+        notes: 倫德沙姆森林事件發生的另一個主要地點
+
+  - term: Marlesham Heath
+    senses:
+      - id: marlesham_heath_station
+        definition: 馬勒沙姆希斯，RAF Bentwaters附近的信號情報站，配備先進C3設施
+        preferred_translation: 馬勒沙姆希斯
+        segments: []
+        notes: 證人認為此處的高度機密設施可能吸引了不明飛行物
+
+  - term: Langley Air Force Base
+    senses:
+      - id: langley_afb_investigation
+        definition: 維吉尼亞州蘭利空軍基地
+        preferred_translation: 蘭利空軍基地
+        segments: []
+        notes: 倫德沙姆森林事件後，從此基地派遣特別調查小組前往英國
+
+  - term: Ramstein Air Base
+    senses:
+      - id: ramstein_usafe_hq
+        definition: 德國拉姆施泰因空軍基地，美國駐歐空軍（USAFE）總部
+        preferred_translation: 拉姆施泰因空軍基地
+        segments: []
+        notes: 美國駐歐空軍司令部所在地，General Gabriel的指揮總部
+
+  - term: Phoenix Lights
+    senses:
+      - id: phoenix_lights_event
+        definition: 1997年發生於美國亞利桑那州鳳凰城的大規模UFO目擊事件
+        preferred_translation: 鳳凰城光點事件
+        segments: []
+        notes: UFO史上最知名的大規模目擊案例之一，證人提到與Governor Symington的對話
+
+  # ===== 機構與組織 =====
+  - term: Office of Special Investigations
+    senses:
+      - id: osi_afosi
+        definition: 美國空軍特別調查處（AFOSI），負責反情報與刑事調查
+        preferred_translation: 特別調查處
+        segments: []
+        notes: 在倫德沙姆森林事件中對證人進行威脅性訊問，首次出現時可補充「特別調查處（OSI）」
+
+  - term: OSI
+    senses:
+      - id: osi_acronym
+        definition: Office of Special Investigations的縮寫
+        preferred_translation: OSI
+        segments: []
+        notes: 首次出現應使用全名，後續可簡稱OSI
+
+  - term: Ministry of Defence
+    senses:
+      - id: mod_uk
+        definition: 英國國防部
+        preferred_translation: 國防部
+        segments: []
+        notes: 英國政府負責國防事務的部門，Nick Pope曾任職於此
+
+  - term: MOD
+    senses:
+      - id: mod_acronym
+        definition: Ministry of Defence的縮寫
+        preferred_translation: 國防部
+        segments: []
+        notes: 首次出現應使用「國防部（MOD）」，後續可簡稱MOD
+
+  - term: MI6
+    senses:
+      - id: mi6_intelligence
+        definition: 英國秘密情報局（Secret Intelligence Service）
+        preferred_translation: 軍情六處
+        segments: []
+        notes: 英國對外情報機構，在RAF Bentwaters附近有活動
+
+  - term: NSA
+    senses:
+      - id: nsa_agency
+        definition: National Security Agency，美國國家安全局
+        preferred_translation: 國家安全局
+        segments: []
+        notes: 證人律師收到來自NSA的奇怪電話，首次出現時可使用「國家安全局（NSA）」
+
+  - term: Veterans Administration
+    senses:
+      - id: va_healthcare
+        definition: 美國退伍軍人事務部
+        preferred_translation: 退伍軍人事務部
+        segments: []
+        notes: 證人試圖透過此機構取得醫療紀錄
+
+  - term: Department of State
+    senses:
+      - id: state_department
+        definition: 美國國務院
+        preferred_translation: 國務院
+        segments: []
+        notes: 聽證會中討論外交與政治敏感性時提及
+
+  # ===== 軍事單位與職稱 =====
+  - term: USAFE
+    senses:
+      - id: usafe_command
+        definition: United States Air Forces in Europe，美國駐歐空軍
+        preferred_translation: 美國駐歐空軍
+        segments: []
+        notes: 首次出現時使用「美國駐歐空軍（USAFE）」，後續可簡稱USAFE
+
+  - term: Wing Commander
+    senses:
+      - id: wing_commander_rank
+        definition: 聯隊指揮官，空軍基地的主要指揮官
+        preferred_translation: 聯隊指揮官
+        segments: []
+        notes: Penniston被迫向Wing Commander報告經過淨化的版本
+
+  - term: attack fighter wing
+    senses:
+      - id: tactical_fighter_wing
+        definition: 戰術戰鬥機聯隊
+        preferred_translation: 戰術戰鬥機聯隊
+        segments: []
+        notes: RAF Bentwaters是美國空軍最大的戰術戰鬥機聯隊所在地
+
+  - term: Commander-in-Chief, United States Air Force
+    senses:
+      - id: usafe_cinc
+        definition: 美國駐歐空軍總司令
+        preferred_translation: 美國駐歐空軍總司令
+        segments: []
+        notes: General Gabriel的正式職稱
+
+  # ===== 專案與設施 =====
+  - term: Cobra Mist
+    senses:
+      - id: cobra_mist_radar
+        definition: 眼鏡蛇迷霧計畫，已停用的超視距雷達系統專案
+        preferred_translation: 眼鏡蛇迷霧計畫
+        segments: []
+        notes: 位於RAF Bentwaters附近的機密雷達專案，證人認為可能吸引UFO
+
+  - term: Woodpecker
+    senses:
+      - id: woodpecker_signal
+        definition: 啄木鳥信號，蘇聯超視距雷達系統發出的無線電信號
+        preferred_translation: 啄木鳥信號
+        segments: []
+        notes: 冷戰時期蘇聯雷達系統，與Cobra Mist形成對照
+
+  - term: C3 facility
+    senses:
+      - id: c3_command_control
+        definition: Command, Control, and Communications facility，指揮、控制與通訊設施
+        preferred_translation: C3設施
+        segments: []
+        notes: Marlesham Heath配備先進的C3設施，包括視網膜掃描器
+
+  - term: Central Security Control
+    senses:
+      - id: csc_security
+        definition: 中央安全控制中心
+        preferred_translation: 中央安全控制中心
+        segments: []
+        notes: 可簡稱CSC，負責基地安全監控
+
+  - term: Black Ops Project
+    senses:
+      - id: black_ops_classified
+        definition: 黑色行動專案，高度機密的軍事計畫
+        preferred_translation: 黑色行動專案
+        segments: []
+        notes: 證人律師提到的高度機密軍事活動
+
+  # ===== 技術與裝備 =====
+  - term: retinal eye scanner
+    senses:
+      - id: retinal_scanner_tech
+        definition: 視網膜掃描器，先進的生物辨識安全系統
+        preferred_translation: 視網膜掃描器
+        segments: []
+        notes: Marlesham Heath C3設施配備的高科技安全設備，在1980年代極為罕見
+
+  - term: binary code
+    senses:
+      - id: binary_code_message
+        definition: 二進位代碼，Penniston聲稱從飛行器接收到的數據
+        preferred_translation: 二進位代碼
+        segments: []
+        notes: Penniston觸摸飛行器後接收到的神秘訊息
+
+  - term: sodium pentothal
+    senses:
+      - id: sodium_pentothal_truth_serum
+        definition: 戊巴比妥鈉，俗稱「真相血清」的藥物
+        preferred_translation: 戊巴比妥鈉
+        segments: []
+        notes: Penniston在催眠中發現自己曾被施用此藥物進行訊問
+
+  - term: C-5
+    senses:
+      - id: c5_galaxy_aircraft
+        definition: C-5銀河式運輸機，美國空軍大型戰略運輸機
+        preferred_translation: C-5運輸機
+        segments: []
+        notes: 從Langley運送特別調查小組的運輸機
+
+  - term: A-10 tank killers
+    senses:
+      - id: a10_warthog
+        definition: A-10雷霆二式攻擊機，專門設計用於對地攻擊的戰機
+        preferred_translation: A-10反戰車攻擊機
+        segments: []
+        notes: RAF Bentwaters部署的主要戰機型號之一
+
+  # ===== 法律與文件 =====
+  - term: FOIA request
+    senses:
+      - id: foia_request_document
+        definition: 依據資訊自由法提出的文件公開申請
+        preferred_translation: 資訊自由法申請
+        segments: []
+        notes: 研究者試圖透過此管道取得事件相關文件
+
+  - term: code of conduct
+    senses:
+      - id: military_code_conduct
+        definition: 軍人行為準則
+        preferred_translation: 行為準則
+        segments: []
+        notes: 討論證人保密義務時提及
+
+  - term: Halt Memo
+    senses:
+      - id: halt_memo_document
+        definition: Halt備忘錄，Colonel Halt撰寫的官方事件報告
+        preferred_translation: Halt備忘錄
+        segments: []
+        notes: 記錄了著陸點的物理凹痕和異常輻射讀數的官方文件
+
+  # ===== 核武與軍事戰略 =====
+  - term: ICBMs
+    senses:
+      - id: icbm_missiles
+        definition: Intercontinental Ballistic Missiles，洲際彈道飛彈
+        preferred_translation: 洲際彈道飛彈
+        segments: []
+        notes: 討論核武戰略時提及
+
+  - term: ABM system
+    senses:
+      - id: abm_defense
+        definition: Anti-Ballistic Missile system，反彈道飛彈系統
+        preferred_translation: 反彈道飛彈系統
+        segments: []
+        notes: Edward Teller推動的戰略防禦系統
+
+  # ===== 重要人物 =====
+  - term: Jim Penniston
+    senses:
+      - id: penniston_witness
+        definition: 美國空軍警察中士，倫德沙姆森林事件主要證人之一
+        preferred_translation: 吉姆·佩尼斯頓
+        segments: []
+        notes: 近距離接觸飛行器並觸摸其表面的證人，保留了原始警察筆記本
+
+  - term: John Burroughs
+    senses:
+      - id: burroughs_witness
+        definition: 美國空軍中士，倫德沙姆森林事件主要證人之一
+        preferred_translation: 約翰·伯勞斯
+        segments: []
+        notes: 與Penniston一同經歷事件，後續出現健康問題
+
+  - term: Pat Frascogna
+    senses:
+      - id: frascogna_attorney
+        definition: 證人的辯護律師
+        preferred_translation: 派特·弗拉斯科納
+        segments: []
+        notes: 前公設辯護人，強調人證的效力
+
+  - term: Nick Pope
+    senses:
+      - id: pope_mod_official
+        definition: 前英國國防部官員，負責調查UFO報告
+        preferred_translation: 尼克·波普
+        segments: []
+        notes: 曾任英國國防部UFO調查專案負責人
+
+  - term: Colonel Halt
+    senses:
+      - id: halt_deputy_commander
+        definition: 哈爾特上校，RAF Bentwaters副基地指揮官
+        preferred_translation: 哈爾特上校
+        segments: []
+        notes: 撰寫了著名的Halt備忘錄，記錄事件細節
+
+  - term: General Gabriel
+    senses:
+      - id: gabriel_usafe_commander
+        definition: Charles A. Gabriel將軍，美國駐歐空軍總司令
+        preferred_translation: 加百列將軍
+        segments: []
+        notes: 事件發生後不久曾訪問RAF Bentwaters，相關文件在解密檔案中缺失
+
+  - term: General Williams
+    senses:
+      - id: williams_wing_commander
+        definition: 威廉斯將軍，RAF Bentwaters聯隊指揮官（後晉升少將）
+        preferred_translation: 威廉斯將軍
+        segments: []
+        notes: Penniston被迫向其報告經過淨化的事件版本
+
+  - term: Colonel Conrad
+    senses:
+      - id: conrad_commander
+        definition: 康拉德上校，RAF Bentwaters指揮官之一
+        preferred_translation: 康拉德上校
+        segments: []
+        notes: 證人認為他知情但未介入保護下屬
+
+  - term: Lord Hill-Norton
+    senses:
+      - id: hill_norton_chief
+        definition: 希爾-諾頓勳爵，前英國國防參謀長
+        preferred_translation: 希爾-諾頓勳爵
+        segments: []
+        notes: 公開表示RAF Bentwaters是核武基地
+
+  - term: Senator Gravel
+    senses:
+      - id: gravel_panelist
+        definition: 前美國參議員麥克·格拉維爾，聽證會評審小組成員
+        preferred_translation: 格拉維爾參議員
+        segments: []
+        notes: 直接質問核武問題的小組成員
+
+  - term: Governor Symington
+    senses:
+      - id: symington_arizona_governor
+        definition: Fife Symington，亞利桑那州前州長，鳳凰城光點事件證人
+        preferred_translation: 賽明頓州長
+        segments: []
+        notes: 親眼目擊鳳凰城光點事件，後公開承認
+
+  - term: President Clinton
+    senses:
+      - id: clinton_president
+        definition: 美國第42任總統比爾·柯林頓
+        preferred_translation: 柯林頓總統
+        segments: []
+        notes: 聽證會討論向總統申請醫療紀錄時提及
+
+  - term: Edward Teller
+    senses:
+      - id: teller_physicist
+        definition: 愛德華·泰勒，「氫彈之父」，核物理學家
+        preferred_translation: 愛德華·泰勒
+        segments: []
+        notes: 討論戰略防禦計畫時提及
+
+  - term: Chuck DeCaro
+    senses:
+      - id: decaro_journalist
+        definition: 查克·狄卡羅，調查記者
+        preferred_translation: 查克·狄卡羅
+        segments: []
+        notes: 與Stanford Research Institute的研究有關
+
+  # ===== 其他機構與組織 =====
+  - term: Stanford Research Institute
+    senses:
+      - id: sri_research
+        definition: 史丹佛研究院
+        preferred_translation: 史丹佛研究院
+        segments: []
+        notes: 與機密研究計畫有關的機構
+
+  - term: American Physiological Society
+    senses:
+      - id: aps_society
+        definition: 美國生理學會
+        preferred_translation: 美國生理學會
+        segments: []
+        notes: 最後陳述中提及的科學組織
+
+  - term: National Institutes of Health
+    senses:
+      - id: nih_health
+        definition: 美國國家衛生研究院
+        preferred_translation: 國家衛生研究院
+        segments: []
+        notes: 討論科學研究自由時提及
+
+  - term: News of the World
+    senses:
+      - id: notw_tabloid
+        definition: 《世界新聞報》，英國小報
+        preferred_translation: 《世界新聞報》
+        segments: []
+        notes: 證人提到的媒體機構
+
+  - term: CIC
+    senses:
+      - id: cic_intelligence
+        definition: Counter Intelligence Corps，反情報部隊
+        preferred_translation: 反情報部隊
+        segments: []
+        notes: 歷史上的軍事情報單位
+
+  # ===== 概念與術語 =====
+  - term: public defender
+    senses:
+      - id: public_defender_role
+        definition: 公設辯護人
+        preferred_translation: 公設辯護人
+        segments: []
+        notes: Pat Frascogna的前職業
+
+  - term: civil liberties
+    senses:
+      - id: civil_liberties_rights
+        definition: 公民自由權利
+        preferred_translation: 公民自由
+        segments: []
+        notes: 聽證會最後討論真相揭露與權利保護時提及
+
+  - term: pacemaker defibrillator
+    senses:
+      - id: pacemaker_device
+        definition: 心律調節器除顫器
+        preferred_translation: 心律調節器除顫器
+        segments: []
+        notes: Burroughs因健康問題需要植入的醫療裝置
+
+  - term: static electricity
+    senses:
+      - id: static_electricity_phenomenon
+        definition: 靜電現象
+        preferred_translation: 靜電
+        segments: []
+        notes: 證人報告在事件現場觀察到的物理現象
+
+  - term: Scuttlebutt
+    senses:
+      - id: scuttlebutt_rumor
+        definition: 小道消息、傳聞
+        preferred_translation: 小道消息
+        segments: []
+        notes: 軍中俚語，指非正式的消息傳播
+
+  - term: War of the Worlds
+    senses:
+      - id: war_of_worlds_broadcast
+        definition: 《世界大戰》，1938年Orson Welles的著名廣播劇
+        preferred_translation: 《世界大戰》
+        segments: []
+        notes: 討論公眾恐慌時引用的歷史案例
+
+  - term: Alfred Kinsey
+    senses:
+      - id: kinsey_researcher
+        definition: 阿爾弗雷德·金賽，性學研究先驅
+        preferred_translation: 阿爾弗雷德·金賽
+        segments: []
+        notes: 討論科學研究自由與機密性時引用的例子
+
+  # ===== 通用術語（繼承自template） =====
+  - term: RAF
+    senses:
+      - id: raf_force
+        definition: Royal Air Force，英國皇家空軍
+        preferred_translation: 皇家空軍
+        segments: []
+        notes: 首次出現時使用「皇家空軍（RAF）」，後續可簡稱RAF
+
+  - term: Constitution
+    senses:
+      - id: us_constitution
+        definition: 美國憲法
+        preferred_translation: 憲法
+        segments: []
+        notes: 討論國會權限與公民權利時提及

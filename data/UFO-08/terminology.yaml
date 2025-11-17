@@ -1,0 +1,436 @@
+episode_id: UFO-08
+terms:
+  # ===== A =====
+  - term: Air Force Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 空軍藍皮書計畫
+        segments: [106]
+        notes: Roscoe Bartlett 批評其官方文件包含虛假聲明，與 Goebbels 宣傳相比
+
+  # ===== B =====
+  - term: ballistic missile defense
+    senses:
+      - id: ballistic_missile_defense_system
+        definition: 彈道飛彈防禦系統
+        preferred_translation: 彈道飛彈防禦系統
+        segments: [216, 218, 234]
+        notes: Bartlett 批評阿拉斯加的防禦系統無法對抗俄羅斯，是浪費金錢
+
+  - term: ballistic missile system
+    senses:
+      - id: ballistic_missile_system_icbm
+        definition: 彈道飛彈系統，包括發射控制與核武部署
+        preferred_translation: 彈道飛彈系統
+        segments: [196]
+        notes: 證人討論系統缺陷與改進措施
+
+  - term: Bentwaters
+    senses:
+      - id: bentwaters_incident
+        definition: RAF Bentwaters（英國皇家空軍本特沃特斯基地），著名 UFO 事件發生地
+        preferred_translation: 本特沃特斯事件
+        segments: [285]
+        notes: 聽證會主席在閉幕致詞中提及，與核武設施干擾事件並列
+
+  - term: Black Ops
+    senses:
+      - id: black_ops_secret_programs
+        definition: 黑色行動，高度機密的軍事計畫
+        preferred_translation: 黑色行動
+        segments: [150]
+        notes: 證人暗示太空部隊（Space Force）實際上已作為黑色行動存在
+
+  - term: Boeing
+    senses:
+      - id: boeing_contractor
+        definition: 波音公司，參與飛彈系統 EMF 防護研發的軍事承包商
+        preferred_translation: 波音公司
+        segments: [190, 206]
+        notes: 在邏輯耦合器進行 EMP 注入測試，證實 EMF 可癱瘓飛彈系統
+
+  # ===== C =====
+  - term: Captain Fenstermacher
+    senses:
+      - id: fenstermacher_witness
+        definition: 布魯斯·芬斯特馬赫上尉，1967 年經歷核飛彈關閉事件的證人
+        preferred_translation: 芬斯特馬赫上尉
+        segments: [165]
+        notes: 聽證會證人，Whisper 轉錄多次誤拼為 Fenstermarker、Vestermarker 等，全名為 Bruce Fenstermacher
+
+  - term: Citizen Hearing Foundation
+    senses:
+      - id: citizen_hearing_foundation_org
+        definition: 公民聽證會基金會，主辦本次 UFO 聽證會的組織
+        preferred_translation: 公民聽證會基金會
+        segments: [96]
+        notes: 媒體文章誤導性地聲稱支付議員 $20,000 聽證費用
+
+  - term: Colonel Wentworth
+    senses:
+      - id: wentworth_colonel
+        definition: 溫特沃斯上校，1947 年撰寫碟形機身風洞測試文件的空軍官員
+        preferred_translation: 溫特沃斯上校
+        segments: [75]
+        notes: 1947 年 10 月文件證實空軍基於 UFO 目擊進行飛碟造型研究
+
+  - term: Condon investigation
+    senses:
+      - id: condon_investigation_usaf
+        definition: 康登調查（Condon Committee），1960 年代空軍資助的 UFO 研究
+        preferred_translation: 康登調查
+        segments: [171]
+        notes: Robert Salas 推測保密命令是為了阻止其向康登委員會作證，避免揭露嚴重性
+
+  - term: Congresswoman Hooley
+    senses:
+      - id: hooley_congresswoman
+        definition: 胡利女眾議員，聽證會評審小組成員
+        preferred_translation: 胡利女眾議員
+        segments: [144]
+        notes: 提問 UFO 關閉飛彈的動機，詢問是否為展示能力的警告
+
+  - term: Councilman Bartlett
+    senses:
+      - id: bartlett_roscoe
+        definition: 羅斯科·巴特利特前眾議員，聽證會評審小組成員
+        preferred_translation: 巴特利特議員
+        segments: [93]
+        notes: 媒體誤報其言論，實際上他批評國會未履行憲法責任回應公民請願
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government_ufo
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        segments: [140]
+        notes: 證人認為掩蓋原因是 UFO 能輕易癱瘓美國核防禦，令空軍與政府難堪
+
+  # ===== D =====
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth_ufo
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [116]
+        notes: 證人呼籲國會舉行聽證會揭露真相，並質疑是否與太空武器化有關
+
+  # ===== E =====
+  - term: electromagnetic pulse
+    senses:
+      - id: emp_nuclear_blast
+        definition: 電磁脈衝（EMP），核爆或其他來源產生的電磁能量爆發
+        preferred_translation: 電磁脈衝
+        segments: [68, 102]
+        notes: 空軍在核飛彈關閉事件後積極改進 EMP 防護；Bartlett 批評媒體稱 EMP 為「理論性」威脅
+
+  - term: EMF
+    senses:
+      - id: emf_electromagnetic_force
+        definition: 電磁力（Electromagnetic Force）或電磁場（Electromagnetic Field）
+        preferred_translation: 電磁力／電磁場
+        segments: [206]
+        notes: 與 EMP 相關，空軍 1968 年文件顯示波音公司研究 EMF 對飛彈系統的影響
+
+  - term: EMF filters
+    senses:
+      - id: emf_filters_protection
+        definition: EMF 過濾器，1970 年代初安裝於核飛彈系統的電磁防護裝置
+        preferred_translation: EMF 過濾器
+        segments: [62, 66]
+        notes: 1976 年後 UFO 無法關閉飛彈，證人推測是 EMF 過濾器起了作用，但 2010 年事件顯示此防護已被突破
+
+  - term: EMP commission
+    senses:
+      - id: emp_commission_congressional
+        definition: 國會 EMP 委員會，研究電磁脈衝威脅的專家小組
+        preferred_translation: EMP 委員會
+        segments: [103]
+        notes: 運作八年，由雷根總統科學顧問 Bill Graham 主持，Johnny Foster 等核武專家參與
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [9, 107, 130, 131, 147]
+        notes: 證人推測外星勢力關閉核飛彈是警告人類廢除核武，避免自我毀滅
+
+  # ===== G =====
+  - term: Governor Fife Symington
+    senses:
+      - id: symington_governor
+        definition: 菲夫·賽明頓，1997 年亞利桑那州州長
+        preferred_translation: 菲夫·賽明頓州長
+        segments: [83]
+        notes: 鳳凰城光點事件後在記者會上嘲弄此事，後來承認他本人也目擊了該飛行器
+
+  # ===== H =====
+  - term: Hudson Valley
+    senses:
+      - id: hudson_valley_sightings
+        definition: 哈德遜谷（紐約州下部），1980 年代大規模 UFO 目擊事件發生地
+        preferred_translation: 哈德遜谷
+        segments: [77]
+        notes: 30 年前持續 3-4 年的大規模目擊事件，數千人目擊巨型回旋鏢形飛行器
+
+  # ===== I =====
+  - term: ICBMs
+    senses:
+      - id: icbms_missiles
+        definition: Intercontinental Ballistic Missiles，洲際彈道飛彈
+        preferred_translation: 洲際彈道飛彈
+        segments: [258]
+        notes: 討論阿拉斯加部署的洲際彈道飛彈
+
+  # ===== J =====
+  - term: Johnson Island
+    senses:
+      - id: johnson_island_test_site
+        definition: 強生島（Johnston Island），太平洋核試驗場
+        preferred_translation: 強生島
+        segments: [103]
+        notes: 1962 年 Starfish Prime 核試驗地點，EMP 影響 800 英里外夏威夷的電力設備
+
+  - term: Joint Chiefs of Staff
+    senses:
+      - id: joint_chiefs_staff_military
+        definition: 參謀長聯席會議，美國最高軍事指揮機構
+        preferred_translation: 參謀長聯席會議
+        segments: [150]
+        notes: 證人提到布希總統 2001 年宣布成立太空部隊，但 911 後計畫擱置
+
+  # ===== L =====
+  - term: logic coupler
+    senses:
+      - id: logic_coupler_missile_component
+        definition: 邏輯耦合器，飛彈發射控制系統的關鍵電子元件
+        preferred_translation: 邏輯耦合器
+        segments: [190]
+        notes: 波音公司測試證實特定頻率的 EMP 可癱瘓邏輯耦合器，導致飛彈失效
+
+  # ===== M =====
+  - term: mad philosophy
+    senses:
+      - id: mad_mutual_assured_destruction
+        definition: MAD 哲學（Mutually Assured Destruction），互相保證毀滅的核戰略
+        preferred_translation: 互相保證毀滅哲學
+        segments: [198]
+        notes: 冷戰時期核威懾理論，即使飛彈可靠性存疑，MAD 原則仍維持嚇阻效果
+
+  - term: military-industrial complex
+    senses:
+      - id: military_industrial_complex_system
+        definition: 軍工複合體，軍方與軍火工業的利益共同體
+        preferred_translation: 軍工複合體
+        segments: [133]
+        notes: 證人認為軍工複合體為保護軍事預算撥款而壓制 UFO 真相
+
+  - term: Minot
+    senses:
+      - id: minot_afb_north_dakota
+        definition: 邁諾特空軍基地，北達科他州的核飛彈基地
+        preferred_translation: 邁諾特空軍基地
+        segments: [131, 145, 146]
+        notes: 與懷俄明州並列，發生多起 UFO 關閉核飛彈事件的地點
+
+  - term: Ms. Gilpatrick
+    senses:
+      - id: gilpatrick_moderator
+        definition: 吉爾派翠克女士，聽證會主持人或協調員
+        preferred_translation: 吉爾派翠克女士
+        segments: [89]
+        notes: Robert Salas 向其致謝後開始作證
+
+  - term: Mulders and Scullies
+    senses:
+      - id: xfiles_characters
+        definition: 穆德與史卡利，《X檔案》影集中的主角
+        preferred_translation: 穆德與史卡利
+        segments: [95]
+        notes: 媒體文章用此比喻聽證會「充滿穆德（相信陰謀論）但缺乏史卡利（相信科學）」
+
+  # ===== N =====
+  - term: National Press Club
+    senses:
+      - id: npc_venue_hearing
+        definition: 華盛頓特區的國家記者俱樂部
+        preferred_translation: 國家記者俱樂部
+        segments: [96]
+        notes: 本次公民聽證會舉辦地點
+
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [106]
+        notes: Bartlett 質疑空軍聲稱「UFO 無國安威脅」卻又列為機密的矛盾
+
+  - term: nondisclosure statement
+    senses:
+      - id: nondisclosure_military_oath
+        definition: 保密聲明，軍方要求證人簽署的禁止公開證詞的文件
+        preferred_translation: 保密聲明
+        segments: [165, 169, 171]
+        notes: Salas 推測保密命令是為阻止其向康登調查委員會作證
+
+  - term: nuclear weapons
+    senses:
+      - id: nuclear_weapons_wmds
+        definition: 核武器，大規模毀滅性武器
+        preferred_translation: 核武器
+        segments: [147, 148]
+        notes: 證人認為 UFO 關閉核飛彈是傳達「廢除核武」的訊息，避免人類自我毀滅
+
+  # ===== P =====
+  - term: Peter Jennings
+    senses:
+      - id: jennings_abc_journalist
+        definition: 彼得·詹寧斯，ABC 新聞主播
+        preferred_translation: 彼得·詹寧斯
+        segments: [89, 90]
+        notes: 2004 年製作 UFO 特輯，訪問 Salas 後在播出前一週無故刪除其證詞，疑似受外部壓力
+
+  - term: Phoenix Lights
+    senses:
+      - id: phoenix_lights_event_1997
+        definition: 1997 年亞利桑那州鳳凰城大規模 UFO 目擊事件
+        preferred_translation: 鳳凰城光點事件
+        segments: [83]
+        notes: 州長 Fife Symington 最初公開嘲弄此事，後來承認他也目擊了該飛行器
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        segments: [106]
+        notes: 調查 12,618 起目擊事件，701 起無法解釋，但官方聲明被批評為虛假宣傳
+
+  # ===== R =====
+  - term: Robert Salas
+    senses:
+      - id: salas_captain_witness
+        definition: 羅伯特·薩拉斯上尉，1967 年經歷 UFO 關閉核飛彈事件的證人
+        preferred_translation: 羅伯特·薩拉斯上尉
+        segments: [62, 156]
+        notes: 關鍵證人，Whisper 轉錄多次誤拼為 Salles、Solace 等，轉錄中常以 Mr. Salas、Captain Salas、Bob Salas 等簡稱出現
+
+  - term: Roscoe Bartlett
+    senses:
+      - id: bartlett_congressman
+        definition: 羅斯科·巴特利特，前美國眾議員
+        preferred_translation: 羅斯科·巴特利特
+        segments: [96]
+        notes: 強烈批評媒體歪曲報導與空軍藍皮書虛假聲明，比喻為戈培爾式宣傳
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [95, 286]
+        notes: 媒體文章將聽證會與羅斯威爾、小綠人等歸為同類嘲諷；聽證會預告第三天將討論羅斯威爾
+
+  # ===== S =====
+  - term: satellites
+    senses:
+      - id: satellites_space_assets
+        definition: 人造衛星，太空軌道上的軍事與通訊設施
+        preferred_translation: 人造衛星
+        segments: [263, 268, 270]
+        notes: 討論太空武器化，美國衛星數量最多，太空戰爭將使美國成為最脆弱國家
+
+  - term: Senator Gravel
+    senses:
+      - id: gravel_senator_panelist
+        definition: 麥克·格拉維爾參議員，聽證會評審小組成員
+        preferred_translation: 格拉維爾參議員
+        segments: [216]
+        notes: Whisper 轉錄誤拼為 Gravell
+
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        segments: [92]
+        notes: 證人呼籲軍警人員能誠實報告目擊事件，收集情報而非嘲笑
+
+  - term: Space Force
+    senses:
+      - id: space_force_military_branch
+        definition: 太空部隊，布希總統 2001 年宣布成立的新軍種
+        preferred_translation: 太空部隊
+        segments: [149, 150]
+        notes: 布希 2001 年宣布成立太空部隊並在月球建軍事基地，911 後擱置；證人暗示已作為黑色行動存在
+
+  - term: Starfish Prime
+    senses:
+      - id: starfish_prime_nuclear_test
+        definition: 海星計畫（Starfish Prime），1962 年強生島高空核試驗
+        preferred_translation: 海星計畫
+        segments: [103]
+        notes: 證實 EMP 威脅非理論性，800 英里外夏威夷電力設備受損
+
+  # ===== T =====
+  - term: Taconic Parkway
+    senses:
+      - id: taconic_parkway_highway
+        definition: 塔科尼克公園大道，紐約州高速公路
+        preferred_translation: 塔科尼克公園大道
+        segments: [80]
+        notes: 哈德遜谷 UFO 目擊事件中，巨型回旋鏢形飛行器在此公路上空飛行
+
+  - term: Telepathic
+    senses:
+      - id: telepathic_communication
+        definition: 透過心靈感應進行的溝通方式
+        preferred_translation: 心靈感應的
+        segments: [183]
+        notes: 證人提及心靈感應是 UFO 現象的一部分，與綁架事件共同構成複雜現象
+
+  - term: triad
+    senses:
+      - id: triad_nuclear_forces
+        definition: 三位一體（核武三位一體），指陸基、海基、空基核武力量
+        preferred_translation: 核武三位一體
+        segments: [238]
+        notes: 討論美國核威懾能力，強調潛艇等多重打擊手段
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [24, 67, 72, 74, 76, 89, 190, 203]
+        notes: 本集核心主題：UFO 關閉核飛彈的能力，以及政府對回收 UFO 技術的保密
+
+  - term: unidentified flying objects
+    senses:
+      - id: ufo_full_name
+        definition: Unidentified Flying Objects，不明飛行物（全名）
+        preferred_translation: 不明飛行物
+        segments: [9]
+        notes: 開場提問軍方為何壓制 UFO 現象的討論
+
+  # ===== W =====
+  - term: Wright Field
+    senses:
+      - id: wright_field_ohio
+        definition: 萊特機場（俄亥俄州代頓），後併入萊特-帕特森空軍基地
+        preferred_translation: 萊特機場
+        segments: [74]
+        notes: 1947 年即進行基於 UFO 目擊的碟形機身風洞測試，證實空軍早期逆向工程努力
+
+  # ===== X =====
+  - term: X-Files
+    senses:
+      - id: xfiles_tv_show
+        definition: 《X檔案》，1990 年代熱門科幻影集
+        preferred_translation: 《X檔案》
+        segments: [95]
+        notes: 媒體用此影集角色比喻聽證會缺乏懷疑論者

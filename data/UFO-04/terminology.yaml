@@ -1,0 +1,654 @@
+episode_id: UFO-04
+terms:
+  # ===== A =====
+  - term: abduction syndrome
+    senses:
+      - id: abduction_syndrome_phenomenon
+        definition: 外星綁架現象，指人類聲稱被外星存有綁架的經歷模式
+        preferred_translation: 綁架現象
+        segments: [83, 85]
+        notes: John Mack 醫師研究的核心主題，涉及心靈感應與現實操控
+
+  - term: Alien Harvest
+    senses:
+      - id: alien_harvest_book
+        definition: Linda Moulton Howe 的調查著作，探討動物肢解與外星現象
+        preferred_translation: 《外星收穫》
+        segments: [87]
+        notes: 1992-93 年出版，包括書籍與電視製作
+
+  - term: An Alien Harvest
+    senses:
+      - id: an_alien_harvest_book
+        definition: Linda Moulton Howe 的第一本書，完整書名
+        preferred_translation: 《外星收穫》
+        segments: [397, 401, 409]
+        notes: Lockheed Martin 員工因閱讀此書而聯繫 Linda
+
+  - term: Appropriations Committee
+    senses:
+      - id: appropriations_committee_congress
+        definition: 美國國會撥款委員會
+        preferred_translation: 撥款委員會
+        segments: [21, 30]
+        notes: 曾派 Dick D'Amato 調查 Area 51，但未能突破保密
+
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施
+        preferred_translation: 51 區
+        segments: [19, 21, 24, 47]
+        notes: 與 UFO 和先進航空技術研發相關的傳說地點，本集重點討論地點
+
+  # ===== B =====
+  - term: Being
+    senses:
+      - id: being_extraterrestrial
+        definition: 外星生命體或智慧存在
+        preferred_translation: 存有
+        segments: [106, 107, 108]
+        notes: Linda Howe 轉述的 1978 年亞利桑那州軍事接觸事件中的 Eben 存有
+
+  - term: Ben Rich
+    senses:
+      - id: rich_engineer
+        definition: 洛克希德臭鼬工廠主管
+        preferred_translation: 班·里奇
+        segments: [31]
+        notes: 傳聞曾表示解密需要「上帝的行為」才能達成
+
+  - term: Bill Richardson
+    senses:
+      - id: richardson_secretary
+        definition: 柯林頓政府能源部長，前新墨西哥州州長
+        preferred_translation: 比爾·理查森
+        segments: [67, 354]
+        notes: 公開支持 UFO 揭露，為 Roswell UFO 書籍撰寫序言
+
+  - term: Blue Book
+    senses:
+      - id: blue_book_project
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫（簡稱）
+        preferred_translation: 藍皮書計畫
+        segments: [37]
+        notes: 1969 年釋出的目擊檔案，Grant Cameron 稱為低層級資料
+
+  # ===== C =====
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        segments: [118, 123, 170, 173, 217, 218, 244, 375, 383, 389, 390]
+        notes: 本集重點討論 CIA 對媒體的控制與 WSFM 術語的來源
+
+  - term: CIA Director Wolsey
+    senses:
+      - id: wolsey_cia_director
+        definition: James Woolsey，前 CIA 局長
+        preferred_translation: CIA 局長伍爾西
+        segments: [123]
+        notes: Dr. Greer 曾與他及其妻子（國家科學院營運長）討論星際通訊（正確拼寫為 Woolsey，但轉錄為 Wolsey）
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        segments: [55, 77, 402, 409]
+        notes: 常見分類：Top Secret (絕密)、Secret (機密)、Confidential (密)
+
+  - term: Clinton administration
+    senses:
+      - id: clinton_administration_government
+        definition: 美國柯林頓總統執政時期的政府（1993-2001）
+        preferred_translation: 柯林頓政府
+        segments: [45, 47, 62, 67]
+        notes: 本集重點討論該政府內部的 UFO 揭露努力，包括 Podesta、Hubbell、Richardson 等人
+
+  - term: cloned entities
+    senses:
+      - id: cloned_entities_hypothesis
+        definition: 理論上由先進智慧製造的複製存有，用於與地球環境互動
+        preferred_translation: 複製實體
+        segments: [84]
+        notes: Linda Howe 與 John Mack 討論的假說，認為直接接觸者可能不是原始智慧本體
+
+  - term: COMETA Report
+    senses:
+      - id: cometa_report_french
+        definition: 法國高層軍事和情報官員撰寫的UFO研究報告（1999年）
+        preferred_translation: COMETA報告
+        segments: [206]
+        notes: 記錄了 Provence 降落事件與 RAF Bentwaters 案例
+
+  - term: commander in chief
+    senses:
+      - id: commander_in_chief_president
+        definition: 三軍統帥，指美國總統的軍事最高指揮官身份
+        preferred_translation: 三軍統帥
+        segments: [375]
+        notes: Dr. Greer 指出即使總統也被排除在 UFO 資訊之外
+
+  - term: Congressman Cook
+    senses:
+      - id: cook_congressman_panelist
+        definition: 眾議員庫克，聽證會評審小組成員
+        preferred_translation: 庫克眾議員
+        segments: [353]
+        notes: 閉幕時表示小組已達成共識，應舉辦正式國會聽證會
+
+  - term: Congresswoman Hooley
+    senses:
+      - id: hooley_congresswoman_panelist
+        definition: 眾議員胡利，聽證會評審小組成員
+        preferred_translation: 胡利眾議員
+        segments: [379]
+        notes: 詢問民選官員如何奪回控制權的具體建議（原轉錄誤為 Houli）
+
+  - term: Congresswoman Kilpatrick
+    senses:
+      - id: kilpatrick_congresswoman_panelist
+        definition: 眾議員基爾派翠克，聽證會評審小組成員
+        preferred_translation: 基爾派翠克眾議員
+        segments: [270]
+        notes: 閉幕陳述中呼籲國際公私合作夥伴關係
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        segments: [164]
+        notes: 保持客觀中性語調，上下文明確時可簡化為「掩蓋」
+
+  # ===== D =====
+  - term: Daniel Sheehan
+    senses:
+      - id: sheehan_attorney
+        definition: 律師，曾處理多起重大案件
+        preferred_translation: 丹尼爾·希恩
+        segments: [361]
+        notes: 參與五角大樓文件案、凱倫·西爾克伍德案、伊朗門事件（原轉錄誤為 Daniel Sheen）
+
+  - term: Deborah Oren
+    senses:
+      - id: oren_journalist
+        definition: 《紐約郵報》記者
+        preferred_translation: 黛博拉·奧倫
+        segments: [236, 238, 240]
+        notes: 1997 年在白宮記者會上追問 Hubbell 關於 UFO 調查的問題
+
+  - term: Dick D'Amato
+    senses:
+      - id: damato_investigator
+        definition: 國會撥款委員會調查員
+        preferred_translation: 迪克·達馬托
+        segments: [24]
+        notes: 被派往 Area 51 調查，即使擁有最高機密許可仍被擋在門外（原轉錄誤為 DiMatto）
+
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [67, 70, 175, 199]
+        notes: 與「真相掩蓋」(cover-up) 形成對仗概念，常指政府或官方的公開承認
+
+  - term: Disclosure Project
+    senses:
+      - id: disclosure_project_greer
+        definition: 由Dr. Steven Greer發起的UFO揭露運動
+        preferred_translation: 揭露計畫
+        segments: [199]
+        notes: 前身為 Project Starlight，2001年在國家記者俱樂部舉辦重大記者會
+
+  # ===== E =====
+  - term: Eben's
+    senses:
+      - id: ebens_species
+        definition: 據稱的外星種族名稱，美軍內部代號
+        preferred_translation: 伊本斯
+        segments: [99]
+        notes: Linda Howe 轉述的 1978 年軍事接觸事件中提到的外星存有（所有格形式）
+
+  - term: Entity
+    senses:
+      - id: entity_extraterrestrial
+        definition: 不明屬性的存在或生命體（通常指外星或跨維度存在）
+        preferred_translation: 實體
+        segments: [102, 103]
+        notes: 證詞中用於描述未知來源的智慧存在
+
+  - term: Executive Order 12958
+    senses:
+      - id: eo_12958_clinton
+        definition: 柯林頓總統1995年簽署的解密行政命令
+        preferred_translation: 行政命令12958
+        segments: [56]
+        notes: 解密了8億頁文件，但 UFO 文件仍未公開
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [110, 111, 395]
+        notes: 名詞用法可譯為「外星人」、「外星生命」
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [21]
+        notes: 較早期的用語，後被 UFO 取代但仍常見於證詞中
+
+  - term: free press
+    senses:
+      - id: free_press_concept
+        definition: 新聞自由，媒體不受政府審查的理想狀態
+        preferred_translation: 自由新聞界
+        segments: [155, 157, 161, 168]
+        notes: Dr. Greer 質疑在 UFO 議題上並無真正的新聞自由
+
+  # ===== G =====
+  - term: George Knapp
+    senses:
+      - id: knapp_journalist
+        definition: 拉斯維加斯調查記者
+        preferred_translation: 喬治·奈普
+        segments: [20]
+        notes: 首次報導51區和Bob Lazar的記者，Grant Cameron 提到與他共事
+
+  # ===== H =====
+  - term: Huffington Post
+    senses:
+      - id: huffington_post_media
+        definition: 美國新聞網站《赫芬頓郵報》
+        preferred_translation: 《赫芬頓郵報》
+        segments: [366]
+        notes: 報導了 Dr. Greer 的紀錄片《天狼星》
+
+  # ===== I =====
+  - term: Implants
+    senses:
+      - id: implants_cia_device
+        definition: CIA 在 1970-80 年代開發的植入裝置
+        preferred_translation: 植入物
+        segments: [390]
+        notes: Dr. Greer 提到 CIA 證人的證詞涉及此技術
+
+  - term: Ira Rosen
+    senses:
+      - id: rosen_producer
+        definition: ABC 新聞執行製作人，負責《20/20》與《黃金時段現場》
+        preferred_translation: 艾拉·羅森
+        segments: [180, 187]
+        notes: 曾到 Dr. Greer 家中並獲得 35 小時證人證詞，但節目最終未能播出
+
+  # ===== J =====
+  - term: John Mack, MD
+    senses:
+      - id: mack_psychiatrist
+        definition: 哈佛大學精神科醫師，研究綁架現象
+        preferred_translation: 約翰·麥克醫師
+        segments: [83]
+        notes: 與 Linda Howe 討論非人類智慧的心靈感應能力
+
+  - term: John Podesta
+    senses:
+      - id: podesta_official
+        definition: 白宮幕僚長，歐巴馬顧問
+        preferred_translation: 約翰·波德斯達
+        segments: [47, 55]
+        notes: 柯林頓政府內部推動 UFO 解密的主要盟友之一
+
+  # ===== L =====
+  - term: Lawrence Rockefeller
+    senses:
+      - id: rockefeller_philanthropist
+        definition: 億萬富翁慈善家
+        preferred_translation: 勞倫斯·洛克菲勒
+        segments: [121, 127]
+        notes: 資助 Project Starlight，與 Dr. Greer 討論意識科學
+
+  - term: Lockheed Martin
+    senses:
+      - id: lockheed_martin_contractor
+        definition: 美國國防承包商與航太公司
+        preferred_translation: 洛克希德·馬丁
+        segments: [397, 402]
+        notes: Linda Howe 證詞中提到該公司員工因嚴厲的保密協議而恐懼發聲
+
+  # ===== M =====
+  - term: Margaret Thatcher
+    senses:
+      - id: thatcher_pm
+        definition: 英國前首相
+        preferred_translation: 瑪格麗特·柴契爾
+        segments: [42]
+        notes: 1997 年被問及 UFO 時回應「你必須確保事實正確，但不能告訴人民」
+
+  - term: Mike Wallace
+    senses:
+      - id: wallace_journalist
+        definition: CBS《60分鐘》資深記者
+        preferred_translation: 麥克·華萊士
+        segments: [176, 178, 185]
+        notes: 曾想報導 UFO 故事，但 CBS 管理層（Westinghouse 控制）拒絕
+
+  - term: military junta
+    senses:
+      - id: military_junta_concept
+        definition: 軍事政權，由軍方掌控國家的統治形式
+        preferred_translation: 軍事執政團
+        segments: [253]
+        notes: 參議員 Gravel 質問美國是否實質上由軍事執政團統治
+
+  - term: Moon Dust
+    senses:
+      - id: moon_dust_project
+        definition: 據稱的美國軍方 UFO 回收計畫
+        preferred_translation: 月塵計畫
+        segments: [91]
+        notes: 與 Project Pounce 類似，負責回收墜毀的不明飛行物
+
+  - term: Mr. Rockefeller
+    senses:
+      - id: rockefeller_philanthropist_title
+        definition: 億萬富翁慈善家勞倫斯·洛克菲勒的稱呼
+        preferred_translation: 洛克菲勒先生
+        segments: [82, 85, 104]
+        notes: 在懷俄明牧場舉辦 UFO 研究會議，邀請 Linda Howe、Dr. Greer、John Mack 等人
+
+  # ===== N =====
+  - term: National Academy of Sciences
+    senses:
+      - id: nas_institution
+        definition: 美國國家科學院
+        preferred_translation: 國家科學院
+        segments: [123]
+        notes: CIA 局長 Woolsey 的妻子曾任營運長
+
+  - term: National Press Club
+    senses:
+      - id: npc_venue
+        definition: 華盛頓特區的專業記者組織
+        preferred_translation: 國家記者俱樂部
+        segments: [113, 175, 196]
+        notes: 揭露計畫 2001 年記者會地點，本次聽證會舉辦地
+
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [59, 147, 150, 375]
+        notes: 常用於解釋 UFO 資訊保密的官方理由
+
+  - term: New York Post
+    senses:
+      - id: new_york_post_newspaper
+        definition: 《紐約郵報》
+        preferred_translation: 《紐約郵報》
+        segments: [236]
+        notes: Deborah Oren 的任職媒體
+
+  # ===== O =====
+  - term: Obama briefing
+    senses:
+      - id: obama_briefing_document
+        definition: Dr. Greer 為歐巴馬總統準備的 UFO 簡報
+        preferred_translation: 歐巴馬簡報
+        segments: [118]
+        notes: 包含關於 WSFM 和跨維度星際科技的摘要
+
+  - term: Alfred O'Donnell
+    senses:
+      - id: odonnell_witness
+        definition: Area 51 的高階管理人員，掌握墜毀飛碟相關資訊的關鍵證人
+        preferred_translation: 阿爾弗雷德·歐唐納
+        segments: [27]
+        notes: George Knapp 調查報導中的重要證人，拒絕與國會調查員對話
+
+  # ===== P =====
+  - term: Paul Davids
+    senses:
+      - id: davids_producer
+        definition: 製片人
+        preferred_translation: 保羅·大衛斯
+        segments: [51]
+        notes: 與柯林頓總統討論 Roswell 書籍的人
+
+  - term: Pell Grant
+    senses:
+      - id: pell_grant_program
+        definition: 美國聯邦助學金計畫
+        preferred_translation: 佩爾助學金
+        segments: [136]
+        notes: 以參議員 Claiborne Pell 命名，Dr. Greer 受惠於此計畫
+
+  - term: Primetime Live
+    senses:
+      - id: primetime_live_show
+        definition: ABC 電視新聞節目《黃金時段現場》
+        preferred_translation: 《黃金時段現場》
+        segments: [180]
+        notes: Ira Rosen 擔任執行製作人的節目之一
+
+  - term: Project Pounce
+    senses:
+      - id: project_pounce_retrieval
+        definition: 據稱的軍方UFO回收小組
+        preferred_translation: 突襲計畫
+        segments: [91]
+        notes: 負責搶救墜毀的不明飛行物，與 Moon Dust 類似（原轉錄誤為 Project Pounds）
+
+  - term: Project Starlight
+    senses:
+      - id: project_starlight_initiative
+        definition: Disclosure Project 的前身，由 Dr. Greer 與 Lawrence Rockefeller 合作啟動
+        preferred_translation: 星光計畫
+        segments: [199]
+        notes: 後來演變為揭露計畫（Disclosure Project）
+
+  - term: public-private partnerships
+    senses:
+      - id: public_private_partnerships_model
+        definition: 公私合作夥伴關係，政府與民間合作的模式
+        preferred_translation: 公私合作夥伴關係
+        segments: [285]
+        notes: Congresswoman Kilpatrick 提出用以管理揭露後社會轉型的機制
+
+  # ===== R =====
+  - term: RAF Bentwaters
+    senses:
+      - id: raf_bentwaters_base
+        definition: 英國皇家空軍本特沃特斯基地
+        preferred_translation: 皇家空軍本特沃特斯基地
+        segments: [206]
+        notes: COMETA 報告記錄的 UFO 降落地點，留下物理痕跡
+
+  - term: Richard Helms
+    senses:
+      - id: helms_cia_director
+        definition: 前 CIA 局長
+        preferred_translation: 理查德·赫爾姆斯
+        segments: [245, 246, 248]
+        notes: 名言「我們控制美國所有重要媒體」（原轉錄誤為 Jesse Helms）
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [51, 68, 92, 245, 358]
+        notes: UFO 史上最著名的事件，本集多次提及
+
+  # ===== S =====
+  - term: Senate Foreign Relations Committee
+    senses:
+      - id: senate_foreign_relations_committee
+        definition: 美國參議院外交關係委員會
+        preferred_translation: 參議院外交關係委員會
+        segments: [140]
+        notes: 參議員 Claiborne Pell 擔任主席，Dr. Greer 認為 UFO 是終極外交關係議題
+
+  - term: Senator Claiborne Pell
+    senses:
+      - id: pell_senator
+        definition: 前美國參議員，參議院外交關係委員會主席
+        preferred_translation: 克萊伯恩·佩爾參議員
+        segments: [136]
+        notes: 對 UFO 議題有興趣，但被告知即使身為主席也無權接觸相關資訊
+
+  - term: Sirius
+    senses:
+      - id: sirius_documentary
+        definition: Dr. Greer 的紀錄片《天狼星》
+        preferred_translation: 《天狼星》
+        segments: [366]
+        notes: 基於揭露計畫工作的紀錄片，赫芬頓郵報曾報導
+
+  - term: Stephen Greer
+    senses:
+      - id: greer_researcher
+        definition: 急診醫師、UFO研究者，揭露計畫創始人
+        preferred_translation: 史蒂芬·格里爾
+        segments: [27, 28]
+        notes: Disclosure Project 發起人，本集證人之一（通常稱 Dr. Steven Greer）
+
+  # ===== T =====
+  - term: technology assisted consciousness
+    senses:
+      - id: technology_assisted_consciousness_concept
+        definition: 科技輔助意識，外星文明使用電子設備增強心靈感應的技術
+        preferred_translation: 科技輔助意識
+        segments: [125]
+        notes: Dr. Greer 描述外星文明結合電子設備與思維致動事件的技術
+
+  - term: Telepathic
+    senses:
+      - id: telepathic_communication
+        definition: 透過心靈感應進行的溝通方式
+        preferred_translation: 心靈感應的
+        segments: [85, 100, 103]
+        notes: Linda Howe 證詞的核心主題，描述非人類智慧的溝通能力
+
+  - term: telepathic download upload
+    senses:
+      - id: telepathic_download_upload_experience
+        definition: 心靈感應下載上傳，外星存有與人類心智的雙向資訊交換
+        preferred_translation: 心靈感應下載上傳
+        segments: [100]
+        notes: 1978 年軍事接觸事件中 Eben 存有與人類的互動方式
+
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        segments: [40, 181]
+        notes: 美國機密等級：Top Secret (最高機密) > Secret (機密) > Confidential (密)
+
+  - term: trans-dimensional interstellar
+    senses:
+      - id: tdi_science
+        definition: 跨維度星際科技，融合電磁學、重力、時空與意識的先進科學
+        preferred_translation: 跨維度星際
+        segments: [121]
+        notes: Dr. Greer 縮寫為 TDI，描述外星文明的科技特性
+
+  - term: truth embargo
+    senses:
+      - id: truth_embargo_concept
+        definition: 真相禁運，透過媒體控制與嘲笑文化維持的資訊封鎖
+        preferred_translation: 真相禁運
+        segments: [222]
+        notes: Dr. Greer 用語，描述 UFO 資訊被系統性壓制的狀態
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [41, 54, 56, 63, 67, 68, 241, 245]
+        notes: 可視語境簡稱「UFO」或使用完整中文
+
+  - term: UN Secretary General
+    senses:
+      - id: un_secretary_general_office
+        definition: 聯合國秘書長
+        preferred_translation: 聯合國秘書長
+        segments: [131]
+        notes: Boutros Boutros-Ghali 的職位，Dr. Greer 曾與其家人會面討論 UFO 議題
+
+  # ===== W =====
+  - term: Webster Hubbell
+    senses:
+      - id: hubbell_official
+        definition: 柯林頓政府司法部副部長
+        preferred_translation: 韋伯斯特·哈貝爾
+        segments: [51, 52, 235, 237]
+        notes: 柯林頓要求他調查兩件事：UFO 和甘迺迪遇刺，著有《高層友人》一書（原轉錄誤為 Fence in High Places）
+
+  - term: Westinghouse
+    senses:
+      - id: westinghouse_corporation
+        definition: 西屋公司，大型國防承包商
+        preferred_translation: 西屋公司
+        segments: [179]
+        notes: 當時控制 CBS，阻止 Mike Wallace 報導 UFO 故事
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [27, 181, 389]
+        notes: 聽證會中的核心角色，包括軍事人員、研究者、平民等
+
+  - term: WSFM
+    senses:
+      - id: wsfm_cia_term
+        definition: CIA 內部術語，代表「Weird Science and F***ing Magic」（詭異科學與他媽的魔法）
+        preferred_translation: WSFM
+        segments: [118]
+        notes: CIA 人員用以形容先進外星科技看似魔法的現象
+
+  - term: Wyoming Ranch
+    senses:
+      - id: wyoming_ranch_rockefeller
+        definition: 勞倫斯·洛克菲勒在懷俄明州的牧場
+        preferred_translation: 懷俄明牧場
+        segments: [82]
+        notes: 舉辦 UFO 研究會議的地點，與會者包括 Linda Howe、Dr. Greer、John Mack
+
+  # ===== TV/Media Programs =====
+  - term: 60 Minutes
+    senses:
+      - id: 60_minutes_show
+        definition: CBS 電視新聞雜誌節目《60分鐘》
+        preferred_translation: 《60分鐘》
+        segments: [178, 185]
+        notes: Mike Wallace 的節目，UFO 報導被 CBS 管理層阻止
+
+  - term: "2020"
+    senses:
+      - id: 2020_show
+        definition: ABC 電視新聞雜誌節目《20/20》
+        preferred_translation: 《20/20》
+        segments: [180]
+        notes: Ira Rosen 擔任執行製作人的節目之一
+
+  - term: ABC News
+    senses:
+      - id: abc_news_network
+        definition: 美國廣播公司新聞部
+        preferred_translation: ABC 新聞
+        segments: [180]
+        notes: Ira Rosen 任職的新聞機構

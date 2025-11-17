@@ -1,0 +1,439 @@
+episode_id: UFO-02
+terms:
+  # ===== B =====
+  - term: Being
+    senses:
+      - id: being_general_usage
+        definition: 「being」用於一般語境，表示「存在」或「成為」的狀態
+        preferred_translation: （根據上下文翻譯）
+        segments: [59, 131, 149, 264, 284, 317, 493]
+        notes: 這些出現為一般英文用法，不涉及外星存有
+
+  - term: Boland Amendment
+    senses:
+      - id: boland_amendment_law
+        definition: 1980年代美國國會通過的法案，禁止政府秘密資助尼加拉瓜反政府武裝
+        preferred_translation: 博蘭修正案
+        segments: [475]
+        notes: Daniel Sheehan引用此案例說明國安單位如何公然違抗國會
+
+  # ===== C =====
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        segments: [35, 37, 136, 419, 432]
+        notes: 本集提到CIA局長H. Marshall Chadwell的機密備忘錄和Robertson Panel
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        segments: [15, 37, 53, 61, 63, 141, 152, 287, 319, 437]
+        notes: 本集重點討論1970年代FOIA解密與Carter總統嘗試取得機密資訊
+
+  - term: Congressional Research Service
+    senses:
+      - id: crs_library_congress
+        definition: 美國國會圖書館轄下的國會研究服務部門
+        preferred_translation: 國會研究服務處
+        segments: [140, 141, 149, 181, 197]
+        notes: Marcia Smith負責為卡特總統調查UFO資訊，Daniel Sheehan擔任特別法律顧問
+
+  # ===== D =====
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [132, 231]
+        notes: 本集討論揭露的社會準備度與地緣政治革命需求
+
+  # ===== E =====
+  - term: Entity
+    senses:
+      - id: entity_conceptual
+        definition: 實體、存在體（哲學或概念性用法）
+        preferred_translation: 實體
+        segments: [326]
+        notes: Daniel Sheehan討論人類意識與現實分離的哲學概念
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [67, 85, 181, 182, 184, 188, 192, 196, 197, 203, 212, 222, 323, 332, 338]
+        notes: 本集重點討論外星智慧的神學意義、SETI計畫、天主教立場轉變
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [212, 284]
+        notes: Richard French使用此早期術語描述UFO
+
+  - term: FOIA
+    senses:
+      - id: foia_law
+        definition: Freedom of Information Act，美國資訊自由法
+        preferred_translation: 資訊自由法（FOIA）
+        segments: [22]
+        notes: Richard Dolan重點討論1970年代FOIA黃金時期與雷根1982年限縮
+
+  - term: Foreign Technology Division
+    senses:
+      - id: ftd_wright_patterson
+        definition: 萊特-帕特森空軍基地的外國技術部門
+        preferred_translation: 外國技術部門
+        segments: [296, 303]
+        notes: Richard French證實羅斯威爾殘骸與遺體運往此處分析
+
+  # ===== G =====
+  - term: George H.W. Bush
+    senses:
+      - id: bush_cia_director
+        definition: 美國中央情報局局長（1976年），後成為副總統與總統
+        preferred_translation: 喬治·H·W·布希
+        segments: [134]
+        notes: 卡特總統要求他提供UFO資訊簡報但被拒絕
+
+  - term: Gulf Breeze, Florida
+    senses:
+      - id: gulf_breeze_sightings
+        definition: 佛羅里達州墨西哥灣沿岸城市，1980年代UFO熱點
+        preferred_translation: 佛羅里達州海灣微風市
+        segments: [213]
+        notes: Richard French承認捏造「沼氣」解釋來揭穿此地每週三次的UFO目擊
+
+  # ===== H =====
+  - term: H. Marshall Chadwell
+    senses:
+      - id: chadwell_cia_official
+        definition: CIA科學情報部門主管（1952年）
+        preferred_translation: H·馬歇爾·查德威爾
+        segments: [37]
+        notes: 1952年12月2日向CIA局長Walter Bedell Smith提交機密備忘錄，表達UFO的國安憂慮
+
+  - term: Hanford's Atomic Energy Facility
+    senses:
+      - id: hanford_nuclear_site
+        definition: 華盛頓州漢福德原子能設施
+        preferred_translation: 漢福德原子能設施
+        segments: [207]
+        notes: Richard French證詞：F-100D飛行員在此禁區擊落UFO
+
+  # ===== I =====
+  - term: Interdimensional
+    senses:
+      - id: interdimensional_theory
+        definition: 涉及跨越不同維度或次元的（理論假說之一）
+        preferred_translation: 跨維度
+        segments: [112]
+        notes: Antonio Huneeus提到除外星假說外的其他理論
+
+  # ===== N =====
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [45, 48, 220, 233, 322, 414, 421, 473, 474, 476]
+        notes: 本集討論國安保密文化、國安法案1947、國安國家（national security state）概念
+
+  - term: National Security Act of 1947
+    senses:
+      - id: nsa_act_1947
+        definition: 1947年美國國家安全法案，建立現代情報體系與國防部
+        preferred_translation: 1947年國家安全法案
+        segments: [473]
+        notes: Daniel Sheehan指出此法案創造了「國安國家」體制，允許情報單位對國會保密
+
+  # ===== P =====
+  - term: President Carter
+    senses:
+      - id: carter_president_ufo
+        definition: 美國第39任總統吉米·卡特，曾親眼目擊UFO並試圖取得UFO資訊
+        preferred_translation: 卡特總統
+        segments: [133, 134, 135, 138, 181, 197]
+        notes: 本集核心主題：卡特1976年要求CIA局長Bush簡報UFO但被拒，委託國會研究服務處調查
+
+  - term: Prime Minister of Grenada
+    senses:
+      - id: gairy_grenada_pm
+        definition: 格瑞納達總理埃里克·蓋里爵士（Sir Eric Gairy）
+        preferred_translation: 格瑞納達總理
+        segments: [89]
+        notes: 1977-78年推動聯合國建立UFO研究機構，因政變中斷
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        segments: [100, 152]
+        notes: Daniel Sheehan證詞：獲准查閱機密區段，看到墜毀飛碟照片並描繪符號
+
+  # ===== R =====
+  - term: Robertson panel
+    senses:
+      - id: robertson_panel_cia
+        definition: 1953年1月CIA召集的UFO專家小組會議
+        preferred_translation: 羅伯森小組
+        segments: [432, 437]
+        notes: 杜魯門政府最後週末召開，正式建議「揭穿」(debunk) UFO報告的政策
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947年新墨西哥州羅斯威爾疑似UFO墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [283, 284, 286, 302, 307, 310, 311, 320, 444, 453, 454, 459, 462]
+        notes: 本集重點：Richard Dolan討論GAO調查發現記錄被銷毀，Richard French作為直接證人描述殘骸與遺體
+
+  - term: Roswell incident
+    senses:
+      - id: roswell_incident_full
+        definition: 1947年新墨西哥州羅斯威爾疑似UFO墜毀事件（完整說法）
+        preferred_translation: 羅斯威爾事件
+        segments: [283, 286, 302, 444]
+        notes: 與「Roswell」同義，完整說法
+
+  # ===== S =====
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        segments: [94, 102]
+        notes: 格瑞納達總理Eric Gairy公開自己的UFO目擊經歷
+
+  - term: swamp gas
+    senses:
+      - id: swamp_gas_debunk
+        definition: 「沼氣」，美國空軍用以揭穿UFO目擊的虛假解釋
+        preferred_translation: 沼氣
+        segments: [213, 214, 313]
+        notes: Richard French親自承認捏造此解釋來揭穿Gulf Breeze的UFO目擊，成為全國笑話
+
+  # ===== T =====
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        segments: [205]
+        notes: Richard French的OSI職位需要最高機密許可才能報到
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物（UFO）
+        segments: [12, 14, 25, 62, 88, 91, 100, 101, 106, 110, 138, 166, 169, 188, 206, 207, 212, 270, 289, 313, 314, 322, 357, 363, 366, 371, 372, 387, 388]
+        notes: 本集高頻術語，涵蓋全球UFO現象、聯合國倡議、官方調查
+
+  - term: United Nations
+    senses:
+      - id: un_organization
+        definition: 聯合國，國際組織
+        preferred_translation: 聯合國
+        segments: [220, 233, 250, 272, 274, 341]
+        notes: 本集重點：1977-78年格瑞納達提案建立聯合國UFO研究機構，委員會討論復興此倡議
+
+  - term: United Nations Organization
+    senses:
+      - id: uno_full_name
+        definition: 聯合國組織（正式全名）
+        preferred_translation: 聯合國組織
+        segments: [86]
+        notes: Antonio Huneeus使用的正式名稱
+
+  # ===== V =====
+  - term: Vatican Library
+    senses:
+      - id: vatican_library_archive
+        definition: 梵蒂岡圖書館，存有UFO相關機密資料
+        preferred_translation: 梵蒂岡圖書館
+        segments: [141, 143, 175]
+        notes: Daniel Sheehan受國會研究服務處委託，試圖從梵蒂岡機密區段取得UFO資訊給卡特總統
+
+  # ===== W =====
+  - term: Walter Bedell Smith
+    senses:
+      - id: smith_cia_director
+        definition: CIA局長（1952年杜魯門政府時期）
+        preferred_translation: 沃爾特·比德爾·史密斯
+        segments: [37]
+        notes: H. Marshall Chadwell的上司，接收1952年12月UFO國安憂慮備忘錄
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [100]
+        notes: 1978年聯合國聽證會包含J. Alan Hynek、Jacques Vallee等證人證詞
+
+  - term: Wright-Patterson Air Force Base
+    senses:
+      - id: wright_patterson_afb
+        definition: 俄亥俄州代頓市附近的美國空軍基地
+        preferred_translation: 萊特-帕特森空軍基地
+        segments: [296]
+        notes: 傳說中儲存UFO殘骸和外星遺體的地點，Richard French證實羅斯威爾材料運往此處
+
+  # ========================================
+  # 重要人名（依姓氏字母排序）
+  # ========================================
+
+  # ----- 研究者/證人 -----
+  - term: Dr. J. Alan Hynek
+    senses:
+      - id: hynek_astronomer
+        definition: 天文學家，藍皮書計畫科學顧問，UFO研究中心（CUFOS）創辦人
+        preferred_translation: J·艾倫·海尼克博士
+        segments: [100]
+        notes: 1978年參與聯合國UFO聽證會作證
+
+  - term: Dr. John Mack
+    senses:
+      - id: mack_psychiatrist
+        definition: 哈佛醫學院臨床精神病學系主任
+        preferred_translation: 約翰·麥克博士
+        segments: [183]
+        notes: 1994年因研究外星接觸案例聯繫Daniel Sheehan擔任法律代表
+
+  - term: Daniel Sheehan
+    senses:
+      - id: sheehan_attorney_ufo
+        definition: 律師，耶穌會總部法律總顧問，參與卡特總統UFO調查
+        preferred_translation: 丹尼爾·希恩
+        segments: [131, 149, 323]
+        notes: 本集重要證人，詳述1976-77年為卡特總統調查UFO的經歷
+
+  - term: Richard Dolan
+    senses:
+      - id: dolan_historian_ufo
+        definition: 歷史學家，UFO研究專家
+        preferred_translation: 理查德·多蘭
+        segments: [8, 283]
+        notes: 本集開場證人，討論FOIA解密文件的歷史重要性
+
+  # ----- 記者/媒體 -----
+  - term: Antonio Huneeus
+    senses:
+      - id: huneeus_journalist
+        definition: 智利裔美國記者，UFO研究者
+        preferred_translation: 安東尼奧·胡尼烏斯
+        segments: [67, 323]
+        notes: 本集證人，親身參與1978年聯合國UFO聽證會，專注全球UFO現象
+
+  # ----- 軍方證人 -----
+  - term: Lieutenant Colonel Richard French
+    senses:
+      - id: french_osi_agent
+        definition: 美國空軍中校退役，前特別調查辦公室（OSI）探員
+        preferred_translation: 理查德·法蘭奇中校
+        segments: [203]
+        notes: 本集重要證人，坦承12年揭穿UFO工作，親眼見證羅斯威爾殘骸與遺體
+
+  # ----- 政治人物 -----
+  - term: Sir Eric Gairy
+    senses:
+      - id: gairy_grenada_leader
+        definition: 格瑞納達總理埃里克·蓋里爵士
+        preferred_translation: 埃里克·蓋里爵士
+        segments: [89, 94, 96, 100, 104]
+        notes: 1977-78年推動聯合國UFO研究機構，親身UFO目擊者
+
+  # ----- 聯合國官員 -----
+  - term: Kurt Waldheim
+    senses:
+      - id: waldheim_un_secretary
+        definition: 聯合國秘書長（1970年代）
+        preferred_translation: 庫爾特·瓦爾德海姆
+        segments: [96]
+        notes: 格瑞納達UFO提案時期的聯合國秘書長
+
+  # ----- 委員會成員 -----
+  - term: Senator Gravel
+    senses:
+      - id: gravel_senator_panel
+        definition: 前美國參議員麥克·格拉維爾，聽證會評審小組成員
+        preferred_translation: 格拉維爾參議員
+        segments: [128, 270]
+        notes: 聽證會委員，提問有關能源典範與聯合國途徑
+
+  # ----- 其他關鍵人物 -----
+  - term: Ted Sorensen
+    senses:
+      - id: sorensen_advisor
+        definition: 前甘迺迪總統特別顧問，卡特提名的CIA局長人選
+        preferred_translation: 泰德·索倫森
+        segments: [138]
+        notes: 卡特總統欲任命他為CIA局長以取代Bush
+
+  - term: Marcia Smith
+    senses:
+      - id: smith_crs_director
+        definition: 美國國會圖書館國會研究服務處科技部門主管
+        preferred_translation: 瑪西婭·史密斯
+        segments: [149, 181]
+        notes: 負責為卡特總統調查UFO，委託Daniel Sheehan擔任特別顧問
+
+  # ----- 國際人物 -----
+  - term: Wellington Friday
+    senses:
+      - id: friday_grenada_ambassador
+        definition: 格瑞納達駐聯合國大使，後任教育部長
+        preferred_translation: 威靈頓·弗萊戴
+        segments: [100]
+        notes: 與Eric Gairy共同推動聯合國UFO倡議
+
+  # ===== 專有名詞：地點與設施 =====
+  - term: General Accounting Office
+    senses:
+      - id: gao_full_name
+        definition: 美國審計總署（現稱政府問責辦公室）完整名稱
+        preferred_translation: 審計總署
+        segments: [286]
+        notes: 1994年調查羅斯威爾事件，發現1946-48年相關記錄已被銷毀
+
+  - term: GAO
+    senses:
+      - id: gao_abbreviation
+        definition: General Accounting Office 的縮寫
+        preferred_translation: GAO（審計總署）
+        segments: [287]
+        notes: 縮寫形式，指美國審計總署
+
+  - term: Project Mogul
+    senses:
+      - id: mogul_balloon
+        definition: 美國1940年代機密氣球計畫，官方聲稱為羅斯威爾事件解釋
+        preferred_translation: 莫古爾計畫
+        segments: [287, 444]
+        notes: 空軍1994年提出的羅斯威爾官方解釋，Richard Dolan批評為「一堆廢話」
+
+  # ===== 專有名詞：組織機構 =====
+  - term: OSI
+    senses:
+      - id: osi_abbreviation
+        definition: Office of Special Investigations，美國空軍特別調查辦公室
+        preferred_translation: 特別調查辦公室（OSI）
+        segments: [205, 213]
+        notes: Richard French所屬單位，負責揭穿UFO報告以維持保密；文本中使用縮寫形式
+
+  - term: military-industrial complex
+    senses:
+      - id: mic_eisenhower
+        definition: 軍工複合體，艾森豪總統警告的軍事-工業-國會權力結構
+        preferred_translation: 軍工複合體
+        segments: [481]
+        notes: 委員會討論UFO保密的權力結構障礙

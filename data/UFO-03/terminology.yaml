@@ -1,0 +1,746 @@
+episode_id: UFO-03
+terms:
+  # ===== B =====
+  - term: Being
+    senses:
+      - id: being_extraterrestrial
+        definition: 外星生命體或智慧存在
+        preferred_translation: 存有
+        segments: [125]
+        notes: 證詞中提到羅斯威爾回收的活體外星存有,可補充為「外星存有」
+
+      - id: being_gerund
+        definition: 動名詞或進行式用法,表示「正在...」或「被...」的狀態
+        preferred_translation: 被、正在
+        segments: [32, 63, 69, 106, 110, 332, 486, 508, 510, 515]
+        notes: 文法功能詞,非術語意義
+
+  # ===== C =====
+  - term: CI Director Woolsey
+    senses:
+      - id: woolsey_cia_director_typo
+        definition: CIA局長伍爾西(轉錄錯誤拼寫,正確為CIA Director Woolsey)
+        preferred_translation: CIA局長伍爾西
+        segments: [11]
+        notes: Whisper轉錄錯誤,將"CIA"聽成"CI",正確拼寫見segment 10
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency,美國中央情報局
+        preferred_translation: CIA
+        segments: [10, 24, 36, 95, 162, 163, 165, 166, 167, 315, 389, 390, 405, 515]
+        notes: UFO-03中重點討論CIA在洛克菲勒倡議中的角色,以及在秘密行動中的權力
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        segments: [77, 298, 356, 357]
+        notes: UFO-03討論機密系統如何被用來隱瞞先進技術
+
+  - term: COMETA Report
+    senses:
+      - id: cometa_report_french
+        definition: 法國高層軍事和情報官員撰寫的UFO研究報告(1999年)
+        preferred_translation: COMETA報告
+        segments: [253, 255]
+        notes: UFO-03證詞指出COMETA報告以洛克菲勒資助的UFO Briefing Document為範本
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對UFO真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        segments: [171]
+        notes: 洛克菲勒倡議中要求白宮處理的「其餘掩蓋材料」
+
+  # ===== D =====
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露UFO與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [40, 154, 161, 169, 170, 193, 196, 456, 483]
+        notes: UFO-03的核心議題,洛克菲勒倡議推動柯林頓政府揭露UFO資訊
+
+  - term: Disclosure Project
+    senses:
+      - id: disclosure_project_greer
+        definition: 由Dr. Steven Greer發起的UFO揭露運動
+        preferred_translation: 揭露計畫
+        segments: [40]
+        notes: 2001年在國家記者俱樂部舉辦的重大記者會,本集是12週年紀念
+
+  # ===== E =====
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [7, 66, 135, 194, 220, 231, 235, 490]
+        notes: UFO-03討論外星智慧的存在與政府揭露政策
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [299]
+        notes: 證詞中提到的圓形飛行器原型
+
+  - term: FOIA
+    senses:
+      - id: foia_law
+        definition: Freedom of Information Act,美國資訊自由法
+        preferred_translation: 資訊自由法
+        segments: [149, 178, 452]
+        notes: UFO-03強調FOIA文件的消失,原本1,000頁文件從檔案館中消失
+
+  # ===== M =====
+  - term: MUFON
+    senses:
+      - id: mufon_network
+        definition: Mutual UFO Network,共同UFO網絡
+        preferred_translation: MUFON(UFO互動網絡)
+        segments: [246]
+        notes: 背書UFO Briefing Document的三大美國UFO組織之一
+
+  # ===== N =====
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [33, 56, 65, 83, 97, 102, 110, 299, 318, 324, 373, 478, 484, 510]
+        notes: UFO-03重點討論國家安全被用來保護石油經濟利益,而非真正的安全需求
+
+  # ===== R =====
+  - term: Rockefeller Initiative
+    senses:
+      - id: rockefeller_initiative_1990s
+        definition: 1990年代Laurance Rockefeller推動的UFO揭露行動
+        preferred_translation: 洛克菲勒倡議
+        segments: [148, 191]
+        notes: UFO-03的核心主題,詳細討論洛克菲勒如何遊說柯林頓政府
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947年新墨西哥州羅斯威爾的疑似UFO墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [18, 125, 150, 172, 173, 175, 176, 178, 179, 183, 184, 185, 238]
+        notes: UFO-03討論洛克菲勒選擇羅斯威爾作為要求調查的案例,以及空軍的魔球氣球解釋
+
+  # ===== T =====
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        segments: [124, 125, 240, 303]
+        notes: UFO-03討論「cosmic top secret」更高層級的機密分類
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object,不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [59, 147, 149, 153, 155, 161, 162, 165, 166, 167, 168, 169, 170, 172, 193, 196, 198, 209, 212, 216, 220, 223, 226, 238, 242, 243, 244, 246, 249, 250, 251, 252, 253, 256, 257, 260, 264, 268, 449]
+        notes: UFO-03高頻使用,討論政府UFO政策與洛克菲勒倡議
+
+  # ===== W =====
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [491]
+        notes: 本集證人包括Dr. Greer的軍方證人來源
+
+  - term: Wright-Patterson Air Force Base
+    senses:
+      - id: wright_patterson_afb
+        definition: 俄亥俄州代頓市附近的美國空軍基地
+        preferred_translation: 萊特-帕特森空軍基地
+        segments: [18]
+        notes: 證詞提到羅斯威爾殘骸送往該基地,Dr. Greer在此會見Admiral Wilson
+
+  # ========================================
+  # UFO-03 特有重要人名(依姓氏字母排序)
+  # ========================================
+
+  # ----- 研究者/證人 -----
+  - term: Grant Cameron
+    senses:
+      - id: cameron_researcher
+        definition: UFO研究者,專注於美國總統對UFO的了解
+        preferred_translation: 格蘭特·卡麥隆
+        segments: [145, 222]
+        notes: UFO-03 topic_03與topic_04的主要證人,專門研究洛克菲勒倡議
+
+  - term: Daniel Sheehan
+    senses:
+      - id: sheehan_attorney
+        definition: 律師,曾處理五角大樓文件案、凱倫·西爾克伍德案、伊朗門事件等重大案件
+        preferred_translation: 丹尼爾·希恩
+        segments: [327]
+        notes: UFO-03 topic_02的主要證人,提供政府秘密的法律視角
+
+  - term: Paul Hellyer
+    senses:
+      - id: hellyer_minister
+        definition: 加拿大前國防部長
+        preferred_translation: 保羅·赫勒
+        segments: [70]
+        notes: 本集提到他支持UFO揭露
+
+  # ----- 政府/軍方官員 -----
+  - term: President Clinton
+    senses:
+      - id: clinton_president
+        definition: 美國第42任總統比爾·柯林頓
+        preferred_translation: 柯林頓總統
+        segments: [7, 13, 169, 183, 197, 236, 513]
+        notes: 洛克菲勒倡議的主要對象,透過Webster Hubbell調查UFO資訊
+
+  - term: Webster Hubbell
+    senses:
+      - id: hubbell_official
+        definition: 柯林頓政府司法部副部長
+        preferred_translation: 韋伯斯特·哈貝爾
+        segments: [13]
+        notes: 柯林頓要求他調查UFO真相,但被拒絕提供資訊
+
+  - term: Ben Rich
+    senses:
+      - id: rich_engineer
+        definition: 洛克希德臭鼬工廠主管
+        preferred_translation: 班·里奇
+        segments: [491]
+        notes: 傳聞曾表示「我們已經擁有星際旅行的技術」
+
+  # ----- 洛克菲勒倡議相關人物 -----
+  - term: Lawrence Rockefeller
+    senses:
+      - id: rockefeller_philanthropist
+        definition: 億萬富翁慈善家,1990年代資助UFO研究並遊說柯林頓政府
+        preferred_translation: 勞倫斯·洛克菲勒
+        segments: [155, 158, 166, 188, 193, 216, 219, 223, 227, 229, 231, 242, 254, 257, 267, 405]
+        notes: UFO-03的核心人物,Whisper轉錄拼為Lawrence(較正式拼法為Laurance)
+
+  - term: Lawrence S. Rockefeller
+    senses:
+      - id: rockefeller_full_name
+        definition: 勞倫斯·S·洛克菲勒(全名)
+        preferred_translation: 勞倫斯·S·洛克菲勒
+        segments: [209, 235]
+        notes: 正式文件中使用的全名,Whisper轉錄拼為Lawrence(較正式拼法為Laurance)
+
+  - term: Dr. Jack Gibbons
+    senses:
+      - id: gibbons_science_advisor
+        definition: 柯林頓總統的科學顧問
+        preferred_translation: 傑克·吉本斯博士
+        segments: [161]
+        notes: 在白宮處理洛克菲勒的UFO揭露請求
+
+  - term: Dr. Ronald Pandolfi
+    senses:
+      - id: pandolfi_cia_scientist
+        definition: CIA頂尖科學家,UFO領域專家
+        preferred_translation: 羅納德·潘多爾菲博士
+        segments: [163, 165]
+        notes: CIA指派他處理洛克菲勒的UFO簡報請求
+
+  - term: Bruce Maccabee
+    senses:
+      - id: maccabee_researcher
+        definition: UFO研究者與物理學家
+        preferred_translation: 布魯斯·馬卡比
+        segments: [167]
+        notes: Pandolfi委託他撰寫白宮UFO簡報
+
+  - term: Dr. Cecil B. Scott-Jones
+    senses:
+      - id: scott_jones_parapsychologist
+        definition: 超心理學家,前美國海軍指揮官
+        preferred_translation: 塞西爾·B·史考特-瓊斯博士
+        segments: [227]
+        notes: 1980年代末洛克菲勒UFO研究的首位協調人
+
+  - term: Senator Claiborne Pell
+    senses:
+      - id: pell_senator
+        definition: 前參議員,參議院外交關係委員會主席
+        preferred_translation: 克萊本·佩爾參議員
+        segments: [228]
+        notes: 對超心理學深感興趣,Scott-Jones曾任其特別助理
+
+  - term: Marie Goldbreath
+    senses:
+      - id: goldbreath_coordinator
+        definition: 洛克菲勒UFO倡議協調人,駐法大使夫人
+        preferred_translation: 瑪莉·高布瑞斯
+        segments: [243, 244, 248, 254, 256]
+        notes: 1995年起接替Scott-Jones,協調UFO Briefing Document製作(正確拼寫應為Galbraith)
+
+  # ----- 軍方官員 -----
+  - term: Admiral Tom Wilson
+    senses:
+      - id: wilson_intelligence_chief
+        definition: 參謀長聯席會議情報主管(J2)
+        preferred_translation: 湯姆·威爾森上將
+        segments: [26]
+        notes: Dr. Greer證詞中的關鍵人物,被拒絕進入USAP項目
+
+  - term: Admiral Kramer
+    senses:
+      - id: kramer_admiral_error
+        definition: 情報主管(可能為Admiral Wilson的誤聽)
+        preferred_translation: 克拉默上將
+        segments: [20]
+        notes: topics.json建議修正為Admiral Wilson,可能是轉錄錯誤
+
+  # ========================================
+  # UFO-03 特有術語
+  # ========================================
+
+  - term: Center for the Study of Extraterrestrial Intelligence
+    senses:
+      - id: cseti_organization
+        definition: Dr. Steven Greer於1990年創立的外星智慧研究中心
+        preferred_translation: 外星智慧研究中心
+        segments: [7]
+        notes: 簡稱CSETI,首次出現時可使用全名
+
+  - term: Project Starlight
+    senses:
+      - id: starlight_initiative
+        definition: Dr. Greer早期向軍方與政府高層簡報UFO資訊的計畫
+        preferred_translation: 星光計畫
+        segments: [14]
+        notes: 與洛克菲勒倡議同時期的揭露努力
+
+  - term: Joint Chiefs of Staff
+    senses:
+      - id: jcs_military
+        definition: 美國參謀長聯席會議
+        preferred_translation: 參謀長聯席會議
+        segments: [18, 30]
+        notes: 美國最高軍事指揮機構
+
+  - term: Roswell event
+    senses:
+      - id: roswell_event_term
+        definition: 羅斯威爾事件(event用法)
+        preferred_translation: 羅斯威爾事件
+        segments: [18]
+        notes: 與「Roswell incident」同義
+
+  - term: Unacknowledged special access project
+    senses:
+      - id: usap_classification
+        definition: 未公開的特別訪問項目,連國會都不知道存在的高度機密計畫
+        preferred_translation: 未公開特別訪問項目
+        segments: [47, 73]
+        notes: 簡稱USAP,UFO-03的核心概念之一
+
+  - term: alien reproduction vehicles
+    senses:
+      - id: arv_craft
+        definition: 仿製外星飛行器技術的人造載具
+        preferred_translation: 外星仿製載具
+        segments: [80]
+        notes: 簡稱ARV,Dr. Greer證詞提到的秘密計畫
+
+  - term: Frank Carlucci
+    senses:
+      - id: carlucci_defense_secretary
+        definition: 雷根政府國防部長
+        preferred_translation: 法蘭克·卡魯奇
+        segments: [80]
+        notes: 曾被帶至諾頓空軍基地參觀ARV設施
+
+  - term: T. Townsend Brown
+    senses:
+      - id: brown_physicist
+        definition: 反重力研究先驅物理學家
+        preferred_translation: T·湯森·布朗
+        segments: [80]
+        notes: 1929年開始進行先進反重力研究
+
+  # ----- Daniel Sheehan證詞相關術語 -----
+  - term: Pentagon Papers
+    senses:
+      - id: pentagon_papers_case
+        definition: 五角大樓文件案,揭露越戰秘密的重大洩密事件
+        preferred_translation: 五角大樓文件案
+        segments: [87, 89, 103, 131]
+        notes: Daniel Sheehan經手的著名案件之一
+
+  - term: Cahill Gordon law firm
+    senses:
+      - id: cahill_gordon_firm
+        definition: 紐約Cahill Gordon律師事務所
+        preferred_translation: Cahill Gordon律師事務所
+        segments: [87]
+        notes: Daniel Sheehan處理五角大樓文件案時的事務所
+
+  - term: Harvard Civil Rights Law Review
+    senses:
+      - id: harvard_law_review
+        definition: 哈佛民權法律評論
+        preferred_translation: 哈佛民權法律評論
+        segments: [88]
+        notes: Daniel Sheehan曾在此工作,建立記者保護消息來源的案例
+
+  - term: Phoenix program
+    senses:
+      - id: phoenix_assassination
+        definition: CIA在越戰期間的暗殺計畫
+        preferred_translation: 鳳凰計畫
+        segments: [93]
+        notes: 五角大樓文件中揭露的秘密行動
+
+  - term: Nugan Hand Bank
+    senses:
+      - id: nugan_hand_bank
+        definition: CIA在澳洲設立的秘密銀行
+        preferred_translation: 紐根漢德銀行
+        segments: [95]
+        notes: Theodore Shackley設立的洗錢機構
+
+  - term: Theodore Shackley
+    senses:
+      - id: shackley_cia_officer
+        definition: CIA西貢站長
+        preferred_translation: 西奧多·沙克利
+        segments: [95]
+        notes: 設立Nugan Hand Bank的CIA官員
+
+  - term: 5412 committee
+    senses:
+      - id: 5412_committee_nsc
+        definition: 國家安全會議內部監督秘密行動的5412委員會
+        preferred_translation: 5412委員會
+        segments: [97, 102]
+        notes: 1947年CIA成立後設立的秘密監督機制
+
+  - term: National Security Council
+    senses:
+      - id: nsc_government
+        definition: 美國國家安全會議
+        preferred_translation: 國家安全會議
+        segments: [97, 102]
+        notes: 5412委員會的上級機構
+
+  - term: Karen Silkwood case
+    senses:
+      - id: silkwood_case
+        definition: 凱倫·西爾克伍德案,涉及核材料走私的重大案件
+        preferred_translation: 凱倫·西爾克伍德案
+        segments: [105, 114, 132]
+        notes: Daniel Sheehan擔任首席律師的案件
+
+  - term: Kerr-McGee nuclear facility
+    senses:
+      - id: kerr_mcgee_facility
+        definition: Kerr-McGee核設施
+        preferred_translation: Kerr-McGee核設施
+        segments: [106]
+        notes: 鈽材料走私的來源設施
+
+  - term: Nuclear Nonproliferation Treaty
+    senses:
+      - id: npt_treaty
+        definition: 核不擴散條約
+        preferred_translation: 核不擴散條約
+        segments: [112, 118]
+        notes: 美國向以色列走私鈽材料違反此條約
+
+  - term: Iran-Contra case
+    senses:
+      - id: iran_contra_scandal
+        definition: 伊朗門事件,雷根政府秘密軍售醜聞
+        preferred_translation: 伊朗門事件
+        segments: [120, 132]
+        notes: Daniel Sheehan提起原訴促成特別檢察官任命
+
+  - term: cosmic top secret
+    senses:
+      - id: cosmic_top_secret_classification
+        definition: 宇宙最高機密,UFO主題的超高機密等級
+        preferred_translation: 宇宙最高機密
+        segments: [124, 125]
+        notes: Daniel Sheehan提出的超越一般最高機密的分類等級
+
+  - term: Gorbachev
+    senses:
+      - id: gorbachev_president
+        definition: 前蘇聯總統戈巴契夫
+        preferred_translation: 戈巴契夫
+        segments: [138]
+        notes: Daniel Sheehan擔任其「世界論壇」法律顧問,戈巴契夫向他證實UFO存在
+
+  # ----- Grant Cameron證詞相關術語 -----
+  - term: Clinton White House
+    senses:
+      - id: clinton_white_house
+        definition: 柯林頓白宮
+        preferred_translation: 柯林頓白宮
+        segments: [149, 169]
+        notes: 洛克菲勒倡議的主要施壓對象
+
+  - term: National Archives
+    senses:
+      - id: national_archives
+        definition: 美國國家檔案館
+        preferred_translation: 國家檔案館
+        segments: [151]
+        notes: 原本的1,000頁FOIA文件現已消失
+
+  - term: Clinton Library
+    senses:
+      - id: clinton_library
+        definition: 柯林頓總統圖書館
+        preferred_translation: 柯林頓總統圖書館
+        segments: [151, 152]
+        notes: 也聲稱沒有這些消失的文件
+
+  - term: Government Accountability Office
+    senses:
+      - id: gao_office
+        definition: 美國政府問責辦公室
+        preferred_translation: 政府問責辦公室
+        segments: [176]
+        notes: 簡稱GAO,曾調查羅斯威爾事件
+
+  - term: Congressman Steven Schiff
+    senses:
+      - id: schiff_congressman
+        definition: 新墨西哥州眾議員史蒂芬·席夫
+        preferred_translation: 史蒂芬·席夫眾議員
+        segments: [177]
+        notes: 下令GAO調查羅斯威爾,遭國防部長Les Aspin阻撓
+
+  - term: Les Aspin
+    senses:
+      - id: aspin_defense_secretary
+        definition: 柯林頓首任國防部長
+        preferred_translation: 萊斯·阿斯平
+        segments: [177]
+        notes: 阻撓Congressman Schiff取得羅斯威爾資訊
+
+  - term: mogul balloon
+    senses:
+      - id: mogul_balloon_explanation
+        definition: 魔球氣球,空軍對羅斯威爾事件的官方解釋
+        preferred_translation: 魔球氣球
+        segments: [182]
+        notes: 1994年空軍聲稱羅斯威爾墜毀物為監測蘇聯核試的秘密氣球
+
+  # ----- 洛克菲勒倡議文件與組織 -----
+  - term: Rockefeller Archive Center
+    senses:
+      - id: rockefeller_archive
+        definition: 洛克菲勒檔案中心
+        preferred_translation: 洛克菲勒檔案中心
+        segments: [212]
+        notes: 官方傳記刻意省略洛克菲勒的UFO研究活動
+
+  - term: exopolitics
+    senses:
+      - id: exopolitics_field
+        definition: 外星政治學,研究地球與外星文明政治關係的領域
+        preferred_translation: 外星政治學
+        segments: [219]
+        notes: 洛克菲勒在1990年代實踐此概念,遠早於術語流行
+
+  - term: White House Office of Science and Technology Policy
+    senses:
+      - id: ostp_office
+        definition: 白宮科學技術政策辦公室
+        preferred_translation: 白宮科學技術政策辦公室
+        segments: [221]
+        notes: 簡稱OSTP,Dr. Jack Gibbons的機構
+
+  - term: OSTP
+    senses:
+      - id: ostp_abbreviation
+        definition: Office of Science and Technology Policy簡稱
+        preferred_translation: OSTP
+        segments: [230, 234]
+        notes: 白宮科學技術政策辦公室的縮寫
+
+  - term: Paradigm Research Group
+    senses:
+      - id: prg_organization
+        definition: 範式研究組織
+        preferred_translation: 範式研究組織
+        segments: [222]
+        notes: 可訪問洛克菲勒倡議相關文件的網站
+
+  - term: UFO Briefing Document
+    senses:
+      - id: ufo_briefing_doc
+        definition: UFO簡報文件:最佳可得證據,1995年洛克菲勒資助出版
+        preferred_translation: UFO簡報文件
+        segments: [216, 243, 249, 253]
+        notes: 副標題為「最佳可得證據」,成為COMETA報告的範本
+
+  - term: Fund for UFO Research, FUFOR
+    senses:
+      - id: fufor_organization
+        definition: UFO研究基金會
+        preferred_translation: UFO研究基金會
+        segments: [244]
+        notes: 簡稱FUFOR,三大美國UFO組織之一
+
+  - term: CUFOS
+    senses:
+      - id: cufos_organization
+        definition: Center for UFO Studies,UFO研究中心
+        preferred_translation: UFO研究中心
+        segments: [246]
+        notes: 簡稱CUFOS,背書UFO Briefing Document的組織之一
+
+  - term: Cometa report
+    senses:
+      - id: cometa_lowercase
+        definition: COMETA報告(小寫拼寫)
+        preferred_translation: COMETA報告
+        segments: [253, 255]
+        notes: 與COMETA Report同義
+
+  - term: Pocantico Conference Center
+    senses:
+      - id: pocantico_center
+        definition: 波坎蒂科會議中心,洛克菲勒家族財產
+        preferred_translation: 波坎蒂科會議中心
+        segments: [258]
+        notes: 1997年UFO科學會議舉辦地點
+
+  - term: Dr. Peter A. Sturrock
+    senses:
+      - id: sturrock_astrophysicist
+        definition: 史丹佛大學天體物理學家
+        preferred_translation: 彼得·A·史特羅克博士
+        segments: [259]
+        notes: 主導1997年波坎蒂科UFO科學會議
+
+  # ----- 先進技術術語 -----
+  - term: zero point energy field
+    senses:
+      - id: zpe_physics
+        definition: 零點能量場,量子真空能量
+        preferred_translation: 零點能量場
+        segments: [295]
+        notes: Dr. Greer證詞中提到的抑制能源技術
+
+  - term: Poynting vector
+    senses:
+      - id: poynting_vector_physics
+        definition: 坡印廷向量,電磁場能量流向量
+        preferred_translation: 坡印廷向量
+        segments: [294]
+        notes: 與反重力技術相關的物理概念
+
+  - term: B-2 Stealth
+    senses:
+      - id: b2_stealth_bomber
+        definition: B-2隱形轟炸機
+        preferred_translation: B-2隱形轟炸機
+        segments: [298]
+        notes: 證詞提到其採用部分先進推進技術
+
+  - term: National Security Agency
+    senses:
+      - id: nsa_agency
+        definition: 美國國家安全局
+        preferred_translation: 國家安全局
+        segments: [299]
+        notes: 簡稱NSA,「金庫」中儲存重力控制技術資訊
+
+  - term: petrodollar system
+    senses:
+      - id: petrodollar_economy
+        definition: 石油美元體系
+        preferred_translation: 石油美元體系
+        segments: [313, 318]
+        notes: UFO-03核心論點:先進能源技術被抑制以保護此經濟體系
+
+  - term: Lord Hill Norton
+    senses:
+      - id: hill_norton_uk_defense
+        definition: 英國國防部長希爾諾頓勳爵
+        preferred_translation: 希爾諾頓勳爵
+        segments: [316]
+        notes: Dr. Greer向他解釋為何英國高層被拒絕UFO資訊
+
+  - term: Federation of American Scientists
+    senses:
+      - id: fas_organization
+        definition: 美國科學家聯盟
+        preferred_translation: 美國科學家聯盟
+        segments: [324]
+        notes: 簡稱FAS,發布關於國家安全法扣押專利的報告
+
+  - term: Speech and debate clause
+    senses:
+      - id: speech_debate_clause
+        definition: 美國憲法言論與辯論條款
+        preferred_translation: 言論與辯論條款
+        segments: [327]
+        notes: 授權國會解密資訊,參議員Gravel引用此條款的法律依據
+
+  - term: Ayatollah Khomeini
+    senses:
+      - id: khomeini_leader
+        definition: 伊朗最高領袖霍梅尼
+        preferred_translation: 霍梅尼
+        segments: [338]
+        notes: Daniel Sheehan證詞提到他決定不製造核武
+
+  - term: National Reconnaissance Office
+    senses:
+      - id: nro_agency
+        definition: 國家偵察辦公室
+        preferred_translation: 國家偵察辦公室
+        segments: [421]
+        notes: 簡稱NRO,負責衛星偵察的機構
+
+  - term: Nellis Air Force Base
+    senses:
+      - id: nellis_afb
+        definition: 內利斯空軍基地
+        preferred_translation: 內利斯空軍基地
+        segments: [421]
+        notes: 51區附近的主要空軍基地
+
+  - term: Defense Intelligence Agency
+    senses:
+      - id: dia_agency
+        definition: 國防情報局
+        preferred_translation: 國防情報局
+        segments: [427, 514]
+        notes: 簡稱DIA,General Patrick Hughes曾任局長
+
+  - term: General Patrick Hughes
+    senses:
+      - id: hughes_dia_director
+        definition: 派翠克·休斯將軍,國防情報局局長
+        preferred_translation: 派翠克·休斯將軍
+        segments: [428, 508, 514]
+        notes: 與Admiral Wilson一樣被拒絕USAP訪問權限
+
+  - term: Lockheed Skunk Works
+    senses:
+      - id: skunk_works_division
+        definition: 洛克希德臭鼬工廠,先進開發部門
+        preferred_translation: 洛克希德臭鼬工廠
+        segments: [491]
+        notes: Ben Rich領導的秘密航空研發部門

@@ -1,0 +1,451 @@
+episode_id: UFO-11
+terms:
+  # ===== A =====
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施
+        preferred_translation: 51 區
+        segments: [593, 875]
+        notes: 與 UFO 和先進航空技術研發相關的傳說地點,證人推測 Roswell 殘骸可能被送往此處
+
+  # ===== B =====
+  - term: Bill Brazel
+    senses:
+      - id: brazel_son_witness
+        definition: 牧場主人 Mack Brazel 的兒子,親眼見過殘骸碎片的證人
+        preferred_translation: 比爾·布拉澤爾
+        segments: [215]
+        notes: 描述殘骸具有記憶金屬特性,刀具無法破壞
+
+  - term: Bill Richardson
+    senses:
+      - id: richardson_governor
+        definition: 新墨西哥州前州長
+        preferred_translation: 比爾·理查森
+        segments: [523, 525, 527]
+        notes: 公開表示支持揭露 Roswell 檔案,證實 Jesse Marcel Jr. 證詞的誠實性
+
+  # ===== C =====
+  - term: Center for UFO Studies
+    senses:
+      - id: cufos_organization
+        definition: UFO 研究中心,由 Dr. J. Allen Hynek 創立
+        preferred_translation: UFO 研究中心
+        segments: [67]
+        notes: Don Schmidt 曾擔任該中心的特別調查員
+
+  - term: CIC
+    senses:
+      - id: cic_counterintelligence
+        definition: Counter Intelligence Corps,美國陸軍反情報部隊
+        preferred_translation: 反情報部隊
+        segments: [882, 883]
+        notes: 負責軍事情報與反間諜工作
+
+  - term: CIC agent
+    senses:
+      - id: cic_agent_officer
+        definition: 反情報部隊幹員
+        preferred_translation: 反情報部隊幹員
+        segments: [329]
+        notes: 指 Sheridan Cavitt,與 Major Marcel 一同前往墜毀現場
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        segments: [285, 993]
+        notes: 證人強調 Project Mogul 並非高度機密,與官方解釋矛盾
+
+  - term: Colonel Blanchard
+    senses:
+      - id: blanchard_commander
+        definition: Roswell 陸軍航空基地指揮官,後來晉升為空軍參謀長候選人
+        preferred_translation: 布蘭查德上校
+        segments: [251, 261, 328, 329, 354]
+        notes: 批准發布「捕獲飛碟」的新聞稿,後來仕途順利未受影響
+
+  - term: Colonel Thomas Dubose
+    senses:
+      - id: dubose_chief_of_staff
+        definition: General Ramey 的參謀長(非副官)
+        preferred_translation: 托馬斯·杜博斯上校
+        segments: [205]
+        notes: 在錄影帶中證實 Roswell 殘骸被轉送至 SAC 總部,氣象氣球是掩蓋故事
+
+  - term: Colonel Thomas Jefferson Dubose
+    senses:
+      - id: dubose_full_name
+        definition: General Ramey 的參謀長(全名)
+        preferred_translation: 托馬斯·傑佛遜·杜博斯上校
+        segments: [169]
+        notes: Colonel Thomas Dubose 的完整姓名
+
+  - term: Concordia University
+    senses:
+      - id: concordia_wisconsin
+        definition: 威斯康辛州協和大學,美國路德會協和大學系統成員
+        preferred_translation: 威斯康辛協和大學
+        segments: [66]
+        notes: Don Schmidt 畢業於此校,以優異成績(cum laude)畢業
+
+  - term: Condon Committee
+    senses:
+      - id: condon_committee_colorado
+        definition: 科羅拉多大學 UFO 研究委員會
+        preferred_translation: 康登委員會
+        segments: [507, 515, 516, 519]
+        notes: 證人指控該委員會的真正目的是結束藍皮書計畫,而非客觀調查
+
+  - term: Congressman Stephen Schiff
+    senses:
+      - id: schiff_congressman
+        definition: 新墨西哥州已故眾議員,推動 Roswell 國會聽證會
+        preferred_translation: 史蒂芬·希夫眾議員
+        segments: [41]
+        notes: 1990 年代努力要求五角大廈公開 Roswell 檔案但遭到阻撓
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        segments: [199, 501, 622, 623, 624, 634, 639, 837]
+        notes: 證人認為 Roswell 事件開啟了長達數十年的 UFO 真相掩蓋行動
+
+  - term: Crash at Corona
+    senses:
+      - id: crash_corona_book
+        definition: Stanton Friedman 與 Don Berliner 合著的 Roswell 研究書籍
+        preferred_translation: 《科羅納墜毀事件》
+        segments: [111]
+        notes: 討論 Corona 鎮附近的 UFO 墜毀事件
+
+  # ===== D =====
+  - term: Disclosure
+    senses:
+      - id: disclosure_nda
+        definition: 保密協議或揭露資訊
+        preferred_translation: 保密協議/揭露
+        segments: [190]
+        notes: 本集中指證人被迫簽署的保密協議(non-disclosure agreements)
+
+  - term: Dr. Albert Crary
+    senses:
+      - id: crary_project_leader
+        definition: Project Mogul 計畫負責人
+        preferred_translation: 阿爾伯特·克雷里博士
+        segments: [282]
+        notes: 他的日記記錄顯示空軍聲稱的 Mogul 4 號飛行被取消,推翻官方解釋
+
+  - term: Dr. J. Allen Hynek
+    senses:
+      - id: hynek_astronomer
+        definition: 天文學家,藍皮書計畫顧問 20 年,UFO 研究中心創始人
+        preferred_translation: J·艾倫·海尼克博士
+        segments: [88]
+        notes: 西北大學天文系主任,最初為懷疑論者後轉為支持 UFO 研究
+
+  - term: Dr. Neil Hibbler
+    senses:
+      - id: hibbler_hypnotherapist
+        definition: 催眠治療師,為 Jesse Marcel Jr. 進行催眠回溯
+        preferred_translation: 尼爾·希伯勒博士
+        segments: [439]
+        notes: 1997 年在華盛頓特區進行為期三天的催眠治療,Marcel Jr. 的記憶保持一致
+
+  # ===== E =====
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [247, 250, 527]
+        notes: Colonel Easley 暗示「外星起源」是正確的推測方向
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [18, 27, 31, 53, 92, 106, 113, 140, 260, 293, 336, 337, 390, 445, 625, 631, 708, 858, 866]
+        notes: 1947 年 Roswell 新聞稿使用的原始用語,後被收回改稱氣象氣球
+
+  # ===== G =====
+  - term: General Curtis LeMay
+    senses:
+      - id: lemay_general
+        definition: 美國空軍將軍,拒絕參議員 Goldwater 查閱 UFO 檔案
+        preferred_translation: 柯蒂斯·李梅將軍
+        segments: [574]
+        notes: 對 Goldwater 說「絕對不行,以後也別再問」
+
+  - term: General Ramey
+    senses:
+      - id: ramey_general_short
+        definition: General Roger Ramey 的簡稱
+        preferred_translation: 雷米將軍
+        segments: [354, 356, 360, 367]
+        notes: 第八航空軍司令官,在辦公室主導氣象氣球掩蓋行動
+
+  - term: General Roger Ramey
+    senses:
+      - id: ramey_eighth_af_commander
+        definition: 第八航空軍司令官,Fort Worth 基地指揮官
+        preferred_translation: 羅傑·雷米將軍
+        segments: [205]
+        notes: 在辦公室主導氣象氣球掩蓋行動,要求 Marcel 與假殘骸合照
+
+  - term: George R.R. Martin
+    senses:
+      - id: martin_author
+        definition: 科幻作家,近年因《冰與火之歌》系列聞名
+        preferred_translation: 喬治·R·R·馬丁
+        segments: [202]
+        notes: 與 Frederik Pohl 等科幻作家曾參與 UFO 相關討論
+
+  - term: German V2 rockets
+    senses:
+      - id: v2_rockets_german
+        definition: 德國 V2 火箭,二戰後由美國在白沙導彈靶場測試
+        preferred_translation: 德國 V2 火箭
+        segments: [103]
+        notes: 1947 年在新墨西哥州進行測試,該地區同時發展核武與火箭技術
+
+  # ===== I =====
+  - term: I-beams
+    senses:
+      - id: ibeams_debris
+        definition: Roswell 殘骸中的 I 型樑結構,上有類似象形文字的符號
+        preferred_translation: I 型樑
+        segments: [345]
+        notes: Jesse Marcel Jr. 描述的獨特殘骸,上面刻有紫色象形符號
+
+  # ===== J =====
+  - term: Jesse Marcel
+    senses:
+      - id: marcel_intelligence_officer
+        definition: 509th Bomb Group 情報官,首位抵達 Roswell 墜毀現場的軍官
+        preferred_translation: 傑西·馬塞爾
+        segments: [120, 131, 181]
+        notes: 1978 年首次公開作證,打破 30 年沉默,是 Roswell 事件關鍵證人
+
+  - term: Joseph DeGenova
+    senses:
+      - id: degenova_attorney
+        definition: 美國前司法部長
+        preferred_translation: 約瑟夫·德傑諾瓦
+        segments: [50]
+        notes: 曾表示「情況證據往往比目擊證詞更強,因為它基於事實」
+
+  # ===== M =====
+  - term: Mack Brazel
+    senses:
+      - id: brazel_rancher
+        definition: 牧場主人,首位發現 Roswell 殘骸的平民
+        preferred_translation: 麥克·布拉澤爾
+        segments: [324, 325]
+        notes: 向警長報告後被軍方扣留數日,被要求保持沉默
+
+  - term: Majestic
+    senses:
+      - id: majestic_book_mj12
+        definition: 書名,與 MJ-12 秘密組織相關
+        preferred_translation: 《絕密計畫》
+        segments: [543]
+        notes: Dick D'Amato 辦公室桌上的書籍,暗示對 MJ-12 的認知
+
+  # ===== N =====
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [509]
+        notes: 空軍要求康登委員會報告必須聲明 UFO 不影響國家安全
+
+  # ===== P =====
+  - term: Plains of San Agustin
+    senses:
+      - id: plains_crash_site
+        definition: 新墨西哥州聖奧古斯丁平原,1947 年另一處疑似墜毀地點
+        preferred_translation: 聖奧古斯丁平原
+        segments: [107, 138]
+        notes: 距離 Roswell 西方約 100 英里,同時期發生的未公開墜毀事件
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        segments: [83, 89, 194, 195, 501, 502, 503, 515]
+        notes: 證人指控該計畫是有計畫地被軍方策劃關閉
+
+  - term: Project Blue Book Special Report 14
+    senses:
+      - id: bluebook_report_14
+        definition: 美國空軍委託的最大規模 UFO 研究報告,涵蓋 3,200 個案例
+        preferred_translation: 藍皮書特別報告 14 號
+        segments: [83]
+        notes: 由 Battelle 研究所執行,懷疑論者刻意忽略此報告
+
+  - term: Project Mogul
+    senses:
+      - id: project_mogul_balloon
+        definition: 美國空軍聲稱的氣象氣球計畫,用於解釋 Roswell 事件
+        preferred_translation: 莫古爾計畫
+        segments: [42, 281]
+        notes: 證人指出該計畫並非高度機密,且相關飛行記錄與官方說法矛盾
+
+  - term: Provost Marshal
+    senses:
+      - id: provost_marshal_military
+        definition: 軍事基地的憲兵司令,負責安全與紀律
+        preferred_translation: 憲兵司令
+        segments: [198, 231, 232]
+        notes: 類似警察局長,但還負責基地安全等職責,Colonel Easley 擔任此職
+
+  # ===== R =====
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [22, 27, 30, 36, 52, 55, 70, 71, 107, 151, 157, 176, 177, 182, 203, 207, 208, 211, 212, 213, 218, 243, 251, 254, 256, 257, 258, 268, 272, 295, 299, 312, 323, 328, 375, 388, 422, 467, 527, 533, 535, 547, 552, 567, 575, 579, 605, 619, 622, 634, 639, 656, 663, 667, 706, 712, 725, 731, 738, 765, 886]
+        notes: UFO 史上最著名的事件,本集聽證會的核心主題
+
+  - term: Roswell Army Air Field
+    senses:
+      - id: roswell_aaf_base
+        definition: 羅斯威爾陸軍航空基地,509th Bomb Group 駐地
+        preferred_translation: 羅斯威爾陸軍航空基地
+        segments: [27]
+        notes: 1947 年 7 月 8 日發布「捕獲飛碟」新聞稿的單位
+
+  # ===== S =====
+  - term: Shag Harbor
+    senses:
+      - id: shag_harbor_case
+        definition: 加拿大新斯科細亞省的 UFO 墜海事件
+        preferred_translation: 沙格港事件
+        segments: [517]
+        notes: 康登委員會僅打電話至加拿大敷衍調查,未認真處理此案
+
+  - term: Sheriff George Wilcox
+    senses:
+      - id: wilcox_sheriff
+        definition: Chavez 郡警長,接獲 Mack Brazel 報告的執法人員
+        preferred_translation: 喬治·威爾考克斯警長
+        segments: [765]
+        notes: 將 Brazel 的報告轉交給 Roswell 基地指揮官
+
+  - term: Stan Friedman
+    senses:
+      - id: friedman_researcher
+        definition: 核物理學家 Stanton Friedman 的簡稱
+        preferred_translation: 史丹·佛烈德曼
+        segments: [364]
+        notes: 1978 年首次訪問 Major Jesse Marcel,開啟 Roswell 調查
+
+  - term: Steven Schiff
+    senses:
+      - id: schiff_steven
+        definition: 眾議員 Stephen Schiff 的名字變體
+        preferred_translation: 史蒂芬·希夫
+        segments: [572]
+        notes: Stephen 的另一種拼法,指同一人
+
+  # ===== T =====
+  - term: Trinity site
+    senses:
+      - id: trinity_test_site
+        definition: 新墨西哥州第一顆原子彈試爆地點
+        preferred_translation: 三位一體核試驗場
+        segments: [102]
+        notes: 1945 年 7 月 16 日,世界首次核試驗地點,位於白沙導彈靶場
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object,不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [29, 67, 71, 199, 203, 210, 257, 422, 436, 453]
+        notes: 本集討論 Roswell 墜毀飛行器的性質
+
+  - term: UFO Crash at Roswell
+    senses:
+      - id: ufo_crash_book
+        definition: Don Schmidt 等人撰寫的 Roswell 事件暢銷書
+        preferred_translation: 《羅斯威爾 UFO 墜毀事件》
+        segments: [71]
+        notes: 1994 年改編為電影,由 Kyle MacLachlan 主演
+
+  - term: United States Army Air Corps
+    senses:
+      - id: usaac_military
+        definition: 美國陸軍航空隊,空軍獨立前的名稱
+        preferred_translation: 美國陸軍航空隊
+        segments: [31]
+        notes: 1947 年 Roswell 事件發生時的軍種名稱,1947 年 9 月改組為美國空軍
+
+  - term: University of Colorado study
+    senses:
+      - id: colorado_study_ufo
+        definition: 科羅拉多大學進行的 UFO 研究,即康登報告
+        preferred_translation: 科羅拉多大學研究報告
+        segments: [91]
+        notes: 耗資 53.9 萬美元,965 頁報告,結論被官方扭曲
+
+  # ===== W =====
+  - term: White Sands Missile Range
+    senses:
+      - id: white_sands_range
+        definition: 新墨西哥州白沙導彈靶場
+        preferred_translation: 白沙導彈靶場
+        segments: [102]
+        notes: 三位一體核試驗場所在地,戰後測試德國 V2 火箭的地點
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [40, 78, 79, 180, 189, 375, 815]
+        notes: 本集包含多位 Roswell 第一手證人與研究者證詞
+
+  - term: Wright Field
+    senses:
+      - id: wright_field_base
+        definition: 俄亥俄州代頓的空軍基地,後改名 Wright-Patterson 空軍基地
+        preferred_translation: 萊特機場
+        segments: [592, 872, 873]
+        notes: Roswell 殘骸的最終運送目的地
+
+  - term: Wright-Patterson Air Force Base
+    senses:
+      - id: wright_patterson_afb
+        definition: 俄亥俄州代頓市附近的美國空軍基地
+        preferred_translation: 萊特-帕特森空軍基地
+        segments: [871]
+        notes: 傳說中儲存 UFO 殘骸和外星遺體的地點,Project Blue Book 總部
+
+  # ===== 5 =====
+  - term: 509th Bomb Group
+    senses:
+      - id: 509th_bomb_group_unit
+        definition: 第 509 轟炸大隊,執行廣島長崎原子彈任務的精銳部隊
+        preferred_translation: 509 轟炸大隊
+        segments: [22]
+        notes: 1947 年駐紮 Roswell,是當時唯一擁有核武能力的部隊
+
+  - term: 509th Composite Bomb Group
+    senses:
+      - id: 509th_composite_unit
+        definition: 第 509 混合轟炸大隊(完整名稱)
+        preferred_translation: 509 混合轟炸大隊
+        segments: [312]
+        notes: Major Jesse Marcel 所屬單位的完整名稱

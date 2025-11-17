@@ -1,0 +1,645 @@
+episode_id: UFO-12
+terms:
+  # ===== A =====
+  - term: abduction stories
+    senses:
+      - id: abduction_stories_accounts
+        definition: 聲稱遭遇外星綁架的證人敘述
+        preferred_translation: 綁架案例
+        segments: [82]
+        notes: Stanton Friedman 引用 Betty and Barney Hill 案例作為 humanoids 存在的證據
+
+  - term: Alamogordo, New Mexico
+    senses:
+      - id: alamogordo_location
+        definition: 新墨西哥州阿拉莫戈多市，Colonel French 證詞中的 UFO 事件地點
+        preferred_translation: 新墨西哥州阿拉莫戈多
+        segments: [22]
+        notes: 1960年代末期 Colonel French 在此附近目擊 UFO 被擊落事件。Segment 81 中以簡稱 "Alamogordo" 出現
+
+  - term: Armed Services Committee
+    senses:
+      - id: armed_services_committee
+        definition: 美國國會軍事委員會
+        preferred_translation: 軍事委員會
+        segments: [398]
+        notes: 評審小組成員之一曾在此委員會服務20年
+
+  # ===== B =====
+  - term: The Betty and Barney Hill UFO Experience
+    senses:
+      - id: hill_ufo_book
+        definition: Stanton Friedman 與 Kathleen Marden 合著的綁架案例書籍
+        preferred_translation: 《貝蒂與巴尼·希爾的 UFO 體驗》
+        segments: [84, 86]
+        notes: 記錄1961年新罕布夏州著名外星綁架案例，由精神科醫師 Dr. Benjamin Simon 調查
+
+  - term: Bill Brazel
+    senses:
+      - id: bill_brazel_son
+        definition: Mack Brazel 的兒子
+        preferred_translation: 比爾·布拉澤爾
+        segments: [237, 242]
+        notes: 從報紙得知父親被軍方拘留後前往牧場
+
+  - term: biological symmetry
+    senses:
+      - id: biological_symmetry_theory
+        definition: 生物對稱性理論，推測宇宙各處智慧生命可能具有相似的身體結構
+        preferred_translation: 生物對稱性
+        segments: [313]
+        notes: Dr. Michael D. Swords 提出的理論，解釋為何外星生命多為類人形態
+
+  - term: Blanchard
+    senses:
+      - id: blanchard_commander
+        definition: 羅斯威爾陸軍航空基地指揮官
+        preferred_translation: 布蘭查德
+        segments: [121]
+        notes: CIC 軍官 Cavett 應向他報告但未報告，導致發布飛碟新聞稿
+
+  - term: Brazel
+    senses:
+      - id: brazel_rancher
+        definition: 發現羅斯威爾殘骸的牧場主 Mack Brazel（簡稱）
+        preferred_translation: 布拉澤爾
+        segments: [219, 222, 226, 229, 234, 237, 242]
+        notes: 證詞中常用姓氏簡稱，完整名稱見 Mack Brazel 條目
+
+  - term: briefing paper
+    senses:
+      - id: briefing_paper_document
+        definition: 簡報文件，用於向國會議員說明羅斯威爾案情的摘要資料
+        preferred_translation: 簡報文件
+        segments: [181, 183]
+        notes: 評審小組建議研究者準備簡潔的簡報文件以便向國會推廣
+
+  # ===== C =====
+  - term: CAA
+    senses:
+      - id: caa_aviation_authority
+        definition: Civil Aeronautics Administration，美國民航管理局（FAA前身）
+        preferred_translation: 民航管理局
+        segments: [269]
+        notes: Project Mogul 應向 CAA 申報飛行通知（NOTAM）但未申報
+
+  - term: Carolyn Kirkpatrick
+    senses:
+      - id: kirkpatrick_panelist
+        definition: 前美國眾議員，聽證會評審小組成員
+        preferred_translation: 卡蘿琳·柯派翠克
+        segments: [123]
+        notes: 要求研究者提供羅斯威爾調查的科學理由
+
+  - term: Charles Moore
+    senses:
+      - id: moore_scientist
+        definition: Project Mogul 科學家
+        preferred_translation: 查爾斯·摩爾
+        segments: [265, 269]
+        notes: 聲稱 Project Mogul 高度機密，但證據顯示其說法矛盾
+
+  - term: CIC
+    senses:
+      - id: cic_corps
+        definition: Counter Intelligence Corps，陸軍反情報部隊
+        preferred_translation: 反情報部隊（CIC）
+        segments: [107, 114, 121]
+        notes: Sheridan Cavett 所屬單位，在羅斯威爾為 Class II 設施，不直接向基地指揮官報告
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        segments: [101, 158, 363, 364, 365, 371, 376, 379, 382, 383, 404]
+        notes: 本集大量討論 Project Mogul 的機密等級爭議
+
+  - term: Colonel Paul Sleeper
+    senses:
+      - id: sleeper_officer
+        definition: 萊特-帕特森空軍基地外星科技部門主管
+        preferred_translation: 保羅·斯利珀上校
+        segments: [30]
+        notes: Colonel French 證詞指出殘骸和遺體被送交他主管的單位
+
+  - term: Colonel Richard Weaver
+    senses:
+      - id: weaver_pentagon
+        definition: 五角大廈上校，負責撰寫 Project Mogul 報告
+        preferred_translation: 理查德·韋弗上校
+        segments: [117]
+        notes: 訪問 Sheridan Cavett 以支持 Project Mogul 解釋，但證詞矛盾
+
+  - term: Congressman Schiff
+    senses:
+      - id: schiff_congressman_short
+        definition: 前美國眾議員，要求 GAO 調查羅斯威爾事件（簡稱形式）
+        preferred_translation: 希夫眾議員
+        segments: [362]
+        notes: 全名為 Stephen Schiff，文本中 segment 362 使用簡稱形式
+
+  - term: Congressman Stephen Schiff
+    senses:
+      - id: schiff_congressman_full
+        definition: 前美國眾議員，要求 GAO 調查羅斯威爾事件（全名）
+        preferred_translation: 史蒂芬·希夫眾議員
+        segments: [125]
+        notes: 推動 GAO 調查，發現羅斯威爾基地1947年夏季所有記錄被銷毀
+
+  # ===== D =====
+  - term: Dan Dwyer
+    senses:
+      - id: dwyer_firefighter
+        definition: 羅斯威爾消防隊員，Frankie Rowe 的父親
+        preferred_translation: 丹·德懷爾
+        segments: [97]
+        notes: 目擊墜毀現場遺體，向家人描述後遭軍方警告
+
+  - term: deathbed declarations
+    senses:
+      - id: deathbed_declarations_testimony
+        definition: 臨終證詞，法律上可採信的證據
+        preferred_translation: 臨終證詞
+        segments: [127]
+        notes: 許多羅斯威爾證人臨終前作證，在法庭上具有證據效力
+
+  - term: Dee Proctor
+    senses:
+      - id: proctor_witness
+        definition: 年輕牧場工人，聲稱與 Mack Brazel 一同發現遺體
+        preferred_translation: 迪·普羅克特
+        segments: [94]
+        notes: 在距離殘骸場數英里外的另一地點發現遺體
+
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [81, 125]
+        notes: 研究者請求評審小組建議如何推動羅斯威爾案真相揭露。Segment 81 中作為 "non-disclosure" 出現
+
+  - term: Dr. Albert Crary's diary
+    senses:
+      - id: crary_diary_document
+        definition: Albert Crary 博士1947年的日記，記錄 Project Mogul 實驗
+        preferred_translation: 艾伯特·克雷里博士的日記
+        segments: [262]
+        notes: 日記中出現 "Mogul" 名稱，證明該名稱並非絕密
+
+  - term: Dr. Benjamin Simon
+    senses:
+      - id: simon_psychiatrist
+        definition: 精神科醫師，調查 Betty and Barney Hill 綁架案
+        preferred_translation: 班傑明·賽門博士
+        segments: [84]
+        notes: 曾治療3,000名戰爭創傷退伍軍人，確認 Hill 夫婦的創傷真實性
+
+  - term: Dr. Crary's diary
+    senses:
+      - id: crary_diary_1947
+        definition: Dr. Albert Crary 於1947年記錄的日記（簡稱）
+        preferred_translation: 克雷里博士的日記
+        segments: [101]
+        notes: 與 "Dr. Albert Crary's diary" 同義，證明 Mogul 名稱非絕密
+
+  - term: Dr. George Kristof
+    senses:
+      - id: kristof_colonel
+        definition: 空軍上校醫師，Colonel French 的友人
+        preferred_translation: 喬治·克里斯托夫博士
+        segments: [76, 77]
+        notes: 向 Colonel French 證實殘骸被送往萊特-帕特森空軍基地
+
+  # ===== E =====
+  - term: Edwin Easley
+    senses:
+      - id: easley_provost_marshal
+        definition: 羅斯威爾基地憲兵司令
+        preferred_translation: 艾德溫·伊斯利
+        segments: [235]
+        notes: 證實 Mack Brazel 被拘留在基地賓館
+
+  - term: England Air Force Base
+    senses:
+      - id: england_afb_louisiana
+        definition: 路易斯安那州亞歷山卓市的英格蘭空軍基地
+        preferred_translation: 英格蘭空軍基地
+        segments: [21]
+        notes: Colonel French 在1960年代的駐地
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [98]
+        notes: 證人討論宇宙浩瀚與外星訪問的可能性
+
+  # ===== F =====
+  - term: FAA
+    senses:
+      - id: faa_aviation_administration
+        definition: Federal Aviation Administration，美國聯邦航空管理局
+        preferred_translation: 聯邦航空管理局
+        segments: [272, 274]
+        notes: Project Mogul 未向 FAA 申報飛行通知，成為爭議點
+
+  - term: Fawn Fritz
+    senses:
+      - id: fritz_granddaughter
+        definition: Mack Brazel 的孫女
+        preferred_translation: 芳恩·弗里茨
+        segments: [94]
+        notes: 聽祖父提到「不幸的生物」，證實遺體存在
+
+  - term: FBI telex
+    senses:
+      - id: fbi_telex_document
+        definition: FBI 達拉斯分局於1947年發出的電報
+        preferred_translation: FBI 電報
+        segments: [353]
+        notes: 電報發送於氣象氣球解釋發布當晚，記錄事件經過
+
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [84, 115, 121, 129, 134, 139]
+        notes: 陸軍航空隊1947年7月8日官方新聞稿宣布「捕獲飛碟」
+
+  - term: Foreign Technology Division
+    senses:
+      - id: foreign_tech_division
+        definition: 萊特-帕特森空軍基地的外星科技部門
+        preferred_translation: 外星科技部門
+        segments: [30]
+        notes: 由 Colonel Paul Sleeper 主管，接收 UFO 殘骸和遺體
+
+  - term: Frank Joyce
+    senses:
+      - id: joyce_reporter
+        definition: KGFL 電台記者
+        preferred_translation: 法蘭克·喬伊斯
+        segments: [90]
+        notes: 與 Mack Brazel 通話，Brazel 堅稱遺體「不是人類」
+
+  - term: Frankie Rowe
+    senses:
+      - id: rowe_witness
+        definition: 消防隊員 Dan Dwyer 的女兒
+        preferred_translation: 法蘭基·羅威
+        segments: [94, 97]
+        notes: 父親目擊遺體後向家人描述，全家遭軍方警告
+
+  # ===== G =====
+  - term: GAO
+    senses:
+      - id: gao_office
+        definition: General Accounting Office，美國總審計辦公室（簡稱）
+        preferred_translation: 總審計辦公室
+        segments: [155]
+        notes: 在 Congressman Schiff 要求下調查羅斯威爾，發現記錄被銷毀
+
+  - term: General Accounting Office
+    senses:
+      - id: gao_full_name
+        definition: 美國總審計辦公室（全名）
+        preferred_translation: 總審計辦公室
+        segments: [154]
+        notes: Congressman Schiff 透過此機構要求調查羅斯威爾記錄
+
+  - term: General Assembly
+    senses:
+      - id: un_general_assembly
+        definition: 聯合國大會
+        preferred_translation: 聯合國大會
+        segments: [465]
+        notes: 前參議員建議透過聯合國大會推動全球 UFO 會議
+
+  - term: General Groves
+    senses:
+      - id: groves_manhattan
+        definition: 曼哈頓計畫主管將軍
+        preferred_translation: 格羅夫斯將軍
+        segments: [433]
+        notes: 1948年仍低估蘇聯核武能力，顯示冷戰初期的情報焦慮
+
+  - term: Gulf Breeze, Florida
+    senses:
+      - id: gulf_breeze_sightings
+        definition: 佛羅里達州海灣微風市，頻繁出現 UFO 目擊
+        preferred_translation: 佛羅里達州海灣微風
+        segments: [32]
+        notes: Colonel French 在 OSI 時期被要求將目擊事件解釋為「沼澤氣體」
+
+  # ===== H =====
+  - term: Holloman Air Force Base
+    senses:
+      - id: holloman_afb_nm
+        definition: 新墨西哥州霍洛曼空軍基地
+        preferred_translation: 霍洛曼空軍基地
+        segments: [28]
+        notes: Colonel French 證詞中殘骸和遺體的初步送達地點
+
+  - term: humanoid
+    senses:
+      - id: humanoid_singular
+        definition: 類人形態的外星生命體（單數形式）
+        preferred_translation: 類人生物
+        segments: [313, 318, 320, 323, 327, 329]
+        notes: 與 "humanoids" 複數形式同義，討論外星生命的身體特徵
+
+  - term: humanoids
+    senses:
+      - id: humanoids_beings
+        definition: 類人形態的外星生命體（複數形式）
+        preferred_translation: 類人生物
+        segments: [27, 52, 60, 68, 81, 83, 84]
+        notes: 本集高頻術語，Colonel French 證詞和研究者討論的核心概念。單數形式見 "humanoid" 條目
+
+  # ===== J =====
+  - term: Jud Roberts
+    senses:
+      - id: roberts_station_owner
+        definition: KGFL 電台少數股東
+        preferred_translation: 賈德·羅伯茨
+        segments: [228]
+        notes: 作證電台遭國會代表威脅，不得播放 Brazel 訪談
+
+  # ===== K =====
+  - term: KGFL
+    senses:
+      - id: kgfl_radio_station
+        definition: 羅斯威爾當地廣播電台（簡稱）
+        preferred_translation: KGFL 電台
+        segments: [226, 228]
+        notes: 與 "radio station KGFL" 同義，錄製 Brazel 訪談但遭軍方阻止播放
+
+  # ===== L =====
+  - term: Lieutenant Colonel Richard French
+    senses:
+      - id: french_witness
+        definition: 美國空軍退役中校，聽證會證人
+        preferred_translation: 理查德·弗倫奇中校
+        segments: [19]
+        notes: 本集主要證人，證實1960年代末在阿拉莫戈多附近目擊 UFO 擊落事件
+
+  # ===== M =====
+  - term: Mack Brazel
+    senses:
+      - id: brazel_rancher_full
+        definition: 發現羅斯威爾殘骸的牧場主（全名：William W. "Mac" Brazel）
+        preferred_translation: 麥克·布拉澤爾
+        segments: [88, 90]
+        notes: 1947年發現殘骸並報告後遭軍方拘留4-6天
+
+  - term: Major Marcel
+    senses:
+      - id: marcel_intelligence_officer
+        definition: 羅斯威爾基地情報官
+        preferred_translation: 馬瑟爾少校
+        segments: [118, 218]
+        notes: 負責調查殘骸，Cavett 應向他報告但未報告
+
+  - term: Manhattan Project
+    senses:
+      - id: manhattan_project_program
+        definition: 美國二戰期間的原子彈研發計畫
+        preferred_translation: 曼哈頓計畫
+        segments: [433]
+        notes: 用於對比冷戰初期美國對蘇聯核武能力的擔憂
+
+  - term: Marion Strickland
+    senses:
+      - id: strickland_neighbor
+        definition: Mack Brazel 的鄰居
+        preferred_translation: 瑪莉安·史崔克蘭
+        segments: [234]
+        notes: Brazel 向她透露被軍方拘留數日
+
+  # ===== N =====
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        segments: [114, 439]
+        notes: Sheridan Cavett 詢問研究者是否會保密威脅國家安全的資訊
+
+  - term: National Security Council
+    senses:
+      - id: nsc_council
+        definition: 美國國家安全委員會
+        preferred_translation: 國家安全委員會
+        segments: [439]
+        notes: 1950年代初期備忘錄顯示對蘇聯核武進展的擔憂
+
+  # ===== O =====
+  - term: Office of Special Investigations
+    senses:
+      - id: osi_afosi
+        definition: 美國空軍特別調查辦公室
+        preferred_translation: 特別調查辦公室（OSI）
+        segments: [30]
+        notes: Colonel French 曾在此單位服務，負責調查 UFO 目擊
+
+  # ===== P =====
+  - term: Pascagoula
+    senses:
+      - id: pascagoula_incident
+        definition: 密西西比州帕斯卡古拉市，1973年著名 UFO 綁架案地點
+        preferred_translation: 帕斯卡古拉
+        segments: [329]
+        notes: 證人描述的外星生物外形與典型類人形態略有不同
+
+  - term: proctors
+    senses:
+      - id: proctors_family
+        definition: Proctor 家族，Mack Brazel 的鄰居
+        preferred_translation: 普羅克特家族
+        segments: [234]
+        notes: Brazel 向他們透露被軍方拘留的經歷
+
+  - term: Project Mogul
+    senses:
+      - id: project_mogul_balloon
+        definition: 美國空軍聲稱的羅斯威爾氣象氣球計畫
+        preferred_translation: 莫古爾計畫
+        segments: [101, 102, 117, 118, 267, 282, 386]
+        notes: 本集核心議題，研究者系統性駁斥此解釋的合理性
+
+  - term: provost marshal
+    senses:
+      - id: provost_marshal_position
+        definition: 憲兵司令，基地安全主管
+        preferred_translation: 憲兵司令
+        segments: [235]
+        notes: Edwin Easley 的職位
+
+  - term: PTSD
+    senses:
+      - id: ptsd_disorder
+        definition: Post-Traumatic Stress Disorder，創傷後壓力症候群
+        preferred_translation: 創傷後壓力症候群
+        segments: [84]
+        notes: Dr. Benjamin Simon 專精此領域，確認 Hill 夫婦的創傷真實性
+
+  # ===== R =====
+  - term: radio station KGFL
+    senses:
+      - id: kgfl_radio_full
+        definition: 羅斯威爾當地廣播電台（全名）
+        preferred_translation: KGFL 電台
+        segments: [90]
+        notes: Frank Joyce 所屬電台，錄製 Brazel 訪談但遭阻止播放
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [88, 97, 101, 102, 103, 113, 114, 121, 124, 125, 126, 128, 155, 170, 224, 232, 240, 244, 446]
+        notes: 本集核心主題，詳細討論證人證詞與政府解釋的矛盾
+
+  # ===== S =====
+  - term: Security Council
+    senses:
+      - id: un_security_council
+        definition: 聯合國安全理事會
+        preferred_translation: 聯合國安理會
+        segments: [464]
+        notes: 前參議員認為美國控制安理會，無法透過此途徑推動 UFO 揭露
+
+  - term: Sheriff George Wilcox
+    senses:
+      - id: wilcox_sheriff
+        definition: 羅斯威爾郡警長
+        preferred_translation: 喬治·威爾考克斯警長
+        segments: [90]
+        notes: Mack Brazel 首先向他報告發現殘骸
+
+  - term: Sheridan Cavett
+    senses:
+      - id: cavett_cic_officer
+        definition: 羅斯威爾基地 CIC 反情報軍官
+        preferred_translation: 謝里丹·卡維特
+        segments: [114]
+        notes: 多次否認在場，後成為空軍 Mogul 報告的唯一證人，證詞矛盾
+
+  - term: Stanton Friedman
+    senses:
+      - id: friedman_researcher
+        definition: 核物理學家，資深 UFO 研究者
+        preferred_translation: 史坦頓·弗里德曼
+        segments: [81, 113]
+        notes: 《Crash at Corona》作者，系統性駁斥 Project Mogul 解釋
+
+  - term: suborbital primate flight
+    senses:
+      - id: suborbital_primate_test
+        definition: 次軌道靈長類動物飛行測試
+        preferred_translation: 次軌道靈長類飛行
+        segments: [259, 260]
+        notes: 證人確認1960年才開始此類測試，排除1947年的相關可能性
+
+  - term: swamp gas
+    senses:
+      - id: swamp_gas_explanation
+        definition: 沼澤氣體，軍方對 UFO 目擊的官方解釋術語
+        preferred_translation: 沼澤氣體
+        segments: [32]
+        notes: Colonel French 在 OSI 時期被要求用此解釋 Gulf Breeze 的 UFO 目擊
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [84, 86, 320, 415]
+        notes: 討論 UFO 目擊中的類人生物特徵
+
+  - term: United Nations
+    senses:
+      - id: united_nations_organization
+        definition: 聯合國
+        preferred_translation: 聯合國
+        segments: [463]
+        notes: 前參議員建議透過聯合國推動全球 UFO 會議
+
+  - term: United States Air Force
+    senses:
+      - id: usaf_branch
+        definition: 美國空軍
+        preferred_translation: 美國空軍
+        segments: [19]
+        notes: Colonel French 的服役單位
+
+  - term: United States Army Air Corps
+    senses:
+      - id: usaac_historical
+        definition: 美國陸軍航空隊（空軍前身）
+        preferred_translation: 美國陸軍航空隊
+        segments: [129]
+        notes: 1947年7月8日官方宣布「捕獲飛碟」的單位
+
+  # ===== V =====
+  - term: vacuum tube radars
+    senses:
+      - id: vacuum_tube_radar_tech
+        definition: 真空管雷達，需持續開啟以保持溫度
+        preferred_translation: 真空管雷達
+        segments: [420]
+        notes: 理論推測白沙靶場的強力雷達可能干擾 UFO 導航系統
+
+  # ===== W =====
+  - term: Walt Whitmore
+    senses:
+      - id: whitmore_station_owner
+        definition: KGFL 電台大股東
+        preferred_translation: 華特·惠特莫爾
+        segments: [229]
+        notes: 將 Brazel 帶往軍事基地
+
+  - term: White Sands
+    senses:
+      - id: white_sands_range
+        definition: 白沙飛彈試驗場，新墨西哥州
+        preferred_translation: 白沙靶場
+        segments: [23, 94, 420]
+        notes: Colonel French 目擊事件地點附近，也是火箭測試場地
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        segments: [11, 117, 118]
+        notes: 本集討論多位關鍵證人的證詞可信度
+
+  - term: Wright Patterson Air Force Base
+    senses:
+      - id: wright_patterson_destination
+        definition: 俄亥俄州萊特-帕特森空軍基地（全名無連字號）
+        preferred_translation: 萊特-帕特森空軍基地
+        segments: [30]
+        notes: 殘骸和遺體的最終送達地點，與 "Wright-Patterson" 為同一基地
+
+  - term: Wright-Patterson
+    senses:
+      - id: wright_patterson_short
+        definition: 萊特-帕特森空軍基地（簡稱）
+        preferred_translation: 萊特-帕特森
+        segments: [340, 345, 352]
+        notes: 與 "Wright-Patterson Air Force Base" 同義
+
+  - term: Wright-Patterson Air Force Base
+    senses:
+      - id: wright_patterson_afb
+        definition: 俄亥俄州萊特-帕特森空軍基地（全名含連字號）
+        preferred_translation: 萊特-帕特森空軍基地
+        segments: [75]
+        notes: 傳說中儲存 UFO 殘骸和外星遺體的地點
