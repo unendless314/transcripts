@@ -127,217 +127,217 @@
 → {"text": "我希望這件事就此過去。", "confidence": "high", "notes": ""}
 
 86. And so I did.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "於是我照做了。", "confidence": "high", "notes": ""}
 
 87. I wrote out four long pages of documents, my statement on the legal paper.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我在法律用紙上寫了整整四頁的文件，我的陳述。", "confidence": "high", "notes": ""}
 
 88. They came back in about 20, 25 minutes, and they have a typed half-page document that is out now on the Internet, and they say it's my statement.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們大約 20、25 分鐘後回來，拿著一份打字的半頁文件，現在這份文件在網路上流傳，他們說這是我的陳述。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 7
 
 89. History Channel.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "歷史頻道。", "confidence": "high", "notes": ""}
 
 90. The History Channel.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "歷史頻道。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 8
 
 91. They're out all over it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "到處都有。", "confidence": "high", "notes": ""}
 
 92. It's not my statement.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那不是我的陳述。", "confidence": "high", "notes": ""}
 
 93. In there it says that I got within 50 feet.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "裡面說我接近到 50 英呎內。", "confidence": "high", "notes": ""}
 
 94. It says it's a metallic object, and it's very, very, very general.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它說那是一個金屬物體，而且非常、非常、非常籠統。", "confidence": "high", "notes": ""}
 
 95. And the agent says -- and I'm not sure if these are OSI agents, but I was in the OSI building.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後那個特工說——我不確定這些人是不是特別調查處的特工，但我是在特別調查處的建築裡。", "confidence": "high", "notes": ""}
 
 96. Let me clarify that too.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "讓我也澄清這一點。", "confidence": "high", "notes": ""}
 
 97. I knew all the agents, but I didn't know these people.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我認識所有的特工，但我不認識這些人。", "confidence": "high", "notes": ""}
 
 98. And they said, "Okay, read this statement."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後他們說：「好，讀這份陳述。」", "confidence": "high", "notes": ""}
 
 99. And I said, "Okay."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「好的。」", "confidence": "high", "notes": ""}
 
 100. And he said, "Read it again."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說：「再讀一遍。」", "confidence": "high", "notes": ""}
 
 101. I said, "Okay."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「好的。」", "confidence": "high", "notes": ""}
 
 102. And they said, "We want you to memorize it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後他們說：「我們要你把它背下來。", "confidence": "high", "notes": ""}
 
 103. Read it again."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "再讀一遍。」", "confidence": "high", "notes": ""}
 
 104. I said, "Okay."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「好的。」", "confidence": "high", "notes": ""}
 
 105. And he said, "This is the official statement that you're going to give your command element or anybody else from this point on that asks about it, because this is a classified investigation, and OSI can operate outside the chain of command.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說：「從現在開始，這就是你要向你的指揮系統或任何其他詢問此事的人所提供的官方陳述，因為這是機密調查，而特別調查處可以在指揮鏈之外運作。", "confidence": "high", "notes": "Classified 根據 terminology.yaml 翻譯為「機密」"}
 
 106. They do it over in England.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們在英國就是這樣運作的。", "confidence": "high", "notes": ""}
 
 107. At that time they actually worked for the State Department."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當時他們實際上是為國務院工作的。」", "confidence": "high", "notes": "State Department 根據 terminology.yaml 翻譯為「國務院」"}
 
 108. And I said, "Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「好的。", "confidence": "high", "notes": ""}
 
 109. No problem."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒問題。」", "confidence": "high", "notes": ""}
 
 110. General orders by -- because it's an active investigation by whoever those are -- people in front of me.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "將軍的命令——因為這是由我面前這些人——不管他們是誰——進行的積極調查。", "confidence": "high", "notes": ""}
 
 111. And so that's why I report to the Wing Commander.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以這就是為什麼我向聯隊指揮官報告。", "confidence": "high", "notes": "Wing Commander 根據 terminology.yaml 翻譯為「聯隊指揮官」"}
 
 112. He doesn't even blink an eye when General Williams does it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當 Williams 將軍這樣做時，他甚至眼睛都不眨一下。", "confidence": "high", "notes": ""}
 
 113. He said, "Listen --" General Williams is the Wing Commander at that point.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說：「聽著——」Williams 將軍當時是聯隊指揮官。", "confidence": "high", "notes": ""}
 
 114. General -- Major General Williams, that's what he -- at the time he was Colonel Williams.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "將軍——Williams 少將，那是他——當時他是 Williams 上校。", "confidence": "high", "notes": "根據 terminology.yaml，Colonel Williams 後來晉升為 Major General Williams"}
 
 115. You retired a Major General.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您是以少將軍階退伍的。", "confidence": "high", "notes": ""}
 
 116. And when we reported into Colonel Halt's office, I briefly talked to Colonel Conrad, who was the base commander at the time -- Colonel Halt worked for him.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當我們向 Halt 上校的辦公室報告時，我簡短地與 Conrad 上校交談，他當時是基地指揮官——Halt 上校在他手下工作。", "confidence": "high", "notes": "根據 terminology.yaml，Colonel Halt 是副基地指揮官，Colonel Conrad 是基地指揮官"}
 
 117. And then John and I met up there, and then we went in and talked to the Wing Commander -- reported into the Wing Commander -- and explained the -- I gave him the OSI statement.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後 John 和我在那裡會合，接著我們進去與聯隊指揮官交談——向聯隊指揮官報告——並解釋——我給了他特別調查處的陳述。", "confidence": "high", "notes": ""}
 
 118. I mean, I told him that's what happened.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的意思是，我告訴他那就是發生的事。", "confidence": "high", "notes": ""}
 
 119. It was general, and he thanked us very much for our time and told us that he appreciated the candor that we had.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "內容很籠統，他非常感謝我們的時間，並告訴我們他很感激我們的坦誠。", "confidence": "high", "notes": ""}
 
 120. And he never asked one question.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而他從頭到尾沒問一個問題。", "confidence": "high", "notes": ""}
 
 121. And so there's where the cover-up probably started.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以真相掩蓋可能就是從那裡開始的。", "confidence": "high", "notes": ""}
 
 122. It started by the issuance of that statement from OSI.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它始於特別調查處發布的那份陳述。", "confidence": "high", "notes": ""}
 
 123. You submitted -- Sergeant, you submitted that statement, so it really kind of started as you were writing the statement and submitting it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您提交了——中士，您提交了那份陳述，所以它實際上是在您撰寫和提交陳述時就開始了。", "confidence": "high", "notes": ""}
 
 124. Well, when I wrote the four pages -- I'll let me make that clear, ma'am -- when I wrote them out, I was in detail.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，當我寫那四頁——讓我說清楚，女士——當我寫出來時，我寫得非常詳細。", "confidence": "high", "notes": ""}
 
 125. I wrote down everything.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我寫下了一切。", "confidence": "high", "notes": ""}
 
 126. But that wasn't what you submitted.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但那不是您提交的內容。", "confidence": "high", "notes": ""}
 
 127. You submitted what they asked you to submit.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您提交的是他們要求您提交的內容。", "confidence": "high", "notes": ""}
 
 128. I gave them everything they wanted.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我給了他們所有他們想要的。", "confidence": "high", "notes": ""}
 
 129. They said write every detail down.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們說要寫下每個細節。", "confidence": "high", "notes": ""}
 
 130. Four pages?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "四頁？", "confidence": "high", "notes": ""}
 
 131. Four pages.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "四頁。", "confidence": "high", "notes": ""}
 
 132. And I wrote the fact about the temperature, about it being on the ground, the glyphs, the notes from my notebook.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我寫了關於溫度的事實、關於它在地面上、符號、我筆記本上的記錄。", "confidence": "high", "notes": ""}
 
 133. They were included.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這些都包括在內。", "confidence": "high", "notes": ""}
 
 134. I didn't have my notebook there, but all that stuff was included, including the binary code, which I called ones and zeros in because I'm not a math person.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我當時沒帶筆記本，但所有那些東西都包括在內，包括二進位代碼，我把它稱為一和零，因為我不是數學人。", "confidence": "high", "notes": "binary code 根據 terminology.yaml 翻譯為「二進位代碼」"}
 
 135. And at that time -- And did you give that to the wing commander?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而在那時——您把那個給聯隊指揮官了嗎？", "confidence": "high", "notes": ""}
 
 136. I gave that to the OSI building.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我把那個交給了特別調查處大樓。", "confidence": "high", "notes": ""}
 
 137. Did you give that to the wing commander?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您把那個給聯隊指揮官了嗎？", "confidence": "high", "notes": ""}
 
 138. No.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒有。", "confidence": "high", "notes": ""}
 
 139. No, ma'am.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒有，女士。", "confidence": "high", "notes": ""}
 
 140. What I gave to the wing commander was the OSI sanitized statement and the one that I was supposed to give them.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我給聯隊指揮官的是特別調查處刪減過的陳述，也就是我應該給他們的那份。", "confidence": "high", "notes": ""}
 
 141. And why did you not give that one to the wing commander?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那您為什麼沒把那份給聯隊指揮官？", "confidence": "high", "notes": ""}
 
 142. Because I was under orders from -- because OSI said it was an ongoing investigation and they can work outside the realm of the base commander, wing commander and everything else like that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "因為我接到命令——因為特別調查處說這是正在進行的調查，他們可以在基地指揮官、聯隊指揮官以及其他所有人的權限之外運作。", "confidence": "high", "notes": ""}
 
 143. And my position is, new with this and all that, that might have been the beginning of the cover-up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的看法是，對這一切還很陌生的我，那可能就是真相掩蓋的開端。", "confidence": "high", "notes": ""}
 
 144. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 145. I agree.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我同意。", "confidence": "high", "notes": ""}
 
 146. All right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 147. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您。", "confidence": "high", "notes": ""}
 
 148. And I don't want to badger you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不想糾纏您。", "confidence": "high", "notes": ""}
 
 149. Appreciate your service, trying times.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "感謝您的服務，這是艱難的時刻。", "confidence": "high", "notes": ""}
 
 150. How many years ago was this?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是多少年前的事了？", "confidence": "high", "notes": ""}
 
 151. This is '80 and this is now '13.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是 1980 年，現在是 2013 年。", "confidence": "high", "notes": ""}
 
 152. That's 23, 33 years ago, so no.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是 23、33 年前，所以不。", "confidence": "high", "notes": ""}
 
 153. That you're still standing in relatively good health, thank God for that and we'll see what we can do with you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您仍然站在這裡，健康狀況相對良好，感謝上帝，我們會看看能為您做些什麼。", "confidence": "high", "notes": ""}
 
 154. Thank you, ma'am.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您，女士。", "confidence": "high", "notes": ""}
 
 155. Thank you, sir.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您，先生。", "confidence": "high", "notes": ""}
