@@ -1,427 +1,427 @@
 ## Speaker Group 1
 
 470. I just want to say that the Marcel family has a very close friend and his name is Richard O'Connor.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只想說，馬塞爾家族有一位非常親密的朋友，他的名字是 Richard O'Connor。", "confidence": "high", "notes": ""}
 
 471. I don't know if you've seen what he's put forward to support you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不知道你們是否看過他為支持你們所提出的內容。", "confidence": "high", "notes": ""}
 
 472. So he's a friend of yours.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以他是你們的朋友。", "confidence": "high", "notes": ""}
 
 473. I want to now turn to, for the members' sake, we have seven minutes that we can delve into with these people.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我現在想轉向，為了委員們的緣故，我們有七分鐘時間可以深入探討這些證人的證詞。", "confidence": "high", "notes": ""}
 
 474. And I'll first turn to Merrill Cook to start the process.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我首先請 Merrill Cook 開始提問。", "confidence": "high", "notes": ""}
 
 475. Yes, that's right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，沒錯。", "confidence": "high", "notes": ""}
 
 476. Thank you, Mr. Chair.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝主席。", "confidence": "high", "notes": ""}
 
 477. Donald Schmidt, I'd like to start with you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Donald Schmidt，我想先從你開始。", "confidence": "high", "notes": ""}
 
 478. You said that you went down to New Mexico with an idea of doing something in the fiction area.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你說你前往新墨西哥州時，原本打算做一些小說創作方面的事情。", "confidence": "high", "notes": ""}
 
 479. You weren't really much of a believer.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你當時並不太相信這些事。", "confidence": "high", "notes": ""}
 
 480. No.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不相信。", "confidence": "high", "notes": ""}
 
 481. No.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不相信。", "confidence": "high", "notes": ""}
 
 482. But it changed your mind.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但這改變了你的想法。", "confidence": "high", "notes": ""}
 
 483. That was Kevin Randall and myself, correct.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，那是 Kevin Randall 和我。", "confidence": "high", "notes": ""}
 
 484. And what changed your mind is you said you met with first-hand witnesses.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而改變你想法的是，你說你遇到了第一手證人。", "confidence": "high", "notes": ""}
 
 485. Correct.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 486. I'd like to know what year that was.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想知道那是哪一年。", "confidence": "high", "notes": ""}
 
 487. That was February of 1989.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是 1989 年 2 月。", "confidence": "high", "notes": ""}
 
 488. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 489. And could you tell me who those first-hand witnesses you met with?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你能告訴我你遇到的那些第一手證人是誰嗎？", "confidence": "high", "notes": ""}
 
 490. Dr. Randall had mentioned specifically it was the son of W.W. Mack Brazzo, Bill Brazzo Jr., and we could also add his wife, Shirley, who were both first-hand witnesses to the material.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "Randall 博士特別提到，是 W.W. 麥克·布拉澤爾的兒子比爾·布拉澤爾二世，我們還可以加上他的妻子 Shirley，他們都是親眼見過殘骸材料的第一手證人。", "confidence": "high", "notes": "Mack Brazel 翻譯為麥克·布拉澤爾，Bill Brazel Jr. 翻譯為比爾·布拉澤爾二世"}
 
 491. So you talked to them on that occasion.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以你在那個時候與他們交談過。", "confidence": "high", "notes": ""}
 
 492. We had the opportunity at that time and many times thereafter, including other members of the Brazzo family.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們在那時以及之後多次有機會與他們交談，包括布拉澤爾家族的其他成員。", "confidence": "high", "notes": ""}
 
 493. What we could also point out is that Bill Jr., the son of the rancher, was fortunate enough to discover additional remnants from the crash.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們還可以指出的是，牧場主人的兒子比爾二世有幸發現了更多墜毀殘骸的碎片。", "confidence": "high", "notes": ""}
 
 494. Months thereafter, especially after heavy rains, pieces washed the surface.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在那之後的數個月裡，特別是在暴雨過後，碎片會被沖刷到地表。", "confidence": "high", "notes": ""}
 
 495. Now bear in mind, we already had first-hand accounts that there were 50 to 60 troops at the debris field site for the course of two and a half to three days walking shoulder to shoulder with wheelbarrows, going to check sites.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在請記住，我們已經有第一手證詞顯示，有 50 到 60 名士兵在殘骸現場連續兩天半到三天肩並肩推著手推車，逐一清查地點。", "confidence": "high", "notes": ""}
 
 496. It required that much time to clear this site in contrast to a weather balloon, which would have taken all of them a few minutes for someone to toss over their shoulder, toss into the back of a pickup truck.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "清理這個現場需要那麼長的時間，相比之下，如果是氣象氣球，只需要幾分鐘就能扛在肩上扔進卡車後車斗。", "confidence": "high", "notes": ""}
 
 497. I have almost no doubt that something crashed there, that there was a lot of pickup, and I just wonder exactly who it was you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我幾乎毫不懷疑那裡確實墜毀了某樣東西，有大量的清理工作，我只是想知道你具體訪談了誰。", "confidence": "high", "notes": ""}
 
 498. You talked to me.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你已經告訴我了。", "confidence": "high", "notes": ""}
 
 499. You've answered that very well.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你回答得很好。", "confidence": "high", "notes": ""}
 
 500. We've got a lot of witnesses here that really want an opportunity to talk to up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們還有很多證人在這裡真的很想有機會發言。", "confidence": "high", "notes": ""}
 
 501. Lieutenant Colonel Randall, you had talked about work you've done to show why Air Force Project Blue Book was, you used some rather negative language about it, and why it was just, a cover-up is what you said?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "中校 Randall，你談到你所做的工作，展示空軍藍皮書計畫為何⋯⋯你用了一些相當負面的措辭來形容它，你說那只是一個真相掩蓋行動，對嗎？", "confidence": "high", "notes": ""}
 
 502. What happened in, all during the 1960s, there is a series of letters you see in the Project Blue Book files where they're requesting to get Project Blue Book out of A-Tech into the Secretary of the Air Force's Office of Information to de-emphasize the importance of Project Blue Book.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在整個 1960 年代發生的事情是，在藍皮書計畫檔案中可以看到一系列信件，要求將藍皮書計畫從 A-Tech 轉移到空軍部長的資訊辦公室，以降低藍皮書計畫的重要性。", "confidence": "high", "notes": ""}
 
 503. Okay, now de-emphasizing the importance of Project Blue Book, that's not exactly the same thing, and that's, when I look at, I'm not trying to put any words in your mouth, but I've got to focus in on a question here, and that's when the University of Colorado was asked to help him make a decision about Project Blue Book, let's put it that way, and when the University of Colorado wrote a report, I think you're all correct in saying that what the report said wasn't exactly the way it was characterized even by the, certainly by the government, and even by, well, and by the media as well, but isn't it true that it didn't say anything about it all being nonsense, it just said we don't want to fund additional work on collection, collecting this data, that we are publishing to the world, I mean, there are 101 incidents published that we can read about from Project Blue Book,
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，現在降低藍皮書計畫的重要性，這並不完全是同一件事，我看到的是，我不是要替你說話，但我必須聚焦在一個問題上，那就是當科羅拉多大學被要求協助他們對藍皮書計畫做出決定時，這麼說吧，當科羅拉多大學撰寫報告時，我認為你們所有人都正確地指出，報告所說的內容並不完全是政府甚至媒體所描述的那樣，但事實難道不是報告並沒有說這一切都是胡說八道，它只是說我們不想再資助收集這些數據的額外工作，我們向世界公布的這些數據，我的意思是，藍皮書計畫公布了 101 個我們可以閱讀的事件，", "confidence": "medium", "notes": "這是一個很長的複雜句子，包含多個子句"}
 
 504. am I correct?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說得對嗎？", "confidence": "high", "notes": ""}
 
 505. What I'm asking is, you have absolutely no faith, and that's fine, in the National Science Foundation, is that what you're telling us?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想問的是，你對國家科學基金會完全沒有信心，這沒關係，你是這麼告訴我們的嗎？", "confidence": "high", "notes": ""}
 
 506. What I'm saying is that the outcome of the scientific investigation was preordained.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我要說的是，這項科學調查的結果是預先確定的。", "confidence": "high", "notes": ""}
 
 507. There's a letter from Lieutenant Colonel Quintanilla to committee members at the Condon Committee at the University of Colorado saying, this is what we want you to find.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有一封中校 Quintanilla 寫給科羅拉多大學康登委員會委員的信，上面說，這就是我們希望你們發現的結論。", "confidence": "high", "notes": "Quintanilla 是藍皮書計畫最後一任負責人"}
 
 508. They haven't investigated a case, they haven't looked at anything, but here's what we want you to find.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們還沒有調查任何案件，他們什麼都沒看，但這就是我們希望你們發現的。", "confidence": "high", "notes": ""}
 
 509. You have to say something nice about the Air Force investigation, you have to say that it does not affect national security, and allow us to close it down, because if you don't do that, we're going to be stuck with this for another 20 years.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你們必須對空軍調查說些好話，你們必須說它不影響國家安全，讓我們可以關閉它，因為如果你們不這樣做，我們就會被這件事纏住另外 20 年。", "confidence": "high", "notes": ""}
 
 510. So the University of Colorado pulled the wool over the National Science Foundation, folks, is that what you're telling us?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以科羅拉多大學欺騙了國家科學基金會，各位，你是這麼告訴我們的嗎？", "confidence": "high", "notes": "pull the wool over 意思是欺騙、蒙蔽"}
 
 511. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 512. During the investigation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在調查期間。", "confidence": "high", "notes": ""}
 
 513. They couldn't figure out that maybe there was influence from the Air Force on what Colorado was?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們難道看不出來科羅拉多大學可能受到空軍的影響嗎？", "confidence": "high", "notes": ""}
 
 514. They didn't care.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們不在乎。", "confidence": "high", "notes": ""}
 
 515. The whole purpose of the Condon Committee was to end Project Blue Book and stop the Air Force investigation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "康登委員會的全部目的就是終止藍皮書計畫，停止空軍的調查。", "confidence": "high", "notes": ""}
 
 516. During the Condon Committee's time in session, they were supposed to investigate cases that came up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在康登委員會的會議期間，他們應該調查出現的案例。", "confidence": "high", "notes": ""}
 
 517. There was a marvelous case from Shag Harbor, Canada, where something was photographed in the air, it was seen to hit the ground.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有一個來自加拿大沙格港的精彩案例，有東西在空中被拍到，被目擊墜落地面。", "confidence": "high", "notes": ""}
 
 518. The United States Navy responded, the Canadian military forces responded, and there's even evidence that the Russians responded.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "美國海軍做出了回應，加拿大軍隊做出了回應，甚至有證據顯示俄羅斯人也做出了回應。", "confidence": "high", "notes": ""}
 
 519. The Condon Committee's investigation was to make a phone call to Canada and say, oh, it's just a couple of teenagers who saw something strange, we're not going to bother with it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "康登委員會的調查就是打個電話到加拿大，然後說，哦，只是幾個青少年看到了奇怪的東西，我們不會為此費心。", "confidence": "high", "notes": ""}
 
 520. And I appreciate your answer, I'm going to move on, not because I don't want you to have more opportunity, but I'm so particularly interested in what Colonel Marcel, Dr. Colonel, and boy, you should be proud of these children and grandchildren of Jenny, Jesse Senior.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我感謝你的回答，我要繼續下去了，不是因為我不想給你更多機會，而是因為我特別感興趣的是 Marcel 上校，博士上校，天啊，你應該為 Jesse 老先生的這些子孫感到驕傲。", "confidence": "medium", "notes": "Jenny 可能是 Jesse 的筆誤或口誤"}
 
 521. You have done a wonderful job in establishing, you know, just that story about the fishing pole.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你們做得非常好，你知道，就那個釣魚竿的故事。", "confidence": "high", "notes": ""}
 
 522. And you're talking about an honest grandfather, I mean, you didn't have to even use that word, the way you described that, and to you too, Denise.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你描述的是一位誠實的祖父，我的意思是，你甚至不需要用那個詞，從你描述的方式就能看出來，還有你，Denise。", "confidence": "high", "notes": ""}
 
 523. And I'm very impressed with you, Jesse Marcel Jr., I mean, you're one of the very few witnesses that have actually held or seen or accompanied your father with something in your hand that came from this incident or an incident that, let me put it this way, somebody that's a friend of mine, somebody that I've listened to, somebody I already said I had respect for, a different party, but former Governor Bill Richardson has said to me and others with us in a discussion we had with him that everything you have said is honest.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我對你印象非常深刻，Jesse Marcel Jr.，我的意思是，你是極少數實際拿過或見過或陪同你父親，手中握著來自這起事件的東西的證人之一，讓我這麼說吧，我的一位朋友，一個我聽過發言的人，一個我已經說過我尊重的人，雖然立場不同，但前州長比爾·理查森曾在我們與他的討論中對我和其他人說，你所說的一切都是誠實的。", "confidence": "high", "notes": ""}
 
 524. There's no question in his mind that that debris is there, it happened, and what you've said about your father and doing all that is absolutely true.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在他心中毫無疑問，那些殘骸確實存在，事情確實發生了，你所說的關於你父親和所做的一切都是絕對真實的。", "confidence": "high", "notes": ""}
 
 525. What you've said to me here directly simply reinforces something I believe because I have a lot of faith in the integrity of the man I just mentioned, Bill Richardson.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你在這裡直接對我說的話，只是加強了我所相信的事情，因為我非常相信我剛才提到的那個人的誠信，比爾·理查森。", "confidence": "high", "notes": ""}
 
 526. But I have to say this, I'm looking at you straight in the eyes here.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我必須說這個，我現在正直視你的眼睛。", "confidence": "high", "notes": ""}
 
 527. I know that you believe that's from an extraterrestrial source, but can you say honestly to this committee that you know that for some reason or that there's something that you absolutely know that the government is hiding because Bill Richardson agrees with you that they should open the files, I agree with you, they should open those Roswell files.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我知道你相信那是來自外星來源，但你能誠實地對這個委員會說，你知道某種原因，或者有某件事是你絕對知道政府正在隱瞞的嗎？因為比爾·理查森同意你的看法，他們應該公開檔案，我同意你的看法，他們應該公開那些羅斯威爾檔案。", "confidence": "high", "notes": ""}
 
 528. We should see exactly what might remain from whatever you and your father took over.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們應該確切看到你和你父親當時拿過的東西還剩下什麼。", "confidence": "high", "notes": ""}
 
 529. So yeah, you give this committee a lot of reasons for us to say open those files.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以是的，你給了這個委員會很多理由讓我們說公開那些檔案。", "confidence": "high", "notes": ""}
 
 530. But I just want to hear an answer to the question I gave you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我只想聽到你對我提出的問題的回答。", "confidence": "high", "notes": ""}
 
 531. Years ago I was called to Washington, I was going to a meeting, and there was a gentleman by the name of Dick D'Amato who wanted to interview me when I got to Washington.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "幾年前我被召喚到華盛頓，我要去參加一個會議，有一位名叫 Dick D'Amato 的先生想在我到達華盛頓時採訪我。", "confidence": "high", "notes": ""}
 
 532. And he was in the Capitol building, Senate room 228 I believe if I remember right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他在國會大廈，如果我沒記錯的話，是參議院 228 室。", "confidence": "high", "notes": ""}
 
 533. But he said he wanted to talk to me about what I saw in Roswell.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但他說他想和我談談我在羅斯威爾看到的東西。", "confidence": "high", "notes": ""}
 
 534. So I went up to the Capitol building, and very friendly, very nice gentleman.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我去了國會大廈，他是一位非常友好、非常好的先生。", "confidence": "high", "notes": ""}
 
 535. He says, you know, we want to talk about what you saw in Roswell.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說，你知道，我們想談談你在羅斯威爾看到的東西。", "confidence": "high", "notes": ""}
 
 536. And he asked me, did I want to talk in a secure room?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他問我，我想不想在一個安全房間裡談話？", "confidence": "high", "notes": ""}
 
 537. And I said, well, sir, I'm not going to say anything I haven't said publicly already.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說，嗯，先生，我不會說任何我還沒有公開說過的事情。", "confidence": "high", "notes": ""}
 
 538. He says, but I might tell you something.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說，但我可能會告訴你一些事情。", "confidence": "high", "notes": ""}
 
 539. And so we'll talk in a secure room.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我們會在一個安全房間裡談話。", "confidence": "high", "notes": ""}
 
 540. So we went down into the basements, several floors down below in the Capitol building, and there was this beautiful meeting room there with a big table there with the pictures of our founding fathers across the overhead there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我們下到地下室，在國會大廈下面好幾層樓，那裡有一個漂亮的會議室，有一張大桌子，牆上掛著我們開國元勳的照片。", "confidence": "high", "notes": ""}
 
 541. And when we sat down, he sat at the head of the table, I sat to his right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當我們坐下時，他坐在桌子的主位，我坐在他右手邊。", "confidence": "high", "notes": ""}
 
 542. He had a legal pad to take notes on.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他有一本法律用筆記本來做記錄。", "confidence": "high", "notes": ""}
 
 543. And there was a book on the table too, it was called Majestic.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "桌上還有一本書，叫做《絕密計畫》。", "confidence": "high", "notes": ""}
 
 544. It was a book by Whitley Strieber, which actually is a fictional account of an established fact there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是 Whitley Strieber 寫的一本書，實際上是對一個既定事實的虛構敘述。", "confidence": "high", "notes": ""}
 
 545. And he said, this is not fiction.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說，這不是虛構的。", "confidence": "high", "notes": ""}
 
 546. So he admitted to me right there, this is not fiction.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以他當場向我承認，這不是虛構的。", "confidence": "high", "notes": ""}
 
 547. This is a story about the Roswell, you know, anti-fictionalized version.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是關於羅斯威爾的故事，你知道，非虛構版本。", "confidence": "high", "notes": ""}
 
 548. And so as a conclusion, you came to after you had a chance to listen to some people that had analyzed some of that material, am I correct in that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以作為結論，你是在有機會聽取一些分析過那些材料的人之後得出的，我理解對嗎？", "confidence": "high", "notes": ""}
 
 549. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 550. And I'm not necessarily saying you may have been right or wrong on that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不一定是在說你在那方面可能是對還是錯。", "confidence": "high", "notes": ""}
 
 551. I'm just wanting to know how you arrived at your decision that you believe it is from non-terrestrial sources or extra-terrestrial sources.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是想知道你是如何得出你的結論，認為它來自非地球來源或外星來源。", "confidence": "high", "notes": ""}
 
 552. Well, you know, this is the first time somebody in the, you know, in the inner sanctums of our government admitted to me that this is not fiction, the Roswell.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，你知道，這是第一次有人在我們政府的核心圈子裡向我承認羅斯威爾事件不是虛構的。", "confidence": "high", "notes": ""}
 
 553. And I said, I know it isn't.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說，我知道它不是虛構的。", "confidence": "high", "notes": ""}
 
 554. So when are you guys going to tell the public about this?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那麼你們什麼時候要把這件事告訴公眾？", "confidence": "high", "notes": ""}
 
 555. And he said, well, you know, if it was up to me, you ought to have done it yesterday.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說，嗯，你知道，如果由我決定，早就應該昨天就公開了。", "confidence": "high", "notes": ""}
 
 556. But he says, it is not up to me.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但他說，這不是由我決定的。", "confidence": "high", "notes": ""}
 
 557. I'm just here to investigate the cost of the investigates cost of keeping a secret and all that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是來調查保守秘密的成本以及所有這些事情。", "confidence": "medium", "notes": "原文有重複，可能是口誤"}
 
 558. He said, in reality, there is, and these are his words, that there is a black government, which sounds really conspiratorial, but that's what he said.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說，實際上，存在著，這是他的原話，存在一個黑暗政府，這聽起來真的很陰謀論，但那就是他說的。", "confidence": "high", "notes": ""}
 
 559. He said, they have control of the debris and they answer to no one, they're not elected and have unlimited funds to spend.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說，他們控制著殘骸，他們不對任何人負責，他們不是民選的，擁有無限的資金可以花費。", "confidence": "high", "notes": ""}
 
 560. And he said, they're the ones who have it and they have control over it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說，他們就是擁有它的人，他們控制著它。", "confidence": "high", "notes": ""}
 
 561. So you can tell me what that meant.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以你可以告訴我那意味著什麼。", "confidence": "high", "notes": ""}
 
 562. But that's what he said.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但那就是他說的。", "confidence": "high", "notes": ""}
 
 563. I obviously don't know, but thank you very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我顯然不知道，但非常感謝你。", "confidence": "high", "notes": ""}
 
 564. Yes, sir.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，先生。", "confidence": "high", "notes": ""}
 
 565. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 566. To all of you for testifying, you did a great job.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "感謝你們所有人的證詞，你們做得很好。", "confidence": "high", "notes": ""}
 
 567. How long, I mean, I look at what happened at Roswell as a, something that happened a long time ago and that there was some put down of it and there's been some fun made out of it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "多久了，我的意思是，我看待羅斯威爾發生的事情，作為很久以前發生的事情，曾經被貶低過，也被拿來開玩笑。", "confidence": "high", "notes": ""}
 
 568. But that a lot of people, because there were enough information, enough facts out that a lot of people believed that something happened there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但很多人，因為有足夠的資訊，足夠的事實，很多人相信那裡確實發生了什麼。", "confidence": "high", "notes": ""}
 
 569. Is that, am I way off base?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是這樣嗎，我是不是完全錯了？", "confidence": "high", "notes": ""}
 
 570. I mean, I'm just trying to think back a few years because it hasn't been in the paper recently, you know, but that's my recollection of that incident, that there was enough proof that we knew it was something other than from the United States.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的意思是，我只是試著回想幾年前，因為最近報紙上沒有報導，你知道，但那是我對那起事件的回憶，有足夠的證據讓我們知道那是來自美國以外的東西。", "confidence": "high", "notes": ""}
 
 571. Yeah, Donald?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，Donald？", "confidence": "high", "notes": ""}
 
 572. As I'd mentioned in my opening statement, I'd like to emphasize that we had the good fortune of working with and having enlisted the late Congressman Steven Schiff of New Mexico who pushed for congressional hearings on this very matter through the early 90s.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "正如我在開場陳述中提到的，我想強調我們有幸與已故的新墨西哥州眾議員史蒂芬·希夫合作，並得到他的支持，他在 90 年代初期就這個問題推動國會聽證會。", "confidence": "high", "notes": ""}
 
 573. And so much so that he had sent three separate letters to then Secretary of Defense Les Aspin, which all went unanswered, which only intrigued him and raised his curiosity all the more as far as, well, what are they hiding?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他甚至向當時的國防部長 Les Aspin 發送了三封單獨的信件，全都沒有得到回應，這只是更加激起了他的興趣，更加提高了他的好奇心，嗯，他們到底在隱瞞什麼？", "confidence": "high", "notes": ""}
 
 574. I'm just asking, as the late Senator Barry Goldwater and even his request to General Curtis LeMay, can I at least see the file to which LeMay said, "Hell, no, and don't ever ask me again."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是問，就像已故參議員 Barry Goldwater 甚至向柯蒂斯·李梅將軍提出請求，我至少可以看看檔案嗎？李梅說：「絕對不行，以後也別再問我。」", "confidence": "high", "notes": ""}
 
 575. So we're in good company, whether we're talking about Goldwater or Schiff or even former Presidents Bill Clinton or Carter, who also would lament the fact that they could not get the truth about Roswell.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我們有很好的同伴，無論我們談論的是 Goldwater 還是 Schiff，甚至前總統比爾·克林頓或卡特，他們也都感嘆無法得到羅斯威爾的真相。", "confidence": "high", "notes": ""}
 
 576. But getting back to Congressman Schiff, in his failed efforts, as the press itself became more interested as to who would win this tug of war, because he was being stonewalled not only by the Secretary of Defense, but also the White House, and then the branches of the military.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但回到希夫眾議員，在他失敗的努力中，隨著媒體本身對誰會贏得這場拉鋸戰更感興趣，因為他不僅被國防部長阻撓，還被白宮以及軍方各部門阻撓。", "confidence": "high", "notes": ""}
 
 577. And he had assurances, specifically from the Air Force, that should they find anything in their files, he would be the first one.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他得到了保證，特別是來自空軍的保證，如果他們在檔案中發現任何東西，他會是第一個知道的人。", "confidence": "high", "notes": ""}
 
 578. Well, as Newsweek magazine very aptly put it, as though a preemptive strike, they called a press conference here at the Pentagon, and Colonel Richard Weaver, as Colonel Randall mentioned, in putting out the Project Mogul theory, same balloon, it was just a redesign of the same balloon explanation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，正如《新聞週刊》雜誌非常恰當地表達的，就像先發制人的打擊，他們在五角大廈召開了新聞發布會，Richard Weaver 上校，正如 Randall 上校提到的，提出了莫古爾計畫理論，同樣的氣球，只是重新設計了同樣的氣球解釋。", "confidence": "high", "notes": ""}
 
 579. Now I'll never forget how I called up Congressman Schiff here in his office in Washington, thinking that, well, that would end that relationship, because he would have to accept that new explanation, that new solution to the Roswell mystery.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在我永遠不會忘記我如何在華盛頓他的辦公室打電話給希夫眾議員，心想，嗯，那會結束那種關係，因為他必須接受那個新解釋，羅斯威爾之謎的新解決方案。", "confidence": "high", "notes": ""}
 
 580. And his immediate words, immediate response to me was, "Don, they're a bunch of damn liars."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他的即時反應，對我的即時回應是：「Don，他們是一群該死的騙子。」", "confidence": "high", "notes": ""}
 
 581. And he had assured us, and you know the history, he assured us that with his re-election coming up, that we would then resume the effort.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他向我們保證，你知道歷史，他向我們保證，隨著他即將連任，我們將恢復這項努力。", "confidence": "high", "notes": ""}
 
 582. Well, he would die shortly after his re-election, age of 51.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，他在連任後不久就去世了，享年 51 歲。", "confidence": "high", "notes": ""}
 
 583. We don't read anything into that except that we lost a tremendous ally.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們對此沒有任何解讀，只是我們失去了一位了不起的盟友。", "confidence": "high", "notes": ""}
 
 584. And in that, there was a lot of that publicity, the fact that someone within the government was actually sticking their nose under the curtain, under the tent, for nothing more than asking to see the files, and still being turned down, still being told just as Senator Goldwater, "Hell no, and don't ask."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在那之中，有很多宣傳，事實是政府內部有人實際上在掀開帷幕，掀開帳篷，只不過是要求查看檔案，仍然被拒絕，仍然被告知就像戈德華特參議員一樣，「絕對不行，別問。」", "confidence": "high", "notes": ""}
 
 585. There was debris, it crashed, there was debris, and talked about touching the debris, and that it was not something that you'd ever felt or done before.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有殘骸，它墜毀了，有殘骸，談到觸摸殘骸，那不是你以前曾經感受過或做過的事情。", "confidence": "high", "notes": ""}
 
 586. Is that still around, the debris from that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那些殘骸還在嗎？", "confidence": "high", "notes": ""}
 
 587. Not with us, it isn't.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不在我們手上。", "confidence": "high", "notes": ""}
 
 588. That's the problem.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是問題所在。", "confidence": "high", "notes": ""}
 
 589. We don't have the debris.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們沒有殘骸。", "confidence": "high", "notes": ""}
 
 590. We don't have pieces.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們沒有碎片。", "confidence": "high", "notes": ""}
 
 591. What happened to it?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它怎麼了？", "confidence": "high", "notes": ""}
 
 592. It probably got sent to Wright Field when we know that it got sent.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它可能被送到了萊特機場，我們知道它被送去了。", "confidence": "high", "notes": ""}
 
 593. Where it went from there, whether it went to Area 51, or who knows what, we don't know.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從那裡去了哪裡，是否去了 51 區，或者誰知道什麼，我們不知道。", "confidence": "high", "notes": ""}
 
 594. The security curtain slammed down very quickly.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "安全幕幕很快就拉下了。", "confidence": "high", "notes": ""}
 
 595. How quickly afterwards?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "之後多快？", "confidence": "high", "notes": ""}
 
 596. Five hours.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "五個小時。", "confidence": "high", "notes": ""}
 
 597. How many?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "多少？", "confidence": "high", "notes": ""}
 
 598. Five hours.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "五個小時。", "confidence": "high", "notes": ""}
 
 599. From the actual announcement of the recovery of the flying disc, it evolved, as I mentioned, within five hours into the weather balloon.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從實際宣布回收飛碟開始，正如我提到的，在五個小時內演變成氣象氣球。", "confidence": "high", "notes": ""}
 
 600. In fact, as Stanton mentioned, and we have Brigadier General Thomas DeBose, who is even in two of the pictures with the substituted weather balloon.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事實上，正如 Stanton 提到的，我們有准將 Thomas DeBose，他甚至出現在兩張與替換氣象氣球的照片中。", "confidence": "high", "notes": ""}
 
 601. He stated that the balloon was a hoax, that part of it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他聲明氣球是一個騙局，那部分是騙局。", "confidence": "high", "notes": ""}
 
 602. They were ordered, as he described, to get the press off of General Ramey's back.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "正如他所描述的，他們被命令讓媒體不再追問雷米將軍。", "confidence": "high", "notes": ""}
 
 603. They were the ones who substituted the balloon for the real material.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們就是用氣球替換真實材料的人。", "confidence": "high", "notes": ""}
 
 604. When you have a Brigadier General going on the record, actually stating that the official government explanation is a hoax, you would think it would get the media's attention.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當你有一位准將公開作證，實際上聲明政府的官方解釋是一個騙局時，你會認為這會引起媒體的關注。", "confidence": "high", "notes": ""}
 
 605. That's also the dilemma that we have had with the very conception of the investigation of the Roswell incident, the fact that, well, why don't the witnesses come forward?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這也是我們在羅斯威爾事件調查的最初構想中遇到的困境，事實是，嗯，為什麼證人不挺身而出？", "confidence": "high", "notes": ""}
 
 606. Because just as Jesse's father, just imagine, at that time, he was a lieutenant colonel.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "因為就像 Jesse 的父親，想像一下，那時他是一位中校。", "confidence": "high", "notes": ""}
 
 607. He was the head of intelligence of the 509th Bomb Group.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他是 509 轟炸大隊的情報主管。", "confidence": "high", "notes": ""}
 
 608. Again, I can't use the word enough, the elite within the military, head of intelligence.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "再次強調，我無法充分使用這個詞，軍隊中的精英，情報主管。", "confidence": "high", "notes": ""}
 
 609. We might even ask, why would the base commander, Colonel Blanchard, instead of just sending out a couple of grunts, a couple of enlisted men to go check out this funny material, he sends out his two head of intelligence, two officers, follow the rancher back and investigate this firsthand on a Fourth of July weekend, no less.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們甚至可能會問，為什麼基地指揮官布蘭查德上校，不只是派遣幾個士兵，幾個士官去檢查這些奇怪的材料，而是派出他的兩位情報主管，兩位軍官，跟隨牧場主人回去並親自調查，而且還是在七月四日週末。", "confidence": "high", "notes": ""}
 
 610. See, these are all the questions that the press refuses to look into, but we haven't.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "看，這些都是媒體拒絕深入調查的問題，但我們沒有拒絕。", "confidence": "high", "notes": ""}
 
 611. That dilemma, that as Major Marcel, when he finally stepped forward and said, being familiar with all materials, both familiar and domestic, this was something not made on this earth.
 → {"text": "", "confidence": "", "notes": ""}
