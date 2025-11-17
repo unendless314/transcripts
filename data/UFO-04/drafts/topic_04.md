@@ -175,7 +175,7 @@
 → {"text": "我認為這在民主體制中成為一個非常重要的問題。", "confidence": "high", "notes": ""}
 
 205. You know, if you have the larger media not covering something that 50, 60 percent of the public believe is true, and there's an enormous amount of data, 4,000 landing cases.
-→ {"text": "你知道，如果主流媒體不報導某件事，而有 50、60% 的公眾相信這是真的，並且有大量的數據，4,000 個降落案例。", "confidence": "high", "notes": ""}
+→ {"text": "你知道，如果主流媒體不報導某件事，而有 50、60% 的公眾相信這是真的，並且有大量的數據，4，000 個降落案例。", "confidence": "high", "notes": ""}
 
 206. The COMETA Report, where they documented the landing in Provence of a craft, the Bentwaters case, where a craft landed at RAF Bentwaters and left physical trace that has been confirmed by the Ministry of Defense.
 → {"text": "COMETA報告記錄了在 Provence 的飛行器降落事件，Bentwaters 案例，飛行器降落在皇家空軍本特沃特斯基地並留下物理痕跡，已被國防部證實。", "confidence": "high", "notes": ""}
@@ -190,7 +190,7 @@
 → {"text": "我們有飛行員案例。", "confidence": "high", "notes": ""}
 
 210. We have over 3,500 pilot reports in our archives.
-→ {"text": "我們的檔案中有超過 3,500 份飛行員報告。", "confidence": "high", "notes": ""}
+→ {"text": "我們的檔案中有超過 3，500 份飛行員報告。", "confidence": "high", "notes": ""}
 
 211. This isn't a story.
 → {"text": "這不是一個新聞故事。", "confidence": "high", "notes": ""}
@@ -283,7 +283,7 @@
 → {"text": "是的，我只是想對此發表意見，因為我對此有一些參與。", "confidence": "high", "notes": ""}
 
 235. As I mentioned in my statement, Bill Clinton asked Webster Hubbell to go and get the answer to who killed JFK, and if you go to the files that have been recovered, there's like 5,000, almost 6,000 pages of Kennedy assassination stuff that the Clintons did uncover, and he asked them to uncover JFK and UFOs.
-→ {"text": "正如我在陳述中提到的，Bill Clinton 要求韋伯斯特·哈貝爾去找出誰殺了甘迺迪的答案，如果你去查看已經找回的檔案，有大約 5,000 頁，幾乎 6,000 頁關於甘迺迪暗殺的資料是柯林頓夫婦確實挖掘出來的，而他要求他們調查甘迺迪和 UFO。", "confidence": "high", "notes": ""}
+→ {"text": "正如我在陳述中提到的，Bill Clinton 要求韋伯斯特·哈貝爾去找出誰殺了甘迺迪的答案，如果你去查看已經找回的檔案，有大約 5，000 頁，幾乎 6，000 頁關於甘迺迪暗殺的資料是柯林頓夫婦確實挖掘出來的，而他要求他們調查甘迺迪和 UFO。", "confidence": "high", "notes": ""}
 
 236. When that book was released, "Friends in High Places" by Hubbell in 1997, that, of course, the very next day in the White House press briefing, his question was brought up, and it was Deborah Oren, who was no friend of the Clintons from "New York Post" who asked the question.
 → {"text": "當哈貝爾的那本書《高層友人》在 1997 年發行時，當然，第二天在白宮記者會上，他的問題被提出來了，提問的是《紐約郵報》的黛博拉·奧倫，她並非柯林頓夫婦的朋友。", "confidence": "high", "notes": ""}

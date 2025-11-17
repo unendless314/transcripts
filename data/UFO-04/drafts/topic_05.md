@@ -34,10 +34,10 @@
 → {"text": "讓我補充一下。", "confidence": "high", "notes": ""}
 
 262. I came across a study two years ago in Switzerland, Zurich, where an institute studied the interlocking directorates, 43,000 corporations.
-→ {"text": "兩年前我在瑞士蘇黎世看到一項研究，一個機構研究了 43,000 家企業的連鎖董事會。", "confidence": "high", "notes": ""}
+→ {"text": "兩年前我在瑞士蘇黎世看到一項研究，一個機構研究了 43，000 家企業的連鎖董事會。", "confidence": "high", "notes": ""}
 
 263. They winnowed it down to 1,350 corporations.
-→ {"text": "他們將範圍縮小到 1,350 家企業。", "confidence": "high", "notes": ""}
+→ {"text": "他們將範圍縮小到 1，350 家企業。", "confidence": "high", "notes": ""}
 
 264. And these are interlocking directorates, interlocking family ties.
 → {"text": "這些都是連鎖董事會、連鎖家族關係。", "confidence": "high", "notes": ""}
