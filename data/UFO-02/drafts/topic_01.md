@@ -264,13 +264,13 @@
 88. I will outline briefly the history of UFOs at the United Nations, a subject that I know very well firsthand since I personally attended as a journalist the famous historical UFO hearing before the UN Special Political Committee on November 27, 1978.
 → {"text": "", "confidence": "", "notes": ""}
 
-89. This was the result of a two-year lobbying effort by Sir Eric Gehry, the Prime Minister of Grenada, a small Caribbean island which had gained independence from Great Britain in 1978.
+89. This was the result of a two-year lobbying effort by Sir Eric Gairy, the Prime Minister of Grenada, a small Caribbean island which had gained independence from Great Britain in 1978.
 → {"text": "", "confidence": "", "notes": ""}
 
 90. I'm submitting for the record a long article detailing the history of UFOs at the UN, which I published in the third issue of Open Minds Magazine in 2010.
 → {"text": "", "confidence": "", "notes": ""}
 
-91. Grenada's UFO proposal was first raised officially by Prime Minister Gehry and Grenada's UN Ambassador Wellington Friday at a meeting of the UN General Assembly Special Political Committee on November 28, 1977.
+91. Grenada's UFO proposal was first raised officially by Prime Minister Gairy and Grenada's UN Ambassador Wellington Friday at a meeting of the UN General Assembly Special Political Committee on November 28, 1977.
 → {"text": "", "confidence": "", "notes": ""}
 
 92. Grenada proposed the, quote, "establishment of an agency or a department of the United Nations for undertaking, coordinating, and disseminating the results of research into unidentified flying objects, UFOs, and related phenomena."
@@ -279,7 +279,7 @@
 93. Grenada made further statements on November 30 and December 6, 1977.
 → {"text": "", "confidence": "", "notes": ""}
 
-94. In an earlier speech in October, Prime Minister Gehry disclosed his own sighting, quote, "I have myself seen an unidentified flying object, and I have been totally overwhelmed by what I have seen."
+94. In an earlier speech in October, Prime Minister Gairy disclosed his own sighting, quote, "I have myself seen an unidentified flying object, and I have been totally overwhelmed by what I have seen."
 → {"text": "", "confidence": "", "notes": ""}
 
 95. As a result of all this effort, on December 13, 1977, the General Assembly adopted decision 32/424, which acknowledged the draft resolution submitted by Grenada.
@@ -294,10 +294,10 @@
 98. On the 3rd, Grenada launched a new offensive in 1978 with the help of one of the original NASA astronauts, Gordon Cooper, among others.
 → {"text": "", "confidence": "", "notes": ""}
 
-99. A group of recognized experts was assembled by Gehry to testify at a hearing before the Special Political Committee on November 27, 1978, which became the high point of the Grenada initiative.
+99. A group of recognized experts was assembled by Gairy to testify at a hearing before the Special Political Committee on November 27, 1978, which became the high point of the Grenada initiative.
 → {"text": "", "confidence": "", "notes": ""}
 
-100. Besides Sir Eric Gehry and Ambassador Friday, who was now Grenada's Minister of Education, the hearing included testimony by astronomer Dr. J. Alan Hynek, the former scientific consultant for the U.S. Air Force Project Blue Book, who went on to found the Center for UFO Studies, CUFOS; Dr. Jacques Vallee, Stanton Friedman, who was present at the citizen hearing; and a firsthand witness account by Lieutenant Colonel Lawrence Coyne of the U.S.
+100. Besides Sir Eric Gairy and Ambassador Friday, who was now Grenada's Minister of Education, the hearing included testimony by astronomer Dr. J. Alan Hynek, the former scientific consultant for the U.S. Air Force Project Blue Book, who went on to found the Center for UFO Studies, CUFOS; Dr. Jacques Vallee, Stanton Friedman, who was present at the citizen hearing; and a firsthand witness account by Lieutenant Colonel Lawrence Coyne of the U.S.
 → {"text": "", "confidence": "", "notes": ""}
 
 101. Army Reserve on the famous October 18, 1973, UFO helicopter near collision in Ohio; a letter of endorsement by astronaut Gordon Cooper, who was then working for the Walt Disney Company as Vice President of Research and Development for Epcot, was read into the record.

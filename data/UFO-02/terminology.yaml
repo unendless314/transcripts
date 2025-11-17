@@ -1,14 +1,6 @@
 episode_id: UFO-02
 terms:
   # ===== B =====
-  - term: Being
-    senses:
-      - id: being_general_usage
-        definition: 「being」用於一般語境，表示「存在」或「成為」的狀態
-        preferred_translation: （根據上下文翻譯）
-        segments: [59, 131, 149, 264, 284, 317, 493]
-        notes: 這些出現為一般英文用法，不涉及外星存有
-
   - term: Boland Amendment
     senses:
       - id: boland_amendment_law
@@ -38,7 +30,7 @@ terms:
     senses:
       - id: crs_library_congress
         definition: 美國國會圖書館轄下的國會研究服務部門
-        preferred_translation: 國會研究服務處
+        preferred_translation: 國會研究處
         segments: [140, 141, 149, 181, 197]
         notes: Marcia Smith負責為卡特總統調查UFO資訊，Daniel Sheehan擔任特別法律顧問
 
@@ -65,7 +57,7 @@ terms:
       - id: extraterrestrial_alien
         definition: 來自地球以外的生命或文明
         preferred_translation: 外星的
-        segments: [67, 85, 181, 182, 184, 188, 192, 196, 197, 203, 212, 222, 323, 332, 338]
+        segments: [67, 85, 181, 182, 184, 188, 192, 196, 197, 203, 212, 222, 323, 332, 338, 471]
         notes: 本集重點討論外星智慧的神學意義、SETI計畫、天主教立場轉變
 
   # ===== F =====
@@ -309,21 +301,13 @@ terms:
         segments: [183]
         notes: 1994年因研究外星接觸案例聯繫Daniel Sheehan擔任法律代表
 
-  - term: Daniel Sheehan
+  - term: Dan Sheehan
     senses:
       - id: sheehan_attorney_ufo
         definition: 律師，耶穌會總部法律總顧問，參與卡特總統UFO調查
-        preferred_translation: 丹尼爾·希恩
-        segments: [131, 149, 323]
-        notes: 本集重要證人，詳述1976-77年為卡特總統調查UFO的經歷
-
-  - term: Richard Dolan
-    senses:
-      - id: dolan_historian_ufo
-        definition: 歷史學家，UFO研究專家
-        preferred_translation: 理查德·多蘭
-        segments: [8, 283]
-        notes: 本集開場證人，討論FOIA解密文件的歷史重要性
+        preferred_translation: 丹·希恩
+        segments: [129]
+        notes: 本集重要證人，詳述1976-77年為卡特總統調查UFO的經歷；文本中自我介紹為Dan而非Daniel
 
   # ----- 記者/媒體 -----
   - term: Antonio Huneeus
@@ -331,8 +315,8 @@ terms:
       - id: huneeus_journalist
         definition: 智利裔美國記者，UFO研究者
         preferred_translation: 安東尼奧·胡尼烏斯
-        segments: [67, 323]
-        notes: 本集證人，親身參與1978年聯合國UFO聽證會，專注全球UFO現象
+        segments: [67]
+        notes: 本集證人，親身參與1978年聯合國UFO聽證會，專注全球UFO現象；segment 323使用Mr. Huneeus稱呼
 
   # ----- 軍方證人 -----
   - term: Lieutenant Colonel Richard French
@@ -349,8 +333,8 @@ terms:
       - id: gairy_grenada_leader
         definition: 格瑞納達總理埃里克·蓋里爵士
         preferred_translation: 埃里克·蓋里爵士
-        segments: [89, 94, 96, 100, 104]
-        notes: 1977-78年推動聯合國UFO研究機構，親身UFO目擊者
+        segments: [89, 100]
+        notes: 1977-78年推動聯合國UFO研究機構，親身UFO目擊者；其他segments使用Prime Minister Gairy或單獨姓氏
 
   # ----- 聯合國官員 -----
   - term: Kurt Waldheim
@@ -384,17 +368,17 @@ terms:
       - id: smith_crs_director
         definition: 美國國會圖書館國會研究服務處科技部門主管
         preferred_translation: 瑪西婭·史密斯
-        segments: [149, 181]
-        notes: 負責為卡特總統調查UFO，委託Daniel Sheehan擔任特別顧問
+        segments: [149]
+        notes: 負責為卡特總統調查UFO，委託Daniel Sheehan擔任特別顧問；segment 181誤拼為Marsha
 
   # ----- 國際人物 -----
-  - term: Wellington Friday
+  - term: Ambassador Friday
     senses:
       - id: friday_grenada_ambassador
-        definition: 格瑞納達駐聯合國大使，後任教育部長
-        preferred_translation: 威靈頓·弗萊戴
+        definition: 格瑞納達駐聯合國大使威靈頓·弗萊戴（Wellington Friday），後任教育部長
+        preferred_translation: 弗萊戴大使
         segments: [100]
-        notes: 與Eric Gairy共同推動聯合國UFO倡議
+        notes: 與Eric Gairy共同推動聯合國UFO倡議；文本中使用Ambassador Friday稱呼
 
   # ===== 專有名詞：地點與設施 =====
   - term: General Accounting Office
@@ -409,17 +393,17 @@ terms:
     senses:
       - id: gao_abbreviation
         definition: General Accounting Office 的縮寫
-        preferred_translation: GAO（審計總署）
+        preferred_translation: 美國審計總署（GAO）
         segments: [287]
         notes: 縮寫形式，指美國審計總署
 
-  - term: Project Mogul
+  - term: Mogul
     senses:
       - id: mogul_balloon
-        definition: 美國1940年代機密氣球計畫，官方聲稱為羅斯威爾事件解釋
+        definition: Project Mogul，美國1940年代機密氣球計畫，官方聲稱為羅斯威爾事件解釋
         preferred_translation: 莫古爾計畫
         segments: [287, 444]
-        notes: 空軍1994年提出的羅斯威爾官方解釋，Richard Dolan批評為「一堆廢話」
+        notes: 空軍1994年提出的羅斯威爾官方解釋，Richard Dolan批評為「一堆廢話」；文本中未使用完整名稱Project Mogul
 
   # ===== 專有名詞：組織機構 =====
   - term: OSI
