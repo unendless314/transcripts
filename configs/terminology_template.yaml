@@ -293,6 +293,13 @@ terms:
         preferred_translation: 最高機密
         notes: 美國機密等級：Top Secret (最高機密) > Secret (機密) > Confidential (密)
 
+  - term: Truth Embargo
+    senses:
+      - id: truth_embargo_concept
+        definition: 透過媒體控制、嘲笑文化與自我審查維持的資訊封鎖
+        preferred_translation: 真相封鎖
+        notes: Dr. Steven Greer 創造並推廣的術語，描述 UFO 資訊被系統性壓制的狀態。與「真相掩蓋」(cover-up) 相對應：cover-up 指隱藏內部事實，truth embargo 指阻斷對外流通
+
   # ===== U =====
   - term: UAP
     senses:

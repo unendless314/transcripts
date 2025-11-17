@@ -13,23 +13,23 @@ terms:
     senses:
       - id: alien_harvest_book
         definition: Linda Moulton Howe 的調查著作，探討動物肢解與外星現象
-        preferred_translation: 《外星收穫》
+        preferred_translation: 《異形收割》
         segments: [87]
-        notes: 1992-93 年出版，包括書籍與電視製作
+        notes: 1992-93 年出版，包括書籍與電視製作，內容涉及動物肢解案件調查
 
   - term: An Alien Harvest
     senses:
       - id: an_alien_harvest_book
         definition: Linda Moulton Howe 的第一本書，完整書名
-        preferred_translation: 《外星收穫》
+        preferred_translation: 《異形收割》
         segments: [397, 401, 409]
-        notes: Lockheed Martin 員工因閱讀此書而聯繫 Linda
+        notes: Lockheed Martin 員工因閱讀此書而聯繫 Linda，內容涉及動物肢解、外星人、執法與醫學研究
 
   - term: Appropriations Committee
     senses:
       - id: appropriations_committee_congress
         definition: 美國國會撥款委員會
-        preferred_translation: 撥款委員會
+        preferred_translation: 眾議院撥款委員會
         segments: [21, 30]
         notes: 曾派 Dick D'Amato 調查 Area 51，但未能突破保密
 
@@ -111,9 +111,9 @@ terms:
     senses:
       - id: cloned_entities_hypothesis
         definition: 理論上由先進智慧製造的複製存有，用於與地球環境互動
-        preferred_translation: 複製實體
+        preferred_translation: 複製生命體
         segments: [84]
-        notes: Linda Howe 與 John Mack 討論的假說，認為直接接觸者可能不是原始智慧本體
+        notes: Linda Howe 與 John Mack 討論的假說，認為直接接觸者可能不是原始智慧本體，而是為適應地球環境而製造的代理生命
 
   - term: COMETA Report
     senses:
@@ -207,11 +207,11 @@ terms:
   # ===== E =====
   - term: Eben's
     senses:
-      - id: ebens_species
-        definition: 據稱的外星種族名稱，美軍內部代號
-        preferred_translation: 伊本斯
+      - id: ebens_ebe
+        definition: EBE (Extraterrestrial Biological Entity) 的衍生詞，美軍對外星生物實體的代號
+        preferred_translation: 外星生物實體
         segments: [99]
-        notes: Linda Howe 轉述的 1978 年軍事接觸事件中提到的外星存有（所有格形式）
+        notes: Linda Howe 轉述的 1978 年軍事接觸事件，"one of the Eben's" 指一個外星生物實體（EBE）
 
   - term: Entity
     senses:
@@ -344,9 +344,9 @@ terms:
     senses:
       - id: military_junta_concept
         definition: 軍事政權，由軍方掌控國家的統治形式
-        preferred_translation: 軍事執政團
+        preferred_translation: 軍政府
         segments: [253]
-        notes: 參議員 Gravel 質問美國是否實質上由軍事執政團統治
+        notes: 參議員 Gravel 質問美國是否實質上由軍政府統治
 
   - term: Moon Dust
     senses:
@@ -369,7 +369,7 @@ terms:
     senses:
       - id: nas_institution
         definition: 美國國家科學院
-        preferred_translation: 國家科學院
+        preferred_translation: 美國國家科學院
         segments: [123]
         notes: CIA 局長 Woolsey 的妻子曾任營運長
 
@@ -377,7 +377,7 @@ terms:
     senses:
       - id: npc_venue
         definition: 華盛頓特區的專業記者組織
-        preferred_translation: 國家記者俱樂部
+        preferred_translation: 國家新聞俱樂部
         segments: [113, 175, 196]
         notes: 揭露計畫 2001 年記者會地點，本次聽證會舉辦地
 
@@ -427,15 +427,15 @@ terms:
     senses:
       - id: pell_grant_program
         definition: 美國聯邦助學金計畫
-        preferred_translation: 佩爾助學金
+        preferred_translation: 裴爾助學金
         segments: [136]
         notes: 以參議員 Claiborne Pell 命名，Dr. Greer 受惠於此計畫
 
   - term: Primetime Live
     senses:
       - id: primetime_live_show
-        definition: ABC 電視新聞節目《黃金時段現場》
-        preferred_translation: 《黃金時段現場》
+        definition: ABC 電視新聞節目《黃金時間現場》
+        preferred_translation: 《黃金時間現場》
         segments: [180]
         notes: Ira Rosen 擔任執行製作人的節目之一
 
@@ -493,7 +493,7 @@ terms:
     senses:
       - id: senate_foreign_relations_committee
         definition: 美國參議院外交關係委員會
-        preferred_translation: 參議院外交關係委員會
+        preferred_translation: 美國參議院外交委員會
         segments: [140]
         notes: 參議員 Claiborne Pell 擔任主席，Dr. Greer 認為 UFO 是終極外交關係議題
 
@@ -565,10 +565,10 @@ terms:
   - term: truth embargo
     senses:
       - id: truth_embargo_concept
-        definition: 真相禁運，透過媒體控制與嘲笑文化維持的資訊封鎖
-        preferred_translation: 真相禁運
+        definition: 透過媒體控制與嘲笑文化維持的資訊封鎖
+        preferred_translation: 真相封鎖
         segments: [222]
-        notes: Dr. Greer 用語，描述 UFO 資訊被系統性壓制的狀態
+        notes: Dr. Greer 創造的術語，描述 UFO 資訊被系統性壓制的狀態，與「真相掩蓋」(cover-up) 相對應
 
   # ===== U =====
   - term: UFO
@@ -599,8 +599,8 @@ terms:
   - term: Westinghouse
     senses:
       - id: westinghouse_corporation
-        definition: 西屋公司，大型國防承包商
-        preferred_translation: 西屋公司
+        definition: 西屋電氣公司，大型國防承包商
+        preferred_translation: 西屋電氣公司
         segments: [179]
         notes: 當時控制 CBS，阻止 Mike Wallace 報導 UFO 故事
 
@@ -615,10 +615,10 @@ terms:
   - term: WSFM
     senses:
       - id: wsfm_cia_term
-        definition: CIA 內部術語，代表「Weird Science and F***ing Magic」（詭異科學與他媽的魔法）
-        preferred_translation: WSFM
+        definition: CIA 內部術語，代表「Weird Science and Fricking Magic」（詭異科學與魔法）
+        preferred_translation: 詭異科學與魔法 (WSFM)
         segments: [118]
-        notes: CIA 人員用以形容先進外星科技看似魔法的現象
+        notes: CIA 人員用以形容先進外星科技看似魔法的現象，首次出現時可加註 "WSFM" 縮寫
 
   - term: Wyoming Ranch
     senses:
