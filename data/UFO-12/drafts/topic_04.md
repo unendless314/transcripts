@@ -1,76 +1,76 @@
 ## Speaker Group 1
 
 98. Thank you, Mr. Chair. I'd like to hear from, again, any one of you that want to talk about this. What are the things that you were -- I'd like to know what you wanted to say in this panel that you didn't say on the first panel. So Mr. Colonel Marcel, do you want to talk about what -- anything that you want to talk about that you didn't talk about on the first panel? Well, I just have formed a lot of opinions about UFOs and extraterrestrial visitations. And what I'd like to emphasize is the fact that the universe is such a large place. There's 10 to 20 second-power stars, which is about the number of grains of sand on all the beaches on Earth. And just to say that one -- if they represent all the stars, there are all the grains of sand on the beach, if you only say that one has life around it like us and the rest of them are devoid of life, then I think
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝您，主席先生。我想再次聽聽在座各位想談論的內容。我想知道您們在這個小組中想說但在第一個小組中沒說的事情。那麼 Marcel 上校先生，您想談談什麼——有什麼您想談但在第一個小組中沒談到的嗎？嗯，我對不明飛行物和外星訪問形成了很多看法。我想強調的是，宇宙是一個如此浩瀚的地方。有 10 的 20 次方顆恆星，大約相當於地球上所有海灘上的沙粒數量。如果說這些沙粒代表所有恆星，海灘上所有的沙粒，如果您只是說其中只有一顆像我們這樣有生命存在，而其他都沒有生命，那麼我認為", "confidence": "high", "notes": "extraterrestrial 翻譯為「外星的」，UFO 翻譯為「不明飛行物」，Colonel 翻譯為「上校」"}
 
 99. we're sadly mistaken. Because the enormous possibilities of all life is everywhere, everywhere.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們大錯特錯了。因為生命存在的巨大可能性無處不在，無處不在。", "confidence": "high", "notes": ""}
 
 100. Thank you. Kevin Randle, anything you want to add that you didn't say earlier?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。Kevin Randle，您有什麼想補充但之前沒說的嗎？", "confidence": "high", "notes": "Kevin Randle 為人名，保留原文"}
 
 101. One of the things that I wanted to kind of talk about, which I think diverts us a tad bit, is this Project Mogul nonsense. And the Air Force explanation that Project Mogul explains it all, that Project Mogul was highly classified, and that's why the officers at Roswell were unable to identify the wreckage when they saw it. But it turns out Project Mogul was -- although it was highly classified, the purpose, the equipment and the experiments being carried out in New Mexico was not classified. They were mentioned in the newspaper on July 10th as an explanation for what was found at Roswell. Charles Moore, who was the -- one of the scientists on Project Mogul, had said that it was so highly classified, they didn't even know the name. Yet, if you review Dr. Crary's diary from 1947, what you see is the name Mogul appearing periodically in it. The Air Forces used this as the cover. They said
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想談的其中一件事，我認為稍微讓我們偏離主題，就是這個 Project Mogul 的荒謬說法。空軍的解釋是 Project Mogul 解釋了一切，說 Project Mogul 是高度機密，這就是為什麼羅斯威爾的軍官們看到殘骸時無法辨識它。但事實證明 Project Mogul——儘管它的目的是高度機密，但在新墨西哥州進行的設備和實驗並不是機密。這些在 7 月 10 日的報紙上被提及，作為對羅斯威爾發現物的解釋。查爾斯·摩爾，他是 Project Mogul 的科學家之一，曾說這個計畫高度機密到他們甚至不知道名稱。然而，如果您查閱克雷里博士 1947 年的日記，您會看到 Mogul 這個名稱在其中週期性地出現。空軍用這個作為掩護。他們說", "confidence": "high", "notes": "Project Mogul 保留原文，Roswell 翻譯為「羅斯威爾」，Charles Moore 翻譯為「查爾斯·摩爾」，Dr. Crary 翻譯為「克雷里博士」"}
 
 102. originally in 1947 it was a weather balloon. Then they said, well, we lied about that, it wasn't a weather balloon. And then they gave us another one, another weather balloon as an explanation. And that seems to have set in now after the last 10 years with the media that, well, Roswell's explained as a weather balloon. And the answer is they can't even point to a flight of these balloons that have not been identified as such. So the Project Mogul explanation simply doesn't work. We looked at -- and I say we, Don and Stan and I have looked for alternative explanations for the Roswell case. We went to White Sands Missile Range to see if there was a missile launch that would account for the debris found on the Brazel Ranch. We went to the archives in Alamogordo on the space program to see if they were launching any kind of creatures, whether they were mice or mayflies or chimpanzees
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "最初在 1947 年說這是氣象氣球。然後他們說，好吧，我們對此撒謊了，這不是氣象氣球。然後他們又給了我們另一個解釋，又是氣象氣球。而這似乎在過去 10 年中已經在媒體中固化了，認為羅斯威爾已被解釋為氣象氣球。而答案是他們甚至無法指出這些氣球的哪一次飛行尚未被如此辨識。所以 Project Mogul 的解釋根本行不通。我們查看了——我說我們，Don 和 Stan 和我一直在尋找羅斯威爾案件的替代解釋。我們去了白沙飛彈試驗場，看看是否有飛彈發射可以解釋在布拉澤爾牧場發現的殘骸。我們去了新墨西哥州阿拉莫戈多的太空計畫檔案館，看看他們是否發射了任何生物，無論是老鼠、蜉蝣還是黑猩猩", "confidence": "high", "notes": "weather balloon 翻譯為「氣象氣球」，Roswell 翻譯為「羅斯威爾」，White Sands 翻譯為「白沙飛彈試驗場」（依 terminology 為「白沙靶場」但此處有 Missile Range），Brazel Ranch 翻譯為「布拉澤爾牧場」，Alamogordo 翻譯為「新墨西哥州阿拉莫戈多」"}
 
 103. that would account for the wreckage. And we could find absolutely nothing. I had always said if we could find an explanation for this -- maybe they had tested an astronaut in 1947 and he was killed in the test. And if we could find something like that, we could write best-selling books about it and make a lot of money. But we could find nothing that explains the Roswell wreckage when you account for all the testimony, all the people who were involved, what they told us, the limited documentation we have. But when you look at all of that together, none of the explanations offered explains it in terrestrial terms.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "可以解釋殘骸的來源。但我們完全找不到任何東西。我一直在說，如果我們能找到解釋——也許他們在 1947 年測試了一名太空人，而他在測試中喪生。如果我們能找到這樣的東西，我們可以寫出暢銷書並賺很多錢。但當您考慮所有證詞、所有涉及的人、他們告訴我們的事情、我們擁有的有限文件時，我們找不到任何東西可以解釋羅斯威爾的殘骸。但當您把所有這些放在一起看時，所提供的解釋沒有一個能用地面術語解釋它。", "confidence": "high", "notes": "Roswell 翻譯為「羅斯威爾」，terrestrial terms 翻譯為「地面術語」"}
 
 104. Yes, Mr. Friedman.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，Friedman 先生。", "confidence": "high", "notes": "Friedman 為人名，保留原文"}
 
 105. Another point that should be made is that I contacted somebody who looked at the newspaper in Alamogordo, which is right next to Holloman Air Force Base. And it turns out they staged the launch of a radar-reflector-weather-balloon combination -- On July 10th.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "另一個應該指出的要點是，我聯繫了一位查閱阿拉莫戈多報紙的人，那裡就在霍洛曼空軍基地旁邊。結果證明他們演出了一次雷達反射器-氣象氣球組合的發射——在 7 月 10 日。", "confidence": "high", "notes": "Alamogordo 翻譯為「阿拉莫戈多」，Holloman Air Force Base 翻譯為「霍洛曼空軍基地」"}
 
 106. The newspaper, July 10th. And fantasy of flying disk explained here was the headline. And they showed a picture of one of these balloon trains. And it just doesn't fit. If you look at the facts about what they launched and what was observed, they don't match. They don't match at all. But the fact that they went to the trouble of staging a launch tells you something. It was very important. Why bother? If it's just a dumb old weather balloon, who cares? It makes no sense. So they went to a lot of trouble to try to cover it up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "報紙，7 月 10 日。標題是「飛碟幻想在此解釋」。他們展示了這些氣球串列之一的照片。這根本不符合。如果您看看他們發射的東西和觀察到的東西的事實，它們不匹配。完全不匹配。但他們費心演出一次發射這個事實告訴了您一些事情。這非常重要。為什麼要費心？如果這只是一個愚蠢的舊氣象氣球，誰在乎？這毫無意義。所以他們費了很大力氣試圖掩蓋它。", "confidence": "high", "notes": "flying disk 翻譯為「飛碟」"}
 
 107. And when Cavett, the CIC man, comes up with this real crazy story that he knew it was a balloon right away, it only covered an area 20 feet in diameter, even though the newspaper said 200, mind you, fit in one car, nothing to it. If that's all there had been, the rancher would have brought in his wreckage and his little truck.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而當 Cavett，那個反情報部隊的人，提出這個真正瘋狂的故事，說他馬上就知道這是氣球，它只覆蓋了直徑 20 英呎的區域，儘管報紙說是 200 英呎，注意，能裝進一輛車裡，沒什麼大不了的。如果只有這些，那個牧場主人會用他的小卡車把殘骸帶來。", "confidence": "high", "notes": "Cavett 保留原文，CIC 翻譯為「反情報部隊」"}
 
 108. Right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對。", "confidence": "high", "notes": ""}
 
 109. And there would have been no reason for Jesse Marcel and Captain Cavett to follow them all the way out in the middle of nowhere. There's a lot of nowhere in New Mexico.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且沒有理由讓 Jesse Marcel 和 Cavett 上尉一路跟著他們到荒郊野外。新墨西哥州有很多荒涼的地方。", "confidence": "high", "notes": "Jesse Marcel 為人名保留原文，Captain 翻譯為「上尉」，Cavett 保留原文，New Mexico 翻譯為「新墨西哥州」"}
 
 110. Right. Which is...
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對。這就是……", "confidence": "high", "notes": ""}
 
 111. And they stayed overnight, had their sleeping bags. That's making a big deal about nothing when Cavett lies and says it would fit in one vehicle, 20 feet square. But the New York Times didn't comment about it. Everybody carried that explanation. So one of the things we're dealing with here is a failure of the press to ask even the obvious questions. You know, the colonel, the head of the 509th can't identify a weather balloon? These guys had fought in the Pacific. They weren't right off the training base. Jesse Marcel couldn't identify a weather balloon. They got away with it. But this is in the '90s, mind you. So the press is still not doing its job.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且他們過夜了，帶著睡袋。當 Cavett 撒謊說它能裝進一輛車，20 英呎見方時，這就是小題大做。但《紐約時報》沒有對此發表評論。每個人都採用了那個解釋。所以我們在這裡處理的問題之一是媒體未能提出哪怕是顯而易見的問題。您知道，那個上校，509 轟炸大隊的指揮官無法辨識氣象氣球？這些人在太平洋作戰過。他們不是剛從訓練基地出來的。Jesse Marcel 無法辨識氣象氣球。他們僥倖逃脫了。但這是在 90 年代，注意。所以媒體仍然沒有盡到職責。", "confidence": "high", "notes": "Cavett 保留原文，colonel 翻譯為「上校」，509th 翻譯為「509 轟炸大隊」，Jesse Marcel 保留原文"}
 
 112. I can understand in '47, we just fought a great war. You know, you believe the government...
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我可以理解在 47 年，我們剛打完一場大戰。您知道，您相信政府……", "confidence": "high", "notes": ""}
 
 113. Didn't everybody believe the government back then? But in '97, that they could get away with this, it really bugs me. And a little inside story. I'm waiting. They have reissued, Cosimo Publishers has reissued those two volumes of the Roswell Report. The second one was case closed. The first one said they were not going to say anything more. Three years later, this is the second one. On the top, it says, "With the new introduction by nuclear physicist Stanton Friedman, author of Crash at Corona, the definitive study, the Roswell Incident." I'm waiting for somebody in the Air Force, because my comments are very strong, about lies by the Air Force, about in this report. I'm waiting for somebody to say, "Hey, look what he said about us. If I don't make it home, you'll know why."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當時不是每個人都相信政府嗎？但在 97 年，他們能僥倖逃脫這一切，這真的讓我很困擾。還有一個小內幕。我在等著。他們重新發行了，Cosimo Publishers 重新發行了羅斯威爾報告的兩卷。第二卷是結案。第一卷說他們不會再說更多了。三年後，這是第二卷。在頂部，它說：「核物理學家史丹頓·佛烈德曼的新導言，《Crash at Corona》作者，羅斯威爾事件的權威研究。」我在等空軍的某個人，因為我的評論非常強烈，關於空軍在這份報告中的謊言。我在等某人說：「嘿，看看他對我們說了什麼。如果我回不了家，您就會知道原因。」", "confidence": "high", "notes": "Roswell 翻譯為「羅斯威爾」，Stanton Friedman 翻譯為「史丹頓·佛烈德曼」，Crash at Corona 保留原文書名"}
 
 114. In keeping, as far as even on the CIC, on the Sheridan-Cavett theme, as Kevin remembers the numerous times that we actually sat down and met with then Lieutenant Colonel Sheridan Cavett, he and his wife, Mary, whether in their home up in Sequim, Washington, or their winter home on Sierra Vista, yes. Yeah, he retired Lieutenant Colonel. And the very first meeting, how we spent the better part of an afternoon, his denying he was even there, that he had yet to even arrive at Roswell. Didn't matter. You're talking about someone else, someone who was there before me. And as we were leaving, he walked us out to the car and he says to us, "Boys, I need to know one thing. Should you find anything that should threaten national security, you will keep it to yourselves, won't you?" And we looked at one another and, "Yes, Colonel, of course, of course." And we got in the car and we looked
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "延續這個話題，甚至關於反情報部隊，關於謝里丹·卡維特的主題，正如 Kevin 記得我們實際上多次坐下來與當時的謝里丹·卡維特中校會面，他和他的妻子 Mary，無論是在他們位於華盛頓州塞奎姆的家中，還是在塞拉維斯塔的冬季住所，是的。是的，他是退役中校。第一次會面時，我們花了大半個下午，他否認他甚至在那裡，說他甚至還沒到達羅斯威爾。無所謂。您在談論別人，在我之前在那裡的人。當我們要離開時，他送我們到車邊，對我們說：「孩子們，我需要知道一件事。如果您們發現任何可能威脅國家安全的東西，您們會保密，對吧？」我們互相看了看，說：「是的，上校，當然，當然。」然後我們上了車，我們互相看了看", "confidence": "high", "notes": "CIC 翻譯為「反情報部隊」，Sheridan Cavett 翻譯為「謝里丹·卡維特」，Lieutenant Colonel 翻譯為「中校」，Sequim, Washington 翻譯為「華盛頓州塞奎姆」，Roswell 翻譯為「羅斯威爾」，Colonel 翻譯為「上校」"}
 
 115. at one another and said, "He knows. He knows." And then as we would visit and press more and more and we'd speak with him over the phone and demonstrate not only was he there, but he was involved and to the point that, "Well, I went out there, but it wasn't really anything." Well, at one point he even said, "Well, it could have been a flying saucer, but I wasn't involved," that type of thing. The very last time we met with him and he and his wife were outside at the car and I said to him, "Colonel, I really have to hand it to you. You've been a man who's kept your oath all these years. You're a true patriot."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "說：「他知道。他知道。」然後隨著我們不斷拜訪和施加壓力，我們通過電話與他交談，證明他不僅在那裡，而且還參與其中，以至於他說：「嗯，我去過那裡，但那真的不算什麼。」嗯，有一次他甚至說：「嗯，那可能是個飛碟，但我沒有參與，」諸如此類的話。我們最後一次與他見面時，他和他的妻子在車外，我對他說：「上校，我真的不得不佩服您。您是一個這些年來一直遵守誓言的人。您是一個真正的愛國者。」", "confidence": "high", "notes": "flying saucer 翻譯為「飛碟」，Colonel 翻譯為「上校」"}
 
 116. And he thanked me and I said, "But, Colonel, what gives you the right withholding it from my generation, all of us who weren't even there in 1947? You've decided for all of us."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他感謝了我，我說：「但是，上校，是什麼給了您權利對我們這一代人隱瞞這一切，我們所有人在 1947 年甚至都不在那裡？您為我們所有人做了決定。」", "confidence": "high", "notes": "Colonel 翻譯為「上校」"}
 
 117. And he paused for a moment and he says, "I've never thought of it that way before, but I'm still not going to tell you anything." And then his wife, Mary, blurts out, "Tell the boys about the colonel from the Pentagon who was just here to talk with you." And he turns and gives her this look, this searing look, and it was Colonel Richard Weaver in preparation of the Project Mogul Report, to which Colonel Cavett had become their lone star witness. And he snaps at us and, "Yes, and I told him exactly what I'm telling you. I wasn't involved."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他停頓了一下，說：「我以前從沒這樣想過，但我還是不會告訴您任何事情。」然後他的妻子 Mary 脫口而出：「告訴這些孩子關於五角大廈的那個上校剛來這裡和您談話的事。」他轉過身給了她一個眼神，一個灼人的眼神，那是理查德·韋弗上校為準備 Project Mogul 報告而來，卡維特上校已經成為他們唯一的明星證人。他對我們厲聲說：「是的，我告訴他的和我告訴您們的一模一樣。我沒有參與。」", "confidence": "high", "notes": "Colonel 翻譯為「上校」，Richard Weaver 翻譯為「理查德·韋弗」，Project Mogul 保留原文，Cavett 翻譯為「卡維特」"}
 
 118. Well, that's not what's in the Project Mogul Report, according to what he told Colonel Weaver. He was the one who immediately identified it as nothing more than this mogul balloon, and in fact, he kept it to himself. He didn't even bother telling the base commander or Major Marcel, but that he saw that it was nothing more than a weather balloon. So we caught him in a flat lie. He nonetheless is the only witness to this being a mogul balloon.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，根據他告訴韋弗上校的話，Project Mogul 報告中的內容不是這樣的。他是那個立即將其辨識為不過是這個莫古爾氣球的人，事實上，他把這件事藏在心裡。他甚至懶得告訴基地指揮官或馬瑟爾少校，但他看到這不過是一個氣象氣球。所以我們抓到他徹頭徹尾地撒謊。儘管如此，他仍然是唯一證明這是莫古爾氣球的證人。", "confidence": "high", "notes": "Colonel Weaver 翻譯為「韋弗上校」，Project Mogul 保留原文，mogul balloon 翻譯為「莫古爾氣球」，Major Marcel 翻譯為「馬瑟爾少校」"}
 
 119. But as he told us, as he said, as I told Colonel Weaver, "I wasn't involved." So who should we believe?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但正如他告訴我們的，正如他所說的，正如我告訴韋弗上校的：「我沒有參與。」那麼我們應該相信誰？", "confidence": "high", "notes": "Colonel Weaver 翻譯為「韋弗上校」"}
 
 120. And in fact, we have Colonel Kavett on tape. It was right after Weaver had seen him, and he was talking about how he wasn't there. We said, "Well, they talk about this West Texas boy who was a good horseman in Kavett says, 'Well, that sounds like me, but I wasn't there.'" And then this was after Weaver had interviewed him. We look at the testimony in the report, and Kavett says, "Well, I noticed it was a weather balloon immediately.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事實上，我們有卡維特上校的錄音。那是在韋弗剛見過他之後，他在談論他不在那裡。我們說：「嗯，他們談到這個西德克薩斯男孩是個好騎手，」卡維特說：「嗯，這聽起來像我，但我不在那裡。」然後這是在韋弗採訪他之後。我們查看報告中的證詞，卡維特說：「嗯，我立即注意到這是一個氣象氣球。」", "confidence": "high", "notes": "Colonel Kavett 翻譯為「卡維特上校」（注意原文拼寫為 Kavett，與前面的 Cavett 可能是拼寫錯誤），Weaver 翻譯為「韋弗」，West Texas 翻譯為「西德克薩斯」"}
 
 121. The next question should have been, did you communicate this rather vital piece of intelligence to Jesse Marcel?" But they go off on another tangent. Kavett made it clear that the CIC was a Class II facility on Roswell, which means he did not report to Blanchard in the chain of command. Blanchard was required to support his activity. But he should have said something to Blanchard before he sends people out to clean the mess up and before he issues a press release and says, "Well, we've got a flying saucer."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "下一個問題應該是，您有沒有把這個相當重要的情報傳達給 Jesse Marcel？」但他們轉向了另一個話題。卡維特明確表示，反情報部隊在羅斯威爾是一個二級設施，這意味著他在指揮鏈中不向布蘭查德報告。布蘭查德被要求支持他的活動。但他應該在派人去清理混亂之前，在發布新聞稿說「嗯，我們抓到了一個飛碟」之前，對布蘭查德說些什麼。", "confidence": "high", "notes": "Jesse Marcel 保留原文，Kavett 翻譯為「卡維特」（拼寫錯誤），CIC 翻譯為「反情報部隊」，Roswell 翻譯為「羅斯威爾」，Blanchard 翻譯為「布蘭查德」，flying saucer 翻譯為「飛碟」"}
 
 122. Thank you very much. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。謝謝。", "confidence": "high", "notes": ""}
