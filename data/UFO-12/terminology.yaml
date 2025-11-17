@@ -143,7 +143,7 @@ terms:
     senses:
       - id: schiff_congressman_full
         definition: 前美國眾議員，要求 GAO 調查羅斯威爾事件（全名）
-        preferred_translation: 史蒂芬·希夫眾議員
+        preferred_translation: 史蒂文·希夫眾議員
         segments: [125]
         notes: 推動 GAO 調查，發現羅斯威爾基地1947年夏季所有記錄被銷毀
 
@@ -290,7 +290,7 @@ terms:
     senses:
       - id: rowe_witness
         definition: 消防隊員 Dan Dwyer 的女兒
-        preferred_translation: 法蘭基·羅威
+        preferred_translation: 法蘭基·羅維
         segments: [94, 97]
         notes: 父親目擊遺體後向家人描述，全家遭軍方警告
 
@@ -331,7 +331,7 @@ terms:
     senses:
       - id: gulf_breeze_sightings
         definition: 佛羅里達州海灣微風市，頻繁出現 UFO 目擊
-        preferred_translation: 佛羅里達州海灣微風
+        preferred_translation: 佛羅里達州微風灣
         segments: [32]
         notes: Colonel French 在 OSI 時期被要求將目擊事件解釋為「沼澤氣體」
 
@@ -533,7 +533,7 @@ terms:
     senses:
       - id: friedman_researcher
         definition: 核物理學家，資深 UFO 研究者
-        preferred_translation: 史坦頓·弗里德曼
+        preferred_translation: 史丹頓·佛烈德曼
         segments: [81, 113]
         notes: 《Crash at Corona》作者，系統性駁斥 Project Mogul 解釋
 
