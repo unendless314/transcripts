@@ -31,7 +31,7 @@
 → {"text": "我可能是第一次向許多委員會成員介紹這個機構。", "confidence": "high", "notes": ""}
 
 11. And then I'm going to take an opportunity to walk the committee through a number of the roughly 86,000 reports that are in our database that I've collected over the last 19 years.
-→ {"text": "然後，我將帶領委員會瀏覽我們資料庫中大約86,000份報告中的若干案例，這些是我在過去19年間蒐集的。", "confidence": "high", "notes": ""}
+→ {"text": "然後，我將帶領委員會瀏覽我們資料庫中大約86，000份報告中的若干案例，這些是我在過去19年間蒐集的。", "confidence": "high", "notes": ""}
 
 12. What I'd like to do is, the only text that I'm going to read is the first paragraph of my position statement on the issue of UFOs, a copy of which should be in the packet of 10 pages of material that I've submitted to committee members.
 → {"text": "我想做的是，唯一要朗讀的文字是我針對UFO議題的立場聲明的第一段，這份聲明的副本應該在我提交給委員會成員的10頁資料包中。", "confidence": "high", "notes": ""}
@@ -88,7 +88,7 @@
 → {"text": "UFO報告中心設有熱線，24小時全天候開放。", "confidence": "high", "notes": ""}
 
 30. We also have a website, ufocenter.com, where over the course of the last 19 years I've accumulated approximately 86,000 written reports.
-→ {"text": "我們也有網站 ufocenter.com，在過去19年間，我累積了約86,000份書面報告。", "confidence": "high", "notes": ""}
+→ {"text": "我們也有網站 ufocenter.com，在過去19年間，我累積了約86，000份書面報告。", "confidence": "high", "notes": ""}
 
 31. I estimate that that represents roughly one-third of the reports that have been submitted to our center.
 → {"text": "我估計這大約代表提交到我們中心的報告總數的三分之一。", "confidence": "high", "notes": ""}
@@ -334,7 +334,7 @@
 → {"text": "這些目擊的原因是什麼，我們毫無頭緒。", "confidence": "high", "notes": ""}
 
 112. But we have roughly 2,000 to 3,000 of these sightings posted to our website.
-→ {"text": "但我們在網站上發布了大約2,000到3,000起這類目擊事件。", "confidence": "high", "notes": ""}
+→ {"text": "但我們在網站上發布了大約2，000到3，000起這類目擊事件。", "confidence": "high", "notes": ""}
 
 113. If members of the committee would like to see details, I would commend to their attention the roughly 38 cases that were submitted to our facility on Saturday night, the 10th of November, year 2012.
 → {"text": "如果委員會成員想看詳細資料，我建議他們關注2012年11月10日星期六晚上提交到我們機構的大約38個案例。", "confidence": "high", "notes": ""}

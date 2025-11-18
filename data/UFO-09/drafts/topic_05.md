@@ -106,7 +106,7 @@
 → {"text": "有報導在那裡，然後在報導之後，對此的解釋是什麼？", "confidence": "high", "notes": ""}
 
 421. I'm sure the Air Force thought that they could explain away nearly 12,000, 12,618 sightings.
-→ {"text": "我確信空軍認為他們可以解釋掉將近12,000個，也就是12,618個目擊事件。", "confidence": "high", "notes": ""}
+→ {"text": "我確信空軍認為他們可以解釋掉將近12，000個，也就是12，618個目擊事件。", "confidence": "high", "notes": ""}
 
 422. They explained away all but 701 of them.
 → {"text": "他們解釋掉了除了701個之外的所有案例。", "confidence": "high", "notes": ""}
@@ -235,13 +235,13 @@
 → {"text": "我確實有問題要問，但我想說，這個房間裡沒有瘋子，我對你們所有人都印象深刻，所以感謝你們讓我參與其中。", "confidence": "high", "notes": ""}
 
 464. Okay, Peter Davenport, you said that there's over 80,000 written reports and examples that you get, I mean, reports you get every year on your hotline and in your organization?
-→ {"text": "好的，彼得·達文波特，你說你們有超過80,000份書面報告和案例，我是說，你們每年通過熱線和組織收到的報告？", "confidence": "high", "notes": ""}
+→ {"text": "好的，彼得·達文波特，你說你們有超過80，000份書面報告和案例，我是說，你們每年通過熱線和組織收到的報告？", "confidence": "high", "notes": ""}
 
 465. We receive probably between 3,000 and 6,000 reports a year.
-→ {"text": "我們每年大概收到3,000到6,000份報告。", "confidence": "high", "notes": ""}
+→ {"text": "我們每年大概收到3，000到6，000份報告。", "confidence": "high", "notes": ""}
 
 466. We have, I think, 86,000 reports accumulated in our database.
-→ {"text": "我想我們的資料庫中累積了86,000份報告。", "confidence": "high", "notes": ""}
+→ {"text": "我想我們的資料庫中累積了86，000份報告。", "confidence": "high", "notes": ""}
 
 467. Okay, well, give us an example or two of what somebody would call about that actually resulted in incredible action.
 → {"text": "好的，那麼給我們一兩個例子，說明有人打電話報告什麼事情，實際上導致了令人難以置信的行動。", "confidence": "high", "notes": ""}
@@ -262,7 +262,7 @@
 → {"text": "從地面人們的視角來看，它張開了大約135度的弧度。", "confidence": "high", "notes": ""}
 
 473. It was that large above their heads, at which time it was not less than 8,000 feet above ground level.
-→ {"text": "它在他們頭頂上就是那麼大，當時它距離地面不少於8,000英呎。", "confidence": "high", "notes": ""}
+→ {"text": "它在他們頭頂上就是那麼大，當時它距離地面不少於8，000英呎。", "confidence": "high", "notes": ""}
 
 474. The size of these objects by itself tells us that we're dealing with something extraordinary.
 → {"text": "這些物體的大小本身就告訴我們，我們正在處理某種非凡的東西。", "confidence": "high", "notes": ""}
@@ -307,7 +307,7 @@
 → {"text": "我認為完整的故事還有待理解，我不確定我們能否獲得完整的故事。", "confidence": "high", "notes": ""}
 
 488. But about 1,500 witnesses submitted written reports.
-→ {"text": "但大約有1,500名目擊者提交了書面報告。", "confidence": "high", "notes": ""}
+→ {"text": "但大約有1，500名目擊者提交了書面報告。", "confidence": "high", "notes": ""}
 
 489. That's pretty good evidence by my standard.
 → {"text": "以我的標準來看，這是相當好的證據。", "confidence": "high", "notes": ""}
@@ -1138,7 +1138,7 @@
 → {"text": "謝謝，主席先生。", "confidence": "high", "notes": ""}
 
 765. Mr. Davenport, you indicated you received about 86,000 incidents, I guess, over the years, about 3,000 to 5,000 a year.
-→ {"text": "達文波特先生，你說你這些年來收到了大約86,000個事件，我想，每年大約3,000到5,000個。", "confidence": "high", "notes": ""}
+→ {"text": "達文波特先生，你說你這些年來收到了大約86，000個事件，我想，每年大約3，000到5，000個。", "confidence": "high", "notes": ""}
 
 766. Your list here of 62, and I appreciate that you went back to 1936 on the first one, and I noticed that probably 55 or more are more recent, probably in the last 15 or 16 years.
 → {"text": "你這裡的62個清單，我很感激你第一個追溯到1936年，我注意到可能55個或更多是更近期的，可能在過去15或16年內。", "confidence": "high", "notes": ""}
@@ -1153,10 +1153,10 @@
 → {"text": "謝謝你的提問，庫克眾議員。", "confidence": "high", "notes": ""}
 
 770. There were several criteria, the drama involved with the sighting, the degree of corroboration, the degree of verification, but in essence, I drew up that list as a distillation from the 86,000 cases for the committee's benefit to show you some of the more dramatic, well-founded cases that we have in our database.
-→ {"text": "有幾個標準，目擊事件涉及的戲劇性、佐證程度、驗證程度，但本質上，我從86,000個案例中提煉出那份清單，以便委員會了解我們資料庫中一些更戲劇性、有充分依據的案例。", "confidence": "high", "notes": ""}
+→ {"text": "有幾個標準，目擊事件涉及的戲劇性、佐證程度、驗證程度，但本質上，我從86，000個案例中提煉出那份清單，以便委員會了解我們資料庫中一些更戲劇性、有充分依據的案例。", "confidence": "high", "notes": ""}
 
 771. And you, like others that have studied this, would probably say that a high percentage of the 86,000 that you've received are probably not credible.
-→ {"text": "而你，像其他研究過這個的人一樣，可能會說你收到的86,000個案例中有很高比例可能是不可信的。", "confidence": "high", "notes": ""}
+→ {"text": "而你，像其他研究過這個的人一樣，可能會說你收到的86，000個案例中有很高比例可能是不可信的。", "confidence": "high", "notes": ""}
 
 772. I mean, it doesn't take a very high percentage to make a really important case here, so I'm trying to get a sense of what you think would be a credible percentage of all those numbers.
 → {"text": "我的意思是，不需要很高的百分比就能在這裡提出一個非常重要的案例，所以我試圖了解你認為在所有這些數字中有多少百分比是可信的。", "confidence": "high", "notes": ""}
@@ -1327,7 +1327,7 @@
 → {"text": "下一輪聽證會是文件，已經有來自我們政府內部的洩露文件，其中包含了外星生物實體這個短語，縮寫為全大寫的E-B-E-S，至少從我認為我們都沒有發現任何爭議的文件的印刷開始，就是帶有1954年戰爭辦公室印章的SOM 101文件。", "confidence": "high", "notes": ""}
 
 828. If our government, going back to FDR, which there were also leaked documents about the discussion between FDR and the Secretary of War, Marshall, after February 1942, made the front page of the Los Angeles Times, the photograph of our artillery and beams going up to a diamond shaped object, distributing some 1,417 bullets, and then having that discussed in documents by Franklin Delano Roosevelt with the Secretary of War, and that in those documents that had been leaked, it uses the terms, these were interplanetary, celestial, and that we were retrieving these craft because we wanted to examine them.
-→ {"text": "如果我們的政府，追溯到羅斯福，也有關於1942年2月之後羅斯福與戰爭部長馬歇爾之間討論的洩露文件，登上了《洛杉磯時報》的頭版，我們的火炮和光束射向一個菱形物體的照片，發射了大約1,417發子彈，然後富蘭克林·德拉諾·羅斯福與戰爭部長在文件中討論了這件事，而在那些洩露的文件中，它使用了這些術語，這些是行星際的、天體的，我們正在回收這些飛行器因為我們想檢查它們。", "confidence": "high", "notes": ""}
+→ {"text": "如果我們的政府，追溯到羅斯福，也有關於1942年2月之後羅斯福與戰爭部長馬歇爾之間討論的洩露文件，登上了《洛杉磯時報》的頭版，我們的火炮和光束射向一個菱形物體的照片，發射了大約1，417發子彈，然後富蘭克林·德拉諾·羅斯福與戰爭部長在文件中討論了這件事，而在那些洩露的文件中，它使用了這些術語，這些是行星際的、天體的，我們正在回收這些飛行器因為我們想檢查它們。", "confidence": "high", "notes": ""}
 
 829. That puts a context here, again, that would be before the war.
 → {"text": "這再次在這裡提供了一個背景，那將是在戰爭之前。", "confidence": "high", "notes": ""}
