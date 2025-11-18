@@ -85,7 +85,7 @@
 → {"text": "他的最佳估計是它離地面 80 到 100 英呎高，長度為 40 到 50 英呎。", "confidence": "high", "notes": ""}
 
 329. It was hard to see his perspective exactly because he didn't know if it was way high, it could have been 1,000 feet long. If it was way low, it could have been less, but that was his best guess.
-→ {"text": "很難確定他的視角，因為他不知道如果它非常高，它可能長達 1,000 英呎。如果它很低，可能會更短，但這是他的最佳估計。", "confidence": "high", "notes": ""}
+→ {"text": "很難確定他的視角，因為他不知道如果它非常高，它可能長達 1，000 英呎。如果它很低，可能會更短，但這是他的最佳估計。", "confidence": "high", "notes": ""}
 
 330. While we were talking, he reported that it was moving down the access road to the east and very slowly and very quietly.
 → {"text": "在我們通話期間，他報告說它正沿著通道向東移動，非常緩慢，非常安靜。", "confidence": "high", "notes": ""}

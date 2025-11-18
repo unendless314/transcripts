@@ -91,7 +91,7 @@
 → {"text": "我們就別提了，除非你們兩個想被嘲笑到離開軍隊。」", "confidence": "high", "notes": "laughed out of this service 意為被嘲笑到無法繼續服役"}
 
 293. A few nights later, in the security police barracks back at Minot Air Force Base, I was listening to a news broadcast from Winnipeg, Canada, radio station.
-→ {"text": "幾天後的一個晚上，在邁諾特空軍基地的安全警察營房裡，我正在收聽加拿大溫尼伯（Winnipeg, Canada）廣播電台的新聞廣播。", "confidence": "high", "notes": ""}
+→ {"text": "幾天後的一個晚上，在邁諾特空軍基地的安全警察營房裡，我正在收聽加拿大溫尼伯（Winnipeg， Canada）廣播電台的新聞廣播。", "confidence": "high", "notes": ""}
 
 294. The announcer read the story of an incident which had occurred just a few nights before, and fighter planes of the Canadian Air Force had scrambled to pursue the UFO.
 → {"text": "播報員宣讀了幾天前發生的一起事件，加拿大空軍（Canadian Air Force）的戰鬥機緊急起飛追蹤不明飛行物。", "confidence": "high", "notes": "scrambled 為軍事術語，指緊急起飛"}

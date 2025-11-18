@@ -61,7 +61,7 @@
 → {"text": "六名駕駛格魯曼 F6F 地獄貓戰鬥機 (Grumman F6F Hellcats) 的飛行員被派遣升空。最後，他們看到了它，並飛去攔截。", "confidence": "high", "notes": ""}
 
 407. It was estimated to be about 65,000 feet, very, very high up.
-→ {"text": "估計它的高度約為 65,000 英呎，非常非常高。", "confidence": "high", "notes": ""}
+→ {"text": "估計它的高度約為 65，000 英呎，非常非常高。", "confidence": "high", "notes": ""}
 
 408. No one was able to recognize it. It had what the book described as "a saucer-like appearance, bright, very fast, very high."
 → {"text": "沒有人能辨認出它是什麼。根據書中描述，它具有「類似碟形的外觀，明亮、速度非常快、高度非常高」。", "confidence": "high", "notes": ""}
@@ -103,7 +103,7 @@
 → {"text": "在此之後，那個飛行器就像來時一樣迅速消失了。它沒有再回來。", "confidence": "high", "notes": ""}
 
 421. They had pushed their aircraft up to 42,000 feet, which was 5,000 feet above their maximum ceiling.
-→ {"text": "他們將飛機推升到 42,000 英呎，比最大升限高出 5,000 英呎。", "confidence": "high", "notes": ""}
+→ {"text": "他們將飛機推升到 42，000 英呎，比最大升限高出 5，000 英呎。", "confidence": "high", "notes": ""}
 
 422. It was very obviously a serious event. No press coverage, as you would expect.
 → {"text": "這顯然是一個嚴重的事件。如你所料，沒有任何新聞報導。", "confidence": "high", "notes": ""}
@@ -169,7 +169,7 @@
 → {"text": "直到今天，我們仍不知道這些物體是什麼。", "confidence": "high", "notes": ""}
 
 443. Another key place where the U.S. developed its atomic technologies was at Oak Ridge, Tennessee.
-→ {"text": "美國發展原子技術的另一個關鍵地點是田納西州橡樹嶺 (Oak Ridge, Tennessee)。", "confidence": "high", "notes": ""}
+→ {"text": "美國發展原子技術的另一個關鍵地點是田納西州橡樹嶺 (Oak Ridge， Tennessee)。", "confidence": "high", "notes": ""}
 
 444. Here's where the Manhattan Project had established a pilot plant to produce plutonium.
 → {"text": "曼哈頓計畫 (Manhattan Project) 就是在這裡建立了生產鈽的試驗工廠。", "confidence": "high", "notes": ""}
@@ -181,7 +181,7 @@
 → {"text": "一份 1950 年 10 月 13 日的解密電傳打字稿指出，前一晚空軍雷達裝置偵測到 11 個不明物體，可能更多，穿越橡樹嶺上空。", "confidence": "high", "notes": ""}
 
 447. They were slow, low in the sky, less than 5,000 feet, maybe 1,000.
-→ {"text": "它們速度緩慢，在低空飛行，低於 5,000 英呎，也許只有 1,000 英呎。", "confidence": "high", "notes": ""}
+→ {"text": "它們速度緩慢，在低空飛行，低於 5，000 英呎，也許只有 1，000 英呎。", "confidence": "high", "notes": ""}
 
 448. Fighters were scrambled, but they saw nothing.
 → {"text": "戰鬥機緊急起飛，但什麼也沒看到。", "confidence": "high", "notes": ""}
@@ -235,7 +235,7 @@
 → {"text": "一架 F-86 戰鬥機剛剛飛過，之後看到一個黑色物體從白雲中出現。", "confidence": "high", "notes": ""}
 
 465. It was about 12,000 to 15,000 feet altitude.
-→ {"text": "它的高度約為 12,000 到 15,000 英呎。", "confidence": "high", "notes": ""}
+→ {"text": "它的高度約為 12，000 到 15，000 英呎。", "confidence": "high", "notes": ""}
 
 466. It began to travel in large circles very rapidly for about five minutes.
 → {"text": "它開始以非常快的速度畫大圓圈移動，持續約五分鐘。", "confidence": "high", "notes": ""}
