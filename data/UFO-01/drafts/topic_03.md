@@ -112,7 +112,7 @@
 → {"text": "即使是歐巴馬總統本人也說過與他自己的白宮所發布的聲明相矛盾的話。", "confidence": "high", "notes": ""}
 
 187. This might be because neither he nor anybody in his office saw the petition on ET question despite the fact that over 12,000 people signed the petition addressed to the President.
-→ {"text": "這可能是因為儘管有超過 12,000 人簽署了致總統的外星人問題請願書，但他本人和辦公室裡的任何人都沒有看到這份請願書。", "confidence": "high", "notes": ""}
+→ {"text": "這可能是因為儘管有超過 12，000 人簽署了致總統的外星人問題請願書，但他本人和辦公室裡的任何人都沒有看到這份請願書。", "confidence": "high", "notes": ""}
 
 188. During a visit to Roswell, New Mexico in 2012, President Obama referred to the White House -- to the Roswell crash saying, "We're going to keep our secrets here."
 → {"text": "2012 年在訪問新墨西哥州 Roswell 期間，歐巴馬總統提到白宮——提到羅斯威爾墜毀事件時說：「我們要在這裡保守我們的秘密。」", "confidence": "high", "notes": ""}

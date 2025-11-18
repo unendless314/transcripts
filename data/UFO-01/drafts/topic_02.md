@@ -226,7 +226,7 @@
 → {"text": "事實上，還有壓倒性數量的案例。", "confidence": "high", "notes": ""}
 
 137. The two largest websites for collecting North American UFO reports, the National UFO Reporting Center and the Mutual UFO Network, have a combined total of well over 10,000 reports every year.
-→ {"text": "收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心和 UFO 互動網絡，每年合計收到遠超過 10,000 份報告。", "confidence": "high", "notes": ""}
+→ {"text": "收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心和 UFO 互動網絡，每年合計收到遠超過 10，000 份報告。", "confidence": "high", "notes": ""}
 
 138. Every year.
 → {"text": "每年。", "confidence": "high", "notes": ""}

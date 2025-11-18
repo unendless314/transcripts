@@ -154,7 +154,7 @@
 → {"text": "（掌聲）", "confidence": "high", "notes": ""}
 
 51. I think it was about 33 years ago I was camping in West Virginia on a mountain 4,000 feet high.
-→ {"text": "我想那是大約 33 年前，我在西維吉尼亞州一座 4,000 英呎高的山上露營。", "confidence": "high", "notes": ""}
+→ {"text": "我想那是大約 33 年前，我在西維吉尼亞州一座 4，000 英呎高的山上露營。", "confidence": "high", "notes": ""}
 
 52. I got up in the middle of the night and went out and I just couldn't believe what I saw.
 → {"text": "我在半夜起床走到外面，簡直無法相信我所看到的景象。", "confidence": "high", "notes": ""}

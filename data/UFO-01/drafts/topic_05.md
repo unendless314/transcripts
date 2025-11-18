@@ -70,7 +70,7 @@
 → {"text": "光束傳送可以解釋為什麼沒有任何足跡，甚至在沒有草的塵土牧場上發現的屍體周圍連動物自己的足跡都沒有。", "confidence": "high", "notes": ""}
 
 358. The animals are found in what is equivalent to face powder with no tracks around a 2,000 pound or 1,800 pound animal that has an ear, eye, tongue, jaw flesh, genitals and rectum removed without any blood.
-→ {"text": "這些動物被發現時周圍是像撲粉一樣的細土，在這隻重達 2,000 磅或 1,800 磅、耳朵、眼睛、舌頭、下顎肌肉、生殖器和直腸被移除且沒有任何血跡的動物周圍沒有任何足跡。", "confidence": "high", "notes": ""}
+→ {"text": "這些動物被發現時周圍是像撲粉一樣的細土，在這隻重達 2，000 磅或 1，800 磅、耳朵、眼睛、舌頭、下顎肌肉、生殖器和直腸被移除且沒有任何血跡的動物周圍沒有任何足跡。", "confidence": "high", "notes": ""}
 
 359. The documentary that I produced, A Strange Harvest, was awarded a regional Emmy.
 → {"text": "我製作的紀錄片《詭異收穫》獲得了地區艾美獎。", "confidence": "high", "notes": ""}

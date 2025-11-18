@@ -1,0 +1,753 @@
+# Terminology for UFO-18: The Truth Embargo
+#
+# 本檔案為 UFO-18 專用術語庫，基於 terminology_template.yaml 並根據本集內容調整。
+# 本集主題：真相封鎖、艾森豪威爾與 MJ-12 對抗、Area 51 證詞、脫離文明理論
+#
+# 結構說明：
+#   - term: 英文詞彙
+#   - senses: 多義項陣列
+#     - id: 唯一識別碼
+#     - definition: 語義說明
+#     - preferred_translation: 優先譯法
+#     - notes: 補充說明
+#     - segments: 該語義適用的 segment_id 列表（由分類產生）
+#     - topics: 該語義適用的 topic_id 列表（選填）
+
+episode_id: UFO-18
+
+terms:
+  # ==========================================
+  # 核心概念與現象
+  # ==========================================
+
+  - term: Truth Embargo
+    senses:
+      - id: truth_embargo_concept
+        definition: 透過媒體控制、嘲笑文化與自我審查維持的 UFO 資訊封鎖
+        preferred_translation: 真相封鎖
+        notes: 本集標題主題。與 cover-up（真相掩蓋）相對應：cover-up 指政府內部隱藏事實，truth embargo 指阻斷資訊對外流通。Linda Moulton Howe 在證詞中詳述此政策自 1947 年杜魯門政府確立
+        segments: [11, 98, 99, 106]
+        topics: [topic_01, topic_02, topic_03]
+
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施，傳聞與 UFO 研究和先進航空技術相關
+        preferred_translation: 51 區
+        notes: 本集核心地點。匿名證人描述 1958 年奉艾森豪威爾之命前往此處，目睹回收的外星飛行器和外星存有
+        segments: [42, 44, 67, 96, 144]
+        topics: [topic_01, topic_02, topic_05]
+
+  - term: S-4
+    senses:
+      - id: s4_facility
+        definition: Area 51 南方約 13-15 英里的高度機密設施，據稱位於 Papoose Mountain 內部
+        preferred_translation: S-4 設施
+        notes: 匿名證人聲稱在此處看到多架外星飛行器（包括羅斯威爾飛碟）、外星遺體解剖影片，以及與灰人的會面。多層設施隱藏於山內
+        segments: [42, 46, 52, 96, 144]
+        topics: [topic_01, topic_05]
+
+  - term: Breakaway civilization
+    senses:
+      - id: breakaway_civilization_secret
+        definition: 脫離主流社會、掌握逆向工程外星科技的秘密人類文明
+        preferred_translation: 脫離文明
+        notes: Richard Dolan 提出的理論：機密黑預算世界的一部分已發展到遠超公眾領域，形成準獨立社會，可能擁有秘密太空艦隊，不受民選政府管轄
+        segments: [119]
+        topics: [topic_03]
+
+  - term: MJ-12
+    senses:
+      - id: mj12_group
+        definition: Majestic 12，傳說中管控 UFO 資訊的秘密政府組織
+        preferred_translation: MJ-12
+        notes: 本集關鍵組織。艾森豪威爾總統因 MJ-12 拒絕報告而威脅以第一軍團入侵 Area 51。首次出現時可補充「MJ-12（Majestic 12）」
+        segments: [40, 42, 67, 101]
+        topics: [topic_01, topic_02]
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的官方 UFO 調查計畫，部分為公關工具
+        preferred_translation: 藍皮書計畫
+        notes: 匿名證人描述其部分為「騙局」，作為向公眾交代的門面，但也處理真實的 UFO 案例。他在 1958 年參與此計畫的機密部分
+        segments: [23, 24, 29, 37]
+        topics: [topic_01]
+
+  - term: the Greys
+    senses:
+      - id: grey_alien_type
+        definition: 小型灰色外星人，具有大眼睛、小身軀、東方面孔特徵
+        preferred_translation: 灰人
+        notes: 匿名證人在 S-4 目擊的活體外星存有。描述為有點東方臉孔、灰色皮膚、大眼睛。穿著類似美式 T 恤。能進行心靈感應溝通
+        segments: [29, 57, 58, 60, 144, 164]
+        topics: [topic_01, topic_05]
+
+  - term: telepathic
+    senses:
+      - id: telepathic_communication
+        definition: 透過心靈直接傳遞思想、影像、感受的溝通方式
+        preferred_translation: 心靈感應的
+        notes: Linda Moulton Howe 詳述外星存有的溝通方式為「上傳/下載」式的資訊交換，強度極大，通常導致人類暈眩。描述為七部電影同時在腦中播放，伴隨三維金色符號
+        segments: [146, 150, 151, 152, 160]
+        topics: [topic_05]
+
+  # ==========================================
+  # 政府/軍事機構
+  # ==========================================
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        notes: 匿名證人的雇主。他在陸軍服役期間被 CIA 招募，負責處理 Project Blue Book 的機密案件。使用化名工作
+        segments: [19, 22, 23, 27, 29, 80, 95, 102, 103, 121, 144, 151, 218]
+        topics: [topic_01, topic_02, topic_03, topic_05]
+
+  - term: NSA
+    senses:
+      - id: nsa_agency
+        definition: National Security Agency，美國國家安全局
+        preferred_translation: NSA
+        notes: Major Torres 在 1957 年遭遇事件後，被 NSA 人員（他稱為「spook」）威脅保持沉默。NSA 也在 FOIA 訴訟中被揭露持有大量 UFO 文件
+        segments: [102, 103, 139, 142]
+        topics: [topic_02, topic_04]
+
+  - term: U.S. Air Force
+    senses:
+      - id: usaf_branch
+        definition: 美國空軍
+        preferred_translation: 美國空軍
+        notes: Major Milton Torres 服役單位。縮寫 USAF
+        segments: [124, 143]
+        topics: [topic_04]
+
+  - term: OSS
+    senses:
+      - id: oss_building
+        definition: Office of Strategic Services，戰略情報局（二戰時期）；此處指其舊辦公樓
+        preferred_translation: 戰略情報局
+        notes: 匿名證人與其上司向艾森豪威爾、尼克森、胡佛報告的地點為 OSS 舊樓二樓
+        segments: [74]
+        topics: [topic_01]
+
+  # ==========================================
+  # 軍事設施與地點
+  # ==========================================
+
+  - term: Fort Belvoir
+    senses:
+      - id: fort_belvoir_base
+        definition: 維吉尼亞州的美國陸軍基地
+        preferred_translation: 貝爾沃堡
+        notes: 匿名證人工作地點，UFO 報告從此處傳送至 CIA 蘭利總部。原轉錄錯誤為 Fort Belleville，已修正
+        segments: [25, 26, 95]
+        topics: [topic_01, topic_02]
+
+  - term: Papoose Mountain
+    senses:
+      - id: papoose_mountain_location
+        definition: 內華達州 Area 51 附近的山脈，據稱內部藏有多層設施
+        preferred_translation: 帕普斯山
+        notes: S-4 設施據稱位於此山內部，匿名證人形容為「博物館般」展示外星飛行器的地點
+        segments: [96, 144, 161]
+        topics: [topic_02, topic_05]
+
+  - term: RAF Manston
+    senses:
+      - id: raf_manston_base
+        definition: 英國肯特郡的皇家空軍基地，冷戰時期主要攔截基地
+        preferred_translation: 曼斯頓皇家空軍基地
+        notes: Major Torres 1957 年 5 月 20 日執行攔截任務的基地。原轉錄錯誤為 RAF Manson，已修正
+        segments: [131, 156, 157]
+        topics: [topic_04, topic_05]
+
+  - term: Kirtland Air Force Base
+    senses:
+      - id: kirtland_afb_location
+        definition: 新墨西哥州阿布奎基的美國空軍基地，與核武設施和 UFO 事件相關
+        preferred_translation: 柯特蘭空軍基地
+        notes: Linda Moulton Howe 於 1983 年在此看到機密文件，內容涉及外星生物實體
+        segments: [99]
+        topics: [topic_02]
+
+  - term: North Sea
+    senses:
+      - id: north_sea_location
+        definition: 北海，位於英國與歐洲大陸之間
+        preferred_translation: 北海
+        notes: Major Torres 遭遇 UFO 的空域，目標在 32,000 英尺靜止
+        segments: [135, 141]
+        topics: [topic_04]
+
+  # ==========================================
+  # 航空器與技術
+  # ==========================================
+
+  - term: F-86D
+    senses:
+      - id: f86d_aircraft
+        definition: F-86D Sabre 戰鬥機，全天候攔截機型
+        preferred_translation: F-86D 戰鬥機
+        notes: Major Torres 執行任務時駕駛的機型，配備 24 枚 Mighty Mouse 火箭，最高速度僅 Mach 0.98，而遭遇的 UFO 可達 Mach 10+
+        segments: [131, 135, 139]
+        topics: [topic_04]
+
+  - term: SR-71
+    senses:
+      - id: sr71_blackbird
+        definition: SR-71 Blackbird 偵察機，洛克希德設計的高速高空偵察機
+        preferred_translation: SR-71 黑鳥式偵察機
+        notes: 匿名證人在 Area 51 看到其模型（當時尚未公開）。可與 Blackbird 通用
+        segments: [67, 68]
+        topics: [topic_01]
+
+  - term: Blackbird
+    senses:
+      - id: blackbird_sr71
+        definition: SR-71 的暱稱「黑鳥」
+        preferred_translation: 黑鳥
+        notes: 與 SR-71 同義
+        segments: [68]
+        topics: [topic_01]
+
+  - term: Lockheed Electra
+    senses:
+      - id: lockheed_electra_aircraft
+        definition: 洛克希德 Electra 運輸機
+        preferred_translation: 洛克希德 Electra
+        notes: 匿名證人搭乘的通勤飛機機型，往返 Area 51
+        segments: [71]
+        topics: [topic_01]
+
+  - term: U-2
+    senses:
+      - id: u2_aircraft
+        definition: U-2 高空偵察機
+        preferred_translation: U-2 偵察機
+        notes: 匿名證人在 Area 51 看到（當時尚未公開）
+        segments: [67]
+        topics: [topic_01]
+
+  - term: Roswell craft
+    senses:
+      - id: roswell_ufo
+        definition: 1947 年羅斯威爾事件中墜毀的外星飛行器
+        preferred_translation: 羅斯威爾飛行器
+        notes: 匿名證人在 S-4 目睹，描述為受損但有兩層結構、具備反重力推進系統
+        segments: [47, 48, 49]
+        topics: [topic_01]
+
+  # ==========================================
+  # 科學與技術概念
+  # ==========================================
+
+  - term: electrogravitics
+    senses:
+      - id: electrogravitics_propulsion
+        definition: 電重力學，利用電磁場影響重力的推進理論
+        preferred_translation: 電重力學
+        notes: Richard Dolan 提及的逆向工程研究領域。原轉錄錯誤為 lecture gravatics，已修正
+        segments: [119, 204]
+        topics: [topic_03, topic_05]
+
+  - term: field propulsion
+    senses:
+      - id: field_propulsion_theory
+        definition: 場推進，透過產生力場移動物體而非傳統噴射推進
+        preferred_translation: 場推進
+        notes: 解釋 UFO 如何進行極端加速而不產生致命 G 力的理論。與反重力（anti-gravity）概念相關
+        segments: [168, 200]
+        topics: [topic_05]
+
+  - term: anti-gravity
+    senses:
+      - id: antigravity_tech
+        definition: 反重力技術，抵消或操縱引力效應
+        preferred_translation: 反重力
+        notes: 與 electrogravitics、field propulsion 相關的推進概念
+        segments: [119]
+        topics: [topic_03]
+
+  - term: reversing gravity
+    senses:
+      - id: reversing_gravity_concept
+        definition: 反轉重力方向，使物體產生推斥而非吸引效應
+        preferred_translation: 反轉重力
+        notes: 匿名證人描述羅斯威爾飛行器的動力源特性。原轉錄錯誤為 recursing gravity，已修正
+        segments: [50]
+        topics: [topic_01]
+
+  - term: G-forces
+    senses:
+      - id: g_forces_physics
+        definition: 加速度產生的慣性力，以地球重力倍數表示
+        preferred_translation: G 力
+        notes: 討論 UFO 極端加速為何不會殺死駕駛員的關鍵物理概念
+        segments: [166, 199]
+        topics: [topic_05]
+
+  - term: Miguel Alcubierre
+    senses:
+      - id: alcubierre_scientist
+        definition: 墨西哥理論物理學家，提出曲速引擎理論
+        preferred_translation: 米格爾·阿庫別瑞
+        notes: 證人提到其「曲速引擎」理論可能解釋 UFO 推進方式而不違反相對論
+        segments: [169, 202]
+        topics: [topic_05]
+
+  - term: Einstein's theory of relativity
+    senses:
+      - id: relativity_theory
+        definition: 愛因斯坦相對論
+        preferred_translation: 愛因斯坦相對論
+        notes: 討論 UFO 推進是否違反物理定律的背景理論
+        segments: [167]
+        topics: [topic_05]
+
+  # ==========================================
+  # 歷史事件與文件
+  # ==========================================
+
+  - term: Roswell Incident
+    senses:
+      - id: roswell_incident_1947
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        notes: 匿名證人的上司向他介紹此事件，並稱在 S-4 親眼看到該飛行器
+        segments: [29, 116]
+        topics: [topic_01, topic_03]
+
+  - term: Freedom of Information Act
+    senses:
+      - id: foia_law
+        definition: 美國資訊自由法，允許民眾申請政府文件
+        preferred_translation: 資訊自由法
+        notes: Linda Moulton Howe 描述律師 Peter Gersten 透過 FOIA 揭露 CIA 與 NSA 互相推諉、隱藏 UFO 文件的情況。縮寫 FOIA
+        segments: [102]
+        topics: [topic_02]
+
+  - term: animal mutilations
+    senses:
+      - id: animal_mutilation_phenomenon
+        definition: 動物（主要是牛隻）被發現以不明手術方式肢解的現象
+        preferred_translation: 動物肢解案件
+        notes: Linda Moulton Howe 的專業研究領域，製作紀錄片《A Strange Harvest》。參議員 Harrison Schmitt 試圖調查此現象與外星生物實體的關聯但遭封鎖
+        segments: [101, 102]
+        topics: [topic_02]
+
+  - term: War of the Worlds
+    senses:
+      - id: war_worlds_broadcast
+        definition: 1938 年奧森·威爾斯廣播劇《世界大戰》，引發恐慌
+        preferred_translation: 世界大戰
+        notes: 討論政府保密動機時提及，暗示擔心公眾恐慌
+        segments: [170, 220]
+        topics: [topic_05]
+
+  - term: majestic documents
+    senses:
+      - id: majestic_docs
+        definition: 與 Majestic 12 相關的機密文件
+        preferred_translation: 絕密文件
+        notes: 與 MJ-12 相關的機密檔案
+        segments: [172]
+        topics: [topic_05]
+
+  # ==========================================
+  # 外星種族類型
+  # ==========================================
+
+  - term: reptoids
+    senses:
+      - id: reptoid_species
+        definition: 爬蟲類外星種族
+        preferred_translation: 爬蟲人
+        notes: Linda Moulton Howe 提到的三種外星種族之一，與人形「金髮族」、灰人並列
+        segments: [164]
+        topics: [topic_05]
+
+  - term: blondes
+    senses:
+      - id: blonde_aliens
+        definition: 外表類似北歐人的人形外星種族
+        preferred_translation: 金髮族
+        notes: Linda Moulton Howe 描述的人類相似外星種族，與灰人、爬蟲人相對
+        segments: [164]
+        topics: [topic_05]
+
+  # ==========================================
+  # 政府與組織術語
+  # ==========================================
+
+  - term: special access programs
+    senses:
+      - id: sap_classified
+        definition: 特別許可項目，需特殊授權才能接觸的高度機密計畫
+        preferred_translation: 特別許可項目
+        notes: Richard Dolan 討論掌管逆向工程技術的機密計畫。縮寫 SAP
+        segments: [119]
+        topics: [topic_03]
+
+  - term: black budget
+    senses:
+      - id: black_budget_funding
+        definition: 不受國會監督的機密預算
+        preferred_translation: 黑預算
+        notes: Richard Dolan 指出資助秘密 UFO 研究的財源，構成「脫離文明」的經濟基礎
+        segments: [102, 115, 119]
+        topics: [topic_02, topic_03]
+
+  - term: need to know
+    senses:
+      - id: need_to_know_access
+        definition: 機密資訊分級制度，只有必要人員才能接觸
+        preferred_translation: 需知原則
+        notes: Linda Moulton Howe 描述即使總統也可能因不符「需知」標準而被拒絕接觸 UFO 資訊
+        segments: [105]
+        topics: [topic_02]
+
+  - term: code words
+    senses:
+      - id: code_words_classification
+        definition: 特殊機密項目的代號或通關密語
+        preferred_translation: 代號密語
+        notes: 比「最高機密」更高的分類層級。原轉錄錯誤為 pro words，已修正
+        segments: [100]
+        topics: [topic_02]
+
+  - term: top secret White House cue clearance
+    senses:
+      - id: top_secret_clearance
+        definition: 最高機密白宮 Q 級許可
+        preferred_translation: 最高機密白宮 Q 級許可
+        notes: 匿名證人獲得的安全許可等級，允許其接觸 CIA 的 Project Blue Book 機密部分
+        segments: [22]
+        topics: [topic_01]
+
+  # ==========================================
+  # 機構與組織
+  # ==========================================
+
+  - term: NARCAP
+    senses:
+      - id: narcap_org
+        definition: National Aviation Reporting Center on Anomalous Phenomena，航空異常現象報告中心
+        preferred_translation: NARCAP（航空異常現象報告中心）
+        notes: Richard Dolan 提及的民間 UFO 研究組織，收集航空業遭遇的不明物體案例
+        segments: [108, 163]
+        topics: [topic_03, topic_05]
+
+  - term: Project 1947
+    senses:
+      - id: project_1947_research
+        definition: 記錄 1947 年前後 UFO 目擊事件的研究計畫
+        preferred_translation: 1947 年計畫
+        notes: Richard Dolan 提及的 UFO 研究資源
+        segments: [109]
+        topics: [topic_03]
+
+  - term: Supreme Court
+    senses:
+      - id: supreme_court_us
+        definition: 美國最高法院
+        preferred_translation: 最高法院
+        notes: Linda Moulton Howe 描述 FOIA 訴訟最終被最高法院拒絕受理
+        segments: [99, 103]
+        topics: [topic_02]
+
+  - term: Atomic Energy Commission
+    senses:
+      - id: aec_agency
+        definition: 美國原子能委員會（已解散）
+        preferred_translation: 原子能委員會
+        notes: Linda Moulton Howe 指出此機構是最早持有大量 UFO 資訊的機構之一
+        segments: [105]
+        topics: [topic_02]
+
+  - term: Home Box Office
+    senses:
+      - id: hbo_network
+        definition: HBO 電視網
+        preferred_translation: HBO
+        notes: 1983 年與 Linda Moulton Howe 簽約製作 UFO 紀錄片《UFOs the ET Factor》
+        segments: [102]
+        topics: [topic_02]
+
+  # ==========================================
+  # 重要人物（依字母順序）
+  # ==========================================
+
+  - term: Daniel Inouye
+    senses:
+      - id: inouye_senator
+        definition: 美國參議員，曾警告存在「影子政府」
+        preferred_translation: 丹尼爾·井上
+        notes: Richard Dolan 引述其關於不受國會監督的秘密政府組織的警告
+        segments: [120]
+        topics: [topic_03]
+
+  - term: Harrison Schmitt
+    senses:
+      - id: schmitt_senator
+        definition: 美國參議員，阿波羅 17 號太空人，曾嘗試調查動物肢解案件
+        preferred_translation: 哈里森·施密特
+        notes: Linda Moulton Howe 訪談對象，其調查動物肢解與外星生物實體關聯的請求遭國會封鎖。姓氏拼寫為 Schmitt（非 Schmidt）
+        segments: [101]
+        topics: [topic_02]
+
+  - term: J. Edgar Hoover
+    senses:
+      - id: hoover_fbi_director
+        definition: 聯邦調查局（FBI）長期局長
+        preferred_translation: J·埃德加·胡佛
+        notes: 匿名證人向其與艾森豪威爾、尼克森一同報告 Area 51 任務結果
+        segments: [74]
+        topics: [topic_01]
+
+  - term: Jeffrey Torres
+    senses:
+      - id: torres_jeffrey_witness
+        definition: Major Milton John Torres 之子，代父作證
+        preferred_translation: 傑佛瑞·托雷斯
+        notes: 本集證人，描述父親 1957 年在英國遭遇 UFO 並被 NSA 封口的經歷
+        segments: [124, 131, 157]
+        topics: [topic_04, topic_05]
+
+  - term: Jim Courant
+    senses:
+      - id: courant_jim_researcher
+        definition: NARCAP 相關研究者
+        preferred_translation: 吉姆·庫朗
+        notes: Richard Dolan 提及的航空異常現象研究者。原轉錄錯誤為 Jim Carant，已修正
+        segments: [108]
+        topics: [topic_03]
+
+  - term: Linda Moulton Howe
+    senses:
+      - id: howe_journalist_witness
+        definition: 調查記者，艾美獎得主，動物肢解案件研究專家
+        preferred_translation: 琳達·莫爾頓·豪
+        notes: 本集主要證人，證實匿名 CIA 證人的證詞，並描述「真相封鎖」政策。原轉錄錯誤為 Linda Motenhouse，已修正
+        segments: [83, 92, 93, 95, 180, 182]
+        topics: [topic_01, topic_02, topic_05]
+
+  - term: Major Milton John Torres
+    senses:
+      - id: torres_milton_pilot
+        definition: 美國空軍少校，功勳飛行員，1957 年在英國遭遇 UFO
+        preferred_translation: 米爾頓·約翰·托雷斯少校
+        notes: 本集證詞主角（由兒子代述）。駕駛 F-86D 被命令攔截並射擊巨大 UFO，目標以 Mach 10+ 速度逃逸，事後被 NSA 封口 50 餘年
+        segments: [124, 125, 127, 129]
+        topics: [topic_04, topic_05]
+
+  - term: Nick Pope
+    senses:
+      - id: pope_nick_mod
+        definition: 英國國防部前 UFO 調查官員
+        preferred_translation: 尼克·波普
+        notes: Jeffrey Torres 提到英國國防部解密其父事件，Nick Pope 可能參與相關工作
+        segments: [129]
+        topics: [topic_04]
+
+  - term: Paul Hill
+    senses:
+      - id: hill_paul_scientist
+        definition: NASA 科學家，著有《Unconventional Flying Objects》
+        preferred_translation: 保羅·希爾
+        notes: 討論 UFO 推進物理學時提及。原轉錄錯誤為 Paul Hales，已修正
+        segments: [200]
+        topics: [topic_05]
+
+  - term: President Eisenhower
+    senses:
+      - id: eisenhower_president
+        definition: 美國第 34 任總統德懷特·艾森豪威爾
+        preferred_translation: 艾森豪威爾總統
+        notes: 本集關鍵人物。因 MJ-12 不服從命令，派遣匿名證人前往 Area 51 並威脅以武力接管。見證外星真相後震驚
+        segments: [42, 43, 44, 74, 78]
+        topics: [topic_01]
+
+  - term: President Truman
+    senses:
+      - id: truman_president
+        definition: 美國第 33 任總統哈里·杜魯門
+        preferred_translation: 杜魯門總統
+        notes: Linda Moulton Howe 指出 1947 年杜魯門政府確立了「真相封鎖」的官方否認政策
+        segments: [99]
+        topics: [topic_02]
+
+  - term: Richard Dolan
+    senses:
+      - id: dolan_historian_witness
+        definition: 歷史學家，UFO 研究專家，著有 UFOs and the National Security State
+        preferred_translation: 理查德·多蘭
+        notes: 本集證人，提出「脫離文明」理論，分析真相封鎖的經濟與權力動機
+        segments: [107, 121, 163]
+        topics: [topic_03, topic_05]
+
+  - term: Vice President Nixon
+    senses:
+      - id: nixon_vp
+        definition: 美國副總統理查·尼克森（後成為第 37 任總統）
+        preferred_translation: 尼克森副總統
+        notes: 與艾森豪威爾一同聽取 Area 51 任務報告
+        segments: [42, 74]
+        topics: [topic_01]
+
+  # ==========================================
+  # 其他重要術語
+  # ==========================================
+
+  - term: autopsy footage
+    senses:
+      - id: autopsy_film_alien
+        definition: 外星遺體解剖的影片紀錄
+        preferred_translation: 解剖影片
+        notes: 匿名證人在 S-4 觀看的機密影片，顯示外星存有的異常大腦和內臟結構
+        segments: [52, 95]
+        topics: [topic_01, topic_02]
+
+  - term: cryptographer
+    senses:
+      - id: cryptographer_job
+        definition: 密碼學家，負責密碼編譯與破譯的專業人員
+        preferred_translation: 密碼學家
+        notes: 匿名證人在陸軍的表面職業，也是他被 CIA 招募的原因
+        segments: [17, 95]
+        topics: [topic_01, topic_02]
+
+  - term: spook
+    senses:
+      - id: spook_intelligence
+        definition: 情報人員的俚語（帶貶義或神秘色彩）
+        preferred_translation: 情報員
+        notes: Major Torres 與 Jeffrey Torres 用此詞稱呼威脅封口的 NSA 人員。口語化用詞，可依語境譯為「特工」或「間諜」
+        segments: [139, 161]
+        topics: [topic_04, topic_05]
+
+  - term: military industrial complex
+    senses:
+      - id: mic_system
+        definition: 軍事-工業複合體，指軍方與軍火工業的權力結構
+        preferred_translation: 軍工複合體
+        notes: Richard Dolan 分析的權力核心，從 UFO 保密與技術壟斷中獲益
+        segments: [113]
+        topics: [topic_03]
+
+  - term: dumbed-down media
+    senses:
+      - id: dumb_down_media
+        definition: 被簡化、膚淺化的媒體
+        preferred_translation: 弱智化媒體
+        notes: Richard Dolan 批評美國主流媒體對 UFO 議題的輕視態度。原轉錄錯誤為 dum-dum media，已修正
+        segments: [110]
+        topics: [topic_03]
+
+  - term: etiology
+    senses:
+      - id: etiology_causation
+        definition: 病因學，事物的根本原因或起源
+        preferred_translation: 病因學
+        notes: 討論政府保密動機的根源時使用的學術用語。原轉錄錯誤為 ideology，已修正
+        segments: [208]
+        topics: [topic_05]
+
+  - term: cloak of secrecy
+    senses:
+      - id: cloak_secrecy_metaphor
+        definition: 保密的面紗或遮蔽（比喻）
+        preferred_translation: 保密面紗
+        notes: 描述政府對 UFO 資訊的系統性隱瞞。原轉錄錯誤為 cloak of frequency，已修正
+        segments: [205]
+        topics: [topic_05]
+
+  # ==========================================
+  # 機構簡稱與代號（已在上方詳述，此處僅列出確保完整性）
+  # ==========================================
+
+  - term: FOIA
+    senses:
+      - id: foia_abbr
+        definition: Freedom of Information Act 的縮寫
+        preferred_translation: FOIA
+        notes: 見 Freedom of Information Act
+        segments: [102]
+        topics: [topic_02]
+
+  - term: FIU
+    senses:
+      - id: fiu_university
+        definition: Florida International University，佛羅里達國際大學
+        preferred_translation: 佛羅里達國際大學
+        notes: Major Torres 退役後任教的大學。原轉錄錯誤為 Florida National University，已修正
+        segments: [127, 128]
+        topics: [topic_04]
+
+  - term: NASA
+    senses:
+      - id: nasa_agency
+        definition: National Aeronautics and Space Administration，美國國家航空暨太空總署
+        preferred_translation: NASA
+        notes: Major Torres 參與阿波羅計畫支援工作的機構
+        segments: [127]
+        topics: [topic_04]
+
+  - term: Apollo Moon missions
+    senses:
+      - id: apollo_missions
+        definition: 美國阿波羅登月計畫（1961-1972）
+        preferred_translation: 阿波羅登月計畫
+        notes: Major Torres 參與其中的支援工作
+        segments: [127]
+        topics: [topic_04]
+
+  - term: Distinguished Flying Cross
+    senses:
+      - id: dfc_award
+        definition: 傑出飛行十字勳章，美國軍事航空獎章
+        preferred_translation: 傑出飛行十字勳章
+        notes: Major Torres 獲得的多項榮譽之一
+        segments: [125]
+        topics: [topic_04]
+
+  - term: USAF command pilot
+    senses:
+      - id: usaf_pilot_rank
+        definition: 美國空軍指揮飛行員（高級飛行員資格）
+        preferred_translation: 美國空軍指揮飛行員
+        notes: Major Torres 的飛行員資格
+        segments: [125]
+        topics: [topic_04]
+
+  # ==========================================
+  # 其他科學家與研究者
+  # ==========================================
+
+  - term: H.G. Wells
+    senses:
+      - id: wells_author
+        definition: 英國科幻作家，著有《世界大戰》（The War of the Worlds）
+        preferred_translation: H·G·威爾斯
+        notes: 討論公眾恐慌時提及其作品
+        segments: [171]
+        topics: [topic_05]
+
+  - term: Stanton Friedman
+    senses:
+      - id: friedman_researcher
+        definition: 核物理學家，著名 UFO 研究者
+        preferred_translation: 史坦頓·弗里德曼
+        notes: 討論 electrogravitics 時提及。原轉錄錯誤為 Stan and Friedman，已修正
+        segments: [204]
+        topics: [topic_05]
+
+  - term: Paul LaViolette
+    senses:
+      - id: laviolette_researcher
+        definition: 系統理論家，研究反重力推進
+        preferred_translation: 保羅·拉維奧萊特
+        notes: 討論 electrogravitics 時提及。原轉錄錯誤為 Paul LeVoillet，已修正
+        segments: [204]
+        topics: [topic_05]

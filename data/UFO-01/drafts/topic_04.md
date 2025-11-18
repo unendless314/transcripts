@@ -46,7 +46,7 @@
 → {"text": "這些結論的依據是，第一，至少有五項大規模科學研究提供了實質證據。", "confidence": "high", "notes": ""}
 
 221. These include Project Blue Book Special Report Number 14, the largest study ever done for the United States Air Force, covering more than 3,200 cases with more than 200 charts, tables, graphs, and maps.
-→ {"text": "其中包括藍皮書計畫特別報告14號 (Project Blue Book Special Report Number 14)，這是為美國空軍進行的最大規模研究，涵蓋超過 3,200 個案例，包含超過 200 個圖表、表格、圖形與地圖。", "confidence": "high", "notes": ""}
+→ {"text": "其中包括藍皮書計畫特別報告14號 (Project Blue Book Special Report Number 14)，這是為美國空軍進行的最大規模研究，涵蓋超過 3，200 個案例，包含超過 200 個圖表、表格、圖形與地圖。", "confidence": "high", "notes": ""}
 
 222. It is quality evaluation, cross-comparison between unknowns and knowns.
 → {"text": "這是一個質量評估，對未知案例與已知案例進行交叉比較。", "confidence": "high", "notes": ""}
@@ -112,7 +112,7 @@
 → {"text": "他訪談了 500 名目擊者，但他呈現了 41 個傑出案例，包括多名目擊者的雷達視覺目擊、飛行員目擊、天文學家目擊、以及氣象學家目擊。", "confidence": "high", "notes": ""}
 
 243. He noted physical trace cases of which, by now, more than 5,000 have been collected by Ted Phillips from 95 countries.
-→ {"text": "他注意到了物理痕跡案例，至今 Ted Phillips 已從 95 個國家收集了超過 5,000 個此類案例。", "confidence": "high", "notes": ""}
+→ {"text": "他注意到了物理痕跡案例，至今 Ted Phillips 已從 95 個國家收集了超過 5，000 個此類案例。", "confidence": "high", "notes": ""}
 
 244. They get dull, same thing was happening all over the world.
 → {"text": "這些案例變得單調，因為同樣的事情在全世界各地都在發生。", "confidence": "high", "notes": ""}
@@ -136,7 +136,7 @@
 → {"text": "其中一位貢獻者是 Dr. J. Allen Hynek，他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。", "confidence": "high", "notes": ""}
 
 251. His book, The UFO Experience, a Scientific Inquiry, should be required reading by anybody who's going to talk about flying saucers, especially negatively.
-→ {"text": "他的書《The UFO Experience, a Scientific Inquiry》應該是任何要談論飛碟的人——特別是持負面態度的人——的必讀讀物。", "confidence": "high", "notes": ""}
+→ {"text": "他的書《The UFO Experience， a Scientific Inquiry》應該是任何要談論飛碟的人——特別是持負面態度的人——的必讀讀物。", "confidence": "high", "notes": ""}
 
 252. According to another source here, according to a special UFO subcommittee of the American Institute of Aeronautics and Astronautics, world's largest group of space scientists, 30% of the 117 cases studied by the University of Colorado, government-sponsored study in the late '60s, and discussed in the Condon Report, Edward U. Condon, could not be identified, and yet the headline said, "Scientific study shows no UFOs."
 → {"text": "根據另一個資料來源，根據美國航空航天學會——世界最大的太空科學家團體——的 UFO 特別小組委員會，科羅拉多大學在 60 年代後期進行的政府資助研究中所研究的 117 個案例中，有 30% 無法被識別，而這些案例在 Edward U. Condon 的康登報告 (Condon Report) 中有討論，但頭條卻寫著「科學研究顯示沒有 UFO」。", "confidence": "high", "notes": ""}
@@ -184,7 +184,7 @@
 → {"text": "信不信由你，這篇文章的標題是《The Science Behind UFOs》，而且是封面故事。", "confidence": "high", "notes": ""}
 
 267. He somehow manages to mention none of the five large-scale scientific studies that I've just talked about, or any of the 5,000 physical trace cases, or any multiple witness radar visual cases, or abductions nor advanced technology studies at national labs and an industry showing trips to nearby stars in reasonable round-trip times using fusion propulsion are feasible.
-→ {"text": "他竟然完全沒有提及我剛才談到的五項大規模科學研究，也沒有提到任何 5,000 個物理痕跡案例，或任何多名目擊者的雷達視覺案例，或綁架案，也沒有提到國家實驗室與產業界進行的先進技術研究——這些研究顯示使用核融合推進在合理的往返時間內前往鄰近恆星是可行的。", "confidence": "high", "notes": ""}
+→ {"text": "他竟然完全沒有提及我剛才談到的五項大規模科學研究，也沒有提到任何 5，000 個物理痕跡案例，或任何多名目擊者的雷達視覺案例，或綁架案，也沒有提到國家實驗室與產業界進行的先進技術研究——這些研究顯示使用核融合推進在合理的往返時間內前往鄰近恆星是可行的。", "confidence": "high", "notes": ""}
 
 268. I worked on fusion back in the early '60s.
 → {"text": "我在 60 年代初期從事過核融合研究。", "confidence": "high", "notes": ""}
@@ -199,19 +199,19 @@
 → {"text": "如果你願意的話，原子與 UFO 結合在一起的一個很好的例證是，在很短的時間內，我們從二戰時期 1945 年的 10 噸重型炸彈——需要一架大型 B-29 轟炸機才能攜帶。", "confidence": "high", "notes": ""}
 
 272. That was in 1944, in 1945, the first A-bomb, 15,000 tons of TNT, not 10.
-→ {"text": "那是在 1944 年，到了 1945 年，第一顆原子彈的威力相當於 15,000 噸 TNT，而不是 10 噸。", "confidence": "high", "notes": ""}
+→ {"text": "那是在 1944 年，到了 1945 年，第一顆原子彈的威力相當於 15，000 噸 TNT，而不是 10 噸。", "confidence": "high", "notes": ""}
 
 273. Seven years later, which is nothing, cost a lot of money, we set off the first fusion device, an H-bomb, called Mike, incidentally.
 → {"text": "七年後——這根本不算什麼，花了很多錢——我們引爆了第一個核融合裝置，也就是氫彈，順帶一提，它叫做 Mike。", "confidence": "high", "notes": ""}
 
 274. It released the energy of 10 million tons of TNT.
-→ {"text": "它釋放了相當於 1,000 萬噸 TNT 的能量。", "confidence": "high", "notes": ""}
+→ {"text": "它釋放了相當於 1，000 萬噸 TNT 的能量。", "confidence": "high", "notes": ""}
 
 275. So you go from 10 to 15,000 to 10 million tons.
-→ {"text": "所以你從 10 噸到 15,000 噸再到 1,000 萬噸。", "confidence": "high", "notes": ""}
+→ {"text": "所以你從 10 噸到 15，000 噸再到 1，000 萬噸。", "confidence": "high", "notes": ""}
 
 276. And the Russians sent off one that was 50 million tons of TNT.
-→ {"text": "而俄羅斯人引爆了一顆相當於 5,000 萬噸 TNT 的氫彈。", "confidence": "high", "notes": ""}
+→ {"text": "而俄羅斯人引爆了一顆相當於 5，000 萬噸 TNT 的氫彈。", "confidence": "high", "notes": ""}
 
 277. The point is we know how to get to the stars if we want to spend the money.
 → {"text": "重點是，如果我們願意花錢，我們知道如何到達恆星。", "confidence": "high", "notes": ""}

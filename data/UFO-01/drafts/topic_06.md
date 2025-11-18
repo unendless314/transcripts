@@ -988,7 +988,7 @@
 → {"text": "我們在美國這裡開發的是許多收集報告的網站。", "confidence": "high", "notes": ""}
 
 672. As I mentioned earlier, my estimate is a rough one, but it's not less than 10,000 reports actually are written by people per year, 10,000 in North America, the US and Canada.
-→ {"text": "正如我之前提到的，我的估計是粗略的，但實際上每年有人寫的報告不少於 10,000 份，在北美、美國和加拿大有 10,000 份。", "confidence": "high", "notes": ""}
+→ {"text": "正如我之前提到的，我的估計是粗略的，但實際上每年有人寫的報告不少於 10，000 份，在北美、美國和加拿大有 10，000 份。", "confidence": "high", "notes": ""}
 
 673. Elsewhere in the world, there are obviously many sightings.
 → {"text": "在世界其他地方，顯然有許多目擊事件。", "confidence": "high", "notes": ""}

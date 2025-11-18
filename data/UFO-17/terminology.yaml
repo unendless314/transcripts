@@ -1,0 +1,809 @@
+# Terminology for UFO-17: Pilots & Aviation Experts
+# 本集主題：飛行員與航空專家的 UFO 目擊證詞
+#
+# 核心證人：
+# - John Callahan (FAA 事故調查部主管) - 1986 JAL 1628 Alaska 事件
+# - Major Filer (空軍少校) - 1962 RAF Stonehenge 遭遇
+# - Jim Courant (航線機長) - 飛行員目擊與保密文化
+# - Lt. Col. Richard French (空軍中校) - 水下與火山 UFO
+# - Steve Allen (私人飛行員) - 2008 Stephenville Texas 事件
+
+episode_id: UFO-17
+
+terms:
+  # ===== 核心 UFO 術語 =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        notes: 本集核心主題，可視語境簡稱「UFO」或使用完整中文
+        segments: [31, 33, 34, 91, 108, 130, 142, 145, 146, 150, 151, 161, 170, 191, 246, 251, 258, 267, 272, 282, 294, 455, 456, 459, 512, 590, 592, 595, 603, 630, 842, 850, 851, 913, 918, 922, 926]
+
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        notes: Major Donald Kehoe 著作書名，較早期用語
+        segments: [211]
+
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        notes: 可搭配使用「目擊事件」、「目擊報告」
+        segments: [216, 225, 314, 426, 479]
+
+  # ===== 政府機構 =====
+  - term: FAA
+    senses:
+      - id: faa_agency
+        definition: Federal Aviation Administration，美國聯邦航空總署
+        preferred_translation: FAA（聯邦航空總署）
+        notes: John Callahan 的工作單位，本集關鍵機構
+        segments: [5, 19, 22, 32, 46, 48, 89, 95, 118]
+
+  - term: FAA tech center
+    senses:
+      - id: faa_tech_center_facility
+        definition: FAA 技術中心，位於大西洋城，負責開發空管軟體
+        preferred_translation: FAA 技術中心
+        notes: Callahan 將 JAL 1628 事件資料送往此處分析
+        segments: [46]
+
+  - term: FAA headquarters
+    senses:
+      - id: faa_headquarters_dc
+        definition: FAA 總部，位於華盛頓特區獨立大道 800 號
+        preferred_translation: FAA 總部
+        notes: CIA 簡報會地點
+        segments: [399]
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        notes: 參與 JAL 1628 事件調查並沒收所有證據
+        segments: [107, 115, 123, 402, 419]
+
+  - term: NORAD
+    senses:
+      - id: norad_defense
+        definition: North American Aerospace Defense Command，北美防空司令部
+        preferred_translation: NORAD（北美防空司令部）
+        notes: 負責北美空域監視的軍事組織
+        segments: [513]
+
+  - term: OSI
+    senses:
+      - id: osi_usaf_investigation
+        definition: Office of Special Investigations，美國空軍特別調查辦公室
+        preferred_translation: OSI（空軍特別調查辦公室）
+        notes: Lt. Col. French 所屬的調查單位
+        segments: [267]
+
+  - term: Naval Air Station Joint Reserve Base
+    senses:
+      - id: nas_jrb_fortworth
+        definition: 位於德州沃斯堡的海軍航空站聯合後備基地
+        preferred_translation: 海軍航空站聯合後備基地
+        notes: Stephenville 事件時否認有 F-16 在空中
+        segments: [364]
+
+  # ===== 航空術語 =====
+  - term: air traffic control
+    senses:
+      - id: atc_service
+        definition: 航空交通管制服務
+        preferred_translation: 航空管制
+        notes: 本集多位證人來自航空管制背景
+        segments: [21, 27]
+
+  - term: '747'
+    senses:
+      - id: boeing_747_aircraft
+        definition: 波音 747 大型客機
+        preferred_translation: 747 客機
+        notes: JAL 1628 事件中的日本航空飛機型號
+        segments: [34, 68, 69, 73]
+
+  - term: KB-50J tanker
+    senses:
+      - id: kb50j_refueling_aircraft
+        definition: KB-50J 空中加油機
+        preferred_translation: KB-50J 加油機
+        notes: Major Filer 在 Stonehenge 事件中駕駛的飛機
+        segments: [143]
+
+  - term: F-16s
+    senses:
+      - id: f16_fighter_jets
+        definition: F-16 戰鬥機
+        preferred_translation: F-16 戰機
+        notes: Stephenville 事件中追逐 UFO 的軍機
+        segments: [348, 367, 375, 377]
+
+  - term: Cessna 182
+    senses:
+      - id: cessna_182_aircraft
+        definition: Cessna 182 小型私人飛機
+        preferred_translation: Cessna 182 飛機
+        notes: 1978 Melbourne 失蹤事件中的飛機型號
+        segments: [828]
+
+  - term: transponder
+    senses:
+      - id: transponder_device
+        definition: 航空應答機，用於向雷達回報飛機身份和高度
+        preferred_translation: 應答機
+        notes: UFO 通常不會有應答機訊號
+        segments: [503]
+
+  - term: TCAS
+    senses:
+      - id: tcas_collision_avoidance
+        definition: Traffic Collision Avoidance System，空中防撞系統
+        preferred_translation: 空中防撞系統
+        notes: Jim Courant 目擊時系統未發出警告
+        segments: [823, 826]
+
+  - term: AWACS
+    senses:
+      - id: awacs_radar_aircraft
+        definition: Airborne Warning and Control System，空中預警管制系統
+        preferred_translation: 空中預警機
+        notes: Stephenville 事件時在 41,000 英尺監控區域
+        segments: [378]
+
+  - term: AGL (above ground level)
+    senses:
+      - id: agl_altitude_measurement
+        definition: Above Ground Level，離地高度
+        preferred_translation: 離地高度
+        notes: 航空高度測量單位
+        segments: []
+
+  - term: ART CAS
+    senses:
+      - id: artcas_traffic_avoidance
+        definition: 航空交通防撞系統
+        preferred_translation: 航空防撞系統
+        notes: Jim Courant 目擊時系統未發出警告
+        segments: [447]
+
+  # ===== 重要事件 =====
+  - term: Phoenix Lights
+    senses:
+      - id: phoenix_lights_event
+        definition: 1997 年發生於美國亞利桑那州鳳凰城的大規模 UFO 目擊事件
+        preferred_translation: 鳳凰城光點事件
+        notes: Lt. Col. French 親眼目擊此事件
+        segments: [576, 577, 582]
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        notes: Colonel Corso 著作提及，證人討論的歷史事件
+        segments: [476, 780]
+
+  # ===== 地點 =====
+  - term: Stephenville, Texas
+    senses:
+      - id: stephenville_location
+        definition: 德州斯蒂芬維爾市
+        preferred_translation: 德州斯蒂芬維爾
+        notes: 2008 年 1 月 8 日大規模目擊事件地點
+        segments: [310, 334, 373]
+
+  - term: Selden, Texas
+    senses:
+      - id: selden_location
+        definition: 德州塞爾登市，Stephenville 附近
+        preferred_translation: 德州塞爾登
+        notes: Steve Allen 目擊事件的具體地點
+        segments: [322]
+
+  - term: Crawford, Texas
+    senses:
+      - id: crawford_location
+        definition: 德州克勞福德，布希總統的西部白宮所在地
+        preferred_translation: 德州克勞福德
+        notes: Stephenville UFO 最後在布希農場附近被追蹤到
+        segments: [381]
+
+  - term: Stonehenge
+    senses:
+      - id: stonehenge_england
+        definition: 英格蘭的史前巨石陣
+        preferred_translation: 巨石陣
+        notes: Major Filer 1962 年在此附近攔截 UFO
+        segments: [144, 148, 181, 182]
+
+  - term: RAF Sculthorpe
+    senses:
+      - id: raf_sculthorpe_base
+        definition: 英格蘭 RAF Sculthorpe 空軍基地
+        preferred_translation: RAF Sculthorpe 基地
+        notes: Major Filer 駐紮的基地（已修正拼寫錯誤）
+        segments: [143]
+
+  - term: Newfoundland
+    senses:
+      - id: newfoundland_canada
+        definition: 加拿大紐芬蘭島
+        preferred_translation: 紐芬蘭
+        notes: Lt. Col. French 目擊水下 UFO 的地點
+        segments: [267]
+
+  - term: Mount Blanc
+    senses:
+      - id: mount_blanc_france
+        definition: 法國白朗峰
+        preferred_translation: 白朗峰
+        notes: Lt. Col. French 目擊 UFO 進入火山
+        segments: [283, 284]
+
+  - term: Kīlauea
+    senses:
+      - id: kilauea_volcano_hawaii
+        definition: 夏威夷基拉韋厄火山
+        preferred_translation: 基拉韋厄火山
+        notes: Lt. Col. French 目擊 UFO 進入火山（已修正拼寫）
+        segments: [289]
+
+  - term: Sicily
+    senses:
+      - id: sicily_italy
+        definition: 義大利西西里島
+        preferred_translation: 西西里島
+        notes: Lt. Col. French 目擊 UFO 進入火山
+        segments: [290]
+
+  - term: Sedona
+    senses:
+      - id: sedona_arizona
+        definition: 亞利桑那州塞多納市
+        preferred_translation: 塞多納
+        notes: Lt. Col. French 居住地，目擊 UFO 的地點
+        segments: [293]
+
+  - term: Korea
+    senses:
+      - id: korea_war
+        definition: 韓國/韓戰
+        preferred_translation: 韓國
+        notes: Lt. Col. French 服役地
+        segments: [264]
+
+  - term: Vietnam
+    senses:
+      - id: vietnam_war
+        definition: 越南/越戰
+        preferred_translation: 越南
+        notes: Lt. Col. French 服役地
+        segments: [264]
+
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施
+        preferred_translation: 51 區
+        notes: 證人提及可能有先進飛行器的地點
+        segments: [797]
+
+  - term: Pine Gap
+    senses:
+      - id: pine_gap_australia
+        definition: 澳洲 Pine Gap 太空監控設施
+        preferred_translation: 松峽基地
+        notes: 美國在澳洲的太空監控機構，可能研發先進飛行器
+        segments: [619]
+
+  # ===== 關鍵人物 =====
+  - term: John Callahan
+    senses:
+      - id: callahan_faa_official
+        definition: FAA 事故評估與調查部主管（1981-1988）
+        preferred_translation: 約翰·卡拉漢
+        notes: 本集主要證人，處理 JAL 1628 事件
+        segments: [7, 14]
+
+  - term: Lieutenant Colonel Richard French
+    senses:
+      - id: french_usaf_pilot
+        definition: 美國空軍中校，退役戰鬥機飛行員
+        preferred_translation: 理查德·弗倫奇中校
+        notes: 本集證人，服役於韓戰與越戰，執行 UFO 調查任務
+        segments: [6, 262, 263]
+
+  - term: Major Filer
+    senses:
+      - id: filer_usaf_pilot
+        definition: 美國空軍少校，MUFON 東部地區主管，Filer's Files 編輯
+        preferred_translation: 費勒少校
+        notes: 本集證人，1962 Stonehenge 事件當事人
+        segments: [827]
+
+  - term: Jim Courant
+    senses:
+      - id: courant_airline_captain
+        definition: 航線機長，31 年飛行經驗
+        preferred_translation: 吉姆·庫蘭特
+        notes: 本集證人，1995 年新墨西哥州上空目擊（已修正姓名）
+        segments: [205, 425, 758, 864]
+
+  - term: Steve Allen
+    senses:
+      - id: allen_private_pilot
+        definition: 私人飛行員，德州商人
+        preferred_translation: 史蒂夫·艾倫
+        notes: 本集證人，2008 Stephenville 事件主要目擊者
+        segments: [306]
+
+  - term: Admiral Engen
+    senses:
+      - id: engen_faa_administrator
+        definition: 唐納德·恩根海軍上將，FAA 局長
+        preferred_translation: 恩根上將
+        notes: 接獲 JAL 1628 事件簡報並向雷根總統報告（已修正拼寫）
+        segments: [95]
+
+  - term: Reagan
+    senses:
+      - id: reagan_president
+        definition: 隆納·雷根，美國第 40 任總統
+        preferred_translation: 雷根總統
+        notes: JAL 1628 事件時的在任總統
+        segments: [103, 106]
+
+  - term: Reagan administration
+    senses:
+      - id: reagan_admin
+        definition: 雷根政府時期（1981-1989）
+        preferred_translation: 雷根政府
+        notes: JAL 1628 事件發生的時代背景
+        segments: [397]
+
+  - term: Prince Philip
+    senses:
+      - id: prince_philip_royal
+        definition: 菲利普親王，英國女王伊莉莎白二世的夫婿
+        preferred_translation: 菲利普親王
+        notes: 主動調查 UFO 事件，訪問追逐 UFO 的飛行員
+        segments: [170, 172]
+
+  - term: Earl Mountbatten
+    senses:
+      - id: mountbatten_royal
+        definition: 蒙巴頓伯爵，菲利普親王的叔叔
+        preferred_translation: 蒙巴頓伯爵
+        notes: 在海軍服役時近距離目擊 UFO（已修正拼寫）
+        segments: [172]
+
+  - term: Ben Rich
+    senses:
+      - id: rich_engineer
+        definition: 洛克希德臭鼬工廠主管
+        preferred_translation: 班·里奇
+        notes: 聲稱「我們現在能夠帶 ET 回家」
+        segments: [458]
+
+  - term: Michio Kaku
+    senses:
+      - id: kaku_physicist
+        definition: 加來道雄博士，理論物理學家
+        preferred_translation: 加來道雄
+        notes: 日裔美籍物理學家，討論星際旅行可能性（已修正拼寫）
+        segments: [636]
+
+  # ===== 研究者與作者 =====
+  - term: Major Donald Kehoe
+    senses:
+      - id: kehoe_researcher
+        definition: 唐納德·基霍少校，UFO 研究先驅
+        preferred_translation: 唐納德·基霍少校
+        notes: 著有《Flying Saucer's Top Secret》，啟發 Jim Courant 對 UFO 的興趣
+        segments: [211]
+
+  - term: Gordon Cooper
+    senses:
+      - id: cooper_astronaut
+        definition: 戈登·庫珀，水星計畫七位太空人之一
+        preferred_translation: 戈登·庫珀
+        notes: 公開支持 UFO 揭露的太空人，Jim Courant 的朋友
+        segments: [241, 780]
+
+  - term: Edgar Mitchell
+    senses:
+      - id: mitchell_astronaut
+        definition: 艾德加·米切爾博士，阿波羅 14 號太空人
+        preferred_translation: 艾德加·米切爾博士
+        notes: 第六位登月者，Jim Courant 的朋友
+        segments: [241]
+
+  - term: Richard Dolan
+    senses:
+      - id: dolan_historian
+        definition: 理查德·多蘭，歷史學家，UFO 研究專家
+        preferred_translation: 理查德·多蘭
+        notes: 著有 UFOs and the National Security State 系列
+        segments: [256]
+
+  - term: Linda Moulton Howe
+    senses:
+      - id: howe_journalist
+        definition: 琳達·莫爾頓·豪，調查記者
+        preferred_translation: 琳達·莫爾頓·豪
+        notes: 艾美獎得主，UFO 研究者（注意拼寫為 Howe 不是 Howell）
+        segments: [256]
+
+  - term: Stanton Friedman
+    senses:
+      - id: friedman_researcher
+        definition: 史丹頓·弗里德曼，核物理學家，UFO 研究者
+        preferred_translation: 史丹頓·弗里德曼
+        notes: UFO 研究領域的重要人物
+        segments: [252, 256]
+
+  - term: Timothy Good
+    senses:
+      - id: good_author
+        definition: 提摩西·古德，UFO 研究作者
+        preferred_translation: 提摩西·古德
+        notes: 著有《Above Top Secret》
+        segments: [256]
+
+  - term: Brad Steiger
+    senses:
+      - id: steiger_author
+        definition: 布拉德·斯泰格，作家
+        preferred_translation: 布拉德·斯泰格
+        notes: 著有《The Rainbow Conspiracy》
+        segments: [256]
+
+  - term: Michael Hesselman
+    senses:
+      - id: hesselman_author
+        definition: 麥可·赫塞曼，作家
+        preferred_translation: 麥可·赫塞曼
+        notes: 著有《The Secret History of UFOs》
+        segments: [256]
+
+  - term: Richard Haynes
+    senses:
+      - id: haynes_researcher
+        definition: 理查德·海恩斯，前 NASA 專家
+        preferred_translation: 理查德·海恩斯
+        notes: 專門研究飛行員目擊事件
+        segments: [828, 830]
+
+  - term: Dr. Greer
+    senses:
+      - id: greer_researcher
+        definition: 史蒂芬·格里爾博士，急診醫師，揭露計畫創始人
+        preferred_translation: 格里爾博士
+        notes: Disclosure Project 發起人
+        segments: [678]
+
+  # ===== 軍事人物 =====
+  - term: Colonel Leroy Gover
+    senses:
+      - id: gover_usaf_pilot
+        definition: 萊羅伊·高佛上校，二戰飛行員
+        preferred_translation: 萊羅伊·高佛上校
+        notes: Jim Courant 的飛行教練，鷹中隊指揮官
+        segments: [475]
+
+  - term: Eagle Squadron
+    senses:
+      - id: eagle_squadron_wwii
+        definition: 鷹中隊，二戰時期美國飛行員組成的英國皇家空軍中隊
+        preferred_translation: 鷹中隊
+        notes: Colonel Gover 擔任指揮官
+        segments: [475]
+
+  - term: Major Carl Lewis
+    senses:
+      - id: lewis_usaf_official
+        definition: 卡爾·劉易斯少校，海軍航空站發言人
+        preferred_translation: 卡爾·劉易斯少校
+        notes: Stephenville 事件時否認有軍機在空中
+        segments: [364]
+
+  # ===== 組織與計畫 =====
+  - term: MUFON
+    senses:
+      - id: mufon_network
+        definition: Mutual UFO Network，UFO 互動網絡
+        preferred_translation: MUFON（UFO 互動網絡）
+        notes: Major Filer 擔任東部地區主管
+        segments: [142, 627]
+
+  - term: Mutual UFO Network
+    senses:
+      - id: mufon_network_full
+        definition: UFO 互動網絡（MUFON 全稱）
+        preferred_translation: UFO 互動網絡
+        notes: 全球最大的 UFO 研究組織之一
+        segments: [142]
+
+  - term: Filer's Files
+    senses:
+      - id: filers_files_publication
+        definition: Filer's Files，UFO 研究通訊刊物
+        preferred_translation: Filer's Files
+        notes: Major Filer 編輯的 UFO 資訊刊物
+        segments: [142]
+
+  - term: 420th Air Refueling Squadron
+    senses:
+      - id: 420th_squadron
+        definition: 第 420 空中加油中隊
+        preferred_translation: 第 420 空中加油中隊
+        notes: Major Filer 服役的單位
+        segments: [143]
+
+  - term: London Control
+    senses:
+      - id: london_atc
+        definition: 倫敦航空管制中心
+        preferred_translation: 倫敦航管中心
+        notes: Stonehenge 事件時引導 Major Filer 攔截 UFO
+        segments: [144, 149, 150, 165, 166, 170]
+
+  - term: Lockheed
+    senses:
+      - id: lockheed_aerospace
+        definition: 洛克希德公司，美國航太國防承包商
+        preferred_translation: 洛克希德公司
+        notes: Ben Rich 任職的公司，傳聞進行反向工程研究
+        segments: [458, 677, 681]
+
+  - term: Skunk Works
+    senses:
+      - id: skunk_works_division
+        definition: 臭鼬工廠，洛克希德的先進研發部門
+        preferred_translation: 臭鼬工廠
+        notes: Ben Rich 擔任主管，研發 U-2、SR-71 等先進飛機
+        segments: [681]
+
+  - term: NASA
+    senses:
+      - id: nasa_space_agency
+        definition: National Aeronautics and Space Administration，美國太空總署
+        preferred_translation: NASA
+        notes: 大西洋上空拍攝到 UFO 照片
+        segments: [175]
+
+  - term: Citizen Hearing
+    senses:
+      - id: citizen_hearing_event
+        definition: 公民聽證會，本次 UFO 證詞聽證會
+        preferred_translation: 公民聽證會
+        notes: 本集錄製的聽證會
+        segments: [721, 759]
+
+  # ===== 法律與政府 =====
+  - term: Freedom of Information Act
+    senses:
+      - id: foia_law
+        definition: 資訊自由法，美國聯邦法律
+        preferred_translation: 資訊自由法
+        notes: 用於取得 Stephenville 事件雷達資料
+        segments: [369]
+
+  - term: Schultz-Powell report
+    senses:
+      - id: schultz_powell_radar_report
+        definition: Schultz-Powell 報告，Stephenville 事件雷達分析報告
+        preferred_translation: Schultz-Powell 報告
+        notes: 透過 FOIA 取得的雷達數據分析
+        segments: [370]
+
+  - term: House of Representatives
+    senses:
+      - id: house_of_representatives_us
+        definition: 美國眾議院
+        preferred_translation: 美國眾議院
+        notes: Representative Kilpatrick 服務的機構
+        segments: [722]
+
+  - term: appropriations
+    senses:
+      - id: appropriations_budget
+        definition: 撥款委員會/聯邦預算
+        preferred_translation: 撥款
+        notes: Representative Kilpatrick 在撥款委員會任職
+        segments: [741, 743]
+
+  # ===== 科學與技術術語 =====
+  - term: back-engineered
+    senses:
+      - id: back_engineered_reverse
+        definition: 反向工程，透過分析外星科技來複製
+        preferred_translation: 反向工程
+        notes: 指從墜毀 UFO 中學習並複製技術
+        segments: [458]
+
+  - term: stealth bomber
+    senses:
+      - id: stealth_bomber_aircraft
+        definition: 隱形轟炸機
+        preferred_translation: 隱形轟炸機
+        notes: Callahan 最初以為 UFO 可能是秘密軍機（已修正拼寫）
+        segments: [524, 526]
+
+  - term: TR-3B
+    senses:
+      - id: tr3b_alleged_aircraft
+        definition: TR-3B，據稱的美國秘密三角形飛行器
+        preferred_translation: TR-3B
+        notes: 證人提及的可能的人類先進飛行器
+        segments: [618]
+
+  - term: mother ships
+    senses:
+      - id: mother_ships_large_craft
+        definition: 母艦，大型 UFO，可搭載小型飛行器
+        preferred_translation: 母艦
+        notes: Phoenix Lights 事件中目擊的大型飛行器
+        segments: [595, 596]
+
+  - term: pyramids
+    senses:
+      - id: pyramids_structures
+        definition: 金字塔
+        preferred_translation: 金字塔
+        notes: 證人討論 UFO 可能從金字塔獲取能量
+        segments: [550, 552, 553, 555]
+
+  - term: theory of relativity
+    senses:
+      - id: relativity_einstein
+        definition: 相對論，愛因斯坦的物理理論
+        preferred_translation: 相對論
+        notes: 證人討論可能需要超越相對論的科技才能星際旅行
+        segments: [614, 615]
+
+  - term: Drake Equation
+    senses:
+      - id: drake_equation_formula
+        definition: 德雷克方程式，估算銀河系中智慧文明數量的公式
+        preferred_translation: 德雷克方程式
+        notes: Carl Sagan 用來論證外星生命存在但無法抵達地球
+        segments: [613]
+
+  - term: Nikola Tesla
+    senses:
+      - id: tesla_inventor
+        definition: 尼古拉·特斯拉，發明家與電氣工程師
+        preferred_translation: 尼古拉·特斯拉
+        notes: 證人認為其自由能源研究被壓制
+        segments: [699, 704]
+
+  # ===== 文化與媒體 =====
+  - term: Ancient Aliens
+    senses:
+      - id: ancient_aliens_show
+        definition: 《遠古外星人》電視節目
+        preferred_translation: 《遠古外星人》
+        notes: Discovery Channel 播出的 UFO 相關節目
+        segments: [606]
+
+  - term: Discovery Channel
+    senses:
+      - id: discovery_channel_tv
+        definition: 探索頻道
+        preferred_translation: 探索頻道
+        notes: 播出 UFO 相關節目
+        segments: [606]
+
+  - term: UFO Cover Up Live
+    senses:
+      - id: ufo_coverup_show
+        definition: 《UFO 真相掩蓋直播》，1988 年電視節目
+        preferred_translation: 《UFO 真相掩蓋直播》
+        notes: 1988 年播出的 UFO 揭露節目
+        segments: [603]
+
+  - term: Larry King Show
+    senses:
+      - id: larry_king_show_tv
+        definition: Larry King 脫口秀節目
+        preferred_translation: Larry King 脫口秀
+        notes: Stephenville 事件後 Steve Allen 接受訪問
+        segments: [362]
+
+  - term: Ted Koppel
+    senses:
+      - id: koppel_journalist
+        definition: 泰德·科佩爾，美國新聞主播
+        preferred_translation: 泰德·科佩爾
+        notes: ABC 新聞主播
+        segments: [767]
+
+  - term: Fire Officer's Guide to Disaster Control
+    senses:
+      - id: fire_guide_manual
+        definition: 《消防官員災難控制指南》
+        preferred_translation: 《消防官員災難控制指南》
+        notes: 1992 年版包含處理墜毀 UFO 與外星人的章節
+        segments: [245]
+
+  - term: Colonel Corso's book, The Day After Roswell
+    senses:
+      - id: corso_book_roswell
+        definition: 《羅斯威爾事件後的一天》，Philip Corso 上校著作
+        preferred_translation: 《羅斯威爾事件後的一天》
+        notes: 討論羅斯威爾事件與反向工程
+        segments: [476]
+
+  # ===== 其他相關術語 =====
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 證人
+        preferred_translation: 證人
+        notes: 聽證會中的核心角色
+        segments: [314, 729]
+
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        notes: 本次聽證會的核心目標
+        segments: [759]
+
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量
+        preferred_translation: 國家安全
+        notes: 常用於解釋 UFO 資訊保密的理由
+        segments: [775]
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        notes: 名詞用法可譯為「外星人」、「外星生命」
+        segments: [767, 799, 825]
+
+  - term: gunnery practice
+    senses:
+      - id: gunnery_practice_military
+        definition: 射擊訓練
+        preferred_translation: 射擊訓練
+        notes: 官方用來解釋 Phoenix Lights 的說法（降落傘照明彈）
+        segments: [582]
+
+  - term: Carl Sagan
+    senses:
+      - id: sagan_astronomer
+        definition: 卡爾·薩根，天文學家
+        preferred_translation: 卡爾·薩根
+        notes: 著名天文學家，《宇宙》節目主持人
+        segments: [613]
+
+  - term: Eco Stones of Ica, Peru
+    senses:
+      - id: ica_stones_peru
+        definition: 秘魯伊卡石刻
+        preferred_translation: 秘魯伊卡石刻
+        notes: 據稱的遠古文物，上有恐龍與人類互動圖案
+        segments: [607]
+
+  - term: Melbourne episode
+    senses:
+      - id: melbourne_1978_incident
+        definition: 1978 年墨爾本失蹤事件
+        preferred_translation: 墨爾本失蹤事件
+        notes: 飛行員 Frederick Valentich 在追逐 UFO 後失蹤
+        segments: [828]

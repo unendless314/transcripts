@@ -1,0 +1,4736 @@
+episode_id: UFO-18
+source_file: input/UFO-18/UFOs - The Truth Embargo.wav.srt
+segments:
+- segment_id: 1
+  speaker_group: 1
+  timecode:
+    start: 00:00:00,000
+    end: 00:00:15,200
+  source_text: Excuse me. We need to start with the oath. Would you please swear in the witness?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 1
+    truncated: false
+- segment_id: 2
+  speaker_group: 1
+  timecode:
+    start: 00:00:15,200
+    end: 00:00:21,520
+  source_text: Ms. Howe and gentlemen, if you would please stand and repeat after me.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 2
+    truncated: false
+- segment_id: 3
+  speaker_group: 1
+  timecode:
+    start: 00:00:21,520
+    end: 00:00:24,460
+  source_text: I do hereby affirm. I do hereby affirm.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 3
+    truncated: false
+- segment_id: 4
+  speaker_group: 1
+  timecode:
+    start: 00:00:24,460
+    end: 00:00:27,120
+  source_text: That I will tell the truth. That I will tell the truth.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 4
+    truncated: false
+- segment_id: 5
+  speaker_group: 1
+  timecode:
+    start: 00:00:27,120
+    end: 00:00:29,940
+  source_text: And nothing but the truth. And nothing but the truth.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 5
+    truncated: false
+- segment_id: 6
+  speaker_group: 1
+  timecode:
+    start: 00:00:29,940
+    end: 00:00:31,500
+  source_text: To this committee today.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 6
+    truncated: false
+- segment_id: 7
+  speaker_group: 1
+  timecode:
+    start: 00:00:31,500
+    end: 00:00:32,500
+  source_text: To this committee today.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 7
+    truncated: false
+- segment_id: 8
+  speaker_group: 1
+  timecode:
+    start: 00:00:32,500
+    end: 00:00:33,500
+  source_text: Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 8
+    truncated: false
+- segment_id: 9
+  speaker_group: 1
+  timecode:
+    start: 00:00:33,500
+    end: 00:00:44,200
+  source_text: Yes, and this is what's been -- well, this is, as I understand it, the truth embargo panel. Is that a fair
+    statement of this panel?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 9
+    - 10
+    truncated: false
+- segment_id: 10
+  speaker_group: 1
+  timecode:
+    start: 00:00:44,200
+    end: 00:00:45,200
+  source_text: Yes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 11
+    truncated: false
+- segment_id: 11
+  speaker_group: 1
+  timecode:
+    start: 00:00:45,200
+    end: 00:00:47,200
+  source_text: Great. And a film, as I understand it?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 12
+    truncated: false
+- segment_id: 12
+  speaker_group: 1
+  timecode:
+    start: 00:00:47,200
+    end: 00:00:48,200
+  source_text: Yes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 13
+    truncated: false
+- segment_id: 13
+  speaker_group: 1
+  timecode:
+    start: 00:00:48,200
+    end: 00:01:34,480
+  source_text: Yes. Well, as we get older and older, I'm 77 right now. You can't live forever, you know. So if this procedure
+    I'm going to have to clean the blood doesn't work, then I've got probably a few more months to make it before my kidneys
+    shut down. So that's kind of why I'm kind of going along with the interview at this time.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 14
+    - 15
+    - 16
+    - 17
+    truncated: false
+- segment_id: 14
+  speaker_group: 1
+  timecode:
+    start: 00:01:34,480
+    end: 00:01:39,240
+  source_text: You're seeing that what you went through is just too important for people not to know about.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 18
+    - 19
+    truncated: false
+- segment_id: 15
+  speaker_group: 1
+  timecode:
+    start: 00:01:39,240
+    end: 00:01:40,240
+  source_text: Yeah.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 20
+    truncated: false
+- segment_id: 16
+  speaker_group: 1
+  timecode:
+    start: 00:01:40,240
+    end: 00:01:50,880
+  source_text: Can you just -- can we start at the beginning with your military career and just walk through what exactly
+    your experiences were?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 21
+    - 22
+    truncated: false
+- segment_id: 17
+  speaker_group: 1
+  timecode:
+    start: 00:01:50,880
+    end: 00:02:07,920
+  source_text: I was drafted into the military and got into the U.S. Army. After that, I was sent to the Signal Training Center
+    in eastern United States.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 23
+    - 24
+    truncated: false
+- segment_id: 18
+  speaker_group: 1
+  timecode:
+    start: 00:02:07,920
+    end: 00:02:43,560
+  source_text: What year would this be? 1958. I went through the signal training course. And at that time, I went through
+    the radio tele-type course and also the cryptography course, Crypto. They had five instructors that were getting out of
+    military service, so they pulled the top five students. And I was third in the class, so I got pulled as an instructor.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 25
+    - 26
+    - 27
+    - 28
+    - 29
+    truncated: false
+- segment_id: 19
+  speaker_group: 1
+  timecode:
+    start: 00:02:43,560
+    end: 00:02:48,920
+  source_text: Now, were you at this time also working yet for CIA?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 30
+    truncated: false
+- segment_id: 20
+  speaker_group: 1
+  timecode:
+    start: 00:02:48,920
+    end: 00:02:49,920
+  source_text: No.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 31
+    truncated: false
+- segment_id: 21
+  speaker_group: 1
+  timecode:
+    start: 00:02:49,920
+    end: 00:02:50,920
+  source_text: Not yet?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 32
+    truncated: false
+- segment_id: 22
+  speaker_group: 1
+  timecode:
+    start: 00:02:50,920
+    end: 00:03:43,640
+  source_text: No. After one day, my boss came to me and he said, "How would you like to, you know, make some extra money?"
+    And I said, "Well, money is good." So he explained to me that I could -- he could put it through, like, would have to
+    get a top secret White House cue clearance for the job, you know. And I thought, boy, must be a pretty exclusive thing,
+    you know. And I said, "Well, what is this?" And he said that I'm director for the CIA for eastern United States, you know.
+    And I said, "Oh, I didn't know that." And he said, "You weren't supposed to."
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 33
+    - 34
+    - 35
+    - 36
+    - 37
+    - 38
+    - 39
+    truncated: false
+- segment_id: 23
+  speaker_group: 1
+  timecode:
+    start: 00:03:43,640
+    end: 00:04:24,440
+  source_text: After about six weeks, my security clearance came through, and I got my CIA card. It was an ID card, like a
+    credit card, where I could just go up to the door and slice it, walk right in. And my name at that time, I used an artificial
+    name, too. Never used my real name. I started working with him on the project he was on. And that was Project Blue Book,
+    which was kind of partially a fraud.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 40
+    - 41
+    - 42
+    - 43
+    - 44
+    truncated: false
+- segment_id: 24
+  speaker_group: 1
+  timecode:
+    start: 00:04:24,440
+    end: 00:04:29,520
+  source_text: You're saying some of the Blue Book cases were completely fictitious?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 45
+    truncated: false
+- segment_id: 25
+  speaker_group: 1
+  timecode:
+    start: 00:04:29,520
+    end: 00:04:40,920
+  source_text: Yes. But the cases that we got came from, I think it was Fort Belvoir, Maryland.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 46
+    truncated: false
+- segment_id: 26
+  speaker_group: 1
+  timecode:
+    start: 00:04:40,920
+    end: 00:04:41,920
+  source_text: Fort Belvoir?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 47
+    truncated: false
+- segment_id: 27
+  speaker_group: 1
+  timecode:
+    start: 00:04:41,920
+    end: 00:05:13,880
+  source_text: Yeah. And it didn't come from the Pentagon, or it didn't come from CIA headquarters. But we would get reports
+    about a certain sighting that they had in Mexico or Italy or something like that. And then we had people that would follow
+    through on it, that would go out and interview the people to see if they were not cases, or if it was real, you know.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 48
+    - 49
+    - 50
+    - 51
+    truncated: false
+- segment_id: 28
+  speaker_group: 1
+  timecode:
+    start: 00:05:13,880
+    end: 00:05:16,560
+  source_text: So you'd be going overseas frequently?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 52
+    truncated: false
+- segment_id: 29
+  speaker_group: 1
+  timecode:
+    start: 00:05:16,560
+    end: 00:06:01,320
+  source_text: I wasn't, but I always stayed statewide. But the people we had working with us from CIA would do that. We would
+    get like a new report probably a couple times a week. I was coming into the Army fresh off the farm, you know, so I really
+    didn't have much knowledge of anything. But my boss filled me in on Project Blue Book and what they had found so far,
+    as far as the Greys and the aliens and the Roswell Incident.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 53
+    - 54
+    - 55
+    - 56
+    - 57
+    truncated: false
+- segment_id: 30
+  speaker_group: 1
+  timecode:
+    start: 00:06:01,320
+    end: 00:06:07,840
+  source_text: How did you feel when this first got dumped on you? When you first learned about this?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 58
+    truncated: false
+- segment_id: 31
+  speaker_group: 1
+  timecode:
+    start: 00:06:07,840
+    end: 00:06:26,320
+  source_text: I was just kind of overwhelmed with all of this, you know. And I said to him, I don't know if I'm going to
+    be able to be a judge of this type of thing. What's real, what's not, when I don't have much knowledge of it, you know.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 59
+    - 60
+    - 61
+    truncated: false
+- segment_id: 32
+  speaker_group: 1
+  timecode:
+    start: 00:06:26,320
+    end: 00:06:28,080
+  source_text: So what did he say?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 62
+    truncated: false
+- segment_id: 33
+  speaker_group: 1
+  timecode:
+    start: 00:06:28,080
+    end: 00:06:37,960
+  source_text: He said, well, we have to build the information as we go and you'll see how this thing is working out.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 63
+    - 64
+    truncated: false
+- segment_id: 34
+  speaker_group: 1
+  timecode:
+    start: 00:06:37,960
+    end: 00:06:44,080
+  source_text: And then the other thing is, of course, you really weren't able to tell family or close friends, obviously.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 65
+    - 66
+    truncated: false
+- segment_id: 35
+  speaker_group: 1
+  timecode:
+    start: 00:06:44,080
+    end: 00:07:04,480
+  source_text: No, I couldn't tell anybody. In fact, I had to take a vow that I wouldn't tell anybody, a lot of it for 40
+    years and more of it for 50 years, which is up in 2010.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 67
+    - 68
+    truncated: false
+- segment_id: 36
+  speaker_group: 1
+  timecode:
+    start: 00:07:04,480
+    end: 00:07:15,720
+  source_text: You're doing all this crypto work. You're looking at images, photographs, video. It's 1958, maybe the fall
+    of '58. What happened after this?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 69
+    - 70
+    truncated: false
+- segment_id: 37
+  speaker_group: 1
+  timecode:
+    start: 00:07:15,720
+    end: 00:07:28,920
+  source_text: At that time, the Project Blue Book thing kind of went pot, you know. If you remember, back in those days,
+    they kind of declared it as a nothing, you know.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 71
+    - 72
+    truncated: false
+- segment_id: 38
+  speaker_group: 1
+  timecode:
+    start: 00:07:28,920
+    end: 00:07:40,040
+  source_text: And they were telling the world, all UFOs are misidentifications, hoaxes, psychological issues, whatever.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 73
+    - 74
+    truncated: false
+- segment_id: 39
+  speaker_group: 1
+  timecode:
+    start: 00:07:40,040
+    end: 00:08:15,880
+  source_text: Yes. So my boss came to me and he says, we've both got a new assignment. And he says, oh, I said, where are
+    we going? Oh, he says, we're going to the Capitol. We're going to be part of the Eisenhower push. He's trying to find
+    out something about, all about these aliens that MJ-12 was supposed to find out, but never sent back reports to him.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 75
+    - 76
+    - 77
+    - 78
+    truncated: false
+- segment_id: 40
+  speaker_group: 1
+  timecode:
+    start: 00:08:15,880
+    end: 00:08:22,440
+  source_text: The MJ-12, the UFO control group, were they calling it MJ-12 at that time?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 79
+    truncated: false
+- segment_id: 41
+  speaker_group: 1
+  timecode:
+    start: 00:08:22,440
+    end: 00:08:23,440
+  source_text: Yes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 80
+    truncated: false
+- segment_id: 42
+  speaker_group: 1
+  timecode:
+    start: 00:08:23,440
+    end: 00:09:03,920
+  source_text: They called us in, went into the Oval Office, and President Eisenhower was there in Nixon, and they said, we
+    called the people in from MJ-12, from Area 51 and S-4, but they told us that the government had no jurisdiction over what
+    they were doing. So being a general, past general, you didn't tell them to go to hell without any real good reason, you
+    know.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 81
+    - 82
+    - 83
+    - 84
+    truncated: false
+- segment_id: 43
+  speaker_group: 1
+  timecode:
+    start: 00:09:03,920
+    end: 00:09:48,560
+  source_text: So he said, I want you and your boss to fly out there. I want you to give them a personal message. He says,
+    I want you to tell them, whoever is in charge, tell them that to get in, they have this week, coming week, to get into
+    Washington and to report to me. And if they don't, I'm going to get the 1st Army from Colorado, and we're going to go
+    over, we're going to take the base over, I don't care what kind of classified material you got, we're going to rip this
+    thing apart.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 85
+    - 86
+    - 87
+    - 88
+    - 89
+    - 90
+    truncated: false
+- segment_id: 44
+  speaker_group: 1
+  timecode:
+    start: 00:09:48,560
+    end: 00:09:56,120
+  source_text: Eisenhower was going to invade Area 51, yeah, with the 1st Army.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 91
+    truncated: false
+- segment_id: 45
+  speaker_group: 1
+  timecode:
+    start: 00:09:56,120
+    end: 00:10:04,680
+  source_text: So you go out with your superior, you fly out, you land, what happens? Can you describe this whole process,
+    what you saw?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 92
+    - 93
+    truncated: false
+- segment_id: 46
+  speaker_group: 1
+  timecode:
+    start: 00:10:04,680
+    end: 00:10:42,240
+  source_text: It took us the 13 or 15 miles south to S4, had like different garage door openings. And in these garage door
+    openings, they had like different saucer crafts. The very first one had the Roswell craft in. It was kind of crashed up,
+    but apparently every alien that was in it died except for a couple.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 94
+    - 95
+    - 96
+    - 97
+    truncated: false
+- segment_id: 47
+  speaker_group: 1
+  timecode:
+    start: 00:10:42,240
+    end: 00:10:45,880
+  source_text: So you see the Roswell craft, and what are some of the others that you see?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 98
+    truncated: false
+- segment_id: 48
+  speaker_group: 1
+  timecode:
+    start: 00:10:45,880
+    end: 00:11:05,880
+  source_text: Well, the Roswell craft was really strange, because it looked like real heavy aluminum foil. We could rock
+    next to it, and you could rock, the whole thing probably weighed 150, 300 pounds.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 99
+    - 100
+    - 101
+    truncated: false
+- segment_id: 49
+  speaker_group: 1
+  timecode:
+    start: 00:11:05,880
+    end: 00:11:09,280
+  source_text: Could they tell what the source of power was of this craft?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 102
+    truncated: false
+- segment_id: 50
+  speaker_group: 1
+  timecode:
+    start: 00:11:09,280
+    end: 00:11:38,880
+  source_text: Yeah, it was like a river's gravitational thing of some kind. In fact, one, later on, I got the mathematical
+    code for reversing gravity in a 3x5 card. I guess there are different types of grays and so on.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 103
+    - 104
+    - 105
+    truncated: false
+- segment_id: 51
+  speaker_group: 1
+  timecode:
+    start: 00:11:38,880
+    end: 00:11:40,560
+  source_text: How did you see that evidence?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 106
+    truncated: false
+- segment_id: 52
+  speaker_group: 1
+  timecode:
+    start: 00:11:40,560
+    end: 00:12:01,040
+  source_text: Well, later on at S4, we viewed the autopsy film. And then the colonel said, "What we've got in here is we're
+    interviewing a gray alien."
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 107
+    - 108
+    truncated: false
+- segment_id: 53
+  speaker_group: 1
+  timecode:
+    start: 00:12:01,040
+    end: 00:12:06,400
+  source_text: All right, right there. How did you feel at that moment?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 109
+    truncated: false
+- segment_id: 54
+  speaker_group: 1
+  timecode:
+    start: 00:12:06,400
+    end: 00:12:15,480
+  source_text: Well, I thought, boy, we had no idea we were going to see the real thing. All we saw was film.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 110
+    - 111
+    truncated: false
+- segment_id: 55
+  speaker_group: 1
+  timecode:
+    start: 00:12:15,480
+    end: 00:12:19,360
+  source_text: You had to have a little bit of heart racing at that moment.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 112
+    truncated: false
+- segment_id: 56
+  speaker_group: 1
+  timecode:
+    start: 00:12:19,360
+    end: 00:12:26,600
+  source_text: Yes. My boss was able to go in and had a partial interview with him.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 113
+    truncated: false
+- segment_id: 57
+  speaker_group: 1
+  timecode:
+    start: 00:12:26,600
+    end: 00:12:30,280
+  source_text: So what did this gray alien look like? Could you describe him a little bit?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 114
+    truncated: false
+- segment_id: 58
+  speaker_group: 1
+  timecode:
+    start: 00:12:30,280
+    end: 00:12:35,360
+  source_text: This one looked a little bit oriental.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 115
+    truncated: false
+- segment_id: 59
+  speaker_group: 1
+  timecode:
+    start: 00:12:35,360
+    end: 00:12:41,200
+  source_text: So I'm just wondering, if it looked almost human, what about this didn't look human?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 116
+    truncated: false
+- segment_id: 60
+  speaker_group: 1
+  timecode:
+    start: 00:12:41,200
+    end: 00:12:53,320
+  source_text: No, it didn't look human as far as the skin tone and basically the shape of it and the size.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 117
+    - 118
+    truncated: false
+- segment_id: 61
+  speaker_group: 1
+  timecode:
+    start: 00:12:53,320
+    end: 00:12:58,480
+  source_text: How was its head size compared with a normal human, for example?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 119
+    truncated: false
+- segment_id: 62
+  speaker_group: 1
+  timecode:
+    start: 00:12:58,480
+    end: 00:13:14,640
+  source_text: One was kind of a little bit bigger and some of them noses were very, very small and ears were just like holes.
+    Mouth was very small.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 120
+    - 121
+    truncated: false
+- segment_id: 63
+  speaker_group: 1
+  timecode:
+    start: 00:13:14,640
+    end: 00:13:20,200
+  source_text: Why were they bringing you out here at all anyway to see an alien? What was the point?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 122
+    truncated: false
+- segment_id: 64
+  speaker_group: 1
+  timecode:
+    start: 00:13:20,200
+    end: 00:13:25,620
+  source_text: To go back and tell the president they actually had one.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 123
+    truncated: false
+- segment_id: 65
+  speaker_group: 1
+  timecode:
+    start: 00:13:25,620
+    end: 00:13:32,040
+  source_text: So he did not know at this point if there was an alien at S4.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 124
+    truncated: false
+- segment_id: 66
+  speaker_group: 1
+  timecode:
+    start: 00:13:32,040
+    end: 00:13:35,840
+  source_text: What did you do then? Were you done or did you have other things to do at S4?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 125
+    truncated: false
+- segment_id: 67
+  speaker_group: 1
+  timecode:
+    start: 00:13:35,840
+    end: 00:13:58,120
+  source_text: Yes, basically we were kind of done. We went back to Area 51. They took us into the main building and there
+    we saw a U-2 which of course we didn't know existed and a model of the SR-71.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 126
+    - 127
+    - 128
+    truncated: false
+- segment_id: 68
+  speaker_group: 1
+  timecode:
+    start: 00:13:58,120
+    end: 00:13:59,120
+  source_text: The Blackbird.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 129
+    truncated: false
+- segment_id: 69
+  speaker_group: 1
+  timecode:
+    start: 00:13:59,120
+    end: 00:14:10,680
+  source_text: But like I mentioned earlier, it was not a model of the current Blackbird, but an early version.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 130
+    - 131
+    truncated: false
+- segment_id: 70
+  speaker_group: 1
+  timecode:
+    start: 00:14:10,680
+    end: 00:14:17,680
+  source_text: Did you go directly to Washington after this or did you go somewhere else? Did you fly regular airline?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 132
+    - 133
+    truncated: false
+- segment_id: 71
+  speaker_group: 1
+  timecode:
+    start: 00:14:17,680
+    end: 00:14:33,600
+  source_text: We flew back to the commuter plane, back to the air base and then took President Eisenhower's Lockheed Electra
+    back to Washington.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 134
+    - 135
+    truncated: false
+- segment_id: 72
+  speaker_group: 1
+  timecode:
+    start: 00:14:33,600
+    end: 00:14:38,960
+  source_text: You and your supervisor, superior officer, and now you're meeting with the president?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 136
+    truncated: false
+- segment_id: 73
+  speaker_group: 1
+  timecode:
+    start: 00:14:38,960
+    end: 00:14:42,160
+  source_text: Yes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 137
+    truncated: false
+- segment_id: 74
+  speaker_group: 1
+  timecode:
+    start: 00:14:42,160
+    end: 00:15:28,880
+  source_text: We met with him in the second story of the old OSS warehouse building. Eisenhower and Nixon were there and
+    also Hoover was there. So he asked us what was going on and we told him about the alien and the whole situation and the
+    black projects and so on. He was just totally shocked. He appeared for the first time to be worried, like he was worried.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 138
+    - 139
+    - 140
+    - 141
+    truncated: false
+- segment_id: 75
+  speaker_group: 1
+  timecode:
+    start: 00:15:28,880
+    end: 00:15:36,080
+  source_text: I would think that Eisenhower would, I mean he certainly knew that flying saucers were real.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 142
+    - 143
+    truncated: false
+- segment_id: 76
+  speaker_group: 1
+  timecode:
+    start: 00:15:36,080
+    end: 00:15:37,080
+  source_text: Yes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 144
+    truncated: false
+- segment_id: 77
+  speaker_group: 1
+  timecode:
+    start: 00:15:37,080
+    end: 00:15:47,640
+  source_text: They were aliens. So I guess I'm just wondering what would he have been really surprised about?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 145
+    truncated: false
+- segment_id: 78
+  speaker_group: 1
+  timecode:
+    start: 00:15:47,640
+    end: 00:15:59,480
+  source_text: Surprised about the black programs. Eisenhower said, "I've got to keep this thing completely secret. I can't
+    talk about this."
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 146
+    - 147
+    truncated: false
+- segment_id: 79
+  speaker_group: 1
+  timecode:
+    start: 00:15:59,480
+    end: 00:16:07,280
+  source_text: Your actual name, the name you grew up with, that was a different name than what you had in the...
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 148
+    - 149
+    truncated: false
+- segment_id: 80
+  speaker_group: 1
+  timecode:
+    start: 00:16:07,280
+    end: 00:16:10,840
+  source_text: I never used it in the CIA at all.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 150
+    truncated: false
+- segment_id: 81
+  speaker_group: 1
+  timecode:
+    start: 00:16:10,840
+    end: 00:16:29,200
+  source_text: Now what about today? You're going on the public record and this is still sensitive information even though
+    earlier you talked about security oaths that maybe expire after a certain period of time. 50 years.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 151
+    - 152
+    - 153
+    - 154
+    truncated: false
+- segment_id: 82
+  speaker_group: 1
+  timecode:
+    start: 00:16:29,200
+    end: 00:16:30,200
+  source_text: But you're still concerned.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 155
+    truncated: false
+- segment_id: 83
+  speaker_group: 1
+  timecode:
+    start: 00:16:30,200
+    end: 00:16:45,280
+  source_text: I had a Linda Moulton Howe phone call. Her phone was tapped and they got my phone number and through the telephone
+    company they were able to find me and so on.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 156
+    - 157
+    truncated: false
+- segment_id: 84
+  speaker_group: 1
+  timecode:
+    start: 00:16:45,280
+    end: 00:16:46,840
+  source_text: When they found you, what happened?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 158
+    truncated: false
+- segment_id: 85
+  speaker_group: 1
+  timecode:
+    start: 00:16:46,840
+    end: 00:17:15,800
+  source_text: I was going to a grocery store. Two guys in black suits came out of a black Lincoln town car and came over
+    to see me and they told me that I better not publish anything or talk to Linda about any more things. So at that time,
+    I did. I stopped.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 159
+    - 160
+    - 161
+    truncated: false
+- segment_id: 86
+  speaker_group: 1
+  timecode:
+    start: 00:17:15,800
+    end: 00:17:17,840
+  source_text: That was enough to intimidate you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 162
+    truncated: false
+- segment_id: 87
+  speaker_group: 1
+  timecode:
+    start: 00:17:17,840
+    end: 00:17:25,600
+  source_text: I'd rather remain anonymous. Never show my face on anything.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 163
+    truncated: false
+- segment_id: 88
+  speaker_group: 1
+  timecode:
+    start: 00:17:25,600
+    end: 00:17:28,640
+  source_text: Really thank you for doing this.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 164
+    truncated: false
+- segment_id: 89
+  speaker_group: 1
+  timecode:
+    start: 00:17:28,640
+    end: 00:17:45,240
+  source_text: Yes. This was, I guess, kind of a good idea because I feel much better having talked about it. I kind of feel
+    like there's a load off my shoulders.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 165
+    - 166
+    truncated: false
+- segment_id: 90
+  speaker_group: 1
+  timecode:
+    start: 00:17:45,240
+    end: 00:17:46,240
+  source_text: Really?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 167
+    truncated: false
+- segment_id: 91
+  speaker_group: 1
+  timecode:
+    start: 00:17:46,240
+    end: 00:18:02,800
+  source_text: Yes. Because I had an awful lot of secrets that I had kept over the years.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 168
+    truncated: false
+- segment_id: 92
+  speaker_group: 1
+  timecode:
+    start: 00:18:02,800
+    end: 00:18:18,480
+  source_text: I'd like to now hear from Linda Moulton Howe. Go ahead. You've got 10 minutes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 169
+    truncated: false
+- segment_id: 93
+  speaker_group: 1
+  timecode:
+    start: 00:18:18,480
+    end: 00:18:25,480
+  source_text: In the summer of 1994, I spent three days and three nights in that gentleman's home.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 170
+    truncated: false
+- segment_id: 94
+  speaker_group: 1
+  timecode:
+    start: 00:18:25,480
+    end: 00:18:32,120
+  source_text: No one on the planet knew where I was, not my family, not anyone.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 171
+    truncated: false
+- segment_id: 95
+  speaker_group: 1
+  timecode:
+    start: 00:18:32,120
+    end: 00:19:44,920
+  source_text: I recorded 11 90-minute audiotapes with him. I knew that I was in the presence of somebody who was telling
+    the truth to the best of his ability and that the military cover of levels of intelligence in this country has been used
+    for a very long time. On the surface, he was a cryptologist working in the United States Army, but as he described in
+    the film, he took on a role, highly classified, working for the CIA, and his boss was reporting to Langley from reports
+    that were coming into Fort Belvoir. He described to me in great detail the autopsy footage that he had seen of nonhumans
+    describing the unusual brains and the unusual internal organs, and the fact that they were screening film disguised as
+    being on a southeastern military base, and that the film that they were screening on a regular basis was coming from around
+    the world. He had seen film from Italy in which
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 172
+    - 173
+    - 174
+    - 175
+    - 176
+    - 177
+    - 178
+    - 179
+    - 180
+    - 181
+    truncated: true
+- segment_id: 96
+  speaker_group: 1
+  timecode:
+    start: 00:19:44,920
+    end: 00:20:59,980
+  source_text: nonhumans were outside of a craft, and the film had been taken from a nearby peak in a mountain. He talked
+    about Area 51 from his first-hand experience of being there on the other side of what would be a one-way mirror while
+    his boss from Langley was inside with a nonhuman, and that he himself had seen some of the craft, like a museum that's
+    inside of Papoose Mountain. After those three days and three nights where no one knew where I was, I left to do something
+    that would be normal in the normal nine-to-five world, and when I returned to my home then in Philadelphia, I remember
+    going to the phone and voicemail, and the last thing that we had agreed upon was that I would return in approximately
+    four weeks with a video crew in which I was preparing a statement for him and for me to sign that I would do a videotape
+    interview like my 11 audio tapes, and I would hold it until after
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 182
+    - 183
+    - 184
+    - 185
+    - 186
+    - 187
+    - 188
+    - 189
+    - 190
+    - 191
+    truncated: true
+- segment_id: 97
+  speaker_group: 1
+  timecode:
+    start: 00:20:59,980
+    end: 00:22:12,280
+  source_text: his death. He thought that he was not going to live very long in '94. So I was surprised to hear his voice
+    on my voicemail say, "Linda, my wife and I went to the supermarket after you left, and two men were leaning against our
+    car when we came out of the supermarket, and they said, 'We want to remind you that you have been a loyal American, and
+    we are here to tell you that you are never to talk with Linda Moulton Howe again or to discuss this subject.'" None of
+    those 11 hours of my audio tapes would have been in the phone calls, so it means that they were listening to our three
+    days and three nights in the house, and I promised him from that point on that I would never discuss him or the material,
+    and in fact, later on, I received information from someone unknown that he was dead. So I am personally gratified to see
+    that he made a statement today for this citizen hearing
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 192
+    - 193
+    - 194
+    - 195
+    - 196
+    - 197
+    - 198
+    - 199
+    - 200
+    - 201
+    truncated: true
+- segment_id: 98
+  speaker_group: 1
+  timecode:
+    start: 00:22:12,280
+    end: 00:22:26,760
+  source_text: because he is scratching the surface of how complex this is and how military and intel people have been intimidated
+    for not only their whole careers but their whole lives.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 202
+    - 203
+    truncated: false
+- segment_id: 99
+  speaker_group: 1
+  timecode:
+    start: 00:22:26,760
+    end: 00:23:34,400
+  source_text: To never tell the truth about something so fundamental as we are not alone in this universe, that nonhumans
+    have been interacting with this planet for millennia, and you have just heard from one of the firsthand. I had placed
+    before you a prepared statement concerning truth embargo and a whole other experience that I had in Kirtland Air Force
+    Base in 1983 that would have been a decade before being able to talk with this man. I hope that you will read it in its
+    entirety. I know I don't have time this morning to go through it, but I can summarize that blocking truth, that we're
+    calling the truth embargo, has been the intent of the American government's official policy of denial since 1947 when
+    the President Truman administration decided that all information about nonhuman intelligences interacting with this planet
+    should be kept from the public and media, and that includes Congress and
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 204
+    - 205
+    - 206
+    - 207
+    - 208
+    - 209
+    - 210
+    - 211
+    - 212
+    - 213
+    truncated: true
+- segment_id: 100
+  speaker_group: 1
+  timecode:
+    start: 00:23:34,400
+    end: 00:24:45,060
+  source_text: the Supreme Court and all machinery of our government except for those designated as having "a need to know"
+    and the code words and the numbers that have gone with the few people who have had total access in MJ-12. I encountered
+    truth embargoes repeatedly as I investigated the bloodless, trackless animal mutilations in Colorado and the surrounding
+    region from my TV documentary special, A Strange Harvest, beginning in September of 1979, and I have provided for you
+    a letter from United States Senator Harrison Schmidt, dated March 14, 1979. It is attached to my statement. It was a letter
+    that Apollo astronaut and then US Senator Harrison Schmidt of New Mexico had sent to constituents announcing a conference
+    in Albuquerque to be held on April 20, 1979 to discuss the ongoing persistent problem of animal mutilations, and he wanted
+    the Department of Justice and the Federal Bureau of Investigation
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 214
+    - 215
+    - 216
+    - 217
+    - 218
+    - 219
+    - 220
+    - 221
+    - 222
+    - 223
+    truncated: true
+- segment_id: 101
+  speaker_group: 1
+  timecode:
+    start: 00:24:45,060
+    end: 00:26:05,200
+  source_text: to investigate. And that 1979 meeting was held, and five months later in September 1979 as Director of Special
+    Projects at the CBS station in Denver, I began what became a nine-month, 18-hour-a-day, seven-days-a-week investigation.
+    And I went to Santa Fe, and I did an interview with Senator Schmidt and one of the most important things that he told
+    me was, to my question, are you aware of any intelligence committee or any agency that you have communicated with who
+    has told you that we are dealing with extraterrestrial biological entities as perpetrators of worldwide animal mutilations
+    as law enforcement repeatedly had told me? And I remember the pause and the look on his face when he said no, and I remember
+    that his next words were, but I am not surprised at your question or the implications. And his request as a United States
+    Senator to have the Department of Justice and the Federal Bureau of Investigation formally
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 224
+    - 225
+    - 226
+    - 227
+    - 228
+    - 229
+    - 230
+    - 231
+    - 232
+    - 233
+    truncated: true
+- segment_id: 102
+  speaker_group: 1
+  timecode:
+    start: 00:26:05,200
+    end: 00:27:12,520
+  source_text: investigate animal mutilations was blocked. He told me that firsthand. The rest of the pages of the statement
+    that I have submitted to you occurred after I was contracted with Home Box Office on March 21, 1983, to do an hour special
+    that would follow up a strange harvest about the animal mutilations, and they had a working title in the contract that
+    I would produce for them, an hour special called UFOs the ET Factor. And at the time, there was an attorney in New York
+    named Peter Gersten. He was the first attorney to file against the CIA, the NSA, National Reconnaissance Organization,
+    the Defense Intelligence Agency, and other military agencies under the brand new Freedom of Information Act FOIA for documents
+    that those agencies had. And what Peter Gersten found was initially the Central Intelligence Agency denied that it had
+    any information or documents, but that the National Security
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 234
+    - 235
+    - 236
+    - 237
+    - 238
+    - 239
+    - 240
+    - 241
+    - 242
+    - 243
+    truncated: true
+- segment_id: 103
+  speaker_group: 1
+  timecode:
+    start: 00:27:12,520
+    end: 00:28:23,120
+  source_text: Agency had 118. So he would send the Central Intelligence Agency's formal letter to the National Security Agency
+    asking for the documents referenced by the CIA. And the National Security Agency would send him a formal letter referencing
+    the fact that the Central Intelligence Agency had 35 documents shared with the National Security Agency. And eventually,
+    he assembled dozens of documents that came from those agencies, each one pointing a finger at the other. It went to the
+    Supreme Court and the Supreme Court denied to hear what essentially was a New York attorney representing citizens against
+    UFO secrecy and what was called ground saucer watch under the first Freedom of Information Act, simply asking for information
+    from our government about documents that they all said they had. And even though the Supreme Court denied that they would
+    take on that lawsuit, out of it came many pages of blacked out information
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 244
+    - 245
+    - 246
+    - 247
+    - 248
+    - 249
+    - 250
+    - 251
+    - 252
+    - 253
+    truncated: true
+- segment_id: 104
+  speaker_group: 1
+  timecode:
+    start: 00:28:23,120
+    end: 00:29:35,200
+  source_text: that has been held up by Stanton Friedman and others of us over the years that agencies who are not allowed
+    to speak and who have been responsible for counterintelligence since World War II to convince us that there's nothing
+    to this phenomena. The witness has about one minute remaining. They are the very agencies who have the information and
+    have been interlinked with Majestic 12 that was appointed by President Harry S. Truman within a very short period of time
+    after the crash retrievals in July of 1947 and that Majestic 12, MJ12, whatever the letters and numbers are in 2013, the
+    same kind of inner sanctum agency still exists interacting with other inside inner sanctum black agencies. There is a
+    parallel black budget. There's a parallel government. And this is how the truth that this gentleman described and that
+    many people in our government have known since at least 1941 when there
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 254
+    - 255
+    - 256
+    - 257
+    - 258
+    - 259
+    - 260
+    - 261
+    - 262
+    - 263
+    truncated: true
+- segment_id: 105
+  speaker_group: 1
+  timecode:
+    start: 00:29:35,200
+    end: 00:30:36,760
+  source_text: was another crash retrieval from Missouri and an instrument called a Neutronic Propulsion Unit was hand delivered
+    to Oppenheimer for his use in developing and researching what became the atomic bomb. And finally, the truth embargo so
+    that you would have reference to the two agencies that in the beginning had the most information, the Atomic Energy Commission
+    and the Department of the Navy, all of those documents of all of the truth that he has said that I have tried to report
+    about now for 33 years, they are essentially off limits to any access by Congress or even the President because they are
+    classified as only under a need to know and probably Suitland, Maryland archive has them.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 264
+    - 265
+    - 266
+    - 267
+    - 268
+    - 269
+    - 270
+    - 271
+    truncated: false
+- segment_id: 106
+  speaker_group: 1
+  timecode:
+    start: 00:30:36,760
+    end: 00:30:52,240
+  source_text: This is time. Thank you. I would like to now the panel will hear from Richard Dolan. You have ten minutes.
+    Greetings, honored members of the committee.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 272
+    - 273
+    truncated: false
+- segment_id: 107
+  speaker_group: 1
+  timecode:
+    start: 00:30:52,240
+    end: 00:31:12,080
+  source_text: I'm very pleased about the interview that everyone was just shown and grateful that Linda Moulton Howe was
+    able to elaborate on that. I'm happy to discuss this also if the committee members have questions but I have a different
+    angle of approach this time. The truth embargo as I see it, as I understand it, let's call it a big picture analysis.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 274
+    - 275
+    - 276
+    - 277
+    truncated: false
+- segment_id: 108
+  speaker_group: 1
+  timecode:
+    start: 00:31:12,080
+    end: 00:31:57,900
+  source_text: I would start by saying one of the striking things about UFOs is simply the discrepancy between the quantity
+    of astonishing sightings we have on the one hand and the lack of responsible treatment of this by our major media, also
+    our academic and our scientific institutions and indeed our political system. This is a shame because there's very good
+    research that's being done every day. Many of those researchers have been here this week. Others are out there too such
+    as the National Aviation Reporting Center on anomalous phenomena, NARCAP, which was referenced in the previous panel by
+    Jim Courant. They collect and analyze encounters that the aviation industry has had with unknown objects. There are thousands
+    of such cases.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 278
+    - 279
+    - 280
+    - 281
+    - 282
+    - 283
+    - 284
+    - 285
+    truncated: false
+- segment_id: 109
+  speaker_group: 1
+  timecode:
+    start: 00:31:57,900
+    end: 00:32:05,200
+  source_text: Another group is Project 1947, which has documented UFO phenomena during the early Cold War years.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 286
+    truncated: false
+- segment_id: 110
+  speaker_group: 1
+  timecode:
+    start: 00:32:05,200
+    end: 00:32:56,240
+  source_text: There are outstanding web search websites such as ufoevidence.org. There are also many excellent research groups
+    in Europe and elsewhere in the world. None of them get any love from America's dumbed-down media, which prefers to lump
+    the whole subject into a big tinfoil hat and instead write about the latest escapades of Kim Kardashian. This is a symptom.
+    It's a symptom of a deeper problem. To understand why there is a truth embargo, we need to come to terms with the fact
+    that America's major media groups lost their independence a long time ago. We all know about media consolidation. We all
+    know about the intimate relationships that have existed for years between the elite members in the corporate media empire
+    and the political leadership and particularly with the military and intelligence community.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 287
+    - 288
+    - 289
+    - 290
+    - 291
+    - 292
+    - 293
+    - 294
+    - 295
+    truncated: false
+- segment_id: 111
+  speaker_group: 1
+  timecode:
+    start: 00:32:56,240
+    end: 00:33:38,800
+  source_text: Last year, one example only, it was learned that the Pentagon spends some $4 billion a year to sway public
+    opinion. Now, aside from asking just why Americans ought to be paying their own government to brainwash them, I mean,
+    talk about getting shafted both ways, right? This is just one facet of many that highlight a revolving door through which
+    passes the military industrial complex, the media, the academic community and more. National security money, which is
+    our nation's greatest and most egregious waste of all, has infiltrated everything and that certainly means the once-upon-a-time
+    integrity of our journalists and media corporations.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 296
+    - 297
+    - 298
+    - 299
+    - 300
+    - 301
+    - 302
+    truncated: false
+- segment_id: 112
+  speaker_group: 1
+  timecode:
+    start: 00:33:38,800
+    end: 00:34:08,200
+  source_text: This is repugnant to any freedom-loving people. But those individuals benefiting from this system are not freedom-loving
+    unless they mean their own freedom. The bottom line is that because UFOs are a definite matter of national security, those
+    national security decision-makers have made it certain that this subject remains out of sight as much as possible. Is
+    this not obvious by now? Now, why would they do this? Well, many reasons.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 303
+    - 304
+    - 305
+    - 306
+    - 307
+    truncated: false
+- segment_id: 113
+  speaker_group: 1
+  timecode:
+    start: 00:34:08,200
+    end: 00:34:58,680
+  source_text: Let's touch on the matter of oil because even a child can understand that these objects don't need oil to go
+    from point A to point B. Whatever powers, flying saucers, it's something different, something better. So if the President
+    were to announce the reality of these things, how long do you think it would take before scientists openly begin to study
+    the nature of the propulsion and power system of UFOs? This would immediately challenge oil, not simply as the world's
+    leading source of power, but it would severely threaten the entire global financial system, which is based upon oil. And
+    probably 90 percent of the value of any product you can think of is determined by the energy that went into making and
+    transporting it, and in most cases that means oil. To say nothing of the millions of jobs that rely on the petroleum industry.
+    We're talking one big overhaul of everything
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 308
+    - 309
+    - 310
+    - 311
+    - 312
+    - 313
+    - 314
+    - 315
+    - 316
+    - 317
+    truncated: true
+- segment_id: 114
+  speaker_group: 1
+  timecode:
+    start: 00:34:58,680
+    end: 00:35:54,000
+  source_text: that matters in the global economy. Can we think for an instant that those individuals in the know haven't
+    thought about this? Especially if there is that holy grail involved, some form of free energy. What if this new form of
+    energy can't be easily monetized? What if? Could the global financial structure afford free energy? A perverse question
+    to be sure, but one that has to be important to those individuals at the top of the human power structure. And of course
+    there is the political nightmare. Any announcement of this reality would come at the cost of worldwide public anger. No
+    one wants to learn that they've been lied to for an entire human lifetime. They would want to know just how this secret
+    was kept. That's very, very big key right there. That would lead inevitably to questions about why Congress was kept out
+    of the loop, why our major institutions missed the boat,
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 318
+    - 319
+    - 320
+    - 321
+    - 322
+    - 323
+    - 324
+    - 325
+    - 326
+    - 327
+    truncated: true
+- segment_id: 115
+  speaker_group: 1
+  timecode:
+    start: 00:35:54,000
+    end: 00:36:50,860
+  source_text: and just who has been managing the secret. And that would lead, obviously, to a wholesale investigation of
+    black budget America shining sunlight into a very dark place. And what might we find? Well, consider. Just consider that
+    Roswell was indeed what the researchers here two days ago discussed so eloquently and cogently, that it was the retrieval
+    of alien technology and perhaps bodies. In fact, there are a number of well-researched UFO crash events. So suppose for
+    a moment that it happened. That would mean that the cover-up involves much more than mere knowledge of other beings here
+    on planet Earth. It would mean there is possession of such advanced technology as to be nearly incomprehensible at least
+    at first. Hard to consider, and yet an inevitable conclusion. So what happens when teams of brilliant scientists with
+    total secrecy and nearly limitless black budget
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 328
+    - 329
+    - 330
+    - 331
+    - 332
+    - 333
+    - 334
+    - 335
+    - 336
+    - 337
+    truncated: true
+- segment_id: 116
+  speaker_group: 1
+  timecode:
+    start: 00:36:50,860
+    end: 00:37:46,120
+  source_text: funds are able to study recovered alien technology for many years and even decades? Could it not be that given
+    enough time and effort, even if they couldn't replicate what they found, they might have learned a few things. Some such
+    claims have been made, and it's reasonable to suppose that breakthroughs would have been made. Breakthroughs such as solid
+    state electronics, fiber optics, high tensile fibers, lasers, and an array of other money-making opportunities for the
+    defense and other industries. None of this has been proven, but it is also true that the private research undertaken in
+    classified environments is not easy for outside researchers to observe. In fact, it would be very easy to hide the Roswell
+    connection in the historical treatment of these and other technologies. Another relevant consideration of such breakthroughs
+    is that they would reduce to zero any incentive to reveal the secret
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 338
+    - 339
+    - 340
+    - 341
+    - 342
+    - 343
+    - 344
+    - 345
+    - 346
+    - 347
+    truncated: true
+- segment_id: 117
+  speaker_group: 1
+  timecode:
+    start: 00:37:46,120
+    end: 00:37:57,920
+  source_text: to the public. Why give up the goose that lays golden eggs? But now matters become even more interesting, because
+    what if some of the breakthroughs were even more significant?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 348
+    - 349
+    truncated: false
+- segment_id: 118
+  speaker_group: 1
+  timecode:
+    start: 00:37:57,920
+    end: 00:38:02,680
+  source_text: What if they included secrets to what is known as field propulsion or electro-gravitics?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 350
+    truncated: false
+- segment_id: 119
+  speaker_group: 1
+  timecode:
+    start: 00:38:02,680
+    end: 00:39:00,080
+  source_text: What if they led to a new source of energy, something that could replace petroleum? To those managing these
+    special access programs, they could never allow such breakthroughs to see the light of day. Of course, those scientists
+    doing the research would need to continue and learn everything they could about electro-gravitics, anti-gravity, new sources
+    of energy, and any related topics. Consider also what happens when such breakthroughs become classified. We know it happens
+    all too frequently that public science has become hostage to national security. What we're looking at is a situation in
+    which the classified black-budget world, at least part of it, has gone so far ahead of the rest of us, we may with justice
+    almost look upon them as a separate society, something I have sometimes called a breakaway civilization. How far ahead
+    might some of that classified world be? Those of
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 351
+    - 352
+    - 353
+    - 354
+    - 355
+    - 356
+    - 357
+    - 358
+    - 359
+    - 360
+    truncated: true
+- segment_id: 120
+  speaker_group: 1
+  timecode:
+    start: 00:39:00,080
+    end: 00:39:56,040
+  source_text: us on the outside trying to peek in can only make educated guesses or investigate occasional leaks. My own
+    conclusion, at least for now, is that they are very far ahead indeed, with the ability even to enter and leave Earth orbit
+    with much greater ease than people suspect, perhaps a clandestine space fleet, most likely a significant built infrastructure,
+    a large portion of which is deep underground, and even, why not, possible encounters with non-human intelligences? Why
+    would that be so impossible? To what extent would such a group even answer to the President of the United States? Do they
+    rather answer to private, international financial powers, which basically is how the whole world already operates? I had
+    a long conversation once with a retired senior intelligence official. He had given briefings to- I hate to interrupt.
+    The witness has about one minute, at least one.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 361
+    - 362
+    - 363
+    - 364
+    - 365
+    - 366
+    - 367
+    - 368
+    - 369
+    - 370
+    truncated: true
+- segment_id: 121
+  speaker_group: 1
+  timecode:
+    start: 00:39:56,040
+    end: 00:40:38,920
+  source_text: One minute left, thank you. This gentleman had given briefings to President Reagan. This man knows a very great
+    deal about UFOs and told me that he had spoken to 18 former presidents, CIA directors, and DOD secretaries about UFOs
+    after their retirement. Their attitudes fell into three categories. One group, roughly three or four of them, said essentially,
+    "What's wrong with you? Why waste your time with that nonsense?" Another equally small group made it clear that they had
+    been briefed on the matter and knew that it was serious. But the largest group, at least half of all of the individuals
+    who had been at the pinnacle of power, had said, "You know about UFOs? I would love to know about that, but got nowhere.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 371
+    - 372
+    - 373
+    - 374
+    - 375
+    - 376
+    - 377
+    - 378
+    truncated: false
+- segment_id: 122
+  speaker_group: 1
+  timecode:
+    start: 00:40:38,920
+    end: 00:41:14,000
+  source_text: Can you share what you know?" In other words, our top political leadership, with a few exceptions, is locked
+    out of this subject because they come and go. But the program managers are lifers. They seem to answer to someone else.
+    Recall the words of the late Senator Daniel Inouye from 1987, "There exists a shadowy government with its own Air Force,
+    its own Navy, its own fundraising mechanism, and the ability to pursue its own ideas of national interests, free from
+    all checks and balances, and free from the law itself." He was on to something.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 379
+    - 380
+    - 381
+    - 382
+    - 383
+    - 384
+    - 385
+    truncated: false
+- segment_id: 123
+  speaker_group: 1
+  timecode:
+    start: 00:41:14,000
+    end: 00:41:31,420
+  source_text: Thank you. You are, the last two witnesses have been particularly good at keeping it right within the time
+    limit. We sure appreciate that. Jeffrey Torres, you've got 10 minutes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 386
+    - 387
+    truncated: false
+- segment_id: 124
+  speaker_group: 1
+  timecode:
+    start: 00:41:31,420
+    end: 00:42:24,360
+  source_text: My pleasure. Well, good day to everybody. My name is Jeffrey Torres. I'm not going to talk about myself much.
+    I'm a veteran. I served the United States Air Force. I'm talking here today about my father. I'm the son of Major Milton
+    John Torres. My father served in the U.S. Air Force from 1951 to 1971, and regrettably, my father cannot attend this hearing
+    as he is now suffering from ill health directly related to combat from the Vietnam War. I told him before I left that
+    I was coming on his behalf, and he expressed his deep gratitude that I was coming here today to testify and tell you folks
+    his story. First of all, I would like to give you a brief history of who my father was and his accomplishments.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 388
+    - 389
+    - 390
+    - 391
+    - 392
+    - 393
+    - 394
+    - 395
+    truncated: false
+- segment_id: 125
+  speaker_group: 1
+  timecode:
+    start: 00:42:24,360
+    end: 00:43:27,620
+  source_text: Dad earned a bachelor's degree in general engineering with a minor in chemistry, and completed his master's
+    degree in aerospace engineering from the University of Oklahoma in 1961. His military career was spent over the span of
+    20 years. Dad served as a fighter pilot, flying the F-86D, and according to him, the best airplane ever made, as well
+    as the F-100. He was a decorated pilot, achieving the title of USAF command pilot. Dad flew over 300 combat missions in
+    Vietnam as a forward air controller in Vietnam. He received 13 air medals, including the Distinguished Flying Cross, and
+    I know firsthand that he was even put in for the Air Force Cross, which he denied because of political reasons, which
+    we'll not get into here. My father attained a rank of major, as well as during his career he also worked with NASA as
+    a chief of range control for the Gemini and Apollo Moon missions.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 396
+    - 397
+    - 398
+    - 399
+    - 400
+    - 401
+    - 402
+    - 403
+    - 404
+    - 405
+    truncated: true
+- segment_id: 126
+  speaker_group: 1
+  timecode:
+    start: 00:43:27,620
+    end: 00:43:39,760
+  source_text: After Dad retired from the United States Air Force, Dad worked for Pan Am as an engineer, and later acquired
+    his doctorate in mechanical engineering from the University of Miami.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 406
+    - 407
+    truncated: false
+- segment_id: 127
+  speaker_group: 1
+  timecode:
+    start: 00:43:39,760
+    end: 00:43:46,160
+  source_text: My father's last job was as a professor at Florida International University teaching engineering.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 408
+    truncated: false
+- segment_id: 128
+  speaker_group: 1
+  timecode:
+    start: 00:43:46,160
+    end: 00:44:55,800
+  source_text: During his tenure at FIU, he invented a chemical encoding process using a polymer to prevent catastrophic metal
+    fatigue on aircraft and received a patent for that process. Dad retired from FIU in 2004. So now we'll go on to Dad's
+    story and the event that happened. I will go into some details he shared with our family, but before I do, I want to point
+    out something here. That my father, he kept his secret for over 50 years. He never told anyone and he honored his oath
+    to this country. And he never had the chance to tell his story to my grandfather, his father who he loved very, very much.
+    And I've never seen my father cry until this story broke. Sadly, my father kept it all from everyone, including us and
+    my family. Not even telling his father's story when he was the closest man that he ever had. I know Dad would never have
+    discussed this event if not for it being declassified by the Minister of Defense, Nick
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 409
+    - 410
+    - 411
+    - 412
+    - 413
+    - 414
+    - 415
+    - 416
+    - 417
+    - 418
+    truncated: true
+- segment_id: 129
+  speaker_group: 1
+  timecode:
+    start: 00:44:55,800
+    end: 00:45:15,000
+  source_text: Pope, out of the UK. After the event was declassified, Dad shared the story often with us. It was May 20th,
+    1957. Dad was stationed at RAF Manston, England. Dad was working on intercept standby.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 419
+    - 420
+    truncated: false
+- segment_id: 130
+  speaker_group: 1
+  timecode:
+    start: 00:45:15,000
+    end: 00:45:20,200
+  source_text: Of course, this was a cycle between the pilots in this particular event. It was Dad's turn.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 421
+    truncated: false
+- segment_id: 131
+  speaker_group: 1
+  timecode:
+    start: 00:45:20,200
+    end: 00:45:43,440
+  source_text: Dad was again flying the F-86D. This aircraft was a D model, which meant it was an all-weather fighter. Dad
+    told me that the RAF Manston was a main intercept squadron during the Cold War in England. Dad was on alert with his wingman
+    and some of the ground crew in the ready room. That night was a typical English night with the weather being poor and
+    foggy.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 422
+    - 423
+    - 424
+    - 425
+    truncated: false
+- segment_id: 132
+  speaker_group: 1
+  timecode:
+    start: 00:45:43,440
+    end: 00:46:16,360
+  source_text: The notification came down from the ready room indicating a scramble. Dad ran for his plane. The scramble was
+    initiated. Dad jumped in his cockpit. If you could please, I put the photo of Dad's aircraft, if anybody would like to
+    see the airplane. I have one saved on there. Anyhow, so he jumped in his cockpit upon getting the authentication code
+    to fire.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 426
+    - 427
+    - 428
+    - 429
+    truncated: false
+- segment_id: 133
+  speaker_group: 1
+  timecode:
+    start: 00:46:16,360
+    end: 00:46:59,840
+  source_text: He then realized that this was no drill. They normally would never give you an authentication code, and they
+    told him it was a hot mission. He had orders to shoot this thing down. Dad told me whatever this thing was, they wanted
+    it down, and he thought he was starting World War III. All kinds of thoughts were in his head. The intercept controller
+    ordered Dad to fire a full salvo of 24 rockets at this object. Dad later told me that he knew full well how serious this
+    event was. Dad was in his aircraft. His aircraft came to life, and he was given an order to go gate, which meant full
+    afterburners were to be used after getting airborne. Dad said, "Do you want me to continue with the afterburners? Affirmative.
+    Go gate."
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 430
+    - 431
+    - 432
+    - 433
+    - 434
+    - 435
+    - 436
+    - 437
+    truncated: false
+- segment_id: 134
+  speaker_group: 1
+  timecode:
+    start: 00:46:59,840
+    end: 00:47:05,000
+  source_text: In other words, they wanted him to close in on this thing, and they wanted him there fast.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 438
+    truncated: false
+- segment_id: 135
+  speaker_group: 1
+  timecode:
+    start: 00:47:05,000
+    end: 00:47:28,200
+  source_text: Dad was told to vector over to the North Sea. The object had been sighted hovering over East Ipswich. Dad told
+    me he had a confirmation of the target acquisition from the ground radar. His jet flying with full afterburners was now
+    headed towards the North Sea, and Dad was flying at 32,000 feet, and full afterburner and heavy cloud cover with zero
+    visibility.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 439
+    - 440
+    - 441
+    - 442
+    truncated: false
+- segment_id: 136
+  speaker_group: 1
+  timecode:
+    start: 00:47:28,200
+    end: 00:47:35,120
+  source_text: However, his radar was painting a target as big as an aircraft carrier at that altitude.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 443
+    truncated: false
+- segment_id: 137
+  speaker_group: 1
+  timecode:
+    start: 00:47:35,120
+    end: 00:47:47,980
+  source_text: Dad was fast approaching the target, and the object kept pulling in front of him just beyond range. It was
+    toying with him. Finally, he was able to get his radar lock on the object.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 444
+    - 445
+    truncated: false
+- segment_id: 138
+  speaker_group: 1
+  timecode:
+    start: 00:47:47,980
+    end: 00:48:54,560
+  source_text: Dad said this thing was huge, and the blip was so big that it was easy to get target acquisition. Right before
+    he got the instruction to fire from the radar control set, the target made an erratic side-to-side movement and moved
+    beyond range, causing Dad to lose lock on his target. The object then accelerated from zero to Mach 10 in seconds, and
+    Dad was unable to fire as a result. He lost complete lock. Dad told me his radar, his wingman's radar and the ground radar
+    confirmed it as well. They had lost lock, and they were totally perplexed as to what happened. So, to make a long story
+    short, the most compelling thing Dad said was that this thing was doing things that an ordinary aircraft could do. It
+    was defying the laws of physics, and he was convinced that it was of alien origin. Anyhow, during that time, there was
+    nothing in the Air Force that could come close to it. The F-86 could
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 446
+    - 447
+    - 448
+    - 449
+    - 450
+    - 451
+    - 452
+    - 453
+    - 454
+    - 455
+    truncated: true
+- segment_id: 139
+  speaker_group: 1
+  timecode:
+    start: 00:48:54,560
+    end: 00:50:05,120
+  source_text: barely make Mach .98 Mach. It would make Mach 1 in its complete dive at the time, and this thing did Mach 10.
+    There was no known aircraft that could do this. So, upon landing his aircraft, Dad was contacted by the intercept officer
+    on a secure phone. The person on the line told him that what happened was considered classified, and not to discuss this
+    with anyone, from his wingman to his commander. He would be debriefed in the morning. Dad told me he realized how lucky
+    he was, as if he did manage to fire at this object, he probably would have vaporized him. Off the record, he was scared
+    shitless. So, he did tell me that the following day, Dad reported for duty, a call came in from a man that was from the
+    NSA, and that he called him a spook. For us, it was much more personal, this whole event, because the spook came in, and
+    swore Dad to secrecy that he would never, ever repeat what
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 456
+    - 457
+    - 458
+    - 459
+    - 460
+    - 461
+    - 462
+    - 463
+    - 464
+    - 465
+    truncated: true
+- segment_id: 140
+  speaker_group: 1
+  timecode:
+    start: 00:50:05,120
+    end: 00:50:22,120
+  source_text: he'd seen, and it was a matter of national security. The guy showed his credentials, he locked himself in a
+    room with Dad for about a half hour, and threatened to pull his wings, and everything else that he held dear, including,
+    you know, God knows his family.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 466
+    - 467
+    - 468
+    truncated: false
+- segment_id: 141
+  speaker_group: 1
+  timecode:
+    start: 00:50:22,120
+    end: 00:51:29,200
+  source_text: The witness has about one more minute. Okay, I'll make it short. You know, my Dad waited 40 years for this,
+    and forgive me. I'll make it quick here. You know, guys like my Dad are heroes. Guys like Edgar Mitchell. When I was a
+    kid, I watched these guys from the side of the beach watching the Apollo moon launches, and now we're riding with the
+    Russians to the moon now. We can't even go ourselves anymore. And yet, the media has blasphemized these great men. You
+    know, how can they? How dare them? How dare them, and how dare everybody stay silent here? When people like my Dad held
+    this secret, people who died and that never could tell a secret in Vietnam. It's a shame. It's a real shame that our media
+    has bought and paid for by the Kardashians and the corporate industries of this country and the world. And this truth
+    needs to come out because there's a lot of
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 469
+    - 470
+    - 471
+    - 472
+    - 473
+    - 474
+    - 475
+    - 476
+    - 477
+    - 478
+    truncated: true
+- segment_id: 142
+  speaker_group: 1
+  timecode:
+    start: 00:51:29,200
+    end: 00:51:38,680
+  source_text: people, including my family, who suffered and ridiculed. My father got ridiculed, my brother took phone calls
+    from ridiculing people, and my Dad had a Ph.D. What more do they want?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 479
+    - 480
+    truncated: false
+- segment_id: 143
+  speaker_group: 1
+  timecode:
+    start: 00:51:38,680
+    end: 00:53:09,040
+  source_text: Astrophysicists are saying these things are real and we're being ridiculed. That's all I have to say. Help
+    this country. [Applause] Okay, we need to get going. I want to thank the panel very much and indicate to the members that
+    we've got six minutes each for questioning. I will reserve my minutes and we'll reverse the order a bit here, so we're
+    to Senator Grovel. Linda, would you, when this gentleman that was interviewed, and this would go to Richard also, when
+    he was talking about that he saw an extraterrestrial being, was it dead or alive? So we had imprisoned this person or
+    this being. Could you elaborate a little bit about that?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 481
+    - 482
+    - 483
+    - 484
+    - 485
+    - 486
+    - 487
+    - 488
+    truncated: false
+- segment_id: 144
+  speaker_group: 1
+  timecode:
+    start: 00:53:09,040
+    end: 00:54:34,160
+  source_text: Many more than one. We have had many more than one. In this particular case, this was at Area 51 inside of
+    the Papoose Mountain. If you look at a map, the inside of the Papoose Mountain at Area 51 is an installation, multi-leveled,
+    hidden by the Papoose Mountain. Many people have leaked to me and to others about working there. And in there are offices,
+    as we would recognize as offices, and his CIA boss and the man in the film and a couple of others were taken to one of
+    these offices where there was a one way on the other side. I don't know because it's his point of view. Was it a mirror
+    or was it a reflective glass, but nevertheless, the man you just heard was standing on this side of the glass looking
+    at his boss in the room with, I believe it was two others. And then the gray alien was dressed in something like they
+    had tried to make it look sort of American. It had on a t-shirt and as if they
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 489
+    - 490
+    - 491
+    - 492
+    - 493
+    - 494
+    - 495
+    - 496
+    - 497
+    - 498
+    truncated: true
+- segment_id: 145
+  speaker_group: 1
+  timecode:
+    start: 00:54:34,160
+    end: 00:55:27,440
+  source_text: had put clothes on it right at the last minute for this meeting. And it was telepathic and each mind in the
+    room was communicated with telepathically. And he had a discussion later on with his boss. And the general impression
+    was that the non-human was trying to answer their questions, but that it was very succinct and that they ask questions
+    such as how many of you are here on this planet? There would be no answer. There would be other questions that were of
+    a technical nature and there would be no answer. And yet, on other questions, they all clearly heard telepathic information.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 499
+    - 500
+    - 501
+    - 502
+    - 503
+    - 504
+    - 505
+    truncated: false
+- segment_id: 146
+  speaker_group: 2
+  timecode:
+    start: 00:55:27,440
+    end: 00:55:31,920
+  source_text: Elaborate on telepathic information.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 506
+    truncated: false
+- segment_id: 147
+  speaker_group: 3
+  timecode:
+    start: 00:55:31,920
+    end: 00:55:32,920
+  source_text: Mind to mind.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 507
+    truncated: false
+- segment_id: 148
+  speaker_group: 4
+  timecode:
+    start: 00:55:32,920
+    end: 00:55:33,920
+  source_text: Mind to mind.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 508
+    truncated: false
+- segment_id: 149
+  speaker_group: 5
+  timecode:
+    start: 00:55:33,920
+    end: 00:55:59,640
+  source_text: I would just add, I recall the witness speaking about that and certainly it's exactly right, Linda, what he
+    said to me. In terms of the one, very few specific answers this being allegedly gave, but to one, why are they here? There
+    was not a direct answer except a reply that we are not hostile or thoughts to that effect.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 509
+    - 510
+    - 511
+    - 512
+    truncated: false
+- segment_id: 150
+  speaker_group: 6
+  timecode:
+    start: 00:55:59,640
+    end: 00:56:15,920
+  source_text: When you say telepathic, that means that the being was communicating directly, understood the way our mind
+    worked. Now, were we able to telepathically communicate with them or was it a one way street?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 513
+    - 514
+    - 515
+    truncated: false
+- segment_id: 151
+  speaker_group: 7
+  timecode:
+    start: 00:56:15,920
+    end: 00:57:12,840
+  source_text: I can add something here along those lines. And then humans by definition live in a mental island. And we're
+    dealing with intelligences that not only can place thoughts, images, movies, symbols, directly into human minds very easily,
+    they simultaneously upload information from human minds. And I have had the experience of talking with a man who was working
+    for the Central Intelligence Agency when he had an interaction with one of these beings. There have been many, sir. And
+    that his whole mission was to have the experience of the upload download telepathically with a being under a completely
+    nonthreatening, totally organized fashion.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 516
+    - 517
+    - 518
+    - 519
+    - 520
+    - 521
+    - 522
+    truncated: false
+- segment_id: 152
+  speaker_group: 7
+  timecode:
+    start: 00:57:12,840
+    end: 00:58:23,160
+  source_text: And he told me that they had warned him that the process of the telepathic download upload usually disables
+    humans, humans usually faint. And that he had the experience and the way he described it was he said, Linda, imagine seven
+    feature films going through your mind at the same time with heat, temperature, sense, sound, all of the senses and more.
+    And then overlying those seven feature films are three-dimensional gold symbols that we would relate probably to Sumerian
+    cuneiform or Assyrian symbols. And that all of that goes through your head in a matter of what your brain, your human
+    brain, not being able to interact but has a sense of very rapid time. And that when it's all over, as he said, if God
+    asked me what had been downloaded into my mind, I could not tell you. But I know that everything that I have ever lived
+    was uploaded. That is, frankly, the level of telepathic interaction that has
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 523
+    - 524
+    - 525
+    - 526
+    - 527
+    - 528
+    - 529
+    - 530
+    - 531
+    - 532
+    truncated: true
+- segment_id: 153
+  speaker_group: 7
+  timecode:
+    start: 00:58:23,160
+    end: 00:58:26,440
+  source_text: been going on in this planet for a very long time.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 533
+    truncated: false
+- segment_id: 154
+  speaker_group: 7
+  timecode:
+    start: 00:58:26,440
+    end: 00:58:32,360
+  source_text: My time has expired, but maybe later on I'll come back because I have other questions.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 534
+    truncated: false
+- segment_id: 155
+  speaker_group: 7
+  timecode:
+    start: 00:58:32,360
+    end: 00:58:44,920
+  source_text: Thank you. We'll go to Representative Hooley. Yes, thank you, Mr. Chair.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 535
+    truncated: false
+- segment_id: 156
+  speaker_group: 7
+  timecode:
+    start: 00:58:44,920
+    end: 00:59:24,940
+  source_text: You talked about your father. Thank you very much for doing that. That he had kept the secret for years. How
+    or why did he finally communicate the information to you and the family? Well, it started much later. He started organizing
+    RAF Manston reunions. He so loved his squadron that he organized trips to England and cruises.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 536
+    - 537
+    - 538
+    - 539
+    truncated: false
+- segment_id: 157
+  speaker_group: 7
+  timecode:
+    start: 00:59:24,940
+    end: 00:59:47,320
+  source_text: And I met his buddies, by the way, and they were all just the greatest guys, a lot of them World War II veterans.
+    And he would organize these trips. And, you know, I guess at this point he started trying to find out answers as to why
+    this had happened to him. So he was asking his squadron mates. And I guess he felt a little comfortable at that point.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 540
+    - 541
+    - 542
+    - 543
+    truncated: false
+- segment_id: 158
+  speaker_group: 7
+  timecode:
+    start: 00:59:47,320
+    end: 01:00:00,080
+  source_text: He had been retired for a number of years. And he ran across Nick Pope and they were able to declassify the
+    event. But it took many years after that that it was declassified.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 544
+    - 545
+    truncated: false
+- segment_id: 159
+  speaker_group: 7
+  timecode:
+    start: 01:00:00,080
+    end: 01:00:09,280
+  source_text: But he had started to speak about it after the reunions. But he would never speak publicly.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 546
+    truncated: false
+- segment_id: 160
+  speaker_group: 7
+  timecode:
+    start: 01:00:09,280
+    end: 01:00:40,480
+  source_text: And you know, as a matter of fact, I had no idea that this had happened, that he had carried that burden. And
+    my grandfather and him were extremely tight. And he cried that he couldn't tell his own father because of that secret.
+    And he didn't tell his soul. Can you imagine dog fighting like this fellow the other day from Peru and yet when he landed,
+    the spooks that were there on the ground greeted him and said, hey, let's find out what that was.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 547
+    - 548
+    - 549
+    - 550
+    - 551
+    truncated: false
+- segment_id: 161
+  speaker_group: 7
+  timecode:
+    start: 01:00:40,480
+    end: 01:00:52,760
+  source_text: Our spooks told him never talk about it to anybody, including your wife, your kids, your family, your colonel,
+    your commander. Nobody could he talk to. Nobody. And he carried that.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 552
+    - 553
+    truncated: false
+- segment_id: 162
+  speaker_group: 7
+  timecode:
+    start: 01:00:52,760
+    end: 01:01:16,320
+  source_text: And I can tell you when I saw him cry on stage, my dad has now lost his voice because of, you know, Agent Orange
+    and all of the crap that goes with it. But I found mine. I'm my father's son. I will get answers. I promised him that.
+    So thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 554
+    - 555
+    - 556
+    truncated: false
+- segment_id: 163
+  speaker_group: 7
+  timecode:
+    start: 01:01:16,320
+    end: 01:02:15,120
+  source_text: Mr. Dolan, is there a way to put together people? For example, we've heard a lot over the last four and a half
+    days about the number of pilots who have seen other kinds of vehicles that are not from the United States or from this
+    world flying. Is there a way to get some of these pilots together? Are they willing to talk about what they saw? Do you
+    know?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 557
+    - 558
+    - 559
+    - 560
+    truncated: false
+- segment_id: 164
+  speaker_group: 7
+  timecode:
+    start: 01:02:15,120
+    end: 01:03:20,240
+  source_text: Thank you for the question. First of all, I would just repeat the name of the organization I mentioned earlier
+    in my statement, NARCAP, which is the National Aviation Reporting Center on Anomalous Phenomenon. I mention them because
+    they are very rigorous, very scientific, very low key, very nonsensational, and deal precisely with these individuals
+    that you're talking about and have done so for decades. There have been a number of cases in which we've had pilots go
+    on the record. In fact, there's no lack of very good data and information out there. The problem is, unfortunately, that
+    these individuals who are all sober and careful and, as you heard in the previous panel, still get ridiculed by the media.
+    They get the tinfoil hat placed on them. This is something that none of us have found a way to get around that, no matter
+    how rigorous we are. In my own work years ago when I started
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 561
+    - 562
+    - 563
+    - 564
+    - 565
+    - 566
+    - 567
+    - 568
+    - 569
+    - 570
+    truncated: true
+- segment_id: 165
+  speaker_group: 7
+  timecode:
+    start: 01:03:20,240
+    end: 01:03:37,520
+  source_text: researching this phenomenon, I had this naive idea. Really, I did that. If I just did the most rigorous, careful,
+    historical treatment of the phenomenon that I could, then that just might be the magic bullet, the bat that hits the ball
+    out of the park. It didn't happen.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 571
+    - 572
+    - 573
+    truncated: false
+- segment_id: 166
+  speaker_group: 7
+  timecode:
+    start: 01:03:37,520
+    end: 01:04:02,240
+  source_text: We keep trying. I would say that we're in an era now where global communication among researchers has improved
+    and is improving. I am looking forward to, I think, the next few years where there really should be better coordination
+    among groups in the United States and elsewhere to be able to put together events like this. I think more is better.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 574
+    - 575
+    - 576
+    - 577
+    truncated: false
+- segment_id: 167
+  speaker_group: 7
+  timecode:
+    start: 01:04:02,240
+    end: 01:04:43,960
+  source_text: I think with the social media that there's a possibility that you might be able to do that. People seem to
+    trust pilots. Rightfully or wrongfully, they trust pilots. They're the most logical group who fly all the time. We are
+    back and forth across this country, across this world, that as they see what they've seen, it seems to me that there would
+    be some validity. I mean, the public would accept that premise if enough of them got together and talked about it.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 578
+    - 579
+    - 580
+    - 581
+    - 582
+    - 583
+    truncated: false
+- segment_id: 168
+  speaker_group: 7
+  timecode:
+    start: 01:04:43,960
+    end: 01:04:48,840
+  source_text: When you add up enough of the near misses and encounters that are up in the air, it's startling.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 584
+    - 585
+    truncated: false
+- segment_id: 169
+  speaker_group: 7
+  timecode:
+    start: 01:04:48,840
+    end: 01:04:51,160
+  source_text: I noticed the gentlelady's time has expired.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 586
+    truncated: false
+- segment_id: 170
+  speaker_group: 7
+  timecode:
+    start: 01:04:51,160
+    end: 01:04:52,160
+  source_text: Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 587
+    truncated: false
+- segment_id: 171
+  speaker_group: 7
+  timecode:
+    start: 01:04:52,160
+    end: 01:04:57,620
+  source_text: We'll then go to Representative Woolsey. You have six minutes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 588
+    truncated: false
+- segment_id: 172
+  speaker_group: 7
+  timecode:
+    start: 01:04:57,620
+    end: 01:05:02,160
+  source_text: Thank you, Jeffrey Torres, for your testimony.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 589
+    truncated: false
+- segment_id: 173
+  speaker_group: 7
+  timecode:
+    start: 01:05:02,160
+    end: 01:05:03,800
+  source_text: Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 590
+    truncated: false
+- segment_id: 174
+  speaker_group: 7
+  timecode:
+    start: 01:05:03,800
+    end: 01:05:09,720
+  source_text: Thank you so much. Congratulations, Richard, for that video.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 591
+    truncated: false
+- segment_id: 175
+  speaker_group: 7
+  timecode:
+    start: 01:05:09,720
+    end: 01:05:10,720
+  source_text: Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 592
+    truncated: false
+- segment_id: 176
+  speaker_group: 7
+  timecode:
+    start: 01:05:10,720
+    end: 01:05:17,800
+  source_text: You did such an amazing job. It was so helpful because you didn't leave the witness ever.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 593
+    truncated: false
+- segment_id: 177
+  speaker_group: 7
+  timecode:
+    start: 01:05:17,800
+    end: 01:05:25,200
+  source_text: I mean, the gentleman, it was clear that's who he is and that's what he wanted to say.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 594
+    truncated: false
+- segment_id: 178
+  speaker_group: 7
+  timecode:
+    start: 01:05:25,200
+    end: 01:05:26,200
+  source_text: Thank you very much.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 595
+    truncated: false
+- segment_id: 179
+  speaker_group: 7
+  timecode:
+    start: 01:05:26,200
+    end: 01:05:30,200
+  source_text: Thank you very much.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 596
+    truncated: false
+- segment_id: 180
+  speaker_group: 7
+  timecode:
+    start: 01:05:30,200
+    end: 01:05:51,360
+  source_text: Linda, you have said, I think more than once this week, that non-humans are acting within our environment.
+    What do you mean by that? And how do you know that's happening? And give me some examples.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 597
+    - 598
+    - 599
+    truncated: false
+- segment_id: 181
+  speaker_group: 7
+  timecode:
+    start: 01:05:51,360
+    end: 01:06:16,920
+  source_text: Other than being in a space vehicle and coming to Earth. Well, if that's it, tell me that.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 600
+    truncated: false
+- segment_id: 182
+  speaker_group: 7
+  timecode:
+    start: 01:06:16,920
+    end: 01:06:27,680
+  source_text: I guess it's the accumulation of so many people that have talked to me off the record, who have died.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 601
+    - 602
+    truncated: false
+- segment_id: 183
+  speaker_group: 7
+  timecode:
+    start: 01:06:27,680
+    end: 01:06:28,680
+  source_text: Who have died?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 603
+    truncated: false
+- segment_id: 184
+  speaker_group: 7
+  timecode:
+    start: 01:06:28,680
+    end: 01:07:04,360
+  source_text: That I was given a chance to talk to people who were in some sort of the end of their days and I'd either been
+    sought out or I had been referenced. And when you were talking to people who are essentially on their deathbed and they
+    are describing for you the interactions that they've had with extraterrestrial biological entities in the context of their
+    professional capacity for the United States government, how would I question what they were saying to me?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 604
+    - 605
+    - 606
+    - 607
+    - 608
+    - 609
+    truncated: false
+- segment_id: 185
+  speaker_group: 7
+  timecode:
+    start: 01:07:04,360
+    end: 01:07:51,080
+  source_text: Can I provide for you right here in this room one of the many different types of extraterrestrial biological
+    entities? I cannot. Do I believe that these primarily male individuals who have shown to me at least enough evidence about
+    where they worked publicly, which not always connects to where they get their paycheck, that they are telling me the truth
+    about their life and their experiences with extraterrestrial biological entities, craft, technology, the physics that
+    we have been encountering and stunned by?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 610
+    - 611
+    - 612
+    - 613
+    - 614
+    - 615
+    truncated: false
+- segment_id: 186
+  speaker_group: 7
+  timecode:
+    start: 01:07:51,080
+    end: 01:08:34,920
+  source_text: I believe them. And I'm a long time TV producer and investigative reporter. And as I have said before, the
+    challenge of getting people on the record is the single biggest difficulty in this entire field because since World War
+    II, our extremely good and sophisticated counterintelligence units that got us through World War II are exactly the people
+    who took over at the request of Franklin Delano Roosevelt and Harry Truman. How do you keep all of this evolving from
+    the press, the media, Congress, the Supreme Court and every other government agency?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 616
+    - 617
+    - 618
+    - 619
+    - 620
+    - 621
+    truncated: false
+- segment_id: 187
+  speaker_group: 7
+  timecode:
+    start: 01:08:34,920
+    end: 01:09:02,320
+  source_text: Yeah, okay. But thank you. Somewhere between now and the end of this day, I'd like somebody to describe for
+    me the different nonhumans that have been observed and what the differences are and do they intermingle? I think we've
+    not asked that question.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 622
+    - 623
+    - 624
+    truncated: false
+- segment_id: 188
+  speaker_group: 7
+  timecode:
+    start: 01:09:02,320
+    end: 01:09:05,880
+  source_text: Well I can give you at least a short answer. Okay.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 625
+    truncated: false
+- segment_id: 189
+  speaker_group: 7
+  timecode:
+    start: 01:09:05,880
+    end: 01:09:58,280
+  source_text: One man who retired from the Defense Intelligence Agency who sought me out because of something I had published
+    in one of my four books and he had been exposed to it but because everything is so compartmentalized on a need to know
+    basis, he came to me as a reporter and it goes to the heart of what he said. He said, "My job when I was working for the
+    Defense Intelligence Agency was to study and monitor the geopolitical territorial conflicts of three extraterrestrial
+    biological entities who have been involved with this planet for at least 270 million years." He broke them down as blonde-haired,
+    blue-eyed that we would not distinguish from the so-called archangels of history. The second group would be standing up
+    reptoids and the third group would be a huge variety of what are called grays.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 626
+    - 627
+    - 628
+    - 629
+    - 630
+    - 631
+    - 632
+    - 633
+    - 634
+    truncated: false
+- segment_id: 190
+  speaker_group: 7
+  timecode:
+    start: 01:09:58,280
+    end: 01:10:04,200
+  source_text: Okay. And do they intermingle? Are they all separate?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 635
+    truncated: false
+- segment_id: 191
+  speaker_group: 7
+  timecode:
+    start: 01:10:04,200
+    end: 01:10:07,240
+  source_text: They do not get along. They do not get along.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 636
+    truncated: false
+- segment_id: 192
+  speaker_group: 7
+  timecode:
+    start: 01:10:07,240
+    end: 01:10:58,080
+  source_text: I would add, if I may, that research has pointed out even a greater variety than this. Depending on how you
+    deal with abduction research, there is some of this that's fairly extensive. They would talk about insectoid-type creatures.
+    And then let's not forget there are a large number of individuals who have had or claim to have, sometimes I think persuasively
+    to be honest with you, some form of contact with other beings that is not physical. This is a very difficult subject to
+    get one's hand on, but these stories do not go away. Who are these beings? Are they good, bad, and different to our fate
+    is another issue we can discuss. In terms of interrelationships, you're asking exactly the kind of question that many
+    researchers still would like to get to the bottom of.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 637
+    - 638
+    - 639
+    - 640
+    - 641
+    - 642
+    - 643
+    - 644
+    - 645
+    truncated: false
+- segment_id: 193
+  speaker_group: 7
+  timecode:
+    start: 01:10:58,080
+    end: 01:11:00,560
+  source_text: Okay. Thank you. Tom, my time is up.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 646
+    truncated: false
+- segment_id: 194
+  speaker_group: 7
+  timecode:
+    start: 01:11:00,560
+    end: 01:12:00,280
+  source_text: Yes, thank you. Jeffrey Torres, I was very interested in your testimony. You said something and I think I know
+    what you meant, but you didn't exactly say it this way, so I'm going to ask you if this is what you meant. It's kind of
+    a yes or no question. You said that what your father witnessed in terms of the maneuverability of a particular object
+    defied the law of physics. Well, I don't think physics law, as we currently understand it, says that you can't move very,
+    very quickly. There's no limit on acceleration or velocity to my understanding. Of course, Dr. Bartlett may be able to
+    help us more than I can on that, but what I think you meant to say is it defies any technology we know that can achieve
+    those kinds of accelerations and motions. Am I correct in understanding that?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 647
+    - 648
+    - 649
+    - 650
+    - 651
+    - 652
+    - 653
+    - 654
+    - 655
+    truncated: false
+- segment_id: 195
+  speaker_group: 7
+  timecode:
+    start: 01:12:00,280
+    end: 01:12:41,840
+  source_text: Well, more than that, what he meant was that if there was a fighter pilot in that other aircraft, he would
+    have died from the G-forces. There were so many extreme maneuvers that this thing had made. Actually, he was convinced
+    that it was of alien origin. Because of that, he actually went to college for his aerospace engineering degree. Then he
+    worked with Werner von Braun in the NASA space program under the Saturn and several of the moon launches.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 656
+    - 657
+    - 658
+    - 659
+    - 660
+    truncated: false
+- segment_id: 196
+  speaker_group: 7
+  timecode:
+    start: 01:12:41,840
+    end: 01:12:47,440
+  source_text: He ended up doing a PhD. He had so many questions.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 661
+    truncated: false
+- segment_id: 197
+  speaker_group: 7
+  timecode:
+    start: 01:12:47,440
+    end: 01:13:17,240
+  source_text: I have no question of his qualifications. It just was an impact on him. He just couldn't understand it. He
+    wanted knowledge. He's wondering if there might be another extraterrestrial explanation of what he observed. It's interesting
+    because— I need to reclaim my time, I'm sorry. It's an interesting answer. What I was going to tell you is out of all
+    the people in my life I've encountered, my dad was a constant scientist. He was an atheist. He was just this total white-lane
+    brain.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 662
+    - 663
+    - 664
+    - 665
+    - 666
+    - 667
+    truncated: false
+- segment_id: 198
+  speaker_group: 7
+  timecode:
+    start: 01:13:17,240
+    end: 01:13:22,640
+  source_text: I appreciate it. Thank you. I believe that he was an outstanding scientist.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 668
+    truncated: false
+- segment_id: 199
+  speaker_group: 7
+  timecode:
+    start: 01:13:22,640
+    end: 01:14:29,680
+  source_text: I'm going to turn to you and ask you this. Researchers have looked at a lot of things related to this. The
+    maneuver abilities are certainly interesting. One of the reasons why I think there is skepticism that these objects have
+    extraterrestrial origins is because of, I'll just put it bluntly, Einstein's relativity theory that nothing can go faster
+    than the speed of light. What are the most compelling studies of people that could explain distance questions without
+    suspending Einstein's theory of relativity, law of physics that's well accepted that nothing can travel faster than the
+    speed of light? Mr. Cook, I'm very, very grateful you asked that question. First of all, I just want to mention that regarding
+    atmospheric phenomena, atmospheric objects that seem to defy the laws of physics, but of course they don't.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 669
+    - 670
+    - 671
+    - 672
+    - 673
+    - 674
+    - 675
+    - 676
+    - 677
+    - 678
+    truncated: true
+- segment_id: 200
+  speaker_group: 7
+  timecode:
+    start: 01:14:29,680
+    end: 01:15:02,080
+  source_text: Nothing defies the laws of physics. The question was asked previously, why don't they make sonic booms? How
+    do the piles withstand G-forces? All of this is related. I would just point out there was an outstanding study done years
+    ago by a retired NASA scientist, Paul Hill, who was known throughout NASA as their go-to guy for UFOs. His exact question
+    was how is it that UFOs do what they do? His conclusion in his study published posthumously in the 1990s called Unconventional
+    Flying Objects of Scientific Analysis was that they do not.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 679
+    - 680
+    - 681
+    - 682
+    - 683
+    - 684
+    truncated: false
+- segment_id: 201
+  speaker_group: 7
+  timecode:
+    start: 01:15:02,080
+    end: 01:15:17,480
+  source_text: If you assume, because nothing works aerodynamically, it doesn't make sense, but it makes sense if you factor
+    in what he called field propulsion, that is a kind of anti-gravity. In fact, now what he couldn't figure out was what
+    is the source of power for that. No one knows that.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 685
+    - 686
+    - 687
+    truncated: false
+- segment_id: 202
+  speaker_group: 7
+  timecode:
+    start: 01:15:17,480
+    end: 01:16:20,240
+  source_text: But actually, he did an outstanding work. His mathematics is very sound, and I would simply recommend it to
+    everyone. Now the distance problem has also been discussed by a number of scientists in the last generation. Probably
+    most famously, the mathematician Miguel Alcubierre, who, the math on what he did seems to be very, very good according
+    to physicists, essentially think warp drive and Star Trek in the sense that if you have a source of power significant
+    enough, it is possible and has been demonstrated mathematically for a craft literally to kind of shrink the space ahead
+    and elongate it behind. You're not violating Einstein's E equals MC squared. It is literally space itself. I am going
+    to reclaim my time only for the reason to just get this last question to you. When you say that you are kind of using
+    anti-gravity as a way of saying we don't have to suspend Einstein's first theory of relativity, but
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 688
+    - 689
+    - 690
+    - 691
+    - 692
+    - 693
+    - 694
+    - 695
+    - 696
+    - 697
+    truncated: true
+- segment_id: 203
+  speaker_group: 7
+  timecode:
+    start: 01:16:20,240
+    end: 01:16:26,240
+  source_text: if you do that, then you are suspending his second theory, the general gravitational theories.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 698
+    truncated: false
+- segment_id: 204
+  speaker_group: 7
+  timecode:
+    start: 01:16:26,240
+    end: 01:17:01,320
+  source_text: So what I am asking, let me ask you this. Aren't there researchers out there that have put together concepts
+    or statements or proposed theories that say, hey, if you travel at even 10% of the speed of light and if you have... Oh,
+    absolutely. Absolutely. In fact, Stan and Friedman, who is here earlier this week, has discussed this at length. There
+    is a gentleman named Paul LeVoillet, another named Thomas Vallone, both of whom have done a lot of work in electrogravitics.
+    I think it is very sound and worth anyone's attention. Thank you. I see my time has expired. So we are going with you,
+    Representative Fire. Thank you very much.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 699
+    - 700
+    - 701
+    - 702
+    - 703
+    - 704
+    - 705
+    truncated: false
+- segment_id: 205
+  speaker_group: 7
+  timecode:
+    start: 01:17:01,320
+    end: 01:18:19,400
+  source_text: A man who may be able to know all these physics rules that I don't. Thank you all very much for your testimony.
+    That there is a cloak of secrecy, I think, is undeniable. Like the symptoms of a very serious disease, if the doctor doesn't
+    know the etiology of the disease, it becomes very difficult to treat the symptoms. How in the heck did we get here with
+    this cloak of secrecy? You really can't treat the disease until you know how it was engendered. I appreciate your testimony,
+    Mr. Dolan, very much. You suggested at least one possible etiology for this symptom of this cloak of secrecy. Let me suggest
+    another one that may give us the hope that it will be reversed. Because if you're right, and I hope you're not, but if
+    you're right, there is no hope, or little hope, that they're going to reverse this cloak of secrecy. Let me suggest another
+    one. For 20 years before I came to
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 706
+    - 707
+    - 708
+    - 709
+    - 710
+    - 711
+    - 712
+    - 713
+    - 714
+    - 715
+    truncated: true
+- segment_id: 206
+  speaker_group: 7
+  timecode:
+    start: 01:18:19,400
+    end: 01:18:24,120
+  source_text: the Congress, I worked for the military in every capacity you can work for the military.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 716
+    truncated: false
+- segment_id: 207
+  speaker_group: 7
+  timecode:
+    start: 01:18:24,120
+    end: 01:19:17,420
+  source_text: Directly for them, captive Navy contractor, eight years for IBM. As an independent contractor, Roscoe Bartlett
+    and Associates doing research work for the military. For the past 20 years until just four months ago, I was in the U.S.
+    government, 20 years on the Armed Services Committee, 20 years interfacing with the leaders of our military and our government.
+    I will tell you that I think that all of those that I have met make their decisions on the base of what they think is
+    best for America. And I think that these decisions, I would like to believe that this decision, it was made very quickly
+    after Roswell, was it not? Within a few hours, the decision was made that we were going to have a cloak of secrecy over
+    this thing. Let me suggest that they made that cloak of secrecy because they thought that if they revealed the truth to
+    the American people, they would be panicked. Like the panic
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 717
+    - 718
+    - 719
+    - 720
+    - 721
+    - 722
+    - 723
+    - 724
+    - 725
+    - 726
+    truncated: true
+- segment_id: 208
+  speaker_group: 7
+  timecode:
+    start: 01:19:17,420
+    end: 01:19:39,360
+  source_text: after War of the Worlds on radio with H.G. Wells. If that was in fact their, the etiology for this, then it
+    becomes pretty easy to reverse it. Because now after all these years, there is no evidence that if they are extraterrestrials,
+    there is no evidence that they are hostile.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 727
+    - 728
+    - 729
+    truncated: false
+- segment_id: 209
+  speaker_group: 7
+  timecode:
+    start: 01:19:39,360
+    end: 01:19:43,160
+  source_text: So now, all these years we have been trying to protect the American people from themselves.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 730
+    truncated: false
+- segment_id: 210
+  speaker_group: 7
+  timecode:
+    start: 01:19:43,160
+    end: 01:20:07,600
+  source_text: I am not sure I agree with that judgment, by the way, that they need to be protected from themselves. But all
+    these years we have been protecting them because we knew better than they. But now obviously there is no threat because
+    these people have been here for a very long time, if in fact they are extraterrestrials. So now we can come clean with
+    the American people. How about that?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 731
+    - 732
+    - 733
+    - 734
+    - 735
+    truncated: false
+- segment_id: 211
+  speaker_group: 7
+  timecode:
+    start: 01:20:07,600
+    end: 01:20:48,880
+  source_text: Wise words, sir. I agree with you. I think that the secret has its own momentum. It generates its own profitability.
+    It generates its own bureaucracy. It generates its own need to continue, it seems to me. How do you tell the world that
+    you have been lying for sixty plus years? I think you tell them, sir, because you thought that was what you had to do
+    because you couldn't have the kind of panic that occurred after the War of the Worlds, this little thing on radio. Certainly
+    we agree on this. And certainly I think we could say that in the very beginning the secrecy would have started precisely
+    because it was not known. How could President Truman really know what he was dealing with? How could his advisors really
+    know?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 736
+    - 737
+    - 738
+    - 739
+    - 740
+    - 741
+    - 742
+    - 743
+    truncated: false
+- segment_id: 212
+  speaker_group: 7
+  timecode:
+    start: 01:20:48,880
+    end: 01:21:25,240
+  source_text: So it seems logical to me, and I am sure many people think about it, that you would say, wait a minute, let's
+    get together, let's think about this, let's figure out what we have and we will come to a decision at a certain period
+    of time. My own belief is that breakthroughs in understanding the technology were made, greed comes into the factor, money
+    comes into the factor, power, and the incentive just goes away. I think that through the Eisenhower years at the very
+    least it went away. How quickly, sir, did they know that there were entities, these biological entities? I hesitate to
+    use that word "biological."
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 744
+    - 745
+    - 746
+    - 747
+    - 748
+    - 749
+    - 750
+    truncated: false
+- segment_id: 213
+  speaker_group: 7
+  timecode:
+    start: 01:21:25,240
+    end: 01:21:51,920
+  source_text: It depends on what evidence you judge. There are leaked documents. I consider them legitimate by and large.
+    These are housed. One of the witnesses here, Dr. Robert Wood, is one of the individuals who has discussed them. They are
+    called the majestic documents. If you take them at face value, it has been known since very early on, since the 1940s,
+    that there are other entities that are here, extraterrestrial biological entities.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 751
+    - 752
+    - 753
+    - 754
+    - 755
+    truncated: false
+- segment_id: 214
+  speaker_group: 7
+  timecode:
+    start: 01:21:51,920
+    end: 01:22:02,080
+  source_text: The crafts could have been Soviet. We would have leaked anything about the Soviets. The entity certainly could
+    not have been Soviet. If they knew about that, they knew very early this was extraterrestrial. They had to.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 756
+    - 757
+    - 758
+    truncated: false
+- segment_id: 215
+  speaker_group: 7
+  timecode:
+    start: 01:22:02,080
+    end: 01:22:13,800
+  source_text: They had to. If they knew that, then they could have had a legitimate concern that this was made public, the
+    public was going to panic. For the good of the public, they couldn't make it public. Is that a reasonable argument?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 759
+    - 760
+    - 761
+    truncated: false
+- segment_id: 216
+  speaker_group: 7
+  timecode:
+    start: 01:22:13,800
+    end: 01:22:29,280
+  source_text: World War II had just ended. The entire world was lying flat on its back, millions of homeless and hungry people.
+    Everyone was just trying to get back to a sense of normalcy. I can only imagine how the US military would have responded
+    to something this exotic dropping into their lap.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 762
+    - 763
+    - 764
+    - 765
+    truncated: false
+- segment_id: 217
+  speaker_group: 7
+  timecode:
+    start: 01:22:29,280
+    end: 01:22:39,100
+  source_text: If this is, in fact, the ideology, then there is some hope that they can now say, gee, we've been watching
+    this for all these years. Obviously, you're not hostile. Yes, it is extraterrestrial.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 766
+    - 767
+    truncated: false
+- segment_id: 218
+  speaker_group: 7
+  timecode:
+    start: 01:22:39,100
+    end: 01:23:10,440
+  source_text: My opinion is that there will never ever be any momentum from the top to move this forward, but the good news
+    is that they're not the only game in town. The fact is our society is changing as dramatically as it is, as rapidly as
+    it is, and there will be something that will force their hand. I'm convinced of this and I think it will happen within
+    a generation or less. At that point, that's when the battle for truth begins, not ends, because there will still be spin
+    doctors and attempts. The CIA will never just walk away from the table just because we figure something out. They're not
+    going to say, oh, here's all of our information.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 768
+    - 769
+    - 770
+    - 771
+    - 772
+    - 773
+    - 774
+    truncated: false
+- segment_id: 219
+  speaker_group: 7
+  timecode:
+    start: 01:23:10,440
+    end: 01:23:12,920
+  source_text: The battle will continue, but at least it will be out in the open.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 775
+    truncated: false
+- segment_id: 220
+  speaker_group: 7
+  timecode:
+    start: 01:23:12,920
+    end: 01:23:13,920
+  source_text: The gentleman's time is expired.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 776
+    truncated: false
+- segment_id: 221
+  speaker_group: 7
+  timecode:
+    start: 01:23:16,920
+    end: 01:23:26,920
+  source_text: '[BLANK_AUDIO]'
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 777
+    truncated: false

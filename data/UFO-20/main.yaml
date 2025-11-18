@@ -1,0 +1,4162 @@
+episode_id: UFO-20
+source_file: input/UFO-20/UFOs - Citizen Hearing Closing Remarks.wav.srt
+segments:
+- segment_id: 1
+  speaker_group: 1
+  timecode:
+    start: 00:00:00,000
+    end: 00:00:09,760
+  source_text: This hearing is in order. We've got our witnesses ready and --
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 1
+    truncated: false
+- segment_id: 2
+  speaker_group: 2
+  timecode:
+    start: 00:00:09,760
+    end: 00:00:16,960
+  source_text: And gentlemen, if you could stand and repeat after me.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 2
+    truncated: false
+- segment_id: 3
+  speaker_group: 2
+  timecode:
+    start: 00:00:16,960
+    end: 00:00:20,000
+  source_text: I do hereby affirm. >> I do hereby affirm.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 3
+    truncated: false
+- segment_id: 4
+  speaker_group: 3
+  timecode:
+    start: 00:00:20,000
+    end: 00:00:22,480
+  source_text: That I will tell the truth. >> I will tell the truth.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 4
+    truncated: false
+- segment_id: 5
+  speaker_group: 4
+  timecode:
+    start: 00:00:22,480
+    end: 00:00:25,200
+  source_text: And nothing but the truth. >> And nothing but the truth.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 5
+    truncated: false
+- segment_id: 6
+  speaker_group: 5
+  timecode:
+    start: 00:00:25,200
+    end: 00:00:27,760
+  source_text: To this committee today. >> To this committee today.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 6
+    truncated: false
+- segment_id: 7
+  speaker_group: 6
+  timecode:
+    start: 00:00:27,760
+    end: 00:00:36,800
+  source_text: Thank you, Mr. Chair. >> And before I move to the next witness, if I could just indicate that I'm pleased.
+    I don't know if you have a copy of the letter.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 7
+    - 8
+    truncated: false
+- segment_id: 8
+  speaker_group: 6
+  timecode:
+    start: 00:00:36,800
+    end: 00:00:38,720
+  source_text: Yes, you do. So if you could hand that to me.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 9
+    truncated: false
+- segment_id: 9
+  speaker_group: 7
+  timecode:
+    start: 00:00:38,720
+    end: 00:01:16,120
+  source_text: Would you like to read this? >> Well, no. Dr. Bookman, I'd have you read that letter. >> There's not just one
+    letter that the committee created. We also have all six members who have signed this because it does not deal with a foreign
+    government. It deals with the Veterans Affairs Administration and is also addressed to the President of the United States.
+    We're all six members of this committee, and I won't take the time to read it. You're welcome to come up later. Basically
+    demand that Jim Penniston and Airman Burroughs be granted their medical records from this government.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    truncated: false
+- segment_id: 10
+  speaker_group: 8
+  timecode:
+    start: 00:01:16,120
+    end: 00:02:03,840
+  source_text: Just a point of personal privilege, if I can just say that beyond the obvious benefits to those two heroic
+    former members of the United States Air Force, the release of those records, the obvious medical benefits are clear, and
+    that's alone enough reason for us to sign that. But the obvious implications of what's on those records in terms of breaking
+    down the wall or putting another crack in that truth embargo are, I think, obvious to people in this room for sure. Let's
+    go to our esteemed Honorable Paul Hellyer of Canada.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: '>>'
+    source_entries:
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+    truncated: false
+- segment_id: 11
+  speaker_group: 8
+  timecode:
+    start: 00:02:03,840
+    end: 00:03:05,880
+  source_text: We would give you 20 minutes, sir. >> Thank you very much, Mr. Chair, and thank you for giving me this opportunity
+    to speak. My name, as I said, was Paul Hellyer. I'm a former Minister of National Defence for Canada. I served in three
+    governments during a total of 23 and a half years as a member of Parliament. Although as Minister of National Defence,
+    I had sighting reports of UFOs. I was too busy to be concerned about them at the time because I was trying to unify the
+    Army, Navy and Air Force into a single Canadian Defence Force, and that itself was a kind of battle to the finish. So
+    this was not high on my agenda. But about 10 years ago, I started getting interested due to a young man from Ottawa sending
+    me material on the subject. I told him I was too busy to read it, but he had confidence that someday I would. He sent
+    me a copy of Colonel Corso's book, The
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 23
+    - 24
+    - 25
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    truncated: true
+- segment_id: 12
+  speaker_group: 8
+  timecode:
+    start: 00:03:05,880
+    end: 00:04:09,520
+  source_text: Day After Roswell. It took me a while to get around to reading it, but I took it for my summer reading in 2005
+    and was really impressed with what was contained in it. And what I thought to myself is there are huge issues here, huge
+    issues, and the American people and the people of the world have a right to know what's going on because they're part
+    of it. It's not just an isolated thing. And so after confirming the contents of the book with a retired United States
+    Air Force General, I accepted the invitation of Victor Vigiani, who's over here somewhere, and his cohort, Mike Bird,
+    to speak to a symposium at the University of Toronto. And I said, UFOs are as real as the airplanes flying overhead.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 33
+    - 34
+    - 35
+    - 36
+    - 37
+    - 38
+    - 39
+    - 40
+    truncated: false
+- segment_id: 13
+  speaker_group: 8
+  timecode:
+    start: 00:04:09,520
+    end: 00:05:28,400
+  source_text: That gave me the dubious distinction of being the first person of cabinet rank in the G8 group of countries
+    to say so unequivocally. Since then, I've learned a lot from many sources, including a number of the fantastic witnesses
+    that we have heard these last four days. So they're so outstanding. I was just really blown away with them, the amount
+    of information that was available. And I appreciate every single one of them. But because I'm not a ufologist, I'm a politician,
+    there are only a few things that I want to add in that particular realm. The first is that about in the 1960s sometime,
+    there was a flotilla of UFOs headed south that crossed into NATO territory in Europe. And the commander-in-chief of the
+    Supreme Allied Headquarters in Europe was naturally very shaken. Fortunately, or maybe divine providence before the panic
+    button was pushed, the flotilla turned around and
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 41
+    - 42
+    - 43
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    truncated: true
+- segment_id: 14
+  speaker_group: 8
+  timecode:
+    start: 00:05:28,400
+    end: 00:06:47,960
+  source_text: headed back north. Obviously, they had thought maybe they were Russian and they were very concerned about it.
+    Anyway, an investigation was launched into this whole subject. And a document was prepared which concluded that at least
+    four species had been visiting Earth for thousands of years. And this is my own view at this stage as well. So except
+    for that, there are just a couple of things that we've talked about that I'd like to refer to. And one was that we were
+    referring to them as they until this morning when Linda Bolton Howe, I think she was the first one, actually named three
+    different species. I have brought my latest book called Light at the End of the Tunnel, the Survival Plan for the Human
+    Species as an aide-memoire. And I named five different species here. I'm aware of more now. As a matter of fact, I saw
+    a document just a few days ago that mentioned
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 51
+    - 52
+    - 53
+    - 54
+    - 55
+    - 56
+    - 57
+    - 58
+    - 59
+    - 60
+    truncated: true
+- segment_id: 15
+  speaker_group: 8
+  timecode:
+    start: 00:06:47,960
+    end: 00:06:54,680
+  source_text: 20. And I thank you, Mr. Chairman. We're interested in some of the places they might come from.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 61
+    truncated: false
+- segment_id: 16
+  speaker_group: 8
+  timecode:
+    start: 00:06:54,680
+    end: 00:07:07,160
+  source_text: So I have in here Zeta Reticuli, the Pleiades, Orion, and Romita, and the Altair star systems.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 62
+    truncated: false
+- segment_id: 17
+  speaker_group: 8
+  timecode:
+    start: 00:07:07,160
+    end: 00:08:21,760
+  source_text: So I don't think we can any more refer them to them as they because they're not an amorphous mass. They are
+    different species and consequently may have different agendas. I don't think we can say that they all have the same agenda
+    any more than that we could say that the United States, China, and Russia had the same agenda. Our real interests may
+    be very similar, but as of now our perceived interests are still quite far apart. One more observation before I begin
+    what I want to say, and that is that we spent quite a bit of time talking about the 66 year old cadavers. And I was glad
+    to have Linda this morning finally say that there are live ETs on earth at this present time, and at least two of them
+    probably working with the United States government. The seventh, the other species that I learned about not too long ago
+    was called the tall whites. And this is when Paula Harris broke the story
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 63
+    - 64
+    - 65
+    - 66
+    - 67
+    - 68
+    - 69
+    - 70
+    - 71
+    - 72
+    truncated: true
+- segment_id: 18
+  speaker_group: 8
+  timecode:
+    start: 00:08:21,760
+    end: 00:09:28,600
+  source_text: just a few years ago. And through her good offices I had the chance to talk for about three hours with former
+    Airman Charles Hall and listen to this absolutely fascinating story of how he was working. First of all he was scared
+    out of his skin, but after that when he got to know them how he was working with and finally they became to trust each
+    other and have a good working relationship with the tall whites at the gunnery range at Indian Springs in Nevada. And
+    these tall whites were living on United States Air Force property and working in cooperation with the United States Air
+    Force and sharing technology with them. He wrote a book incidentally called Millennial Hospitality. There are four different
+    versions but Paula says that Millennial Hospitality number two is the best. I think that's the one I read and it's a very
+    interesting read if you want to sort of get inside the problem
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 73
+    - 74
+    - 75
+    - 76
+    - 77
+    - 78
+    - 79
+    - 80
+    - 81
+    - 82
+    truncated: true
+- segment_id: 19
+  speaker_group: 8
+  timecode:
+    start: 00:09:28,600
+    end: 00:09:36,160
+  source_text: of what it's like to bump into these people floating across the terrain in the desert.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 83
+    truncated: false
+- segment_id: 20
+  speaker_group: 8
+  timecode:
+    start: 00:09:36,160
+    end: 00:10:45,360
+  source_text: Enough on that for now, my interest is in full disclosure. And I just, my only caveat is I think probably I
+    would say 95 to 98 percent full disclosure. I know of one or two things that I'm not sure should be in the public domain
+    at least yet. They will be someday I'm sure but not maybe immediately. But just as children survive the idea of the tooth
+    fairy and Santa Claus when they become adult, I think that taxpaying citizens are quite capable of accepting the new and
+    broader reality that we live in a cosmos teeming with life of various sorts. The fact that some other civilizations are
+    more advanced than we are may be humbling but that could be a necessary step in our survival. The world is an unholy mess.
+    We have it best until the end of this decade. In my book I said we have ten years to stop global warming if we don't want
+    it to be beyond the point of no return. Two years
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 84
+    - 85
+    - 86
+    - 87
+    - 88
+    - 89
+    - 90
+    - 91
+    - 92
+    - 93
+    truncated: true
+- segment_id: 21
+  speaker_group: 8
+  timecode:
+    start: 00:10:45,360
+    end: 00:11:55,720
+  source_text: has gone past since it was written so I say we have until the end of the decade to arrest global warming. Yet
+    our leaders don't even talk about it very much except in a superficial way. They appear to be more interested in starting
+    wars to control more oil and in effect prolong the gravity of the threat. Of course even if they took the problem seriously
+    they wouldn't have the finances to finance the transition from oil to the clean economy to the clean energy because we
+    have an infinitely silly banking and financial system in the western world. And the United States Congress I regret to
+    say is partly responsible and I'd be glad to elaborate on that later if you're interested. And finally they need the technology
+    for clean energy and it exists and it's being kept secret by the same vested interests who control our destiny. Who are
+    these vested interests and what are they up
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 94
+    - 95
+    - 96
+    - 97
+    - 98
+    - 99
+    - 100
+    - 101
+    - 102
+    - 103
+    truncated: true
+- segment_id: 22
+  speaker_group: 8
+  timecode:
+    start: 00:11:55,720
+    end: 00:13:28,400
+  source_text: to? Well, Senator, we're talking about a military junta. In my opinion that is true but I have broadened and
+    deepened the definition to cabal and the cabal comprises members of the three sisters. The Council on Foreign Relations,
+    the Bilderbergers and the Trilateral Commission, the International Banking Cartel, the Oil Cartel, members of various
+    intelligence organizations and select members of the military unit who together have become a shadow government of not
+    only the United States but of much of the western world. The Council on Foreign Relations is the oldest of the three sisters
+    and as early as October 1940, years before Germany surrendered to the allied armies to vaporize Hitler's vision of empire,
+    the Council's economic and financial group drafted a memorandum outlining a comprehensive policy "to set forth the political,
+    military, territorial and economic requirements of the United States in its political
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 104
+    - 105
+    - 106
+    - 107
+    - 108
+    - 109
+    - 110
+    - 111
+    - 112
+    - 113
+    truncated: true
+- segment_id: 23
+  speaker_group: 8
+  timecode:
+    start: 00:13:28,400
+    end: 00:14:43,960
+  source_text: potential leadership of the non-German world including the United Kingdom itself as well as the western hemisphere
+    and the far east." The Council made no effort to disguise the fact that the purpose of the Grand Area and later world
+    hegemony was to support an expanding U.S. economy, to provide it with raw materials and markets for its products. This
+    was labeled the "national interest." It was equally clear that the national interest was the interest of the ruling elite
+    whose members comprised the Council. The real interests of the majority of rank-and-file Americans was never a factor
+    in the equation. So Mr. David Rockefeller who is a member of all three of the sisters is quoted as saying this at a meeting
+    of the Bilderbergers in Europe. We are grateful to the Washington Post, the New York Times, Time Magazine and other great
+    publications whose directors have attended our meetings and respected
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 114
+    - 115
+    - 116
+    - 117
+    - 118
+    - 119
+    - 120
+    - 121
+    - 122
+    - 123
+    truncated: true
+- segment_id: 24
+  speaker_group: 8
+  timecode:
+    start: 00:14:43,960
+    end: 00:16:02,680
+  source_text: their promises of discretion for almost 40 years. It would have been impossible for us to develop our plan
+    for the world if we had been subjected to the lights of publicity during those years. But the world is more sophisticated
+    and prepared to march toward a world government. The supranational sovereignty of an intellectual elite and world bankers
+    is surely preferable to the national auto-determination practiced in past centuries. He of course pretended he didn't
+    say that, but the witness is reported by Daniel Estulin, a thoroughly reliable reporter who has written the true story
+    of the Bilderberger group. And if you want to really get inside of what's been going on there for this long time, that's
+    a good place to go. So anyway, you hear what Mr. Rockefeller said and so there you have it. The aim of the game is a world
+    government comprising members of the cabal who are elected by no one and accountable
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 124
+    - 125
+    - 126
+    - 127
+    - 128
+    - 129
+    - 130
+    - 131
+    - 132
+    - 133
+    truncated: true
+- segment_id: 25
+  speaker_group: 8
+  timecode:
+    start: 00:16:02,680
+    end: 00:16:47,060
+  source_text: to no one. And according to Mr. Rockefeller, the plan is well advanced. Does this help you to understand why
+    our civil rights are being taken away from us? I say us because Canada too is included in the grand plan. A giant leap
+    in the wrong direction followed the end of the Cold War. No one could have been happier than I was when the Berlin Wall
+    came down on November the 9th, 1989. The elation on our side of the curtain was near universal and very significant on
+    the other side as one country after another regained its freedom.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 134
+    - 135
+    - 136
+    - 137
+    - 138
+    - 139
+    truncated: false
+- segment_id: 26
+  speaker_group: 8
+  timecode:
+    start: 00:16:47,060
+    end: 00:18:00,720
+  source_text: Nearly everyone believed that it was the dawn of a new era of peace and prosperity for people everywhere. There
+    was much talk of a peace dividend. The prospects were dazzling, dazzling in their scope and diversity. It was a unique
+    and God-given opportunity for a new braver and fairer world. We blew it. We blew the chance of a lifetime to do good things.
+    A small group of zealots undermined our golden opportunity to pursue peace, not war, and little did we dream that they
+    had a vastly different vision of the new world order. Their plan, which is now commonly known as the Project for a New
+    American Century, included preventive wars and clear violation of international law, regime change wherever and whenever
+    the U.S. desires and if they can get away with it without excessive casualties, and the establishment of a kind of economic
+    and cultural hegemony with America acting as "constabulary." That
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 140
+    - 141
+    - 142
+    - 143
+    - 144
+    - 145
+    - 146
+    - 147
+    - 148
+    - 149
+    truncated: true
+- segment_id: 27
+  speaker_group: 8
+  timecode:
+    start: 00:18:00,720
+    end: 00:18:32,460
+  source_text: was their word, globally. This was to be accomplished without authority of the United Nations and without the
+    restraint of existing international treaties. It would involve a military buildup unprecedented in peacetime history and
+    could trigger an arms race which is precisely the opposite of the peace dividend that the world had rightly looked forward
+    to. The Machiavellian scheme involved secret police, the curtailment of civil liberties and defiance of the U.S.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 150
+    - 151
+    - 152
+    - 153
+    - 154
+    truncated: false
+- segment_id: 28
+  speaker_group: 8
+  timecode:
+    start: 00:18:32,460
+    end: 00:19:43,680
+  source_text: Constitution, and a moribund economy operating way below its potential, exactly those features for which the
+    Soviet Union was held in contempt. The initial draft of the document was so controversial when it was leaked to the New
+    York Times that it had to be rewritten, but it was not changed very much, just the cosmetics, enough to make it politically
+    acceptable. The document said this, "May have been easy to persuade President Bush to abandon his stated policy of not
+    getting America more deeply involved in international affairs, but persuading the American people would be more difficult.
+    Sophisticated Americans would question such a giant sea change in history. The authors of Rebuilding America's Defenses,
+    Strategy, Forces, and Resources for a New Century recognize this difficulty from the outset because their document contained
+    the following sentence. Further, I'm quoting, "Further, the process of transformation, even
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 155
+    - 156
+    - 157
+    - 158
+    - 159
+    - 160
+    - 161
+    - 162
+    - 163
+    - 164
+    truncated: true
+- segment_id: 29
+  speaker_group: 8
+  timecode:
+    start: 00:19:43,680
+    end: 00:20:43,880
+  source_text: if it brings revolutionary changes, is likely to be a long one, absent some catastrophic and catalyzing event,
+    like a new Pearl Harbor." It wasn't too long before they got their catastrophic and catalyzing event. Terrorists struck
+    the World Trade Center in New York and the Pentagon in Washington on September the 11th, 2001. Incidentally, they have
+    removed the sentence about Pearl Harbor in the document that you can now get if you went to the internet to find it. Almost
+    the whole world mourned. Canada mourned. The overwhelming majority of Muslims condemned the treacherous attacks. My sympathy
+    for the friends and families of the injured and dead was genuine and unwavering to this day. My sympathy for the U.S.
+    government began to grow a bit thin, however, when I heard President Bush cite the reasons for the attack.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 165
+    - 166
+    - 167
+    - 168
+    - 169
+    - 170
+    - 171
+    - 172
+    - 173
+    truncated: false
+- segment_id: 30
+  speaker_group: 8
+  timecode:
+    start: 00:20:43,880
+    end: 00:20:51,720
+  source_text: And I quote, "Why do they hate us?" he asked rhetorically in an address to the Congress.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 174
+    truncated: false
+- segment_id: 31
+  speaker_group: 8
+  timecode:
+    start: 00:20:51,720
+    end: 00:20:56,920
+  source_text: They hate what they see right here in this chamber, democratically elected government.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 175
+    truncated: false
+- segment_id: 32
+  speaker_group: 8
+  timecode:
+    start: 00:20:56,920
+    end: 00:21:35,500
+  source_text: Their leaders are self-appointed. They hate our freedoms, our freedom of religion, our freedom of speech, our
+    freedom to vote and assemble and disagree with each other. I felt sad when I heard the President's word. I assumed that
+    he believed what he was saying. But if that were true, he was profoundly ignorant of the real thoughts and feelings of
+    people in other parts of the world. If he wanted to hear the truth, he should have listened to Osama bin Laden who was
+    well informed concerning the origins of the kind of fanatical hatred of the United States which has led to such treachery.
+    This is his version of events.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 176
+    - 177
+    - 178
+    - 179
+    - 180
+    - 181
+    - 182
+    truncated: false
+- segment_id: 33
+  speaker_group: 8
+  timecode:
+    start: 00:21:35,500
+    end: 00:21:47,080
+  source_text: Every Muslim must rise to defend his religion. The wind of faith is blowing and the wind of change is blowing
+    to remove evil from the peninsula of Muhammad. Peace be upon him.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 183
+    - 184
+    truncated: false
+- segment_id: 34
+  speaker_group: 8
+  timecode:
+    start: 00:21:47,080
+    end: 00:22:24,800
+  source_text: As to America, I say to you and its people a few words. I swear to God that America will not live in peace
+    before peace reigns in Palestine and before all the army of infidels depart the land of Muhammad. Peace be upon him. That
+    is clear enough. The dislike of America has nothing to do with democracy versus dictatorship or wealth or freedom of religion
+    or freedom of assembly. It is directly related to American foot dragging and stick handling, a just settlement of the
+    Palestinian question.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 185
+    - 186
+    - 187
+    - 188
+    - 189
+    - 190
+    truncated: false
+- segment_id: 35
+  speaker_group: 8
+  timecode:
+    start: 00:22:24,800
+    end: 00:22:39,680
+  source_text: Mr. Heller, I hate to interrupt. Time has expired but I'm very happy if the panel has no objection to allow
+    another minute or two to finish your statement. How much time do you think you need to finish it?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 191
+    - 192
+    - 193
+    truncated: false
+- segment_id: 36
+  speaker_group: 8
+  timecode:
+    start: 00:22:39,680
+    end: 00:22:44,600
+  source_text: I think probably somewhere between one and five minutes most.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 194
+    truncated: false
+- segment_id: 37
+  speaker_group: 8
+  timecode:
+    start: 00:22:44,600
+    end: 00:22:52,560
+  source_text: I think we'll give you two minutes to finish your statement as much as I'd like to grant more. Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 195
+    - 196
+    truncated: false
+- segment_id: 38
+  speaker_group: 8
+  timecode:
+    start: 00:22:52,560
+    end: 00:23:55,140
+  source_text: Okay. In short, American foreign policy was the root of the conflict. So here we are more than a decade later
+    fighting another war that can't be won. There is no country on earth powerful enough to protect its citizens against fanatical
+    hate as we learn from the Boston Marathon. And the mere attempt to pursue the impossible pits neighbor against neighbor
+    and the state power structure against everyone. All of the freedoms won by the millions of men and women who fought and
+    died in World War II are being flushed unceremoniously down the drain. The only hope of peace is a negotiated settlement.
+    This will require a paradigm shift in American attitudes. It involves a de facto renunciation of the plan for a new American
+    century and the adoption of a pledge of cooperation with all humankind to build the kind of world which we are collectively
+    capable of.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 197
+    - 198
+    - 199
+    - 200
+    - 201
+    - 202
+    - 203
+    - 204
+    - 205
+    - 206
+    truncated: true
+- segment_id: 39
+  speaker_group: 8
+  timecode:
+    start: 00:23:55,140
+    end: 00:24:32,880
+  source_text: Young people everywhere need to be challenged by a noble cause. They need to be involved in arresting global
+    warming, creating a banking system that is just and sustainable and lead the way in the transformation to the new reality
+    that we have to live in harmony with our celestial neighbors as well as seeking peace on earth. In a word, we have to
+    become spiritual beings and practice the one tenet that the world's major religions have in common, and that is the golden
+    rule.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 207
+    - 208
+    - 209
+    - 210
+    - 211
+    - 212
+    truncated: false
+- segment_id: 40
+  speaker_group: 8
+  timecode:
+    start: 00:24:32,880
+    end: 00:25:23,000
+  source_text: And this field too, and I just want to read one paragraph at this time if you'll allow me, Mr. Chair. This
+    is from the late Dr. John Mack, an American secular Jewish psychiatrist who became a world leader in interviewing abductees
+    or experiencers, as he called them, came to this conclusion in a startling book, Passport to the Cosmos. Quote, "Although
+    the aliens are not themselves gods, their behavior is sometimes anything but godlike. Abductees consistently report that
+    the beings seem closer to the godhead than we are, acting as messengers, guardian spirits or angels, intermediaries between
+    us and the divine source." Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 213
+    - 214
+    - 215
+    - 216
+    - 217
+    - 218
+    - 219
+    - 220
+    truncated: false
+- segment_id: 41
+  speaker_group: 8
+  timecode:
+    start: 00:25:23,000
+    end: 00:25:35,000
+  source_text: Thank you very much. We'll now hear from Richard Dolan for ten minutes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 221
+    truncated: false
+- segment_id: 42
+  speaker_group: 8
+  timecode:
+    start: 00:25:35,000
+    end: 00:25:47,520
+  source_text: Thank you, distinguished members of the committee, and let me just say it's been an honor for me personally
+    to be here with you all week to be able to give statements to you and chat with some of you privately as well.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 222
+    - 223
+    - 224
+    truncated: false
+- segment_id: 43
+  speaker_group: 8
+  timecode:
+    start: 00:25:47,520
+    end: 00:26:25,280
+  source_text: Regarding disclosure, I have often felt that disclosure on the matter of UFOs and ETs, possible extraterrestrials,
+    is a paradox. It's impossible, but it is inevitable. It's impossible because there is no political motivation for it.
+    It's inevitable, however, because our leaders are not the only factor in this equation. There are other beings, after
+    all, but mainly I would say there is us, the people, who are going through this greatest social, cultural, and especially
+    technological transformation in the history of humanity. In fact, I would say that we are the game changers.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 225
+    - 226
+    - 227
+    - 228
+    - 229
+    - 230
+    - 231
+    truncated: false
+- segment_id: 44
+  speaker_group: 8
+  timecode:
+    start: 00:26:25,280
+    end: 00:27:10,160
+  source_text: One day, and it won't be too long in the future, something is going to force someone's hand. It could be a
+    major sighting. It could be a major leak. Something. Something that can no longer be denied. After all, we are fast approaching
+    what experts in artificial intelligence call the singularity when computing intelligence exceeds our own. In such a future,
+    I ask you, can we really think we will still be stuck in neutral on this issue? Something will force the president's hand.
+    He or she will finally hold that long-awaited press conference and make that bombshell statement. It might go something
+    like this.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 232
+    - 233
+    - 234
+    - 235
+    - 236
+    - 237
+    - 238
+    truncated: false
+- segment_id: 45
+  speaker_group: 8
+  timecode:
+    start: 00:27:10,160
+    end: 00:27:28,400
+  source_text: I have been advised by the National Security Council and heads of our intelligence community that there is
+    a reality to some of the UFO phenomenon, in that some UFOs are real physical craft not manufactured by any known civilization
+    on earth. Or words to that effect.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 239
+    - 240
+    - 241
+    truncated: false
+- segment_id: 46
+  speaker_group: 8
+  timecode:
+    start: 00:27:28,400
+    end: 00:27:38,800
+  source_text: It's the kind of statement that many proponents of UFO disclosure would like to hear, but the real question
+    is what next? Because there would be quite a few follow-up questions.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 242
+    - 243
+    truncated: false
+- segment_id: 47
+  speaker_group: 8
+  timecode:
+    start: 00:27:38,800
+    end: 00:28:33,460
+  source_text: At the top of the list will be questions about who these other beings are and what their agenda or agendas
+    might be. This will be a very difficult question for any president to answer. In the first place, there is a likelihood
+    that even the leaders of the black budget or breakaway society that have been on top of this for years, they may not even
+    know. Or at least not fully. And what if they do know? And moreover, what if at least some of that answer includes information
+    that might be upsetting? Divining the intentions of non-human visitors, or permanent residents, whatever they may be,
+    might not be the easiest thing to do. But it's entirely possible, judging from the data we do have, that some of them
+    may not care very much about humanity. Some may. Some may not. And what if an agenda has been determined within the intelligence
+    community
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 244
+    - 245
+    - 246
+    - 247
+    - 248
+    - 249
+    - 250
+    - 251
+    - 252
+    - 253
+    truncated: true
+- segment_id: 48
+  speaker_group: 8
+  timecode:
+    start: 00:28:33,460
+    end: 00:29:32,600
+  source_text: and this agenda includes something to do with alleged abduction phenomenon? And even if that isn't true, does
+    any president honestly believe he or she can contain rampant speculation along these lines? And even if the intentions
+    of these other beings are said to be neutral or positive, there will clearly be tremendous suspicion by large swaths of
+    humanity. This will not be an easy sell. There will already be a sizable number of people predisposed to interpreting
+    these other beings as nothing less than demonic, short of bringing one of these entities to a podium and subjecting it
+    to hours and days and weeks of questions by an insatiable public. It's very likely that any moment of disclosure will
+    not satisfy the public the way it would like to be regarding alien motivations. That's only the beginning of the problems.
+    One early and obvious question that will arise, one which will have deep,
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 254
+    - 255
+    - 256
+    - 257
+    - 258
+    - 259
+    - 260
+    - 261
+    - 262
+    - 263
+    truncated: true
+- segment_id: 49
+  speaker_group: 8
+  timecode:
+    start: 00:29:32,600
+    end: 00:30:02,140
+  source_text: profound political implications, will be very simple. How long have you managed to keep this secret all these
+    years? Consider that our entire society has been told that UFOs do not represent anything truly anomalous, that ETs or
+    aliens are definitely not here on earth interacting with us, that UFO believers may be well-meaning but had been mistaken
+    about all of that. This has been a mindset embedded within all of our major institutions.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 264
+    - 265
+    - 266
+    - 267
+    - 268
+    truncated: false
+- segment_id: 50
+  speaker_group: 8
+  timecode:
+    start: 00:30:02,140
+    end: 00:30:56,120
+  source_text: Our educational institutions from primary school through universities and postdoctoral levels throughout our
+    major news organizations in which an open belief in UFOs is a third rail for one's career, throughout our scientific establishment
+    for sure and also throughout our political structure. Political careers have been destroyed or at least severely undermined
+    by the UFO taint. Remember what happened to Dennis Kucinich in 2008 after it became known that many years before he had
+    seen a UFO. Never mind the fact that the two witnesses he had been with came out and corroborated the sighting. They saw
+    the same thing. All of these institutions and others have treated the UFO topic as nothing more than a joke, something
+    suitable for immature minds. Can it really be that the professors throughout the United States uniformly have dismissed
+    this phenomenon without any cooperation from
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 269
+    - 270
+    - 271
+    - 272
+    - 273
+    - 274
+    - 275
+    - 276
+    - 277
+    - 278
+    truncated: true
+- segment_id: 51
+  speaker_group: 8
+  timecode:
+    start: 00:30:56,120
+    end: 00:31:03,360
+  source_text: the intelligence community? Ditto the world of science, politics and media. Well, no.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 279
+    truncated: false
+- segment_id: 52
+  speaker_group: 8
+  timecode:
+    start: 00:31:03,360
+    end: 00:31:31,780
+  source_text: Not when the most modest amount of research shows strong intelligence community influence over all of these
+    institutions. In other words, people will see very clearly that the national security apparatus has created a global culture
+    that has suffocated the truth. Researchers will begin to investigate in a serious way just how these relationships have
+    undermined the credibility of all those institutions and undermined our apprehension of truth.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 280
+    - 281
+    - 282
+    - 283
+    - 284
+    truncated: false
+- segment_id: 53
+  speaker_group: 8
+  timecode:
+    start: 00:31:31,780
+    end: 00:31:38,420
+  source_text: The result will be a major cultural and institutional house cleaning, but it won't stop there.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 285
+    truncated: false
+- segment_id: 54
+  speaker_group: 8
+  timecode:
+    start: 00:31:38,420
+    end: 00:31:57,040
+  source_text: Investors will naturally want to know specifics about the structure of secrecy itself. That is, they will want
+    to know if the U.S. president has been out of the loop all these years, as it seems, then who exactly has been in the
+    loop? Who has been running the UFO cover-up?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 286
+    - 287
+    - 288
+    truncated: false
+- segment_id: 55
+  speaker_group: 8
+  timecode:
+    start: 00:31:57,040
+    end: 00:32:54,400
+  source_text: If the answer is anything along the lines of my own research so far, it will show that the cover-up has long
+    ago gravitated away from formal presidential authority into international and private hands. It's not that the U.S. president
+    is a non-player in all of this, but rather is more like the public face of the true power elite that stands behind. We
+    all, I think, have come to understand this when it comes to power in general, and this will likely be the case when we
+    begin a sophisticated analysis of UFO secrecy. In other words, the moment of disclosure will trigger an intellectual revolution
+    worldwide relating to the true structure of power on planet Earth. It will be a moment in which the world sees and acknowledges
+    that the emperor has been wearing nothing at all. The political fallout will be tremendous and a great battle will develop
+    within the first year of disclosure. Think of it this
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 289
+    - 290
+    - 291
+    - 292
+    - 293
+    - 294
+    - 295
+    - 296
+    - 297
+    - 298
+    truncated: true
+- segment_id: 56
+  speaker_group: 8
+  timecode:
+    start: 00:32:54,400
+    end: 00:33:50,520
+  source_text: way. Just because the president has been forced into making an announcement doesn't mean that the CIA and all
+    the other intelligence groups that have been managing this will simply walk away. There has been a concerted effort spanning
+    an entire human lifetime to control this topic. A great deal has been invested and mere disclosure is not going to change
+    that. The real issue in the immediate post-disclosure world will be who controls the spin on the story, because right
+    away there will be a great divide, a chasm. Once this topic is available for open discussion, you can be sure that people
+    around the world will be demanding answers. You can be just as sure that on the other side of the fence information will
+    be handed out as sparingly as possible. Government spin doctors will be out in great numbers trying to control the situation
+    according to national security policy, although this
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 299
+    - 300
+    - 301
+    - 302
+    - 303
+    - 304
+    - 305
+    - 306
+    - 307
+    - 308
+    truncated: true
+- segment_id: 57
+  speaker_group: 8
+  timecode:
+    start: 00:33:50,520
+    end: 00:34:54,860
+  source_text: time independent UFO searchers may get a public hearing that they hadn't gotten before. If the official spokespersons
+    are making misleading or false statements, it's going to be a bit easier post-disclosure for independent researchers to
+    point this out, because this time the world will be much more likely to listen. And there will be many, many more investigators
+    into this topic after disclosure than there are today. How all that will turn out, only time will tell. There are so many
+    other messy issues relating to global finance, energy, truth commissions, lawsuits, cultural transformations, cultural
+    wars, religious and spiritual changes, scientific paradigm shifts, and ultimately geopolitical changes that will allow
+    us to meet the challenge of, shall we call them others, here on planet Earth in some sort of coordinated, hopefully logical
+    manner, and even more hopefully in some way that answers
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 309
+    - 310
+    - 311
+    - 312
+    - 313
+    - 314
+    - 315
+    - 316
+    - 317
+    - 318
+    truncated: true
+- segment_id: 58
+  speaker_group: 8
+  timecode:
+    start: 00:34:54,860
+    end: 00:35:28,480
+  source_text: to the people rather than a handful of elite human players. And for that, we will need a groundswell of public
+    pressure from below and tremendous political energy, ethics, and courage to take on the black budget culture that has
+    dominated this subject for so long and to begin a long, hard fight to reclaim some measure of freedom and dignity for
+    humanity while we begin a new, better, and more mature phase of our existence. Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 319
+    - 320
+    - 321
+    - 322
+    - 323
+    truncated: false
+- segment_id: 59
+  speaker_group: 8
+  timecode:
+    start: 00:35:28,480
+    end: 00:35:42,120
+  source_text: Thank you, Mr. Dolan. Now we'll go to our next witness, Daniel Sheehan, for 10 minutes.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 324
+    truncated: false
+- segment_id: 60
+  speaker_group: 8
+  timecode:
+    start: 00:35:42,120
+    end: 00:36:51,800
+  source_text: Good afternoon. Again, I point out that I'm speaking in this context as our general counsel here for this gathering
+    and our meeting. And I do this in the context of having served as an attorney, as I pointed out in my initial comments
+    on the first day we gathered, that I have for various reasons ended up being the attorney for a number of different issues
+    having to do with attempting to uncover ongoing cover-ups. From the time that I served as one of the attorneys for the
+    New York Times and the Pentagon Papers case, having seen the 47 volumes of the concealment of a policy that was completely
+    contrary to what was being publicly professed and told to the Congress, in fact. And then I ended up being counsel in
+    the Karen Silkwood case, uncovering the fact that our central intelligence agency was smuggling 98% pure bomb-grade plutonium
+    to Israel, et cetera. I pointed out at the
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 325
+    - 326
+    - 327
+    - 328
+    - 329
+    - 330
+    - 331
+    - 332
+    - 333
+    - 334
+    truncated: true
+- segment_id: 61
+  speaker_group: 8
+  timecode:
+    start: 00:36:51,800
+    end: 00:37:53,000
+  source_text: beginning of this conversation this week. And I pointed out that I ended up in the Iran Contra case as being
+    the ones who, one of the ones that brought the information, attempted to bring it to Congress. And I want to point out
+    here just at the very top of my conversation to repeat the reaction on the part of Peter Rodino, who was the chairman
+    of the House Judiciary Committee at the time, when the information concerning the off-the-shelf self-financing covert
+    operations enterprise that had been set up by the chief of covert operations for the central intelligence agency, Theodore
+    Shackley, under George H.W. Bush, that when he was told this by Scott Armstrong, one of his trusted confidants, that Peter
+    Rodino's response was, "My God, my God, Scott, I've been telling people for years that if they didn't like the way that
+    our American policy was going, that they should write a letter
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 335
+    - 336
+    - 337
+    - 338
+    - 339
+    - 340
+    - 341
+    - 342
+    - 343
+    - 344
+    truncated: true
+- segment_id: 62
+  speaker_group: 8
+  timecode:
+    start: 00:37:53,000
+    end: 00:38:56,800
+  source_text: to their congressperson. But if their congressperson did not respond, they should vote for someone else to
+    be their congressperson. But if what you're telling me here is true, why then we haven't even been in charge? I'm not
+    going to allow the United States Congress to investigate anything like that." Now, that's an absolute quote from Peter
+    Rodino as the chairman of the Judiciary Committee. This had only to do with the fact that there was a covert operation
+    going on attempting to supply military equipment to the Contras. Now, what we're dealing with here is we've come full
+    circle during the course of this week. We've discovered that the three major questions that have been in front of us,
+    that being that what in the world is going on here with this phenomenon of so-called unidentified flying objects or the
+    flying saucers themselves when we move beyond the unidentified nature of them, and these beings
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 345
+    - 346
+    - 347
+    - 348
+    - 349
+    - 350
+    - 351
+    - 352
+    - 353
+    - 354
+    truncated: true
+- segment_id: 63
+  speaker_group: 8
+  timecode:
+    start: 00:38:56,800
+    end: 00:39:02,480
+  source_text: that seem to be associated with these vehicles that have been seen on a number of occasions.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 355
+    truncated: false
+- segment_id: 64
+  speaker_group: 8
+  timecode:
+    start: 00:39:02,480
+    end: 00:40:02,520
+  source_text: That's one of the big major questions. The second major question is, "Well, who in the world is it that knows
+    what the answer to this question is?" Since so many of the government officials don't seem to know, yourselves included,
+    one of the extraordinary events of the week has been watching the transition take place from six of our trusted and long-time
+    representatives actually coming to discover that the information that actually exists about this is extraordinary and
+    very detailed. It addresses the issue of the radar sightings. It addresses the issues of all the questions that have been
+    asked, and it comes to an observation that not only does the Congress not know about this, but many people throughout
+    the executive branch don't know about this. This question of who is it that does know about this, or is there anybody
+    that knows about this? What we have heard over and over again in the testimony
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 356
+    - 357
+    - 358
+    - 359
+    - 360
+    - 361
+    - 362
+    - 363
+    - 364
+    - 365
+    truncated: true
+- segment_id: 65
+  speaker_group: 8
+  timecode:
+    start: 00:40:02,520
+    end: 00:40:41,440
+  source_text: is that there are many pieces of evidence that indicate that this is known about, that there was an agency
+    set up by President Truman shortly after the discovery of the crash site at Roswell in 1947, the Majestic 12 group. There's
+    been clear testimony that I believe is credible, would be credible in a court of law, that this organization has for various
+    reasons taken this issue out from under the oversight of our Congress, out from under the control of our executive branch,
+    and has taken this into a realm of semi-private control.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 366
+    - 367
+    - 368
+    - 369
+    - 370
+    - 371
+    truncated: false
+- segment_id: 66
+  speaker_group: 8
+  timecode:
+    start: 00:40:41,440
+    end: 00:41:13,880
+  source_text: What you'll notice is as we come to the last panel of our week together here, the issue tends to turn more
+    and more to that issue. What has happened to our country when a national security state seems to have arisen to conceal
+    certain types of information from our people, from our congressional representatives, even from some of our presidents.
+    That question seems to be in front of us right now, attempting to understand the nature of this elite group.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 372
+    - 373
+    - 374
+    - 375
+    - 376
+    truncated: false
+- segment_id: 67
+  speaker_group: 8
+  timecode:
+    start: 00:41:13,880
+    end: 00:41:32,120
+  source_text: What we want to do also is face the third question, is that when you get past these procedural questions to
+    the ultimate question of who are these beings, what are the implications for our human family if we are, in fact, at a
+    point of some rather dramatic transition.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 377
+    - 378
+    - 379
+    truncated: false
+- segment_id: 68
+  speaker_group: 8
+  timecode:
+    start: 00:41:32,120
+    end: 00:42:15,640
+  source_text: I believe that what we're going to be experiencing in the very near future has been foreshadowed, as I mentioned
+    earlier, by the positions being taken by the Catholic Church and the Vatican, that they are very clearly attempting to
+    move into a position of utilizing the increasing discovery of more and more planets on which they are more and more confident
+    that life is going to be discovered and that they're going to eventually not only recognize that at least microscopic
+    life has been discovered, but that a civilization has been discovered and they're going to begin by pointing out that
+    it's okay because they're very far away.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 380
+    - 381
+    - 382
+    - 383
+    - 384
+    - 385
+    - 386
+    truncated: false
+- segment_id: 69
+  speaker_group: 8
+  timecode:
+    start: 00:42:15,640
+    end: 00:42:45,320
+  source_text: We've discovered them, we've found the information, but they're very far away and they're going to engage in
+    a process of feathering this consciousness into our people and that they're only then going to point out that this civilization
+    seems to be a highly developed technological civilization and we will then reveal the existence of communication mechanisms
+    that we have developed whereby we can have a longer range diplomatic type of negotiation with this civilization.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 387
+    - 388
+    - 389
+    - 390
+    - 391
+    truncated: false
+- segment_id: 70
+  speaker_group: 8
+  timecode:
+    start: 00:42:45,320
+    end: 00:43:39,160
+  source_text: They're going to say let's not turn to the past, let's not reflect upon all this information and evidence that's
+    been around for a long time that they seem to be here, we've known about it, there's been concealment about this, there
+    may be concealment of certain technology that they've made, we had available to us, just as was said by the Obama administration,
+    let's not look back at George W. Bush's administration, let's not review the question of the torture and the lying to
+    the Congress of the United States to get us involved in this, let's not do that, let's look forward and be constructive,
+    that's how we're all trained and what I'm saying is that I think we've come to try to share some of that consciousness
+    here this week, what can we do to look forward to this and that's why the resolution has been put forth here to try to
+    reach out and have a set of conferences sponsored by the United
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 392
+    - 393
+    - 394
+    - 395
+    - 396
+    - 397
+    - 398
+    - 399
+    - 400
+    - 401
+    truncated: true
+- segment_id: 71
+  speaker_group: 8
+  timecode:
+    start: 00:43:39,160
+    end: 00:44:37,180
+  source_text: Nations General Assembly start to reveal this information so we can participate in this to avoid a dialectical
+    confrontation between the people of our country and this national security state apparatus, some of the details of which
+    have been pointed out here in our final panel and I share in that wish to have this done constructively and peacefully
+    and I believe that we can do that and I believe that you as members, former members of Congress recently retired, the
+    reality is that if the six of you go and sit down with various people in Congress, not to expect that they're going to
+    change overnight and say oh look, let's have a hearing on this and expose it to our people, but the fact that you have
+    come to discover just this week so much more than you ever knew was going on, that you are experts at trying to share
+    this information with people in your regions of the country and we have
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 402
+    - 403
+    - 404
+    - 405
+    - 406
+    - 407
+    - 408
+    - 409
+    - 410
+    - 411
+    truncated: true
+- segment_id: 72
+  speaker_group: 8
+  timecode:
+    start: 00:44:37,180
+    end: 00:45:30,680
+  source_text: from all different parts of the country, from Alaska to California to other states of our country, right, in
+    the South of our country and in the Midwest of our country, we can, if you will reach out and try to talk with your people
+    in your own districts about this issue to take upon yourself that risk of the potential ridicule, the potential criticism,
+    the question you've been asking yourself, all of you, what am I going to do now? What am I going to do now that I have
+    left the Congress? Am I going to continue to represent the people in my district? Am I going to attempt to educate them?
+    Because if you have come to the same conclusion that I came to when I was given the privilege of representing Dr. John
+    Mack, if you've come to the same conclusion that I have, this is one of the most important issues that you've ever encountered
+    in your life and you are the most skilled
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 412
+    - 413
+    - 414
+    - 415
+    - 416
+    - 417
+    - 418
+    - 419
+    - 420
+    - 421
+    truncated: true
+- segment_id: 73
+  speaker_group: 8
+  timecode:
+    start: 00:45:30,680
+    end: 00:45:39,440
+  source_text: people to go and share this with your own constituency and reach out and help us. That's what we're asking
+    for you to do.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 422
+    - 423
+    truncated: false
+- segment_id: 74
+  speaker_group: 8
+  timecode:
+    start: 00:45:39,440
+    end: 00:46:01,600
+  source_text: Thank you for your statement, Mr. Sheehan. We'll now begin the questioning of our witnesses and we're going
+    to change the order. We're going to start with Dr. Bookman and we're just going to work our way down this way.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 424
+    - 425
+    - 426
+    truncated: false
+- segment_id: 75
+  speaker_group: 8
+  timecode:
+    start: 00:46:01,600
+    end: 00:46:11,360
+  source_text: Mr. Dolan, we've had this conversation before and I think it might be helpful to the committee too. How many
+    crashes do you find credible, roughly?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 427
+    - 428
+    truncated: false
+- segment_id: 76
+  speaker_group: 8
+  timecode:
+    start: 00:46:11,360
+    end: 00:46:22,700
+  source_text: I've never bothered to tally them up. There are a couple of very good book studies that have been done, one
+    by a gentleman who's here, Dr. Kevin Randle, another by Ryan Wood.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 429
+    - 430
+    truncated: false
+- segment_id: 77
+  speaker_group: 8
+  timecode:
+    start: 00:46:22,700
+    end: 00:46:27,360
+  source_text: How many do your colleagues generally, as you look at their materials, have you concluded?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 431
+    truncated: false
+- segment_id: 78
+  speaker_group: 8
+  timecode:
+    start: 00:46:27,360
+    end: 00:46:29,800
+  source_text: I don't think 10 would be outrageous.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 432
+    truncated: false
+- segment_id: 79
+  speaker_group: 8
+  timecode:
+    start: 00:46:29,800
+    end: 00:46:57,280
+  source_text: Maybe 10 craft have been recovered, 10 crashes. Let's talk about those 10. We assume that we're not the most
+    enlightened, caring, loving folk in the galaxy, I gather. Is there any evidence that the colleagues of these crashed extraterrestrials
+    have come looking for them or attempted to recover their crash technology or their brothers and sisters who might have
+    been held in captivity, no matter how comfortable here?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 433
+    - 434
+    - 435
+    - 436
+    - 437
+    truncated: false
+- segment_id: 80
+  speaker_group: 8
+  timecode:
+    start: 00:46:57,280
+    end: 00:47:09,960
+  source_text: All we're dealing with are leaks and more leaks and stories and claims. It would not be illogical. There have
+    been claims that have been made proving these, getting corroboration is another story.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 438
+    - 439
+    - 440
+    truncated: false
+- segment_id: 81
+  speaker_group: 8
+  timecode:
+    start: 00:47:09,960
+    end: 00:47:11,400
+  source_text: Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 441
+    truncated: false
+- segment_id: 82
+  speaker_group: 8
+  timecode:
+    start: 00:47:11,400
+    end: 00:47:13,880
+  source_text: Yes, Representative Woolsey.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 442
+    truncated: false
+- segment_id: 83
+  speaker_group: 8
+  timecode:
+    start: 00:47:13,880
+    end: 00:48:47,220
+  source_text: Thank you. I think we should shorten this as best we can, except for the Honorable Paul Heller. One thing I'd
+    like to say to Paul Heller is, I think we know the answer about who knows about this, when you two guys brought it up.
+    I think Mr. Heller answered it for us. It's the three sisters. I mean, they know of the industrial complexes, the oil
+    cabal, the banking cabal. They know. They've been controlling this for a long time. We know they know, and we know they've
+    been controlling it, so our question is now, what do we do about it? I don't think it does a lot of good to go out and
+    insult the people that are going to have to do something about it, but we can do more than we're doing. We have to get
+    money out of politics, one. I don't mean control the press, what they can see. We have to expand the press so that three
+    or five corporations don't own the communications in our country.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 443
+    - 444
+    - 445
+    - 446
+    - 447
+    - 448
+    - 449
+    - 450
+    - 451
+    - 452
+    truncated: true
+- segment_id: 84
+  speaker_group: 8
+  timecode:
+    start: 00:48:47,220
+    end: 00:50:03,080
+  source_text: We have to do something about our education system so that our students graduate knowing how to question, staying
+    in school in the first place, but they have to learn how to question. They have to learn how to analyze. They have to
+    make decisions that are in their own best interests, not in the best interests of the top 1% of the wealthiest people
+    in this country. We have to have economic justice. I mean, there's so much that we have to do in this country. If we had
+    a country that was not based on money and had a press that would speak truth to power and uneducated public, we'd be demanding
+    and wanting to hear everything that I heard this week from all of you. It isn't there, it isn't happening, and we just
+    do, I mean, we have so much work to do. I mean, and then the question of, well, my question is, what would it look like,
+    why would it be upsetting to get this information
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 453
+    - 454
+    - 455
+    - 456
+    - 457
+    - 458
+    - 459
+    - 460
+    - 461
+    - 462
+    truncated: true
+- segment_id: 85
+  speaker_group: 8
+  timecode:
+    start: 00:50:03,080
+    end: 00:50:06,760
+  source_text: out? What does upsetting information look like?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 463
+    truncated: false
+- segment_id: 86
+  speaker_group: 8
+  timecode:
+    start: 00:50:06,760
+    end: 00:50:56,920
+  source_text: Well, Ms. Woolsey, if I might have something to say on that. I had a conversation with a gentleman who I will
+    just say is of absolutely impeccable credentials who told me of his personal knowledge of a briefing that was given to
+    President Jimmy Carter back in June of 1977 on exactly this matter. Now, he doesn't know the details of what was said,
+    but he does know that it was a briefing about the extraterrestrial presence. This was in June of 1977, the beginning of
+    his first year. And at the end of that meeting, the President was seen with his head in his hands, elbows on the desk,
+    and weeping or deeply upset.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 464
+    - 465
+    - 466
+    - 467
+    - 468
+    - 469
+    - 470
+    truncated: false
+- segment_id: 87
+  speaker_group: 8
+  timecode:
+    start: 00:50:56,920
+    end: 00:52:13,440
+  source_text: Something was told to him that was very upsetting. I asked this individual if he had any idea what it was.
+    He did not bother to speculate. But I will say that I have another gentleman who was a senior cabinet member in the first
+    Reagan administration, who similarly told of being taken for several weeks after he got his job to an underground facility
+    to receive a briefing and was deeply upset because, as he said to a trusted family member, I have a daughter and I am
+    terrified for her. So there is something going on in which this phenomenon is either threatening or we might speculate
+    beyond the control of the political powers that are officially representing us. Well, it is beyond control. It is the
+    three sisters that are running it. So thank you. Thank you. And let's go to a representative from Maryland. Thank you
+    very much. I want to, for a few
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 471
+    - 472
+    - 473
+    - 474
+    - 475
+    - 476
+    - 477
+    - 478
+    - 479
+    - 480
+    truncated: true
+- segment_id: 88
+  speaker_group: 8
+  timecode:
+    start: 00:52:13,440
+    end: 00:52:21,680
+  source_text: moments dwell a bit on a problem that was mentioned by both Mr. Hellyer and Dr. Bookman.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 481
+    truncated: false
+- segment_id: 89
+  speaker_group: 8
+  timecode:
+    start: 00:52:21,680
+    end: 00:52:38,840
+  source_text: That is the constitutional issue here. For the moment, we are the undisputed economic and military superpower
+    in the world. We are a bit less than 5% of the world's population.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 482
+    - 483
+    truncated: false
+- segment_id: 90
+  speaker_group: 8
+  timecode:
+    start: 00:52:38,840
+    end: 00:53:48,240
+  source_text: We are about one person out of 22 in the world. And we have just about, we represent about a fourth of the
+    world's economy, which means we have about a fourth of all the good things in the world. How come? How come? We no longer
+    have the best work ethic in the world. All you have to do is drive around and watch for people bending their back and
+    sweating and working. You won't see very many white faces. You don't see very many black faces. You see Hispanic faces.
+    We no longer have the most respect for the nuclear family. This year, almost half our babies will be born out of wedlock.
+    We no longer have the most respect for technical education. This year, the Chinese will graduate seven times as many engineering
+    students as we graduate. How is it then that we are so darn fortunate that we are the undisputed economic and military
+    superpower in the world? I think it's because of our enormous respect.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 484
+    - 485
+    - 486
+    - 487
+    - 488
+    - 489
+    - 490
+    - 491
+    - 492
+    - 493
+    truncated: true
+- segment_id: 91
+  speaker_group: 8
+  timecode:
+    start: 00:53:48,240
+    end: 00:54:10,240
+  source_text: And we have a fourth of all the good things in the world. I think it's our enormous respect for civil liberties.
+    There's no other constitution. There's no other bill of rights to protect civil liberties like ours. And I think, by the
+    way, you've mentioned it, gentlemen. We are not a democracy. We are a democratic process. But we are a republic, Benjamin
+    Franklin asked.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 494
+    - 495
+    - 496
+    - 497
+    truncated: false
+- segment_id: 92
+  speaker_group: 8
+  timecode:
+    start: 00:54:10,240
+    end: 00:54:44,880
+  source_text: There's a fundamental difference there. There's a fundamental difference there. I'm very concerned that because
+    our government today so easily ignores the constitution to do what they think are good things, that tomorrow, like some
+    of the functions of our government that I think are extra constitutional, if not unconstitutional, like ignoring the First
+    Amendment requirement that the citizens have a right to petition the government for a redress of grievances.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 498
+    - 499
+    - 500
+    - 501
+    - 502
+    truncated: false
+- segment_id: 93
+  speaker_group: 8
+  timecode:
+    start: 00:54:44,880
+    end: 00:54:50,200
+  source_text: And there's a grievance that there's not been a hearing on this for a very long time.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 503
+    truncated: false
+- segment_id: 94
+  speaker_group: 8
+  timecode:
+    start: 00:54:50,200
+    end: 00:55:03,000
+  source_text: If the government can ignore the constitution to be good things today, tomorrow they can ignore the constitution
+    to do bad things. Other countries have done it.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 504
+    - 505
+    truncated: false
+- segment_id: 95
+  speaker_group: 8
+  timecode:
+    start: 00:55:03,000
+    end: 00:55:53,800
+  source_text: When my ex-chief of staff, who is now my colleague, called me and asked me if I was interested in this and
+    warned me that there was a big probability that a lot of people would relegate me to the lunatic fringe for coming here.
+    I told her that the primary reason that I would come was that there's a serious constitutional issue here. The citizens
+    have a right for their government to tell them what's going on here. And I want to thank both of you for bringing up this
+    constitutional issue because I think it is a very serious one. A government which ignores the constitution to do good
+    things today, what they think are good things today, can ignore the constitution to do bad things tomorrow because it
+    will rationalize that they are good things tomorrow. So thank you very much for your shared concern of this issue.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 506
+    - 507
+    - 508
+    - 509
+    - 510
+    - 511
+    - 512
+    - 513
+    - 514
+    - 515
+    truncated: true
+- segment_id: 96
+  speaker_group: 8
+  timecode:
+    start: 00:55:53,800
+    end: 00:56:11,920
+  source_text: '[Applause] Senator, we''ve got five minutes for questions. You''ll have five minutes for questions and then
+    whatever time afterwards we''ll start with you on closing states.'
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 516
+    - 517
+    - 518
+    truncated: false
+- segment_id: 97
+  speaker_group: 8
+  timecode:
+    start: 00:56:11,920
+    end: 00:56:26,920
+  source_text: What I'd like to do is ask Minister Heller, we all talk about the problem. In fact, that's all I hear is defining
+    the problem. We've got to think in terms of solutions. What's your solution to the problem?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 519
+    - 520
+    - 521
+    truncated: false
+- segment_id: 98
+  speaker_group: 8
+  timecode:
+    start: 00:56:26,920
+    end: 00:57:34,040
+  source_text: You have got problems. Wall Street runs your economy. And the military, if you elect a president who is presumably
+    commander in chief of the armed forces, but he's not clear to know what the troops in his command are actually doing.
+    So I think, you know, there are some big problems. But I think Congress ultimately has the key to both the future of the
+    United States and of the world. And this is what bothers me because they're not exercising their power to change the things
+    that have to be changed. But if you'll indulge me, I'd like to read two pages from advice from the extraterrestrials.
+    And I think they've got a lot of good advice because they know what's going on more than we do sometimes. This is a quote
+    from Jim Sparks, who was probably the most abducted of all the people who have been abducted. And he was taken away one
+    night late on. He'd been abducted dozens of times
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 522
+    - 523
+    - 524
+    - 525
+    - 526
+    - 527
+    - 528
+    - 529
+    - 530
+    - 531
+    truncated: true
+- segment_id: 99
+  speaker_group: 8
+  timecode:
+    start: 00:57:34,040
+    end: 00:58:16,360
+  source_text: before that. And he said, I found myself standing in that abandoned carnival park, clearheaded and fully conscious.
+    There were those creatures again. And I could see that their holograms of human faces were cast over their faces to disguise
+    their true appearance and make me feel less apprehensive. I noticed that each alien seemed to be concentrating and communicating
+    or transmitting its thoughts to the creature to my left. They seemed to be of like mind as though combining their consciousness
+    into one telepathic voice. They continue. And now this is quoting the ETs. There are some things you need to understand.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 532
+    - 533
+    - 534
+    - 535
+    - 536
+    - 537
+    - 538
+    truncated: false
+- segment_id: 100
+  speaker_group: 8
+  timecode:
+    start: 00:58:16,360
+    end: 00:59:15,640
+  source_text: Yes, it's true that we have been in contact with your government and heads of power. It is also true that agreements
+    have been made and kept secret from your people. It is also true that in the past some of your people have lost their
+    lives or have been badly hurt to protect the secret. Our hands had no part in this. We contacted your leaders because
+    your planet is in grave trouble. Your leaders said the vast majority of your population wasn't ready for anything like
+    us yet. So we made time agreements with your leaders as to when your people would be made aware of our presence. That
+    part of the agreement has not at all been kept. It was also agreed that in the meantime, steps would be taken to correct
+    the environmental conditions of your planet with our advice and technology.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 539
+    - 540
+    - 541
+    - 542
+    - 543
+    - 544
+    - 545
+    - 546
+    - 547
+    truncated: false
+- segment_id: 101
+  speaker_group: 8
+  timecode:
+    start: 00:59:15,640
+    end: 00:59:38,720
+  source_text: We say "advice" because we respect the fact that this is your planet, not ours. They also broke that agreement.
+    This is Jim now. I felt an awful wave of emotion from them, the feeling of abandonment. To feel any emotion from them
+    at all was amazing, but this was quite overwhelming.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 548
+    - 549
+    - 550
+    truncated: false
+- segment_id: 102
+  speaker_group: 8
+  timecode:
+    start: 00:59:38,720
+    end: 01:00:52,400
+  source_text: You aren't giving up on us, are you? I asked. There was a long silent pause, and I received the transmitted
+    feeling of tremendous loss. Well, are you? I asked. No. I felt an immediate sense of relief straight from my own emotions.
+    But then the extraterrestrials again, your air, your water are contaminated. Your forests, jungles, trees and plant life
+    are dying. There are several breaks in your food chain. You have an overwhelming amount of nuclear and biological weapons,
+    which include nuclear and biological contamination. Your planet is overpopulated. Warning, it is almost to the point of
+    being too late, unless your people act. There are better ways of deriving energy and food needs without causing your planet
+    any damage. Those in power are aware of this and have the capability of putting these methods into worldwide use. I let
+    this digest for a moment. I definitely had the feeling that
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 551
+    - 552
+    - 553
+    - 554
+    - 555
+    - 556
+    - 557
+    - 558
+    - 559
+    - 560
+    truncated: true
+- segment_id: 103
+  speaker_group: 8
+  timecode:
+    start: 01:00:52,400
+    end: 01:00:58,560
+  source_text: these creatures are speaking as one. Then I asked, why aren't we doing that now? Silence.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 561
+    truncated: false
+- segment_id: 104
+  speaker_group: 8
+  timecode:
+    start: 01:00:58,560
+    end: 01:02:02,400
+  source_text: I was willing to wait. I had come a long way to be treated like this by them to have this kind of meeting.
+    Apparently I had earned their respect and trust. The best part was that I was getting direct truthful answers to my questions.
+    I decided that I would milk this rare situation to its fullest, asking as many questions as I could get away with, even
+    personal ones. I repeated my question and they answered. Those in power view it as a military and security threat. That
+    upset me. You mean to tell me that the people in power have the ability to save and better the planet and they aren't
+    doing it? Amnesty. What do you mean? Complete amnesty to those in power, governments and leaders who have been suppressing
+    the truth, that they can't be held liable for any past wrong deeds. It is the only way these leaders can come forward
+    with the truth. It is necessary that you do this in order to work together
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 562
+    - 563
+    - 564
+    - 565
+    - 566
+    - 567
+    - 568
+    - 569
+    - 570
+    - 571
+    truncated: true
+- segment_id: 105
+  speaker_group: 8
+  timecode:
+    start: 01:02:02,400
+    end: 01:02:03,400
+  source_text: and survive.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 572
+    truncated: false
+- segment_id: 106
+  speaker_group: 8
+  timecode:
+    start: 01:02:03,400
+    end: 01:02:23,800
+  source_text: I think that's wonderful advice straight from the ET's lips. I think Congress should exercise its power. I
+    know that they've got some job owning, but they have the ultimate power.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 573
+    - 574
+    truncated: false
+- segment_id: 107
+  speaker_group: 8
+  timecode:
+    start: 01:02:23,800
+    end: 01:02:31,600
+  source_text: They could say to the junta, "We want you to do this. We'll give you amnesty, protection.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 575
+    truncated: false
+- segment_id: 108
+  speaker_group: 8
+  timecode:
+    start: 01:02:31,600
+    end: 01:02:58,800
+  source_text: We want you to do this and you're going to do it. If you don't, we'll cut your funding off except for salaries
+    and wages until you do do it." Because it's in the national interest and it's in the world interest. We want to know what's
+    going on and specifically we want the energy sources to put into effect to save the world before it's too darn late.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 576
+    - 577
+    - 578
+    - 579
+    truncated: false
+- segment_id: 109
+  speaker_group: 8
+  timecode:
+    start: 01:02:58,800
+    end: 01:03:14,760
+  source_text: Thank you very much. We'll start the closing statements by Senator -- well, is there a -- As much as you want.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 580
+    - 581
+    - 582
+    truncated: false
+- segment_id: 110
+  speaker_group: 8
+  timecode:
+    start: 01:03:14,760
+    end: 01:03:15,760
+  source_text: Yeah, you get your closing statement.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 583
+    truncated: false
+- segment_id: 111
+  speaker_group: 8
+  timecode:
+    start: 01:03:15,760
+    end: 01:03:19,200
+  source_text: Don't ever say that to me. I filibuster.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 584
+    truncated: false
+- segment_id: 112
+  speaker_group: 8
+  timecode:
+    start: 01:03:19,200
+    end: 01:03:22,760
+  source_text: I should have warned Dr. Buckman about that, but anyway, go ahead.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 585
+    truncated: false
+- segment_id: 113
+  speaker_group: 8
+  timecode:
+    start: 01:03:22,760
+    end: 01:03:26,320
+  source_text: I'll be reasonable. I'll put it that way.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 586
+    truncated: false
+- segment_id: 114
+  speaker_group: 8
+  timecode:
+    start: 01:03:26,320
+    end: 01:04:06,840
+  source_text: First off, if I've sounded angry, I apologize for that, but there's a reason. I am angry, very angry, but I
+    really want to point out that I love my country. I'm very critical of it because it needs to be criticized heavily. I
+    consider myself a patriot, but I don't buy into -- but first and foremost, and I used to end a lot of my speeches and
+    I lasted for 12 years, I am a citizen of the planet first and American second, and my priorities are on that way. Make
+    no mistake about that.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 587
+    - 588
+    - 589
+    - 590
+    - 591
+    - 592
+    truncated: false
+- segment_id: 115
+  speaker_group: 8
+  timecode:
+    start: 01:04:06,840
+    end: 01:05:16,080
+  source_text: Now, when we're analyzing the problem, whether it's the extraterrestrial situation issue or the 9/11 issue,
+    which of course ginned up the ability of the crazies to really go after the world, we have to start and be a little humble
+    and say, hey, those of us that have held office for a period of time, it's during that period of time that things have
+    gone to hell, and when people say, well, we ought to take back our country, we never had our country, if you read the
+    Constitution, it was passed in '87 and '89, the first -- we were putting in slavery for infinity, and if you look at --
+    and those of you that have this brochure, you'll look at all of our forebears that said the people should have the right
+    to change their government, and that's based upon the Declaration of Independence where all human beings are created equal.
+    Well, 12 years later, they're in Philadelphia,
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 593
+    - 594
+    - 595
+    - 596
+    - 597
+    - 598
+    - 599
+    - 600
+    - 601
+    - 602
+    truncated: true
+- segment_id: 116
+  speaker_group: 8
+  timecode:
+    start: 01:05:16,080
+    end: 01:06:17,680
+  source_text: and they're not creating all human beings equal. What they're doing is they're making a distinction that white
+    males are the only equal ones, and if you have enough property, the rest, and so those who get married to the Constitution,
+    they like to rip the Constitution apart, and then when you say about, you know, obeying the Constitution, after the Civil
+    War amendments, which really is the only improvement made in the Constitution of size because it expanded the franchise,
+    and if you look at the amendments, the rest of it are just housekeeping, and so from the Civil War on, we had 90 years
+    where, what, 12, 13 states were in total violation of the Constitution of the United States, and nobody gave a darn about
+    it, and the political parties were all part of the conspiracy. So when you advance from there to here and look around
+    and see how our scientific advancement has been so explosive, and we are stuck in
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 603
+    - 604
+    - 605
+    - 606
+    - 607
+    - 608
+    - 609
+    - 610
+    - 611
+    - 612
+    truncated: true
+- segment_id: 117
+  speaker_group: 8
+  timecode:
+    start: 01:06:17,680
+    end: 01:07:11,800
+  source_text: a system, a structure of governance that's 250 years old that is totally irrelevant to dealing with our problems
+    that we face today, and then so we look at, say, oh, we're going to go to the Congress. I got to tell you, I've said that
+    earlier in the week. It's a dead letter, and hold your breath. It's never going to happen, and it's not that I'm demeaning
+    the Congress. I've been there, and I'll tell you that they don't have the power that you think they have. I don't want
+    to engage in anything. I respect your views, but I just want to tell you that the problem, you have to come to some kind
+    of a search internally with some humility and say, maybe, just maybe, our structure of governance is deficient, is deficient.
+    We don't have a democracy, never had it. What we have is representative government.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 613
+    - 614
+    - 615
+    - 616
+    - 617
+    - 618
+    - 619
+    - 620
+    - 621
+    truncated: false
+- segment_id: 118
+  speaker_group: 8
+  timecode:
+    start: 01:07:11,800
+    end: 01:08:14,000
+  source_text: That's what came out of the Age of Enlightenment, was representative government, where the majority of the
+    people give their power away to a small minority, and that small minority, and you want to know what happened, $4 billion
+    was spent in the last election in our government, the Congress, the executive, the bureaucracy, the judiciary. They are
+    owned, locked, stocked, and barreled by the Wall Street, the military industrial complex, and all the special interests
+    that we find abroad. Then when you see what's going on with NATO is nothing but the militarization, the globalization
+    of the military industrial complex. That's what's going on. I referred to a study where it showed that 1,300 corporations
+    with interlocking directorates and family ties own 60% of the wealth of the world. Then you've gone through the litany
+    of the Bilderberg group and all of that group. Sure, they do what's natural to them. They've got power,
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 622
+    - 623
+    - 624
+    - 625
+    - 626
+    - 627
+    - 628
+    - 629
+    - 630
+    - 631
+    truncated: true
+- segment_id: 119
+  speaker_group: 8
+  timecode:
+    start: 01:08:14,000
+    end: 01:09:10,880
+  source_text: and they're clever enough to keep it and work for it. Our task is to look at the structure of why we're failing
+    as human beings. I say all of us, because we've had testimony replete of people in the military who are supposed to be
+    courageous and prepared to charge up the hill, that they defer to authority that silences them. If you reason it out,
+    it doesn't make any sense that they have to keep secrets like that. I had to make that decision in the Senate and put
+    myself at risk when releasing the Pentagon papers. Those were top secret documents. The rest of the Congress was stymied
+    like little kids in school that you could go read it, but you couldn't take any notes. They tried to impeach me, and I
+    was saved by one person, Mike Mansfield. He had such power in the Senate. He stepped before a delegation led by Gerald
+    Ford, brought it with Hugh Scott, went to visit him and said, "Well, we've
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 632
+    - 633
+    - 634
+    - 635
+    - 636
+    - 637
+    - 638
+    - 639
+    - 640
+    - 641
+    truncated: true
+- segment_id: 120
+  speaker_group: 8
+  timecode:
+    start: 01:09:10,880
+    end: 01:09:19,640
+  source_text: got to deal with this Gravel for what he's done," and Mansfield turned to him, sucking on his pipe. He says,
+    "He's done nothing that I know of," and they walked right out.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 642
+    - 643
+    truncated: false
+- segment_id: 121
+  speaker_group: 8
+  timecode:
+    start: 01:09:19,640
+    end: 01:10:15,720
+  source_text: That was the end of the story. That saved my career. When I went to see Mansfield, and I get emotional about
+    it, because what he turned to me says, "Mike, if I had had your courage, I would have done the same thing," but stop and
+    think what I did. The whole Congress had bought into the secrecy of these documents, and I had turned it all over and
+    made the Supreme Court moot and put to shame the newspapers that were now afraid to do it, and the issue with the Supreme
+    Court. Our government, representative government, is designed to keep the people in civic adolescence. That's what it's
+    designed. What is adolescence? "Oh, I want that, but I don't want to pay any taxes. I want that, but I don't want to pay
+    any taxes." That's adolescent behavior. Now, how do we bring the people to adulthood, civic adulthood?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 644
+    - 645
+    - 646
+    - 647
+    - 648
+    - 649
+    - 650
+    - 651
+    - 652
+    truncated: false
+- segment_id: 122
+  speaker_group: 8
+  timecode:
+    start: 01:10:15,720
+    end: 01:10:53,080
+  source_text: We do it the way we bring our children up. We give our children responsibility as they age, and then they come
+    to adulthood. It's taking responsibility, but when you have a structure of government that doesn't permit the people to
+    take responsibility, you guarantee the continuation of civic adolescence. What I've tried to do with this work, and this
+    represents the last 25 years of my public life, and it will continue until the day I die, and that is that the answer
+    is the people. It's not your leaders. Don't trust your leaders.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 653
+    - 654
+    - 655
+    - 656
+    - 657
+    - 658
+    truncated: false
+- segment_id: 123
+  speaker_group: 8
+  timecode:
+    start: 01:10:53,080
+    end: 01:11:43,040
+  source_text: It's the people. There's only two venues for change. One is the government, wherein structurally the problem
+    exists, and the other is the people. The government won't, but the people can't because they give their power away. I'll
+    close on one quote which says it all, and that is very simple. It's a quote from 2,000 years ago. Marcus Cicero defined
+    freedom as participation in power. You will never, never see fundamental change in our society or global society until
+    the power can be relegated to the people directly. It's just that simple. I make that as a prediction.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 659
+    - 660
+    - 661
+    - 662
+    - 663
+    - 664
+    truncated: false
+- segment_id: 124
+  speaker_group: 8
+  timecode:
+    start: 01:11:43,040
+    end: 01:12:53,280
+  source_text: I've resigned myself that I'll keep working, but I won't see this in my lifetime. Won't see it in my lifetime,
+    but someday people are going to wake up and say, "Hey, what's so worrisome about empowering the people to be able to do
+    what?" When Cicero says freedom is power, is participation in power, what is the central power of all governments, whether
+    tyrannies or democracy or republics? It's the ability to make laws that stand outside of ourselves and that we're supposed
+    to obey them. At this point in time, only representatives make laws, and these representatives de facto are controlled
+    by these forces beyond our control because they control society. The answer is to find a way to empower people to be able
+    to make laws. Therefore, they will have the power to do away with the secrecy in government. Does it surprise you that
+    50% of the people don't even care about government?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 665
+    - 666
+    - 667
+    - 668
+    - 669
+    - 670
+    - 671
+    - 672
+    - 673
+    - 674
+    truncated: true
+- segment_id: 125
+  speaker_group: 8
+  timecode:
+    start: 01:12:53,280
+    end: 01:13:35,600
+  source_text: This is not Einstein's theory. Well, it is Einstein's theory. He said that to repeat over and over again something
+    that doesn't work is the definition of insanity. That's a great theory. We vote for Democrats, nothing really happens.
+    We vote for Republicans, nothing really happens. We go to Britain, we see one government, that government, nothing really
+    happens to advance the needs of the human race. You can only come to one conclusion that the answer is not with the elites.
+    They manipulate our elections. Mind you, I raise money from special sources to run for office, and I manipulate my constituency.
+    I do that.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 675
+    - 676
+    - 677
+    - 678
+    - 679
+    - 680
+    - 681
+    truncated: false
+- segment_id: 126
+  speaker_group: 8
+  timecode:
+    start: 01:13:35,600
+    end: 01:13:47,560
+  source_text: I'm sure any successful politician has done that, is to manipulate the constituency for your thinking. To think
+    that we in elective office want a turnout of voters, hell no.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 682
+    - 683
+    truncated: false
+- segment_id: 127
+  speaker_group: 8
+  timecode:
+    start: 01:13:47,560
+    end: 01:14:09,360
+  source_text: We want a turnout of our voters, not the general voters. The whole structure of representative government is
+    very deficient. Let me lead with this, that I have personally unreserved faith in the people. If you don't have faith
+    in the people, what do you have faith in?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 684
+    - 685
+    - 686
+    truncated: false
+- segment_id: 128
+  speaker_group: 8
+  timecode:
+    start: 01:14:09,360
+    end: 01:15:13,400
+  source_text: The leaders, and that's exactly where we're at today. If you want to see this issue of being able to maturely,
+    and I don't think we have close to the maturity to deal with the extraterrestrials. We're told, and I'll accept that,
+    that we have the scientific ability to send ET home. Well, it's being sequestered away from the people, and that's a tragedy
+    because there's a lot more out there that could benefit the human race, but we can't get our hands on it because we don't
+    have the structure of governance to be able to go at it. Let me close on it. If those of you that don't have this, you
+    can go to our website, National Citizens Initiative for Democracy. Hopefully, it won't succeed in my lifetime, but it
+    is my contribution and a legacy. Forget the Pentagon Papers, forget the nuclear critique, forget the end of the draft.
+    This is the contribution that I think is worthwhile, and I won't live
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 687
+    - 688
+    - 689
+    - 690
+    - 691
+    - 692
+    - 693
+    - 694
+    - 695
+    - 696
+    truncated: true
+- segment_id: 129
+  speaker_group: 8
+  timecode:
+    start: 01:15:13,400
+    end: 01:16:50,800
+  source_text: to see it. Thank you very much. If you will get in your car, and it'll be a little more spectacular in the
+    wintertime because the air is thinner and it holds less moisture, and if you will drive out of the city away from the
+    lights and away from the air pollution, and you drive up a mountain several thousand feet, you don't have to go very far
+    to do that. A hundred miles in West Virginia will do it, and on a cloudless winter night you look up into the sky. You
+    will just be astounded at the Milky Way. Wow, it looks like they took a whitewash brush across the sky. There are so darn
+    many stars there, more than a billion. And then when you recognize that our star is a pretty mediocre star in this galaxy
+    of the Milky Way, and then when you know that there are probably a billion other galaxies this size. You know, as a scientist,
+    there just has to be another sun out there,
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 697
+    - 698
+    - 699
+    - 700
+    - 701
+    - 702
+    - 703
+    - 704
+    - 705
+    - 706
+    truncated: true
+- segment_id: 130
+  speaker_group: 8
+  timecode:
+    start: 01:16:50,800
+    end: 01:17:55,800
+  source_text: another star, and another planet that has characteristics appropriate for the development of life. And I think
+    you have to be very arrogant and very presumptive to believe that we're the only civilization in the universe, and the
+    most advanced civilization. Wow, we're still killing each other in stupid wars, and not all that long ago, I'm Anglo-Saxon,
+    German, and my forebears were wearing skins in a stone age running around Europe. As I mentioned earlier when my chief
+    of staff, with whom I now work, said that I was invited to come here and warn me that you might be ridiculed for it, I
+    told her that I was going to come because of the constitutional issue for no other, which I mentioned. Because if your
+    government can rationalize that it's okay to deny you this hearing for your good, tomorrow they can be doing a lot of
+    things that are very hurtful to you, because in the grand
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 707
+    - 708
+    - 709
+    - 710
+    - 711
+    - 712
+    - 713
+    - 714
+    - 715
+    - 716
+    truncated: true
+- segment_id: 131
+  speaker_group: 8
+  timecode:
+    start: 01:17:55,800
+    end: 01:19:05,320
+  source_text: scheme of things, they will rationalize that it's for your good. Thank you very much, those of you who organized
+    this. I've really been privileged to be here. I'm honored that you invited me to come. And thank you to the witnesses.
+    And I think back through these five days and the witnesses have come, some of them at considerable personal price. And
+    a special thanks to those who have borne this secret for 40, 50 years, and now near their deathbed, come forward so that
+    we can know. I ask myself why this cloak of secrecy? Clearly there is a cloak of secrecy. And I ask myself why. My wife
+    says that I'm the eternal optimist. And I'd like to think the best of everybody until proven different. And so I want
+    to believe that those who made decisions were patriotic Americans, believing that at the time they made the decision which
+    was in the best interest of their country. This was just a few years
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 717
+    - 718
+    - 719
+    - 720
+    - 721
+    - 722
+    - 723
+    - 724
+    - 725
+    - 726
+    truncated: true
+- segment_id: 132
+  speaker_group: 8
+  timecode:
+    start: 01:19:05,320
+    end: 01:20:09,280
+  source_text: after the War of the Worlds thing where the East Coast was panicked when they thought we were being invaded
+    by extraterrestrials. And that was one concern that I think they must have had that was fairly recent in their memory.
+    Another concern would be, gee, there really is some advanced technology here, isn't there? And wouldn't it be tragic if
+    the Soviets had that rather than us or shared it with us? And so I think for these two reasons they could very well have
+    rationalized it. And that decision was made very early. Apparently it may have gone clear to the office of the president
+    because within a few hours after they issued that press release that said that a flying saucer had crashed, they came
+    with this ridiculous press release saying, gee, it was just a balloon. We goofed. But they did send what they found to
+    Wright Field and they did send a number of people out to vacuum
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 727
+    - 728
+    - 729
+    - 730
+    - 731
+    - 732
+    - 733
+    - 734
+    - 735
+    - 736
+    truncated: true
+- segment_id: 133
+  speaker_group: 8
+  timecode:
+    start: 01:20:09,280
+    end: 01:21:17,320
+  source_text: the area for several days. These three things alone tell me that the Air Force knows that they're not telling
+    us the truth. I hope that after 60-odd years of known incidents after the Soviet Union has gone that these two justifications
+    they recognized are no longer valid and that they might come and tell the American people there is something out there
+    that we can't explain. And we're sorry that for all these years that we rationalized that it was the national interest
+    of our country to keep this from you. I may be the eternal optimist but I'd like to thank the best of people. Again, thank
+    you so very much for putting this on. Thank you for honoring me to be a part of it. Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 737
+    - 738
+    - 739
+    - 740
+    - 741
+    - 742
+    - 743
+    - 744
+    truncated: false
+- segment_id: 134
+  speaker_group: 8
+  timecode:
+    start: 01:21:17,320
+    end: 01:22:48,420
+  source_text: I certainly want to thank everybody that's been involved in this whole operation this week and I just want
+    to say how grateful I am for being contacted and asked to participate and how glad I am that I accepted this opportunity
+    to be on this panel. But I want to focus my closing statement and keep it very short on the witnesses. I still can't believe
+    the quality of the witnesses that we've seen this week has been about 40, about 40. This is meant as a total compliment.
+    I can't, when I contemplated coming here to Washington for this, I certainly couldn't imagine that you could assemble
+    in one conference that number of people with that level of capability, competence, commitment, and intelligence. The witnesses
+    are far better than I think anyone of us had a right to expect when we accepted this. And maybe it's because I don't know
+    enough about ufology. And Congressman, there is five more behind every one of those
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 745
+    - 746
+    - 747
+    - 748
+    - 749
+    - 750
+    - 751
+    - 752
+    - 753
+    - 754
+    truncated: true
+- segment_id: 135
+  speaker_group: 8
+  timecode:
+    start: 01:22:48,420
+    end: 01:23:22,140
+  source_text: 40 that can come forward just as strong. I'm starting to have no doubt about that at all after hearing just
+    a small sampling of pilots and controllers and people on the ground that have seen things and witnessed things. And the
+    integrity and believability, honesty, and clear thought of each of these testimonies was something to behold. I have to
+    say that.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 755
+    - 756
+    - 757
+    - 758
+    truncated: false
+- segment_id: 136
+  speaker_group: 8
+  timecode:
+    start: 01:23:22,140
+    end: 01:24:36,100
+  source_text: I'm just very impressed on that. And I'm going to conclude the remarks by saying to all of the witnesses and
+    each and every one witness, if you're a researcher, you keep on researching and redouble those research efforts. If you're
+    someone in the media that's trying to understand this and help promote it, work harder at it. And if, I mean, you're doing
+    a good job, don't get me wrong, but I just want you to redouble this. Because, you know, if it's true, I've announced
+    before I even came here that I believe in extraterrestrial life. And that was from a religious standpoint. So I've been
+    focusing on scientific evidence of it. And let me just say this. I'm like, sorry the name slips through me, but the person
+    that used to be the minister of, or in the Ministry of Defense, Nick Pope. I'm like Nick Pope. I haven't come to a definite
+    scientific conclusion on that question. But I hope in the short lifetime I have left,
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 759
+    - 760
+    - 761
+    - 762
+    - 763
+    - 764
+    - 765
+    - 766
+    - 767
+    - 768
+    truncated: true
+- segment_id: 137
+  speaker_group: 8
+  timecode:
+    start: 01:24:36,100
+    end: 01:25:11,640
+  source_text: I can, based on science. And if you researchers will redouble the efforts and if anybody that can help fund
+    and resource this kind of effort can get committed and get going, because hey, I can tell you this must have cost some
+    real money, what you've done here. And that's a compliment to the fundraising skill that you obviously all have that have
+    been involved.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 769
+    - 770
+    - 771
+    - 772
+    truncated: false
+- segment_id: 138
+  speaker_group: 8
+  timecode:
+    start: 01:25:11,640
+    end: 01:25:22,980
+  source_text: So I'd just like to end with this final sentence. Keep working hard. Use this as just kind of a springboard
+    to redoubling your efforts. Thank you very much.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 773
+    - 774
+    truncated: false
+- segment_id: 139
+  speaker_group: 8
+  timecode:
+    start: 01:25:28,340
+    end: 01:26:14,500
+  source_text: Well, I want to thank my colleagues and thanks for putting this group of six together. It could not have been
+    better balanced. It was balanced politically. It was balanced gender-wise, absolutely. And it was balanced with our beliefs.
+    And it's so clear. People say we don't get along. We get along. And when you take the politics out of it, it makes it
+    a lot easier.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 775
+    - 776
+    - 777
+    - 778
+    truncated: false
+- segment_id: 140
+  speaker_group: 8
+  timecode:
+    start: 01:26:14,500
+    end: 01:27:14,420
+  source_text: And I will say what we say in the Congress when we want to save time, is that I echo our chairman's viewpoint
+    on the witnesses. He said it perfectly. The knowledge, the experience, and the integrity of this group of witnesses made
+    it such an important week for me and I know for many others. Actually, with this amazing group of witnesses that we heard,
+    and as we talked about this subject, it made it absolutely impossible for me to remain a skeptic. But I don't believe
+    that it's about -- I don't believe it's about belief.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 779
+    - 780
+    - 781
+    - 782
+    - 783
+    - 784
+    truncated: false
+- segment_id: 141
+  speaker_group: 8
+  timecode:
+    start: 01:27:14,420
+    end: 01:27:38,260
+  source_text: I believe this whole situation is about information. And the existence of UFOs and ETs is becoming accepted
+    worldwide. And the information we received was so important to support that and defend it. But it's time for our government,
+    the U.S. government, to come to the party.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 785
+    - 786
+    - 787
+    truncated: false
+- segment_id: 142
+  speaker_group: 8
+  timecode:
+    start: 01:27:38,260
+    end: 01:28:10,140
+  source_text: It's time for our government to declassify and disclose what they know. And it is time that they trust the
+    people of this country, that they can handle this information, whatever they think we can't handle, because they are dead
+    wrong and it's going to get in the way of the get-along of this nation we live in. So we're not living in a flat-earth
+    society.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 788
+    - 789
+    - 790
+    - 791
+    truncated: false
+- segment_id: 143
+  speaker_group: 8
+  timecode:
+    start: 01:28:10,140
+    end: 01:28:31,020
+  source_text: We know it, and it's time that our government realizes it, as well, and that they make it possible for us to
+    go forward. Because if they don't, I agree that the general public will. And I thank you again for making this all possible.
+    Thank you.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 792
+    - 793
+    - 794
+    truncated: false
+- segment_id: 144
+  speaker_group: 8
+  timecode:
+    start: 01:28:31,020
+    end: 01:29:18,500
+  source_text: Absolutely blessed to have been given the opportunity to fill Congresswoman Hooley's seat when she left earlier
+    today. I'd like to echo what Congressman Cook said about the heroic actions of the witnesses who came here this week.
+    And what Congressman Bartlett said about those brilliant stars under that winter night in West Virginia. But what I'm
+    here to suggest is that we have stars who've shone just as brightly this week and other human beings who are here who
+    were just as heroic. And I'd like to share a little bit about that.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 795
+    - 796
+    - 797
+    - 798
+    - 799
+    - 800
+    truncated: false
+- segment_id: 145
+  speaker_group: 8
+  timecode:
+    start: 01:29:18,500
+    end: 01:29:27,940
+  source_text: I shared my gratitude for Congressman Kilpatrick, who was the first to say, "Yeah, I'll do it."
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 801
+    truncated: false
+- segment_id: 146
+  speaker_group: 8
+  timecode:
+    start: 01:29:27,940
+    end: 01:30:00,180
+  source_text: But there's other stories around that I'd like to share that I'd like everyone in the room to be aware of as
+    well. Just before I do that, though, I'd also like to make a call-out to those watching this on the Internet stream, or
+    those who might be in the room, or those who might see it in the weeks, months, years to come, who have the opportunity
+    to be heroic, who do know about this, who have evidence, who could testify, who live perhaps in fear.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 802
+    - 803
+    - 804
+    - 805
+    - 806
+    truncated: false
+- segment_id: 147
+  speaker_group: 8
+  timecode:
+    start: 01:30:00,180
+    end: 01:31:11,420
+  source_text: And my call-out to you is to do what these six members of Congress have done, which is to be heroic, to stand
+    up and recognize an allegiance, if not to the Constitution, then to your fellow men on this planet, men and women on the
+    planet, to share what you know to be true about this issue. Congressman Bartlett has been commuting two and a half hours
+    every morning to be here, two and a half hours back to his farm in Virginia. He's 86 years old. [applause] Sir, you're
+    a hero to me. Your commitment to our Constitution and the principles of liberty that it embodies, and yes, Senator Gravel's
+    right, it never embodied them perfectly, but it was a huge advance in the history of humanity on this planet to grant
+    liberty to the people, to see the government not as the giver of rights, but as of rights being self-evident and inalienable,
+    inalienable for each individual.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 807
+    - 808
+    - 809
+    - 810
+    - 811
+    - 812
+    - 813
+    - 814
+    - 815
+    - 816
+    truncated: true
+- segment_id: 148
+  speaker_group: 8
+  timecode:
+    start: 01:31:11,420
+    end: 01:31:38,220
+  source_text: Your commitment to that is heroic. Congressman Woolsey, who's sitting next to me right now, authored legislation
+    to protect whistleblowers that this government, this Congress, refused to pass. And we've been, if you haven't noticed,
+    attacking whistleblowers for at least the last 12 years at an ever-increasing rate. It's unconstitutional. It's anti-liberty.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 817
+    - 818
+    - 819
+    - 820
+    truncated: false
+- segment_id: 149
+  speaker_group: 8
+  timecode:
+    start: 01:31:38,220
+    end: 01:32:47,820
+  source_text: It's criminal. And she and I have partnered on bringing greater freedom to other social organizations and inclusiveness
+    in other battles not related to this issue. I mentioned Carolyn being first earlier, and I want to say how great a gift
+    that was to all of us putting this together. Again, somebody had to be first. Senator Gravel, when I called him, said,
+    "Do you mind if I quote you on this and share a private phone call for a bit, Senator, in the world of full disclosure?"
+    He said, "How much money are you offering again? God damn it, I usually do these things for free, and this is the first
+    time I can't go. My wife and I just made plans to be on a cruise on the Danube at that time, and he changed his vacation
+    plans to be here." Canceled his vacation. Very few people in this room know, but just this past Sunday, Congresswoman
+    Hooley was in the hotel, the Washington Plaza sobbing
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 821
+    - 822
+    - 823
+    - 824
+    - 825
+    - 826
+    - 827
+    - 828
+    - 829
+    - 830
+    truncated: true
+- segment_id: 150
+  speaker_group: 8
+  timecode:
+    start: 01:32:47,820
+    end: 01:33:42,380
+  source_text: because she had just learned her sister had died a couple of days earlier in California, and she'd had the
+    opportunity to say goodbye to her sister, but she was devastated, and she came here anyway. That's a hero to all of us.
+    Then one more, and I'll conclude, but I think it's fair to say as a fairly hardcore libertarian, I've had a seething contempt
+    for most of Congress, for most of my life. I'm currently serving as the chair of the National Libertarian Party's platform
+    committee, and thinking about these issues of how do we save what was once the land of the free and the home of the brave,
+    and has become the land of the bailed out and the home of the terrorized by the tyranny of its government.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 831
+    - 832
+    - 833
+    - 834
+    - 835
+    - 836
+    - 837
+    - 838
+    truncated: false
+- segment_id: 151
+  speaker_group: 8
+  timecode:
+    start: 01:33:42,380
+    end: 01:33:51,340
+  source_text: And I've fallen in love with Congress this week. You all have been learning about UFOs.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 839
+    truncated: false
+- segment_id: 152
+  speaker_group: 8
+  timecode:
+    start: 01:33:51,340
+    end: 01:34:24,300
+  source_text: I've been learning about the great character of the men and women who actually do serve this nation, and if
+    you're representatives of what's still there, even a portion of it, all hope is not lost. Merrill Cook invited me to come
+    down and brief him. He lives about a half hour from my home in Park City, and when I got there I discovered that he's
+    the full-time caretaker for the love of his life, Camille, and he has every door of his house locked from the inside out
+    so that she doesn't wander off. She's suffering from Alzheimer's.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 840
+    - 841
+    - 842
+    - 843
+    - 844
+    - 845
+    truncated: false
+- segment_id: 153
+  speaker_group: 8
+  timecode:
+    start: 01:34:24,300
+    end: 01:35:06,020
+  source_text: And his one concern before he agreed to be here was, "If I come, would it be possible for my wife to be in
+    the audience where I could see her so that I know she's okay, because I'll never put her in an institution? She's the
+    love of my life, but I need to have her in a seat where I can see her with someone sitting next to her so I can focus
+    on the testimony. And sir, if I could love my wife half as much as I've seen you as an example of love to yours, I'll
+    be okay." You, sir, are a hero as well.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 846
+    - 847
+    - 848
+    - 849
+    - 850
+    - 851
+    truncated: false
+- segment_id: 154
+  speaker_group: 8
+  timecode:
+    start: 01:35:06,020
+    end: 01:36:26,480
+  source_text: First of all, I would like to thank the panel. You'll be interested to know that I had considerable empathy
+    with you to see all of that information being thrown at you so fast, and on a subject which was completely foreign to
+    you. And you did a remarkable job of accepting it, adjusting it and being, in effect, transformed by it. And how I wish
+    that more people would be in that position so that we could really get the word out and get the kind of action that we
+    dream of. But as the Senator says, it may be just a dream, but I hope not, because time is running out. So thank you very
+    much, every one of you. You are great, and we appreciate what you have done. And just hope, Mr. Chairman, that you too
+    all redouble your effort when you go out to try and influence people to expose themselves to this kind of information
+    so that they too may understand. And the witnesses, I must say, I agree with everything that's
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 852
+    - 853
+    - 854
+    - 855
+    - 856
+    - 857
+    - 858
+    - 859
+    - 860
+    - 861
+    truncated: true
+- segment_id: 155
+  speaker_group: 8
+  timecode:
+    start: 01:36:26,480
+    end: 01:36:33,380
+  source_text: been said about them. I have never seen anything like it in my life. Just absolutely transfixed.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 862
+    truncated: false
+- segment_id: 156
+  speaker_group: 8
+  timecode:
+    start: 01:36:33,380
+    end: 01:37:52,540
+  source_text: I've seen more heroes in five days than I've seen ever before in my life, except perhaps on VE Day or something.
+    But just wonderful people who are willing to stick their necks out because they are deeply, deeply committed in the search
+    of truth. And that's what we've got to do. I hesitate to mention names because every single one of them should be singled
+    up. I was particularly thankful this morning to both Richard and Linda that they got us into some of the things that we
+    hadn't been in before. And I will never forget Colonel French admitting that his job was to invent the excuses for the
+    UFOs and that he designated a lot of them as swamp gas. We all knew that the swamp gas and the plasma and the balloons
+    and all this sort of stuff was you know what. But to have him say so was -- but he said something else that I think that
+    is even more memorable to me. And that is never put weapons
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 863
+    - 864
+    - 865
+    - 866
+    - 867
+    - 868
+    - 869
+    - 870
+    - 871
+    - 872
+    truncated: true
+- segment_id: 157
+  speaker_group: 8
+  timecode:
+    start: 01:37:52,540
+    end: 01:38:49,180
+  source_text: in space. We adhere to the space treaty. Google the space treaty and listen to Carol Ross and on the reasons
+    why we should have a common access to the space, everybody. And not try to see if we can outwit other people in being
+    the first to spend a lot of money putting weapons in space. And I feel very strongly on that. It's an issue which I have
+    been involved in for a long while and which I will continue to support. And final word is Bob Sallis I also remember because
+    he summed up the situation in one classic sentence. It's power and greed.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 873
+    - 874
+    - 875
+    - 876
+    - 877
+    - 878
+    truncated: false
+- segment_id: 158
+  speaker_group: 8
+  timecode:
+    start: 01:38:49,180
+    end: 01:39:01,260
+  source_text: It's not national security. That's what I believe.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 879
+    truncated: false
+- segment_id: 159
+  speaker_group: 8
+  timecode:
+    start: 01:39:01,260
+    end: 01:39:07,060
+  source_text: And Paul mentioned heroes. Let me introduce one now. Jesse, do you have a few words to say before we leave?
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 880
+    - 881
+    truncated: false
+- segment_id: 160
+  speaker_group: 8
+  timecode:
+    start: 01:39:07,060
+    end: 01:39:21,060
+  source_text: Well, I have a few words. I'll keep these remarks short because everything has already been said really. But
+    I do want to express my appreciation and honor in presenting my story to this panel.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 882
+    - 883
+    - 884
+    truncated: false
+- segment_id: 161
+  speaker_group: 8
+  timecode:
+    start: 01:39:21,060
+    end: 01:39:33,540
+  source_text: Since 1947, I have known that we're not alone in this universe. Because based on the material I saw that my
+    dad brought in from the desert, I realized this is not a human manufacture.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 885
+    - 886
+    truncated: false
+- segment_id: 162
+  speaker_group: 8
+  timecode:
+    start: 01:39:33,540
+    end: 01:40:16,420
+  source_text: So if we didn't make it, it means somebody else did. And when you look out at the night stars, night sky there
+    in New Mexico, you realize this beautiful place that we live in is called the universe, or our galaxy. As a matter of
+    fact, there's 10 of the 22nd power stars in the known galaxy, which equates the number of grains of sand on the beaches
+    of the earth. And to say that only one grain of sand out of that multitude has sentient life like us around it is just
+    begging the question there. Because someone once said very truthfully that if we're the only ones here, there's an awful
+    lot of wasted space out there.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 887
+    - 888
+    - 889
+    - 890
+    - 891
+    - 892
+    - 893
+    - 894
+    truncated: false
+- segment_id: 163
+  speaker_group: 8
+  timecode:
+    start: 01:40:16,420
+    end: 01:40:53,740
+  source_text: So anyway, I started thinking about this. People ask me, "How does this affect my religion, my belief in God?"
+    Well, I believe in the intelligent design. Because if in the very beginning at the Big Bang, when things were created,
+    if the parameters were changed just ever so slightly, like the rate of expansion of the universe, or the charge on the
+    proton, or the electron, or the masses thereof, had that been off by 1 trillion from what it turned out to be, we wouldn't
+    be here, nor would our cousins from outer space be here too.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 895
+    - 896
+    - 897
+    - 898
+    - 899
+    - 900
+    truncated: false
+- segment_id: 164
+  speaker_group: 8
+  timecode:
+    start: 01:40:53,740
+    end: 01:41:04,580
+  source_text: And I, you know, I'll give you my philosophy. I think we're all related. People of earth, people of star status,
+    you know, wherever they come from, we're all related to them.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 901
+    - 902
+    truncated: false
+- segment_id: 165
+  speaker_group: 8
+  timecode:
+    start: 01:41:04,580
+    end: 01:41:34,780
+  source_text: Because in the very beginning when the Big Bang occurred, there's something called quantum entanglement that
+    occurred. And Einstein calls this spooky action at a distance, but that means that all particles created in the Big Bang
+    are related to each other. One example is where they would take two matched particles, send one of them, could be light
+    years away, but you'd make one change and one, the other one changes correspondingly instantly. Like there's faster than
+    light communication.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 903
+    - 904
+    - 905
+    - 906
+    - 907
+    - 908
+    truncated: false
+- segment_id: 166
+  speaker_group: 8
+  timecode:
+    start: 01:41:34,780
+    end: 01:41:41,060
+  source_text: So again, we're all related, we're in this universe, and we have a lot of cousins out there.
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 909
+    - 910
+    truncated: false
+- segment_id: 167
+  speaker_group: 8
+  timecode:
+    start: 01:41:41,060
+    end: 01:42:06,060
+  source_text: '[Applause]'
+  translation:
+    text: null
+    status: pending
+    confidence: null
+    notes: null
+  metadata:
+    topic_id: null
+    speaker_hint: null
+    source_entries:
+    - 911
+    truncated: false
