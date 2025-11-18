@@ -241,676 +241,676 @@
 → {"text": "謝謝。希恩先生，你能簡要地說明神學上的含義嗎？", "confidence": "high", "notes": ""}
 
 289. Yeah. Coming to grips with the full import of the theological reality is what undergirds all of this, is that for each of us to recognize that we are incarnated in a material form, but that there are other vibrational frequencies at which there are other dimensions of reality going on at the same time, our theology is the realm in which we deal with it. It's a category of knowledge in the human family in which we deal with other dimensions of reality. What happens after death? How did we get here? What are we doing here? What's our ultimate purpose? These are things that are raised by the UFO issue and that's why I reiterate that it's theology, it's in the realm of theology that we have to come to address this. When we do, what we're going to discover is that we're going to draw down into our culture a lot of those same realities that, for example, the Native American culture
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。真正理解神學現實的全部意義是支撐這一切的基礎，也就是我們每個人都要認識到，我們是以物質形式化身的，但在其他振動頻率上，同時還有其他維度的現實在進行，而神學就是我們處理這些問題的領域。這是人類知識中我們用來處理其他現實維度的一個類別。死後會發生什麼？我們如何來到這裡？我們在這裡做什麼？我們的終極目的是什麼？這些都是不明飛行物議題所引發的問題，這就是為什麼我要重申，這是神學問題，我們必須在神學領域來解決這個問題。當我們這樣做時，我們會發現我們將把那些現實引入我們的文化中，例如美洲原住民文化所具有的那些現實。", "confidence": "high", "notes": ""}
 
 290. and some of the aboriginal cultures understand that they are in a dynamic relationship with other dimensions, other vibrational frequencies. Our culture has closed itself off from that from the time of the enlightenment in trying to define ourselves as separated, individuated intellectual beings and that we're not in a harmonious, imbalanced relationship with the rest of reality. The consequences, of course, are falling upon us now because of the global climate change that we're experiencing, the contamination of our environment by ourselves.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "以及一些原住民文化所理解的，他們與其他維度、其他振動頻率處於動態關係之中。我們的文化自啟蒙時代以來就將自己與這些隔絕，試圖將自己定義為分離的、個體化的智性存在，而不是與其他現實處於和諧、平衡的關係中。當然，這些後果現在正降臨到我們身上，因為我們正經歷全球氣候變化，我們自己造成的環境污染。", "confidence": "high", "notes": ""}
 
 291. This is the crisis. I think one of the crises that's going to confront us and that my sense is that we're going to become much more, if we probe into the theology of all of this, we're going to come to have a much more profound appreciation for the Native American culture and the theology of the Native American culture and the faculty of intuitional perception that our human family has, which is a faculty that's evolving teleologically in our culture.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是危機。我認為這是將要面對我們的危機之一，我的感覺是，如果我們深入探討這一切的神學意義，我們將會對美洲原住民文化、美洲原住民文化的神學，以及我們人類所擁有的直覺感知能力有更深刻的理解，這是一種在我們文化中正在目的論式演化的能力。", "confidence": "high", "notes": ""}
 
 292. This is what Teilhard de Chardin has dealt with it within the Jesuits. It's the cutting edge of modern theology and the insights that we've gained now through quantum physics since 1923 to 1926. We have to integrate into our scientific worldview the insights of quantum physics and we have to begin to readjust our basic worldview, as I pointed out before, to evolve a new worldview that integrates these capabilities.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是德日進在耶穌會內部所處理的問題。這是現代神學的最前沿，以及我們自 1923 年到 1926 年以來透過量子物理學獲得的洞見。我們必須將量子物理學的洞見整合到我們的科學世界觀中，並且必須開始重新調整我們的基本世界觀，正如我之前指出的，演化出一個整合這些能力的新世界觀。", "confidence": "high", "notes": ""}
 
 293. Thank you very much. I yield back the balance of my time.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。我放棄剩餘時間。", "confidence": "high", "notes": ""}
 
 294. Congressman Cook.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "庫克眾議員。", "confidence": "high", "notes": ""}
 
 295. I would like to start by asking Colonel French, you were involved in the initiations of the Blue Book processes. Could you elaborate a little more on what you found out from that and especially, so I have a better understanding of how that got stopped or discarded or what exactly happened on the Blue Book and how long did that go on? I just need a better understanding.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想先請教法蘭奇中校，您參與了藍皮書計畫的啟動過程。您能否詳細說明一下您從中發現了什麼，特別是讓我更了解它是如何被停止或廢棄的，或者藍皮書計畫到底發生了什麼，持續了多久？我只是需要更好的理解。", "confidence": "high", "notes": ""}
 
 296. I'd like to start with a curve if you don't mind too much, but they ask about what happened to the results of the accident at Alamogordo. All of that was taken to what is called the Foreign Technology Division at Wright-Patterson Air Force Base. What was shipped, there was physical debris, actually parts of some kind of airplane. Another unusual aspect of it was though the metal wasn't any thicker than cellophane, but you put it in your hand and you crush it together and it flops right back into shape. Had it analyzed, it didn't come from Earth. There's no known, we have no known source of whatever that metal was.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果你不太介意的話，我想先偏個題，他們問到阿拉莫戈多事故的結果發生了什麼。所有那些都被送到萊特-帕特森空軍基地所謂的外國技術部門。運送過去的是實體殘骸，實際上是某種飛行器的零件。另一個不尋常的方面是，儘管金屬不比玻璃紙厚，但你把它放在手中，把它壓在一起，它會立即彈回原來的形狀。經過分析，它不是來自地球。我們沒有已知的、我們對那種金屬的來源一無所知。", "confidence": "high", "notes": ""}
 
 297. You had that in your hands?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您親手拿過那個？", "confidence": "high", "notes": ""}
 
 298. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 299. You've actually held some of that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您真的拿過一些那種東西？", "confidence": "high", "notes": ""}
 
 300. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 301. So has Marcel. Jesse Marcel did the same thing.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "馬塞爾也是。傑西·馬塞爾也做了同樣的事。", "confidence": "high", "notes": ""}
 
 302. I understand from the Roswell basically what's generally called the Roswell incident. I realize there were several different locations of materials gathered up. There were dozens and dozens of witnesses on the materials and you're clearly one of them. At least in terms of the analysis of the materials, not necessarily gathering them up. Tell us about were there witnesses of any, has been referred to as humanoid, because you don't hear nearly as much about that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我從羅斯威爾事件了解到，基本上就是通常所說的羅斯威爾事件。我知道有幾個不同地點收集了材料。對材料有數十名證人，而您顯然是其中之一。至少在材料分析方面，不一定是收集它們的人。請告訴我們，有沒有任何證人看到所謂的類人生物，因為你很少聽到這方面的消息。", "confidence": "high", "notes": ""}
 
 303. They also were taken to the foreign technology division. There were, if I remember, about eight or nine corpses.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它們也被送到外國技術部門。如果我沒記錯的話，大約有八或九具屍體。", "confidence": "high", "notes": ""}
 
 304. I'm more interested right now in the witnesses to that. I've read the accounts, but there were many witnesses of material.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我現在更感興趣的是這方面的證人。我讀過相關記錄，但有很多材料的證人。", "confidence": "high", "notes": ""}
 
 305. I can't point you to anyone that can add to that except Marcel, because he was the first one to pick it up. Went out to the crash, policed up the pieces of the airplane and there were specific markings on them, like they were identification numbers for parts or something of that nature. But it looked rather like Arabic writing. It didn't look like anything from our neck of the woods.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "除了馬塞爾，我無法為您指出任何能補充這一點的人，因為他是第一個拿起它的人。去了墜毀地點，收集了飛行器的碎片，上面有特定的標記，就像零件的識別編號或類似性質的東西。但它看起來相當像阿拉伯文字。它看起來不像來自我們這一帶的任何東西。", "confidence": "high", "notes": ""}
 
 306. Did Marcel indicate that he had actually witnessed the humanoid part? I know he witnessed the answer over here. Well, and please, if anybody can illuminate.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "馬塞爾有沒有表示他實際上目睹了類人生物部分？我知道他目睹了這裡的答案。好吧，請，如果有人能說明。", "confidence": "medium", "notes": "句子結構不完整，可能是對話中斷或轉折"}
 
 307. First of all, there are quite many, many witnesses, of course, who've gone on the record about Roswell. Unfortunately, we'll have a Roswell panel here during the meeting, and there are a number of researchers who have specialized in that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "首先，當然有很多很多證人對羅斯威爾事件做了記錄。幸運的是，我們在會議期間將有一個羅斯威爾專題小組，有許多專門研究這方面的研究人員。", "confidence": "high", "notes": ""}
 
 308. My question started off as the blue book.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的問題一開始是關於藍皮書。", "confidence": "high", "notes": ""}
 
 309. Blue book was the US Air Force official public investigative body of UFOs from 1940. Actually, he was a successor of a couple of previous ones, started in 1952, went up to 1969 when it was closed down.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "藍皮書是美國空軍從 1940 年起正式公開調查不明飛行物的機構。實際上，它是前幾個機構的後繼者，始於 1952 年，一直持續到 1969 年被關閉。", "confidence": "medium", "notes": "1940年可能是轉錄錯誤，藍皮書計畫實際開始於1952年"}
 
 310. Okay, but it did include some of the Roswell stuff. It included nothing in Roswell, the blue book.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，但它確實包含了一些羅斯威爾的東西。它沒有包含羅斯威爾的任何東西，藍皮書。", "confidence": "medium", "notes": "對話中有糾正，第一句是問題，第二句是糾正答案"}
 
 311. No, there's nothing on Roswell.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不，沒有關於羅斯威爾的任何東西。", "confidence": "high", "notes": ""}
 
 312. Okay, so that was, okay, well, I just, I asked about the blue book, and what did you say it was closed down, and what was the reason for that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，那麼，好吧，我只是，我問了關於藍皮書的問題，你說它被關閉了，原因是什麼？", "confidence": "high", "notes": ""}
 
 313. The end of 1969. Well, what happened in the 1960s is that the United States had a big, big wave of UFO sightings, 1965, '66, made the news. Gerald Ford, congressman in Michigan, talked about it on the floor of Congress. His constituents had seen UFOs, and he was not satisfied with the answers that were coming from the Air Force, and the pressure was really on the United States Air Force to do something about this. It's hard to remember because it's so far back in time, but the Air Force was losing a lot of credibility on this. A lot of people were not believing the Air Force explanations, and swamp gas became a big national joke at that time, and so really all the Air Force wanted to do was just get rid of UFOs, and so what they ended up doing was they contracted with the University of Colorado to conduct what was to be the first true public scientific investigation of UFOs, and the whole attitude
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "1969 年底。嗯，1960 年代發生的事情是美國出現了一波非常非常大的不明飛行物目擊潮，1965 年、66 年，都上了新聞。密西根州眾議員傑拉爾德·福特在國會議場談論此事。他的選民看到了不明飛行物，他對空軍給出的答案不滿意，美國空軍真的承受著要對此採取行動的壓力。這很難記住，因為那是很久以前的事了，但空軍在這方面失去了很多可信度。很多人不相信空軍的解釋，沼氣在當時成為全國性的大笑話，所以空軍真正想做的就是擺脫不明飛行物，所以他們最終做的是與科羅拉多大學簽約，進行第一次真正的公開科學調查不明飛行物，整個態度是。", "confidence": "high", "notes": ""}
 
 314. was whatever Colorado comes up with, that's what we're going to conclude, and what that study did, that was a whole big mess, and half the scientists got fired midway through the project because they were believers. The man running it, Edward Condon, was absolutely dead set against any kind of pro-UFO, pro-ET. So based on that recommendation, the Air Force was able to wash their hands, say thank you very much, and they said we're out of the business, we're not doing this anymore.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "無論科羅拉多大學得出什麼結論，那就是我們要得出的結論，而那項研究所做的，那是一團糟，一半的科學家在計畫中途被解僱，因為他們是信徒。負責這項研究的人，愛德華·康登，絕對堅決反對任何支持不明飛行物、支持外星人的立場。因此，基於那項建議，空軍能夠洗手不幹，說非常感謝，他們說我們退出這個業務，我們不再做這件事了。", "confidence": "high", "notes": ""}
 
 315. And there's no way to retrieve any of the, I just got to make sure I understand this, and I appreciate it, because you've illuminated this greatly for me, but is there any way to find out exactly what was in the Blue Book at this point then? I'm looking for-- Yes, yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且沒有辦法取回任何，我只是要確保我理解這一點，我很感激，因為你為我大大闡明了這一點，但現在有沒有辦法準確找出藍皮書中有什麼？我在尋找——是的，是的。", "confidence": "high", "notes": ""}
 
 316. Well, the Blue Book files are-- They're still there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，藍皮書檔案是——它們還在那裡。", "confidence": "high", "notes": ""}
 
 317. You're saying they're absolutely being covered up?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你是說它們絕對被掩蓋了？", "confidence": "high", "notes": ""}
 
 318. No, no, the Blue Book files are-- Oh, we can still read those. Okay, well I was confused on that issue.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不，不，藍皮書檔案是——哦，我們仍然可以閱讀那些。好的，嗯，我在這個問題上感到困惑。", "confidence": "high", "notes": ""}
 
 319. The problem is-- Classified sections.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "問題是——機密部分。", "confidence": "high", "notes": ""}
 
 320. Yeah, and the problem is the Roswell stuff is not in the Blue Book files.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，而且問題是羅斯威爾的東西不在藍皮書檔案中。", "confidence": "high", "notes": ""}
 
 321. Okay, now I've got a better understanding of all that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，現在我對這一切有了更好的理解。", "confidence": "high", "notes": ""}
 
 322. And in the prior panel, Stanton Friedman referred to a memo by General Carroll Bolender in which he stated, in closing Blue Book down in 1969, that UFO reports affecting national security were not part of the Blue Book system, so Blue Book-- I do remember him saying that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在之前的小組中，斯坦頓·弗里德曼提到了卡羅爾·博倫德將軍的一份備忘錄，其中他在 1969 年關閉藍皮書計畫時表示，影響國家安全的不明飛行物報告不屬於藍皮書系統的一部分，所以藍皮書——我確實記得他這麼說。", "confidence": "high", "notes": ""}
 
 323. If I could turn to Mr. Huneeus and to Mr. Sheehan, religion has been brought up and implied in terms of this whole thing several ways, and now you're not trying to say that just because Pat Robertson has a particular view or because popes in the past have said things that clearly don't agree with what you're saying as a Jesuit, that religion is somehow against the idea of extraterrestrial life?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果我可以轉向胡尼烏斯先生和希恩先生，宗教以多種方式在這整件事中被提出和暗示，現在你們不是想說，僅僅因為帕特·羅伯遜有特定觀點，或者因為過去的教宗說過明顯與你作為耶穌會士所說的不一致的話，宗教就在某種程度上反對外星生命的想法？", "confidence": "high", "notes": ""}
 
 324. No, in fact, it's quite the contrary, that, remember, religion, religiro, the Latin derivative of religiro is to relink.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不，事實上恰恰相反，記住，宗教，religiro，religiro 的拉丁語衍生詞是重新連結。", "confidence": "high", "notes": ""}
 
 325. The whole idea of relinking the intellect, intellectus, the root of intellect is intellectus, the ability to distinguish the difference between.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "重新連結智性的整個想法，intellectus，智性的詞根是 intellectus，區分之間差異的能力。", "confidence": "high", "notes": ""}
 
 326. The whole ability that we develop somewhere between osteopithecus and homo erectus, this intellectual capacity, we alienated ourselves in a separate entity here behind our eyeballs from all the rest of reality.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們在南方古猿與直立人之間某個階段發展出來的整個能力，這種智性能力，使我們在眼球後面將自己異化為與所有其他現實分離的獨立實體。", "confidence": "high", "notes": ""}
 
 327. Sure.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當然。", "confidence": "high", "notes": ""}
 
 328. That's the danger.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是危險。", "confidence": "high", "notes": ""}
 
 329. OK.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 330. But I'm going to adjust this a little bit.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我要稍微調整一下這個說法。", "confidence": "high", "notes": ""}
 
 331. Was there an implication that it's more of the-- well, let me just say this.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是否暗示這更多是——好吧，讓我這樣說。", "confidence": "high", "notes": ""}
 
 332. Going to Christian religions in specific, you think there's some bias against the belief in extraterrestrial?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "具體來說，針對基督教宗教，你認為存在對外星生命信仰的某種偏見嗎？", "confidence": "high", "notes": ""}
 
 333. Because you were talking about maybe we're going to have to accept this from a different religious perspective or something.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "因為你在談論也許我們必須從不同的宗教觀點或類似角度來接受這件事。", "confidence": "high", "notes": ""}
 
 334. I think that within one of the features, the unique features of Catholic Christiology, for example, is each of the world views that I'd pointed out that have political implications, there are subsets of Catholic and Christian theology in all of those.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我認為，例如在天主教基督論的獨特特徵之一中，我指出的每一種具有政治意涵的世界觀，在所有這些世界觀中都有天主教和基督教神學的子集。", "confidence": "high", "notes": ""}
 
 335. So there's a reactionary world view that is fundamentalist, that everything is divided into good guys and bad guys, and there's Satan in angelic realms, and they've projected this satanic reality that they have onto extraterrestrials, which is very, very dangerous.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以有一種反動的世界觀，是基本教義派的，將一切都劃分為好人和壞人，在天使領域中有撒旦，他們將這種撒旦現實投射到外星人身上，這是非常非常危險的。", "confidence": "high", "notes": ""}
 
 336. Well, I'm not in any way here to do missionary work for my particular religious faith or certainly to speak for my religious faith.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我在這裡絕不是為了為我的特定宗教信仰做傳教工作，或者當然也不是為我的宗教信仰代言。", "confidence": "high", "notes": ""}
 
 337. I'm a Mormon, but on a fundamental level, many Mormons believe it's consistent with the doctrines of the church that there is life outside the church.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我是摩門教徒，但在基本層面上，許多摩門教徒相信，相信教會之外存在生命與教會教義是一致的。", "confidence": "medium", "notes": "此處doctrines應為教義，topics.json標註為潛在轉錄錯誤"}
 
 338. It's an official doctrine of the Church of the Latter-day Saints, the actual belief in extraterrestrial intelligence.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是耶穌基督後期聖徒教會的官方教義，對外星智慧的實際信仰。", "confidence": "high", "notes": ""}
 
 339. Well, and I wanted to make that point clear.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我想把這一點說清楚。", "confidence": "high", "notes": ""}
 
 340. Again, I'm not here for that to preach or anything like that, but I'm also ... I think, and I think most Mormons believe as I do on that, would still say that's still a leap to say that we've had the visitation, and there's nothing in the religious sense that would prohibit that, but we need as strong an evidence as we can to help this panel open up some congressional hearings, and by the way, I'm not giving up on the United States Congress yet.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "再次強調，我不是來傳教或類似的事情，但我也……我認為，而且我認為大多數摩門教徒和我一樣相信這一點，仍然會說，說我們曾被造訪過仍然是一個飛躍，在宗教意義上沒有什麼會禁止這一點，但我們需要盡可能強有力的證據來幫助這個小組召開一些國會聽證會，順便說一句，我還沒有放棄美國國會。", "confidence": "high", "notes": ""}
 
 341. I don't think we have to go to the United Nations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不認為我們必須訴諸聯合國。", "confidence": "high", "notes": ""}
 
 342. Maybe that might be a way, but let's also try to open this up at the United States Congress level.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "也許那可能是一種方式，但我們也試著在美國國會層級打開這件事。", "confidence": "high", "notes": ""}
 
 343. I agree.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我同意。", "confidence": "high", "notes": ""}
 
 344. The Catholic position on all this.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "天主教對這一切的立場。", "confidence": "high", "notes": ""}
 
 345. My grandmother's a Catholic.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的祖母是天主教徒。", "confidence": "high", "notes": ""}
 
 346. That's all I have to do with the Catholic Church.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是我與天主教會的全部關係。", "confidence": "high", "notes": ""}
 
 347. However, it's very important, one thing that the Catholic Church has done, and believe it or not, they commissioned the building of a wide-angle lens to search the skies for inbound UFOs.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然而，非常重要的是，天主教會做的一件事，信不信由你，他們委託建造了一個廣角鏡頭來搜索天空尋找進入的不明飛行物。", "confidence": "high", "notes": ""}
 
 348. It's in Tucson, Arizona, believe it or not.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "信不信由你，它在亞利桑那州圖森市。", "confidence": "high", "notes": ""}
 
 349. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的。", "confidence": "high", "notes": ""}
 
 350. Well, thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，謝謝。", "confidence": "high", "notes": ""}
 
 351. Thank you very much, Congresswoman Hooley.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝，胡利女眾議員。", "confidence": "high", "notes": ""}
 
 352. What kind of, I mean, the reaction over the last 30, 40 years in the United States, what's the reaction, and what has happened in the rest of the world?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "什麼樣的，我是說，過去 30、40 年美國的反應，反應是什麼，世界其他地方發生了什麼？", "confidence": "high", "notes": ""}
 
 353. What's going on?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "發生了什麼事？", "confidence": "high", "notes": ""}
 
 354. Have there been sightings?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有目擊事件嗎？", "confidence": "high", "notes": ""}
 
 355. Do they feel differently about it than we, you know, a lot of people feel about it here?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們的感受是否與我們不同，你知道，很多人在這裡的感受？", "confidence": "high", "notes": ""}
 
 356. What's happening elsewhere?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "其他地方發生了什麼？", "confidence": "high", "notes": ""}
 
 357. Well, as I said in my statement, the one thing that I think even skeptics would have to agree is that the UFO phenomenon is worldwide.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，正如我在陳述中所說，我認為即使是懷疑論者也必須同意的一件事是，不明飛行物現象是全球性的。", "confidence": "high", "notes": ""}
 
 358. It doesn't matter.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這無關緊要。", "confidence": "high", "notes": ""}
 
 359. I mean, it doesn't matter the religion.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我是說，宗教無關緊要。", "confidence": "high", "notes": ""}
 
 360. It doesn't matter the ethnic origin, the language, the culture.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "種族起源、語言、文化都無關緊要。", "confidence": "high", "notes": ""}
 
 361. It has been reported all over the world.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "世界各地都有報導。", "confidence": "high", "notes": ""}
 
 362. Now, there are some sociological differences, as you would expect, from different cultures.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在，正如你所預期的，來自不同文化會有一些社會學差異。", "confidence": "high", "notes": ""}
 
 363. But we see there's quite a rich history of UFO, even UFO investigations, official investigations, and we will be discussing this in a few more sessions during this week about investigations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我們看到不明飛行物有相當豐富的歷史，甚至不明飛行物調查、官方調查，我們將在本週的更多會議中討論有關調查的內容。", "confidence": "high", "notes": ""}
 
 364. And we have, in fact, with us some members from some of the South American agencies.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事實上，我們這裡有一些來自南美機構的成員。", "confidence": "high", "notes": ""}
 
 365. So we've seen an opening in recent years, particularly in some European countries and particularly in South America.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我們在近年來看到了開放，特別是在一些歐洲國家，特別是在南美洲。", "confidence": "high", "notes": ""}
 
 366. Now, odd as it may seem, it almost seems to be good politics now in South America to have a UFO investigation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在，雖然看起來很奇怪，但在南美洲，進行不明飛行物調查現在幾乎似乎是良好的政治手段。", "confidence": "high", "notes": ""}
 
 367. I know it sounds awkward, but the Latin culture is obviously more open.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我知道這聽起來很奇怪，但拉丁文化顯然更開放。", "confidence": "high", "notes": ""}
 
 368. It's much less ridicule in the media and all that about this phenomenon.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "媒體對這種現象的嘲笑要少得多。", "confidence": "high", "notes": ""}
 
 369. And so we've seen a trend.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我們看到了一種趨勢。", "confidence": "high", "notes": ""}
 
 370. It started with Uruguay back in the late '70s, and we have a representative that will be speaking later this week.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這始於 70 年代末的烏拉圭，我們有一位代表將在本週晚些時候發言。", "confidence": "high", "notes": ""}
 
 371. And then Chile, Peru, Ecuador, Brazil, Argentina recently announced the creation of a UFO agency within the Air Force.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後智利、秘魯、厄瓜多、巴西，阿根廷最近宣布在空軍內部建立不明飛行物機構。", "confidence": "high", "notes": ""}
 
 372. What is interesting about the South American approach to this phenomenon from an official point of view is that there is not an adversarial relationship between the official military agencies and the civilian UFO committees or UFO groups.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從官方角度來看，南美洲對這一現象的處理方式有趣的地方在於，官方軍事機構與民間不明飛行物委員會或不明飛行物團體之間不存在對抗關係。", "confidence": "high", "notes": ""}
 
 373. Totally different from the United States, where even in the days of Blue Book, there was always a big fight between ufologists, civilian ufologists, and the Air Force.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "與美國完全不同，即使在藍皮書計畫時期，不明飛行物研究者、民間不明飛行物研究者與空軍之間總是存在激烈衝突。", "confidence": "high", "notes": ""}
 
 374. That was classic, if you read the history of UFOs in the United States.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果你閱讀美國不明飛行物的歷史，那是典型的情況。", "confidence": "high", "notes": ""}
 
 375. And it used to be a little bit like that, too, in South America, not as bad as here.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "南美洲過去也有點像那樣，但沒有這裡那麼糟。", "confidence": "high", "notes": ""}
 
 376. But now you see that they cooperate, and usually what happens is because a lot of these agencies, they have a limited budget, a small budget.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但現在你看到他們合作，通常發生的情況是因為這些機構中的許多都預算有限，預算很小。", "confidence": "high", "notes": ""}
 
 377. So they call for volunteers from the civilian community, and that shows us a model.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以他們從民間社區招募志願者，這為我們展示了一個模式。", "confidence": "high", "notes": ""}
 
 378. We don't have to have an adversarial.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們不必有對抗關係。", "confidence": "high", "notes": ""}
 
 379. We don't have to fight the government.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們不必與政府對抗。", "confidence": "high", "notes": ""}
 
 380. This is a mystery.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一個謎。", "confidence": "high", "notes": ""}
 
 381. We should all work together in order to solve this mystery.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們都應該共同努力來解開這個謎團。", "confidence": "high", "notes": ""}
 
 382. So that's at least some of what is going on.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以這至少是正在發生的一些事情。", "confidence": "high", "notes": ""}
 
 383. But even Russia has had a lot of official investigations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但即使是俄羅斯也進行了很多官方調查。", "confidence": "high", "notes": ""}
 
 384. Even under the Soviet Union, there were committees from the -- there were actually two committees that were going on in the late '70s and '80s.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "即使在蘇聯時期，也有委員會——實際上在 70 年代末和 80 年代有兩個委員會在運作。", "confidence": "high", "notes": ""}
 
 385. One was a public one through the Soviet Academy of Sciences, and the other one was a secret one by the KGB and the Ministry of Defense, the Soviet military.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "一個是通過蘇聯科學院的公開委員會，另一個是由克格勃和國防部、蘇聯軍方主導的秘密委員會。", "confidence": "high", "notes": ""}
 
 386. Nobody knew about that one publicly, but the scientific one was even officially revealed even in the controlled Soviet media.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "公眾沒有人知道那個秘密委員會，但科學委員會甚至在受控的蘇聯媒體中也被官方揭露。", "confidence": "high", "notes": ""}
 
 387. And then, of course, under Gorbachev in the 1980s, Glasnost, it opened up, and the UFO phenomenon became very, very popular in the late Soviet society and into modern Russia.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然後，當然，在 1980 年代戈爾巴契夫的開放政策下，它開放了，不明飛行物現象在蘇聯後期社會以及現代俄羅斯變得非常非常流行。", "confidence": "high", "notes": ""}
 
 388. So China has had kind of a semi-official organization called the China UFO Research Organization.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以中國有一種半官方組織，稱為中國不明飛行物研究組織。", "confidence": "high", "notes": ""}
 
 389. We have one of its founding members here also attending this hearing.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們這裡有一位創始成員也出席了本次聽證會。", "confidence": "high", "notes": ""}
 
 390. So yes, you see it all over the world, and other countries actually have a more open attitude, I mean, officially.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以是的，你在世界各地都能看到，其他國家實際上有更開放的態度，我是說，在官方層面。", "confidence": "high", "notes": ""}
 
 391. So it provides a model also for the U.S., in my opinion.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以在我看來，這也為美國提供了一個模式。", "confidence": "high", "notes": ""}
 
 392. For any of the panelists, the other question I have, one of the other questions I have is a lot of people, when they talk about this, at least in this country, are ridiculed when they talk about it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對於任何小組成員，我的另一個問題，我的其他問題之一是，很多人在談論這件事時，至少在這個國家，談論它時會被嘲笑。", "confidence": "high", "notes": ""}
 
 393. This is, you know, pooha, you know, you're somewhere in outer space.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是，你知道，胡說八道，你知道，你在外太空的某個地方。", "confidence": "high", "notes": ""}
 
 394. What -- why, I guess?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "什麼——為什麼，我猜？", "confidence": "high", "notes": ""}
 
 395. Has there been some organization or is it just our attitudes in the United States tell me why there's so much skepticism in this country?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有沒有某個組織，還是只是我們在美國的態度，告訴我為什麼這個國家有這麼多懷疑論？", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 2
 
 396. I'll try to feel that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我會試著體會這一點。", "confidence": "high", "notes": ""}
 
 397. I do find privately people are much more open about this than they are when they're in a public situation.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我確實發現，私下裡人們對此比在公開場合要開放得多。", "confidence": "high", "notes": ""}
 
 398. That's one thing.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一件事。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 3
 
 399. Right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 4
 
 400. People discover that -- probably any of these researchers, and they discover, oh, you research UFOs, inevitably they will say, oh, let me tell you about what I saw last year, five years, 20 years ago.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "人們發現——大概任何這些研究人員，當他們發現，哦，你研究不明飛行物，他們不可避免地會說，哦，讓我告訴你我去年、五年前、20 年前看到的東西。", "confidence": "high", "notes": ""}
 
 401. So those stories are out there, and people -- I firmly believe there is a true hunger for knowledge on this once people realize that there's something to it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以這些故事都在那裡，而且人們——我堅信，一旦人們意識到這裡面有東西，就會對這方面的知識有真正的渴求。", "confidence": "high", "notes": ""}
 
 402. But I agree with you, in our public discourse, this is a third rail, whether you are in major media or politics or academia, they're all really the same in this regard.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我同意你的看法，在我們的公共論述中，這是一條高壓線，無論你是在主流媒體、政界還是學術界，在這方面他們都真的是一樣的。", "confidence": "high", "notes": ""}
 
 403. I had a professor at UCLA call me a number of years ago, a department chair said, well, I really just want to let you know I enjoy your books.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "幾年前，加州大學洛杉磯分校的一位教授打電話給我，一位系主任說，嗯，我只是想讓你知道我喜歡你的書。", "confidence": "high", "notes": ""}
 
 404. I said, thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說，謝謝。", "confidence": "high", "notes": ""}
 
 405. Why are you whispering in the phone?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你為什麼在電話裡低聲說話？", "confidence": "high", "notes": ""}
 
 406. Which literally he was whispering, and he said the typical thing that every professor would say, well, my department is kind of political and not go -- right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他真的在低聲說話，他說了每個教授都會說的典型話，嗯，我的系有點政治化，不能——對。", "confidence": "high", "notes": ""}
 
 407. So it's always the retired ones who look for me.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以總是退休的人來找我。", "confidence": "high", "notes": ""}
 
 408. But personally, I believe, you know, the tone was set back in the '50s.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但我個人認為，你知道，基調是在 50 年代定下來的。", "confidence": "high", "notes": ""}
 
 409. And in fact, the top skeptic debunker in the U.S. at that time was a Harvard astronomer by the name of Donald Menzel.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事實上，當時美國頂級的懷疑論揭穿者是一位名叫唐納德·門澤爾的哈佛天文學家。", "confidence": "high", "notes": ""}
 
 410. Menzel wrote a number of books.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "門澤爾寫了很多書。", "confidence": "high", "notes": ""}
 
 411. He was like the pit bull guard dog maintaining orthodoxy.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他就像維護正統的鬥牛犬看門狗。", "confidence": "high", "notes": ""}
 
 412. You know, if some little community college professor was going to get out of line and talk about UFOs, here's Menzel, Harvard astronomer, who's going to argue with Menzel?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你知道，如果某個社區學院的小教授要越界談論不明飛行物，這裡有門澤爾，哈佛天文學家，誰會和門澤爾爭論呢？", "confidence": "high", "notes": ""}
 
 413. And he'd slap them down.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他會把他們壓制下去。", "confidence": "high", "notes": ""}
 
 414. Menzel, we learned years later, had a very, very close relationship with the National Security Agency, very close.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "多年後我們得知，門澤爾與國家安全局有非常非常密切的關係，非常密切。", "confidence": "high", "notes": ""}
 
 415. Does this prove that the NSA used him in this capacity?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這能證明國家安全局以這種身分使用他嗎？", "confidence": "high", "notes": ""}
 
 416. Who knows?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "誰知道呢？", "confidence": "high", "notes": ""}
 
 417. But these things -- this is how it looks.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但這些事情——看起來就是這樣。", "confidence": "high", "notes": ""}
 
 418. Back in the late 1970s, journalist Carl Bernstein had the famous Rolling Stone article in which he said there are over 400 U.S. journalists that I have identified who had a covert relationship with the Central Intelligence Agency.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "早在 1970 年代末，記者卡爾·伯恩斯坦在《滾石》雜誌上發表了著名文章，他在文中說，我已經確認有超過 400 名美國記者與中央情報局有秘密關係。", "confidence": "high", "notes": ""}
 
 419. CIA promptly said, "Well, we don't do that anymore."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "中央情報局迅速表示，「嗯，我們不再那樣做了。」", "confidence": "high", "notes": ""}
 
 420. And if you read the language carefully in their statements, especially in the 1990s, they're very lawyerly in their denials, it's very clear that there are relationships.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果你仔細閱讀他們聲明中的措辭，特別是在 1990 年代，他們的否認非常律師化，很明顯存在著這些關係。", "confidence": "high", "notes": ""}
 
 421. So what I am suggesting, and I guess this is the conspiracy angle here, but I would suggest that there are proxies that work with national security elements.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我的建議，我猜這是陰謀論的角度，但我認為有代理人與國家安全部門合作。", "confidence": "high", "notes": ""}
 
 422. Look, it's an open revolving door in much of our society anyway.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "看，無論如何，在我們社會的許多地方，這是一扇公開的旋轉門。", "confidence": "high", "notes": ""}
 
 423. Most of this is out in the open, but I think that there are relationships, friendly relationships with academic and with media and political as well, where you have the herders who basically keep the underlings in line.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "大部分都是公開的，但我認為存在著關係，與學術界、媒體界以及政界的友好關係，在那裡你有牧羊人基本上保持下屬們循規蹈矩。", "confidence": "high", "notes": ""}
 
 424. And every now and then someone gets out of line and they have to be dealt with.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且時不時有人越界，他們必須被處理。", "confidence": "high", "notes": ""}
 
 425. So I think that that's where the culture is created and it has a top-down effect.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我認為這就是文化創造的地方，它有自上而下的效應。", "confidence": "high", "notes": ""}
 
 426. And most people, they don't want to be Superman.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而大多數人，他們不想成為超人。", "confidence": "high", "notes": ""}
 
 427. They have their jobs, they have got their family, they got their things, they can't fight the machine.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們有工作，他們有家庭，他們有自己的事情，他們無法對抗這個機器。", "confidence": "high", "notes": ""}
 
 428. So they just, they live their lives and hope that someone else takes it on.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以他們只是過自己的生活，希望別人來承擔這件事。", "confidence": "high", "notes": ""}
 
 429. And there are documents that Mr. Dolan can tell you about, the internal documents in the Air Force and others where they consciously instruct their officers to ridicule and debunk people, is a specific official policy inside the Air Force.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且有文件，多蘭先生可以告訴你，空軍和其他部門的內部文件，他們有意識地指示他們的軍官嘲笑和揭穿人們，這是空軍內部的具體官方政策。", "confidence": "high", "notes": ""}
 
 430. People they know positively have seen one of these things to try to destroy their credibility.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們確切知道這些人看到了這些東西，卻試圖摧毀他們的可信度。", "confidence": "high", "notes": ""}
 
 431. Yeah.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 432. In the Robertson panel, which is a famous CIA symposium that took place in January of 1953, in fact, they used the word "debunk."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在羅伯森調查小組中，這是 1953 年 1 月舉行的著名中央情報局研討會，事實上，他們使用了「揭穿」這個詞。", "confidence": "high", "notes": ""}
 
 433. It's in the document itself.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這在文件本身中就有。", "confidence": "high", "notes": ""}
 
 434. As the Colonel says, you know, specifically assigned to go out and ridicule them and tell them they're ridiculous.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "正如中校所說，你知道，特別指派去嘲笑他們並告訴他們這很荒謬。", "confidence": "high", "notes": ""}
 
 435. And most people can't stand up against that kind of thing coming from authority figures.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "大多數人無法抵抗來自權威人物的那種事情。", "confidence": "high", "notes": ""}
 
 436. Right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "對。", "confidence": "high", "notes": ""}
 
 437. The Robertson panel was the last act of the Truman administration, it was the last weekend of Harry Truman's presidency that this classified panel took place, and it was specifically related to UFOs.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "羅伯森調查小組是杜魯門政府的最後一項行動，這個機密小組是在哈里·杜魯門總統任期的最後一個週末舉行的，它專門與不明飛行物有關。", "confidence": "high", "notes": ""}
 
 438. Very interesting little historical factoid there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那裡有一個非常有趣的小歷史事實。", "confidence": "high", "notes": ""}
 
 439. And as Daniel just pointed out, its conclusion was, this is a necessary topic and we must debunk it to the American people.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "正如丹尼爾剛才指出的，它的結論是，這是一個必要的話題，我們必須向美國人民揭穿它。", "confidence": "high", "notes": ""}
 
 440. This is not a good thing for them to be thinking about, and they were working with the media to do that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這不是他們應該思考的好事，他們正在與媒體合作來做這件事。", "confidence": "high", "notes": ""}
 
 441. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 442. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 443. Thank you very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 444. Where was the balloon, the Mogul balloon that was supposed to have been the Roswell incident, from where was it supposedly launched?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "氣球在哪裡，據稱是羅斯威爾事件的莫古爾氣球，它據稱是從哪裡發射的？", "confidence": "high", "notes": ""}
 
 445. The Mogul, I thought they were at White Sands, Alamogordo, that area.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "莫古爾，我以為它們是在白沙、阿拉莫戈多那一帶。", "confidence": "high", "notes": ""}
 
 446. We have the record, I'm so sorry.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們有記錄，我很抱歉。", "confidence": "high", "notes": ""}
 
 447. From where?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從哪裡？", "confidence": "high", "notes": ""}
 
 448. You know what a pie ball is, it's a high-altitude balloon that they track, they launch them and then track them so they can keep track of upper air currents.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你知道探空氣球是什麼，它是一種高空氣球，他們追蹤它，發射它們然後追蹤它們，這樣他們就可以追蹤高空氣流。", "confidence": "high", "notes": ""}
 
 449. But when it was launched, when Marcel launched the thing, he would have been probably standing right in front of base ops because that's where they send them up from.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但當它發射時，當馬塞爾發射這東西時，他可能就站在基地作戰中心前面，因為那裡是他們發射這些東西的地方。", "confidence": "high", "notes": ""}
 
 450. From where?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從哪裡？", "confidence": "high", "notes": ""}
 
 451. Base operations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "基地作戰中心。", "confidence": "high", "notes": ""}
 
 452. You see the fighter squadrons or bomber squadrons or whatever they have, their own particular area, but transient airplanes always launch from base operations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你看，戰鬥機中隊或轟炸機中隊或他們有什麼，都有自己的特定區域，但過境飛機總是從基地作戰中心起飛。", "confidence": "high", "notes": ""}
 
 453. How close is one of those to Roswell?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "其中一個離羅斯威爾有多近？", "confidence": "high", "notes": ""}
 
 454. It's on Roswell base.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它在羅斯威爾基地上。", "confidence": "high", "notes": ""}
 
 455. So what they're saying is that the balloon was launched there and crashed there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以他們說的是氣球在那裡發射並在那裡墜毀。", "confidence": "high", "notes": ""}
 
 456. Yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。", "confidence": "high", "notes": ""}
 
 457. I don't know where exactly that it crashed.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我不知道它確切在哪裡墜毀。", "confidence": "high", "notes": ""}
 
 458. See, these balloons were supposed to be determining possible Soviet nuclear detonations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你看，這些氣球本應該用來探測可能的蘇聯核爆炸。", "confidence": "high", "notes": ""}
 
 459. I'm just curious where they, because if it was launched somewhere else, the probability that landing at Roswell was vanishingly small.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我只是好奇它們在哪裡，因為如果它是從其他地方發射的，降落在羅斯威爾的概率是微乎其微的。", "confidence": "high", "notes": ""}
 
 460. I had a course in advanced statistics and it's vanishingly small probability.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我上過高等統計學課程，這是微乎其微的概率。", "confidence": "high", "notes": ""}
 
 461. The United States Air Force in their 1994 reports said these were launched out of White Sands and actually they had a schedule of a number of these balloon launches that went down and were recovered.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "美國空軍在他們 1994 年的報告中說，這些氣球是從白沙發射的，實際上他們有這些氣球發射的時間表，這些氣球降落並被回收。", "confidence": "high", "notes": ""}
 
 462. So there were several that were from the spring of 1947 and in fact they speculated, this wasn't really a slam dunk, but they indicated that they thought that they'd identified the one launch that was in fact supposedly the Roswell crash and I'm trying to remember the date on that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以有幾個是從 1947 年春天發射的，事實上他們推測，這並不是確鑿無疑的，但他們表示他們認為他們已經確認了一次發射，事實上據說就是羅斯威爾墜毀事件，我試圖記住那個日期。", "confidence": "high", "notes": ""}
 
 463. As has been mentioned, the curious thing about all of this is in the GAO report, there was nothing for them to look at because all of the relevant information had been destroyed.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如前所述，關於這一切的奇怪之處在於，在審計總署報告中，他們沒有東西可看，因為所有相關資訊都已被銷毀。", "confidence": "high", "notes": ""}
 
 464. They had no idea at whose command had been destroyed and this is very unorthodox.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們不知道是在誰的命令下被銷毀的，這非常不正統。", "confidence": "high", "notes": ""}
 
 465. It should have been there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "它應該在那裡。", "confidence": "high", "notes": ""}
 
 466. Kind of interesting, isn't it?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有點有趣，不是嗎？", "confidence": "high", "notes": ""}
 
 467. I was a member of the Science and Technology Committee, I think it was simply called the Science Committee then.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我是科學與技術委員會的成員，我想當時它只是被稱為科學委員會。", "confidence": "high", "notes": ""}
 
 468. When Schiff held this, I thought it was a hearing apparently, it was a briefing and it was what, about '94 or '95, I came to the Congress in '93 and I remember his interest in that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當希夫舉辦這個活動時，我以為顯然是聽證會，結果是簡報會，那是什麼時候，大約 94 或 95 年，我於 93 年進入國會，我記得他對此的興趣。", "confidence": "medium", "notes": "topics.json標註'05可能是轉錄錯誤，應為'95"}
 
 469. When I was first approached about this week's activities, I was cautioned that if you do this you could possibly be relegated to the lunatic fringe and this may not be good for your potential activities for the rest of your political productive life.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當我第一次被接觸參與本週的活動時，有人警告我，如果你這樣做，你可能會被歸入瘋子邊緣，這可能對你政治生涯其餘時間的潛在活動不利。", "confidence": "high", "notes": ""}
 
 470. I'm 87 in five weeks, so I don't know how much remains anyhow, but I said, "I'm going to do this because I think there's a very serious constitutional issue involved here."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我再過五週就 87 歲了，所以無論如何我不知道還剩下多少時間，但我說，「我要做這件事，因為我認為這裡涉及一個非常嚴重的憲法問題。」", "confidence": "high", "notes": ""}
 
 471. Whether there are UFOs or not, whether they are extraterrestrial or not is really quite irrelevant to whether or not there ought to be hearings on this because the First Amendment to the Constitution says, "The right of the people to petition the government for a redress of grievances."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是否存在不明飛行物，它們是否是外星的，與是否應該就此舉行聽證會其實完全無關，因為憲法第一修正案說，「人民有權向政府請願以申訴不滿。」", "confidence": "high", "notes": ""}
 
 472. Mr. Sheehan, doesn't this fall within that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "希恩先生，這不是屬於那個範圍嗎？", "confidence": "high", "notes": ""}
 
 473. Oh yes, there's no doubt about this, but the fact of the matter is in a national security state, from the passage of the National Security Act of 1947, there has been an entire caveat on the Constitution that things that fall under national security, when Oliver North can sit right in front of you and say, "Sure, I lied to you, the Congress, because this was a covert operation, that we're in charge, you're not in charge."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "哦，是的，這毫無疑問，但事實是在國家安全國家體制下，自從 1947 年國家安全法案通過以來，憲法上就一直存在著整個附加條款，即屬於國家安全範疇的事情，當奧利弗·諾斯可以坐在你面前說，「當然，我對你們撒了謊，對國會撒了謊，因為這是秘密行動，我們負責，你們不負責。」", "confidence": "high", "notes": ""}
 
 474. There's an entire national security state kind of subculture that believes that they have the right, not only to hold information back from Congress, but to openly defy Congress.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "整個國家安全國家有一種次文化，他們相信他們有權不僅對國會隱瞞資訊，而且公開違抗國會。", "confidence": "high", "notes": ""}
 
 475. When you pass the Boland Amendment, prohibiting them from engaging in the covert operations against Nicaragua, they go ahead and do it anyhow.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當你們通過博蘭修正案，禁止他們參與針對尼加拉瓜的秘密行動時，他們還是照做不誤。", "confidence": "high", "notes": ""}
 
 476. The danger as a national security state, and if it arose in the context of the Cold War with the Soviet Union, we should move very aggressively at the end of the Cold War to try to disassemble some of those structures of the national security state, not try to create a new one, so that they went searching very quickly for some ultimate other that they had to find, and they ended up having Afghanistan, or Iran, or Iraq.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "國家安全國家的危險，如果它是在與蘇聯冷戰的背景下產生的，我們應該在冷戰結束時非常積極地試圖拆除國家安全國家的一些結構，而不是試圖創造一個新的，結果他們很快就去尋找一些他們必須找到的終極他者，最終得到了阿富汗、伊朗或伊拉克。", "confidence": "high", "notes": ""}
 
 477. It's a mindset, and it's that whole kind of retrenchment into a defensive position in the face of the ultimate other.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一種心態，是面對終極他者時整個退縮到防禦位置的那種心態。", "confidence": "high", "notes": ""}
 
 478. It's an ultimate mindset that we have to try to overcome, and as I point out, it's a theological issue because that is a malfunction of our intellect, and it cuts us off from our harmonious relationship not only with the rest of the universe, but all other intelligent species in the universe, and that's what we have to address, I think.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是我們必須努力克服的終極心態，正如我指出的，這是一個神學問題，因為那是我們智性的故障，它切斷了我們與宇宙其他部分以及宇宙中所有其他智慧物種的和諧關係，我認為這就是我們必須解決的問題。", "confidence": "high", "notes": ""}
 
 479. It's a worldview issue.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一個世界觀問題。", "confidence": "high", "notes": ""}
 
 480. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 481. For 20 years in the Congress, I served on the Armed Services Committee, and I remembered Eisenhower's caution as he left office, that we should be concerned about the military-industrial complex.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我在國會服務了 20 年，在軍事委員會任職，我記得艾森豪離職時的警告，我們應該關注軍工複合體。", "confidence": "high", "notes": ""}
 
 482. I understand that in the original draft, it was military-industrial-congressional complex, and he didn't want to be too political, so he took out the congressional.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我理解在原稿中，它是軍事-工業-國會複合體，他不想太政治化，所以他刪掉了國會。", "confidence": "high", "notes": ""}
 
 483. It's too bad he did that, because this really is a military-industrial-congressional complex.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "很遺憾他這樣做，因為這確實是一個軍事-工業-國會複合體。", "confidence": "high", "notes": ""}
 
 484. The F-35 is built in 48 states.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "F-35 在 48 個州建造。", "confidence": "high", "notes": ""}
 
 485. There are 96 senators, and I don't know how many hundred representatives support the F-35, not because we may need it, but because it creates jobs.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "有 96 名參議員，我不知道有多少百名眾議員支持 F-35，不是因為我們可能需要它，而是因為它創造就業機會。", "confidence": "high", "notes": ""}
 
 486. Too many of us cannot differentiate between jobs that consume wealth and jobs that create wealth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們中太多人無法區分消耗財富的工作和創造財富的工作。", "confidence": "high", "notes": ""}
 
 487. It's on the front page of the Washington Post today.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是今天《華盛頓郵報》的頭版。", "confidence": "high", "notes": ""}
 
 488. You look at the headlines of the Washington Post, and it says that the sequester of trying to cut back on the military budget, all the arguments are coming out now.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你看《華盛頓郵報》的頭條，它說試圖削減軍事預算的自動減支，所有的論點現在都出來了。", "confidence": "high", "notes": ""}
 
 489. We can't do that because of all the jobs and the employment.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們不能這樣做，因為所有的工作和就業。", "confidence": "high", "notes": ""}
 
 490. It's an old saw.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是老生常談。", "confidence": "high", "notes": ""}
 
 491. We've developed an economy that is so reliant upon military spending that, in fact, it drives the policies to go looking for adversaries.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們已經發展出一個如此依賴軍事支出的經濟，事實上，它驅動政策去尋找對手。", "confidence": "high", "notes": ""}
 
 492. If we lose the adversary of the Soviet Union on December 31st of 1991 with the dissolving of the Soviet Union, it takes them less than a few years to find another one.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果我們在 1991 年 12 月 31 日隨著蘇聯解體失去蘇聯這個對手，他們不到幾年就找到了另一個。", "confidence": "high", "notes": ""}
 
 493. If you have to go so desperately that you're looking to Afghanistan and Iran as being your ultimate threat to the most powerful nation in the history of the human civilization, there's a motive for that, and it's not because they're threatening you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "如果你不得不如此迫切地將阿富汗和伊朗視為人類文明史上最強大國家的終極威脅，那背後有動機，而這不是因為他們在威脅你。", "confidence": "high", "notes": ""}
 
 494. We had a hearing on this in the Congress about the economic effects ... If I was chairman, I wouldn't have held a hearing ... economic effects of sequestration.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們在國會就此舉行了聽證會，關於經濟影響……如果我是主席，我不會舉行聽證會……自動減支的經濟影響。", "confidence": "high", "notes": ""}
 
 495. When it came time for my question, my five minutes, I said, "Suppose when we left here tonight we broke all the windows out of this building, and we did that all over Washington, and overnight a crew came in and replaced all of those broken windows, and we did this every day.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當輪到我提問，我的五分鐘時，我說，「假設我們今晚離開這裡時打破了這棟建築的所有窗戶，我們在整個華盛頓都這樣做，一夜之間一個工作組進來更換所有這些破窗戶，我們每天都這樣做。」", "confidence": "high", "notes": ""}
 
 496. We broke out all the windows and the crew would replace them all.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們打破所有窗戶，工作組會更換所有窗戶。", "confidence": "high", "notes": ""}
 
 497. Wouldn't that create a lot of jobs?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那不會創造很多工作嗎？", "confidence": "high", "notes": ""}
 
 498. Just think of the jobs that that would create."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "想想那會創造多少工作。」", "confidence": "high", "notes": ""}
 
 499. My question was, do you think that would have a long-term beneficial effect on the economy?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的問題是，你認為這會對經濟產生長期有益的影響嗎？", "confidence": "high", "notes": ""}
 
 500. I wanted them to understand the difference between jobs that create wealth and jobs that consume wealth.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想讓他們理解創造財富的工作和消耗財富的工作之間的區別。", "confidence": "high", "notes": ""}
 
 501. Well, we've been talking about the Constitution and why I'm here.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我們一直在談論憲法以及我為什麼在這裡。", "confidence": "high", "notes": ""}
 
 502. I'm here because I think that the Congress owes the American people a hearing on this subject.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我在這裡是因為我認為國會欠美國人民一場關於這個主題的聽證會。", "confidence": "high", "notes": ""}
 
 503. You may be dead wrong.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你可能大錯特錯。", "confidence": "high", "notes": ""}
 
 504. There may be nothing to UFOs.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不明飛行物可能什麼都不是。", "confidence": "high", "notes": ""}
 
 505. That is irrelevant.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這無關緊要。", "confidence": "high", "notes": ""}
 
 506. You have a right to petition the government for redress or grievances.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你有權向政府請願以尋求補救或申訴不滿。", "confidence": "high", "notes": ""}
 
 507. All of my questions have been anticipated by my colleagues.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的所有問題都已經被我的同事們預料到了。", "confidence": "high", "notes": ""}
 
 508. Thank you all very much for a very good panel, and we'll now stand in recess for lunch.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝大家提供了非常好的小組討論，我們現在休會吃午餐。", "confidence": "high", "notes": ""}
 
 509. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 510. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
