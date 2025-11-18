@@ -31,214 +31,214 @@
 → {"text": "當他們來的時候，你知道，說「嗨，朋友」會比試圖把他們的尾巴打掉要好得多。", "confidence": "high", "notes": ""}
 
 219. So, we're claiming my time to go on to you, Daniel. But let me add a piece to this now.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以，我要利用我的時間來請教你，丹尼爾。但讓我現在補充一點。", "confidence": "high", "notes": ""}
 
 220. Then how will the United States, for one, give up our rights as our national security rights if we went on to cooperate with the United Nations on this?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那麼，以美國為例，如果我們繼續在這件事上與聯合國合作，我們如何能夠放棄我們的國家安全權利？", "confidence": "high", "notes": ""}
 
 221. Yes. This is a worldview issue. One of the things that I discovered after a number of years in practice, the reason I ended up going back to Harvard Divinity School to study after spending a number of years out practicing law, was that this is a worldview issue, that people don't think about this very often, but the reality is there's a spectrum of world views that are shared by our human family, the political manifestation of which, or the political philosophy of which, is you have people who are authoritarians, you have people who are reactionaries, you have people who are conservatives, you have people who are moderates, you have people who are liberals, you have people who are progressives, and then you have people who are basically what we refer to as utopianists, who tend to be theological, for the most part. But there's a whole eighth worldview. There's an octave
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。這是一個世界觀的問題。我在執業多年後發現的其中一件事，也是我在從事法律工作多年後最終回到哈佛神學院學習的原因，就是這是一個世界觀的問題。人們不常思考這個問題，但現實是我們人類有一系列的世界觀，其政治表現或政治哲學是，有些人是威權主義者，有些人是反動派，有些人是保守派，有些人是溫和派，有些人是自由派，有些人是進步派，還有些人基本上是我們所稱的烏托邦主義者，他們大多傾向於神學。但還有第八種世界觀。有一個八度音階。", "confidence": "high", "notes": ""}
 
 222. of worldviews, and there's a new worldview that is in the offing right now, and that is the worldview that is going to have to be addressed by our human family once we come to acknowledge that there are, in fact, there's a super sophisticated, highly intelligent extraterrestrial civilization, and that there may be more than one of these species.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "世界觀的八度音階，而現在正在醞釀一個新的世界觀，這個世界觀將必須由我們人類來面對，一旦我們承認事實上存在著一個超級精密、高度智慧的外星文明，而且可能不只一個這樣的物種。", "confidence": "high", "notes": ""}
 
 223. Okay, I'm going to reclaim my time because I wanted to know how to break through this.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，我要收回我的時間，因為我想知道如何突破這個問題。", "confidence": "high", "notes": ""}
 
 224. It's a new worldview. We have to construct the new worldview.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一個新的世界觀。我們必須建構這個新的世界觀。", "confidence": "high", "notes": ""}
 
 225. You're suggesting that we're going to take on a new worldview. If that's what it takes to happen, we're a long way from that. Mr. Juneyos.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你的意思是我們將採納一個新的世界觀。如果這是必要的，我們離那個目標還很遠。胡尼烏斯先生。", "confidence": "high", "notes": "Juneyos 是 Antonio Huneeus 的錯誤發音，依據 terminology.yaml 譯為「胡尼烏斯」"}
 
 226. Well, every so often, things happen in the history of the world that change, that lead to a complete change, and that was the case when America was discovered, and it was called the New World, even though it was part of the same world. But at that time, it completely changed the paradigm of the late medieval period, and there was even discussions whether maybe the Earth paradise was in America, or whether the natives Americans had it sold.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，在世界歷史上，每隔一段時間就會發生導致徹底改變的事情，當美洲被發現時就是這樣，它被稱為新世界，儘管它是同一個世界的一部分。但在當時，它徹底改變了中世紀晚期的典範，甚至有關於地球上的天堂是否在美洲，或者美洲原住民是否有靈魂的討論。", "confidence": "medium", "notes": "had it sold 疑似為 had a soul 的聽寫錯誤，依據上下文譯為「有靈魂」"}
 
 227. It was a whole kind of huge discussion, and eventually, obviously, we're here, so it worked out. Same thing when the atomic bomb was released, dropped in Japan. That changed the paradigm of that period. I think this is the next frontier, and I don't think it's going to be as difficult as it seems because we're conditioned already by the media and by the entertainment industry.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一場巨大的討論，最終，顯然，我們都在這裡，所以結果是好的。當原子彈投擲在日本時也是同樣的情況。那改變了那個時期的典範。我認為這是下一個前沿，而且我不認為它會像看起來那麼困難，因為我們已經被媒體和娛樂產業所調適了。", "confidence": "high", "notes": ""}
 
 228. Even when I started this business, such as we could call it a business, this beauty, many years ago, the attitude of people was very negative. Really, UFOs were considered like a cookie subject, and now, if you ask a young generation, for them, they say, "Well, what's the big deal?" It's obvious that there's life in the universe. I don't know exactly how it will happen, but it will, and we will have to adjust and move forward.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "即使在我多年前開始這項工作時，如果我們可以稱之為工作的話，這個領域，人們的態度非常負面。真的，不明飛行物被視為荒誕不經的主題，而現在，如果你問年輕一代，對他們來說，他們會說：「嗯，有什麼大不了的？」宇宙中顯然存在生命。我不確切知道它將如何發生，但它會發生，而我們將必須調整並向前邁進。", "confidence": "medium", "notes": "cookie subject 疑似為 kooky subject（怪異主題）的聽寫錯誤"}
 
 229. I guess it's a good thing we have the entertainment industry to turn on people's imaginations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想我們有娛樂產業來啟發人們的想像力是件好事。", "confidence": "high", "notes": ""}
 
 230. Richard?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "理查德？", "confidence": "high", "notes": ""}
 
 231. Yes. Thank you for this question. It's very important. I often think no parent is ever ready for their first child, but they happen anyway. Disclosure of this reality, we may or may not be ready for it. We probably won't be ready for it, frankly. I think that our society is going through such a tremendous revolution. This isn't 1990. It's certainly not 1950. We have capabilities today that I think are forcing this issue out. WikiLeaks didn't exist 10 years ago because it couldn't exist. It wasn't a global infrastructure.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。謝謝你提出這個問題。這非常重要。我常常想，沒有父母真正準備好迎接他們的第一個孩子，但無論如何都會發生。這個真相的揭露，我們可能準備好了，也可能沒有。坦白說，我們可能不會準備好。我認為我們的社會正在經歷如此巨大的革命。這不是 1990 年。當然也不是 1950 年。我認為我們今天擁有的能力正在迫使這個問題浮出水面。維基解密在 10 年前不存在，因為它不可能存在。當時沒有全球基礎設施。", "confidence": "high", "notes": ""}
 
 232. Cell phone cameras, all of this, this is all new. I think something's going to happen that's going to force this out front and center. My suspicion, I can only guess, is that those people who have knowledge on this, and I think there are such people, must be aware. They must be aware that they cannot keep this secret forever. I think the wisest thing to do would be judiciously and responsibly to begin allowing some of this information out. Maybe there are controlled leaks today. I do think that when this matter is out on the table, that doesn't mean all the answers will be there. It just means that we'll be able, publicly, without all the joking and ridicule, to be able to talk about it as a public policy issue.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "手機相機，所有這些，這些都是新的。我認為將會發生某些事情，迫使這個問題浮上檯面並成為焦點。我的懷疑，我只能猜測，是那些對此有所了解的人，我認為確實有這樣的人，他們一定知道。他們一定知道無法永遠保守這個秘密。我認為最明智的做法是明智而負責任地開始允許部分資訊公開。也許今天已經有受控的洩密。我確實認為，當這件事擺上檯面時，並不意味著所有答案都會在那裡。這只是意味著我們將能夠公開地，不再有所有的嘲笑和嘲諷，能夠將其作為公共政策議題來討論。", "confidence": "high", "notes": ""}
 
 233. I also think that this will necessitate a geopolitical revolution. You mentioned the issues of U.S. national security. Well, there's other countries in the world, and they're all going to be affected by this. It will have to be necessary for there to be a true United Nations, something that actually works that people can believe in, because without that I think it's just going to be a big mess. Do I have any more time? Two minutes. The next discussion, I would like to go from, we're worried about airspace. How about cyberspace?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我也認為這將需要一場地緣政治革命。你提到了美國國家安全的問題。嗯，世界上還有其他國家，他們都將受到影響。必須要有一個真正的聯合國，一個真正有效且人們可以信賴的組織，因為沒有那個，我認為這將只會是一團混亂。我還有時間嗎？兩分鐘。下一個討論，我想從——我們擔心領空問題。那麼網路空間呢？", "confidence": "high", "notes": ""}
 
 234. May I make the comment at this? Basically, my background is I have more combat than virtually anyone you'll ever meet. I have more than 800 combat missions, 860 in jet fighters, so I'm not afraid of battle. Obviously not. I think the dumbest thing we could possibly do is weaponize space, and I've been in that argument several times, and it would be absurd to do that. Thank you. Thank you. Cyberspace. One minute. It's all we have. It's quite clear that the technology that seems to be at the disposal of this civilization is able to access, if the FBI can tap into your internet, then clearly they can too. So they're monitoring, undoubtedly monitoring all the communications that are going on, and I would dare say that there is a process going on of feathering into our culture, information, technology, et cetera, that is going to soften this blow, that there's a process going on of released
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我可以對此發表評論嗎？基本上，我的背景是我比你將遇到的幾乎任何人都有更多的戰鬥經驗。我執行過超過 800 次戰鬥任務，其中 860 次是駕駛噴射戰鬥機，所以我不怕戰鬥。顯然不怕。我認為我們可能做的最愚蠢的事情就是將太空武器化，我多次參與過那個爭論，那樣做將是荒謬的。謝謝。謝謝。網路空間。一分鐘。這就是我們所有的時間。很明顯，這個文明似乎可以使用的技術能夠存取，如果聯邦調查局可以監聽你的網路，那麼顯然他們也可以。所以他們正在監控，毫無疑問地監控所有正在進行的通訊，而且我敢說，有一個過程正在進行，將資訊、技術等逐步滲入我們的文化，這將緩和這個衝擊，有一個釋放的過程正在進行。", "confidence": "high", "notes": ""}
 
 235. information, of contact information, et cetera, and I find it based on 40 years of doing these kind of investigations of Watergate, Iran-Contra, and others that I've been directly involved in, that there's clearly going to be a decision made by very high level people above all of our pay grades here, I say with all due respect from Congress people, that there'll be a decision made to start feathering information into the culture to prepare our people for this rather gradually, which has been going on now for the last 60 years. I think we're finished.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "資訊、接觸資訊等等，而且根據我 40 年來進行這類調查的經驗，包括水門事件、伊朗門事件以及其他我直接參與的案件，我發現，顯然會有一個決定，由非常高層的人做出，遠超過我們在座所有人的級別，我對國會議員們致以所有應有的尊重，將會有一個決定，開始將資訊逐步滲入文化中，相當漸進地為我們的人民做準備，這在過去 60 年中一直在進行。我想我們說完了。", "confidence": "high", "notes": ""}
 
 236. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 237. Congresswoman Kilpatrick.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "基爾派翠克眾議員。", "confidence": "high", "notes": ""}
 
 238. Thank you very much. I think I want to start with the Colonel. I served on the Air Force Academy Board for about six years in my 12-year tenure, 14 years in Congress. Served on the Appropriations Defense Committee, first African-American woman ever to serve there. It's only been three in the history of our 2,000-year country. It's outrageous. We really believe that women have something to offer. So I really appreciate your service. We come from a "let's work this out" kind of thing, so we wouldn't have this problem when we control the world. But having said that, Colonel, I really appreciate your service, your time, your dedication. 800-plus.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。我想我要從中校開始。我在空軍官校董事會服務了大約六年，在我 12 年的任期中，在國會任職 14 年。在撥款國防委員會任職，是第一位在那裡任職的非裔美國女性。在我們國家 200 年的歷史中只有三位。這太離譜了。我們真的相信女性有所貢獻。所以我真的很感謝你的服務。我們來自一種「讓我們解決問題」的態度，所以當我們掌控世界時就不會有這個問題了。但話雖如此，中校，我真的很感謝你的服務、你的時間、你的奉獻。超過 800 次任務。", "confidence": "medium", "notes": "2,000-year country 應為 200-year country 的聽寫錯誤"}
 
 239. I've been all over the world with the Defense Department, and it's been quite an experience for me. It's really capitalized and captured my tenure in Congress, really. Why is it that when you were there, you couldn't talk about it? Everything I've read and seen, everybody hush-hushed it.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我隨國防部去過世界各地，這對我來說是相當寶貴的經驗。這真的是我在國會任期的精華與重點。為什麼當你在那裡時，你不能談論它？我讀過和看過的一切，每個人都對此保持緘默。", "confidence": "high", "notes": ""}
 
 240. Wait, let me do it. I want you to do the whole question. The whole question. I know a lot of it's from the presidential right on down to the Joint Chiefs of Staff. One of you all spoke to that. We didn't call it by that name, but that's kind of what it was that Truman had, exactly, as a matter of fact. Why is it now that you're at the table discussing it with us, acknowledging that it is?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "等等，讓我來問。我要你回答完整的問題。完整的問題。我知道很多事情是從總統一直到參謀長聯席會議。你們其中一位提到過那個。我們當時不這樣稱呼它，但事實上，那正是杜魯門所擁有的。為什麼現在你坐在這裡與我們討論它，承認它的存在？", "confidence": "high", "notes": ""}
 
 241. Probably it's because I'm in my 80s now.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "可能是因為我現在已經 80 多歲了。", "confidence": "high", "notes": ""}
 
 242. Praise God. Okay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "感謝上帝。好的。", "confidence": "high", "notes": ""}
 
 243. Here's the problem. If you had a government job, you had to have, you need to be what they call humanly reliable. In other words, if they thought you were a maniac or something, you'd lose your wings, and lose your job, and so forth. Anyway, I think it's because of that, basically the human reliability problem, the fact that there are some real lunatics in various places, and you can't identify them well enough. Then they won't submit, and you have a problem next to kin. If they have a child that is ill mentally, what do you do?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "問題在這裡。如果你有政府工作，你必須具備他們所謂的人員可靠性。換句話說，如果他們認為你是個瘋子或什麼的，你會失去飛行資格、失去工作等等。無論如何，我認為就是因為這個，基本上是人員可靠性的問題，事實是各處確實有一些真正的瘋子，而你無法充分識別他們。然後他們不會順從，而且你還有近親的問題。如果他們有一個精神不健全的孩子，你該怎麼辦？", "confidence": "high", "notes": ""}
 
 244. You believe today that, as you sit here with us and former members of Congress, 80 plus years of experience, having now before this committee, whose time has come, since 1968, there's been no hearing, as you know. We're moving to that. I don't know that the answer is another hearing right now. I'm afraid for that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你今天相信，當你與我們以及前國會議員坐在這裡，擁有超過 80 年的經驗，現在在這個時機已到的委員會面前，自 1968 年以來就沒有聽證會了，如你所知。我們正朝那個方向前進。我不確定答案是否現在就舉行另一場聽證會。我對此感到擔憂。", "confidence": "high", "notes": ""}
 
 245. I heard in this discussion this morning, there's a lot of private things going on. I like to see partnerships, private, public. I think that's when Americans get our best bet, when we come together as a nation in a private, public kind of atmosphere. When you talk about what you just said, and I agree that it's urgent, I think somebody at the table mentioned coming together and acknowledging it, which we haven't done as this country. Other countries are beginning to do that, and some were mentioned this morning. Do you think the Air Force will ever come to that point? Is it a domestic, international partnership that we need? How would you begin it? You come with the credibility.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我在今天早上的討論中聽到，有很多私人進行的事情。我希望看到公私合作夥伴關係。我認為當我們作為一個國家在公私合作的氛圍中團結起來時，美國人會得到最好的結果。當你談論你剛才所說的，我同意這很緊迫，我想在座的某人提到團結起來並承認它，這是我們國家尚未做到的。其他國家已經開始這樣做，今天早上提到了一些。你認為空軍會達到那個地步嗎？我們需要的是國內還是國際合作夥伴關係？你會如何開始？你帶來了可信度。", "confidence": "high", "notes": ""}
 
 246. It's necessary, and I don't think we've got much choice. Something's got to be done.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是必要的，而且我認為我們沒有太多選擇。必須採取一些行動。", "confidence": "high", "notes": ""}
 
 247. You all have to help us formulate that, too. I agree with that. Thank you very much for your service. Mr. Sheehan, you talked about which is worse. That's how you ended that dynamic presentation that you had. Which is worse? Do we try to put this together and save ourselves with the world, or do we continue to put our heads in the sand that it doesn't exist and you know that it does? I'm at a loss. You all are giving us good information, and I think those in the audience want us to come up with some kind of recommendation, and I can't have it both ways. You've got to be solid.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你們也必須幫助我們制定那個方案。我同意這一點。非常感謝你的服務。希恩先生，你談到哪個更糟。那是你結束那場精彩陳述的方式。哪個更糟？我們是嘗試將這件事整合起來並與世界一起拯救自己，還是繼續把頭埋在沙子裡，假裝它不存在，而你知道它確實存在？我感到困惑。你們都給了我們很好的資訊，我認為觀眾中的人希望我們提出某種建議，而我不能兩者兼顧。你必須立場堅定。", "confidence": "high", "notes": ""}
 
 248. It's a very difficult issue. Because of the job assignments, when a person is a congressional representative, for example, and has the duty of representing her or his congressional district in the interests that are there, it's a job. As you know, a significant number of the Congress people are lawyers. They view themselves as representing a certain client base. The problem is that if we represent a nation state, and we insist upon maintaining the special privilege of our citizens, the special access we have to resources in the world, etc., even to the detriment of other nation states, we're still at a level of consciousness that is very dangerous.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是一個非常困難的問題。由於工作分配，當一個人是國會代表時，例如，有責任代表她或他的國會選區及其利益，這是一份工作。如你所知，相當多的國會議員是律師。他們將自己視為代表某個客戶群。問題在於，如果我們代表一個民族國家，並堅持維護我們公民的特殊特權、我們對世界資源的特殊獲取權等等，即使對其他民族國家有害，我們仍處於一個非常危險的意識層次。", "confidence": "high", "notes": ""}
 
 249. Stop talking too much. Break it down for me. You've got to give me two, three points. We don't have a lot of time. I love everything you said, but don't give it to me back yet.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "別說太多了。給我簡化一下。你必須給我兩三個要點。我們沒有很多時間。我喜歡你說的一切，但先別給我回覆。", "confidence": "high", "notes": ""}
 
 250. You've got to have something to hold onto. We're going to have to yield some of our national sovereignty to a global body like the United Nations.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你必須有個依據。我們將必須向聯合國這樣的全球機構讓渡部分國家主權。", "confidence": "high", "notes": ""}
 
 251. Right there. We're not doing that. We've got leadership presidents now who don't even acknowledge that it exists, so we're not going to yield anything. It's got to be approached to that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "就是這個。我們不會這樣做。我們現在的領導層總統甚至不承認它的存在，所以我們不會讓渡任何東西。必須用不同的方式處理。", "confidence": "high", "notes": ""}
 
 252. Maybe we do it better because we're former elected officials, public policy makers. Can't say it like that because the wall goes up and you don't get past it. It's got to be a better way to say that and begin to do some of what you suggest.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "也許我們做得更好，因為我們是前民選官員、公共政策制定者。不能那樣說，因為會樹起一道牆，你無法跨越。必須有更好的方式來表達，並開始實施你建議的一些事情。", "confidence": "high", "notes": ""}
 
 253. It'll come probably through religious communities, that the altering of consciousness with regard to an angelic realm, an other dimension of reality. That's where most people categorize these types of discussions.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這可能會通過宗教社群來實現，關於天使領域、另一個現實維度的意識轉變。大多數人將這類討論歸類在那裡。", "confidence": "high", "notes": ""}
 
 254. Okay, and that's where you worked with the Jesuit Coordination Coalition. I think that's a good start. I think you can't leave out private industry. I think you can't leave out the universities. I mean, it's got to be a major coalition of things and institutions in our country and around the world that would come together more than one time with experts like yourselves and laymen like us and others who have interest in the issue because it is a world phenomenon. If we keep acting like it doesn't exist, then we all lose. The world loses.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "好的，那就是你與耶穌會協調聯盟合作的地方。我認為這是個好的開始。我認為不能排除私營企業。我認為不能排除大學。我是說，必須是我們國家和世界各地的事物與機構組成的重要聯盟，不只一次地聚集在一起，與像你們這樣的專家、像我們這樣的外行人以及其他對這個議題有興趣的人，因為這是一個世界現象。如果我們繼續假裝它不存在，那麼我們都會失敗。世界會失敗。", "confidence": "high", "notes": ""}
 
 255. That's right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 256. I think time is urgent and I'm very new at the issue, so I'm just learning it even as a member of the Appropriations Armed Service Committee. We tacitly touched it, but then it goes away. Even at the academy where we have outstanding young men and women who dedicate their lives to this country. They have some things that they look at and then it's put away.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我認為時間很緊迫，而且我對這個議題很陌生，所以即使作為撥款軍事委員會的成員，我也只是在學習。我們默默地觸及它，但隨後它就消失了。即使在軍校，那裡有傑出的年輕男女將他們的生命奉獻給這個國家。他們有一些觀察的事物，然後就被擱置了。", "confidence": "high", "notes": ""}
 
 257. It's in the Air Force Academy book.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這在空軍官校的書中有記載。", "confidence": "high", "notes": ""}
 
 258. Exactly. Exactly right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯。完全正確。", "confidence": "high", "notes": ""}
 
 259. Talking about how to address UFOs.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "談論如何應對不明飛行物。", "confidence": "high", "notes": ""}
 
 260. Exactly.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 261. I was going to go to the Air Force Academy.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我本來要去空軍官校的。", "confidence": "high", "notes": ""}
 
 262. Do you feel the urgency? Do you all feel the urgency? I'm going to say your name. Thank you very much. Is there urgency here or are we just here just talking?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你們感受到緊迫性嗎？你們所有人都感受到緊迫性嗎？我要說出你的名字。非常感謝。這裡有緊迫性，還是我們只是在這裡空談？", "confidence": "high", "notes": ""}
 
 263. Normally, people have put it away. Officially, right? Governments, but I think in a way there is because the potential has a very good potential. Like I said in my statement, it could really do the trick that everything else has failed. What do we do in this earth? We have tremendous problems besides this issue. Environmental problems, hunger and so on. Somehow, we don't seem to be able to deal with them as a world society. There's just too much fighting and ideological differences and religious differences. The issue of religious is very important.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "通常，人們已經將它擱置了。官方上是這樣，對吧？政府方面，但我認為在某種程度上確實有緊迫性，因為這個潛力有非常好的潛力。正如我在陳述中所說，它真的可以做到其他一切都失敗的事情。我們在這個地球上做什麼？除了這個議題，我們還有巨大的問題。環境問題、飢餓問題等等。不知何故，我們似乎無法作為一個世界社會來處理它們。有太多的鬥爭、意識形態差異和宗教差異。宗教議題非常重要。", "confidence": "high", "notes": ""}
 
 264. Look at all the recent problems we've had internationally with certain factions of the Islamic religion and all that. In fact, I wrote an article in the magazine about UFOs in Islam, which was quite interesting for me to research that. Like all religions, again, you have many factions within a religion. I do agree with Daniel. Probably if the pope and other religious figures, they might be the way to do it. That may do the trick rather than the political will because you know how politics are. You know better than we do how things get very difficult. I see half a minute left. Thank you very much for that. Just in kind of summing, trying to understand it, as an appropriator, 12 years on the Federal Appropriations Committee with a budget of nearly $3 trillion. Biggest being the Armed Services of $700 billion. Now we're on our knees. We don't have the money for
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "看看我們最近在國際上與伊斯蘭教某些派系遇到的所有問題等等。事實上，我在雜誌上寫了一篇關於伊斯蘭教中不明飛行物的文章，研究那個對我來說相當有趣。就像所有宗教一樣，一個宗教中有許多派系。我確實同意丹尼爾。如果教宗和其他宗教人物可能是實現這一目標的方式。這可能比政治意願更有效，因為你知道政治是怎麼回事。你們比我們更了解事情會變得多麼困難。我看還剩半分鐘。非常感謝。在總結時，試圖理解它，作為一名撥款委員，在聯邦撥款委員會服務 12 年，預算接近 3 兆美元。最大的是 7000 億美元的軍事服務。現在我們跪下了。我們沒有錢。", "confidence": "high", "notes": ""}
 
 265. this or that. Could this possibly be something that can save our budget, get more resources, make it universal, offer some kind of -- I'm looking at it from an appropriations point.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這個或那個。這有可能是可以拯救我們預算、獲得更多資源、使其普及、提供某種——我從撥款的角度來看待它。", "confidence": "high", "notes": ""}
 
 266. There's got to be some coming together. We spent a lot of money doing a lot of things and never happened. Quick answer, yes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "必須有一些整合。我們花了很多錢做很多事情，但從未實現。快速回答，是的。", "confidence": "high", "notes": ""}
 
 267. I sit here as an appropriator looking for dollars to help save America first and incidentally help the rest of the world. Sorry to interrupt there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我作為撥款委員坐在這裡，尋找資金首先拯救美國，順便幫助世界其他地方。抱歉打斷了。", "confidence": "high", "notes": ""}
 
 268. Anything that can allow an object to loiter indefinitely, instantly accelerate and do it all silently, is using something better than petroleum for moving around.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "任何能讓物體無限期盤旋、瞬間加速並且完全安靜地做到這一切的東西，都在使用比石油更好的移動方式。", "confidence": "high", "notes": ""}
 
 269. So there must be -- whatever that answer is, there must be something implicit in the reality of this phenomenon that will actually be a game changer. And that's really the one hope.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以一定有——無論那個答案是什麼，在這個現象的現實中一定隱含著某些真正能改變遊戲規則的東西。而那才是真正的希望。", "confidence": "high", "notes": ""}
 
 270. We've got everything so messed up and every other way looking at the world. We're not cooperating. We're fighting. But if this is real, if there is an energy paradigm solution here in UFO phenomenon, that by itself is worth every single effort that we can make to get that out in the open. Thank you. Thank you very much. Senator Gravel.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們把一切都搞砸了，而且用其他各種方式看待世界。我們沒有合作。我們在戰鬥。但如果這是真的，如果在不明飛行物現象中存在能源典範解決方案，那本身就值得我們做出一切努力來公開它。謝謝。非常感謝。格拉維爾參議員。", "confidence": "high", "notes": ""}
 
 271. Let me point out that it's not only the problem of the Congress. It's the problem of the American people, which has been propagandized by the Congress and its leadership, that we are superior as Americans to anybody else in the world. That's the problem. If we're going to have a global community, we must put our humanness first before our nationality.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "讓我指出，這不僅是國會的問題。這是美國人民的問題，國會及其領導層向他們宣傳，我們作為美國人比世界上任何其他人都優越。這就是問題所在。如果我們要建立全球社群，我們必須將人性放在國籍之前。", "confidence": "high", "notes": ""}
 
 272. And what the testimony that I read is that you're talking about a paradigm change in global governance. Now, let me ask this as a favor to you, to us, for this immediate hearing. Would you, Antonio, get together with Daniel and the others and draft a resolution that we could decide upon at the end of the hearings on Friday to recommend the creation of a United Nations agency using the Grenada precedent and already the numbers, the resolutions that have been... So you draft that. It doesn't have to be 20 pages. It can be one page, maybe two paragraphs. You draft this so that we can get our hands around something in this regard. And then we'll have to make a decision, are we prepared as former public officials, as private citizens, to put our money where our mouth is, and that is to be globalists before we become nationalists. And that's the answer. So if you could provide us with
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我讀到的證詞是你們在談論全球治理的典範轉變。現在，讓我為你們、為我們請求這個，為了這次即將舉行的聽證會。安東尼奧，你能否與丹尼爾和其他人聚在一起，起草一份決議，我們可以在週五聽證會結束時決定，建議利用格瑞納達的先例和已有的數字、已有的決議來創建一個聯合國機構……所以你起草那個。它不必是 20 頁。可以是一頁，也許兩段。你起草這個，讓我們在這方面能夠掌握一些東西。然後我們必須做出決定，作為前公職人員、作為私人公民，我們是否準備好言行一致，那就是在成為民族主義者之前成為全球主義者。這就是答案。所以如果你能為我們提供。", "confidence": "high", "notes": ""}
 
 273. that document, do we be deeply in your debt on this side of the table?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那份文件，我們這邊的人會深深感激你嗎？", "confidence": "high", "notes": ""}
 
 274. I could start that a little bit because there's a provision in the United Nations which is called Uniting for Peace Resolution. And Henry Kissinger told us about this in Gov 180 at Harvard College. And he said, "If the world population ever finds out about this, we're all in trouble," he said. I was kind of wondering who he meant by "we."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我可以稍微開始一下，因為聯合國有一個條款叫做聯合促進和平決議。亨利·季辛吉在哈佛大學政府 180 課程中告訴我們這個。他說：「如果世界人口發現這個，我們都會有麻煩。」他說。我當時有點想知道他所說的「我們」是指誰。", "confidence": "high", "notes": ""}
 
 275. And he's right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且他是對的。", "confidence": "high", "notes": ""}
 
 276. Yeah, that's right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，沒錯。", "confidence": "high", "notes": ""}
 
 277. The government, the leadership is going to be in trouble once the people wake up.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "一旦人民覺醒，政府、領導層就會有麻煩。", "confidence": "high", "notes": ""}
 
 278. That's right.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 279. But you need a device. And right now, the device is the knowledge that you're bringing forward, that we're trying to observe here. So first, would you bring that resolution as soon as you can?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但你需要一個工具。而現在，這個工具就是你們帶來的知識，我們正試圖在這裡觀察的知識。所以首先，你能盡快帶來那份決議嗎？", "confidence": "high", "notes": ""}
 
 280. Sure.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當然。", "confidence": "high", "notes": ""}
 
 281. We'll circulate it among the members and the leadership of the paradigm research group -- Yeah, we can do that. -- to seek their ecstatic.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們會將它分發給成員和典範研究小組的領導層——是的，我們可以這樣做。——徵求他們的意見。", "confidence": "medium", "notes": "ecstatic 疑似為 input 的聽寫錯誤"}
 
 282. We'll be glad to.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們很樂意。", "confidence": "high", "notes": ""}
 
 283. Now, the question I would ask, Mr. Dolan, you mentioned that the compendium of documents that you're aware of has come about through Freedom of Information Act, has come about by accident in many regards. Is there anything out there that document-wise backs up the Roswell incident, that is, the crash and the humanoids? Is there any document that we could put our hands on?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在，我想問的問題是，多蘭先生，你提到你所知道的文件彙編是通過資訊自由法出現的，在許多方面是偶然出現的。就文件而言，有什麼能支持羅斯威爾事件的嗎，也就是墜毀和人形生物？有我們可以掌握的文件嗎？", "confidence": "high", "notes": ""}
 
 284. Yes, sir. There are a few very interesting documents, even as early as July 1947, FBI, which was involved in investigating the so-called flying saucers very actively, had a memo indicating that the debris or whatever was recovered at Roswell was being transferred to Wright Field Dayton, Ohio, U.S. Air Force headquarters. I think that's rather interesting. Whatever this was, if it was some kind of balloon apparatus, I think we could ask why would that be transferred to Wright Field.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，先生。有一些非常有趣的文件，早在 1947 年 7 月，非常積極調查所謂飛碟的聯邦調查局就有一份備忘錄，表明在羅斯威爾回收的殘骸或任何東西正被轉移到俄亥俄州代頓的萊特飛行場，美國空軍總部。我認為這相當有趣。無論這是什麼，如果它是某種氣球裝置，我想我們可以問為什麼要將它轉移到萊特飛行場。", "confidence": "high", "notes": ""}
 
 285. So that's interesting. There are a number of other documents that talk about rumors within the military discussions of -- Yeah, that's not good enough to -- Right. No, no. -- because it's hearsay.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以這很有趣。還有許多其他文件談到軍方內部討論的傳聞——是的，那不夠——對。不，不。——因為那是道聽塗說。", "confidence": "high", "notes": ""}
 
 286. But regarding Roswell, there was -- back in 1994, the General Accounting Office of Congress was tasked with looking into the Roswell incident. All right. And this was on the initiative of the late Representative Stephen Schiff of New Mexico, whose constituents asked him to do this, and he did. Schiff talked about this at length, about how the Air Force and the Pentagon just stonewalled him, gave him nothing, gave him a lot of expletives as well in the process. But what the GAO's investigation was that the relevant records at Roswell from the end of 1946 into, I think, 1948, 49 were gone. All of the records that they were looking for, that they expected to find, were, surprise, not there. And there was no explanation given.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但關於羅斯威爾，早在 1994 年，國會審計總署被委任調查羅斯威爾事件。好的。這是應新墨西哥州已故眾議員史蒂芬·謝夫的倡議，他的選民要求他這樣做，他也照做了。謝夫詳細談到了這件事，談到空軍和五角大廈如何對他設置障礙，什麼都不給他，在過程中也給了他很多髒話。但審計總署的調查發現，羅斯威爾從 1946 年底到，我想，1948 年、49 年的相關記錄都不見了。他們正在尋找的所有記錄，他們期望找到的，驚喜的是，都不在那裡。而且沒有任何解釋。", "confidence": "high", "notes": ""}
 
 287. These were records, according to the GAO, that should not have been ever removed. They were permanent, but they were gone. And the Air Force, by the way, was very, very deft in their handling of this, because while the GAO investigation was going on, the United States Air Force took the initiative and did their own study, quote-unquote "study," in which they beat the GAO to the punch in terms of publicity, got their own thing out there and said, oh, yeah, it was a classified balloon project known as Mogul, which was designed to test to see whether the Soviets were detonating their own atomic devices. It's a big, big fat report. It looks very impressive. When you actually read it, it's a load of fluff, in my opinion. But that was their explanation. They beat the GAO to the punch and so they won the PR war.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "根據審計總署的說法，這些記錄本來不應該被移除。它們是永久性的，但它們不見了。順便說一句，空軍在處理這件事上非常靈巧，因為在審計總署調查進行期間，美國空軍主動進行了他們自己的研究，所謂的「研究」，他們在宣傳方面搶在審計總署之前，發布了他們自己的東西並說，哦，是的，那是一個名為莫古爾的機密氣球計畫，設計用來測試蘇聯是否在引爆他們自己的原子裝置。這是一份又大又厚的報告。看起來非常令人印象深刻。但當你實際閱讀它時，依我之見，這是一堆廢話。但那就是他們的解釋。他們搶在審計總署之前，所以他們贏得了公關戰。", "confidence": "high", "notes": ""}
 
 288. Thank you. Mr. Sheehan, would you address, briefly, what is the theological implication?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。希恩先生，你能簡要地說明神學上的含義嗎？", "confidence": "high", "notes": ""}
 
 289. Yeah. Coming to grips with the full import of the theological reality is what undergirds all of this, is that for each of us to recognize that we are incarnated in a material form, but that there are other vibrational frequencies at which there are other dimensions of reality going on at the same time, our theology is the realm in which we deal with it. It's a category of knowledge in the human family in which we deal with other dimensions of reality. What happens after death? How did we get here? What are we doing here? What's our ultimate purpose? These are things that are raised by the UFO issue and that's why I reiterate that it's theology, it's in the realm of theology that we have to come to address this. When we do, what we're going to discover is that we're going to draw down into our culture a lot of those same realities that, for example, the Native American culture
 → {"text": "", "confidence": "", "notes": ""}
