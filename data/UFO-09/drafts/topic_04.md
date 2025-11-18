@@ -22,7 +22,7 @@
 → {"text": "自1990年以來，我為廣播節目製作了一千多個新聞片段。", "confidence": "high", "notes": ""}
 
 300. My four books include An Alien Harvest, 1989, Glimpses of Other Realities, Volume One, Facts and Eyewitnesses, 1993, Glimpses of Other Realities, Volume Two, High Strangeness, 1998, Mysterious Lights, and Crop Circle, Second Edition, 2002.
-→ {"text": "我的四本著作包括1989年的《外星收穫》（An Alien Harvest）、1993年的《其他現實的一瞥，第一卷：事實與目擊者》（Glimpses of Other Realities, Volume One, Facts and Eyewitnesses）、1998年的《其他現實的一瞥，第二卷：高度怪異》（Glimpses of Other Realities, Volume Two, High Strangeness）、以及2002年的《神秘光點與麥田圈，第二版》（Mysterious Lights, and Crop Circle, Second Edition）。", "confidence": "high", "notes": ""}
+→ {"text": "我的四本著作包括1989年的《外星收穫》（An Alien Harvest）、1993年的《其他現實的一瞥，第一卷：事實與目擊者》（Glimpses of Other Realities， Volume One， Facts and Eyewitnesses）、1998年的《其他現實的一瞥，第二卷：高度怪異》（Glimpses of Other Realities， Volume Two， High Strangeness）、以及2002年的《神秘光點與麥田圈，第二版》（Mysterious Lights， and Crop Circle， Second Edition）。", "confidence": "high", "notes": ""}
 
 301. I have been asked to speak around the world as an investigative reporter at national and international conferences and symposiums, including NASA's Goddard Space Flight Center.
 → {"text": "我曾受邀以調查記者的身分在全球各地的國家和國際會議及研討會上演講，包括NASA的戈達德太空飛行中心（Goddard Space Flight Center）。", "confidence": "high", "notes": ""}
