@@ -49,7 +49,7 @@ terms:
         definition: 政府或軍方列為機密的資訊或文件
         preferred_translation: 機密
         segments: [69, 73, 83, 94, 115, 117, 118, 124, 127, 129, 216, 318, 320, 323, 349, 350, 352, 356, 370]
-        notes: 常見分類：Top Secret (絕密)、Secret (機密)、Confidential (密)
+        notes: 常見分類：Top Secret (最高機密)、Secret (機密)、Confidential (密)
 
   - term: Clinton Library
     senses:
@@ -80,9 +80,9 @@ terms:
     senses:
       - id: canada_transport_dept
         definition: 加拿大運輸部，管理 UFO 檔案的四個機構之一
-        preferred_translation: 運輸部
+        preferred_translation: 加拿大運輸部
         segments: [177]
-        notes: 加拿大政府管理 UFO 檔案的機構之一
+        notes: 加拿大政府管理 UFO 檔案的機構之一，翻譯時明確標註「加拿大」以避免與美國運輸部混淆
 
   - term: Don Berliner
     senses:
@@ -112,7 +112,7 @@ terms:
     senses:
       - id: bush_scientist
         definition: 科學家，羅斯福總統科學顧問，據稱領導 MJ-12 計畫
-        preferred_translation: 范內瓦·布希博士
+        preferred_translation: 萬尼瓦爾·布什博士
         segments: [69, 218]
         notes: 加拿大 Top Secret Memo 指出他領導美國 UFO 計畫的小組
 
@@ -121,7 +121,7 @@ terms:
     senses:
       - id: ebe_entity
         definition: Extraterrestrial Biological Entity，外星生物實體
-        preferred_translation: 外星生物實體
+        preferred_translation: 外星生物實體（EBE）
         segments: [24]
         notes: 美國軍方對外星生命的官方代號，可簡稱EBE
 
@@ -203,9 +203,9 @@ terms:
     senses:
       - id: un_general_assembly
         definition: 聯合國大會
-        preferred_translation: 大會
+        preferred_translation: 聯合國大會
         segments: [696, 698]
-        notes: Senator Gravel 建議透過聯合國大會推動 UFO 真相揭露
+        notes: Senator Gravel 建議透過聯合國大會推動 UFO 真相揭露，翻譯時明確標註「聯合國」以避免與其他會議混淆
 
   # ===== I =====
   - term: Interplanetary Phenomenon Unit
@@ -221,7 +221,7 @@ terms:
     senses:
       - id: forrestal_secretary
         definition: 美國國防部長，推薦成立 MJ-12 計畫
-        preferred_translation: 詹姆斯·V·福雷斯塔爾
+        preferred_translation: 詹姆斯·V·福萊斯特
         segments: [69]
         notes: 與 Vannevar Bush 共同建議杜魯門總統成立 Operation Majestic 12
 
@@ -229,16 +229,16 @@ terms:
   - term: Len Stringfield
     senses:
       - id: stringfield_researcher
-        definition: UFO 研究者，專注於墜毀飛碟回收案例
-        preferred_translation: 倫·斯特林菲爾德
+        definition: UFO 研究者，專注於墜毀飛碟回收案例，全名 Leonard H. Stringfield
+        preferred_translation: 倫納德·H·斯特林菲爾德
         segments: [41]
-        notes: Whisper 錯誤轉錄為 "Lin Stringfield"，應為 Len Stringfield
+        notes: 原文使用暱稱 Len（音頻確認），翻譯時使用完整名字 Leonard H. Stringfield 以保持正式性
 
   - term: Library of Congress
     senses:
       - id: library_of_congress
         definition: 美國國會圖書館
-        preferred_translation: 國會圖書館
+        preferred_translation: 美國國會圖書館
         segments: [110]
         notes: Stanton Friedman 進行檔案研究的場所之一
 
@@ -304,7 +304,7 @@ terms:
     senses:
       - id: national_archives_us
         definition: 美國國家檔案館
-        preferred_translation: 國家檔案館
+        preferred_translation: 美國國家檔案館
         segments: [110]
         notes: Stanton Friedman 進行檔案研究的重要場所
 
@@ -312,7 +312,7 @@ terms:
     senses:
       - id: nrc_canada
         definition: 加拿大國家研究委員會
-        preferred_translation: 國家研究委員會
+        preferred_translation: 加拿大國家研究委員會
         segments: [178, 188, 189]
         notes: 1960 年代接收加拿大 UFO 目擊檔案的機構
 
@@ -362,7 +362,7 @@ terms:
     senses:
       - id: project_magnet_canada
         definition: 加拿大政府 UFO 研究計畫，由 Wilbert B. Smith 領導
-        preferred_translation: 磁力計畫
+        preferred_translation: 磁鐵計劃
         segments: [190, 192, 194, 196, 200]
         notes: 1950 年代加拿大官方 UFO 研究計畫，相關討論文件原定銷毀但部分留存
 
@@ -371,7 +371,7 @@ terms:
     senses:
       - id: rcmp_canada
         definition: Royal Canadian Mounted Police，加拿大皇家騎警
-        preferred_translation: 皇家騎警
+        preferred_translation: 加拿大皇家騎警
         segments: [179]
         notes: 加拿大管理 UFO 檔案的四個機構之一
 
@@ -396,23 +396,23 @@ terms:
     senses:
       - id: un_security_council
         definition: 聯合國安全理事會
-        preferred_translation: 安理會
+        preferred_translation: 聯合國安理會
         segments: [697]
         notes: Senator Gravel 認為美國在安理會的否決權將阻礙 UFO 真相揭露
 
   - term: SOM 101
     senses:
       - id: som_101_manual
-        definition: SOM 1-01 的口語簡稱，Majestic 12 技術行動手冊
-        preferred_translation: SOM 1-01
+        definition: Special Operations Manual 1-01，Majestic 12 小組技術行動手冊
+        preferred_translation: SOM 1-01 手冊（Majestic 12 技術行動手冊）
         segments: [99]
-        notes: 正式編號應為 SOM 1-01，證詞中簡稱為 SOM 101
+        notes: SOM = Special Operations Manual（特殊行動手冊），證詞中口語簡稱為 SOM 101，正式編號為 SOM 1-01。首次出現時使用完整說明，後續可簡稱「SOM 1-01 手冊」或「該手冊」
 
   - term: Stan Friedman
     senses:
       - id: friedman_nickname
         definition: Stanton Friedman 的暱稱
-        preferred_translation: 史坦·傅利曼
+        preferred_translation: 史丹頓·佛烈德曼
         segments: [16, 39]
         notes: Dr. Bob Wood 證詞中使用的暱稱形式
 
@@ -420,7 +420,7 @@ terms:
     senses:
       - id: friedman_physicist
         definition: 核物理學家，MJ-12 文件研究專家
-        preferred_translation: 史坦頓·傅利曼
+        preferred_translation: 史丹頓·佛烈德曼
         segments: [197, 321]
         notes: 加拿大-美國雙重國籍，UFO 研究領域的重要人物。Whisper 在 segment 206 錯誤轉錄為 "Stanton Freeman"
 
@@ -469,10 +469,10 @@ terms:
   - term: UFOBs
     senses:
       - id: ufobs_military_term
-        definition: Unidentified Flying Objects 的軍方縮寫形式
-        preferred_translation: UFOBs
+        definition: Unidentified Flying Objects，不明飛行物體（複數）
+        preferred_translation: 不明飛行物體（UFOBs）
         segments: [79, 83, 94]
-        notes: SOM 1-01 手冊中使用的正式軍方術語
+        notes: SOM 1-01 手冊中使用的正式軍方術語。首次出現時使用完整翻譯「不明飛行物體（UFOBs）」，後續可視語境使用中文或保留英文縮寫
 
   - term: United Nations
     senses:

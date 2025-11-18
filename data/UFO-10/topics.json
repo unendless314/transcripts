@@ -21,12 +21,6 @@
       ],
       "potential_errors": [
         {
-          "segment_id": 41,
-          "error_text": "Lin Stringfield",
-          "suggested_correction": "Len Stringfield",
-          "reasoning": "The well-known UFO researcher who focused on crash retrievals was named Leonard (Len) Stringfield."
-        },
-        {
           "segment_id": 55,
           "error_text": "polygraph device",
           "suggested_correction": "Autopen device",
