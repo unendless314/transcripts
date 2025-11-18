@@ -52,7 +52,7 @@
 → {"text": "根據 Gravel 參議員昨天的聲明，認為我們在行動上應該更積極一些，我接受了他的建議。", "confidence": "high", "notes": "Whisper 轉錄錯誤已修正：原文 'Senator Graval's' 應為 'Senator Gravel's'"}
 
 167. These are the famous Rockefeller initiative documents, the 1,000 pages of documents that were released to me by the Clinton Library, and they have gone missing.
-→ {"text": "這些就是著名的洛克菲勒倡議文件，共 1,000 頁的文件，是柯林頓總統圖書館釋出給我的，而它們已經不見了。", "confidence": "high", "notes": ""}
+→ {"text": "這些就是著名的洛克菲勒倡議文件，共 1，000 頁的文件，是柯林頓總統圖書館釋出給我的，而它們已經不見了。", "confidence": "high", "notes": ""}
 
 168. The Clinton say they don't have them.
 → {"text": "柯林頓圖書館聲稱他們沒有這些文件。", "confidence": "high", "notes": ""}
@@ -70,7 +70,7 @@
 → {"text": "所以我決定，根據 Gravel 先生昨天所說的，我打算把這些文件寄回柯林頓總統圖書館，雖然他們從一位外國公民那裡收到這些文件會有點尷尬，但我們將會看到他們會怎麼做，是否會把這些文件重新放回總統檔案紀錄中。", "confidence": "high", "notes": ""}
 
 173. These are 1,000 pages of documents that the Clinton say they no longer have.
-→ {"text": "這些是柯林頓圖書館聲稱他們不再擁有的 1,000 頁文件。", "confidence": "high", "notes": ""}
+→ {"text": "這些是柯林頓圖書館聲稱他們不再擁有的 1，000 頁文件。", "confidence": "high", "notes": ""}
 
 174. Now, as to the documents, the document I'm going to talk quickly about is the Top Secret Memo.
 → {"text": "現在，關於這些文件，我要簡要討論的是那份最高機密備忘錄。", "confidence": "high", "notes": ""}

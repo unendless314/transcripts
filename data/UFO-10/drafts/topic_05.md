@@ -157,7 +157,7 @@
 → {"text": "同時，他們也說，看來我們面臨著外星載具真實存在的相當大可能性。", "confidence": "high", "notes": ""}
 
 295. Now, you know, as far as I'm concerned, if I were a member of Congress, which I was, if I were again, I would say to you that if I felt there was a substantial probability of the real existence of extraterrestrial vehicles based on reports that had come in, 86,000 in this country alone, 62,000 that had enough umph to be highlighted here this morning, witnesses, missile launch officers that saw things that caused the whole government to restructure some of their weapons systems, I would absolutely demand a hearing.
-→ {"text": "現在，你知道，就我而言，如果我是國會議員，我曾經是，如果我再次成為議員，我會告訴你，如果基於收到的報告，我認為外星載具真實存在有相當大的可能性，光是這個國家就有 86,000 件，其中 62,000 件有足夠的份量在今天早上被強調，證人，飛彈發射官員看到的東西導致整個政府重組了部分武器系統，我絕對會要求舉行聽證會。", "confidence": "high", "notes": ""}
+→ {"text": "現在，你知道，就我而言，如果我是國會議員，我曾經是，如果我再次成為議員，我會告訴你，如果基於收到的報告，我認為外星載具真實存在有相當大的可能性，光是這個國家就有 86，000 件，其中 62，000 件有足夠的份量在今天早上被強調，證人，飛彈發射官員看到的東西導致整個政府重組了部分武器系統，我絕對會要求舉行聽證會。", "confidence": "high", "notes": ""}
 
 296. But that still does not prove that they thought there were extraterrestrials.
 → {"text": "但這仍然不能證明他們認為有外星人存在。", "confidence": "high", "notes": ""}
@@ -1210,7 +1210,7 @@
 → {"text": "我想到一種方法可能是——這些飛碟報告涉及大量科學等等。", "confidence": "high", "notes": ""}
 
 646. And a lot of ways to -- and the Air Force found ways to discredit almost 12,000 of those.
-→ {"text": "還有很多方法——空軍找到了方法來質疑其中近 12,000 個。", "confidence": "high", "notes": ""}
+→ {"text": "還有很多方法——空軍找到了方法來質疑其中近 12，000 個。", "confidence": "high", "notes": ""}
 
 647. They allowed that only 701 they couldn't account for.
 → {"text": "他們承認只有 701 個無法解釋。", "confidence": "high", "notes": ""}

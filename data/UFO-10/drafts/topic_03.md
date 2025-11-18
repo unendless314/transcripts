@@ -109,7 +109,7 @@
 → {"text": "他從未去過艾森豪圖書館。我在那裡花了很多時間。我很快就要去了。他給了我 60 天。", "confidence": "high", "notes": ""}
 
 136. I went. I found 14. I copied them. I sent him a copy and an invoice for $1,000, the limit. He paid me, told everybody about challenging me, nobody about paying me.
-→ {"text": "我去了。我找到了 14 份。我複印了它們。我寄給他副本和 1,000 美元的發票，也就是上限金額。他付了錢，到處告訴別人他挑戰了我，卻沒告訴任何人他付了我錢。", "confidence": "high", "notes": ""}
+→ {"text": "我去了。我找到了 14 份。我複印了它們。我寄給他副本和 1，000 美元的發票，也就是上限金額。他付了錢，到處告訴別人他挑戰了我，卻沒告訴任何人他付了我錢。", "confidence": "high", "notes": ""}
 
 137. He also got very upset when I showed a copy of his check in one of the books that I wrote.
 → {"text": "當我在我寫的一本書中展示他的支票副本時，他非常不高興。", "confidence": "high", "notes": ""}

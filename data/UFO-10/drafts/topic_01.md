@@ -139,7 +139,7 @@
 → {"text": "我們認為其他研究者也會有興趣，因此 Ryan 建立了網站 www.majesticdocuments.com，方便存取我們擁有的所有文件。", "confidence": "high", "notes": ""}
 
 47. There are 10 sources for 103 documents, 3,800 pages. The website shows 64 of these documents, including 27 of them before 1948.
-→ {"text": "共有 10 個來源提供的 103 份文件，共 3,800 頁。網站展示了其中 64 份文件，包括 27 份 1948 年之前的文件。", "confidence": "high", "notes": ""}
+→ {"text": "共有 10 個來源提供的 103 份文件，共 3，800 頁。網站展示了其中 64 份文件，包括 27 份 1948 年之前的文件。", "confidence": "high", "notes": ""}
 
 48. Many of the documents we have received from multiple different sources to Tim Cooper, we have established beyond any doubt in our minds that he was not the author of any of these documents in several ways.
 → {"text": "我們從多個不同來源收到許多文件，而非僅來自 Tim Cooper，我們已經透過多種方式毫無疑問地確立，他並非這些文件中任何一份的作者。", "confidence": "high", "notes": ""}
