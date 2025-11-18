@@ -1,0 +1,616 @@
+episode_id: UFO-16
+terms:
+- term: Area 51
+  senses:
+  - id: area_51_base
+    definition: 內華達州的高度機密美國空軍設施
+    preferred_translation: 51 區
+    notes: 與 UFO 和先進航空技術研發相關的傳說地點，出現頻率極高
+    segments:
+    - 567
+    - 597
+    - 620
+- term: CIA
+  senses:
+  - id: cia_agency
+    definition: Central Intelligence Agency，美國中央情報局
+    preferred_translation: CIA
+    notes: 美國主要情報機構，參與UFO調查與保密工作，高頻出現
+    segments:
+    - 27
+    - 29
+    - 31
+    - 33
+    - 250
+    - 402
+    - 422
+    - 469
+- term: Classified
+  senses:
+  - id: classified_information
+    definition: 政府或軍方列為機密的資訊或文件
+    preferred_translation: 機密
+    notes: 常見分類：Top Secret (絕密)、Secret (機密)、Confidential (密)
+    segments:
+    - 392
+    - 598
+- term: Close Encounter
+  senses:
+  - id: close_encounter_ufo
+    definition: 近距離目擊或接觸 UFO 的經歷
+    preferred_translation: 近距離接觸
+    notes: 分類：第一類（目擊）、第二類（物理效應）、第三類（實體）、第四類（綁架）
+    segments:
+    - 187
+- term: Cover-up
+  senses:
+  - id: coverup_government
+    definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+    preferred_translation: 真相掩蓋
+    notes: 保持客觀中性語調，避免「政府掩蓋」等對立性用詞。上下文明確時可簡化為「掩蓋」
+    segments:
+    - 72
+    - 89
+- term: Disclosure
+  senses:
+  - id: disclosure_truth
+    definition: 公開揭露 UFO 與外星接觸的真相
+    preferred_translation: 真相揭露
+    notes: 與「真相掩蓋」(cover-up) 形成對仗概念，常指政府或官方的公開承認
+    segments:
+    - 69
+    - 443
+- term: Extraterrestrial
+  senses:
+  - id: extraterrestrial_alien
+    definition: 來自地球以外的生命或文明
+    preferred_translation: 外星的
+    notes: 名詞用法可譯為「外星人」、「外星生命」
+    segments:
+    - 275
+    - 283
+    - 307
+    - 414
+    - 604
+- term: Flying Saucer
+  senses:
+  - id: flying_saucer_craft
+    definition: 碟形或圓盤狀的不明飛行器
+    preferred_translation: 飛碟
+    notes: 較早期的用語，後被 UFO 取代但仍常見於證詞中
+    segments:
+    - 102
+    - 253
+    - 270
+    - 567
+- term: FOIA
+  senses:
+  - id: foia_law
+    definition: Freedom of Information Act，美國資訊自由法
+    preferred_translation: 資訊自由法
+    notes: 首次出現使用全名，後續可簡稱 FOIA
+    segments:
+    - 470
+    - 471
+    - 472
+- term: MJ-12
+  senses:
+  - id: mj12_group
+    definition: Majestic 12，傳說中的秘密政府 UFO 調查組織
+    preferred_translation: MJ-12
+    notes: 全稱 Majestic 12，代號不翻譯。首次出現時可補充「MJ-12（Majestic 12）」，後續簡稱 MJ-12
+    segments:
+    - 89
+- term: National Press Club
+  senses:
+  - id: npc_venue
+    definition: 華盛頓特區的專業記者組織
+    preferred_translation: 國家新聞俱樂部
+    notes: 多次舉辦UFO相關記者會的場地，揭露計畫2001年記者會地點
+    segments:
+    - 164
+- term: National Security
+  senses:
+  - id: national_security_concern
+    definition: 國家安全考量或機密等級的理由
+    preferred_translation: 國家安全
+    notes: 常用於解釋 UFO 資訊保密的官方理由
+    segments:
+    - 48
+    - 66
+- term: Roswell
+  senses:
+  - id: roswell_incident
+    definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+    preferred_translation: 羅斯威爾事件
+    notes: UFO 史上最著名的事件，所有集數都會提及
+    segments:
+    - 494
+    - 495
+- term: Sighting
+  senses:
+  - id: sighting_ufo_observation
+    definition: 目擊或觀察到 UFO 的經歷
+    preferred_translation: 目擊
+    notes: 可搭配使用「目擊事件」、「目擊報告」
+    segments:
+    - 57
+    - 432
+- term: Top Secret
+  senses:
+  - id: top_secret_classification
+    definition: 最高等級的機密分類
+    preferred_translation: 最高機密
+    notes: 美國機密等級：Top Secret (最高機密) > Secret (機密) > Confidential (密)
+    segments:
+    - 66
+    - 464
+- term: UFO
+  senses:
+  - id: ufo_craft
+    definition: Unidentified Flying Object，不明飛行物
+    preferred_translation: 不明飛行物
+    notes: 可視語境簡稱「UFO」或使用完整中文
+    segments:
+    - 23
+    - 30
+    - 38
+    - 65
+    - 67
+    - 71
+    - 105
+    - 109
+    - 157
+    - 165
+    - 172
+    - 173
+    - 180
+    - 193
+    - 196
+    - 202
+    - 252
+    - 335
+    - 337
+    - 339
+    - 342
+    - 347
+    - 364
+    - 391
+    - 485
+    - 492
+    - 504
+    - 508
+    - 522
+    - 531
+    - 562
+    - 604
+    - 618
+    - 623
+    - 634
+    - 640
+- term: Witness
+  senses:
+  - id: witness_testimony
+    definition: 提供證詞或目擊報告的證人
+    preferred_translation: 證人
+    notes: 聽證會中的核心角色，包括軍事人員、飛行員、平民等
+    segments:
+    - 274
+- term: Grant Cameron
+  senses:
+  - id: cameron_researcher
+    definition: UFO研究者，專注於美國總統對UFO的了解
+    preferred_translation: 格蘭特·卡麥隆
+    notes: 運營President's UFO website，跨集數高頻證人
+    segments:
+    - 222
+- term: Ben Rich
+  senses:
+  - id: rich_engineer
+    definition: 洛克希德臭鼬工廠主管
+    preferred_translation: 班·里奇
+    notes: 傳聞曾表示「我們已經擁有星際旅行的技術」，多集提及
+    segments:
+    - 99
+- term: Representative Woolsey
+  senses:
+  - id: woolsey_representative
+    definition: 伍爾西眾議員，聽證會主持人
+    preferred_translation: 伍爾西眾議員
+    notes: 本集提問者之一
+    segments:
+    - 17
+- term: Freedom of Information Act
+  senses:
+  - id: foia_full
+    definition: Freedom of Information Act，美國資訊自由法
+    preferred_translation: 資訊自由法
+    notes: 同 FOIA，首次提及應使用全名
+    segments:
+    - 27
+- term: Watergate scandal
+  senses:
+  - id: watergate
+    definition: 水門事件，1970年代美國政治醜聞
+    preferred_translation: 水門事件
+    notes: 導致尼克森總統下台，事後促成資訊自由法修正案
+    segments:
+    - 27
+- term: Blue Book
+  senses:
+  - id: blue_book_project
+    definition: Project Blue Book，美國空軍UFO調查計畫
+    preferred_translation: 藍皮書計畫
+    notes: 同 Project Blue Book
+    segments:
+    - 28
+- term: Robertson Panel
+  senses:
+  - id: robertson_panel_cia
+    definition: CIA 於1953年召開的 UFO 科學會議
+    preferred_translation: 羅伯森調查小組
+    notes: 建議透過嘲笑文化壓制 UFO 話題，影響美國數十年的 UFO 政策
+    segments:
+    - 29
+    - 33
+- term: Citizens Against UFO Secrecy
+  senses:
+  - id: caus_org
+    definition: 反對 UFO 保密公民組織
+    preferred_translation: 反UFO保密公民組織（CAUS）
+    notes: 1977年起訴 CIA 公開 UFO 檔案的民間團體
+    segments:
+    - 30
+- term: FBI
+  senses:
+  - id: fbi_agency
+    definition: Federal Bureau of Investigation，美國聯邦調查局
+    preferred_translation: FBI
+    notes: 美國聯邦執法機構，持有部分UFO相關檔案
+    segments:
+    - 45
+- term: Defense Intelligence Agency
+  senses:
+  - id: dia_agency
+    definition: 美國國防情報局
+    preferred_translation: 國防情報局
+    notes: 美國軍方情報機構，曾記錄1976年德黑蘭UFO事件等重要案例
+    segments:
+    - 46
+    - 173
+- term: The Vault
+  senses:
+  - id: fbi_vault
+    definition: FBI 線上文件庫
+    preferred_translation: FBI 文件庫（The Vault）
+    notes: FBI 公開的歷史文件資料庫，包含部分 UFO 相關檔案
+    segments:
+    - 45
+- term: Dr. Bartlett
+  senses:
+  - id: bartlett_congressman
+    definition: 巴特萊特博士，參與聽證會的國會議員
+    preferred_translation: 巴特萊特博士
+    notes: 本集提問者之一
+    segments:
+    - 79
+- term: Mr. Cameron
+  senses:
+  - id: cameron_panelist
+    definition: Grant Cameron，本集證人
+    preferred_translation: 卡麥隆先生
+    notes: 同 Grant Cameron
+    segments:
+    - 81
+- term: mental phenomenon
+  senses:
+  - id: mental_phenomenon
+    definition: 心靈現象或意識相關現象
+    preferred_translation: 心靈現象
+    notes: 本集討論 UFO 與意識、ESP 的關聯
+    segments:
+    - 81
+- term: ESP
+  senses:
+  - id: esp_ability
+    definition: Extra-Sensory Perception，超感官知覺或心靈感應能力
+    preferred_translation: ESP（超感官知覺）
+    notes: 本集討論 UFO 技術與意識、ESP 的可能關聯
+    segments:
+    - 93
+    - 96
+    - 112
+- term: Dr. Eric Walker
+  senses:
+  - id: walker_scientist
+    definition: 賓州州立大學前校長
+    preferred_translation: 艾瑞克·沃克博士
+    notes: 據稱與 UFO 秘密計畫有關，暗示 UFO 技術與 ESP 的連結
+    segments:
+    - 88
+- term: Lockheed Skunk Works
+  senses:
+  - id: lockheed_skunk_works
+    definition: 洛克希德·馬丁公司的先進開發部門
+    preferred_translation: 洛克希德臭鼬工廠
+    notes: 負責開發 U-2、SR-71 等高度機密飛行器，傳聞涉及逆向工程 UFO 技術
+    segments:
+    - 99
+    - 100
+- term: CEFA
+  senses:
+  - id: cefa_chile
+    definition: Comité de Estudios de Fenómenos Aéreos，智利空中現象研究委員會
+    preferred_translation: 智利空中現象研究委員會（CEFA）
+    notes: 智利空軍的官方UFO調查機構
+    segments:
+    - 140
+- term: Puerto Montt
+  senses:
+  - id: puerto_montt_incident
+    definition: 智利蒙特港，1988年發生UFO空中接近事件
+    preferred_translation: 蒙特港
+    notes: 智利城市，1988年商業客機與UFO近距離遭遇事件發生地
+    segments:
+    - 143
+- term: F-4 Phantom jet
+  senses:
+  - id: f4_phantom
+    definition: F-4幽靈戰鬥機
+    preferred_translation: F-4幽靈戰機
+    notes: 1976年德黑蘭UFO事件中使用的戰鬥機型
+    segments:
+    - 171
+- term: Wilbert Smith
+  senses:
+  - id: smith_researcher
+    definition: 1950年代加拿大交通部資深無線電工程師
+    preferred_translation: 威爾伯特·史密斯
+    notes: 領導加拿大 Project Magnet UFO 研究計畫，訪談美國官員獲取墜毀飛碟資訊
+    segments:
+    - 222
+    - 223
+    - 240
+    - 256
+- term: Nick Pope
+  senses:
+  - id: pope_official
+    definition: 英國國防部前UFO調查官員
+    preferred_translation: 尼克·波普
+    notes: 1991-1994年負責英國國防部UFO檔案，本集證人
+    segments:
+    - 269
+- term: People's Republic of China
+  senses:
+  - id: prc
+    definition: 中華人民共和國
+    preferred_translation: 中華人民共和國
+    notes: 正式國名
+    segments:
+    - 274
+- term: Phoenix Mountain event
+  senses:
+  - id: phoenix_mountain_case
+    definition: 1994年中國鳳凰山UFO近距離接觸事件
+    preferred_translation: 鳳凰山事件
+    notes: 中國重要的第三類接觸案例，涉及森林護林員與外星存有的直接互動
+    segments:
+    - 279
+    - 281
+    - 287
+- term: third kind cases
+  senses:
+  - id: ce3_cases
+    definition: 第三類接觸案例，涉及目擊外星實體
+    preferred_translation: 第三類接觸案例
+    notes: 根據 J. Allen Hynek 的分類，指目擊到外星生命體的案例
+    segments:
+    - 278
+- term: directed energy
+  senses:
+  - id: directed_energy_tech
+    definition: 定向能武器，利用集中能量束作為武器的技術
+    preferred_translation: 定向能武器
+    notes: 指利用雷射、微波等集中能量束的武器系統。本集語境中主要指 Dr. Judy Wood 研究的建築摧毀技術
+    segments:
+    - 345
+    - 346
+    - 347
+- term: Unidentified Submerged Objects
+  senses:
+  - id: uso_phenomenon
+    definition: 不明潛水物體
+    preferred_translation: 不明潛水物體（USO）
+    notes: 類似 UFO 但出現在水下的不明物體
+    segments:
+    - 349
+- term: RF weapons
+  senses:
+  - id: rf_weapons
+    definition: Radio Frequency weapons，射頻武器
+    preferred_translation: 射頻武器
+    notes: 利用電磁波的定向能武器
+    segments:
+    - 366
+- term: Professor Hermann Oberth
+  senses:
+  - id: oberth_scientist
+    definition: 赫爾曼·奧伯特，火箭科學先驅
+    preferred_translation: 赫爾曼·奧伯特教授
+    notes: 現代火箭之父之一，曾公開表示 UFO 來自外星文明
+    segments:
+    - 369
+- term: Operation Paperclip
+  senses:
+  - id: operation_paperclip
+    definition: 二戰後美國招募德國科學家的秘密行動
+    preferred_translation: 迴紋針行動
+    notes: 將納粹火箭科學家帶到美國，包括 von Braun 等人
+    segments:
+    - 371
+- term: von Braun
+  senses:
+  - id: von_braun_scientist
+    definition: Wernher von Braun，火箭科學家
+    preferred_translation: 馮·布朗
+    notes: V-2火箭研發者，後領導美國阿波羅登月計畫
+    segments:
+    - 371
+- term: Rockefeller briefing document
+  senses:
+  - id: rockefeller_briefing
+    definition: 洛克菲勒倡議期間編纂的UFO簡報文件
+    preferred_translation: 洛克菲勒簡報文件
+    notes: 1990年代為遊說柯林頓政府準備的 UFO 證據彙編
+    segments:
+    - 382
+- term: Paul Hill
+  senses:
+  - id: hill_nasa
+    definition: NASA科學家，UFO研究者
+    preferred_translation: 保羅·希爾
+    notes: 著有《非常規飛行物體》(Unconventional Flying Objects)
+    segments:
+    - 383
+- term: Condon Report
+  senses:
+  - id: condon_report
+    definition: 1968年科羅拉多大學UFO研究報告
+    preferred_translation: 康登報告
+    notes: 由 Edward Condon 主導，結論否定 UFO 的科學價值，導致 Project Blue Book 終止
+    segments:
+    - 419
+    - 420
+- term: Colonel John Alexander
+  senses:
+  - id: alexander_colonel
+    definition: 美國陸軍上校，UFO 研究者
+    preferred_translation: 約翰·亞歷山大上校
+    notes: 軍方內部 UFO 研究支持者
+    segments:
+    - 425
+- term: Star Wars SDI project
+  senses:
+  - id: sdi_project
+    definition: Strategic Defense Initiative，雷根時代的太空防禦計畫
+    preferred_translation: 星戰計畫（SDI）
+    notes: 1980年代美國太空武器防禦系統
+    segments:
+    - 427
+- term: NATO
+  senses:
+  - id: nato_org
+    definition: North Atlantic Treaty Organization，北大西洋公約組織
+    preferred_translation: 北約（NATO）
+    notes: 西方軍事聯盟
+    segments:
+    - 446
+- term: Chinese UFO Federation
+  senses:
+  - id: chinese_ufo_federation
+    definition: 中國 UFO 研究聯合會
+    preferred_translation: 中國UFO研究聯合會
+    notes: 中國民間 UFO 研究組織
+    segments:
+    - 485
+    - 531
+- term: China UFO Research Institute
+  senses:
+  - id: china_ufo_institute
+    definition: 中國UFO研究會
+    preferred_translation: 中國UFO研究會
+    notes: 中國官方UFO研究組織
+    segments:
+    - 504
+- term: Roswell case
+  senses:
+  - id: roswell_case
+    definition: 1947年羅斯威爾UFO墜毀事件
+    preferred_translation: 羅斯威爾案
+    notes: 同 Roswell，強調案例性質
+    segments:
+    - 494
+- term: Reparto Generale Sicurezza
+  senses:
+  - id: rgs_italy
+    definition: 義大利國防部情報單位
+    preferred_translation: 義大利國防情報局
+    notes: 義大利軍方情報機構
+    segments:
+    - 562
+- term: United Nations
+  senses:
+  - id: un_organization
+    definition: 聯合國，國際性政府組織
+    preferred_translation: 聯合國
+    notes: 本集核心主題，討論透過聯合國推動 UFO 研究的國際合作
+    segments:
+    - 581
+    - 584
+    - 585
+    - 603
+    - 609
+    - 630
+    - 656
+    - 657
+    - 658
+- term: Grenada resolution
+  senses:
+  - id: grenada_resolution
+    definition: 格瑞那達在聯合國提出的UFO研究決議
+    preferred_translation: 格瑞那達決議
+    notes: 1970年代格瑞那達總理Eric Gairy向聯合國提出的UFO調查倡議
+    segments:
+    - 583
+- term: San Marino Republic
+  senses:
+  - id: san_marino
+    definition: 聖馬利諾共和國
+    preferred_translation: 聖馬利諾
+    notes: 歐洲小國，本集提及其對 UFO 議題的立場
+    segments:
+    - 585
+- term: United Nations Office of Outer Space Affairs
+  senses:
+  - id: unoosa
+    definition: 聯合國外太空事務辦公室
+    preferred_translation: 聯合國外太空事務辦公室
+    notes: 聯合國負責外太空事務的機構
+    segments:
+    - 603
+- term: Royal Society
+  senses:
+  - id: royal_society_uk
+    definition: 英國皇家學會
+    preferred_translation: 英國皇家學會
+    notes: 英國歷史悠久的科學組織
+    segments:
+    - 603
+- term: Senator Goldwater
+  senses:
+  - id: goldwater_senator
+    definition: 美國參議員貝利·高華德
+    preferred_translation: 高華德參議員
+    notes: 曾試圖調查 Area 51 和 Wright-Patterson 空軍基地的 UFO 資訊但被拒
+    segments:
+    - 620
+    - 621
+- term: General Assembly
+  senses:
+  - id: un_general_assembly
+    definition: 聯合國大會，聯合國主要審議機構
+    preferred_translation: 聯合國大會
+    notes: 本集建議向聯合國大會提交 UFO 研究決議案
+    segments:
+    - 655
+    - 658
+    - 661
+- term: Security Council
+  senses:
+  - id: un_security_council
+    definition: 聯合國安全理事會
+    preferred_translation: 聯合國安理會
+    notes: 聯合國負責國際和平與安全的機構
+    segments:
+    - 655
+    - 661

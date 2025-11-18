@@ -99,6 +99,13 @@ terms:
         notes: 保持客觀中性語調，避免「政府掩蓋」等對立性用詞。上下文明確時可簡化為「掩蓋」
 
   # ===== D =====
+  - term: Directed Energy
+    senses:
+      - id: directed_energy_weapon
+        definition: 定向能武器，利用集中能量束作為武器的技術
+        preferred_translation: 定向能武器
+        notes: 指利用雷射、微波等集中能量束的武器系統，有時也泛指相關技術
+
   - term: Disclosure
     senses:
       - id: disclosure_truth
@@ -256,6 +263,13 @@ terms:
         notes: 負責搶救墜毀的不明飛行物，與Project Moon Dust類似
 
   # ===== R =====
+  - term: Robertson Panel
+    senses:
+      - id: robertson_panel_cia
+        definition: 1953年1月CIA召集的UFO專家評估會議
+        preferred_translation: 羅伯森調查小組
+        notes: 建議透過「揭穿」(debunk)和嘲笑文化壓制UFO話題，影響美國數十年的UFO政策，跨集數高頻出現
+
   - term: Rockefeller Initiative
     senses:
       - id: rockefeller_initiative_1990s
