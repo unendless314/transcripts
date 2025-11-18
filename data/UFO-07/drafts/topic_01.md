@@ -196,22 +196,22 @@
 → {"text": "他說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 66. He said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 67. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 68. He said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 69. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 70. He said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 71. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 72. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
@@ -223,109 +223,109 @@
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 75. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 76. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 77. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 78. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 79. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 80. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 81. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 82. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 83. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 84. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 85. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 86. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 87. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 88. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 89. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 90. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 91. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 92. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 93. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 94. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 95. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 96. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 97. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 98. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 99. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 100. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 101. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 102. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 103. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 104. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 105. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 106. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 107. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 108. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 109. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}
 
 110. I said, "I've never heard of it before."
 → {"text": "我說：「我以前從未聽說過。」", "confidence": "medium", "notes": "錄音內容重複"}

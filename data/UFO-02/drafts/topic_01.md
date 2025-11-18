@@ -61,7 +61,7 @@
 → {"text": "然而國會議員們萬萬沒想到，在所有後續的資訊自由法申請中，最熱門的類別會是與不明飛行物相關的文件。", "confidence": "high", "notes": ""}
 
 21. And indeed, during the late 1970s, over 10,000 pages of documents relating to UFOs were released.
-→ {"text": "事實上，在 1970 年代後期，超過 10,000 頁與不明飛行物相關的文件被解密公開。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，在 1970 年代後期，超過 10，000 頁與不明飛行物相關的文件被解密公開。", "confidence": "high", "notes": ""}
 
 22. The party lasted until about 1982 when a presidential order by Ronald Reagan made FOIA substantially less user friendly and did not require many agencies to reply in a timely manner at all.
 → {"text": "這場盛宴持續到 1982 年左右，當時雷根總統的行政命令大幅降低了資訊自由法的友善程度，並且不再要求許多機構及時回應申請。", "confidence": "high", "notes": ""}
