@@ -100,7 +100,7 @@
 → {"text": "於是這個組織起訴了CIA，而CIA知道他們會輸掉官司，因為至少關於羅伯森調查小組的證據已經足夠。", "confidence": "high", "notes": ""}
 
 34. So rather than go to court and be humiliated by a judge, they decided to, you know, cut their losses and they released 1,000 pages of documents.
-→ {"text": "所以與其上法庭被法官羞辱，他們決定止損，公開了1,000頁文件。", "confidence": "high", "notes": ""}
+→ {"text": "所以與其上法庭被法官羞辱，他們決定止損，公開了1，000頁文件。", "confidence": "high", "notes": ""}
 
 35. And that made huge front-page stories.
 → {"text": "這成了重大的頭版新聞。", "confidence": "high", "notes": ""}
