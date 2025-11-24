@@ -5,7 +5,7 @@ pyyaml>=6.0
 python-dotenv>=1.0.0
 
 # LLM API clients (2024+ versions)
-google-genai>=0.1.0         # Google Gemini (new SDK)
+google-genai>=1.51.0        # Google Gemini 3 Pro (preview) support
 openai>=1.0.0               # OpenAI GPT models
 anthropic>=0.7.0            # Anthropic Claude models
 

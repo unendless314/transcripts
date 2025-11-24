@@ -38,7 +38,7 @@ class GeminiClient(BaseLLMClient):
 
         Args:
             config: 包含以下鍵值的字典：
-                - model: 模型名稱（如 "gemini-2.0-flash-exp"）
+                - model: 模型名稱（如 "gemini-3-pro-preview"）
                 - timeout: 超時時間（秒），預設 120
                 - max_retries: 最大重試次數，預設 3
                 - temperature: 溫度參數（0.0-1.0），預設 0.2
