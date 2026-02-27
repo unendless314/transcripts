@@ -1,0 +1,577 @@
+# UFO-15 Terminology
+# Episode: UFOs - A Global Phenomenon Part 1
+# Generated from terminology_candidates.yaml with translations
+
+episode_id: UFO-15
+terms:
+  # ===== A =====
+  - term: Aeronautica Militare
+    senses:
+      - id: aeronautica_militare_italian
+        definition: 意大利空軍（Italian Air Force）
+        preferred_translation: 意大利空軍
+        notes: 保留原文亦可，指意大利官方空軍機構
+        segments: [25, 27, 36, 50, 52, 566]
+
+  - term: Alien communicators
+    senses:
+      - id: alien_communicators_china
+        definition: 聲稱與外星文明接收或傳遞信息的人
+        preferred_translation: 外星通訊者
+        notes: 中國UFO研究中的特殊群體，聲稱能接收外星信息
+        segments: [125, 127]
+
+  - term: Ancient Aliens
+    senses:
+      - id: ancient_aliens_theory
+        definition: 遠古文明與外星種族互動的理論或概念
+        preferred_translation: 遠古外星人
+        notes: 指史前時期可能的外星訪問與文明影響
+        segments: [119]
+
+  # ===== B =====
+  # ===== C =====
+  - term: Centro Ufologico Nazionale
+    senses:
+      - id: cen_italian_ufo_org
+        definition: 意大利國家幽浮研究中心（CUN）
+        preferred_translation: 國家幽浮研究中心
+        notes: 亦可簡稱 CUN，由 Dr. Roberto Pinotti 於1967年創立
+        segments: [25, 34, 36]
+
+  - term: China UFO Research Institute
+    senses:
+      - id: china_ufo_institute
+        definition: 中國UFO研究機構
+        preferred_translation: 中國UFO研究會
+        notes: 中國最早和最大的UFO研究組織之一
+        segments: [86, 103]
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        notes: 常見分類：Top Secret (絕密)、Secret (機密)
+        segments: [160, 263, 272]
+
+  - term: Close Encounter
+    senses:
+      - id: close_encounter_ufo
+        definition: 近距離目擊或接觸 UFO 的經歷
+        preferred_translation: 近距離接觸
+        notes: 第一類（目擊）、第二類（物理效應）、第三類（實體）
+        segments: [53, 300, 336, 563, 566, 673]
+
+  - term: Close encounters of the third kind
+    senses:
+      - id: ce3_category
+        definition: 目擊UFO乘員或實體的接觸事件
+        preferred_translation: 第三類接觸
+        notes: J. Allen Hynek 提出的分類，指看到UFO乘員的情況
+        segments: [673]
+
+  - term: COMETA Report
+    senses:
+      - id: cometa_report_french
+        definition: 法國高層軍事和情報官員撰寫的UFO研究報告（1999年）
+        preferred_translation: COMETA報告
+        notes: 法國高層研究，結論認為某些UFO可能是外星飛行器
+        segments: [323]
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+        preferred_translation: 真相掩蓋
+        notes: 保持客觀中性語調
+        segments: [626, 631]
+
+  # ===== D =====
+  - term: Descendants of dragon
+    senses:
+      - id: dragon_descendants_chinese
+        definition: 中國文化中自稱「龍的傳人」的觀念
+        preferred_translation: 龍的傳人
+        notes: 孫式立博士在證詞中連結此概念與外星起源
+        segments: [76, 78]
+
+  - term: Directed Energy
+    senses:
+      - id: directed_energy_weapon
+        definition: 定向能武器，利用集中能量束作為武器的技術
+        preferred_translation: 定向能源武器
+        notes: 指利用雷射、微波等集中能量束的武器系統
+        segments: [264]
+
+  - term: Disc-shaped artifact
+    senses:
+      - id: disc_artifact_vehicle
+        definition: 碟形人造物或飛行器
+        preferred_translation: 碟形載具
+        notes: 指中國研究者開發的實驗性碟形飛行器
+        segments: [131]
+
+  - term: Dr. Eric Walker
+    senses:
+      - id: walker_engineer
+        definition: 賓州州立大學前校長，國防分析研究所所長
+        preferred_translation: 埃里克·沃克博士
+        notes: 被 Sarbacher 指認為參與飛碟回收計畫的關鍵人物
+        segments: [214, 216]
+
+  - term: Dr. Roberto Pinotti
+    senses:
+      - id: pinotti_italian_ufologist
+        definition: 意大利社會學家、航空記者、幽浮學家
+        preferred_translation: 羅貝托·皮諾蒂博士
+        notes: Centro Ufologico Nazionale 創辦人，意大利UFO研究權威
+        segments: [23, 443]
+
+  - term: Dr. Robert Saubacher
+    senses:
+      - id: sarbacher_scientist
+        definition: 美國政府科學顧問（正確拼寫為 Sarbacher）
+        preferred_translation: 羅伯特·薩巴赫博士
+        notes: 向加拿大透露飛碟回收信息的關鍵證人，正確拼寫為 Sarbacher
+        segments: [189]
+
+  # ===== E =====
+  - term: Exodiplomacy
+    senses:
+      - id: exodiplomacy_concept
+        definition: 與外星文明建立外交關係的概念
+        preferred_translation: 星際外交
+        notes: 新造詞，指未來可能需要的外星文明外交協議
+        segments: [61]
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        notes: 名詞用法可譯為「外星人」、「外星生命」
+        segments: [59, 60, 244, 325, 416, 525, 611]
+
+  # ===== F =====
+  - term: Fengshan Mountain incident
+    senses:
+      - id: fengshan_incident_china
+        definition: 中國著名的第三類接觸事件
+        preferred_translation: 鳳凰山事件
+        notes: 中國UFO研究會記錄的重要接觸案例
+        segments: [113]
+
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        notes: 較早期的用語，1950年代加拿大官方調查使用此詞
+        segments: [150, 157, 159, 167, 168, 170, 171, 172, 174, 182, 187, 197, 207]
+
+  - term: Foo fighters
+    senses:
+      - id: foo_fighters_ww2
+        definition: 二戰期間飛行員報告的神秘飛行物體
+        preferred_translation: 幽靈戰鬥機（Foo Fighters）
+        notes: 首次出現保留原文加註，後續可用中文
+        segments: [400]
+
+  # ===== G =====
+  - term: GEPAN
+    senses:
+      - id: gepan_french_agency
+        definition: 法國國家太空研究中心下屬的不明航空現象研究組
+        preferred_translation: GEPAN（不明航空現象研究組）
+        notes: 法國官方UFO研究機構，後改組為 SEPRA 再改為 GEIPAN
+        segments: [304, 306, 310, 311, 316, 317, 319, 320, 322]
+
+  - term: Grant Cameron
+    senses:
+      - id: cameron_researcher
+        definition: UFO研究者，專注於美國總統對UFO的了解及加拿大UFO調查
+        preferred_translation: 格蘭特·卡麥隆
+        notes: 加拿大UFO調查檔案專家，本集中證人之一
+        segments: [424]
+
+  - term: Guglielmo Marconi
+    senses:
+      - id: marconi_inventor
+        definition: 意大利發明家，無線電通信先驅
+        preferred_translation: 古列爾莫·馬可尼
+        notes: 傳聞1933年墨索里尼任命他領導秘密UFO研究團隊
+        segments: [57]
+
+  # ===== H =====
+  - term: House of Lords
+    senses:
+      - id: house_of_lords_uk
+        definition: 英國國會上議院
+        preferred_translation: 上議院
+        notes: 亦可譯為「貴族院」，英國國會兩院之一
+        segments: [37]
+
+  - term: Humanoid beings
+    senses:
+      - id: humanoid_occupants
+        definition: 具有人類外形特徵的生物，通常指 UFO 乘員
+        preferred_translation: 類人生物
+        notes: 第三類接觸中目擊到的 UFO 乘員，亦稱「人形生物」
+        segments: [300]
+
+  # ===== I =====
+  - term: Institute for Defense Analysis
+    senses:
+      - id: ida_think_tank
+        definition: 美國國防部頂級智庫
+        preferred_translation: 國防分析研究所
+        notes: Dr. Eric Walker 曾任該機構主席
+        segments: [216]
+
+  # ===== J =====
+  - term: Joseph Allen Hynek
+    senses:
+      - id: hynek_astronomer
+        definition: 美國天文學家，美國空軍藍皮書計畫科學顧問
+        preferred_translation: 約瑟夫·艾倫·海尼克
+        notes: 後轉為支持UFO研究，提出「近距離接觸」分類系統
+        segments: [29]
+
+  # ===== K =====
+  - term: Kapustin Yar
+    senses:
+      - id: kapustin_yar_base
+        definition: 俄羅斯阿斯特拉罕州的秘密飛彈基地
+        preferred_translation: 卡普斯京亞爾
+        notes: 1989年發生著名UFO目擊事件的軍事基地
+        segments: [336]
+
+  - term: KGB
+    senses:
+      - id: kgb_agency
+        definition: 蘇聯國家安全委員會
+        preferred_translation: KGB（國家安全委員會）
+        notes: 蘇聯時期情報機構，曾秘密調查UFO現象
+        segments: [334, 335, 336, 338]
+
+  # ===== M =====
+  - term: Ministry of Defense
+    senses:
+      - id: mod_uk
+        definition: 英國國防部
+        preferred_translation: 國防部
+        notes: 英國政府部門，負責國防政策與軍事指揮，1991-2009年有UFO專案
+        segments: [233]
+
+  - term: MOD
+    senses:
+      - id: mod_acronym
+        definition: Ministry of Defense，英國國防部
+        preferred_translation: 英國國防部
+        notes: 英國國防部縮寫，全稱 Ministry of Defence（英式拼法）
+        segments: [234, 236, 237, 245, 246, 247, 255, 257, 262, 270, 271, 273, 274, 276, 687]
+
+  - term: Motherships
+    senses:
+      - id: mothership_large_craft
+        definition: 大型母艦，可能搭載小型飛行器
+        preferred_translation: 母艦
+        notes: 指傳聞中大型 elongated（長形）UFO
+        segments: [713]
+
+  - term: MUFON
+    senses:
+      - id: mufon_network
+        definition: Mutual UFO Network，UFO 互動網絡
+        preferred_translation: MUFON（UFO 互動網絡）
+        notes: 全球最大的UFO研究組織之一
+        segments: [30]
+
+  # ===== N =====
+  - term: National Gendarmerie
+    senses:
+      - id: gendarmerie_french
+        definition: 法國國家憲兵隊
+        preferred_translation: 國家憲兵隊
+        notes: 類似美國州警的國家警察部隊，1960年代起調查UFO事件
+        segments: [300, 301]
+
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        notes: 常用於解釋 UFO 資訊保密的官方理由
+        segments: [282, 643]
+
+  - term: Nick Pope
+    senses:
+      - id: pope_mod_officer
+        definition: 英國國防部前UFO專案官員
+        preferred_translation: 尼克·波普
+        notes: 1991-1994年負責英國國防部UFO調查項目
+        segments: [361]
+
+  # ===== P =====
+  - term: Paul Hellyer
+    senses:
+      - id: hellyer_minister
+        definition: 加拿大前國防部長
+        preferred_translation: 保羅·赫勒
+        notes: 1967年公開宣布加拿大為飛碟建立著陸基地
+        segments: [168]
+
+  - term: Pavel Popovich
+    senses:
+      - id: popovich_cosmonaut
+        definition: 蘇聯太空人，空軍少將
+        preferred_translation: 帕維爾·波波維奇
+        notes: 曾任獨聯體全國幽浮學協會主席
+        segments: [351]
+
+  - term: Petrozavodsk
+    senses:
+      - id: petrozavodsk_city
+        definition: 俄羅斯卡累利阿共和國城市
+        preferred_translation: 彼得羅扎沃茨克
+        notes: 1977年發生大規模UFO目擊事件，促使蘇聯展開秘密研究
+        segments: [331]
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        notes: 官方調查 UFO 的代表性計畫
+        segments: [29, 239, 373, 377, 495, 673]
+
+  - term: Project Condign
+    senses:
+      - id: project_condign_uk
+        definition: 英國國防部1990年代的秘密情報研究
+        preferred_translation: 康代因計畫（Project Condign）
+        notes: 結論認為某些UAP可能是「異常大氣電漿體」
+        segments: [258, 263, 267, 272]
+
+  # ===== R =====
+  - term: Remotely piloted vehicles
+    senses:
+      - id: rpv_drones
+        definition: 遙控載具，無人機的前身
+        preferred_translation: 遙控載具
+        notes: 指早期無人機類型的飛行器
+        segments: [679]
+
+  - term: Rendlesham Forest incident
+    senses:
+      - id: rendlesham_forest_uk
+        definition: 1980年12月英國空軍基地附近的UFO事件
+        preferred_translation: 倫德爾沙姆森林事件
+        notes: 英國最著名的UFO事件，又稱本特沃特斯事件
+        segments: [256]
+
+  - term: Reparto Generale Sicurezza
+    senses:
+      - id: rgs_italian_airforce
+        definition: 意大利空軍安全總部
+        preferred_translation: 安全總部
+        notes: 意大利空軍負責UFO監測的部門
+        segments: [36, 50]
+
+  - term: Research and Development Board
+    senses:
+      - id: rdb_us_government
+        definition: 美國研究與發展委員會
+        preferred_translation: 研究與發展委員會
+        notes: 1950年代加拿大通過此機構向美國詢問飛碟信息
+        segments: [157, 218]
+
+  - term: Rockefeller Foundation
+    senses:
+      - id: rockefeller_foundation
+        definition: 洛克菲勒基金會
+        preferred_translation: 洛克菲勒基金會
+        notes: 曾資助中美俄三方UFO高層會議
+        segments: [526, 533]
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        notes: UFO 史上最著名的事件
+        segments: [43, 594]
+
+  # ===== S =====
+  - term: Salyut 6 space station
+    senses:
+      - id: salyut6_station
+        definition: 蘇聯禮炮6號太空站
+        preferred_translation: 禮炮6號太空站
+        notes: 1981年太空人 Vladimir Kovalyonok 在此目擊UFO
+        segments: [349]
+
+  - term: Secret UK eyes only
+    senses:
+      - id: uk_eyes_only_classification
+        definition: 僅限英國本土閱讀的最高機密等級
+        preferred_translation: 僅限英國閱覽機密
+        notes: 英國最高機密分類，表示不與盟國分享
+        segments: [263]
+
+  - term: Sigma Commission
+    senses:
+      - id: sigma_commission_france
+        definition: 法國航空天文協會（3AF）下屬的高層研究小組
+        preferred_translation: 西格瑪委員會
+        notes: 由 Alain Boudier 領導，研究UFO現象
+        segments: [326]
+
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        notes: 可搭配使用「目擊事件」、「目擊報告」
+        segments: [167, 300, 350, 687]
+
+  - term: Suffield, Alberta
+    senses:
+      - id: suffield_base_canada
+        definition: 加拿大亞伯達省的軍事基地
+        preferred_translation: 亞伯達省薩菲爾德
+        notes: 1954年加拿大為飛碟著陸設立的秘密基地
+        segments: [168, 171]
+
+  - term: Sun Shili
+    senses:
+      - id: shili_chinese_ufologist
+        definition: 世界華人UFO聯合會會長
+        preferred_translation: 孫式立
+        notes: 中國外交官、教授，中國UFO研究重要人物
+        segments: [69]
+
+  # ===== T =====
+  - term: Third kind cases
+    senses:
+      - id: third_kind_ce3
+        definition: 第三類接觸案件
+        preferred_translation: 第三類接觸案件
+        notes: 指目擊UFO乘員的案例，如鳳凰山、曹公事件等
+        segments: [113]
+
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        notes: 美國機密等級最高級別
+        segments: [155, 158, 168, 180, 336]
+
+  - term: Trans-en-Provence
+    senses:
+      - id: trans_en_provence_case
+        definition: 1981年法國著名的UFO著陸事件
+        preferred_translation: 普羅旺斯特朗事件
+        notes: 留下物理痕跡並經科學分析的重要案例
+        segments: [318]
+
+  # ===== U =====
+  - term: UAP
+    senses:
+      - id: uap_phenomenon
+        definition: Unidentified Aerial Phenomena，不明空中現象
+        preferred_translation: 不明空中現象
+        notes: 英國國防部近年較常使用的官方術語
+        segments: [262, 265, 266, 274]
+
+  - term: UAP, Unidentified Aerial Phenomena
+    senses:
+      - id: uap_full_term
+        definition: 不明空中現象
+        preferred_translation: 不明空中現象（UAP）
+        notes: 首次出現時使用全稱
+        segments: [262]
+
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        notes: 可視語境簡稱「UFO」或使用完整中文
+        segments: [25, 26, 29, 32, 34, 35, 36, 37, 39, 44, 45, 46, 47, 49, 50, 52, 53, 55, 57, 59, 60, 71, 72, 85, 86, 87, 89, 92, 98, 100, 101, 102, 103, 108, 109, 110, 111, 116, 117, 131, 149, 154, 183, 234, 236, 239, 244, 251, 255, 256, 257, 262, 264, 273, 274, 276, 280, 293, 296, 300, 301, 304, 305, 307, 314, 318, 322, 327, 329, 330, 335, 348, 353, 354, 416, 525, 532, 543, 575, 635, 638, 640, 673, 676, 697, 704, 707]
+
+  - term: UK's National Archives
+    senses:
+      - id: uk_archives
+        definition: 英國國家檔案館
+        preferred_translation: 英國國家檔案館
+        notes: 2007年後英國國防部UFO檔案存放處
+        segments: [279]
+
+  # ===== V =====
+  - term: Valensole
+    senses:
+      - id: valensole_france
+        definition: 法國瓦朗索勒，1965年著名UFO著陸事件地點
+        preferred_translation: 瓦朗索勒
+        notes: 農民 Maurice Masse 目擊UFO著陸和乘員的案例
+        segments: [300]
+
+  - term: Vannevar Bush
+    senses:
+      - id: bush_scientist
+        definition: 美國科學家，羅斯福總統前科學顧問
+        preferred_translation: 萬尼瓦爾·布希
+        notes: 被加拿大文件指認為飛碟調查負責人
+        segments: [161, 166, 188]
+
+  - term: Vatican
+    senses:
+      - id: vatican_holy_see
+        definition: 梵蒂岡，天主教教廷
+        preferred_translation: 梵蒂岡
+        notes: 近年對外星生命議題持開放態度
+        segments: [444, 450, 463, 464, 466]
+
+  - term: Vladimir Kovalyonok
+    senses:
+      - id: kovalyonok_cosmonaut
+        definition: 蘇聯太空人，空軍少將
+        preferred_translation: 弗拉基米爾·科瓦廖諾克
+        notes: 1981年在禮炮6號太空站目擊UFO
+        segments: [349]
+
+  # ===== W =====
+  - term: Wilbert B. Smith
+    senses:
+      - id: smith_canadian_engineer
+        definition: 加拿大交通部無線電規範總監，加拿大UFO調查負責人
+        preferred_translation: 威爾伯特·史密斯
+        notes: 1950年代加拿大官方UFO調查負責人
+        segments: [154, 426, 429]
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        notes: 聽證會中的核心角色
+        segments: [87, 201, 308, 336, 361]
+
+  - term: World Chinese UFO Federation
+    senses:
+      - id: world_chinese_ufo_fed
+        definition: 世界華人UFO聯合會
+        preferred_translation: 世界華人UFO聯合會
+        notes: 孫式立博士擔任會長，全球華人UFO研究平台
+        segments: [71, 86]
+
+  - term: Wright-Patterson Air Force Base
+    senses:
+      - id: wright_patterson_afb
+        definition: 俄亥俄州代頓市附近的美國空軍基地
+        preferred_translation: 萊特-帕特森空軍基地
+        notes: 傳說中儲存UFO殘骸和外星遺體的地點
+        segments: [205]
