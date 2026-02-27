@@ -1,82 +1,82 @@
 ## Speaker Group 1
 
 405. Thank you very much. And with that, we will go to Representative Bartlett.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。那麼我們現在請巴特利特眾議員發言。", "confidence": "high", "notes": ""}
 
 406. Thank you very much. First, I want to apologize for my tardiness. This is National Day of Prayer in the United States. And for a long time, I had been scheduled to be the main speaker at a countywide National Day of Prayer breakfast this morning. And so I fulfilled that obligation and came here so soon as I could. We have your testimony then. Thank you all very, very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。首先，我要為我的遲到致歉。今天是美國的國家祈禱日。長久以來，我一直被安排在今天上午一個全縣性的國家祈禱日早餐會上擔任主講人。因此我履行了那項義務，並盡快趕到這裡。我們已經聽取了各位的證詞。非常、非常感謝你們。", "confidence": "high", "notes": ""}
 
 407. While our military and our government is saying that there's no such thing as a possibility of a UFO coming from another world, they of course admit that there are UFOs. UFO simply means unidentified flying object. And the Air Force says that in their Project Blue Book there were 701 of them that they couldn't wish away some way or another. So they do admit they're unidentified flying objects. They simply are denying categorically, I think, that they could be of extraterrestrial origin. But while they seem to poo-poo the whole thing here and relegate it to the ha-ha corner, they apparently are aggressive in participating in investigations of USO sightings in South America. And I'd just like to start here with Mr. Gavard and go down the table and have you tell each of us briefly, is this true in your country and to what extent?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "雖然我們的軍方和政府表示，不明飛行物不可能來自另一個世界，但他們當然承認存在不明飛行物。UFO（不明飛行物）僅僅是指未經確認的飛行物體。空軍表示，在他們的藍皮書計畫（Project Blue Book）中，有701起案例是他們無論如何都無法輕易否認的。因此他們確實承認這些是不明飛行物。但我認為，他們只是斷然否認這些可能來自外星的起源。然而，儘管他們在這裡似乎對整件事嗤之以鼻，將其貶為笑柄，但他們顯然積極參與調查南美洲的不明潛水物（USO）目擊事件。我想從格瓦德先生（Mr. Gavard）開始，沿著桌子逐一請各位簡短地告訴我們，貴國是否確有此事，以及程度如何？", "confidence": "high", "notes": "Project Blue Book譯為藍皮書計畫，UFO譯為不明飛行物，USO譯為不明潛水物"}
 
 408. Yes, it is. Actually, I'd like to take this opportunity to speak about crashes. It has been said here in this table and during the preceding years and days that crashes of UFOs have happened, most of them in old days. But there is at least one recent crash and it took place in Brazil in 1996. It is called the Varginha case in which an alien spacecraft crashed and at least two creatures were captured and offered no resistance to its capture.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，確實如此。實際上，我想藉此機會談談墜毀事件。今天在這張桌子上，以及過去這些年來，都有人提到不明飛行物墜毀事件確實發生過，大多數是在過去。但至少有一起近期的墜毀事件發生在1996年的巴西。這就是所謂的瓦爾任阿事件（Varginha case），一艘外星太空船墜毀，至少有兩個生物被捕獲，而且牠們沒有反抗。", "confidence": "high", "notes": "Varginha case譯為瓦爾任阿事件，保留原文"}
 
 409. But they died right after they were captured. And this procedure were taken of rescuing the debris of the UFO and capturing the creatures were taken both by the fire department of the city of Virginia with the army personnel of a nearby headquarter. And in the next day, the following day of the capture, we already knew that US intelligence and US military as well as US doctors were sent by the US consulate in Sao Paulo to the city of Virginia to follow the procedures. The doctors were sent, medical doctors from United States, to follow what was being done about the creatures because they died and nobody could explain how were their morphology, how they function. And we know for a fact because this is a very well-documented case that has been investigated by at least 70 UFO researchers, including first UFO researchers from United States as Dr. Roger Leir, Dr. J.J. Hur-tak, and the
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但牠們在被捕獲後不久就死亡了。救援不明飛行物殘骸和捕獲生物的行動是由瓦爾任阿市（Varginha）的消防部門以及附近總部的陸軍人員共同執行的。在捕獲的第二天，我們就已經知道美國情報機構、美國軍方以及美國醫生被聖保羅的美國領事館派往瓦爾任阿市跟進相關程序。這些來自美國的醫學專家被派去跟進對這些生物的處理，因為牠們已經死亡，而且沒有人能解釋牠們的形態結構或生理機能。我們確實知道這是一個記錄非常完整的案例，至少有70位不明飛行物研究者進行過調查，其中包括來自美國的先驅研究者，如羅傑·萊爾博士（Dr. Roger Leir）、J.J.赫塔克博士（Dr. J.J. Hur-tak），以及", "confidence": "high", "notes": "根據terminology.yaml，Dr. Roger Leir譯為羅傑·萊爾博士，Dr. J.J. Hur-tak譯為J.J.赫塔克博士；Varginha譯為瓦爾任阿"}
 
 410. deceased Dr. John Mack from Harvard University. They have been to Brazil, they confirmed what the UFO researchers from Brazil discovered. And we know for a fact that at least one of those two creatures were taken to United States by US military. And it was taken in one of the Buffalo airplanes to serve the US embassies and consulates in South America. When it came back to United States, it brought back to here one of the creatures and part of the object that were rescued, that were retrieved by the Brazilian military.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "已故的哈佛大學約翰·麥克博士（Dr. John Mack）。他們都曾前往巴西，證實了巴西不明飛行物研究者的發現。我們確實知道，這兩個生物中至少有一個被美軍帶到了美國。牠是被一架服務於美國駐南美洲大使館和領事館的Buffalo型飛機運送的。當這架飛機返回美國時，它帶回了一個生物以及巴西軍方回收的部分飛行物殘骸。", "confidence": "high", "notes": "根據terminology.yaml，Dr. John Mack譯為約翰·麥克博士"}
 
 411. Yes. Well, in Chile, I don't have really much information about the other than what I said earlier, that there were some documents from the CIA, but they tend to be old. But I do want to bring up a case that was mentioned by my colleague, Johnetti, which happened in Bolivia. And we don't have anybody from Bolivia here, so I'll speak briefly about that case because I'm familiar with. And it's a crash too that took place in Tarija, which is on the border of Bolivia and Argentina in May of 1978. In this case, we do have some documents, not Majestic 12 type documents, which are controversial, but these are officially released documents under the Freedom of Information Act, including a telex from Secretary of State Cyrus Vance at the time. And also Air Force officers from the Defense Attaché Office under a project that was called Project Moon Dust, which is well established that existed,
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的。嗯，在智利，除了我先前提到的，我沒有太多其他資訊，就是有一些來自CIA（中央情報局）的文件，但這些文件都比較舊。但我確實想提一個案例，是我的同事約翰內蒂（Johnetti）提到的，發生在玻利維亞。我們這裡沒有來自玻利維亞的代表，所以我會簡短地談談這個案例，因為我對此很熟悉。這也是一起墜毀事件，發生在1978年5月的塔里哈（Tarija），位於玻利維亞和阿根廷的邊境。在這個案例中，我們確實有一些文件，不是那種具爭議性的Majestic 12類型文件，而是根據資訊自由法（Freedom of Information Act）正式發布的文件，包括當時國務卿賽勒斯·萬斯（Cyrus Vance）發出的一封電報。還有來自國防武官辦公室（Defense Attaché Office）的空軍軍官，他們參與了一個名為月球塵埃計畫（Project Moon Dust）的項目，這個計畫的存在是已被確認的，", "confidence": "high", "notes": "根據terminology.yaml，Secretary of State Cyrus Vance譯為賽勒斯·萬斯國務卿，Project Moon Dust譯為月球塵埃計畫，Defense Attaché Office譯為國防武官辦公室"}
 
 412. which was for the recovery of space objects. I mean, that's how they started. As soon as the space age took off in 1957, then the Air Force created this project, Moon Dust, for the recovery of space debris. But according to one document, they list space debris, and in those days only two countries had space projects. That was the United States and the Soviet Union. And then it says unidentified flying objects in the same document. So when this incident happened, two officers from the Defense Attaché Office, which were stationed in La Paz, the capital of Bolivia, somehow showed up in this remote area. And unfortunately for them, as they were coming in the airport, they were photographed by a local reporter.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這個計畫的目的是回收太空物體。我的意思是，這是他們最初的任務。1957年太空時代開始後，空軍就創立了這個月球塵埃計畫，用於回收太空碎片。但根據一份文件，他們列出了太空碎片，而在當時只有兩個國家擁有太空項目，那就是美國和蘇聯。然後在同一份文件中又提到了不明飛行物。因此當這起事件發生時，兩名駐紮在玻利維亞首都拉巴斯（La Paz）的國防武官辦公室軍官，不知怎麼地出現在這個偏遠地區。而對他們來說不幸的是，當他們抵達機場時，被一名當地記者拍到了照片。", "confidence": "high", "notes": ""}
 
 413. And the picture, you can see them, they're trying to hide their faces, but there they were. They were photographed, and the picture was published in the press. So the cover story is that they were on vacation. But that's not a type of city you go on vacation, number one. They were not with their wives. So obviously that was a cover story and a pretty bad one.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "從照片中你可以看到他們，他們試圖遮住臉，但他們確實在那裡。他們被拍到了照片，而且照片被刊登在媒體上。所以官方說詞是他們在度假。但首先，那不是一個你會去度假的城市。他們也沒有帶著妻子。所以顯然那是一個掩蓋故事的說詞，而且相當拙劣。", "confidence": "high", "notes": ""}
 
 414. Nevertheless, this was in a very remote area. We only have probably a very partial file from the US. There's only a few documents. I'm sure there's plenty more. Where the case gets a little murky is as to whether something was really retrieved and taken back to the US, or it may still be there, because it was in an extremely remote area, and there had been like a landslide on a mountain. There was an expedition initially by the army, by the Bolivian army, under a lieutenant, and they finally got to the area, but they didn't have the equipment and the facilities to do something. And there are some rumors that something was retrieved and taken to the United States, but then according to an American reporter who did investigate this case, whose name was Bob Pratt, he's now deceased, he thinks that they never did retrieve, because it was such a remote area, so that object
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "儘管如此，這是在一個非常偏遠的地區。我們可能只掌握了來自美國的非常不完整的檔案。只有少數幾份文件。我確信還有更多。這個案例變得有些模糊的地方是，究竟是否有東西真的被回收並帶回美國，或者它可能還在那裡，因為那是在一個極其偏遠的地區，而且山上曾發生過山崩。最初由玻利維亞軍隊的一名中尉（lieutenant）帶隊進行了遠征，他們終於到達了那個地區，但他們沒有設備和設施來進行任何作業。有一些傳聞說有東西被回收並帶到了美國，但根據一位調查此案例的美國記者鮑勃·普拉特（Bob Pratt）的說法，他現已去世，他認為他們從未真正回收任何東西，因為那個地區實在太偏遠了，所以那個物體", "confidence": "high", "notes": "lieutenant譯為中尉，保留人名Bob Pratt原文"}
 
 415. might still be there. But again, it shows that there is an interest on the part of the United States, and we have uncovered some documents, but there's probably much more.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "可能還在那裡。但再次強調，這顯示了美國方面的興趣，我們已經發現了一些文件，但可能還有更多。", "confidence": "high", "notes": ""}
 
 416. Thank you. Colonel Sanchez.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。桑切斯上校（Colonel Sanchez）。", "confidence": "high", "notes": "Colonel譯為上校"}
 
 417. In the Uruguayan case, as regards to UFO investigation, there is no official exchange with the United States. The only exchanges that we have had with the United States have been the recovery in 2011 of a star engine, Delta II, which fell over our airspace. I personally went to recover that object. But as regards to UFO issues, we have no exchange agreement with them, nor have we carried out any official exchange with them.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在烏拉圭的案例中，關於不明飛行物調查，與美國沒有官方交流。我們與美國唯一的交流是在2011年回收一枚Delta II型火箭發動機，它墜落在我們的領空。我親自前往回收了那個物體。但關於不明飛行物議題，我們與他們沒有交流協議，也沒有進行過任何官方交流。", "confidence": "high", "notes": ""}
 
 418. Dr. Troy. In the case of my country, I understand that this takes place at two levels. The public level, in which the Air Force Office is in charge of this, and through the public relations. But I understand that at another level, there is an official exchange of information. And this is a constant exchange of information we can see, because afterwards, we can see the information does make it to the United States when there are UFO crashes. For example, in the case that we mentioned before, the San Mato de Huancho in 1980, unfortunately, there are no official documents. Everything is at a secret level, but we have received many testimonies on exchange of information.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "崔博士（Dr. Troy）。在我的國家，我了解這是在兩個層面上進行的。公開層面是由空軍辦公室負責，並透過公共關係處理。但我了解在另一個層面上，存在著官方資訊交流。而且這是一種持續的資訊交流，我們可以看出來，因為之後當發生不明飛行物墜毀時，我們可以看到資訊確實會傳到美國。例如，我們之前提到的1980年聖馬托德萬喬（San Mato de Huancho）案例，不幸的是，沒有官方文件。一切都在機密層級，但我們已經收到了許多關於資訊交流的證詞。", "confidence": "medium", "notes": "Dr. Troy應為Dr. Choy（根據topics.json的potential_errors），但此處保留原文Troy的發音譯法；San Mato de Huancho應為La Joya（拉霍亞），但此處保留原文"}
 
 419. Colonel Santa Maria. Comments, please, on any participation of our either intelligence or military, any other part of our government, in investigations of UFOs in your country. I'm not aware of any official U.S. involvement on the UFO issue, but we do know that in the intelligence exchange, there is an exchange of information between the intelligence agencies. Anytime there's a new event, there is an exchange of information to update the intelligence communities on these issues.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "聖瑪利亞上校（Colonel Santa Maria）。請評論一下，我們的情報或軍方、或政府其他任何部門，是否有參與貴國的不明飛行物調查。我沒有察覺到美國在不明飛行物議題上有任何官方參與，但我們確實知道在情報交流中，情報機構之間存在著資訊交換。每當有新事件發生時，就會有資訊交流來更新情報界對這些議題的了解。", "confidence": "high", "notes": "根據terminology.yaml，Colonel Santa Maria譯為聖瑪利亞上校"}
 
 420. Ms. Simondini. Yes, regarding as I explained to the senator, in matter of ufology on research, I'm not aware of any documentation exchange between Argentina and United States. But regarding to other agencies, as NASA, well, NASA has in several cases of Argentina is a place where there's a lot of space junk. There's a lot of debris satellites coming from international, also other countries. And I researched many cases where many debris is coming, but different kind of procedures.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "西蒙迪尼女士（Ms. Simondini）。是的，正如我向參議員解釋的，在不明飛行物學研究方面，我沒有察覺到阿根廷和美國之間有任何文件交流。但關於其他機構，如NASA（美國國家航空暨太空總署），嗯，NASA在幾個案例中，阿根廷是一個有很多太空垃圾的地方。有很多來自國際上以及其他國家的衛星碎片。我研究過許多碎片墜落的案例，但程序各不相同。", "confidence": "high", "notes": "根據topics.json的potential_errors，Mr. Gimini應為Ms. Simondini，此處已修正"}
 
 421. And in the case of NASA, yes, they asked for particular cases if they were part of American missions. And there was a few cases of retrieval, yes. But we were talking about only space debris. Oh, thank you. It's very interesting that there's apparently a different attitude on their part if it's outside this country. The inner country is total denial. But if they really believe that, then they wouldn't be participating in these investigations in South America.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在NASA的案例中，是的，他們會詢問特定案例是否屬於美國任務的一部分。而且確實有少數回收案例，是的。但我們談論的只是太空碎片。哦，謝謝。非常有趣的是，如果事件發生在國外，他們的態度顯然不同。在國內是完全否認。但如果他們真的相信那種說法，那他們就不會參與這些在南美洲的調查了。", "confidence": "high", "notes": ""}
 
 422. Mr. Gimini, you mentioned that Operation Saucer was shut down. Is that simply because it then went underground, then went secret? They continued the investigation, but secret now?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "格瓦德先生（Mr. Gevaerd），您提到飛碟行動（Operation Saucer）被關閉了。這是否僅僅是因為它轉入了地下，變成了秘密行動？他們繼續進行調查，但現在是秘密進行的？", "confidence": "high", "notes": "根據terminology.yaml，Operation Saucer譯為飛碟行動；Mr. Gimini應為Mr. Gevaerd（根據topics.json的potential_errors）"}
 
 423. The main reason why the Operation Saucer was shut down was because there was an actual contact among the military, William Jolanda, the captain that was commanding the Operation Saucer, and an extraterrestrial creature. It took place on mid-December 1977. And as part of his duties, the commander of the Operation Saucer has to go back to his commander, a brigadier in the city of Belen, and report weekly what was going on during the Operation Saucer. And when he did that that week, then when he informed to his superior that he had an actual encounter with a creature, two arms, two legs, a body, a head, with a helmet that came from a UFO, 300 feet long, that almost landed close to the Guajará-Mirim River.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "飛碟行動被關閉的主要原因是因為軍方人員威廉·約蘭達（William Jolanda）——當時指揮飛碟行動的隊長——與一個外星生物發生了實際接觸。這發生在1977年12月中旬。作為職責的一部分，飛碟行動的指揮官必須每週回到他的指揮官——貝倫市（Belen）的一名准將（brigadier）——那裡，報告飛碟行動期間發生的事情。而當他在那一週這樣做時，當他向他的上級報告他確實與一個生物相遇時——那個生物有兩隻手臂、兩條腿、一個身體、一個頭，戴著頭盔，來自一艘300英呎長的不明飛行物，那艘飛行物差點降落在瓜雅拉米林河（Guajará-Mirim River）附近。", "confidence": "high", "notes": "根據topics.json的potential_errors，William Jolanda應為Uyrangê Hollanda（烏伊蘭熱·奧蘭達上校），但此處保留原文發音譯法；brigadier譯為准將"}
 
 424. When we reported that to the brigadier, Protasso de Oliveira, his commander, then William Jolanda was given order to shut down Operation Saucer and return all material and bring all his men from the jungle to the city and give it all the material, all the information.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當我們向他的指揮官普羅塔索·德·奧利維拉准將（Protasso de Oliveira）報告此事後，威廉·約蘭達接到了關閉飛碟行動的命令，並交還所有物資，將他所有的人員從叢林帶回城市，交出所有物資和資訊。", "confidence": "high", "notes": ""}
 
 425. Then we realized, we knew, I've been seeking information about it for quite 20, 20-some years. I have gathered lots of information about it in my, in my pursuit for the details of this, that the Operation Saucer changed its name, changed its personnel. All the three dozen men that were commanded by William Jolanda were taken off the scene, and the new personnel took the operation under a different name and under U.S. military command from several months after December 1977.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "後來我們發現，我們知道——我已經尋找相關資訊大約20多年了。我在追尋這件事的細節過程中收集了大量資訊——飛碟行動改了名稱，換了人員。威廉·約蘭達指揮的30多名人員全部被撤離現場，新的人員以不同的名稱繼續執行這個行動，並從1977年12月後的幾個月起改由美軍指揮。", "confidence": "high", "notes": ""}
 
 426. Oh, thank you. One quick question to Colonel Santa Maria. What would be the- You have less than one minute.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "哦，謝謝。快速問聖瑪利亞上校一個問題。那會是——您還剩不到一分鐘。", "confidence": "high", "notes": ""}
 
 427. Less than one minute. I saw that. Thank you. I saw that. What would be the arguments for and against the suggestion that what you were dealing with was kind of like a giant hologram rather than something physical? Your bullets had no effect on it. I'm just asking, you know, if that was the argument, that could it have been a kind of a giant hologram, what would be the arguments for that? What would be the arguments against that?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不到一分鐘。我看到了。謝謝。我看到了。對於您所面對的物體可能是一種巨大的全息圖（hologram）而非實體物質的說法，支持和反對的論點各是什麼？您的子彈對它沒有效果。我只是想問，如果那個論點成立，它有沒有可能是一種巨大的全息圖，支持這個說法的論點是什麼？反對的論點又是什麼？", "confidence": "high", "notes": "根據terminology.yaml，hologram譯為全息圖"}
 
 428. Well, it would be difficult for it to be a hologram because I saw it from different angles, and when it moved, a hologram could change, it could change shape, but the colors were very solid. It was a real object. This was not a hologram.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，它不太可能是全息圖，因為我從不同角度看到了它，而且當它移動時，全息圖可能會改變，可能會改變形狀，但那些顏色非常實在。那是一個真實的物體。這不是全息圖。", "confidence": "high", "notes": ""}
 
 429. It was an object that we can't understand if, in fact, there was no effect of bullets on it. I'm just curious. We're dealing with a phenomenon here that we cannot explain in terms of our physics and so forth here. I'm just wondering what the various options are.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "那是一個我們無法理解的物體，如果事實上子彈對它沒有效果的話。我只是好奇。我們正在面對一個無法用我們的物理學等知識來解釋的現象。我只是想知道有各種什麼樣的可能性。", "confidence": "high", "notes": ""}
 
 430. Thank you all very much. Or if we can have a second round to answer additional questions.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝各位。或者如果我們能有第二輪來回答額外的問題。", "confidence": "high", "notes": ""}
 
 431. We will probably have a very short round. Okay, thank you. Yes. One question per person, however. Thank you very much for being here today. Great testimony.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們可能會有一輪非常簡短的提問。好的，謝謝。是的。然而，每人只能問一個問題。非常感謝各位今天蒞臨。精彩的證詞。", "confidence": "high", "notes": ""}

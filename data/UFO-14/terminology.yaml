@@ -1,0 +1,521 @@
+episode_id: UFO-14
+terms:
+  # ===== A =====
+  - term: Ancient Aliens
+    senses:
+      - id: ancient_aliens_theory
+        definition: 遠古文明與外星種族互動的理論或概念
+        preferred_translation: 遠古外星人
+        notes: 指史前時期可能的外星訪問與文明影響
+        segments: [453]
+
+  - term: Amazon River
+    senses:
+      - id: amazon_river_location
+        definition: 南美洲亞馬遜河流域
+        preferred_translation: 亞馬遜河
+        notes: 巴西飛碟行動(Operation Saucer)發生地點
+        segments: [54, 59]
+
+  # ===== B =====
+  - term: Brazilian Air Force
+    senses:
+      - id: brazilian_air_force_org
+        definition: 巴西空軍
+        preferred_translation: 巴西空軍
+        notes: 負責執行飛碟行動的軍事單位
+        segments: [58, 72, 368]
+
+  # ===== C =====
+  - term: cattle mutilations
+    senses:
+      - id: cattle_mutilations_phenomenon
+        definition: 牲畜肢解現象，動物被精確切割且器官消失的未解事件
+        preferred_translation: 牲畜肢解
+        notes: UFO研究中的重要議題，阿根廷證人提及此現象「非常嚴重」（segment 26）
+        segments: [26]
+
+  - term: Close Encounter
+    senses:
+      - id: close_encounter_ufo
+        definition: 近距離目擊或接觸 UFO/外星生物的經歷
+        preferred_translation: 近距離接觸
+        notes: 飛碟行動指揮官與外星生物的第三类接觸，導致行動被關閉（segment 366）
+        segments: [366]
+
+  - term: CEFAA
+    senses:
+      - id: cefaa_chile
+        definition: 智利民航局下屬的異常空中現象調查委員會
+        preferred_translation: CEFAA（異常空中現象調查委員會）
+        notes: 智利官方UFO調查機構，設於民航局下
+        segments: [21, 95, 99, 103, 106, 192]
+
+  - term: CEFORA
+    senses:
+      - id: cefora_argentina
+        definition: 阿根廷共和國UFO現象研究委員會
+        preferred_translation: CEFORA（阿根廷UFO研究委員會）
+        notes: 阿根廷民間UFO研究組織，協助政府推動解密
+        segments: [14]
+
+  - term: Chulucan incident
+    senses:
+      - id: chulucan_incident_event
+        definition: 阿根廷Chulucan地區的UFO事件，涉及智慧光球
+        preferred_translation: 丘盧坎事件
+        notes: 阿根廷證人描述的UFO目擊，光球會與人互動並違反常規科學（segment 466）
+        segments: [466]
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA（中央情報局）
+        notes: 美國主要情報機構，證人提及CIA透過國防武官辦公室監控國際UFO事件（segments 189, 301, 372, 373, 386, 411）
+        segments: [189, 301, 372, 373, 386, 411]
+
+  - term: Civil Aviation Agency
+    senses:
+      - id: civil_aviation_agency_chile
+        definition: 智利民航局
+        preferred_translation: 智利民航局
+        notes: 智利CEFAA的上級主管機構
+        segments: [21, 95]
+
+  - term: Colonel Santa Maria
+    senses:
+      - id: colonel_santa_maria_witness
+        definition: 祕魯空軍上校，1980年UFO空戰目擊者
+        preferred_translation: 聖瑪利亞上校
+        notes: 1980年在拉霍亞空軍基地與UFO交火的祕魯飛行員
+        segments: [15, 25, 35, 159, 212, 293, 324, 327, 336, 419, 420, 492]
+
+  - term: Congresswoman Woolsey
+    senses:
+      - id: congresswoman_woolsey_official
+        definition: 美國國會議員，聽證會主持者之一
+        preferred_translation: 伍爾西議員
+        notes: 本集聽證會提問的國會議員
+        segments: [2, 12, 23, 33]
+
+  # ===== D =====
+  - term: Defense Attaché Office
+    senses:
+      - id: defense_attache_office_org
+        definition: 美國國防部駐外武官辦公室
+        preferred_translation: 國防武官辦公室
+        notes: 負責與駐在國軍方聯繫的美國官方機構
+        segments: [181, 183]
+
+  - term: Department of Defense memo
+    senses:
+      - id: dod_memo_document
+        definition: 美國國防部備忘錄文件
+        preferred_translation: 國防部備忘錄
+        notes: 記錄聖瑪利亞上校1980年UFO遭遇的解密文件
+        segments: [292, 305, 310, 316]
+
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露UFO與外星接觸的真相
+        preferred_translation: 真相揭露
+        notes: 指政府或官方公開承認UFO真相（本集指「公民聽證會關於真相揭露」這一活動）
+        segments: [242]
+
+  - term: Disclosure Project
+    senses:
+      - id: disclosure_project_greer
+        definition: 由Dr. Steven Greer發起的UFO揭露運動
+        preferred_translation: 揭露計畫
+        notes: 2001年在國家記者俱樂部舉辦重大記者會，多位軍方人員作證
+        segments: [206, 400]
+
+  - term: Dr. J.J. Hur-tak
+    senses:
+      - id: dr_hurtak_researcher
+        definition: 研究Varginha事件的UFO研究者
+        preferred_translation: J.J.赫塔克博士
+        notes: 曾參與調查1996年巴西Varginha墜毀事件的研究者
+        segments: [409]
+
+  - term: Dr. John Mack
+    senses:
+      - id: dr_mack_researcher
+        definition: 哈佛大學精神病學教授，外星綁架研究者
+        preferred_translation: 約翰·麥克博士
+        notes: 曾調查Varginha事件的著名研究者
+        segments: [409]
+
+  - term: Dr. Richard Haynes
+    senses:
+      - id: dr_haynes_researcher
+        definition: NARCAP創始人，航空異常現象研究者
+        preferred_translation: 理查德·海恩斯博士
+        notes: NARCAP（國家航空異常現象研究中心）的創始人
+        segments: [195]
+
+  - term: Dr. Roger Leir
+    senses:
+      - id: dr_leir_researcher
+        definition: 以外星植入物研究聞名的UFO研究者
+        preferred_translation: 羅傑·萊爾博士
+        notes: 曾參與調查1996年巴西Varginha墜毀事件的研究者
+        segments: [409]
+
+  # ===== E =====
+  - term: exobiology
+    senses:
+      - id: exobiology_science
+        definition: 外星生命研究學科
+        preferred_translation: 外太空生物學
+        notes: 研究外星生命可能性的科學領域
+        segments: [453]
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        notes: 形容詞用法譯為「外星的」，名詞用法譯為「外星人」或「外星生命」。涵蓋外星智慧、外星起源、外星生物等概念
+        segments: [77, 357, 359, 367, 407, 423, 487, 493]
+
+  - term: extraterrestrial hypothesis
+    senses:
+      - id: et_hypothesis_theory
+        definition: 認為UFO來自地球以外的假設
+        preferred_translation: 外星假說
+        notes: 阿根廷政府未公開承認但歷史上曾研究的假說
+        segments: [495]
+
+  # ===== F =====
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        notes: 巴西Operation Saucer（飛碟行動）的名稱來源
+        segments: [50, 52, 71, 78]
+
+  - term: FOIA
+    senses:
+      - id: foia_law
+        definition: Freedom of Information Act，美國資訊自由法
+        preferred_translation: 資訊自由法
+        notes: 用於申請政府解密UFO相關文件的法律
+        segments: [387]
+
+  # ===== G =====
+  - term: General Assembly
+    senses:
+      - id: general_assembly_uruguay
+        definition: 烏拉圭國會
+        preferred_translation: 烏拉圭國民議會
+        notes: 烏拉圭的立法機構，自1979年起持續關注UFO現象
+        segments: [379]
+
+  - term: General Bermudez
+    senses:
+      - id: general_bermudez_official
+        definition: 智利CEFAA的負責人
+        preferred_translation: 貝爾穆德斯將軍
+        notes: 智利CEFAA的領導人，曾嘗試與美國建立正式合作關係
+        segments: [26, 95, 193]
+
+  - term: Greer Disclosure Project
+    senses:
+      - id: greer_disclosure_project_alt
+        definition: 史蒂芬·格里爾博士發起的揭露計畫
+        preferred_translation: 格里爾揭露計畫
+        notes: 同Disclosure Project，提到Jonathan Weygandt中士的證詞
+        segments: [195]
+
+  # ===== H =====
+  - term: hologram
+    senses:
+      - id: hologram_theory
+        definition: 全息投影理論
+        preferred_translation: 全息圖
+        notes: 有人質疑聖瑪利亞上校看到的UFO可能是全息投影
+        segments: [422, 425]
+
+  # ===== I =====
+  - term: Iguachu letter
+    senses:
+      - id: iguachu_letter_document
+        definition: 阿根廷總統府發出的官方信函
+        preferred_translation: 伊瓜蘇信函
+        notes: 阿根廷總統翁加尼亞將軍時期發出的UFO研究相關信函
+        segments: [496]
+
+  - term: island of Colares
+    senses:
+      - id: colares_island_location
+        definition: 巴西帕拉州科拉雷斯島
+        preferred_translation: 科拉雷斯島
+        notes: 1970年代飛碟行動中UFO攻擊事件的主要發生地
+        segments: [376]
+
+  # ===== J =====
+  - term: Joint Chiefs of Staff
+    senses:
+      - id: joint_chiefs_military
+        definition: 美國參謀長聯席會議
+        preferred_translation: 參謀長聯席會議
+        notes: 美國最高軍事指揮機構，出現在1980年國防部備忘錄中
+        segments: [315]
+
+  # ===== L =====
+  - term: La Joya Air Force Base
+    senses:
+      - id: la_joya_base_location
+        definition: 祕魯拉霍亞空軍基地
+        preferred_translation: 拉霍亞空軍基地
+        notes: 1980年聖瑪利亞上校與UFO交火的發生地
+        segments: [159]
+
+  # ===== M =====
+  - term: mach
+    senses:
+      - id: mach_speed
+        definition: 馬赫，音速的倍數單位
+        preferred_translation: 馬赫
+        notes: UAP從靜止加速到1.2馬赫的超音速飛行
+        segments: [342]
+
+  - term: military dictatorship
+    senses:
+      - id: military_dictatorship_brazil
+        definition: 巴西軍事獨裁政權時期
+        preferred_translation: 軍事獨裁政權
+        notes: 1970年代飛碟行動發生時的巴西政治體制
+        segments: [372]
+
+  - term: Ms. Kilpatrick
+    senses:
+      - id: ms_kilpatrick_official
+        definition: 美國國會議員，聽證會主持者之一
+        preferred_translation: 基爾帕特里克議員
+        notes: 本集聽證會提問美國與南美政府資訊交流的國會議員
+        segments: [122]
+
+  # ===== N =====
+  - term: NARCAP
+    senses:
+      - id: narcap_org
+        definition: National Aviation Research Center for Anomalous Phenomena
+        preferred_translation: NARCAP（國家航空異常現象研究中心）
+        notes: 美國非政府航空研究組織，智利CEFAA的合作夥伴
+        segments: [189, 195, 199]
+
+  - term: National Archives
+    senses:
+      - id: national_archives_brazil
+        definition: 巴西國家檔案館
+        preferred_translation: 巴西國家檔案館
+        notes: 巴西飛碟行動解密文件的存放處
+        segments: [387]
+
+  - term: National Aviation Research Center for Anomalous Phenomena
+    senses:
+      - id: narcap_full_name
+        definition: NARCAP的全名
+        preferred_translation: 國家航空異常現象研究中心
+        notes: NARCAP的完整英文名稱
+        segments: [189]
+
+  - term: National Security
+    senses:
+      - id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        notes: 南美國家將UFO視為國家安全議題
+        segments: [24, 146, 168]
+
+  - term: National Security Agency
+    senses:
+      - id: nsa_agency
+        definition: 美國國家安全局
+        preferred_translation: NSA（國家安全局）
+        notes: 出現在1980年國防部備忘錄收件者名單中
+        segments: [315]
+
+  # ===== O =====
+  - term: Operation Saucer
+    senses:
+      - id: operation_saucer_brazil
+        definition: 巴西空軍1970年代執行的UFO調查行動
+        preferred_translation: 飛碟行動
+        notes: 正式名稱為Operação Prato，調查亞馬遜地區UFO攻擊事件
+        segments: [15, 17, 48, 50, 52, 54, 56, 59, 61, 71, 73, 78, 80, 85, 87, 361, 367, 372, 376]
+
+  # ===== P =====
+  - term: paranormal phenomenon
+    senses:
+      - id: paranormal_phenomenon_concept
+        definition: 超自然現象
+        preferred_translation: 超自然現象
+        notes: 超出常規科學解釋範圍的現象
+        segments: [471]
+
+  - term: paradigm shift
+    senses:
+      - id: paradigm_shift_concept
+        definition: 典範轉移
+        preferred_translation: 典範轉移
+        notes: 科學認知框架的根本性改變
+        segments: [449]
+
+  - term: post combustion
+    senses:
+      - id: post_combustion_engine
+        definition: 後燃器，噴射發動機的加力裝置
+        preferred_translation: 後燃器
+        notes: 聖瑪利亞上校描述啟動後燃器追擊UFO
+        segments: [332, 339]
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍1952-1969年的UFO調查計畫
+        preferred_translation: 藍皮書計畫
+        notes: 美國官方調查UFO的代表性計畫，已被終止
+        segments: [407]
+
+  - term: Project Moon Dust
+    senses:
+      - id: project_moon_dust_classified
+        definition: 美軍機密的太空碎片和外星物體回收計畫
+        preferred_translation: 月球塵埃計畫
+        notes: 據稱負責回收墜毀UFO和外星遺體的祕密項目
+        segments: [415]
+
+  # ===== S =====
+  - term: Secretary of State Cyrus Vance
+    senses:
+      - id: cyrus_vance_official
+        definition: 美國前國務卿（1960年代）
+        preferred_translation: 賽勒斯·萬斯國務卿
+        notes: 其發出的電報證實美軍參與1978年玻利維亞Tarija墜毀事件
+        segments: [418]
+
+  - term: Sighting
+    senses:
+      - id: sighting_ufo_observation
+        definition: 目擊或觀察到UFO/USO的經歷
+        preferred_translation: 目擊
+        notes: 可依語境搭配使用「目擊事件」、「UFO目擊」、「USO目擊」。涵蓋UFO（不明飛行物）與USO（不明潛水物）的觀察記錄
+        segments: [51, 81, 356, 407, 453]
+
+  - term: sovereignty
+    senses:
+      - id: sovereignty_national
+        definition: 國家主權
+        preferred_translation: 國家主權
+        notes: 巴西擔心UFO事件影響其國家主權
+        segments: [384]
+
+  - term: state of Pará
+    senses:
+      - id: para_state_location
+        definition: 巴西帕拉州
+        preferred_translation: 帕拉州
+        notes: 位於亞馬遜地區，飛碟行動的主要調查區域
+        segments: [54, 59]
+
+  - term: supersonic speed
+    senses:
+      - id: supersonic_speed_flight
+        definition: 超音速
+        preferred_translation: 超音速
+        notes: 超過音速的飛行速度
+        segments: [333]
+
+  # ===== T =====
+  - term: teleporting
+    senses:
+      - id: teleporting_phenomenon
+        definition: 瞬間移動
+        preferred_translation: 瞬間移動
+        notes: 物體不經過中間空間直接從一處移到另一處的現象
+        segments: [469]
+
+  - term: 30-millimeter shells
+    senses:
+      - id: thirty_mm_shells_weapon
+        definition: 30毫米炮彈
+        preferred_translation: 30毫米炮彈
+        notes: 聖瑪利亞上校的戰機配備的武器，可摧毀卡車但對UFO無效
+        segments: [323, 325]
+
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        notes: 美國機密等級的最高級別
+        segments: [408]
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        notes: 南美各國官方認可調查的現象
+        segments: [16, 28, 46, 51, 56, 67, 68, 73, 80, 86, 89, 91, 129, 147, 164, 170, 174, 231, 245, 251, 257, 277, 278, 281, 291, 294, 305, 327, 333, 352, 361, 367, 371, 385, 393, 406, 407, 410, 415, 432, 437, 439, 441, 443, 453, 461, 470, 478, 486, 492]
+
+  - term: UFOs Freedom of Information Now
+    senses:
+      - id: ufo_foia_campaign
+        definition: 巴西民間推動UFO資訊自由的運動
+        preferred_translation: 「UFO：即刻資訊自由」運動
+        notes: 巴西公民發起的資訊自由運動，推動空軍解密飛碟行動文件
+        segments: [385, 393]
+
+  - term: UN
+    senses:
+      - id: un_organization
+        definition: United Nations，聯合國
+        preferred_translation: 聯合國
+        notes: 南美證人建議透過聯合國推動全球UFO真相揭露
+        segments: [210, 242, 244]
+
+  - term: U.S. government
+    senses:
+      - id: us_government_org
+        definition: 美國政府
+        preferred_translation: 美國政府
+        notes: 聽證會中對比各國開放程度的對照對象
+        segments: [123, 141, 143, 147, 181, 229]
+
+  - term: U.S. Sergeant Jonathan Weygandt
+    senses:
+      - id: jonathan_weygandt_witness
+        definition: 美國海軍陸戰隊中士，祕魯UFO墜毀事件目擊者
+        preferred_translation: 喬納森·韋甘德中士
+        notes: 在揭露計畫中作證，聲稱在祕魯參與UFO殘骸回收
+        segments: [195, 206, 400]
+
+  # ===== V =====
+  - term: Varginha case
+    senses:
+      - id: varginha_case_incident
+        definition: 1996年巴西瓦爾任阿UFO墜毀事件
+        preferred_translation: 瓦爾任阿事件
+        notes: 巴西最著名的UFO墜毀事件，據稱捕獲外星生物並有美軍參與
+        segments: [408, 409]
+
+  # ===== W =====
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞或目擊報告的證人
+        preferred_translation: 證人
+        notes: 本集包括南美各國軍事人員、研究者和飛行員
+        segments: [79, 80, 477]
+
+  # ===== 排除的術語說明 =====
+  # Being: 所有出現皆為英文動名詞用法（being attacked, being called等），非指外星存有
+  # Entity: 指「實體/機構」而非外星實體（segment 196: "any non-profit or other entity"）
