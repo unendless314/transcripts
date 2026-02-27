@@ -32,7 +32,7 @@ terms:
     senses:
       - id: sighting_ufo_observation
         definition: 目擊或觀察到 UFO 的經歷
-        preferred_translation: 目擊
+        preferred_translation: 目擊事件
         notes: 可搭配使用「目擊事件」、「目擊報告」
         segments: [216, 225, 314, 426, 479]
 
@@ -138,7 +138,7 @@ terms:
     senses:
       - id: transponder_device
         definition: 航空應答機，用於向雷達回報飛機身份和高度
-        preferred_translation: 應答機
+        preferred_translation: 航空應答機
         notes: UFO 通常不會有應答機訊號
         segments: [503]
 
@@ -244,7 +244,7 @@ terms:
     senses:
       - id: mount_blanc_france
         definition: 法國白朗峰
-        preferred_translation: 白朗峰
+        preferred_translation: 法國白朗峰
         notes: Lt. Col. French 目擊 UFO 進入火山
         segments: [283, 284]
 
@@ -252,7 +252,7 @@ terms:
     senses:
       - id: kilauea_volcano_hawaii
         definition: 夏威夷基拉韋厄火山
-        preferred_translation: 基拉韋厄火山
+        preferred_translation: 夏威夷基拉韋厄火山
         notes: Lt. Col. French 目擊 UFO 進入火山（已修正拼寫）
         segments: [289]
 
@@ -510,8 +510,8 @@ terms:
   - term: Major Carl Lewis
     senses:
       - id: lewis_usaf_official
-        definition: 卡爾·劉易斯少校，海軍航空站發言人
-        preferred_translation: 卡爾·劉易斯少校
+        definition: 卡爾·路易斯少校，海軍航空站發言人
+        preferred_translation: 卡爾·路易斯少校
         notes: Stephenville 事件時否認有軍機在空中
         segments: [364]
 
@@ -642,7 +642,7 @@ terms:
     senses:
       - id: tr3b_alleged_aircraft
         definition: TR-3B，據稱的美國秘密三角形飛行器
-        preferred_translation: TR-3B
+        preferred_translation: TR-3B 三角飛行器
         notes: 證人提及的可能的人類先進飛行器
         segments: [618]
 
