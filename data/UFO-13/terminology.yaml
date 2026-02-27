@@ -1,0 +1,509 @@
+# UFO-13 Terminology Classification
+# 根據 terminology_candidates.yaml 完整分類，排除普通詞彙誤判
+# 注意：preferred_translation 為中文譯法，專有名詞保留原文
+
+episode_id: UFO-13
+terms:
+  # ========================================
+  # 核心 UFO 術語（中文翻譯）
+  # ========================================
+
+  - term: Being
+    senses:
+      - sense_id: being_extraterrestrial
+        definition: 外星生命體或智慧存在（名詞用法）
+        preferred_translation: 存有
+        notes: 指涉外星生物實體，僅 segment 401 為名詞用法（"from that being"）
+        segments: [401]
+
+  - term: Classified
+    senses:
+      - sense_id: classified_information
+        definition: 政府或軍方列為機密的資訊或文件
+        preferred_translation: 機密
+        notes: 機密文件（segment 383: "classified archives"）
+        segments: [383]
+
+  - term: Disclosure
+    senses:
+      - sense_id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        notes: 指政府或官方的公開承認（segment 44: "process of disclosure"）
+        segments: [44]
+
+  - term: Extraterrestrial
+    senses:
+      - sense_id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星生命
+        notes: 形容詞用法譯為「外星的」，名詞用法譯為「外星生命」或「外星人」
+        segments: [47, 107, 110, 350, 417, 443, 444, 445]
+
+  - term: FOIA
+    senses:
+      - sense_id: foia_law
+        definition: Freedom of Information Act，美國資訊自由法
+        preferred_translation: 資訊自由法
+        notes: 首次出現使用全名，後續可簡稱 FOIA
+        segments: [161]
+
+  - term: National Security
+    senses:
+      - sense_id: national_security_concern
+        definition: 國家安全考量或機密等級的理由
+        preferred_translation: 國家安全
+        notes: 用於解釋 UFO 資訊保密的官方理由
+        segments: [162]
+
+  - term: Sighting
+    senses:
+      - sense_id: sighting_ufo_observation
+        definition: 目擊或觀察到 UFO 的經歷
+        preferred_translation: 目擊
+        notes: UFO 目擊事件（segment 377: "sighting of a conical-shaped object"）
+        segments: [377]
+
+  - term: UAP
+    senses:
+      - sense_id: uap_phenomenon
+        definition: Unidentified Aerial Phenomena，不明空中現象
+        preferred_translation: 不明空中現象
+        notes: 美國政府官方術語，取代 UFO
+        segments: [150]
+
+  - term: UFO
+    senses:
+      - sense_id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        notes: 可視語境簡稱「UFO」或使用完整中文
+        segments: [35, 53, 84, 85, 91, 92, 93, 99, 103, 105, 106, 108, 112, 118, 123, 135, 136, 140, 142, 147, 154, 164, 166, 178, 180, 185, 187, 191, 210, 223, 250, 269, 277, 281, 289, 290, 321, 322, 323, 326, 343, 368, 371, 399, 402, 405, 408, 420, 428, 442]
+
+  # ========================================
+  # Topic 01: Opening Remarks（開場致詞）
+  # ========================================
+
+  - term: South America
+    senses:
+      - sense_id: region
+        definition: 南美洲地區
+        preferred_translation: 南美洲
+        notes: 地名譯為中文
+        segments: [14, 33, 34, 35]
+
+  - term: Brazilian Congress
+    senses:
+      - sense_id: organization
+        definition: 巴西國會
+        preferred_translation: 巴西國會
+        notes: 組織名譯為中文
+        segments: [36]
+
+  - term: Mr. Wilson Pickler
+    senses:
+      - sense_id: person
+        definition: 巴西前國會議員、商人
+        preferred_translation: Wilson Pickler 先生
+        notes: Topic 01 主要證人，人名保留原文，加稱謂
+        segments: [38]
+
+  - term: nuclear weapons
+    senses:
+      - sense_id: concept
+        definition: 核武器系統
+        preferred_translation: 核武器
+        notes: Topic 01 核心議題
+        segments: [47, 55]
+
+  - term: Hiroshima bomb
+    senses:
+      - sense_id: event
+        definition: 廣島原子彈
+        preferred_translation: 廣島原子彈
+        notes: 歷史事件名稱
+        segments: [57, 62]
+
+  - term: ufologist community
+    senses:
+      - sense_id: group
+        definition: UFO 研究學者社群
+        preferred_translation: UFO 研究學界
+        notes: 譯為中文
+        segments: [65]
+
+  - term: American Congress
+    senses:
+      - sense_id: organization
+        definition: 美國國會
+        preferred_translation: 美國國會
+        notes: 組織名譯為中文
+        segments: [43, 68]
+
+  - term: motherships
+    senses:
+      - sense_id: craft
+        definition: 母艦（大型 UFO）
+        preferred_translation: 母艦
+        notes: 大型 UFO 的稱呼
+        segments: [71]
+
+  # ========================================
+  # Topic 02: Brazil（巴西）
+  # ========================================
+
+  - term: ufology
+    senses:
+      - sense_id: field
+        definition: UFO 研究學門
+        preferred_translation: UFO 研究
+        notes: 譯為「UFO 研究」或「幽浮學」
+        segments: [84]
+
+  - term: Brazilian Committee of UFO Researchers
+    senses:
+      - sense_id: organization
+        definition: 巴西 UFO 研究委員會
+        preferred_translation: 巴西不明飛行物研究委員會
+        notes: 巴西民間 UFO 研究組織，名稱譯為中文
+        segments: [92, 99]
+
+  - term: Ministry of Defense of Brazil
+    senses:
+      - sense_id: organization
+        definition: 巴西國防部
+        preferred_translation: 巴西國防部
+        notes: 組織名譯為中文
+        segments: [92, 96]
+
+  - term: Ambassador Celso Amorim
+    senses:
+      - sense_id: person
+        definition: 巴西駐美大使
+        preferred_translation: Celso Amorim 大使
+        notes: 人名保留原文，加稱謂
+        segments: [98]
+
+  - term: Brazilian Air Force
+    senses:
+      - sense_id: organization
+        definition: 巴西空軍
+        preferred_translation: 巴西空軍
+        notes: 軍事單位名譯為中文
+        segments: [96, 108, 109, 110, 111, 114, 119, 123]
+
+  - term: Operation Saucer
+    senses:
+      - sense_id: operation
+        definition: 巴西空軍 1977 年亞馬遜 UFO 調查行動
+        preferred_translation: 飛碟行動
+        notes: 專案代號譯為中文；Topic 02 核心事件
+        segments: [114, 115, 117, 119, 122]
+
+  - term: radar detects
+    senses:
+      - sense_id: evidence
+        definition: 雷達探測記錄
+        preferred_translation: 雷達探測數據
+        notes: 雷達探測資料（segment 123: "photos, maps, radar detects"）
+        segments: [123]
+
+  # ========================================
+  # Topic 03: Chile（智利）
+  # ========================================
+
+  - term: CEFA
+    senses:
+      - sense_id: organization
+        definition: Committee for the Study of Anomalous Aerial Phenomena，智利民航局下屬 UFO 研究機構
+        preferred_translation: 異常空中現象研究委員會（CEFA）
+        notes: Topic 03 核心組織；首次出現譯全稱加原文，後續簡稱 CEFA 或 CEFAA
+        segments: [139, 147, 148, 150, 151, 155, 156, 163, 164]
+
+  - term: Civil Aviation Agency, DGAC
+    senses:
+      - sense_id: organization
+        definition: 智利民航局（DGAC）
+        preferred_translation: 智利民航局（DGAC）
+        notes: 組織名譯為中文，保留原文縮寫
+        segments: [139]
+
+  - term: Federal Aviation Administration
+    senses:
+      - sense_id: organization
+        definition: 美國聯邦航空管理局（FAA）
+        preferred_translation: 美國聯邦航空管理局（FAA）
+        notes: 組織名譯為中文，保留原文縮寫
+        segments: [140]
+
+  - term: Corporal Valdez
+    senses:
+      - sense_id: person
+        definition: 智利士兵，1977 年「時間扭曲」案件當事人
+        preferred_translation: Valdez 下士
+        notes: 人名保留原文，加軍銜稱謂
+        segments: [142]
+
+  - term: General Ramon Vega
+    senses:
+      - sense_id: person
+        definition: 智利前空軍總司令、參議員
+        preferred_translation: Ramon Vega 將軍
+        notes: 人名保留原文，加軍銜稱謂
+        segments: [145]
+
+  - term: Lawrence Rockefeller-sponsored UFO briefing document
+    senses:
+      - sense_id: document
+        definition: 勞倫斯·洛克菲勒資助的 UFO 簡報文件
+        preferred_translation: 勞倫斯·洛克菲勒資助的不明飛行物簡報文件
+        notes: 文件名稱譯為中文
+        segments: [147]
+
+  - term: El Bosque base
+    senses:
+      - sense_id: location
+        definition: 智利聖地牙哥 El Bosque 空軍基地
+        preferred_translation: 埃爾博斯克基地（El Bosque）
+        notes: 地名譯音，保留原文
+        segments: [180]
+
+  # ========================================
+  # Topic 04: Uruguay（烏拉圭）
+  # ========================================
+
+  - term: Uruguay Air Force
+    senses:
+      - sense_id: organization
+        definition: 烏拉圭空軍
+        preferred_translation: 烏拉圭空軍
+        notes: 軍事單位名譯為中文
+        segments: [207]
+
+  - term: non-identified objects
+    senses:
+      - sense_id: general
+        definition: 不明物體（UFO 的泛稱）
+        preferred_translation: 不明物體
+        notes: 譯為中文
+        segments: [207, 232]
+
+  - term: non-conventional characteristics
+    senses:
+      - sense_id: feature
+        definition: 非常規特徵（指 UFO 的非傳統飛行特性）
+        preferred_translation: 非常規特徵
+        notes: 譯為中文
+        segments: [211]
+
+  - term: LACRI OVNI
+    senses:
+      - sense_id: organization
+        definition: 烏拉圭 UFO 研究民間組織
+        preferred_translation: 烏拉圭 UFO 研究民間組織（LACRI OVNI）
+        notes: 組織名保留原文
+        segments: [225]
+
+  - term: methodology of research
+    senses:
+      - sense_id: concept
+        definition: 研究方法論
+        preferred_translation: 研究方法論
+        notes: 譯為中文
+        segments: [235]
+
+  - term: United Nations
+    senses:
+      - sense_id: organization
+        definition: 聯合國
+        preferred_translation: 聯合國
+        notes: 國際組織名譯為中文
+        segments: [240]
+
+  # ========================================
+  # Topic 05: Peru（秘魯）- Anthony Choy
+  # ========================================
+
+  - term: Anthony Choy
+    senses:
+      - sense_id: person
+        definition: 祕魯 UFO 調查員、律師與調查記者
+        preferred_translation: Anthony Choy
+        notes: Topic 05 主要證人，正確拼寫為 Choy（候選檔拼寫錯誤）
+        segments: [243, 246]
+
+  - term: Area War School of Peru
+    senses:
+      - sense_id: organization
+        definition: 祕魯戰爭學院
+        preferred_translation: 祕魯戰爭學院
+        notes: 機構名譯為中文
+        segments: [249]
+
+  - term: Chulucanas incident
+    senses:
+      - sense_id: event
+        definition: 2001 年祕魯 Chulucanas UFO 事件
+        preferred_translation: 丘盧卡納斯事件（Chulucanas incident）
+        notes: 事件名稱譯音，保留原文；Topic 05 核心事件
+        segments: [269]
+
+  - term: Peruvian Air Force
+    senses:
+      - sense_id: organization
+        definition: 祕魯空軍
+        preferred_translation: 祕魯空軍
+        notes: 軍事單位名譯為中文
+        segments: [269, 277, 283]
+
+  - term: Commander Julio Chamorro-Flores
+    senses:
+      - sense_id: person
+        definition: 祕魯空軍 UFO 調查辦公室主任
+        preferred_translation: Julio Chamorro-Flores 指揮官
+        notes: 人名保留原文，加軍銜稱謂
+        segments: [269]
+
+  - term: Captain Ernesto Arancivia Linares
+    senses:
+      - sense_id: person
+        definition: 祕魯空軍退役上尉，1959 年 UFO 遭遇事件飛行員
+        preferred_translation: Ernesto Arancivia Linares 上尉
+        notes: 人名保留原文，加軍銜稱謂
+        segments: [277]
+
+  - term: P-47 planes
+    senses:
+      - sense_id: craft
+        definition: P-47 戰鬥機
+        preferred_translation: P-47 戰鬥機
+        notes: 機型名稱，保留型號
+        segments: [277]
+
+  - term: Captain Germán Shrock Castillo
+    senses:
+      - sense_id: person
+        definition: 祕魯空軍飛行員
+        preferred_translation: Germán Shrock Castillo 上尉
+        notes: 人名保留原文，加軍銜稱謂
+        segments: [283]
+
+  - term: Colonel José Ratti
+    senses:
+      - sense_id: person
+        definition: 祕魯空軍航太主任
+        preferred_translation: José Ratti 上校
+        notes: 人名保留原文，加軍銜稱謂
+        segments: [287]
+
+  # ========================================
+  # Topic 06: Peru（秘魯）- Colonel Oscar Santa María
+  # ========================================
+
+  - term: Colonel Oscar Santamaria
+    senses:
+      - sense_id: person
+        definition: 祕魯空軍退役上校，1980 年攔截 UFO 事件飛行員
+        preferred_translation: Oscar Santa María 上校
+        notes: Topic 06 主要證人，全名為 Oscar Santa María Huertas
+        segments: [313]
+
+  - term: U.S. Department of Defense
+    senses:
+      - sense_id: organization
+        definition: 美國國防部
+        preferred_translation: 美國國防部
+        notes: 政府機構名譯為中文
+        segments: [318]
+
+  - term: La Jolla, south of Peru base
+    senses:
+      - sense_id: location
+        definition: La Joya 空軍基地（祕魯南部）
+        preferred_translation: 拉霍亞基地（La Joya）
+        notes: 地名譯音，保留原文；正確名稱為 La Joya（原轉錄錯誤已修正）
+        segments: [321]
+
+  - term: SU-22
+    senses:
+      - sense_id: craft
+        definition: 蘇霍伊 Su-22 戰鬥轟炸機
+        preferred_translation: 蘇-22 戰鬥機
+        notes: 機型名稱譯音；Topic 06 核心裝備
+        segments: [322, 357]
+
+  - term: aerostatic globe
+    senses:
+      - sense_id: object
+        definition: 氣球形飛行器（指被攔截的 UFO）
+        preferred_translation: 氣球形飛行器
+        notes: 譯為中文
+        segments: [327]
+
+  - term: 1.6 mach
+    senses:
+      - sense_id: measurement
+        definition: 1.6 馬赫（音速倍數）
+        preferred_translation: 1.6 馬赫
+        notes: 速度單位，保留數字與單位
+        segments: [341]
+
+  # ========================================
+  # Topic 07: Argentina（阿根廷）
+  # ========================================
+
+  - term: Blue Book Project
+    senses:
+      - sense_id: project
+        definition: 美國空軍 1952-1969 年 UFO 調查計畫
+        preferred_translation: 藍皮書計畫（Blue Book Project）
+        notes: 首次出現譯中文加原文，後續可保留原文
+        segments: [371]
+
+  - term: National Commission for Space Studies, called NIE
+    senses:
+      - sense_id: organization
+        definition: 阿根廷國家太空研究委員會（NIE）
+        preferred_translation: 國家太空研究委員會（NIE）
+        notes: 機構名譯為中文，保留縮寫
+        segments: [373]
+
+  - term: unidentified submerged objects or USOs
+    senses:
+      - sense_id: phenomenon
+        definition: 不明潛水物（USO）
+        preferred_translation: 不明潛水物（USO）
+        notes: Topic 07 核心概念；譯為中文加原文縮寫
+        segments: [386]
+
+  - term: CEFORA
+    senses:
+      - sense_id: organization
+        definition: Commission for the Study of UFO Phenomena in the Argentinian Republic，阿根廷 UFO 研究民間組織
+        preferred_translation: CEFORA
+        notes: Topic 07 核心組織，組織名保留原文
+        segments: [408, 418]
+
+  - term: Commission on Aerospace Phenomena Study
+    senses:
+      - sense_id: organization
+        definition: 阿根廷空軍航太現象研究委員會（CEFAE）
+        preferred_translation: 航太現象研究委員會（CEFAE）
+        notes: 譯為中文，保留縮寫 CEFAE
+        segments: [410]
+
+  - term: Bariloche airport
+    senses:
+      - sense_id: location
+        definition: 阿根廷巴里洛切機場
+        preferred_translation: 巴里洛切機場（Bariloche）
+        notes: 地名譯音，保留原文
+        segments: [420]
+
+  - term: Ministry of Defense
+    senses:
+      - sense_id: organization
+        definition: 國防部（阿根廷）
+        preferred_translation: 國防部
+        notes: 政府機構名譯為中文
+        segments: [429, 430]

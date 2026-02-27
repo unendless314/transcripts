@@ -4445,7 +4445,7 @@ segments:
   timecode:
     start: 00:41:39,160
     end: 00:41:44,360
-  source_text: Yes, Anthony Choi from Peru, welcome.
+  source_text: Yes, Anthony Choy from Peru, welcome.
   translation:
     text: null
     status: pending
@@ -4496,7 +4496,7 @@ segments:
   timecode:
     start: 00:41:54,160
     end: 00:41:56,240
-  source_text: My name is Anthony Choi.
+  source_text: My name is Anthony Choy.
   translation:
     text: null
     status: pending
@@ -7471,7 +7471,7 @@ segments:
     start: 01:13:07,840
     end: 01:13:32,440
   source_text: One of the first groups that was being pushed by this commission was the support and acceptance by the Argentinian
-    Air Force, which decided to create, three years ago, CEFAE, which is the Commission on Aerospace Phenomena Study.
+    Air Force, which decided to create, three years ago, CEFAEE, which is the Commission on Aerospace Phenomena Study.
   translation:
     text: null
     status: pending
