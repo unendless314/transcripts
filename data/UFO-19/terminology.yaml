@@ -1,0 +1,833 @@
+episode_id: UFO-19
+terms:
+  # ===== A =====
+  - term: Apollo 14
+    senses:
+      - id: apollo_14_mission
+        definition: 美國第三次成功登月的太空任務（1971年）
+        preferred_translation: 阿波羅 14 號
+        notes: Dr. Edgar Mitchell 參與的登月任務
+        segments: [41]
+
+  - term: Area 51
+    senses:
+      - id: area_51_base
+        definition: 內華達州的高度機密美國空軍設施
+        preferred_translation: 51 區
+        notes: 與 UFO 和先進航空技術研發相關的傳說地點
+        segments: [133]
+
+  - term: Arthur Clarke
+    senses:
+      - id: arthur_clarke_author
+        definition: 英國科幻作家，提出「任何足夠先進的技術都與魔法無異」
+        preferred_translation: 亞瑟·克拉克
+        segments: [79]
+
+  # ===== B =====
+  - term: B2 bomber
+    senses:
+      - id: b2_bomber_aircraft
+        definition: 美國空軍隱形戰略轟炸機，據稱使用電重力技術
+        preferred_translation: B-2 轟炸機
+        segments: [252, 268]
+
+  - term: black project
+    senses:
+      - id: black_project_secret
+        definition: 高度機密的政府/軍方項目，預算和存在皆不公開
+        preferred_translation: 黑項目
+        segments: [468, 472, 474, 526]
+
+  - term: Breakaway civilization
+    senses:
+      - id: breakaway_civilization_concept
+        definition: 脫離主流社會、掌握先進科技的秘密人類文明
+        preferred_translation: 脫離文明
+        segments: []
+
+  - term: Bruce De Palma
+    senses:
+      - id: bruce_de_palma_researcher
+        definition: 同極發電機研究者，Dr. Vallone 的研究啟發者
+        preferred_translation: 布魯斯·德帕爾瑪
+        segments: [167, 171]
+
+  # ===== C =====
+  - term: Carol Rosin
+    senses:
+      - id: carol_rosin_witness
+        definition: 揭露計畫證人，曾與 Wernher von Braun 共事
+        preferred_translation: 卡羅爾·羅辛
+        segments: [562]
+
+  - term: Cedars Lebanon Hospital
+    senses:
+      - id: cedars_lebanon_hospital
+        definition: Dr. Leir 執行植入物移除手術的醫院
+        preferred_translation: 西達斯-黎巴嫩醫院
+        segments: [276, 284]
+
+  - term: Center for American Progress
+    senses:
+      - id: center_for_american_progress_org
+        definition: 由 John Podesta 創立的智庫
+        preferred_translation: 美國進步中心
+        segments: [586]
+
+  - term: Cheyenne Mountain
+    senses:
+      - id: cheyenne_mountain_facility
+        definition: 科羅拉多州的北美防空司令部設施
+        preferred_translation: 夏延山
+        segments: [140, 141]
+
+  - term: Chilbolton Crop Circle
+    senses:
+      - id: chilbolton_crop_circle_event
+        definition: 2001年英國出現的麥田圈，被認為是對阿雷西博訊息的回應
+        preferred_translation: 奇爾波頓麥田圈
+        segments: [760, 774]
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: 美國中央情報局
+        preferred_translation: CIA
+        segments: [55, 145, 565, 620]
+
+  - term: Classified
+    senses:
+      - id: classified_information
+        definition: 政府或軍方列為機密的資訊
+        preferred_translation: 機密
+        segments: [53, 59, 60, 110, 135]
+
+  - term: Condon Committee
+    senses:
+      - id: condon_committee_project
+        definition: 1966-1968年由空軍資助的 UFO 研究項目
+        preferred_translation: 康登委員會
+        segments: [29, 43, 50]
+
+  - term: Congresswoman Kilpatrick
+    senses:
+      - id: congresswoman_kilpatrick_official
+        definition: 國會女議員，聽證會委員會成員
+        preferred_translation: 基爾派翠克眾議員
+        segments: [774, 796, 800]
+
+  - term: Cover-up
+    senses:
+      - id: coverup_government
+        definition: 政府或軍方對 UFO 真相的隱瞞
+        preferred_translation: 真相掩蓋
+        segments: [361]
+
+  # ===== D =====
+  - term: DDPM
+    senses:
+      - id: ddpm_degree
+        definition: Doctor of Podiatric Medicine，足病醫學博士
+        preferred_translation: 足病醫學博士
+        segments: [274]
+
+  - term: Defense Intelligence Agency
+    senses:
+      - id: defense_intelligence_agency_org
+        definition: 美國國防情報局
+        preferred_translation: 國防情報局
+        segments: [534, 558]
+
+  - term: dihydrooxide
+    senses:
+      - id: dihydrooxide_water
+        definition: 水的化學術語（H2O），此處指從水中提取能源的技術
+        preferred_translation: 二氫氧化物（水）
+        segments: [424, 428, 494, 495]
+
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        segments: [270, 562, 578]
+
+  - term: Disclosure Project
+    senses:
+      - id: disclosure_project_greer
+        definition: Dr. Steven Greer 發起的 UFO 揭露運動
+        preferred_translation: 揭露計畫
+        notes: 2001年在國家記者俱樂部舉辦重大記者會
+        segments: [94, 270, 562, 616]
+
+  - term: Douglas Aircraft
+    senses:
+      - id: douglas_aircraft_company
+        definition: 美國航空航太公司，後與麥克唐納合併
+        preferred_translation: 道格拉斯飛機公司
+        segments: [19]
+
+  - term: Dr. Bookman
+    senses:
+      - id: dr_bookman_moderator
+        definition: 聽證會主持人
+        preferred_translation: 布克曼博士
+        segments: [801, 804]
+
+  - term: Dr. Hal Putoff
+    senses:
+      - id: dr_hal_putoff_researcher
+        definition: 史丹佛研究所物理學家，遙視研究先驅
+        preferred_translation: 哈爾·普特夫博士
+        segments: [53, 54]
+
+  - term: Dr. Robert Wood
+    senses:
+      - id: dr_robert_wood_witness
+        definition: 前麥克唐納道格拉斯工程主管，UFO 研究者
+        preferred_translation: 羅伯特·伍德博士
+        segments: [18, 79]
+
+  - term: Dr. Roger Leir
+    senses:
+      - id: dr_roger_leir_witness
+        definition: 足病醫學博士，以外星植入物手術聞名
+        preferred_translation: 羅傑·萊爾博士
+        segments: [274]
+
+  - term: Dr. Steven Greer
+    senses:
+      - id: dr_steven_greer_researcher
+        definition: 急診醫師，揭露計畫創始人
+        preferred_translation: 史蒂芬·格里爾博士
+        segments: [86, 616]
+
+  - term: Dr. Thomas Vallone
+    senses:
+      - id: dr_thomas_vallone_witness
+        definition: 物理學家，專研零點能源與慣性屏蔽
+        preferred_translation: 托馬斯·瓦隆博士
+        segments: [150, 372, 402]
+
+  - term: Dr. Vannevar Bush
+    senses:
+      - id: dr_vannevar_bush_scientist
+        definition: 美國科學家，二戰期間科學研究與發展局局長
+        preferred_translation: 萬尼瓦爾·布希博士
+        segments: [112]
+
+  - term: Dugway Proving Grounds
+    senses:
+      - id: dugway_proving_grounds_facility
+        definition: 猶他州的美國陸軍試驗場
+        preferred_translation: 達格威試驗場
+        segments: [135, 136]
+
+  # ===== E =====
+  - term: EBE
+    senses:
+      - id: ebe_entity
+        definition: 外星生物實體
+        preferred_translation: 外星生物實體
+        segments: []
+
+  - term: Edwards Air Force Base
+    senses:
+      - id: edwards_afb_facility
+        definition: 加州愛德華茲空軍基地
+        preferred_translation: 愛德華茲空軍基地
+        segments: [130]
+
+  - term: EG&G
+    senses:
+      - id: egg_contractor
+        definition: 美國國防承包商，據稱參與 UFO 相關項目
+        preferred_translation: EG&G 公司
+        segments: [540, 564]
+
+  - term: Electrogravitics
+    senses:
+      - id: electrogravitics_field
+        definition: 研究電場與重力場交互作用的技術
+        preferred_translation: 電重力學
+        segments: [260, 270]
+
+  - term: electrogravity
+    senses:
+      - id: electrogravity_effect
+        definition: 電重力效應
+        preferred_translation: 電重力
+        segments: [252, 268]
+
+  - term: Equivalence principle
+    senses:
+      - id: equivalence_principle_physics
+        definition: 愛因斯坦廣義相對論原理，慣性質量與重力質量等價
+        preferred_translation: 等效原理
+        segments: [223]
+
+  - term: Executive Order 12958
+    senses:
+      - id: executive_order_12958_decree
+        definition: 柯林頓總統1995年簽署的解密行政命令
+        preferred_translation: 行政命令12958
+        segments: []
+
+  - term: Extraterrestrial
+    senses:
+      - id: extraterrestrial_alien
+        definition: 來自地球以外的生命或文明
+        preferred_translation: 外星的
+        segments: [5, 30, 113, 119, 120, 139]
+
+  # ===== F =====
+  - term: F-4 Phantom jet
+    senses:
+      - id: f4_phantom_jet_aircraft
+        definition: 伊朗空軍戰鬥機，1976年與 UFO 遭遇事件
+        preferred_translation: F-4 幽靈戰鬥機
+        segments: [60, 61]
+
+  - term: false flag operations
+    senses:
+      - id: false_flag_operations_military
+        definition: 偽旗行動，偽裝成敵方發動的攻擊以嫁禍對方
+        preferred_translation: 偽旗行動
+        segments: [538, 563]
+
+  - term: Faraday
+    senses:
+      - id: faraday_scientist
+        definition: 麥可·法拉第，電磁學先驅
+        preferred_translation: 法拉第
+        segments: [90]
+
+  - term: Flying Saucer
+    senses:
+      - id: flying_saucer_craft
+        definition: 碟形或圓盤狀的不明飛行器
+        preferred_translation: 飛碟
+        segments: [51, 112]
+
+  - term: Foo Fighters
+    senses:
+      - id: foo_fighters_phenomenon
+        definition: 二戰期間飛行員報告看到的神秘飛行球體
+        preferred_translation: 幽浮光球
+        segments: [103, 104, 105, 109]
+
+  - term: Fort Huachuca
+    senses:
+      - id: fort_huachuca_base
+        definition: 亞利桑那州的美國陸軍基地
+        preferred_translation: 瓦丘卡堡
+        segments: [139, 140]
+
+  # ===== G =====
+  - term: gauss meter
+    senses:
+      - id: gauss_meter_device
+        definition: 測量磁場強度的儀器
+        preferred_translation: 高斯計
+        segments: [298, 315, 316]
+
+  - term: General Doolittle
+    senses:
+      - id: general_doolittle_military
+        definition: 美國空軍將領，曾報告 Foo Fighters
+        preferred_translation: 杜立德將軍
+        segments: [104, 109]
+
+  - term: George Van Tassel
+    senses:
+      - id: george_van_tassel_contactee
+        definition: 巨石會議創始人，建造 Integratron
+        preferred_translation: 喬治·凡·塔瑟爾
+        segments: [157, 158, 197, 198, 201]
+
+  - term: Giant Rock
+    senses:
+      - id: giant_rock_location
+        definition: 加州沙漠中的巨型岩石，UFO 會議舉辦地
+        preferred_translation: 巨石
+        segments: [157, 197, 201]
+
+  - term: Grey
+    senses:
+      - id: grey_alien_type
+        definition: 小型灰色外星人
+        preferred_translation: 灰人
+        segments: [340]
+
+  # ===== H =====
+  - term: Haisch, Rueda, and Puthoff
+    senses:
+      - id: haisch_rueda_puthoff_physicists
+        definition: 提出慣性是電磁效應理論的物理學家
+        preferred_translation: 海施、魯埃達與普特夫
+        segments: [231]
+
+  - term: Herman Oberth
+    senses:
+      - id: herman_oberth_scientist
+        definition: 德國火箭先驅，曾暗示 UFO 存在
+        preferred_translation: 赫爾曼·奧伯特
+        segments: [113, 117]
+
+  - term: homopolar generator
+    senses:
+      - id: homopolar_generator_device
+        definition: 一種直流發電機，Dr. Vallone 的研究起點
+        preferred_translation: 同極發電機
+        segments: [151, 160, 164, 167, 171, 173, 186]
+
+  - term: House Science and Astronautics Committee
+    senses:
+      - id: house_science_committee
+        definition: 美國眾議院科學與太空委員會
+        preferred_translation: 眾議院科學與太空委員會
+        segments: [29, 43]
+
+  # ===== I =====
+  - term: Implants
+    senses:
+      - id: implants_alien_device
+        definition: 外星存有植入人體的裝置
+        preferred_translation: 植入物
+        segments: [282, 283, 306, 564, 753]
+
+  - term: inertial mass
+    senses:
+      - id: inertial_mass_physics
+        definition: 物體抵抗加速度的性質
+        preferred_translation: 慣性質量
+        segments: [225, 382, 387, 403, 429, 534]
+
+  - term: inertial shielding
+    senses:
+      - id: inertial_shielding_technology
+        definition: 屏蔽慣性效應的理論技術，可實現極端加速
+        preferred_translation: 慣性屏蔽
+        segments: [213, 239, 258, 265, 391]
+
+  - term: Integratron
+    senses:
+      - id: integratron_structure
+        definition: George Van Tassel 建造的圓頂結構，據稱用於再生
+        preferred_translation: 積分器
+        segments: [197, 199, 200, 203]
+
+  - term: Interdimensional
+    senses:
+      - id: interdimensional_concept
+        definition: 涉及跨越不同維度的
+        preferred_translation: 跨維度
+        segments: [388]
+
+  - term: ITT
+    senses:
+      - id: itt_company
+        definition: International Telephone and Telegraph，跨國電信公司
+        preferred_translation: ITT 公司
+        segments: [144]
+
+  # ===== J =====
+  - term: James E. McDonald
+    senses:
+      - id: james_e_mcdonald_scientist
+        definition: 亞利桑那大學大氣物理學家，UFO 研究者
+        preferred_translation: 詹姆斯·麥克唐納博士
+        segments: [29, 41, 43]
+
+  - term: Jane's Defense Weekly
+    senses:
+      - id: janes_defense_weekly_publication
+        definition: 著名的國防軍事週刊
+        preferred_translation: 詹氏防務週刊
+        segments: [93, 94]
+
+  - term: John Podesta
+    senses:
+      - id: john_podesta_official
+        definition: 白宮幕僚長，美國進步中心創始人
+        preferred_translation: 約翰·波德斯達
+        segments: [586]
+
+  - term: John Searle
+    senses:
+      - id: john_searle_inventor
+        definition: 英國發明家，Searle 效應發電機創造者
+        preferred_translation: 約翰·瑟爾
+        segments: [175, 191]
+
+  # ===== K =====
+  - term: Kirtland Air Force Base
+    senses:
+      - id: kirtland_afb_facility
+        definition: 新墨西哥州阿布奎基的空軍基地
+        preferred_translation: 柯特蘭空軍基地
+        segments: [137, 138]
+
+  - term: Kołysko-Frost effect
+    senses:
+      - id: kolysko_frost_effect_physics
+        definition: 德國物理學中的電磁重力效應
+        preferred_translation: 科利斯可-弗羅斯特效應
+        segments: [99]
+
+  # ===== L =====
+  - term: Lockheed Skunk Works
+    senses:
+      - id: lockheed_skunk_works_division
+        definition: 洛克希德公司的先進開發項目部門
+        preferred_translation: 洛克希德臭鼬工廠
+        segments: [130, 132]
+
+  - term: Lorentz force
+    senses:
+      - id: lorentz_force_physics
+        definition: 電磁場對帶電粒子的作用力
+        preferred_translation: 勞倫茲力
+        segments: [231, 239, 241]
+
+  - term: Los Alamos National Laboratories
+    senses:
+      - id: los_alamos_labs_facility
+        definition: 新墨西哥州的國家實驗室
+        preferred_translation: 洛斯阿拉莫斯國家實驗室
+        segments: [137, 307, 342]
+
+  # ===== M =====
+  - term: Manned Orbiting Laboratory
+    senses:
+      - id: manned_orbiting_laboratory_project
+        definition: 美國空軍的載人軌道實驗室計畫（1960年代）
+        preferred_translation: 載人軌道實驗室
+        segments: [22, 26]
+
+  - term: Mark McCandlish
+    senses:
+      - id: mark_mccandlish_researcher
+        definition: UFO 研究者，ART 藝術家
+        preferred_translation: 馬克·麥坎德利什
+        segments: [270, 271]
+
+  - term: Maxwell equations
+    senses:
+      - id: maxwell_equations_physics
+        definition: 描述電磁場的基礎方程組
+        preferred_translation: 馬克士威方程組
+        segments: [90]
+
+  - term: McDonnell Douglas
+    senses:
+      - id: mcdonnell_douglas_company
+        definition: 美國航空航太公司，由道格拉斯和麥克唐納合併而成
+        preferred_translation: 麥克唐納道格拉斯公司
+        segments: [20, 26, 45, 52]
+
+  - term: military-industrial-congressional complex
+    senses:
+      - id: military_industrial_congressional_complex
+        definition: 軍工國會複合體，指軍方、工業界和國會的利益結合
+        preferred_translation: 軍工國會複合體
+        segments: [284, 295]
+
+  - term: milligauss
+    senses:
+      - id: milligauss_unit
+        definition: 磁場強度單位，千分之一高斯
+        preferred_translation: 毫高斯
+        segments: [298, 316, 318, 319]
+
+  - term: MUFON
+    senses:
+      - id: mufon_network
+        definition: Mutual UFO Network，UFO 互動網絡
+        preferred_translation: MUFON（UFO 互動網絡）
+        segments: [31, 50, 51]
+
+  # ===== N =====
+  - term: National Reconnaissance Office
+    senses:
+      - id: national_reconnaissance_office_agency
+        definition: 美國國家偵察局，負責衛星情報
+        preferred_translation: 國家偵察局
+        notes: 簡稱 NRO
+        segments: [247, 250]
+
+  - term: National Security Agency
+    senses:
+      - id: national_security_agency_org
+        definition: 美國國家安全局
+        preferred_translation: 國家安全局
+        notes: 簡稱 NSA
+        segments: [115, 119]
+
+  - term: New Mexico Tech
+    senses:
+      - id: new_mexico_tech_institution
+        definition: 新墨西哥理工學院
+        preferred_translation: 新墨西哥理工學院
+        segments: [307, 342]
+
+  - term: Nick Cook
+    senses:
+      - id: nick_cook_journalist
+        definition: Jane's Defense Weekly 航空編輯，調查反重力研究
+        preferred_translation: 尼克·庫克
+        segments: [93, 94]
+
+  - term: Nikola Tesla
+    senses:
+      - id: nikola_tesla_inventor
+        definition: 塞爾維亞裔美國發明家，交流電系統先驅
+        preferred_translation: 尼古拉·特斯拉
+        segments: [92, 94, 95]
+
+  - term: Norton Air Force Base
+    senses:
+      - id: norton_afb_facility
+        definition: 加州聖貝納迪諾的軍事基地（已關閉）
+        preferred_translation: 諾頓空軍基地
+        segments: [270, 271]
+
+  # ===== O =====
+  - term: Oppenheimer
+    senses:
+      - id: oppenheimer_scientist
+        definition: J. Robert Oppenheimer，曼哈頓計畫科學主任
+        preferred_translation: 奧本海默
+        segments: [113, 116]
+
+  - term: over-unity system
+    senses:
+      - id: over_unity_system_device
+        definition: 輸出能量大於輸入能量的系統（違反傳統熱力學）
+        preferred_translation: 超能系統
+        segments: [426, 510]
+
+  # ===== P =====
+  - term: Paul LaViolette
+    senses:
+      - id: paul_laviolette_researcher
+        definition: 電重力學研究者，B-2 轟炸機相關理論提出者
+        preferred_translation: 保羅·拉維奧萊特
+        segments: [268]
+
+  - term: Philip Corso
+    senses:
+      - id: philip_corso_officer
+        definition: 美國陸軍軍官，聲稱參與外星技術反向工程
+        preferred_translation: 菲利普·科索
+        segments: [63, 71]
+
+  - term: Pine Gap
+    senses:
+      - id: pine_gap_facility
+        definition: 澳洲的衛星地面站和監測設施
+        preferred_translation: 松樹谷
+        segments: [141, 142]
+
+  - term: Project Blue Book
+    senses:
+      - id: project_blue_book_usaf
+        definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+        preferred_translation: 藍皮書計畫
+        segments: []
+
+  - term: proprioceptors
+    senses:
+      - id: proprioceptors_biological
+        definition: 本體感受器，感知身體位置的神經末梢
+        preferred_translation: 本體感受器
+        segments: [322, 340]
+
+  # ===== R =====
+  - term: Ray Hallett
+    senses:
+      - id: ray_hallett_engineer
+        definition: Douglas Aircraft 工程師，推動 UFO 研究
+        preferred_translation: 雷·哈雷特
+        segments: [20]
+
+  - term: remote viewing
+    senses:
+      - id: remote_viewing_psychic
+        definition: 透過心靈感應遠距離感知目標的技術
+        preferred_translation: 遙視
+        segments: [53, 54, 55, 56]
+
+  - term: Representative Hooley
+    senses:
+      - id: representative_hooley_official
+        definition: 眾議員，聽證會開幕致詞者
+        preferred_translation: 胡利眾議員
+        segments: [4, 13]
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+        preferred_translation: 羅斯威爾事件
+        segments: [108, 110, 120]
+
+  # ===== S =====
+  - term: Sandia National Laboratories
+    senses:
+      - id: sandia_labs_facility
+        definition: 新墨西哥州的國家實驗室
+        preferred_translation: 桑迪亞國家實驗室
+        segments: [138, 139]
+
+  - term: scalar waves
+    senses:
+      - id: scalar_waves_physics
+        definition: 純量波，理論上的縱向電磁波
+        preferred_translation: 純量波
+        segments: [759, 771]
+
+  - term: Searle disk
+    senses:
+      - id: searle_disk_device
+        definition: John Searle 發明的反重力發電裝置
+        preferred_translation: 瑟爾碟
+        segments: [173, 189, 191]
+
+  - term: second law of thermodynamics
+    senses:
+      - id: second_law_thermodynamics_physics
+        definition: 熱力學第二定律，關於熵和能量轉換的方向性
+        preferred_translation: 熱力學第二定律
+        segments: [384, 509, 512, 515]
+
+  - term: Stanton Friedman
+    senses:
+      - id: stanton_friedman_researcher
+        definition: 核子物理學家，UFO 研究者，羅斯威爾事件專家
+        preferred_translation: 斯坦頓·弗里德曼
+        segments: [24]
+
+  - term: Stanford Research Institute
+    senses:
+      - id: stanford_research_institute_org
+        definition: 史丹佛大學研究機構，進行遙視研究
+        preferred_translation: 史丹佛研究所
+        segments: [53, 54]
+
+  - term: Stan Meyer
+    senses:
+      - id: stan_meyer_inventor
+        definition: 發明家，聲稱開發出水燃料電池
+        preferred_translation: 史丹·邁耶
+        segments: [430, 503, 505]
+
+  - term: Stephen Hawking
+    senses:
+      - id: stephen_hawking_physicist
+        definition: 英國理論物理學家
+        preferred_translation: 史蒂芬·霍金
+        segments: [406, 522]
+
+  - term: Strangelovian complex
+    senses:
+      - id: strangelovian_complex_concept
+        definition: 源自電影《奇愛博士》，指失控的軍工權力結構
+        preferred_translation: 奇愛式情結
+        segments: [557]
+
+  - term: sundown rule
+    senses:
+      - id: sundown_rule_policy
+        definition: 解密文件的日落條款，規定文件應在一定期限後解密
+        preferred_translation: 日落條款
+        segments: [647, 651, 672]
+
+  # ===== T =====
+  - term: T. Townsend Brown
+    senses:
+      - id: t_townsend_brown_inventor
+        definition: 美國物理學家，電重力學先驅
+        preferred_translation: 湯森·布朗
+        segments: [99, 252]
+
+  - term: Telepathic
+    senses:
+      - id: telepathic_communication
+        definition: 透過心靈感應進行的溝通
+        preferred_translation: 心靈感應的
+        segments: []
+
+  - term: The Hunt for Zero Point
+    senses:
+      - id: the_hunt_for_zero_point_book
+        definition: Nick Cook 撰寫的關於反重力研究的書
+        preferred_translation: 《尋找零點》
+        segments: [93, 96]
+
+  - term: The Omega Project
+    senses:
+      - id: the_omega_project_research
+        definition: Dr. Leir 創立的植入物研究項目
+        preferred_translation: 歐米茄計畫
+        segments: [276, 288]
+
+  - term: Top Secret
+    senses:
+      - id: top_secret_classification
+        definition: 最高等級的機密分類
+        preferred_translation: 最高機密
+        segments: [120, 584, 682]
+
+  - term: trans-dimensional physics
+    senses:
+      - id: trans_dimensional_physics_field
+        definition: 跨維度物理學，研究其他維度的物理理論
+        preferred_translation: 跨維度物理學
+        segments: [388, 412]
+
+  # ===== U =====
+  - term: UFO
+    senses:
+      - id: ufo_craft
+        definition: Unidentified Flying Object，不明飛行物
+        preferred_translation: 不明飛行物
+        segments: [1, 24, 43, 49, 50, 51, 80]
+
+  - term: USAP
+    senses:
+      - id: usap_project
+        definition: 未公開的特別許可項目
+        preferred_translation: 未公開特別許可項目
+        segments: []
+
+  # ===== W =====
+  - term: Wilbur Smith document
+    senses:
+      - id: wilbur_smith_document_memo
+        definition: 加拿大工程師 Wilbur Smith 的備忘錄，關於 UFO 研究
+        preferred_translation: 威爾伯·史密斯文件
+        segments: [110, 111]
+
+  - term: Witness
+    senses:
+      - id: witness_testimony
+        definition: 提供證詞的證人
+        preferred_translation: 證人
+        segments: [18, 130, 562, 565]
+
+  # ===== Z =====
+  - term: zero-point energy
+    senses:
+      - id: zero_point_energy_concept
+        definition: 量子真空中的基態能量，被認為是無限能源的潛在來源
+        preferred_translation: 零點能源
+        segments: [92, 205, 213, 215, 218, 220, 421]
+
+  - term: zero-point energy field
+    senses:
+      - id: zero_point_energy_field_physics
+        definition: 零點能源場，量子真空能量場
+        preferred_translation: 零點能源場
+        segments: [92, 433]
