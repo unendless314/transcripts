@@ -1,61 +1,61 @@
 ## Speaker Group 1
 
 123. Thank you. You are, the last two witnesses have been particularly good at keeping it right within the time limit. We sure appreciate that. Jeffrey Torres, you've got 10 minutes.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "謝謝。前面兩位證人都很準時地控制在時間限制內，我們非常感謝。傑佛瑞·托雷斯，你有十分鐘。", "confidence": "high", "notes": ""}
 
 124. My pleasure. Well, good day to everybody. My name is Jeffrey Torres. I'm not going to talk about myself much. I'm a veteran. I served the United States Air Force. I'm talking here today about my father. I'm the son of Major Milton John Torres. My father served in the U.S. Air Force from 1951 to 1971, and regrettably, my father cannot attend this hearing as he is now suffering from ill health directly related to combat from the Vietnam War. I told him before I left that I was coming on his behalf, and he expressed his deep gratitude that I was coming here today to testify and tell you folks his story. First of all, I would like to give you a brief history of who my father was and his accomplishments.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的榮幸。各位好，我是傑佛瑞·托雷斯。我不會談太多關於自己的事。我是退伍軍人，曾在美國空軍服役。我今天在此是為了談論我的父親。我是米爾頓·約翰·托雷斯少校的兒子。我父親於1951年至1971年在美國空軍服役，遺憾的是，由於健康狀況不佳，他無法親自出席這場聽證會，這直接與他在越戰中的作戰經歷有關。我在出發前告訴他我將代表他前來，他對我今天能來此作證並向大家講述他的故事深表感激。首先，我想簡要介紹我父親的經歷與成就。", "confidence": "high", "notes": ""}
 
 125. Dad earned a bachelor's degree in general engineering with a minor in chemistry, and completed his master's degree in aerospace engineering from the University of Oklahoma in 1961. His military career was spent over the span of 20 years. Dad served as a fighter pilot, flying the F-86D, and according to him, the best airplane ever made, as well as the F-100. He was a decorated pilot, achieving the title of USAF command pilot. Dad flew over 300 combat missions in Vietnam as a forward air controller in Vietnam. He received 13 air medals, including the Distinguished Flying Cross, and I know firsthand that he was even put in for the Air Force Cross, which he denied because of political reasons, which we'll not get into here. My father attained a rank of major, as well as during his career he also worked with NASA as a chief of range control for the Gemini and Apollo Moon missions.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "父親獲得普通工程學士學位，輔修化學，並於1961年在奧克拉荷馬大學完成航空工程碩士學位。他的軍旅生涯長達20年。父親擔任戰鬥機飛行員，駕駛F-86D，據他所說這是有史以來最好的飛機，同時也駕駛過F-100。他是一位功勳卓著的飛行員，獲得美國空軍指揮飛行員的頭銜。父親在越南擔任前進空中管制員，執行超過300次作戰任務。他獲得13枚空軍勳章，包括傑出飛行十字勳章，我親眼所知他甚至被提名空軍十字勳章，但因政治因素而婉拒，這部分我們在此不詳述。我父親晉升至少校，並在職業生涯中與NASA合作，擔任雙子星與阿波羅登月計畫的靶場控制主管。", "confidence": "high", "notes": ""}
 
 126. After Dad retired from the United States Air Force, Dad worked for Pan Am as an engineer, and later acquired his doctorate in mechanical engineering from the University of Miami.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "父親從美國空軍退役後，在泛美航空擔任工程師，之後在邁阿密大學取得機械工程博士學位。", "confidence": "high", "notes": ""}
 
 127. My father's last job was as a professor at Florida International University teaching engineering.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我父親最後一份工作是在佛羅里達國際大學擔任工程學教授。", "confidence": "high", "notes": ""}
 
 128. During his tenure at FIU, he invented a chemical encoding process using a polymer to prevent catastrophic metal fatigue on aircraft and received a patent for that process. Dad retired from FIU in 2004. So now we'll go on to Dad's story and the event that happened. I will go into some details he shared with our family, but before I do, I want to point out something here. That my father, he kept his secret for over 50 years. He never told anyone and he honored his oath to this country. And he never had the chance to tell his story to my grandfather, his father who he loved very, very much. And I've never seen my father cry until this story broke. Sadly, my father kept it all from everyone, including us and my family. Not even telling his father's story when he was the closest man that he ever had. I know Dad would never have discussed this event if not for it being declassified by the Minister of Defense, Nick
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在FIU任教期間，他發明了一種利用聚合物進行化學編碼的製程，用於防止飛機發生災難性金屬疲勞，並為此製程取得專利。父親於2004年從FIU退休。現在我要開始講述父親的故事以及那件發生的事件。我會分享一些他告訴我們家人的細節，但在那之前，我想先指出一件事。我父親保守這個秘密超過50年。他從未告訴任何人，並恪守對國家的誓言。他甚至從未有機會將這個故事告訴我的祖父，那位他深愛的父親。在這個故事曝光之前，我從未見過父親哭泣。令人難過的是，父親對所有人保密，包括我們和我的家人。他甚至沒有告訴他最親近的父親。我知道如果不是英國國防部長尼克·波普將此事解密，父親絕對不會談論這個事件。", "confidence": "high", "notes": "FIU 保留原文縮寫，因為前一段已提及全名"}
 
 129. Pope, out of the UK. After the event was declassified, Dad shared the story often with us. It was May 20th, 1957. Dad was stationed at RAF Manston, England. Dad was working on intercept standby.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "波普將此事解密。事件解密後，父親經常與我們分享這個故事。那是1957年5月20日。父親駐紮在英國曼斯頓皇家空軍基地，當時正在執行攔截待命任務。", "confidence": "high", "notes": ""}
 
 130. Of course, this was a cycle between the pilots in this particular event. It was Dad's turn.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "當然，這是飛行員之間輪流的任務。這次輪到父親值班。", "confidence": "high", "notes": ""}
 
 131. Dad was again flying the F-86D. This aircraft was a D model, which meant it was an all-weather fighter. Dad told me that the RAF Manston was a main intercept squadron during the Cold War in England. Dad was on alert with his wingman and some of the ground crew in the ready room. That night was a typical English night with the weather being poor and foggy.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "父親當時駕駛的是F-86D戰鬥機。這是D型號，代表全天候戰鬥機。父親告訴我，曼斯頓皇家空軍基地是冷戰時期英國的主要攔截中隊駐地。父親與他的僚機以及部分地勤人員在待命室待命。那晚是典型的英國夜晚，天氣惡劣且多霧。", "confidence": "high", "notes": ""}
 
 132. The notification came down from the ready room indicating a scramble. Dad ran for his plane. The scramble was initiated. Dad jumped in his cockpit. If you could please, I put the photo of Dad's aircraft, if anybody would like to see the airplane. I have one saved on there. Anyhow, so he jumped in his cockpit upon getting the authentication code to fire.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "待命室傳來緊急起飛的通知。父親跑向他的飛機。緊急起飛程序啟動。父親跳進座艙。如果可以的話，我放了一張父親飛機的照片，如果有人想看看這架飛機。我存了一張在那裡。總之，他在獲得開火授權碼後跳進了座艙。", "confidence": "high", "notes": ""}
 
 133. He then realized that this was no drill. They normally would never give you an authentication code, and they told him it was a hot mission. He had orders to shoot this thing down. Dad told me whatever this thing was, they wanted it down, and he thought he was starting World War III. All kinds of thoughts were in his head. The intercept controller ordered Dad to fire a full salvo of 24 rockets at this object. Dad later told me that he knew full well how serious this event was. Dad was in his aircraft. His aircraft came to life, and he was given an order to go gate, which meant full afterburners were to be used after getting airborne. Dad said, "Do you want me to continue with the afterburners? Affirmative. Go gate."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這時他意識到這不是演習。他們通常絕不會給你開火授權碼，而他們告訴他這是熱任務。他接到命令要擊落這個東西。父親告訴我，無論這是什麼，他們都想把它打下來，他以為第三次世界大戰要開始了。各種想法在他腦海中閃過。攔截管制員命令父親向這個物體發射全數24枚火箭。父親後來告訴我，他完全知道這個事件有多嚴重。父親在飛機上，他的飛機啟動了，他接到命令「go gate」，這意味著起飛後要使用全後燃器。父親說：「您要我繼續使用後燃器嗎？」「確認。Go gate。」", "confidence": "high", "notes": "\"go gate\" 為軍事術語，保留原文並在 context 中暗示其意義"}
 
 134. In other words, they wanted him to close in on this thing, and they wanted him there fast.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "換句話說，他們要他接近這個東西，而且要他盡快趕到。", "confidence": "high", "notes": ""}
 
 135. Dad was told to vector over to the North Sea. The object had been sighted hovering over East Ipswich. Dad told me he had a confirmation of the target acquisition from the ground radar. His jet flying with full afterburners was now headed towards the North Sea, and Dad was flying at 32,000 feet, and full afterburner and heavy cloud cover with zero visibility.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "父親被告知要轉向北海。該物體被目擊盤旋在伊普斯威奇東部上空。父親告訴我，他從地面雷達獲得了目標鎖定的確認。他的噴射機在全後燃器推進下朝北海飛去，父親在32,000英尺高度飛行，全後燃器開啟，雲層厚重，能見度為零。", "confidence": "high", "notes": ""}
 
 136. However, his radar was painting a target as big as an aircraft carrier at that altitude.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "然而，他的雷達顯示在該高度有一個目標，大小如同航空母艦。", "confidence": "high", "notes": ""}
 
 137. Dad was fast approaching the target, and the object kept pulling in front of him just beyond range. It was toying with him. Finally, he was able to get his radar lock on the object.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "父親快速接近目標，但那個物體不斷在他前方保持在射程之外。它在戲弄他。最後，他終於成功用雷達鎖定了目標。", "confidence": "high", "notes": ""}
 
 138. Dad said this thing was huge, and the blip was so big that it was easy to get target acquisition. Right before he got the instruction to fire from the radar control set, the target made an erratic side-to-side movement and moved beyond range, causing Dad to lose lock on his target. The object then accelerated from zero to Mach 10 in seconds, and Dad was unable to fire as a result. He lost complete lock. Dad told me his radar, his wingman's radar and the ground radar confirmed it as well. They had lost lock, and they were totally perplexed as to what happened. So, to make a long story short, the most compelling thing Dad said was that this thing was doing things that an ordinary aircraft could do. It was defying the laws of physics, and he was convinced that it was of alien origin. Anyhow, during that time, there was nothing in the Air Force that could come close to it. The F-86 could
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "父親說這個東西巨大無比，雷達訊號如此之大，很容易就能鎖定目標。就在他即將從雷達管制組接到開火指令之前，目標做出不規則的左右移動並超出射程，導致父親失去了目標鎖定。該物體隨後在幾秒鐘內從零加速到10馬赫，父親因此無法開火。他完全失去了鎖定。父親告訴我，他的雷達、他僚機的雷達以及地面雷達都證實了這一點。他們都失去了鎖定，對於發生的事情完全困惑不解。總之，父親說最令他信服的是，這個東西正在做普通飛機做不到的事情。它違反了物理定律，他確信這是外星來的。總之，在那個時代，空軍中沒有任何東西能與之相比。F-86戰鬥機", "confidence": "high", "notes": ""}
 
 139. barely make Mach .98 Mach. It would make Mach 1 in its complete dive at the time, and this thing did Mach 10. There was no known aircraft that could do this. So, upon landing his aircraft, Dad was contacted by the intercept officer on a secure phone. The person on the line told him that what happened was considered classified, and not to discuss this with anyone, from his wingman to his commander. He would be debriefed in the morning. Dad told me he realized how lucky he was, as if he did manage to fire at this object, he probably would have vaporized him. Off the record, he was scared shitless. So, he did tell me that the following day, Dad reported for duty, a call came in from a man that was from the NSA, and that he called him a spook. For us, it was much more personal, this whole event, because the spook came in, and swore Dad to secrecy that he would never, ever repeat what
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "最高只能飛到0.98馬赫。當時它只有在俯衝時才能達到1馬赫，而這個東西做到了10馬赫。當時沒有任何已知的飛機能做到這一點。因此，在他降落飛機後，攔截軍官透過保密電話聯繫了父親。電話中的人告訴他，發生的事情被列為機密，不得與任何人討論，從他的僚機到他的指揮官都不行。他將在第二天早上接受簡報。父親告訴我，他意識到自己有多幸運，因為如果他真的成功向這個物體開火，他可能會被汽化。私底下說，他嚇壞了。所以，他確實告訴我，第二天父親報到時，接到一個來自NSA的人的電話，他稱那個人為「spook」（情報員）。對我們來說，這整個事件更加私人，因為那個情報員進來了，讓父親發誓保密，永遠不能重複他所看到的", "confidence": "high", "notes": "\"scared shitless\" 為粗俗俚語，翻譯為較委婉的「嚇壞了」；\"spook\" 為情報員俚語，保留原文並加註中文"}
 
 140. he'd seen, and it was a matter of national security. The guy showed his credentials, he locked himself in a room with Dad for about a half hour, and threatened to pull his wings, and everything else that he held dear, including, you know, God knows his family.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "事情，而且這是國家安全問題。那個人出示了他的證件，把自己和父親鎖在房間裡大約半小時，威脅要取消他的飛行資格，以及他所珍視的一切，包括，天知道，他的家人。", "confidence": "high", "notes": "\"pull his wings\" 指取消飛行員資格，譯為「取消他的飛行資格」"}
 
 141. The witness has about one more minute. Okay, I'll make it short. You know, my Dad waited 40 years for this, and forgive me. I'll make it quick here. You know, guys like my Dad are heroes. Guys like Edgar Mitchell. When I was a kid, I watched these guys from the side of the beach watching the Apollo moon launches, and now we're riding with the Russians to the moon now. We can't even go ourselves anymore. And yet, the media has blasphemized these great men. You know, how can they? How dare them? How dare them, and how dare everybody stay silent here? When people like my Dad held this secret, people who died and that never could tell a secret in Vietnam. It's a shame. It's a real shame that our media has bought and paid for by the Kardashians and the corporate industries of this country and the world. And this truth needs to come out because there's a lot of
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "證人還有大約一分鐘。好的，我長話短說。各位，我父親為此等待了40年，請原諒我。我趕快說完。像我父親這樣的人是英雄。像艾德嘉·米切爾這樣的人。我小時候在海灘邊看著這些人，看著阿波羅登月發射，而現在我們卻要搭俄羅斯的飛船去月球。我們甚至無法自己去了。然而，媒體卻誹謗這些偉人。他們怎麼可以？他們怎敢？他們怎敢，在場的各位怎敢保持沉默？當像我父親這樣的人保守著這個秘密，那些在越南死去、永遠無法說出秘密的人。這是恥辱。我們的媒體被卡戴珊家族和這個國家及世界的企業財團收買，這真是恥辱。這個真相必須被揭露，因為有很多人，包括我的家人，承受痛苦並遭受嘲笑。", "confidence": "high", "notes": ""}
 
 142. people, including my family, who suffered and ridiculed. My father got ridiculed, my brother took phone calls from ridiculing people, and my Dad had a Ph.D. What more do they want?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我的父親被嘲笑，我哥哥接到嘲笑者的電話，而我父親有博士學位。他們還想要什麼？", "confidence": "high", "notes": ""}
