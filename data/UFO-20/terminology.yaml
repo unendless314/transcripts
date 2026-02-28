@@ -1,0 +1,645 @@
+# Terminology for UFO-20: The Citizen Hearing Concludes
+#
+# 本檔案為 UFO-20 專用術語庫，基於 terminology_template.yaml 並根據本集內容調整。
+# 本集主題：聽證會閉幕、Paul Hellyer 證詞（外星種族與影子政府）、
+# Richard Dolan（揭露悖論）、Daniel Sheehan（國安狀態法律觀點）、國會小組總結陳述
+#
+# 結構說明：
+#   - term: 英文詞彙
+#   - senses: 多義項陣列
+#     - id: 唯一識別碼
+#     - definition: 語義說明
+#     - preferred_translation: 優先譯法
+#     - notes: 補充說明
+#     - segments: 該語義適用的 segment_id 列表（由分類產生）
+#     - topics: 該語義適用的 topic_id 列表（選填）
+
+episode_id: UFO-20
+
+terms:
+  # ==========================================
+  # 核心概念與現象
+  # ==========================================
+
+  - term: Disclosure
+    senses:
+      - id: disclosure_truth
+        definition: 公開揭露 UFO 與外星接觸的真相
+        preferred_translation: 真相揭露
+        notes: 本集核心主題。Richard Dolan 將其描述為「政治不可能但技術不可避免」的悖論
+        segments: [42, 43, 45, 46, 48, 49, 50, 51]
+        topics: [topic_03]
+
+  - term: Truth Embargo
+    senses:
+      - id: truth_embargo_concept
+        definition: 透過媒體控制、嘲笑文化與自我審查維持的 UFO 資訊封鎖
+        preferred_translation: 真相封鎖
+        notes: Stephen Bassett 創造的術語，與 cover-up（真相掩蓋）區別：cover-up 是隱藏內部事實，truth embargo 是阻斷對外流通
+        segments: [10]
+        topics: [topic_01]
+
+  - term: breakaway society
+    senses:
+      - id: breakaway_society_secret
+        definition: 脫離主流社會、掌握先進科技的秘密人類文明
+        preferred_translation: 脫離文明
+        notes: Richard Dolan 提出的概念，指私人國際團體在正式政府控制之外管理 UFO 秘密
+        segments: [47]
+        topics: [topic_03]
+
+  - term: the tall whites
+    senses:
+      - id: tall_white_aliens
+        definition: 白色人形外星種族，身材高大
+        preferred_translation: 白種人（外星人）
+        notes: Paul Hellyer 提及的外星種族之一，據稱曾在內華達州印第安泉與美國空軍合作
+        segments: [17, 18]
+        topics: [topic_02]
+
+  - term: three sisters
+    senses:
+      - id: three_sisters_cabal
+        definition: 三姐妹組織，指掌控西方世界的三個精英組織
+        preferred_translation: 三姐妹組織
+        notes: Paul Hellyer 對 Council on Foreign Relations、Bilderbergers、Trilateral Commission 的統稱，代表影子政府的核心
+        segments: [22, 83, 87]
+        topics: [topic_02, topic_05]
+
+  - term: singularity
+    senses:
+      - id: technological_singularity
+        definition: 技術奇點，AI 超越人類智慧的臨界點
+        preferred_translation: 技術奇點
+        notes: Richard Dolan 討論未來科技發展時提及的概念
+        segments: [52]
+        topics: [topic_03]
+
+  - term: amnesty
+    senses:
+      - id: amnesty_government
+        definition: 政府對過去行為的赦免
+        preferred_translation: 赦免
+        notes: Paul Hellyer 提出的解決方案：以完全赦免換取政府揭露 UFO 真相和分享清潔能源技術
+        segments: [106, 107]
+        topics: [topic_06]
+
+  - term: quantum entanglement
+    senses:
+      - id: quantum_physics_concept
+        definition: 量子糾纏，量子物理現象
+        preferred_translation: 量子糾纏
+        notes: 小組成員在閉幕陳述中提到的概念，認為所有生命自 Big Bang 起就通過量子糾纏連結
+        segments: [165]
+        topics: [topic_07]
+
+  # ==========================================
+  # 政府/軍事機構與組織
+  # ==========================================
+
+  - term: CIA
+    senses:
+      - id: cia_agency
+        definition: Central Intelligence Agency，美國中央情報局
+        preferred_translation: CIA
+        notes: 美國主要情報機構
+        segments: [67]
+        topics: [topic_04]
+
+  - term: Council on Foreign Relations
+    senses:
+      - id: cfr_organization
+        definition: 美國外交關係協會，精英外交政策智庫
+        preferred_translation: 外交關係協會
+        notes: Paul Hellyer 所稱「三姐妹」中最古老的組織，成立於 1921 年，被指控為影子政府的一部分
+        segments: [22]
+        topics: [topic_02]
+
+  - term: the Bilderbergers
+    senses:
+      - id: bilderberg_group
+        definition: 畢德堡集團，精英年度秘密會議
+        preferred_translation: 畢德堡集團
+        notes: Paul Hellyer 所稱「三姐妹」之一，代表歐洲和北美精英的非正式論壇
+        segments: [22, 23]
+        topics: [topic_02]
+
+  - term: the Trilateral Commission
+    senses:
+      - id: trilateral_commission_org
+        definition: 三邊委員會，美歐日精英政策組織
+        preferred_translation: 三邊委員會
+        notes: Paul Hellyer 所稱「三姐妹」之一，1973 年由 David Rockefeller 創立
+        segments: [22]
+        topics: [topic_02]
+
+  - term: NATO
+    senses:
+      - id: nato_alliance
+        definition: North Atlantic Treaty Organization，北大西洋公約組織
+        preferred_translation: 北約
+        notes: Paul Hellyer 提及 1960 年代北約曾調查 UFO 事件，得出至少四種外星種族造訪地球的結論
+        segments: [15]
+        topics: [topic_02]
+
+  - term: House Judiciary Committee
+    senses:
+      - id: house_judiciary_committee
+        definition: 美國眾議院司法委員會
+        preferred_translation: 眾議院司法委員會
+        notes: Daniel Sheehan 提及 Peter Rodino 擔任主席時拒絕調查伊朗門事件
+        segments: [63]
+        topics: [topic_04]
+
+  - term: Veterans Affairs Administration
+    senses:
+      - id: va_administration
+        definition: 美國退伍軍人事務管理局
+        preferred_translation: 退伍軍人事務管理局
+        notes: 聽證會小組要求 VA 釋出 Jim Penniston 和 Airman Burroughs 的醫療記錄
+        segments: [9]
+        topics: [topic_01]
+
+  - term: United States Air Force
+    senses:
+      - id: usaf_branch
+        definition: 美國空軍
+        preferred_translation: 美國空軍
+        notes: Jim Penniston 和 Airman Burroughs 的服役單位
+        segments: [10]
+        topics: [topic_01]
+
+  # ==========================================
+  # 人物（主要證人與提及人物）
+  # ==========================================
+
+  - term: Paul Hellyer
+    senses:
+      - id: hellyer_minister_witness
+        definition: 加拿大前國防部長，本集主要證人
+        preferred_translation: 保羅·赫勒
+        notes: 本集第一位主要證人，詳述外星種族和影子政府理論。曾任加拿大國防部長（1963-1967）
+        segments: [11, 13, 14, 98, 106]
+        topics: [topic_02, topic_05, topic_06]
+
+  - term: Richard Dolan
+    senses:
+      - id: dolan_historian_witness
+        definition: 歷史學家，UFO 研究專家，本集證人
+        preferred_translation: 理查德·多蘭
+        notes: 本集第二位證人，提出「揭露悖論」和「脫離文明」理論
+        segments: [41, 59, 75, 82, 83]
+        topics: [topic_03, topic_04, topic_05]
+
+  - term: Daniel Sheehan
+    senses:
+      - id: sheehan_attorney_witness
+        definition: 律師，本聽證會總法律顧問，本集證人
+        preferred_translation: 丹尼爾·希恩
+        notes: 本集第三位證人，從法律角度分析國家安全狀態。曾參與五角大廈文件案、凱倫·西爾克伍德案、伊朗門事件
+        segments: [60, 61, 74]
+        topics: [topic_04]
+
+  - term: Minister of National Defence for Canada
+    senses:
+      - id: canada_defence_minister_title
+        definition: 加拿大國防部長職位
+        preferred_translation: 加拿大國防部長
+        notes: Paul Hellyer 曾擔任的職位
+        segments: [11]
+        topics: [topic_02]
+
+  - term: Jim Penniston
+    senses:
+      - id: penniston_airman
+        definition: 美國空軍軍人，Rendlesham Forest 事件關鍵證人
+        preferred_translation: 吉姆·佩尼斯頓
+        notes: 與 Airman Burroughs 一起要求 VA 釋出醫療記錄的退役軍人，Rendlesham Forest 事件目擊者
+        segments: [9]
+        topics: [topic_01]
+
+  - term: Airman Burroughs
+    senses:
+      - id: burroughs_airman
+        definition: 美國空軍士兵，Rendlesham Forest 事件證人
+        preferred_translation: 伯勞茲士官
+        notes: 與 Jim Penniston 一起的退役軍人
+        segments: [9]
+        topics: [topic_01]
+
+  - term: Dr. John Mack
+    senses:
+      - id: mack_psychiatrist
+        definition: 哈佛大學精神科醫師，外星綁架研究者
+        preferred_translation: 約翰·麥克博士
+        notes: Paul Hellyer 引用其關於外星存有作為神聖來源中介的研究。曾執導 PEER（經驗異常現象研究計畫）
+        segments: [39, 40]
+        topics: [topic_02, topic_04]
+
+  - term: President Jimmy Carter
+    senses:
+      - id: carter_president
+        definition: 美國第 39 任總統吉米·卡特
+        preferred_translation: 卡特總統
+        notes: Richard Dolan 提及 1977 年卡特在 UFO 簡報後「雙手抱頭、流淚或深感不安」的傳聞
+        segments: [86]
+        topics: [topic_05]
+
+  - term: President Truman
+    senses:
+      - id: truman_president
+        definition: 美國第 33 任總統哈里·杜魯門
+        preferred_translation: 杜魯門總統
+        notes: Daniel Sheehan 提及 Truman 在羅斯威爾事件後成立了 Majestic 12 組織
+        segments: [66]
+        topics: [topic_04]
+
+  - term: George H.W. Bush
+    senses:
+      - id: bush_senior_president
+        definition: 美國第 41 任總統老布希
+        preferred_translation: 老布希總統
+        notes: Daniel Sheehan 提及的 CIA 局長和後來的總統
+        segments: [68]
+        topics: [topic_04]
+
+  - term: Senator Gravel
+    senses:
+      - id: gravel_senator_panel
+        definition: 阿拉斯加州聯邦參議員，本聽證會小組成員
+        preferred_translation: 格拉韋爾參議員
+        notes: 本集閉幕陳述中最直言不諱的小組成員，批評代議政府並倡導直接民主
+        segments: [147, 149]
+        topics: [topic_07]
+
+  - term: Congresswoman Hooley
+    senses:
+      - id: hooley_congresswoman
+        definition: 俄勒岡州聯邦眾議員，本聽證會小組成員
+        preferred_translation: 胡利眾議員
+        notes: Darlene Hooley，小組成員之一
+        segments: [144, 145]
+        topics: [topic_07]
+
+  - term: Congressman Bartlett
+    senses:
+      - id: bartlett_congressman
+        definition: 馬里蘭州聯邦眾議員，本聽證會小組成員
+        preferred_translation: 巴特利特眾議員
+        notes: Roscoe Bartlett，小組成員之一
+        segments: [142, 144]
+        topics: [topic_07]
+
+  - term: Dr. Bookman
+    senses:
+      - id: bookman_physician_panel
+        definition: 醫師，本聽證會小組成員
+        preferred_translation: 布克曼醫師
+        notes: 小組成員之一，聽證會中擔任主持角色
+        segments: [74, 88]
+        topics: [topic_04, topic_05]
+
+  - term: Peter Rodino
+    senses:
+      - id: rodino_congressman
+        definition: 美國眾議員，曾任眾議院司法委員會主席
+        preferred_translation: 彼得·羅迪諾
+        notes: Daniel Sheehan 提及 Rodino 拒絕調查「現成自籌資金秘密行動企業」
+        segments: [63, 64]
+        topics: [topic_04]
+
+  - term: Theodore Shackley
+    senses:
+      - id: shackley_cia_officer
+        definition: 前 CIA 高級官員
+        preferred_translation: 西奧多·沙克利
+        notes: Daniel Sheehan 提及的 CIA 官員
+        segments: [68]
+        topics: [topic_04]
+
+  - term: Jim Sparks
+    senses:
+      - id: sparks_abductee
+        definition: 被綁架者，聲稱與外星存有直接溝通
+        preferred_translation: 吉姆·斯帕克斯
+        notes: Paul Hellyer 引用其關於 ET 傳遞信息的敘述，內容涉及地球環境危機和赦免方案
+        segments: [98]
+        topics: [topic_06]
+
+  - term: Dennis Kucinich
+    senses:
+      - id: kucinich_congressman
+        definition: 美國眾議員，曾競選總統
+        preferred_translation: 丹尼斯·庫辛尼奇
+        notes: Richard Dolan 提及的公開討論 UFO 的政治人物
+        segments: [53]
+        topics: [topic_03]
+
+  - term: Nick Pope
+    senses:
+      - id: pope_ufo_researcher
+        definition: 英國國防部前 UFO 調查官員
+        preferred_translation: 尼克·波普
+        notes: 小組成員在閉幕陳述中提及
+        segments: [136]
+        topics: [topic_07]
+
+  - term: Charles Hall
+    senses:
+      - id: hall_millennial_hospitality_author
+        definition: 美國空軍退役軍人，《Millennial Hospitality》系列作者
+        preferred_translation: 查爾斯·霍爾
+        notes: Paul Hellyer 引用其關於「白種人」外星種族在印第安泉與美國空軍合作的證詞
+        segments: [18]
+        topics: [topic_02]
+
+  # ==========================================
+  # 地點
+  # ==========================================
+
+  - term: Indian Springs
+    senses:
+      - id: indian_springs_location
+        definition: 內華達州印第安泉，美國空軍基地
+        preferred_translation: 印第安泉
+        notes: Paul Hellyer 提及「白種人」外星種族據稱在此與美國空軍合作
+        segments: [18]
+        topics: [topic_02]
+
+  - term: Nevada
+    senses:
+      - id: nevada_state
+        definition: 內華達州，美國西部州
+        preferred_translation: 內華達州
+        notes: 印第安泉所在地
+        segments: [18]
+        topics: [topic_02]
+
+  - term: Wright Field
+    senses:
+      - id: wright_field_location
+        definition: 萊特機場，俄亥俄州代頓市附近的美國空軍設施
+        preferred_translation: 萊特機場
+        notes: 小組成員提及，與早期 UFO 調查相關的歷史地點
+        segments: [143]
+        topics: [topic_07]
+
+  # ==========================================
+  # 歷史事件、文件與計畫
+  # ==========================================
+
+  - term: Project for a New American Century
+    senses:
+      - id: pnac_neoconservative
+        definition: 新美國世紀計畫，新保守主義智庫
+        preferred_translation: 新美國世紀計畫
+        notes: Paul Hellyer 指控此組織制定了需要「新珍珠港」才能實施的侵略性外交政策，與 9/11 有關
+        segments: [26]
+        topics: [topic_02]
+
+  - term: Pentagon Papers case
+    senses:
+      - id: pentagon_papers_case_legal
+        definition: 五角大廈文件案，Daniel Sheehan 參與的重大案件
+        preferred_translation: 五角大廈文件案
+        notes: Daniel Sheehan 作為法律顧問參與的歷史性案件，揭露政府欺騙公眾
+        segments: [60]
+        topics: [topic_04]
+
+  - term: Karen Silkwood case
+    senses:
+      - id: silkwood_case_legal
+        definition: 凱倫·西爾克伍德案，核工業舉報人謀殺案
+        preferred_translation: 凱倫·西爾克伍德案
+        notes: Daniel Sheehan 處理的另一重大案件
+        segments: [60]
+        topics: [topic_04]
+
+  - term: Iran Contra case
+    senses:
+      - id: iran_contra_case_legal
+        definition: 伊朗門事件，雷根政府秘密軍售醜聞
+        preferred_translation: 伊朗門事件
+        notes: Daniel Sheehan 提及的政府欺騙國會案例，用於類比 UFO 掩蓋
+        segments: [61]
+        topics: [topic_04]
+
+  - term: Pentagon Papers
+    senses:
+      - id: pentagon_papers_documents
+        definition: 五角大廈文件，越南戰爭機密文件
+        preferred_translation: 五角大廈文件
+        notes: Senator Gravel 在閉幕陳述中提及，他曾在國會公開宣讀這些文件
+        segments: [148]
+        topics: [topic_07]
+
+  - term: Majestic 12 group
+    senses:
+      - id: mj12_group_mentioned
+        definition: 傳說中的秘密政府 UFO 調查組織
+        preferred_translation: MJ-12 組織
+        notes: Daniel Sheehan 提及，認為 Truman 在羅斯威爾後成立，已將 UFO 議題置於憲法監督之外
+        segments: [65]
+        topics: [topic_04]
+
+  - term: Roswell
+    senses:
+      - id: roswell_incident
+        definition: 羅斯威爾事件，1947 年新墨西哥州疑似 UFO 墜毀
+        preferred_translation: 羅斯威爾事件
+        notes: Daniel Sheehan 提及，認為是 Majestic 12 成立的觸發事件
+        segments: [66]
+        topics: [topic_04]
+
+  - term: War of the Worlds
+    senses:
+      - id: war_worlds_broadcast
+        definition: 世界大戰，1938 年奧森·威爾斯廣播劇
+        preferred_translation: 世界大戰
+        notes: 小組成員提及，用於說明公眾對外星生命消息的恐慌反應
+        segments: [132]
+        topics: [topic_07]
+
+  - term: VE Day
+    senses:
+      - id: ve_day_wwii
+        definition: 歐戰勝利日，1945 年 5 月 8 日
+        preferred_translation: 歐戰勝利日
+        notes: 小組成員提及，紀念二戰歐洲戰場結束
+        segments: [150, 151]
+        topics: [topic_07]
+
+  - term: Big Bang
+    senses:
+      - id: big_bang_theory
+        definition: 大爆炸理論，宇宙起源理論
+        preferred_translation: 大爆炸
+        notes: 小組成員提及，認為所有生命自 Big Bang 起就通過量子糾纏連結
+        segments: [163, 165]
+        topics: [topic_07]
+
+  # ==========================================
+  # 術語與概念
+  # ==========================================
+
+  - term: black budget
+    senses:
+      - id: black_budget_funding
+        definition: 不受國會監督的機密預算
+        preferred_translation: 黑預算
+        notes: 與 UFO-07 翻譯一致。Richard Dolan 提及，資助機密 UFO 研究的財源
+        segments: [55, 56]
+        topics: [topic_03]
+
+  - term: oil cabal
+    senses:
+      - id: oil_cabal_conspiracy
+        definition: 石油卡特爾，石油產業精英集團
+        preferred_translation: 石油集團
+        notes: Paul Hellyer 所稱「陰謀集團」的一部分，與銀行集團、情報組織共同構成影子政府
+        segments: [83]
+        topics: [topic_05]
+
+  - term: banking cabal
+    senses:
+      - id: banking_cabal_conspiracy
+        definition: 銀行卡特爾，國際銀行業精英集團
+        preferred_translation: 銀行集團
+        notes: Paul Hellyer 所稱「陰謀集團」的一部分
+        segments: [83]
+        topics: [topic_05]
+
+  - term: National Security Council
+    senses:
+      - id: nsc_organization
+        definition: 美國國家安全會議
+        preferred_translation: 國家安全會議
+        notes: Richard Dolan 提及，未來總統可能通過 NSC 宣布 UFO 真相
+        segments: [44]
+        topics: [topic_03]
+
+  - term: First Amendment
+    senses:
+      - id: first_amendment_constitution
+        definition: 美國憲法第一修正案，保障言論自由
+        preferred_translation: 第一修正案
+        notes: 小組成員提及，討論政府保密與憲法權利的衝突
+        segments: [95]
+        topics: [topic_05]
+
+  - term: Reagan administration
+    senses:
+      - id: reagan_presidency
+        definition: 雷根政府，1981-1989 年
+        preferred_translation: 雷根政府
+        notes: 小組成員提及，與早期 UFO 調查和 Iran-Contra 相關
+        segments: [95]
+        topics: [topic_05]
+
+  - term: Wall Street
+    senses:
+      - id: wall_street_finance
+        definition: 華爾街，美國金融中心
+        preferred_translation: 華爾街
+        notes: Paul Hellyer 引用 Jim Sparks 的話：「華爾街主導你們的經濟」
+        segments: [98]
+        topics: [topic_06]
+
+  - term: swamp gas
+    senses:
+      - id: swamp_gas_debunking
+        definition: 沼氣，UFO 的「揭穿」解釋之一
+        preferred_translation: 沼氣
+        notes: 小組成員諷刺提及，指政府對 UFO 的荒謬解釋
+        segments: [156]
+        topics: [topic_07]
+
+  - term: Zeta Reticuli
+    senses:
+      - id: zeta_reticuli_star_system
+        definition: 網罟座澤塔星系
+        preferred_translation: 網罟座澤塔
+        notes: Paul Hellyer 提及的外星種族可能來源地之一
+        segments: [16]
+        topics: [topic_02]
+
+  - term: the Pleiades
+    senses:
+      - id: pleiades_star_cluster
+        definition: 昴宿星團
+        preferred_translation: 昴宿星團
+        notes: Paul Hellyer 提及的外星種族可能來源地之一
+        segments: [16]
+        topics: [topic_02]
+
+  - term: Millennial Hospitality
+    senses:
+      - id: millennial_hospitality_book
+        definition: 《千禧年款待》，Charles Hall 的著作系列
+        preferred_translation: 《千禧年款待》
+        notes: Charles Hall 描述與「白種人」外星人互動的系列書籍
+        segments: [18]
+        topics: [topic_02]
+
+  - term: National Citizens Initiative for Democracy
+    senses:
+      - id: ncif_democracy_reform
+        definition: 全國公民民主倡議，Senator Gravel 推動的憲法修正案運動
+        preferred_translation: 全國公民民主倡議
+        notes: Senator Gravel 在閉幕陳述中提及，旨在實現直接民主
+        segments: [152]
+        topics: [topic_07]
+
+  - term: Marcus Cicero
+    senses:
+      - id: cicero_roman_philosopher
+        definition: 馬庫斯·西塞羅，古羅馬哲學家和政治家
+        preferred_translation: 馬庫斯·西塞羅
+        notes: Senator Gravel 引用其名言：「人民不知道的事情，就不會傷害他們」
+        segments: [147]
+        topics: [topic_07]
+
+  - term: Osama bin Laden
+    senses:
+      - id: bin_laden_terrorist
+        definition: 奧薩瑪·賓拉登，基地組織領導人
+        preferred_translation: 奧薩瑪·賓拉登
+        notes: Paul Hellyer 提及，與 9/11 襲擊相關
+        segments: [34]
+        topics: [topic_02]
+
+  - term: Einstein
+    senses:
+      - id: einstein_physicist
+        definition: 阿爾伯特·愛因斯坦，物理學家
+        preferred_translation: 愛因斯坦
+        notes: 小組成員提及，與量子糾纏理論相關
+        segments: [163, 165]
+        topics: [topic_07]
+
+  - term: Colonel French
+    senses:
+      - id: french_military_officer
+        definition: French 上校，本聽證會證人之一（UFO-12 主要證人 Richard French）
+        preferred_translation: French 上校
+        notes: 小組成員在閉幕陳述中讚揚其證詞。與 UFO-12 翻譯一致，保留姓氏原文。其職責包括為 UFO 目擊事件編造藉口（如沼氣解釋）
+        segments: [156]
+        topics: [topic_07]
+
+  - term: Carol Ross
+    senses:
+      - id: ross_staff_member
+        definition: 卡羅爾·羅斯，工作人員（可能是筆誤，待確認）
+        preferred_translation: 卡羅爾·羅斯
+        notes: 小組成員提及。可能是工作人员或另一位證人的筆誤
+        segments: [159]
+        topics: [topic_07]
+
+  - term: Bob Sallis
+    senses:
+      - id: sallis_staff_member
+        definition: 鮑勃·薩利斯，工作人員（可能是筆誤，待確認）
+        preferred_translation: 鮑勃·薩利斯
+        notes: 小組成員提及
+        segments: [159]
+        topics: [topic_07]

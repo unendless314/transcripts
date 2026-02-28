@@ -1,178 +1,178 @@
 ## Speaker Group 8
 
 109. Thank you very much. We'll start the closing statements by Senator -- well, is there a -- As much as you want.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常感謝。我們現在開始由參議員進行閉幕陳述——嗯，是否有——您想講多久都可以。", "confidence": "high", "notes": ""}
 
 110. Yeah, you get your closing statement.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，您來做您的閉幕陳述。", "confidence": "high", "notes": ""}
 
 111. Don't ever say that to me. I filibuster.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "千萬別對我這麼說。我會冗長辯論的。", "confidence": "high", "notes": "filibuster 譯為冗長辯論，是議會術語"}
 
 112. I should have warned Dr. Buckman about that, but anyway, go ahead.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我早該警告布克曼醫師這件事的，但總之，請開始吧。", "confidence": "high", "notes": ""}
 
 113. I'll be reasonable. I'll put it that way.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我會講道理的。我就這麼說吧。", "confidence": "high", "notes": ""}
 
 114. First off, if I've sounded angry, I apologize for that, but there's a reason. I am angry, very angry, but I really want to point out that I love my country. I'm very critical of it because it needs to be criticized heavily. I consider myself a patriot, but I don't buy into -- but first and foremost, and I used to end a lot of my speeches and I lasted for 12 years, I am a citizen of the planet first and American second, and my priorities are on that way. Make no mistake about that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "首先，如果我聽起來很憤怒，我為此道歉，但這是有原因的。我很憤怒，非常憤怒，但我真的想指出我熱愛我的國家。我對它非常批判，因為它需要被嚴厲批評。我認為自己是個愛國者，但我不認同——但最重要的是，我以前經常這樣結束我的演講，而且我堅持了十二年——我首先是地球公民，其次才是美國人，我的優先順序就是這樣。這一點請不要誤會。", "confidence": "high", "notes": ""}
 
 115. Now, when we're analyzing the problem, whether it's the extraterrestrial situation issue or the 9/11 issue, which of course ginned up the ability of the crazies to really go after the world, we have to start and be a little humble and say, hey, those of us that have held office for a period of time, it's during that period of time that things have gone to hell, and when people say, well, we ought to take back our country, we never had our country, if you read the Constitution, it was passed in '87 and '89, the first -- we were putting in slavery for infinity, and if you look at -- and those of you that have this brochure, you'll look at all of our forebears that said the people should have the right to change their government, and that's based upon the Declaration of Independence where all human beings are created equal. Well, 12 years later, they're in Philadelphia,
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在，當我們分析問題時，無論是外星情況問題還是九一一問題——這當然讓那些瘋狂分子有了真正攻擊世界的能力——我們必須先謙卑地說，嘿，我們這些曾經擔任公職一段時間的人，正是在那段時間事情變得一團糟，而當人們說，我們應該奪回我們的國家時，我們從來沒有真正擁有過我們的國家，如果你讀過憲法，它是在八七年和八九年通過的，最初——我們是在將奴隸制永久化，如果你看看——你們當中有這本小冊子的人，你們會看到我們所有的先輩都說人民應該有權改變他們的政府，這是基於獨立宣言，其中說人人生而平等。嗯，十二年後，他們在費城，", "confidence": "high", "notes": ""}
 
 116. and they're not creating all human beings equal. What they're doing is they're making a distinction that white males are the only equal ones, and if you have enough property, the rest, and so those who get married to the Constitution, they like to rip the Constitution apart, and then when you say about, you know, obeying the Constitution, after the Civil War amendments, which really is the only improvement made in the Constitution of size because it expanded the franchise, and if you look at the amendments, the rest of it are just housekeeping, and so from the Civil War on, we had 90 years where, what, 12, 13 states were in total violation of the Constitution of the United States, and nobody gave a darn about it, and the political parties were all part of the conspiracy. So when you advance from there to here and look around and see how our scientific advancement has been so explosive, and we are stuck in
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而他們並沒有創造人人平等。他們所做的是區分白人男性才是唯一平等的人，如果你有足夠的財產，其餘的人則不然，所以那些對憲法死忠的人，他們喜歡把憲法撕得粉碎，然後當你談到遵守憲法時，在內戰修正案之後——這確實是憲法中唯一實質性的改進，因為它擴大了選舉權——如果你看看其他修正案，其餘的都只是例行公事，所以從內戰開始，我們有九十年的時間，大約十二、十三個州完全違反美國憲法，卻沒有人在乎，而各政黨都是這場陰謀的一部分。所以當你從那時走到現在，環顧四周，看到我們的科學進步如此爆炸性，而我們卻被困在", "confidence": "high", "notes": ""}
 
 117. a system, a structure of governance that's 250 years old that is totally irrelevant to dealing with our problems that we face today, and then so we look at, say, oh, we're going to go to the Congress. I got to tell you, I've said that earlier in the week. It's a dead letter, and hold your breath. It's never going to happen, and it's not that I'm demeaning the Congress. I've been there, and I'll tell you that they don't have the power that you think they have. I don't want to engage in anything. I respect your views, but I just want to tell you that the problem, you have to come to some kind of a search internally with some humility and say, maybe, just maybe, our structure of governance is deficient, is deficient. We don't have a democracy, never had it. What we have is representative government.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "一個有兩百五十年歷史的治理體系和結構中，這與我們今天面臨的問題完全無關，然後所以我們看看，說，哦，我們要去找國會。我必須告訴你們，我這週早些時候就說過了。這是一紙空文，別抱希望。這永遠不會發生，而且這不是我在貶低國會。我去過那裡，我告訴你們，他們沒有你們想像的那種權力。我不想捲入任何事情。我尊重你們的觀點，但我只想告訴你們，這個問題，你們必須帶著謙卑的心進行某種內在探索，並說，也許，只是也許，我們的治理結構是有缺陷的，是有缺陷的。我們沒有民主，從來沒有過。我們有的是代議制政府。", "confidence": "high", "notes": ""}
 
 118. That's what came out of the Age of Enlightenment, was representative government, where the majority of the people give their power away to a small minority, and that small minority, and you want to know what happened, $4 billion was spent in the last election in our government, the Congress, the executive, the bureaucracy, the judiciary. They are owned, locked, stocked, and barreled by the Wall Street, the military industrial complex, and all the special interests that we find abroad. Then when you see what's going on with NATO is nothing but the militarization, the globalization of the military industrial complex. That's what's going on. I referred to a study where it showed that 1,300 corporations with interlocking directorates and family ties own 60% of the wealth of the world. Then you've gone through the litany of the Bilderberg group and all of that group. Sure, they do what's natural to them. They've got power,
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這就是啟蒙時代的產物，代議制政府，大多數人將他們的權力交給一小撮人，而那一小撮人，你們想知道發生了什麼事，上屆選舉中我們的政府、國會、行政部門、官僚機構、司法部門花了四十億美元。他們被華爾街、軍工複合體以及我們在國外發現的所有特殊利益集團所完全掌控。然後當你看到北約正在發生的事情，只不過是軍事工業複合體的軍事化和全球化。這就是正在發生的事。我提到過一項研究，顯示一千三百家擁有互鎖董事會和家族關係的企業擁有世界百分之六十的財富。然後你們已經聽過畢德堡集團和其他那些組織的冗長敘述。當然，他們做的是對他們來說很自然的事。他們擁有權力，", "confidence": "high", "notes": ""}
 
 119. and they're clever enough to keep it and work for it. Our task is to look at the structure of why we're failing as human beings. I say all of us, because we've had testimony replete of people in the military who are supposed to be courageous and prepared to charge up the hill, that they defer to authority that silences them. If you reason it out, it doesn't make any sense that they have to keep secrets like that. I had to make that decision in the Senate and put myself at risk when releasing the Pentagon papers. Those were top secret documents. The rest of the Congress was stymied like little kids in school that you could go read it, but you couldn't take any notes. They tried to impeach me, and I was saved by one person, Mike Mansfield. He had such power in the Senate. He stepped before a delegation led by Gerald Ford, brought it with Hugh Scott, went to visit him and said, "Well, we've
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且他們足夠聰明能夠保持並運作它。我們的任務是審視我們作為人類為何失敗的結構。我說我們所有人，因為我們聽到的證詞充滿了軍方人員，他們本應該勇敢並準備衝上山頭，卻屈從於讓他們沉默的權威。如果你理性分析，他們必須保守這樣的秘密是毫無道理的。我在參議院時必須做出那個決定，在公布五角大廈文件時讓自己冒險。那些是絕密文件。國會的其他人就像學校裡的小孩一樣被阻撓，你可以去讀，但不能做任何筆記。他們試圖彈劾我，而我被一個人救了，邁克·曼斯菲爾德。他在參議院有那麼大的權力。他站到一個由傑拉德·福特率領的代表團面前，帶著休·斯科特去見他，說：「嗯，我們", "confidence": "high", "notes": ""}
 
 120. got to deal with this Gravel for what he's done," and Mansfield turned to him, sucking on his pipe. He says, "He's done nothing that I know of," and they walked right out.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "得處理這個格拉韋爾，因為他所做的事，」而曼斯菲爾德轉向他，吸著他的煙斗。他說：「據我所知，他什麼也沒做，」然後他們就走出去了。", "confidence": "high", "notes": ""}
 
 121. That was the end of the story. That saved my career. When I went to see Mansfield, and I get emotional about it, because what he turned to me says, "Mike, if I had had your courage, I would have done the same thing," but stop and think what I did. The whole Congress had bought into the secrecy of these documents, and I had turned it all over and made the Supreme Court moot and put to shame the newspapers that were now afraid to do it, and the issue with the Supreme Court. Our government, representative government, is designed to keep the people in civic adolescence. That's what it's designed. What is adolescence? "Oh, I want that, but I don't want to pay any taxes. I want that, but I don't want to pay any taxes." That's adolescent behavior. Now, how do we bring the people to adulthood, civic adulthood?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "故事就這樣結束了。那救了我的職業生涯。當我去見曼斯菲爾德時，我對此很激動，因為他轉向我說：「邁克，如果我有你的勇氣，我也會做同樣的事，」但停下來想想我做了什麼。整個國會都接受了這些文件的保密性，而我卻將全部公開，讓最高法院變得無關緊要，並讓那些現在不敢這樣做的報社感到羞愧，還有最高法院的問題。我們的政府，代議制政府，其設計目的就是讓人民保持在公民青春期。這就是它的設計目的。什麼是青春期？「哦，我想要那個，但我不想付任何稅。我想要那個，但我不想付任何稅。」這就是青少年行為。現在，我們如何讓人民走向成年，公民成年？", "confidence": "high", "notes": ""}
 
 122. We do it the way we bring our children up. We give our children responsibility as they age, and then they come to adulthood. It's taking responsibility, but when you have a structure of government that doesn't permit the people to take responsibility, you guarantee the continuation of civic adolescence. What I've tried to do with this work, and this represents the last 25 years of my public life, and it will continue until the day I die, and that is that the answer is the people. It's not your leaders. Don't trust your leaders.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們用撫養孩子的方式來做到這一點。我們隨著孩子年齡增長給予他們責任，然後他們就會成年。這就是承擔責任，但當你有一個不允許人民承擔責任的政府結構時，你就保證了公民青春期的延續。我在這項工作中一直試圖做的，這代表了我公共生活的最後二十五年，而且會持續到我死的那一天，那就是答案在於人民。不在於你們的領導人。不要信任你們的領導人。", "confidence": "high", "notes": ""}
 
 123. It's the people. There's only two venues for change. One is the government, wherein structurally the problem exists, and the other is the people. The government won't, but the people can't because they give their power away. I'll close on one quote which says it all, and that is very simple. It's a quote from 2,000 years ago. Marcus Cicero defined freedom as participation in power. You will never, never see fundamental change in our society or global society until the power can be relegated to the people directly. It's just that simple. I make that as a prediction.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在於人民。改變只有兩個途徑。一個是政府，問題在結構上就存在於其中，另一個是人民。政府不會改變，但人民不能改變，因為他們把權力交出去了。我將用一句話來結束，這句話說明了一切，而且非常簡單。這是兩千年前的一句話。馬庫斯·西塞羅將自由定義為參與權力。你永遠、永遠不會看到我們的社會或全球社會發生根本性改變，直到權力可以直接下放給人民。就是這麼簡單。我以此作為預測。", "confidence": "high", "notes": ""}
 
 124. I've resigned myself that I'll keep working, but I won't see this in my lifetime. Won't see it in my lifetime, but someday people are going to wake up and say, "Hey, what's so worrisome about empowering the people to be able to do what?" When Cicero says freedom is power, is participation in power, what is the central power of all governments, whether tyrannies or democracy or republics? It's the ability to make laws that stand outside of ourselves and that we're supposed to obey them. At this point in time, only representatives make laws, and these representatives de facto are controlled by these forces beyond our control because they control society. The answer is to find a way to empower people to be able to make laws. Therefore, they will have the power to do away with the secrecy in government. Does it surprise you that 50% of the people don't even care about government?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我已經認命我會繼續努力，但我在有生之年不會看到這一天。不會在我的有生之年看到，但總有一天人們會醒來說：「嘿，賦予人民權力去做事，有什麼好擔心的？」當西塞羅說自由就是權力，就是參與權力時，所有政府的核心權力是什麼，無論是專制、民主還是共和國？那就是制定凌駕於我們自身之上、我們應該遵守的法律的能力。在這個時候，只有代表制定法律，而這些代表實際上被這些超出我們控制的力量所控制，因為他們控制著社會。答案是要找到一種方法賦予人民制定法律的能力。因此，他們將有權力消除政府中的保密。百分之五十的人甚至不在乎政府，這讓你驚訝嗎？", "confidence": "high", "notes": ""}
 
 125. This is not Einstein's theory. Well, it is Einstein's theory. He said that to repeat over and over again something that doesn't work is the definition of insanity. That's a great theory. We vote for Democrats, nothing really happens. We vote for Republicans, nothing really happens. We go to Britain, we see one government, that government, nothing really happens to advance the needs of the human race. You can only come to one conclusion that the answer is not with the elites. They manipulate our elections. Mind you, I raise money from special sources to run for office, and I manipulate my constituency. I do that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這不是愛因斯坦的理論。嗯，這確實是愛因斯坦的理論。他說，一再重複做無效的事情就是瘋狂的定義。這是個偉大的理論。我們投票給民主黨，什麼也沒發生。我們投票給共和黨，什麼也沒發生。我們去英國，看到一個政府，那個政府，什麼也沒發生來推進人類的需求。你只能得出一個結論，答案不在精英身上。他們操縱我們的選舉。請注意，我從特殊來源籌集資金來競選公職，而我操縱我的選民。我這樣做。", "confidence": "high", "notes": ""}
 
 126. I'm sure any successful politician has done that, is to manipulate the constituency for your thinking. To think that we in elective office want a turnout of voters, hell no.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我確信任何成功的政治家都這樣做過，就是為了你的想法而操縱選民。以為我們這些擔任民選職位的人希望選民出來投票，絕對不是。", "confidence": "high", "notes": ""}
 
 127. We want a turnout of our voters, not the general voters. The whole structure of representative government is very deficient. Let me lead with this, that I have personally unreserved faith in the people. If you don't have faith in the people, what do you have faith in?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們希望我們的選民出來投票，而不是一般選民。整個代議制政府的結構是非常有缺陷的。讓我先說這一點，我個人對人民有毫無保留的信心。如果你對人民沒有信心，你對什麼有信心？", "confidence": "high", "notes": ""}
 
 128. The leaders, and that's exactly where we're at today. If you want to see this issue of being able to maturely, and I don't think we have close to the maturity to deal with the extraterrestrials. We're told, and I'll accept that, that we have the scientific ability to send ET home. Well, it's being sequestered away from the people, and that's a tragedy because there's a lot more out there that could benefit the human race, but we can't get our hands on it because we don't have the structure of governance to be able to go at it. Let me close on it. If those of you that don't have this, you can go to our website, National Citizens Initiative for Democracy. Hopefully, it won't succeed in my lifetime, but it is my contribution and a legacy. Forget the Pentagon Papers, forget the nuclear critique, forget the end of the draft. This is the contribution that I think is worthwhile, and I won't live
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "領導人，這正是我們今天的處境。如果你想看到這個問題能夠成熟地處理，而我認為我們離處理外星人的成熟度還差得遠。我們被告知，而且我接受這一點，我們有科學能力將外星人送回家。嗯，這正被隔離在人民之外，這是個悲劇，因為外面還有很多可以造福人類的東西，但我們無法得到它，因為我們沒有能夠去爭取的治理結構。讓我以此作結。如果你們當中沒有這個的，可以去我們的網站，全國公民民主倡議。希望它不會在我的有生之年成功，但這是我的貢獻和遺產。忘掉五角大廈文件，忘掉核子批判，忘掉結束徵兵。這是我認為有價值的貢獻，而我活不到", "confidence": "high", "notes": ""}
 
 129. to see it. Thank you very much. If you will get in your car, and it'll be a little more spectacular in the wintertime because the air is thinner and it holds less moisture, and if you will drive out of the city away from the lights and away from the air pollution, and you drive up a mountain several thousand feet, you don't have to go very far to do that. A hundred miles in West Virginia will do it, and on a cloudless winter night you look up into the sky. You will just be astounded at the Milky Way. Wow, it looks like they took a whitewash brush across the sky. There are so darn many stars there, more than a billion. And then when you recognize that our star is a pretty mediocre star in this galaxy of the Milky Way, and then when you know that there are probably a billion other galaxies this size. You know, as a scientist, there just has to be another sun out there,
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "看到那一天。非常感謝。如果你上車，冬天會更壯觀一些，因為空氣較稀薄，含水量較少，如果你開車離開城市，遠離燈光和空氣污染，開上幾千英尺高的山，你不需要走很遠就能做到。在西維吉尼亞州開一百英里就夠了，在一個無雲的冬夜，你抬頭仰望天空。你會對銀河系感到驚嘆。哇，看起來就像有人用白粉刷過天空一樣。那裡有那麼多該死的星星，超過十億顆。然後當你意識到我們的恆星在銀河系這個星系中只是一顆相當平庸的恆星，然後當你知道可能還有十億個這麼大的星系。你知道，作為一個科學家，外面一定還有另一個太陽，", "confidence": "high", "notes": ""}
 
 130. another star, and another planet that has characteristics appropriate for the development of life. And I think you have to be very arrogant and very presumptive to believe that we're the only civilization in the universe, and the most advanced civilization. Wow, we're still killing each other in stupid wars, and not all that long ago, I'm Anglo-Saxon, German, and my forebears were wearing skins in a stone age running around Europe. As I mentioned earlier when my chief of staff, with whom I now work, said that I was invited to come here and warn me that you might be ridiculed for it, I told her that I was going to come because of the constitutional issue for no other, which I mentioned. Because if your government can rationalize that it's okay to deny you this hearing for your good, tomorrow they can be doing a lot of things that are very hurtful to you, because in the grand
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "另一顆恆星，還有另一顆具有適合生命發展特徵的行星。我認為你必須非常傲慢和自以為是才會相信我们是宇宙中唯一的文明，而且是最先進的文明。哇，我們還在愚蠢的戰爭中互相殘殺，而且就在不久前，我是盎格魯撒克遜人、德國人，我的祖先在石器時代穿著獸皮在歐洲到處跑。正如我早些時候提到的，當我的幕僚長——我現在和她一起工作——說我被邀請來這裡，並警告我可能會因此被嘲笑時，我告訴她我會來，只是為了憲法問題，沒有別的原因，這我已經提到了。因為如果你的政府可以合理化說，為了你好而剝奪你這個聽證會是可以的，明天他們就可以做很多對你非常有害的事情，因為在宏偉的", "confidence": "high", "notes": ""}
 
 131. scheme of things, they will rationalize that it's for your good. Thank you very much, those of you who organized this. I've really been privileged to be here. I'm honored that you invited me to come. And thank you to the witnesses. And I think back through these five days and the witnesses have come, some of them at considerable personal price. And a special thanks to those who have borne this secret for 40, 50 years, and now near their deathbed, come forward so that we can know. I ask myself why this cloak of secrecy? Clearly there is a cloak of secrecy. And I ask myself why. My wife says that I'm the eternal optimist. And I'd like to think the best of everybody until proven different. And so I want to believe that those who made decisions were patriotic Americans, believing that at the time they made the decision which was in the best interest of their country. This was just a few years
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "大局中，他們會合理化說這是為了你好。非常感謝組織這次活動的各位。我真的很榮幸能夠來到這裡。我很榮幸你們邀請我來。也感謝各位證人。我回想這五天來，證人們來了，有些人付出了相當大的個人代價。特別感謝那些保守這個秘密四十年、五十年，現在臨近臨終，才出來讓我們知道的人。我問自己為什麼有這層保密的面紗？顯然有一層保密的面紗。我問自己為什麼。我妻子說我是永遠的樂觀主義者。我願意在證明不同之前對每個人抱持最好的想法。所以我想相信那些做決定的人是愛國的美國人，相信他們在做決定時是為了國家的最佳利益。這只是幾年前的事", "confidence": "high", "notes": ""}
 
 132. after the War of the Worlds thing where the East Coast was panicked when they thought we were being invaded by extraterrestrials. And that was one concern that I think they must have had that was fairly recent in their memory. Another concern would be, gee, there really is some advanced technology here, isn't there? And wouldn't it be tragic if the Soviets had that rather than us or shared it with us? And so I think for these two reasons they could very well have rationalized it. And that decision was made very early. Apparently it may have gone clear to the office of the president because within a few hours after they issued that press release that said that a flying saucer had crashed, they came with this ridiculous press release saying, gee, it was just a balloon. We goofed. But they did send what they found to Wright Field and they did send a number of people out to vacuum
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在「世界大戰」廣播劇之後，當時東海岸陷入恐慌，以為我們正被外星人入侵。我認為這是他們記憶中相當近期必定有過的一個擔憂。另一個擔憂可能是，天哪，這裡真的有一些先進技術，不是嗎？如果蘇聯人擁有它而不是我們，或者與我們分享，那豈不是很悲劇？所以我認為基於這兩個原因，他們很可能已經將其合理化了。那個決定很早就做出了。顯然它可能一直上達總統辦公室，因為在他們發布說飛碟墜毀的新聞稿後幾小時內，他們就發布了這個荒唐的新聞稿，說，天哪，那只是一個氣球。我們搞錯了。但他們確實把他們發現的東西送到了萊特機場，而且他們確實派了很多人出去清理", "confidence": "high", "notes": ""}
 
 133. the area for several days. These three things alone tell me that the Air Force knows that they're not telling us the truth. I hope that after 60-odd years of known incidents after the Soviet Union has gone that these two justifications they recognized are no longer valid and that they might come and tell the American people there is something out there that we can't explain. And we're sorry that for all these years that we rationalized that it was the national interest of our country to keep this from you. I may be the eternal optimist but I'd like to thank the best of people. Again, thank you so very much for putting this on. Thank you for honoring me to be a part of it. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "該地區好幾天。僅這三件事就告訴我，空軍知道他們沒有告訴我們真相。我希望在蘇聯解體後六十多年的已知事件之後，他們認可的這兩個理由已經不再有效，他們可能會來告訴美國人民，外面有一些我們無法解釋的東西。而且我們很抱歉，這麼多年來我們合理化說為了國家利益而對你們保密。我可能是永遠的樂觀主義者，但我想感謝最好的人。再次非常感謝你們舉辦這個活動。感謝你們讓我有榮幸成為其中的一部分。謝謝。", "confidence": "high", "notes": ""}
 
 134. I certainly want to thank everybody that's been involved in this whole operation this week and I just want to say how grateful I am for being contacted and asked to participate and how glad I am that I accepted this opportunity to be on this panel. But I want to focus my closing statement and keep it very short on the witnesses. I still can't believe the quality of the witnesses that we've seen this week has been about 40, about 40. This is meant as a total compliment. I can't, when I contemplated coming here to Washington for this, I certainly couldn't imagine that you could assemble in one conference that number of people with that level of capability, competence, commitment, and intelligence. The witnesses are far better than I think anyone of us had a right to expect when we accepted this. And maybe it's because I don't know enough about ufology. And Congressman, there is five more behind every one of those
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我當然要感謝本週參與這整個活動的每個人，我只想說我有多麼感激被聯繫並受邀參與，以及我有多麼高興接受了這個成為這個小組成員的機會。但我想將我的閉幕陳述集中在證人身上，並保持非常簡短。我仍然無法相信我們本週看到的證人質量，大約有四十位，大約四十位。這完全是讚美之意。當我考慮為此來華盛頓時，我當然無法想像你能夠在一次會議中聚集那麼多具有那種能力、專業素養、承諾和智慧的人。證人遠比我們任何人在接受這個任務時有權期望的還要好。也許是因為我對不明飛行物學了解不夠。而且眾議員，在每一位證人背後還有五個", "confidence": "high", "notes": ""}
 
 135. 40 that can come forward just as strong. I'm starting to have no doubt about that at all after hearing just a small sampling of pilots and controllers and people on the ground that have seen things and witnessed things. And the integrity and believability, honesty, and clear thought of each of these testimonies was something to behold. I have to say that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "能像這四十位一樣強有力地站出來的證人。在聽了只是一小部分飛行員、管制員和地面上看到東西、目擊事情的人之後，我開始對此毫無懷疑。而且每一個證詞的誠信、可信度、誠實和清晰思維都是值得讚嘆的。我不得不說這一點。", "confidence": "high", "notes": ""}
 
 136. I'm just very impressed on that. And I'm going to conclude the remarks by saying to all of the witnesses and each and every one witness, if you're a researcher, you keep on researching and redouble those research efforts. If you're someone in the media that's trying to understand this and help promote it, work harder at it. And if, I mean, you're doing a good job, don't get me wrong, but I just want you to redouble this. Because, you know, if it's true, I've announced before I even came here that I believe in extraterrestrial life. And that was from a religious standpoint. So I've been focusing on scientific evidence of it. And let me just say this. I'm like, sorry the name slips through me, but the person that used to be the minister of, or in the Ministry of Defense, Nick Pope. I'm like Nick Pope. I haven't come to a definite scientific conclusion on that question. But I hope in the short lifetime I have left,
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我對此印象非常深刻。我將通過對所有證人和每一位證人說以下這些話來結束我的發言：如果你是研究人員，請繼續研究並加倍努力。如果你是媒體中人，試圖理解這個問題並幫助推廣它，請更加努力。而且如果，我的意思是，你們做得很好，不要誤會我，但我只是希望你們加倍努力。因為，你知道，如果這是真的，我在來這裡之前就宣布過我相信外星生命。那是從宗教的角度。所以我一直專注於這方面的科學證據。讓我這樣說。我就像，抱歉名字從我腦海中溜走了，但那個曾經是國防部長，或者在國防部工作的人，尼克·波普。我就像尼克·波普一樣。我在這個問題上還沒有得出明確的科學結論。但我希望在我剩餘的短暫生命中，", "confidence": "high", "notes": ""}
 
 137. I can, based on science. And if you researchers will redouble the efforts and if anybody that can help fund and resource this kind of effort can get committed and get going, because hey, I can tell you this must have cost some real money, what you've done here. And that's a compliment to the fundraising skill that you obviously all have that have been involved.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "能夠基於科學做到這一點。如果你們研究人員加倍努力，如果有任何能夠幫助資助和提供這類工作資源的人能夠投入並開始行動，因為嘿，我可以告訴你們，你們在這裡所做的一定花了不少真金白銀。這是對你們所有參與者顯然都具備的籌款技巧的讚美。", "confidence": "high", "notes": ""}
 
 138. So I'd just like to end with this final sentence. Keep working hard. Use this as just kind of a springboard to redoubling your efforts. Thank you very much.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以我只想用這最後一句話結束。繼續努力工作。把這當作加倍努力的跳板。非常感謝。", "confidence": "high", "notes": ""}
 
 139. Well, I want to thank my colleagues and thanks for putting this group of six together. It could not have been better balanced. It was balanced politically. It was balanced gender-wise, absolutely. And it was balanced with our beliefs. And it's so clear. People say we don't get along. We get along. And when you take the politics out of it, it makes it a lot easier.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我要感謝我的同事們，也感謝組成這個六人小組。它的平衡性不可能更好了。它在政治上是平衡的。它在性別上是絕對平衡的。而且它在信念上也是平衡的。這非常清楚。人們說我們相處不來。我們相處得很好。當你把政治因素排除在外時，事情就變得容易多了。", "confidence": "high", "notes": ""}
 
 140. And I will say what we say in the Congress when we want to save time, is that I echo our chairman's viewpoint on the witnesses. He said it perfectly. The knowledge, the experience, and the integrity of this group of witnesses made it such an important week for me and I know for many others. Actually, with this amazing group of witnesses that we heard, and as we talked about this subject, it made it absolutely impossible for me to remain a skeptic. But I don't believe that it's about -- I don't believe it's about belief.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我要說我們在國會為了節省時間時會說的話，那就是我贊同我們主席對證人的看法。他說得太好了。這群證人的知識、經驗和誠信使這對我來說是非常重要的一週，我知道對許多人也是如此。實際上，聽了這群了不起的證人，以及當我們談論這個主題時，這讓我絕對不可能繼續保持懷疑態度。但我不認為這是關於——我不認為這是關於信仰。", "confidence": "high", "notes": ""}
 
 141. I believe this whole situation is about information. And the existence of UFOs and ETs is becoming accepted worldwide. And the information we received was so important to support that and defend it. But it's time for our government, the U.S. government, to come to the party.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我相信整個情況是關於資訊。而且不明飛行物和外星人的存在正在全球範圍內被接受。我們收到的資訊對於支持和捍衛這一點非常重要。但現在是時候讓我們的政府，美國政府，加入這個行列了。", "confidence": "high", "notes": ""}
 
 142. It's time for our government to declassify and disclose what they know. And it is time that they trust the people of this country, that they can handle this information, whatever they think we can't handle, because they are dead wrong and it's going to get in the way of the get-along of this nation we live in. So we're not living in a flat-earth society.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "現在是時候讓我們的政府解密並揭露他們所知道的了。而且現在是時候讓他們信任這個國家的人民，相信他們能夠處理這些資訊，無論他們認為我們無法處理什麼，因為他們大錯特錯，而且這將阻礙我們所生活的這個國家的和諧。所以我們不是生活在一個地平說的社會中。", "confidence": "high", "notes": ""}
 
 143. We know it, and it's time that our government realizes it, as well, and that they make it possible for us to go forward. Because if they don't, I agree that the general public will. And I thank you again for making this all possible. Thank you.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們知道這一點，現在是時候讓我們的政府也意識到這一點，並讓我們能夠繼續前進。因為如果他們不這樣做，我同意一般民眾會這樣做。再次感謝你們讓這一切成為可能。謝謝。", "confidence": "high", "notes": ""}
 
 144. Absolutely blessed to have been given the opportunity to fill Congresswoman Hooley's seat when she left earlier today. I'd like to echo what Congressman Cook said about the heroic actions of the witnesses who came here this week. And what Congressman Bartlett said about those brilliant stars under that winter night in West Virginia. But what I'm here to suggest is that we have stars who've shone just as brightly this week and other human beings who are here who were just as heroic. And I'd like to share a little bit about that.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "非常榮幸有機會在胡利眾議員今天稍早離開時接替她的席位。我想贊同庫克眾議員所說的關於本週來到這裡的證人的英雄行為。還有巴特利特眾議員所說的關於西維吉尼亞州那個冬夜下那些璀璨星星的話。但我想在這裡提出的是，我們本週也有同樣閃耀的星星，還有其他在這裡的人類也同樣英勇。我想分享一些關於這方面的內容。", "confidence": "high", "notes": ""}
 
 145. I shared my gratitude for Congressman Kilpatrick, who was the first to say, "Yeah, I'll do it."
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我表達了對基爾帕特里克眾議員的感激，他是第一個說「好，我會做」的人。", "confidence": "high", "notes": ""}
 
 146. But there's other stories around that I'd like to share that I'd like everyone in the room to be aware of as well. Just before I do that, though, I'd also like to make a call-out to those watching this on the Internet stream, or those who might be in the room, or those who might see it in the weeks, months, years to come, who have the opportunity to be heroic, who do know about this, who have evidence, who could testify, who live perhaps in fear.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "但還有其他一些故事我想分享，我也希望房間裡的每個人都能知道。不過，在這之前，我也想向那些在網路直播上觀看的人，或者可能在房間裡的人，或者可能在未來幾週、幾個月、幾年看到這個的人發出呼籲，那些有機會成為英雄的人，那些確實知道這件事的人，那些有證據的人，那些可以作證的人，那些可能生活在恐懼中的人。", "confidence": "high", "notes": ""}
 
 147. And my call-out to you is to do what these six members of Congress have done, which is to be heroic, to stand up and recognize an allegiance, if not to the Constitution, then to your fellow men on this planet, men and women on the planet, to share what you know to be true about this issue. Congressman Bartlett has been commuting two and a half hours every morning to be here, two and a half hours back to his farm in Virginia. He's 86 years old. [applause] Sir, you're a hero to me. Your commitment to our Constitution and the principles of liberty that it embodies, and yes, Senator Gravel's right, it never embodied them perfectly, but it was a huge advance in the history of humanity on this planet to grant liberty to the people, to see the government not as the giver of rights, but as of rights being self-evident and inalienable, inalienable for each individual.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我對你們的呼籲是，去做這六位國會議員所做的事，那就是成為英雄，站起來並認識到一種忠誠，如果不是對憲法，那就是對你們在這個星球上的同胞，這個星球上的男人和女人，分享你們所知道的關於這個問題的真相。巴特利特眾議員每天早上通勤兩個半小時來到這裡，再花兩個半小時回到他在維吉尼亞州的農場。他八十六歲了。［掌聲］先生，您是我的英雄。您對我們憲法及其所體現的自由原則的承諾，是的，格拉韋爾參議員說得對，它從未完美地體現這些原則，但在這個星球的人類歷史上，將自由賦予人民是一個巨大的進步，將政府不視為權利的賦予者，而是視權利為不言而喻和不可剝奪的，對每個個人都是不可剝奪的。", "confidence": "high", "notes": ""}
 
 148. Your commitment to that is heroic. Congressman Woolsey, who's sitting next to me right now, authored legislation to protect whistleblowers that this government, this Congress, refused to pass. And we've been, if you haven't noticed, attacking whistleblowers for at least the last 12 years at an ever-increasing rate. It's unconstitutional. It's anti-liberty.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "您對此的承諾是英勇的。伍爾西眾議員，現在就坐在我旁邊，起草了保護吹哨者的立法，但這個政府，這個國會，拒絕通過。而且，如果你沒有注意到的話，我們至少在過去十二年裡以不斷增加的速度攻擊吹哨者。這是違憲的。這是反自由的。", "confidence": "high", "notes": ""}
 
 149. It's criminal. And she and I have partnered on bringing greater freedom to other social organizations and inclusiveness in other battles not related to this issue. I mentioned Carolyn being first earlier, and I want to say how great a gift that was to all of us putting this together. Again, somebody had to be first. Senator Gravel, when I called him, said, "Do you mind if I quote you on this and share a private phone call for a bit, Senator, in the world of full disclosure?" He said, "How much money are you offering again? God damn it, I usually do these things for free, and this is the first time I can't go. My wife and I just made plans to be on a cruise on the Danube at that time, and he changed his vacation plans to be here." Canceled his vacation. Very few people in this room know, but just this past Sunday, Congresswoman Hooley was in the hotel, the Washington Plaza sobbing
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這是犯罪。而且她和我在為其他社會組織帶來更大自由以及在其他與這個問題無關的鬥爭中促進包容性方面進行了合作。我早些時候提到卡羅琳是第一個，我想說這對我們所有組織這次活動的人來說是多麼珍貴的禮物。再說一次，總得有人第一個。格拉韋爾參議員，當我打電話給他時，說：「參議員，您介意我在完全揭露的世界中引用您的話並分享一段私人電話嗎？」他說：「你們又提供多少錢？該死的，我通常免費做這些事，這是我第一次不能去。我妻子和我剛計畫那時去多瑙河遊船，而他改變了他的假期計畫來到這裡。」取消了假期。這個房間裡很少有人知道，但就在這個過去的星期天，胡利眾議員在華盛頓廣場酒店哭泣", "confidence": "high", "notes": ""}
 
 150. because she had just learned her sister had died a couple of days earlier in California, and she'd had the opportunity to say goodbye to her sister, but she was devastated, and she came here anyway. That's a hero to all of us. Then one more, and I'll conclude, but I think it's fair to say as a fairly hardcore libertarian, I've had a seething contempt for most of Congress, for most of my life. I'm currently serving as the chair of the National Libertarian Party's platform committee, and thinking about these issues of how do we save what was once the land of the free and the home of the brave, and has become the land of the bailed out and the home of the terrorized by the tyranny of its government.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "因為她剛得知她的姐姐幾天前在加州去世了，她有機會和姐姐道別，但她悲痛欲絕，但她還是來到這裡。對我們所有人來說，這就是英雄。再說一個，我就結束了，但我認為可以公平地說，作為一個相當強硬的自由意志主義者，我一生中大部分時間都對國會大部分成員懷有強烈的蔑視。我目前擔任全國自由意志黨綱領委員會主席，思考這些關於如何拯救曾經是自由之地和勇敢者之家，卻已經變成被紓困之地和被其政府暴政恐嚇之家的問題。", "confidence": "high", "notes": ""}
 
 151. And I've fallen in love with Congress this week. You all have been learning about UFOs.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而這個星期我愛上了國會。你們一直在學習關於不明飛行物的知識。", "confidence": "high", "notes": ""}
 
 152. I've been learning about the great character of the men and women who actually do serve this nation, and if you're representatives of what's still there, even a portion of it, all hope is not lost. Merrill Cook invited me to come down and brief him. He lives about a half hour from my home in Park City, and when I got there I discovered that he's the full-time caretaker for the love of his life, Camille, and he has every door of his house locked from the inside out so that she doesn't wander off. She's suffering from Alzheimer's.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我一直在了解那些真正為這個國家服務的男男女女的偉大人格，如果你們代表仍然存在的那種精神，即使只是一部分，希望就沒有完全喪失。梅里爾·庫克邀請我下來向他簡報。他住在離我家在帕克城約半小時的地方，當我到達時，我發現他是他一生的摯愛卡米爾的全職照顧者，他把房子裡的每扇門都從裡面鎖上，這樣她就不會亂跑。她患有阿茲海默症。", "confidence": "high", "notes": ""}
 
 153. And his one concern before he agreed to be here was, "If I come, would it be possible for my wife to be in the audience where I could see her so that I know she's okay, because I'll never put her in an institution? She's the love of my life, but I need to have her in a seat where I can see her with someone sitting next to her so I can focus on the testimony. And sir, if I could love my wife half as much as I've seen you as an example of love to yours, I'll be okay." You, sir, are a hero as well.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而他在同意來這裡之前唯一的擔憂是：「如果我來，是否可能讓我妻子坐在我能看到她的觀眾席上，這樣我就知道她沒事，因為我永遠不會把她送進機構？她是我一生的摯愛，但我需要讓她坐在一個我能看到她的座位上，有人坐在她旁邊，這樣我才能專注於證詞。先生，如果我對我妻子的愛能有我看到您對您妻子愛的一半，我就會沒事的。」先生，您也是一位英雄。", "confidence": "high", "notes": ""}
 
 154. First of all, I would like to thank the panel. You'll be interested to know that I had considerable empathy with you to see all of that information being thrown at you so fast, and on a subject which was completely foreign to you. And you did a remarkable job of accepting it, adjusting it and being, in effect, transformed by it. And how I wish that more people would be in that position so that we could really get the word out and get the kind of action that we dream of. But as the Senator says, it may be just a dream, but I hope not, because time is running out. So thank you very much, every one of you. You are great, and we appreciate what you have done. And just hope, Mr. Chairman, that you too all redouble your effort when you go out to try and influence people to expose themselves to this kind of information so that they too may understand. And the witnesses, I must say, I agree with everything that's
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "首先，我要感謝這個小組。你們會有興趣知道，我對你們有相當大的同理心，看著所有這些資訊如此快速地拋向你們，而且是在一個對你們來說完全陌生的主題上。而你們在接受它、調適它以及實際上被它改變方面做得非常出色。我多麼希望更多人能處於那種境地，這樣我們才能真正傳播這個訊息並得到我們夢想的那種行動。但正如參議員所說，這可能只是一個夢想，但我希望不是，因為時間不多了。所以非常感謝你們每一位。你們很棒，我們感謝你們所做的一切。只是希望，主席先生，你們在外出努力影響人們接觸這類資訊時也能加倍努力，這樣他們也能理解。而證人們，我必須說，我同意所說的一切", "confidence": "high", "notes": ""}
 
 155. been said about them. I have never seen anything like it in my life. Just absolutely transfixed.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "關於他們的話。我一生中從未見過這樣的事情。完全被吸引住了。", "confidence": "high", "notes": ""}
 
 156. I've seen more heroes in five days than I've seen ever before in my life, except perhaps on VE Day or something. But just wonderful people who are willing to stick their necks out because they are deeply, deeply committed in the search of truth. And that's what we've got to do. I hesitate to mention names because every single one of them should be singled up. I was particularly thankful this morning to both Richard and Linda that they got us into some of the things that we hadn't been in before. And I will never forget Colonel French admitting that his job was to invent the excuses for the UFOs and that he designated a lot of them as swamp gas. We all knew that the swamp gas and the plasma and the balloons and all this sort of stuff was you know what. But to have him say so was -- but he said something else that I think that is even more memorable to me. And that is never put weapons
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我在五天內看到的英雄比我一生中以前看到的都多，除了也許在歐戰勝利日之類的時候。但只是那些願意冒險的優秀人們，因為他們深深地、深深地致力於尋求真相。這就是我們必須做的。我猶豫是否要提名字，因為他們每一個都應該被單獨表揚。我今天早上特別感謝理查德和琳達，他們讓我們接觸了一些我們以前沒有接觸過的東西。而且我永遠不會忘記 French 上校承認他的工作就是為不明飛行物編造藉口，而且他將其中很多歸類為沼氣。我們都知道沼氣、電漿和氣球之類的東西是什麼。但讓他親口說出來是——但他說了另一句我認為對我來說更難忘的話。那就是永遠不要把武器", "confidence": "high", "notes": ""}
 
 157. in space. We adhere to the space treaty. Google the space treaty and listen to Carol Ross and on the reasons why we should have a common access to the space, everybody. And not try to see if we can outwit other people in being the first to spend a lot of money putting weapons in space. And I feel very strongly on that. It's an issue which I have been involved in for a long while and which I will continue to support. And final word is Bob Sallis I also remember because he summed up the situation in one classic sentence. It's power and greed.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "送入太空。我們遵守太空條約。去 Google 太空條約，聽聽卡羅爾·羅斯關於為什麼我們應該共同進入太空的原因，每個人都應該聽聽。不要試圖看我們是否能比別人更聰明，成為第一個花大筆錢把武器送入太空的人。我對此感受非常強烈。這是一個我長期參與的問題，我將繼續支持。最後一句話是鮑勃·薩利斯，我也記得他，因為他用一句經典的話總結了整個情況。那就是權力和貪婪。", "confidence": "high", "notes": ""}
 
 158. It's not national security. That's what I believe.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "不是國家安全。這就是我相信的。", "confidence": "high", "notes": ""}
 
 159. And Paul mentioned heroes. Let me introduce one now. Jesse, do you have a few words to say before we leave?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而且保羅提到了英雄。讓我現在介紹一位。傑西，在我們離開之前你有幾句話要說嗎？", "confidence": "high", "notes": ""}
 
 160. Well, I have a few words. I'll keep these remarks short because everything has already been said really. But I do want to express my appreciation and honor in presenting my story to this panel.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "嗯，我有幾句話。我會讓這些發言簡短，因為實際上一切都已經說過了。但我確實想表達我的感激和榮幸，能夠向這個小組陳述我的故事。", "confidence": "high", "notes": ""}
 
 161. Since 1947, I have known that we're not alone in this universe. Because based on the material I saw that my dad brought in from the desert, I realized this is not a human manufacture.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "自從一九四七年以來，我就知道在這個宇宙中我們並不孤單。因為根據我父親從沙漠帶回來的材料，我意識到這不是人類製造的。", "confidence": "high", "notes": ""}
 
 162. So if we didn't make it, it means somebody else did. And when you look out at the night stars, night sky there in New Mexico, you realize this beautiful place that we live in is called the universe, or our galaxy. As a matter of fact, there's 10 of the 22nd power stars in the known galaxy, which equates the number of grains of sand on the beaches of the earth. And to say that only one grain of sand out of that multitude has sentient life like us around it is just begging the question there. Because someone once said very truthfully that if we're the only ones here, there's an awful lot of wasted space out there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以如果我們沒有製造它，那就意味著是別人製造的。當你仰望新墨西哥州那裡的夜空星星時，你意識到我們居住的這個美麗地方叫做宇宙，或者我們的星系。事實上，在已知星系中有十的二十二次方顆恆星，這相當於地球海灘上沙粒的數量。而要說那麼多沙粒中只有一粒有像我們這樣的感知生命環繞，這只是迴避問題。因為有人曾經非常真實地說過，如果我們是這裡唯一的存在，那麼外面就有大量被浪費的空間。", "confidence": "high", "notes": ""}
 
 163. So anyway, I started thinking about this. People ask me, "How does this affect my religion, my belief in God?" Well, I believe in the intelligent design. Because if in the very beginning at the Big Bang, when things were created, if the parameters were changed just ever so slightly, like the rate of expansion of the universe, or the charge on the proton, or the electron, or the masses thereof, had that been off by 1 trillion from what it turned out to be, we wouldn't be here, nor would our cousins from outer space be here too.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以無論如何，我開始思考這個問題。人們問我：「這如何影響我的宗教，我對上帝的信仰？」嗯，我相信智慧設計。因為如果在最初的大爆炸時，當事物被創造時，如果參數稍微改變一點，比如宇宙的膨脹率，或者質子、電子的電荷，或者它們的質量，如果這些與實際結果相差一萬億分之一，我們就不會在這裡，我們來自外太空的表親也不會在這裡。", "confidence": "high", "notes": ""}
 
 164. And I, you know, I'll give you my philosophy. I think we're all related. People of earth, people of star status, you know, wherever they come from, we're all related to them.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "而我，你知道，我會告訴你我的哲學。我認為我們都是有關聯的。地球人，星際人，你知道，無論他們來自哪裡，我們都與他們有關聯。", "confidence": "high", "notes": ""}
 
 165. Because in the very beginning when the Big Bang occurred, there's something called quantum entanglement that occurred. And Einstein calls this spooky action at a distance, but that means that all particles created in the Big Bang are related to each other. One example is where they would take two matched particles, send one of them, could be light years away, but you'd make one change and one, the other one changes correspondingly instantly. Like there's faster than light communication.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "因為在最初大爆炸發生時，發生了一種叫做量子糾纏的現象。愛因斯坦稱之為「幽靈般的超距作用」，但這意味著大爆炸中創造的所有粒子都相互關聯。一個例子是，他們會取兩個匹配的粒子，將其中一個送出，可能在數光年之外，但你對一個做出改變，另一個就會立即相應改變。就像有超光速通訊一樣。", "confidence": "high", "notes": ""}
 
 166. So again, we're all related, we're in this universe, and we have a lot of cousins out there.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "所以再次強調，我們都是有關聯的，我們在這個宇宙中，而且我們在外面有很多表親。", "confidence": "high", "notes": ""}
 
 167. [Applause]
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "［掌聲］", "confidence": "high", "notes": ""}

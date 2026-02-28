@@ -1,40 +1,40 @@
 ## Speaker Group 8
 
 96. [Applause] Senator, we've got five minutes for questions. You'll have five minutes for questions and then whatever time afterwards we'll start with you on closing states.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "［掌聲］參議員，我們有五分鐘的提問時間。您有五分鐘的提問時間，之後我們將開始進行總結陳述。", "confidence": "high", "notes": ""}
 
 97. What I'd like to do is ask Minister Heller, we all talk about the problem. In fact, that's all I hear is defining the problem. We've got to think in terms of solutions. What's your solution to the problem?
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我想請問赫勒部長，我們都在談論問題。事實上，我聽到的都是在定義問題。我們必須從解決方案的角度思考。您對這個問題的解決方案是什麼？", "confidence": "high", "notes": "Minister Heller 指 Paul Hellyer，加拿大前國防部長"}
 
 98. You have got problems. Wall Street runs your economy. And the military, if you elect a president who is presumably commander in chief of the armed forces, but he's not clear to know what the troops in his command are actually doing. So I think, you know, there are some big problems. But I think Congress ultimately has the key to both the future of the United States and of the world. And this is what bothers me because they're not exercising their power to change the things that have to be changed. But if you'll indulge me, I'd like to read two pages from advice from the extraterrestrials. And I think they've got a lot of good advice because they know what's going on more than we do sometimes. This is a quote from Jim Sparks, who was probably the most abducted of all the people who have been abducted. And he was taken away one night late on. He'd been abducted dozens of times
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "你們確實有問題。華爾街（Wall Street）主導你們的經濟。而在軍事方面，即使你們選出一位總統，他理應是三軍統帥，卻不清楚他指揮下的部隊實際在做什麼。所以我想，你知道，這確實是些大問題。但我認為國會最終掌握著美國和世界未來的關鍵。這正是困擾我的地方，因為他們沒有行使權力來改變那些必須改變的事情。但如果各位容許，我想朗讀兩頁來自外星存有（extraterrestrials）的建議。我認為他們有很多好的建議，因為他們有時比我們更清楚發生了什麼事。這是引自吉姆·斯帕克斯（Jim Sparks）的話，他可能是所有被綁架者中被綁架次數最多的人。有一天深夜他被帶走，在此之前他已經被綁架過數十次。", "confidence": "high", "notes": ""}
 
 99. before that. And he said, I found myself standing in that abandoned carnival park, clearheaded and fully conscious. There were those creatures again. And I could see that their holograms of human faces were cast over their faces to disguise their true appearance and make me feel less apprehensive. I noticed that each alien seemed to be concentrating and communicating or transmitting its thoughts to the creature to my left. They seemed to be of like mind as though combining their consciousness into one telepathic voice. They continue. And now this is quoting the ETs. There are some things you need to understand.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "在那之前。他說：「我發現自己站在那個廢棄的遊樂園裡，頭腦清醒且完全有意識。那些生物又出現了。我能看到他們將人臉的全息影像投射在臉上，以掩飾他們的真實外貌，讓我感到不那麼害怕。我注意到每個外星人似乎都在集中注意力，與我左邊的生物溝通或傳遞想法。他們似乎心意相通，彷彿將意識結合成一個心靈感應的聲音。」他們繼續說。現在這是引用外星存有的話：「有些事情你們需要理解。」", "confidence": "high", "notes": ""}
 
 100. Yes, it's true that we have been in contact with your government and heads of power. It is also true that agreements have been made and kept secret from your people. It is also true that in the past some of your people have lost their lives or have been badly hurt to protect the secret. Our hands had no part in this. We contacted your leaders because your planet is in grave trouble. Your leaders said the vast majority of your population wasn't ready for anything like us yet. So we made time agreements with your leaders as to when your people would be made aware of our presence. That part of the agreement has not at all been kept. It was also agreed that in the meantime, steps would be taken to correct the environmental conditions of your planet with our advice and technology.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "是的，我們確實與你們的政府和權力高層有過接觸。協議確實已經達成，並對你們的人民保密。過去確實有一些你們的人為了保護這個秘密而喪生或受重傷。我們與此無關。我們聯繫你們的領導人，是因為你們的星球正處於嚴重危機之中。你們的領導人說，絕大多數人口還沒有準備好面對像我們這樣的存在。所以我們與你們的領導人達成了時間協議，約定何時讓你們的人民知曉我們的存在。但這部分協議完全沒有得到遵守。同時還達成協議，在此期間將採取措施，在我們的建議和技術協助下改善你們星球的環境狀況。", "confidence": "high", "notes": ""}
 
 101. We say "advice" because we respect the fact that this is your planet, not ours. They also broke that agreement. This is Jim now. I felt an awful wave of emotion from them, the feeling of abandonment. To feel any emotion from them at all was amazing, but this was quite overwhelming.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們說『建議』，是因為我們尊重這是你們的星球，不是我們的這個事實。他們也違背了那項協議。現在回到吉姆的敘述：「我感受到他們傳來一陣強烈的情緒，一種被遺棄的感覺。能從他們身上感受到任何情緒就已經很驚人了，但這種感覺相當強烈。」", "confidence": "high", "notes": ""}
 
 102. You aren't giving up on us, are you? I asked. There was a long silent pause, and I received the transmitted feeling of tremendous loss. Well, are you? I asked. No. I felt an immediate sense of relief straight from my own emotions. But then the extraterrestrials again, your air, your water are contaminated. Your forests, jungles, trees and plant life are dying. There are several breaks in your food chain. You have an overwhelming amount of nuclear and biological weapons, which include nuclear and biological contamination. Your planet is overpopulated. Warning, it is almost to the point of being too late, unless your people act. There are better ways of deriving energy and food needs without causing your planet any damage. Those in power are aware of this and have the capability of putting these methods into worldwide use. I let this digest for a moment. I definitely had the feeling that
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "「你們不會放棄我們吧？」我問道。一陣長長的沉默，我接收到傳來的巨大失落感。「嗯，你們會嗎？」我問。「不會。」我立即感到一種解脫感，這直接來自我自己的情緒。但接著外星存有再次說道：「你們的空氣、水源受到污染。你們的森林、叢林、樹木和植物正在死亡。你們的食物鏈有多處斷裂。你們擁有數量驚人的核子與生物武器，這包括核子與生物污染。你們的星球人口過剩。警告：除非妳們的人民採取行動，否則幾乎為時已晚。有更好的方式可以獲取能源和食物需求，而不會對你們的星球造成任何損害。那些當權者知道這一點，並有能力將這些方法推廣到全球使用。」我讓這番話消化了一會兒。我確實有一種感覺，", "confidence": "high", "notes": ""}
 
 103. these creatures are speaking as one. Then I asked, why aren't we doing that now? Silence.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "這些生物是作為一個整體在說話。然後我問：「那我們為什麼現在不做呢？」沉默。", "confidence": "high", "notes": ""}
 
 104. I was willing to wait. I had come a long way to be treated like this by them to have this kind of meeting. Apparently I had earned their respect and trust. The best part was that I was getting direct truthful answers to my questions. I decided that I would milk this rare situation to its fullest, asking as many questions as I could get away with, even personal ones. I repeated my question and they answered. Those in power view it as a military and security threat. That upset me. You mean to tell me that the people in power have the ability to save and better the planet and they aren't doing it? Amnesty. What do you mean? Complete amnesty to those in power, governments and leaders who have been suppressing the truth, that they can't be held liable for any past wrong deeds. It is the only way these leaders can come forward with the truth. It is necessary that you do this in order to work together
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我願意等待。我經歷了這麼多，才能被他們這樣對待，進行這種會面。顯然我已經贏得了他們的尊重和信任。最棒的是，我得到了對我問題的直接而真實的答案。我決定要充分利用這個難得的機會，盡可能多問一些問題，即使是私人問題。我重複了我的問題，他們回答說：「那些當權者將其視為軍事和安全威脅。」這讓我很不安。「你的意思是，那些當權者有能力拯救和改善這個星球，卻沒有這樣做？」「赦免（Amnesty）。」「什麼意思？」「對那些當權者、政府和領導人給予完全赦免，他們一直壓制真相，但不能追究他們過去的任何不當行為。這是這些領導人能夠站出來說出真相的唯一方式。你們必須這樣做，才能為了共同生存而合作。", "confidence": "high", "notes": ""}
 
 105. and survive.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "並生存下去。」", "confidence": "high", "notes": ""}
 
 106. I think that's wonderful advice straight from the ET's lips. I think Congress should exercise its power. I know that they've got some job owning, but they have the ultimate power.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我認為這是來自外星存有（ET）之口的絕佳建議。我認為國會應該行使其權力。我知道他們有一些工作要完成，但他們擁有最終的權力。", "confidence": "high", "notes": ""}
 
 107. They could say to the junta, "We want you to do this. We'll give you amnesty, protection.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "他們可以對那個集團說：「我們要你們這樣做。我們會給你們赦免（amnesty）、保護。", "confidence": "high", "notes": ""}
 
 108. We want you to do this and you're going to do it. If you don't, we'll cut your funding off except for salaries and wages until you do do it." Because it's in the national interest and it's in the world interest. We want to know what's going on and specifically we want the energy sources to put into effect to save the world before it's too darn late.
-→ {"text": "", "confidence": "", "notes": ""}
+→ {"text": "我們要你們這樣做，而你們必須去做。如果不做，我們會切斷你們的資金，只留下薪資和工資，直到你們照做為止。」因為這符合國家利益，也符合世界利益。我們想知道發生了什麼事，特別是我們希望那些能源技術能夠付諸實施，在為時已晚之前拯救世界。", "confidence": "high", "notes": ""}
