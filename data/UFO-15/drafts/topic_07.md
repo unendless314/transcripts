@@ -70,10 +70,10 @@
 → {"text": "好的，說得有理。", "confidence": "high", "notes": ""}
 
 379. But you collected-- you've investigated 12,000 sightings.
-→ {"text": "但你們收集了——調查了12,000起目擊事件。", "confidence": "high", "notes": ""}
+→ {"text": "但你們收集了——調查了12，000起目擊事件。", "confidence": "high", "notes": ""}
 
 380. And I guess it was 2007, or currently, at least, over 50,000 pages of documents have been sent to the archives for scholars like yourself and any other scholar here to be looking at.
-→ {"text": "我想是從2007年開始，或者至少到目前為止，已經有超過50,000頁的文件被送到檔案館，供像你這樣的學者以及這裡的其他學者查閱。", "confidence": "high", "notes": ""}
+→ {"text": "我想是從2007年開始，或者至少到目前為止，已經有超過50，000頁的文件被送到檔案館，供像你這樣的學者以及這裡的其他學者查閱。", "confidence": "high", "notes": ""}
 
 381. Am I correct?
 → {"text": "我說得對嗎？", "confidence": "high", "notes": ""}
@@ -610,7 +610,7 @@
 → {"text": "例如，甚至美國駐羅馬大使也親眼目睹了其中一個現象。", "confidence": "high", "notes": ""}
 
 559. In 1978, we had the biggest wave, more than 2,000 cases.
-→ {"text": "1978年，我們經歷了最大的一波目擊潮，超過2,000起案例。", "confidence": "high", "notes": ""}
+→ {"text": "1978年，我們經歷了最大的一波目擊潮，超過2，000起案例。", "confidence": "high", "notes": ""}
 
 560. And in these cases, we had absolutely the landing, the sightings, rather cases of objects.
 → {"text": "在這些案例中，我們絕對有著陸事件，目擊事件，或者說是物體的案例。", "confidence": "high", "notes": ""}
@@ -994,7 +994,7 @@
 → {"text": "Nick，你有什麼要補充的嗎？", "confidence": "high", "notes": ""}
 
 687. Madam Chair, of the roundabout 12,000 UFO reports that MOD received in the time of the UFO project, only perhaps a few dozen involve the sighting of any entities.
-→ {"text": "主席女士，在 UFO 專案期間國防部收到的約12,000份 UFO 報告中，只有幾十份涉及任何實體的目擊。", "confidence": "high", "notes": ""}
+→ {"text": "主席女士，在 UFO 專案期間國防部收到的約12，000份 UFO 報告中，只有幾十份涉及任何實體的目擊。", "confidence": "high", "notes": ""}
 
 688. OK, Mr. Cameron?
 → {"text": "好的，Cameron 先生？", "confidence": "high", "notes": ""}
@@ -1063,7 +1063,7 @@
 → {"text": "在我個人看來，我認為官方案例和民間案例之間有很大的區別。", "confidence": "high", "notes": ""}
 
 710. For instance, in Italy, we have more than 12,000 cases taken from civilian sources.
-→ {"text": "例如，在意大利，我們有超過12,000個來自民間來源的案例。", "confidence": "high", "notes": ""}
+→ {"text": "例如，在意大利，我們有超過12，000個來自民間來源的案例。", "confidence": "high", "notes": ""}
 
 711. And the Italian Air Force, only 400.
 → {"text": "而意大利空軍只有400個。", "confidence": "high", "notes": ""}

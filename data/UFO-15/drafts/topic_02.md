@@ -10,7 +10,7 @@
 → {"text": "1967年我還是政治系大學生時，創立了國家幽浮研究中心（CUN），這是最具權威的科學幽浮研究團隊，也是世界上歷史最悠久的五個民間幽浮組織之一，至今仍與意大利空軍（Aeronautica Militare）保持聯繫。", "confidence": "high", "notes": "Centro Ufologico Nazionale 譯為國家幽浮研究中心"}
 
 26. Since 1947, Italy experienced more than 12,000 ufo events and four major ufo waves in 1950, 1954, 1973, and 1978.
-→ {"text": "自1947年以來，意大利經歷了超過12,000起幽浮事件，以及1950年、1954年、1973年和1978年四次大規模幽浮浪潮。", "confidence": "high", "notes": ""}
+→ {"text": "自1947年以來，意大利經歷了超過12，000起幽浮事件，以及1950年、1954年、1973年和1978年四次大規模幽浮浪潮。", "confidence": "high", "notes": ""}
 
 27. And Aeronautica Militare Italiana faced them seriously.
 → {"text": "意大利空軍認真面對這些現象。", "confidence": "high", "notes": ""}
@@ -34,7 +34,7 @@
 → {"text": "婚後回到平民生活，佛羅倫斯的意大利陸軍情報軍官米開朗基羅·普里維特拉上校（Colonel Michelangelo Privitera）也曾邀請我擔任幽浮議題的顧問。", "confidence": "high", "notes": ""}
 
 34. In 1978, I and CUN began to interact also with the Italian Air Force in Rome due to the amazing Italian UFO wave of that year with over 2,000 UFO sightings report.
-→ {"text": "1978年，由於那一年令人驚訝的意大利幽浮浪潮——有超過2,000起目擊報告——我和國家幽浮研究中心（CUN）開始與羅馬的意大利空軍互動。", "confidence": "high", "notes": ""}
+→ {"text": "1978年，由於那一年令人驚訝的意大利幽浮浪潮——有超過2，000起目擊報告——我和國家幽浮研究中心（CUN）開始與羅馬的意大利空軍互動。", "confidence": "high", "notes": ""}
 
 35. Among so many reliable UFO experiences-- pilots, flight controllers, military personnel, journalists, and scientists, as well as common people-- in 1978, I directly witnessed for three hours, and also photographed near Perugia, some as darling-like UFO phenomena interacting with our group of 11 witnesses.
 → {"text": "在1978年如此多可靠的幽浮目擊經歷中——包括飛行員、航管人員、軍人、記者、科學家以及普通民眾——我親眼目睹了長達三小時，並在佩魯賈附近拍攝到一些類似親愛的幽浮現象，與我們11位目擊者團體互動。", "confidence": "medium", "notes": "darling-like 直譯為類似親愛的，語意較奇特，可能指某種形狀或特性"}
@@ -73,7 +73,7 @@
 → {"text": "自1995年起，我們創刊於1966年的國際幽浮雜誌開始在意大利的報攤發行和銷售。", "confidence": "high", "notes": ""}
 
 47. And in 1997, a 1,600 page multimedia UFO encyclopedia edited by me was published in Italy and Spain.
-→ {"text": "1997年，由我編輯的1,600頁多媒體幽浮百科全書在意大利和西班牙出版。", "confidence": "high", "notes": ""}
+→ {"text": "1997年，由我編輯的1，600頁多媒體幽浮百科全書在意大利和西班牙出版。", "confidence": "high", "notes": ""}
 
 48. Since 1973, I wrote and published 35 books about UFOs and related subjects, also published abroad.
 → {"text": "自1973年以來，我撰寫並出版了35本關於幽浮及相關主題的書籍，其中一些也在國外出版。", "confidence": "high", "notes": ""}

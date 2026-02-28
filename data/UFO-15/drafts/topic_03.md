@@ -142,10 +142,10 @@
 → {"text": "第四，中國擁有世界上最早、記錄最多的第三類接觸案例。", "confidence": "high", "notes": ""}
 
 115. The earliest can be traced back to 12,000 years ago, prehistoric records carved in ancient stone plate.
-→ {"text": "最早的可以追溯到12,000年前，刻在古石板上的史前記錄。", "confidence": "high", "notes": ""}
+→ {"text": "最早的可以追溯到12，000年前，刻在古石板上的史前記錄。", "confidence": "high", "notes": ""}
 
 116. According to our studies, up to 5,000 years of written history, there is a wealth of suspected mysterious UFO-related data and files, including ancient data from the ancient local governments, official documents, history, ancient scientific literature, or even in civil literary works.
-→ {"text": "根據我們的研究，在長達5,000年的有文字記載的歷史中，有大量疑似神秘的與幽浮相關的數據和檔案，包括古代地方政府資料、官方文件、歷史記載、古代科學文獻，甚至民間文學作品。", "confidence": "high", "notes": ""}
+→ {"text": "根據我們的研究，在長達5，000年的有文字記載的歷史中，有大量疑似神秘的與幽浮相關的數據和檔案，包括古代地方政府資料、官方文件、歷史記載、古代科學文獻，甚至民間文學作品。", "confidence": "high", "notes": ""}
 
 117. We see all these records, which prove that UFO does exist and also proves the real existence of the interaction between UFO and humans.
 → {"text": "我們看到所有這些記錄，證明了幽浮確實存在，也證明了幽浮與人類之間真實存在的互動。", "confidence": "high", "notes": ""}

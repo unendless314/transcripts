@@ -124,7 +124,7 @@
 → {"text": "而且兩次都是不同的副機長，諷刺的是兩位都是前加油機飛行員，所以他們知道加油機在夜間作業是什麼樣子。", "confidence": "high", "notes": ""}
 
 435. And we were, you know, probably around 35,000 feet, 32,000, the other incident.
-→ {"text": "我們當時大概在 35,000 英呎左右，另一次事件是在 32,000 英呎。", "confidence": "high", "notes": ""}
+→ {"text": "我們當時大概在 35，000 英呎左右，另一次事件是在 32，000 英呎。", "confidence": "high", "notes": ""}
 
 436. One was over Montana, one over Georgia.
 → {"text": "一次在蒙大拿州上空，一次在喬治亞州上空。", "confidence": "high", "notes": ""}

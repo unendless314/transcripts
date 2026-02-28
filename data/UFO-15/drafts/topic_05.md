@@ -31,7 +31,7 @@
 → {"text": "這是我在1991年至1994年間擔任的職務。", "confidence": "high", "notes": ""}
 
 236. The MOD's UFO project ran from 1953 to 2009 and in that time, over 12,000 sightings were investigated.
-→ {"text": "英國國防部的UFO專案從1953年運作至2009年，在此期間調查了超過12,000起目擊事件。", "confidence": "high", "notes": ""}
+→ {"text": "英國國防部的UFO專案從1953年運作至2009年，在此期間調查了超過12，000起目擊事件。", "confidence": "high", "notes": ""}
 
 237. MOD's role here was to research and investigate the phenomenon to determine whether there was evidence of any potential threat to the defense of the UK or anything of more general defense interest.
 → {"text": "英國國防部在此的角色是研究和調查這個現象，以確定是否有任何對英國國防構成潛在威脅的證據，或任何更廣泛的國防利益相關事項。", "confidence": "high", "notes": ""}
@@ -160,7 +160,7 @@
 → {"text": "後續批次陸續發布，而這項計畫在今年達到高潮。", "confidence": "high", "notes": ""}
 
 279. To date, over 50,000 pages of documents have been sent to the UK's National Archives.
-→ {"text": "迄今為止，已有超過50,000頁的文件被送交英國國家檔案館（UK's National Archives）。", "confidence": "high", "notes": ""}
+→ {"text": "迄今為止，已有超過50，000頁的文件被送交英國國家檔案館（UK's National Archives）。", "confidence": "high", "notes": ""}
 
 280. The UK and France are two of a number of nations that have opened their UFO files recently in response to pressure from media and the public, and again, the committee's had some testimony on that.
 → {"text": "英國和法國是近期在媒體和公眾壓力下公開其UFO檔案的眾多國家之一，而且委員會已經就此聽取了一些證詞。", "confidence": "high", "notes": ""}

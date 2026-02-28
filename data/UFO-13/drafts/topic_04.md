@@ -25,10 +25,10 @@
 → {"text": "我同時也是當地不明飛行物非民間研究中心（Center for Exploration of Non-Civil Research of the UFO OVNI）的主任。", "confidence": "medium", "notes": "機構名稱直譯，原文較為拗口"}
 
 211. Uruguay in these groups of investigation has about 1,300 cases that have been investigated for a long 30 years with 3% of these cases that have non-conventional characteristics.
-→ {"text": "烏拉圭在這些調查組織中，約有1,300個案例經過長達30年的調查，其中3%的案例具有非常規特徵。", "confidence": "high", "notes": ""}
+→ {"text": "烏拉圭在這些調查組織中，約有1，300個案例經過長達30年的調查，其中3%的案例具有非常規特徵。", "confidence": "high", "notes": ""}
 
 212. Uruguay is a small country with only 3,250,000 inhabitants in a land of 176,215 square kilometers.
-→ {"text": "烏拉圭是一個小國，僅有325萬人口，國土面積為176,215平方公里。", "confidence": "high", "notes": "已依據 potential_errors 修正 square feet 為平方公里"}
+→ {"text": "烏拉圭是一個小國，僅有325萬人口，國土面積為176，215平方公里。", "confidence": "high", "notes": "已依據 potential_errors 修正 square feet 為平方公里"}
 
 213. Its principal industry of Uruguay is cattle and raising and agriculture. 1979 was created an office for the citizens' reporting of unidentified objects, most reiterated based on the 1970s, but the first registers started up in 1942.
 → {"text": "烏拉圭的主要產業是畜牧業和農業。1979年設立了公民不明物體通報辦公室，雖然在1970年代已有多次重申，但最早的記錄始於1942年。", "confidence": "high", "notes": ""}

@@ -103,7 +103,7 @@
 → {"text": "於是我開始重新思考：嘿，這可能與 Paulson 書中所說的 Moo 碟有關。", "confidence": "medium", "notes": "Moo disk 保留原文"}
 
 184. And that's one of the biographies you can get off the shelf, "Anti-Gravity, the Dream Made Reality" by John Thomas.
-→ {"text": "這是你可以從書架上找到的傳記之一：John Thomas 所著的《Anti-Gravity, the Dream Made Reality》。", "confidence": "medium", "notes": "書名保留原文"}
+→ {"text": "這是你可以從書架上找到的傳記之一：John Thomas 所著的《Anti-Gravity， the Dream Made Reality》。", "confidence": "medium", "notes": "書名保留原文"}
 
 185. Next slide.
 → {"text": "下一張投影片。", "confidence": "high", "notes": ""}
@@ -268,7 +268,7 @@
 → {"text": "這張投影片之後的下一張。", "confidence": "high", "notes": ""}
 
 239. And the important part is that nowadays, inertia has been discovered to be a zero-point field, Lorentz force, by Hayes, Schwetter, and Puthoff.
-→ {"text": "重要的是，如今海施、魯埃達與普特夫（Haisch, Rueda, and Puthoff）已經發現，慣性是一種零點場、勞倫茲力（Lorentz force）。", "confidence": "medium", "notes": "根據 topics.json 修正建議，Hayes, Schwetter 應為 Haisch, Rueda"}
+→ {"text": "重要的是，如今海施、魯埃達與普特夫（Haisch， Rueda， and Puthoff）已經發現，慣性是一種零點場、勞倫茲力（Lorentz force）。", "confidence": "medium", "notes": "根據 topics.json 修正建議，Hayes, Schwetter 應為 Haisch, Rueda"}
 
 240. This is a seminal paper that's so important that it opens the door to actually controlling inertia and understanding how any ET craft or UFOs could possibly have fast acceleration right angle turns and maybe even travel through the universe.
 → {"text": "這是一篇極具開創性的論文，如此重要，它開啟了實際控制慣性的大門，並讓我們理解任何外星飛行器或不明飛行物如何能夠實現快速加速、直角轉彎，甚至可能穿越宇宙。", "confidence": "high", "notes": ""}
@@ -301,7 +301,7 @@
 → {"text": "這是另一個演示。", "confidence": "high", "notes": ""}
 
 250. I showed this slide to the deputy director of the NRO, National Reconnaissance Office, in case you don't know what NRO stands for.
-→ {"text": "我將這張投影片展示給國家偵察局（NRO, National Reconnaissance Office）的副局長，以防你們不知道 NRO 代表什麼。", "confidence": "high", "notes": ""}
+→ {"text": "我將這張投影片展示給國家偵察局（NRO， National Reconnaissance Office）的副局長，以防你們不知道 NRO 代表什麼。", "confidence": "high", "notes": ""}
 
 251. And this was very important because, as you see, F equals MA, Newton's law, can be modified.
 → {"text": "這非常重要，因為正如你們所見，F 等於 MA，牛頓定律，是可以被修改的。", "confidence": "high", "notes": "物理公式保留原文"}

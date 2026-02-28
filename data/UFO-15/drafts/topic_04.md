@@ -76,7 +76,7 @@
 → {"text": "加拿大的飛碟調查顯示，除了追踪目擊報告之外，加拿大人還設立了一個飛碟偵測站，我想我們有一張照片，該站設置在加拿大國防研究委員會（Defense Research Board）提供的一處地產上，加拿大人在那裡試圖偵測飛碟，並且確實在1954年8月8日偵測到了。", "confidence": "high", "notes": "Defense Research Board 保留原文並加註中文"}
 
 168. The Canadians also-- and this was announced in a speech by Paul Hellyer in 1967, when he was the defense minister-- that in 1954, the Canadians actually opened up a base, a top secret base at Suffield, Alberta, for flying saucers to land.
-→ {"text": "加拿大人還——這是 Paul Hellyer 在1967年擔任國防部長時的一次演說中宣布的——在1954年，加拿大人實際上開設了一個基地，一個位於亞伯達省薩菲爾德（Suffield, Alberta）的最高機密基地，供飛碟降落。", "confidence": "high", "notes": "Paul Hellyer、Suffield, Alberta 保留原文"}
+→ {"text": "加拿大人還——這是 Paul Hellyer 在1967年擔任國防部長時的一次演說中宣布的——在1954年，加拿大人實際上開設了一個基地，一個位於亞伯達省薩菲爾德（Suffield， Alberta）的最高機密基地，供飛碟降落。", "confidence": "high", "notes": "Paul Hellyer、Suffield, Alberta 保留原文"}
 
 169. The Canadians had made contact.
 → {"text": "加拿大人已經建立了聯繫。", "confidence": "high", "notes": ""}
@@ -109,7 +109,7 @@
 → {"text": "所有檔案都被移轉到國家研究委員會（National Research Council）。", "confidence": "high", "notes": "National Research Council 保留原文並加註中文"}
 
 179. The files today are actually sent to a researcher in my city, in Winnipeg, Manitoba, Canada.
-→ {"text": "如今這些檔案實際上被送到位於我居住城市的一位研究人員手中，在加拿大曼尼托巴省的溫尼伯（Winnipeg, Manitoba）。", "confidence": "high", "notes": "Winnipeg, Manitoba 保留原文"}
+→ {"text": "如今這些檔案實際上被送到位於我居住城市的一位研究人員手中，在加拿大曼尼托巴省的溫尼伯（Winnipeg， Manitoba）。", "confidence": "high", "notes": "Winnipeg, Manitoba 保留原文"}
 
 180. None of the top secret, none of the secret, but all the siting reports are actually sent to an investigator from the Canadian government.
 → {"text": "最高機密和機密檔案都沒有送達，但所有目擊報告確實被送交給一位加拿大政府調查員。", "confidence": "high", "notes": ""}
@@ -166,7 +166,7 @@
 → {"text": "Scully 的書是一本關於飛碟墜毀事件的著作。", "confidence": "high", "notes": ""}
 
 198. It reported to be a crash at Aztec New Mexico in March of 1948 recovering bodies and a craft.
-→ {"text": "該書報導了1948年3月發生在新墨西哥州阿茲特克（Aztec, New Mexico）的墜毀事件，據稱回收了遺體和飛行器。", "confidence": "high", "notes": "Aztec, New Mexico 保留原文"}
+→ {"text": "該書報導了1948年3月發生在新墨西哥州阿茲特克（Aztec， New Mexico）的墜毀事件，據稱回收了遺體和飛行器。", "confidence": "high", "notes": "Aztec, New Mexico 保留原文"}
 
 199. Smith asked Saubacher how much of this book is true.
 → {"text": "Smith 詢問 Sarbacher 這本書有多少內容是真實的。", "confidence": "high", "notes": "原文誤拼 Saubacher，應為 Sarbacher"}
@@ -226,7 +226,7 @@
 → {"text": "他曾任國家科學基金會（National Science Foundation）主席。", "confidence": "high", "notes": "National Science Foundation 保留原文並加註中文"}
 
 218. He was Executive Secretary of the Research and Development Board and headed the Navy's Applied Research Lab at State College, Pennsylvania.
-→ {"text": "他曾任研究與發展委員會（Research and Development Board）執行秘書，並主管位於賓夕法尼亞州州立學院（State College, Pennsylvania）的海軍應用研究實驗室。", "confidence": "high", "notes": "Research and Development Board、State College, Pennsylvania 保留原文"}
+→ {"text": "他曾任研究與發展委員會（Research and Development Board）執行秘書，並主管位於賓夕法尼亞州州立學院（State College， Pennsylvania）的海軍應用研究實驗室。", "confidence": "high", "notes": "Research and Development Board、State College, Pennsylvania 保留原文"}
 
 219. In discussions with more than half a dozen researchers over eight years, Dr. Walker tried not to talk about the subject, but he did confirm that there were ET recoveries, communication with aliens, and that there was a secret control group that was overseeing the entire subject.
 → {"text": "在八年間與超過六位研究人員的討論中，Walker 博士試圖迴避談論這個主題，但他確實確認了有外星回收事件、與外星人的通訊，以及有一個秘密控制小組在監督整個議題。", "confidence": "high", "notes": "ET 譯為外星"}

@@ -55,10 +55,10 @@
 → {"text": "雷達總是能捕捉到所有飛行物，但它們飛得太快了，你根本認不出來。", "confidence": "high", "notes": ""}
 
 502. Today, to fly in the FAA system, if you're flying below 10,000, you have to stay at 250 knots.
-→ {"text": "現在，要在 FAA 系統中飛行，如果你在10,000英尺以下，必須保持250節以下。", "confidence": "high", "notes": ""}
+→ {"text": "現在，要在 FAA 系統中飛行，如果你在10，000英尺以下，必須保持250節以下。", "confidence": "high", "notes": ""}
 
 503. If you're flying above 10,000 or above 18,000, you have to have a working transponder on your aircraft.
-→ {"text": "如果你在10,000或18,000英尺以上飛行，你的飛機必須配備正常運作的航空應答機。", "confidence": "high", "notes": ""}
+→ {"text": "如果你在10，000或18，000英尺以上飛行，你的飛機必須配備正常運作的航空應答機。", "confidence": "high", "notes": ""}
 
 504. That sends out a signal to the radar that says, "This is me," and it shows a different target on the screen.
 → {"text": "它會向雷達發送訊號說「這是我」，然後螢幕上會顯示不同的目標標示。", "confidence": "high", "notes": ""}
@@ -211,7 +211,7 @@
 → {"text": "例如，現在中國有約200座平頂金字塔，這使它們成為飛行器降落的理想地點。", "confidence": "high", "notes": ""}
 
 554. The Chinese are declaring that they're some 10,000 years old.
-→ {"text": "中國方面宣稱它們有約10,000年的歷史。", "confidence": "high", "notes": ""}
+→ {"text": "中國方面宣稱它們有約10，000年的歷史。", "confidence": "high", "notes": ""}
 
 555. The question is, how did these huge pyramids be built when we were basically not much further along than cavemen?
 → {"text": "問題是，當我們基本上還處於穴居人階段時，這些巨大的金字塔是如何建造的？", "confidence": "high", "notes": ""}

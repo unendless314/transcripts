@@ -124,7 +124,7 @@
 → {"text": "而飛碟行動的第三個目標，這是巴西空軍官方的說法，是嘗試與這個現象背後的智慧生命建立聯繫。", "confidence": "high", "notes": ""}
 
 120. This is all very intense. 2,000 pages have been produced by 3,000 men who took part in this operation.
-→ {"text": "這一切都是非常密集的。參與這次行動的 3,000 人製作了 2,000 頁的文件。", "confidence": "high", "notes": ""}
+→ {"text": "這一切都是非常密集的。參與這次行動的 3，000 人製作了 2，000 頁的文件。", "confidence": "high", "notes": ""}
 
 121. I was the one chosen by the commander of this operation 20 years after it was ended to interview him, and he gave me with a huge amount of details what went on in that period of time.
 → {"text": "在這次行動結束 20 年後，我被該行動的指揮官選中來訪問他，他向我提供了大量關於那段時間所發生事情的細節。", "confidence": "high", "notes": ""}

@@ -28,7 +28,7 @@
 → {"text": "事實上，我只是個鄉下來的老粗，請各位多多包涵。", "confidence": "high", "notes": ""}
 
 310. I live near Stephenville, Texas.
-→ {"text": "我住在德州斯蒂芬維爾（Stephenville, Texas）附近。", "confidence": "high", "notes": ""}
+→ {"text": "我住在德州斯蒂芬維爾（Stephenville， Texas）附近。", "confidence": "high", "notes": ""}
 
 311. I'm the owner of a transportation company.
 → {"text": "我是一家運輸公司的老闆。", "confidence": "high", "notes": ""}
@@ -64,7 +64,7 @@
 → {"text": "以下是我的經歷。", "confidence": "high", "notes": ""}
 
 322. On the evening of January the 8th, 2008, at 6.15 p.m. in Selden, Texas, just outside of Stephenville at my friend's home, Mike Odom, I witnessed a set of four very bright high intensity lights flying extremely fast in a very low altitude, what seemed to be coming directly at us, flying from east to west.
-→ {"text": "2008年1月8日晚上6點15分，在德州塞爾登（Selden, Texas），也就是斯蒂芬維爾郊外我朋友麥克·奧多姆（Mike Odom）的家中，我目擊到四盞非常明亮的高強度燈光，以極快的速度在低空飛行，看起來正朝著我們直飛而來，由東向西飛行。", "confidence": "high", "notes": ""}
+→ {"text": "2008年1月8日晚上6點15分，在德州塞爾登（Selden， Texas），也就是斯蒂芬維爾郊外我朋友麥克·奧多姆（Mike Odom）的家中，我目擊到四盞非常明亮的高強度燈光，以極快的速度在低空飛行，看起來正朝著我們直飛而來，由東向西飛行。", "confidence": "high", "notes": ""}
 
 323. I knew immediately this is nothing I had ever seen.
 → {"text": "我立刻就知道，這是我從未見過的東西。", "confidence": "high", "notes": ""}
@@ -79,7 +79,7 @@
 → {"text": "這個物體看起來非常巨大，大約有半英里寬，將近一英里長。", "confidence": "high", "notes": ""}
 
 327. The lights came past us at approximately 3,000 feet AGL, that's above ground level.
-→ {"text": "這些燈光從我們附近飛過，高度大約是3,000英尺 AGL，也就是離地高度。", "confidence": "high", "notes": "AGL = Above Ground Level，離地高度"}
+→ {"text": "這些燈光從我們附近飛過，高度大約是3，000英尺 AGL，也就是離地高度。", "confidence": "high", "notes": "AGL = Above Ground Level，離地高度"}
 
 328. It was up close and personal.
 → {"text": "這是近距離的親身經歷。", "confidence": "high", "notes": ""}
@@ -214,7 +214,7 @@
 → {"text": "果然，一份非常詳細、全面的報告出爐了。", "confidence": "high", "notes": ""}
 
 372. There it was, an unidentified aircraft with no transponder traveling from east to west at 1,900 to 2,100 miles an hour.
-→ {"text": "報告顯示，有一架沒有航空應答機（transponder）的不明飛行器，以每小時1,900到2,100英里的速度由東向西飛行。", "confidence": "high", "notes": ""}
+→ {"text": "報告顯示，有一架沒有航空應答機（transponder）的不明飛行器，以每小時1，900到2，100英里的速度由東向西飛行。", "confidence": "high", "notes": ""}
 
 373. Then in less than ten seconds, slowing to a speed of less than 50 miles an hour over Stephenville, Texas.
 → {"text": "然後在不到十秒內，減速到每小時不到50英里，飛越德州斯蒂芬維爾上空。", "confidence": "high", "notes": ""}
@@ -232,7 +232,7 @@
 → {"text": "還有另外八架 F-16 戰機，四架在飛行器的一側，四架在另一側，試圖從兩翼包抄這個物體。", "confidence": "high", "notes": ""}
 
 378. Also an AWACS, Airborne Weather Command Center, that's the aircraft with the giant frisbee-like radar on its rear at 41,000 foot, circling the area for over four hours.
-→ {"text": "還有一架 AWACS 空中預警機（Airborne Warning and Control System），也就是機尾裝有巨大飛盤狀雷達的飛機，在41,000英尺高空盤旋該區域超過四小時。", "confidence": "high", "notes": "AWACS = Airborne Warning and Control System，空中預警管制系統"}
+→ {"text": "還有一架 AWACS 空中預警機（Airborne Warning and Control System），也就是機尾裝有巨大飛盤狀雷達的飛機，在41，000英尺高空盤旋該區域超過四小時。", "confidence": "high", "notes": "AWACS = Airborne Warning and Control System，空中預警管制系統"}
 
 379. Powell and Schultz also received copies of the F-16 log books.
 → {"text": "鮑威爾和舒爾茨還收到了 F-16 戰機的飛行日誌副本。", "confidence": "high", "notes": ""}
@@ -241,7 +241,7 @@
 → {"text": "很多內容都被塗黑刪減了，為了掩蓋什麼呢？", "confidence": "high", "notes": ""}
 
 381. The craft ended up ten miles from the former President Bush's Western White House in Crawford, Texas.
-→ {"text": "這架飛行器最後出現在德州克勞福德（Crawford, Texas）前總統布希的西部白宮（Western White House）附近十英里處。", "confidence": "high", "notes": ""}
+→ {"text": "這架飛行器最後出現在德州克勞福德（Crawford， Texas）前總統布希的西部白宮（Western White House）附近十英里處。", "confidence": "high", "notes": ""}
 
 382. Then we had no more radar info.
 → {"text": "然後我們就沒有更多的雷達資訊了。", "confidence": "high", "notes": ""}

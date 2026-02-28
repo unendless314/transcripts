@@ -121,7 +121,7 @@
 → {"text": "現在我們來看第十一張投影片。", "confidence": "high", "notes": ""}
 
 283. In 2002, during a nighttime military training flight in the area close to Moropon, very close to Chulucanas, Peruvian Air Force Captain Germán Shrock Castillo and another pilot, after receiving a report from a commercial flight and flying at an altitude of 12,000 feet, detected an unexplainable, perfect circle outlined by fire of an immense diameter of between 15 and 18 kilometers.
-→ {"text": "2002年，在 Moropon 附近，離丘盧卡納斯很近的區域進行夜間軍事訓練飛行時，祕魯空軍上尉 Germán Shrock Castillo 和另一位飛行員在收到商業航班的報告後，於12,000英呎的高度飛行，發現了一個無法解釋的、由火焰勾勒出的完美圓圈，直徑巨大，介於15到18公里之間。", "confidence": "high", "notes": ""}
+→ {"text": "2002年，在 Moropon 附近，離丘盧卡納斯很近的區域進行夜間軍事訓練飛行時，祕魯空軍上尉 Germán Shrock Castillo 和另一位飛行員在收到商業航班的報告後，於12，000英呎的高度飛行，發現了一個無法解釋的、由火焰勾勒出的完美圓圈，直徑巨大，介於15到18公里之間。", "confidence": "high", "notes": ""}
 
 284. No explanation for that phenomenon could be found, nor was this ever revealed to the public.
 → {"text": "這個現象找不到任何解釋，也從未向大眾公開。", "confidence": "high", "notes": ""}
@@ -160,7 +160,7 @@
 → {"text": "這是一個非常重要的事件。", "confidence": "high", "notes": ""}
 
 296. Peru is one of the six places that for 6,000 years that we have human inhabitation, the Mayas ancestry.
-→ {"text": "祕魯是六個擁有6,000年人類居住歷史的地方之一，有著瑪雅祖先的傳承。", "confidence": "medium", "notes": "原文提到 Mayas ancestry，但瑪雅文明主要在墨西哥和中美洲，此處可能是講者口誤或泛指古代文明"}
+→ {"text": "祕魯是六個擁有6，000年人類居住歷史的地方之一，有著瑪雅祖先的傳承。", "confidence": "medium", "notes": "原文提到 Mayas ancestry，但瑪雅文明主要在墨西哥和中美洲，此處可能是講者口誤或泛指古代文明"}
 
 297. That exists also evidence that there is pilots that have encounters in space.
 → {"text": "還有證據顯示有飛行員在太空中遭遇過。", "confidence": "medium", "notes": ""}

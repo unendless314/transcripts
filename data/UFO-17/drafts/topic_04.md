@@ -40,7 +40,7 @@
 → {"text": "很快之後，他以大約每小時100英里的速度衝出水面。", "confidence": "high", "notes": ""}
 
 275. As soon as he broke the surface of the water, he increased his speed to approximately 2,500 miles an hour and quickly went out of sight.
-→ {"text": "他一衝出水面，就將速度提升到每小時約2,500英里，迅速消失在我的視線中。", "confidence": "high", "notes": ""}
+→ {"text": "他一衝出水面，就將速度提升到每小時約2，500英里，迅速消失在我的視線中。", "confidence": "high", "notes": ""}
 
 276. He was gone for about 15 or 20 minutes.
 → {"text": "他離開了大約15到20分鐘。", "confidence": "high", "notes": ""}
@@ -49,7 +49,7 @@
 → {"text": "他回來了，大幅減速，以每小時約100英里的速度再次潛入水中，繼續下潛……他和另一個外星人，你可以看到他們正在修理那些不明飛行物。", "confidence": "medium", "notes": "原文有口語化的停頓和重複，已調整為流暢的中文"}
 
 278. After about approximately 2 hours of apparently performing maintenance on the UFOs, the two of them took off together again, left the water at about 100 miles an hour, immediately accelerated to well over 2,500 miles an hour, went virtually straight up and disappeared.
-→ {"text": "在進行了大約兩小時的維修工作後，兩艘飛行物一起再次起飛，以每小時約100英里的速度離開水面，隨即加速到超過每小時2,500英里，幾乎垂直上升後消失。", "confidence": "high", "notes": ""}
+→ {"text": "在進行了大約兩小時的維修工作後，兩艘飛行物一起再次起飛，以每小時約100英里的速度離開水面，隨即加速到超過每小時2，500英里，幾乎垂直上升後消失。", "confidence": "high", "notes": ""}
 
 279. The speeds that I reported this, I arrived at the figures simply by triangulation and in that I can take things that were at a known distance and then calculate based on where they were and how long it took them to get to another place is what I use as a standard for estimating their speed.
 → {"text": "我所報告的速度數據，是透過三角測量法得出的。我會以已知距離的物體為參照，根據它們的位置和移動到另一地點所需的時間來計算，這就是我估算速度的標準方法。", "confidence": "medium", "notes": "原文為口語化的技術說明，已調整為較正式的表達"}

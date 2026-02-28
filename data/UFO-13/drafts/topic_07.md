@@ -175,7 +175,7 @@
 → {"text": "CEFORA 持續要求將本案及過往案件的相關文件解密。", "confidence": "high", "notes": "CEFORA 保留原文，原轉錄 Sephora 為錯誤"}
 
 419. There's a case in Guadalupe, Polanco.
-→ {"text": "在瓜達盧佩的波朗科（Guadalupe, Polanco）有一個案件。", "confidence": "high", "notes": ""}
+→ {"text": "在瓜達盧佩的波朗科（Guadalupe， Polanco）有一個案件。", "confidence": "high", "notes": ""}
 
 420. This was a case of the Argentinian airline where the pilot saw a UFO that attempted to land in the Bariloche airport.
 → {"text": "這是阿根廷航空公司的一起案件，機長看到一架不明飛行物試圖降落在巴里洛切機場（Bariloche）。", "confidence": "high", "notes": "Bariloche airport 譯為「巴里洛切機場（Bariloche）」"}

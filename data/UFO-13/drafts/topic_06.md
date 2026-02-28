@@ -43,7 +43,7 @@
 → {"text": "我就是當時駕駛這架飛機試圖攔截不明飛行物的飛行員。", "confidence": "high", "notes": ""}
 
 327. In the area base of La Joya in the Department of Arequipa in the south of Peru, 11 April 1980, in the morning, 1,800 people, civil and military, that they were part of the base could observe at the end of the landing strip an object that looked like an aerostatic globe suspended in the air, about five kilometers of distance and 1,500 of altitude.
-→ {"text": "1980 年 4 月 11 日上午，在祕魯南部阿雷基帕省的拉霍亞基地，約 1,800 名軍民人員在跑道盡頭觀察到一個懸浮在空中的氣球形飛行器，距離約 5 公里，高度約 1,500 公尺。", "confidence": "high", "notes": ""}
+→ {"text": "1980 年 4 月 11 日上午，在祕魯南部阿雷基帕省的拉霍亞基地，約 1，800 名軍民人員在跑道盡頭觀察到一個懸浮在空中的氣球形飛行器，距離約 5 公里，高度約 1，500 公尺。", "confidence": "high", "notes": ""}
 
 328. The system of radars did not detect this globe approaching, and this object did not respond to the tower of control messages.
 → {"text": "雷達系統並未偵測到這個飛行器接近，且該物體也未回應塔台的通訊訊息。", "confidence": "high", "notes": ""}
@@ -61,7 +61,7 @@
 → {"text": "我首先接近該物體，我所駕駛的這架飛機配備了軍事武器。", "confidence": "high", "notes": ""}
 
 333. I did an ascent from the right to the 1,500 kilometers of height, and I initiated the attack procedures.
-→ {"text": "我從右側爬升至 1,500 公尺高度，並開始執行攻擊程序。", "confidence": "medium", "notes": "原文 '1,500 kilometers' 應為 '1,500 meters'（公尺），但依原文翻譯"}
+→ {"text": "我從右側爬升至 1，500 公尺高度，並開始執行攻擊程序。", "confidence": "medium", "notes": "原文 '1,500 kilometers' 應為 '1,500 meters'（公尺），但依原文翻譯"}
 
 334. When I was close to the object, I threw away a charge of missiles, but this globe never got any damages and started ascending and living in a very, very fast pace.
 → {"text": "當我接近該物體時，我發射了一連串飛彈，但這個氣球形飛行器毫髮無損，並開始以極快的速度爬升離開。", "confidence": "high", "notes": ""}
@@ -85,7 +85,7 @@
 → {"text": "面對這種情況，我決定以極高速度爬升至高空，然後垂直俯衝攻擊，但這個氣球形飛行器也以極快的速度爬升，讓我無法瞄準射擊。", "confidence": "high", "notes": ""}
 
 341. The next view, I accelerated my airplane to get to 1.6 mach, approximately 1,850 kilometers per hour, and I began to ascend.
-→ {"text": "接著，我將飛機加速至 1.6 馬赫，約每小時 1,850 公里，並開始爬升。", "confidence": "high", "notes": ""}
+→ {"text": "接著，我將飛機加速至 1.6 馬赫，約每小時 1，850 公里，並開始爬升。", "confidence": "high", "notes": ""}
 
 342. I surpassed the position of the balloon, and I hoped to be able to be high enough to get into my attack maneuver, but I was surprised when the balloon, again, quickly ascended and was able to get alongside my plane, and therefore I was unable to attack it.
 → {"text": "我超越了那個氣球形飛行器的位置，希望爬升到足夠高度以進入攻擊姿態，但令我驚訝的是，該飛行器再次快速爬升，並與我的飛機平行飛行，因此我無法攻擊它。", "confidence": "high", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "當不明飛行物與我的飛機平行時，我繼續爬升，希望能超越它以進入攻擊位置，但我無法做到。", "confidence": "high", "notes": ""}
 
 344. So we got up to 19,200 meters, about 63,000 feet, as you can see here, where the balloon stopped its ascent, and I tried to, again, get it in my sights to be able to fire, but it was impossible.
-→ {"text": "我們爬升至 19,200 公尺，約 63,000 英呎，如各位在此所見，該氣球形飛行器在此停止爬升，我試圖再次瞄準它以便開火，但這是不可能的。", "confidence": "high", "notes": ""}
+→ {"text": "我們爬升至 19，200 公尺，約 63，000 英呎，如各位在此所見，該氣球形飛行器在此停止爬升，我試圖再次瞄準它以便開火，但這是不可能的。", "confidence": "high", "notes": ""}
 
 345. At that point, my low-fuel light came on, saying that I had just enough fuel to get back to land.
 → {"text": "就在那時，我的燃油不足警示燈亮起，顯示我的燃油僅夠返航降落。", "confidence": "high", "notes": ""}

@@ -13,7 +13,7 @@
 → {"text": "我的背景是，我從十歲開始上飛行課程。", "confidence": "high", "notes": ""}
 
 209. I've been an airline captain for 31 years, flying 46 years, and have over 32,000 flight hours rated as a captain, 747s.
-→ {"text": "我擔任航線機長已經31年，飛行資歷46年，擁有超過32,000小時的機長飛行時數，執飛過747客機。", "confidence": "high", "notes": ""}
+→ {"text": "我擔任航線機長已經31年，飛行資歷46年，擁有超過32，000小時的機長飛行時數，執飛過747客機。", "confidence": "high", "notes": ""}
 
 210. Most Boeing jets and Airbus, I'm also a helicopter instructor and instructor in gliders and balloons and such.
 → {"text": "大部分波音噴射機和空中巴士，我也是直升機教練，以及滑翔機和熱氣球等項目的教練。", "confidence": "high", "notes": ""}
@@ -160,7 +160,7 @@
 → {"text": "還有很多其他的書籍。", "confidence": "high", "notes": ""}
 
 258. I have a collection of over probably 3,000 UFO books at my house, and hundreds and hundreds of videos.
-→ {"text": "我家裡收藏了超過大概3,000本UFO相關書籍，以及數百部影片。", "confidence": "high", "notes": ""}
+→ {"text": "我家裡收藏了超過大概3，000本UFO相關書籍，以及數百部影片。", "confidence": "high", "notes": ""}
 
 259. We all can't be crazy.
 → {"text": "我們不可能都是瘋子。", "confidence": "high", "notes": ""}

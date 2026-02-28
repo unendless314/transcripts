@@ -7,10 +7,10 @@
 → {"text": "我們有一位費勒少校可以……請開始吧。", "confidence": "high", "notes": ""}
 
 142. I'm a retired Air Force major with the 5,000 flying hours, and I'm currently the Eastern Regional Director of the Mutual UFO Network, which is studying this phenomenon, and editor of the Filers Files.
-→ {"text": "我是退役空軍少校，累積了5,000飛行小時，目前擔任MUFON（UFO互動網絡）東部地區主管，該組織正在研究這個現象，同時也是《Filer's Files》的編輯。", "confidence": "high", "notes": ""}
+→ {"text": "我是退役空軍少校，累積了5，000飛行小時，目前擔任MUFON（UFO互動網絡）東部地區主管，該組織正在研究這個現象，同時也是《Filer's Files》的編輯。", "confidence": "high", "notes": ""}
 
 143. When I was flying for the Air Force 420th Air Refueling Squadron stationed at RAF Sculthorpe in England in January of '62, we were in orbit for refueling fighter aircraft over the North Sea at about 30,000 feet in our KB-50J tanker just after sunset on a clear night.
-→ {"text": "1962年1月，當時我隸屬於駐紮在英格蘭RAF Sculthorpe基地的空軍第420空中加油中隊，我們在一個晴朗的夜晚日落後不久，駕駛KB-50J加油機在北海上空約30,000英呎處盤旋，準備為戰鬥機加油。", "confidence": "high", "notes": ""}
+→ {"text": "1962年1月，當時我隸屬於駐紮在英格蘭RAF Sculthorpe基地的空軍第420空中加油中隊，我們在一個晴朗的夜晚日落後不久，駕駛KB-50J加油機在北海上空約30，000英呎處盤旋，準備為戰鬥機加油。", "confidence": "high", "notes": ""}
 
 144. London Control excitedly called us and notified us that they had an unidentified object hovering on their radar near Stonehenge.
 → {"text": "倫敦航管中心興奮地聯繫我們，通知他們在雷達上發現巨石陣附近有一個不明物體盤旋。", "confidence": "high", "notes": ""}
@@ -73,7 +73,7 @@
 → {"text": "我們看到了更明亮的燈光和驚人的加速度。", "confidence": "high", "notes": ""}
 
 164. It seemed to go straight up, just estimating speed like 50,000 miles an hour, 100 times faster than we were moving.
-→ {"text": "它似乎筆直向上飛去，估計速度約為每小時50,000英里，比我們的速度快了100倍。", "confidence": "high", "notes": ""}
+→ {"text": "它似乎筆直向上飛去，估計速度約為每小時50，000英里，比我們的速度快了100倍。", "confidence": "high", "notes": ""}
 
 165. We asked London Control if they had any rocket launches in the area.
 → {"text": "我們詢問倫敦航管中心該區域是否有火箭發射。", "confidence": "high", "notes": ""}
@@ -154,7 +154,7 @@
 → {"text": "這是1967年7月3日在羅德島坎伯蘭拍攝的較好的飛行器照片之一，這張經過彩色處理，並加上了窗戶。", "confidence": "high", "notes": ""}
 
 191. One Navy chief petty officer, flight engineer with 10,000 hours, had also seen a UFO, and he said that cigar-shaped craft was twice the size of two aircraft carriers.
-→ {"text": "一位累積了10,000飛行小時的海軍士官長、飛航工程師也看到了不明飛行物，他說那個雪茄形飛行器有兩艘航空母艦那麼大。", "confidence": "high", "notes": ""}
+→ {"text": "一位累積了10，000飛行小時的海軍士官長、飛航工程師也看到了不明飛行物，他說那個雪茄形飛行器有兩艘航空母艦那麼大。", "confidence": "high", "notes": ""}
 
 192. And the object moved east at about 100 knots and was a huge aircraft.
 → {"text": "而且該物體以約100節的速度向東移動，是一架巨大的飛行器。", "confidence": "high", "notes": ""}

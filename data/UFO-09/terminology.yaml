@@ -385,7 +385,7 @@ terms:
     senses:
       - id: sighting_ufo_observation
         definition: 目擊或觀察到 UFO 的經歷
-        preferred_translation: 目擊
+        preferred_translation: 目擊事件
         segments: [91, 244, 272, 424, 429, 770, 774]
         notes: 可搭配使用「目擊事件」、「目擊報告」
 

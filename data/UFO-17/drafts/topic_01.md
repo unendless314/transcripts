@@ -205,7 +205,7 @@
 → {"text": "嗯，到了快結束的時候，管制員聯繫了一架聯合航空的飛機，問他們是否可以延遲抵達時間，並讓他查看這架正在向南飛行的747客機。", "confidence": "high", "notes": ""}
 
 69. So they vectored him over to the 747, he's about 2,000 feet beneath him.
-→ {"text": "所以他們引導他飛向那架747，他在747下方約2,000英呎處。", "confidence": "high", "notes": ""}
+→ {"text": "所以他們引導他飛向那架747，他在747下方約2，000英呎處。", "confidence": "high", "notes": ""}
 
 70. And the United says, "It's a beautiful airplane, the moon behind him, it looks good."
 → {"text": "然後聯合航空的飛行員說：「那是一架漂亮的飛機，月亮在它後面，看起來很棒。」", "confidence": "high", "notes": ""}
@@ -319,100 +319,100 @@
 → {"text": "我正要去見雷根總統。", "confidence": "high", "notes": ""}
 
 107. Next morning I came to work and I got a call from some guy who said he was at the CIA.
-→ {"text": 「隔天早上我來上班，接到一個自稱是CIA的人打來的電話。", "confidence": "high", "notes": ""}
+→ {"text": "「隔天早上我來上班，接到一個自稱是CIA的人打來的電話。", "confidence": "high", "notes": ""}
 
 108. He wanted to talk about a UFO.
-→ {"text": 「他想談談不明飛行物的事。", "confidence": "high", "notes": ""}
+→ {"text": "「他想談談不明飛行物的事。", "confidence": "high", "notes": ""}
 
 109. I said, "Are you talking to the wrong guy?
-→ {"text": 「我說：「你打錯電話了吧？」", "confidence": "high", "notes": ""}
+→ {"text": "「我說：「你打錯電話了吧？」", "confidence": "high", "notes": ""}
 
 110. I don't know anything about UFOs."
-→ {"text": 「我對不明飛行物一無所知。」", "confidence": "high", "notes": ""}
+→ {"text": "「我對不明飛行物一無所知。」", "confidence": "high", "notes": ""}
 
 111. He says, "Well, the one that happened over Alaska," I said, "You probably want to talk to the Admiral.
-→ {"text": 「他說：「嗯，就是發生在阿拉斯加上空的那個。」我說：「你可能想跟局長談談。」", "confidence": "high", "notes": ""}
+→ {"text": "「他說：「嗯，就是發生在阿拉斯加上空的那個。」我說：「你可能想跟局長談談。」", "confidence": "high", "notes": ""}
 
 112. I don't know what you're talking about."
-→ {"text": 「我不知道你在說什麼。」", "confidence": "high", "notes": ""}
+→ {"text": "「我不知道你在說什麼。」", "confidence": "high", "notes": ""}
 
 113. A few minutes later, the Admiral calls down and says, "I've stopped a briefing for you tomorrow at 10 o'clock or 9 o'clock," whatever it was, "in the round room."
-→ {"text": 「幾分鐘後，局長打電話下來說：「我幫你安排了明天10點或9點的簡報會，」反正就是某個時間，「在圓形會議室。」", "confidence": "high", "notes": ""}
+→ {"text": "「幾分鐘後，局長打電話下來說：「我幫你安排了明天10點或9點的簡報會，」反正就是某個時間，「在圓形會議室。」", "confidence": "high", "notes": ""}
 
 114. He says, "The president's scientific staff is coming over.
-→ {"text": 「他說：「總統的科學幕僚會過來。」", "confidence": "high", "notes": ""}
+→ {"text": "「他說：「總統的科學幕僚會過來。」", "confidence": "high", "notes": ""}
 
 115. Some CIA guys will be there."
-→ {"text": 「一些CIA的人也會在場。」", "confidence": "high", "notes": ""}
+→ {"text": "「一些CIA的人也會在場。」", "confidence": "high", "notes": ""}
 
 116. I think he said three, matter of fact, and some grunts will be coming along with them.
-→ {"text": 「我想他說了三個人，事實上，還會有一些基層人員跟他們一起來。」", "confidence": "high", "notes": ""}
+→ {"text": "「我想他說了三個人，事實上，還會有一些基層人員跟他們一起來。」", "confidence": "high", "notes": ""}
 
 117. He says, "Your task is to hand this stuff off to them.
-→ {"text": 「他說：「你的任務是把這些資料交給他們。」", "confidence": "high", "notes": ""}
+→ {"text": "「他說：「你的任務是把這些資料交給他們。」", "confidence": "high", "notes": ""}
 
 118. When they leave here, they have to take this with them because the FAA does not control UFOs."
-→ {"text": 「他們離開這裡時，必須把這些資料帶走，因為FAA不管轄不明飛行物。」", "confidence": "high", "notes": ""}
+→ {"text": "「他們離開這裡時，必須把這些資料帶走，因為FAA不管轄不明飛行物。」", "confidence": "high", "notes": ""}
 
 119. Now, I showed him all this stuff.
-→ {"text": 「現在，我把所有這些資料都給他們看了。」", "confidence": "high", "notes": ""}
+→ {"text": "「現在，我把所有這些資料都給他們看了。」", "confidence": "high", "notes": ""}
 
 120. When they got all- They had about 45 seconds.
-→ {"text": 「當他們全部——他們大約還有45秒。」", "confidence": "medium", "notes": "語句不完整，應指時間限制"}
+→ {"text": "「當他們全部——他們大約還有45秒。」", "confidence": "medium", "notes": "語句不完整，應指時間限制"}
 
 121. Okay.
-→ {"text": 「好的。」", "confidence": "high", "notes": ""}
+→ {"text": "「好的。」", "confidence": "high", "notes": ""}
 
 122. Well done, one of the scientists come out and said they had three or four questions they wanted to know the speed of the antenna, the frequency of the antenna, the logarithm for the height-finding equipment, and the people I brought with me just happened to be experts, and they answered all the questions.
-→ {"text": 「做得好，其中一位科學家出來說他們有三、四個問題，他們想知道天線的速度、天線的頻率、測高設備的對數，而我帶來的人正好是專家，他們回答了所有問題。」", "confidence": "high", "notes": ""}
+→ {"text": "「做得好，其中一位科學家出來說他們有三、四個問題，他們想知道天線的速度、天線的頻率、測高設備的對數，而我帶來的人正好是專家，他們回答了所有問題。」", "confidence": "high", "notes": ""}
 
 123. When they get done, the CIA guy standing next to me says to the people, "This event," pointing to the big screen they have in the room, "This event never happened.
-→ {"text": 「當他們結束後，站在我旁邊的CIA人員對大家說：「這個事件，」指著他們房間裡的大螢幕，「這個事件從未發生過。」", "confidence": "high", "notes": ""}
+→ {"text": "「當他們結束後，站在我旁邊的CIA人員對大家說：「這個事件，」指著他們房間裡的大螢幕，「這個事件從未發生過。」", "confidence": "high", "notes": ""}
 
 124. We were never here.
-→ {"text": 「我們從沒來過這裡。」", "confidence": "high", "notes": ""}
+→ {"text": "「我們從沒來過這裡。」", "confidence": "high", "notes": ""}
 
 125. You're confiscating all this data, and you're all sworn to secrecy."
-→ {"text": 「你們要沒收所有這些資料，而且你們都要發誓保密。」", "confidence": "high", "notes": ""}
+→ {"text": "「你們要沒收所有這些資料，而且你們都要發誓保密。」", "confidence": "high", "notes": ""}
 
 126. Scared the pants off of them.
-→ {"text": 「把他們嚇壞了。」", "confidence": "high", "notes": ""}
+→ {"text": "「把他們嚇壞了。」", "confidence": "high", "notes": ""}
 
 127. I had 22 people in the air, and they were leaving the room right away, don't know what's going to happen.
-→ {"text": 「我有22個下屬，他們馬上就要離開房間，不知道會發生什麼事。」", "confidence": "high", "notes": ""}
+→ {"text": "「我有22個下屬，他們馬上就要離開房間，不知道會發生什麼事。」", "confidence": "high", "notes": ""}
 
 128. So I said to this guy, "Well, what do you think it was?"
-→ {"text": 「所以我對那個人說：「嗯，你覺得那是什麼？」」", "confidence": "high", "notes": ""}
+→ {"text": "「所以我對那個人說：「嗯，你覺得那是什麼？」」", "confidence": "high", "notes": ""}
 
 129. I'm thinking at the time it's the Stealth Bomber.
-→ {"text": 「我當時以為那是隱形轟炸機。」", "confidence": "high", "notes": "原文South Bomber已修正為Stealth Bomber"}
+→ {"text": "「我當時以為那是隱形轟炸機。」", "confidence": "high", "notes": "原文South Bomber已修正為Stealth Bomber"}
 
 130. He says, "Oh," he says, "It's a UFO.
-→ {"text": 「他說：「哦，」他說，「那是不明飛行物。」」", "confidence": "high", "notes": ""}
+→ {"text": "「他說：「哦，」他說，「那是不明飛行物。」」", "confidence": "high", "notes": ""}
 
 131. Look at these guys.
-→ {"text": 「看看這些人。」", "confidence": "high", "notes": ""}
+→ {"text": "「看看這些人。」", "confidence": "high", "notes": ""}
 
 132. They're drooling.
-→ {"text": 「他們都流口水了。」", "confidence": "high", "notes": "口語表達，形容極度渴望"}
+→ {"text": "「他們都流口水了。」", "confidence": "high", "notes": "口語表達，形容極度渴望"}
 
 133. They can't wait to get their hands on all this data.
-→ {"text": 「他們迫不及待想拿到所有這些資料。」", "confidence": "high", "notes": ""}
+→ {"text": "「他們迫不及待想拿到所有這些資料。」", "confidence": "high", "notes": ""}
 
 134. We had boxes and boxes in those days of printouts.
-→ {"text": 「那時候我們有一箱又一箱的列印輸出。」", "confidence": "high", "notes": ""}
+→ {"text": "「那時候我們有一箱又一箱的列印輸出。」", "confidence": "high", "notes": ""}
 
 135. Can't wait to get their hands on that stuff."
-→ {"text": 「迫不及待想拿到那些東西。」", "confidence": "high", "notes": ""}
+→ {"text": "「迫不及待想拿到那些東西。」", "confidence": "high", "notes": ""}
 
 136. I says, "Is that right?"
-→ {"text": 「我說：「是這樣嗎？」」", "confidence": "high", "notes": ""}
+→ {"text": "「我說：「是這樣嗎？」」", "confidence": "high", "notes": ""}
 
 137. He says, "Yeah, this is the first time they ever had more than a moment of radar data to look at."
-→ {"text": 「他說：「對啊，這是他們第一次有超過片刻的雷達數據可以研究。」」", "confidence": "high", "notes": ""}
+→ {"text": "「他說：「對啊，這是他們第一次有超過片刻的雷達數據可以研究。」」", "confidence": "high", "notes": ""}
 
 138. Now, the big key was the word he had said, "This is the first time they ever had more than a minute or so of radar data, and now we've got 31 minutes."
-→ {"text": 「現在，關鍵就在他說的這句話：「這是他們第一次有一分鐘左右的雷達數據，而現在我們有31分鐘。」」", "confidence": "high", "notes": ""}
+→ {"text": "「現在，關鍵就在他說的這句話：「這是他們第一次有一分鐘左右的雷達數據，而現在我們有31分鐘。」」", "confidence": "high", "notes": ""}
 
 139. Thank you.
-→ {"text": 「謝謝。」", "confidence": "high", "notes": ""}
+→ {"text": "「謝謝。」", "confidence": "high", "notes": ""}

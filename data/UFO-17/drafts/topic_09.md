@@ -70,7 +70,7 @@
 → {"text": "作為眾議院撥款委員會的成員，也是密西根州第一位在撥款委員會服務 18 年的非裔美國女性，我在國會的 14 年中有 12 年在財政委員會，這個聯邦預算幾乎達到 4 兆美元。", "confidence": "high", "notes": ""}
 
 742. The defense budget is $700 billion of that.
-→ {"text": "其中國防預算佔了 7,000 億美元。", "confidence": "high", "notes": ""}
+→ {"text": "其中國防預算佔了 7，000 億美元。", "confidence": "high", "notes": ""}
 
 743. I served on that appropriations bill for many, many years.
 → {"text": "我在那個撥款法案上服務了很多很多年。", "confidence": "high", "notes": ""}
@@ -322,7 +322,7 @@
 → {"text": "如果雷達沒有偵測到，這是否會降低這個物體可能來自外星的說法的可信度？", "confidence": "high", "notes": ""}
 
 826. Well, obviously, we have stealth technology now, where that came from, I'm not going to speculate on, but I know they just had a site, it's in the news this week, Airbus Aircraft British coming into Glasgow, Scotland, December 2nd, and it just broke in the news yesterday or two days ago, and they were at 4,000 feet, and this disc-shaped thing came under them with, you know, strange lights and all that, and they never got any warning from their TCAS system or wasn't on radar.
-→ {"text": "嗯，顯然，我們現在有隱形技術，它從哪裡來的，我不會推測，但我知道他們剛剛有一個事件，本週新聞報導了，英國空中巴士飛機在 12 月 2 日飛入蘇格蘭格拉斯哥，昨天或前天新聞才報導出來，他們在 4,000 英呎高度，這個碟形東西從他們下方飛過，有奇怪的光等等，他們的空中防撞系統 (TCAS) 完全沒有發出警告，雷達上也沒有顯示。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，顯然，我們現在有隱形技術，它從哪裡來的，我不會推測，但我知道他們剛剛有一個事件，本週新聞報導了，英國空中巴士飛機在 12 月 2 日飛入蘇格蘭格拉斯哥，昨天或前天新聞才報導出來，他們在 4，000 英呎高度，這個碟形東西從他們下方飛過，有奇怪的光等等，他們的空中防撞系統 (TCAS) 完全沒有發出警告，雷達上也沒有顯示。", "confidence": "high", "notes": ""}
 
 827. So this is -- And yes, Major Filer, please.
 → {"text": "所以這是——是的，費勒少校 (Major Filer)，請說。", "confidence": "high", "notes": ""}
@@ -583,7 +583,7 @@
 → {"text": "那個點一直在那裡。", "confidence": "high", "notes": ""}
 
 913. If it's a UFO, and he's traveling at 3,000, 4,000 miles an hour, when you look at your scope, you see him here, okay?
-→ {"text": "如果是不明飛行物，它以每小時 3,000、4,000 英里的速度飛行，當你看你的螢幕時，你看到他在這裡，對吧？", "confidence": "high", "notes": ""}
+→ {"text": "如果是不明飛行物，它以每小時 3，000、4，000 英里的速度飛行，當你看你的螢幕時，你看到他在這裡，對吧？", "confidence": "high", "notes": ""}
 
 914. Ten seconds later, he's over here.
 → {"text": "10 秒鐘後，他在這裡。", "confidence": "high", "notes": ""}

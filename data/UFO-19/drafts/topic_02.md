@@ -145,7 +145,7 @@
 → {"text": "如果這些文件是真實的，它們一致地講述了接觸外星技術的故事、試圖理解它的努力，以及許多成功理解其原理並製造出設備的具體事例，這些設備已成為我們今天所享有的技術突破。", "confidence": "high", "notes": ""}
 
 66. There is a case to be made that the three crash recoveries of Missouri in April 1941 and LA in February 1942, 1,430 rounds of ammunition during the famous LA air raid, resulted in a specific contract to study how germanium and silicon might be used in the preparation of semiconductors.
-→ {"text": "有一種說法認為，1941年4月密蘇里州的三次墜毀回收事件，以及1942年2月洛杉磯著名的洛杉磯空襲中發射的1,430發砲彈，促成了一份特定合約，研究如何使用鍺和矽來製造半導體。", "confidence": "medium", "notes": "歷史事件涉及多個時間和地點，翻譯需準確"}
+→ {"text": "有一種說法認為，1941年4月密蘇里州的三次墜毀回收事件，以及1942年2月洛杉磯著名的洛杉磯空襲中發射的1，430發砲彈，促成了一份特定合約，研究如何使用鍺和矽來製造半導體。", "confidence": "medium", "notes": "歷史事件涉及多個時間和地點，翻譯需準確"}
 
 67. Those individuals receiving reports and samples included Edward Condon at Westinghouse, Bell Laboratories, Hans Bethe of MIT Radiation Laboratory, and Shockley of Bell Telephone Laboratories in 1945, who was given credit for inventing the transistor in 1947.
 → {"text": "收到報告和樣本的包括西屋公司（Westinghouse）的愛德華·康登（Edward Condon）、貝爾實驗室（Bell Laboratories）的科學家、麻省理工學院輻射實驗室（MIT Radiation Laboratory）的漢斯·貝特（Hans Bethe），以及1945年貝爾電話實驗室（Bell Telephone Laboratories）的肖克利（Shockley），他在1947年被認為是電晶體的發明者。", "confidence": "high", "notes": "人名和機構名稱保留原文並加註"}

@@ -169,7 +169,7 @@
 → {"text": "我昨天聽到這些資訊來準備這場演講。", "confidence": "high", "notes": ""}
 
 57. The power of the last detonation, which was by Russians, it is 3,333 times the power of Hiroshima bomb.
-→ {"text": "俄羅斯人上一次核爆的威力，是廣島原子彈的 3,333 倍。", "confidence": "high", "notes": ""}
+→ {"text": "俄羅斯人上一次核爆的威力，是廣島原子彈的 3，333 倍。", "confidence": "high", "notes": ""}
 
 58. So do you know the name the Russians put in that artifact?
 → {"text": "那您知道俄羅斯人給那個武器取了什麼名字嗎？", "confidence": "high", "notes": ""}

@@ -37,7 +37,7 @@
 → {"text": "換句話說，他們要他接近這個東西，而且要他盡快趕到。", "confidence": "high", "notes": ""}
 
 135. Dad was told to vector over to the North Sea. The object had been sighted hovering over East Ipswich. Dad told me he had a confirmation of the target acquisition from the ground radar. His jet flying with full afterburners was now headed towards the North Sea, and Dad was flying at 32,000 feet, and full afterburner and heavy cloud cover with zero visibility.
-→ {"text": "父親被告知要轉向北海。該物體被目擊盤旋在伊普斯威奇東部上空。父親告訴我，他從地面雷達獲得了目標鎖定的確認。他的噴射機在全後燃器推進下朝北海飛去，父親在32,000英尺高度飛行，全後燃器開啟，雲層厚重，能見度為零。", "confidence": "high", "notes": ""}
+→ {"text": "父親被告知要轉向北海。該物體被目擊盤旋在伊普斯威奇東部上空。父親告訴我，他從地面雷達獲得了目標鎖定的確認。他的噴射機在全後燃器推進下朝北海飛去，父親在32，000英尺高度飛行，全後燃器開啟，雲層厚重，能見度為零。", "confidence": "high", "notes": ""}
 
 136. However, his radar was painting a target as big as an aircraft carrier at that altitude.
 → {"text": "然而，他的雷達顯示在該高度有一個目標，大小如同航空母艦。", "confidence": "high", "notes": ""}
