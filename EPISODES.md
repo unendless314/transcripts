@@ -7,7 +7,7 @@
 | 1 | UFO-01 | UFOs - History & Background Part 1 | `input/UFO-01/UFOs - History & Background Part 1.wav.srt` |
 | 2 | UFO-02 | UFOs - History & Background Part 2 | `input/UFO-02/UFOs - History & Background Part 2.wav.srt` |
 | 3 | UFO-03 | UFOs - Truth, Lies & The Coverup Part 1 | `input/UFO-03/UFOs - Truth, Lies & The Coverup Part 1.wav.srt` |
-| 4 | UFO-04 | UFOs - Truth, Lies & The Coverup / Part 2 | `input/UFO-04/UFOs - Truth, Lies & The Coverup : Part 2.wav.srt` |
+| 4 | UFO-04 | UFOs - Truth, Lies & The Coverup / Part 2 | `input/UFO-04/UFOs - Truth, Lies & The Coverup _ Part 2.wav.srt` |
 | 5 | UFO-05 | UFOs - Rendlesham Forest Encounter Part 1 | `input/UFO-05/UFOs - Rendlesham Forest Encounter Part 1.wav.srt` |
 | 6 | UFO-06 | UFOs - Rendlesham Forest Encounter Part 2 | `input/UFO-06/UFOs - Rendlesham Forest Encounter Part 2.wav.srt` |
 | 7 | UFO-07 | UFOs - Nuclear Tampering Part 1 | `input/UFO-07/UFOs - Nuclear Tampering Part 1.wav.srt` |
