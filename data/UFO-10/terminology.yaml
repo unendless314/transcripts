@@ -112,7 +112,7 @@ terms:
     senses:
       - id: bush_scientist
         definition: 科學家，羅斯福總統科學顧問，據稱領導 MJ-12 計畫
-        preferred_translation: 萬尼瓦爾·布什博士
+        preferred_translation: 萬尼瓦爾·布希博士
         segments: [69, 218]
         notes: 加拿大 Top Secret Memo 指出他領導美國 UFO 計畫的小組
 
@@ -137,7 +137,7 @@ terms:
     senses:
       - id: ebes_acronym
         definition: Extraterrestrial Biological Entities 的全大寫縮寫
-        preferred_translation: E-B-E-S
+        preferred_translation: 外星生物實體（E-B-E-S）
         segments: [82]
         notes: SOM 1-01 手冊中使用的正式縮寫格式
 
@@ -255,7 +255,7 @@ terms:
     senses:
       - id: majestic_12_full_name
         definition: MJ-12 的全名，負責 UFO 調查與回收的秘密組織
-        preferred_translation: Majestic 12
+        preferred_translation: Majestic 12（MJ-12）
         segments: [247, 264]
         notes: 也稱為 MJ-12 或 Magic 12，1947 年成立
 
@@ -263,7 +263,7 @@ terms:
     senses:
       - id: majestic_12_group
         definition: Majestic 12 組織的正式名稱
-        preferred_translation: Majestic 12 小組
+        preferred_translation: Majestic 12 小組（MJ-12）
         segments: [66, 99, 112, 114]
         notes: SOM 1-01 手冊及相關文件中的正式組織名稱
 
@@ -274,14 +274,6 @@ terms:
         preferred_translation: 麥克唐納-道格拉斯公司
         segments: [11, 15]
         notes: 後併入波音公司
-
-  - term: majestic 12
-    senses:
-      - id: majestic_12_lowercase
-        definition: Majestic 12 的小寫形式，非正式提及
-        preferred_translation: Majestic 12
-        segments: [247, 264]
-        notes: 口語或非正式討論中使用的小寫形式
 
   - term: MJ-12
     senses:
@@ -328,7 +320,7 @@ terms:
     senses:
       - id: need_to_know_principle
         definition: 知密權原則，即使有安全許可也必須有工作需要才能接觸機密
-        preferred_translation: 知密權
+        preferred_translation: 需知原則
         segments: [118, 119, 147]
         notes: 安全管理的核心原則，Stanton Friedman 強調此原則常被誤解
 
@@ -412,7 +404,7 @@ terms:
     senses:
       - id: friedman_nickname
         definition: Stanton Friedman 的暱稱
-        preferred_translation: 史丹頓·佛烈德曼
+        preferred_translation: 史丹·弗里德曼
         segments: [16, 39]
         notes: Dr. Bob Wood 證詞中使用的暱稱形式
 
@@ -420,7 +412,7 @@ terms:
     senses:
       - id: friedman_physicist
         definition: 核物理學家，MJ-12 文件研究專家
-        preferred_translation: 史丹頓·佛烈德曼
+        preferred_translation: 史丹頓·弗里德曼
         segments: [197, 321]
         notes: 加拿大-美國雙重國籍，UFO 研究領域的重要人物。Whisper 在 segment 206 錯誤轉錄為 "Stanton Freeman"
 

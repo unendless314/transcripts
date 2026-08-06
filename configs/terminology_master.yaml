@@ -1,0 +1,3032 @@
+# Terminology Master - UFO Citizen Hearing 全系列標準譯名表
+#
+# 收錄標準：出現於 >= 2 集的跨集術語（共 166 個）。
+# 單集專屬術語（僅出現 1 集，共 820 個）請見各集 data/UFO-XX/terminology.yaml。
+#
+# 此表是全系列「標準譯名」的唯一權威來源：
+#   ✅ 校稿時字幕正文若與此表不符，以此表為準修正
+#   ✅ 各集 terminology.yaml 的新增/修改應與此表對齊
+#   ❌ 不要在此表加入 segments 欄位（段落對照請見各集檔案）
+#
+# 資料模型：以 term + sense 聚合，同一術語的不同語義保留為不同 sense；
+# 同一 sense 的合理語境差異記錄於該 sense 的 variants 欄位。
+# 人工判斷（廢棄譯名、語境說明、待查證項目）集中於 configs/terminology_master_rules.yaml。
+#
+# 全系列格式規範（2026-08 校稿確立）：
+#   - 台灣用語：飛彈（非導彈）、網路（非網絡）、國家安全會議（非委員會）、布希（非布什）
+#   - 作品名稱加書名號：《世界大戰》、《遠古外星人》（僅限指節目本身時）
+#   - 數字與型號前後加空格：阿波羅 14 號、F-4 幽靈戰鬥機、行政命令 12958（年份除外：1947年）
+#   - 括號用全形：（）而非 ()
+#   - 縮寫標註格式：中文（縮寫），如 資訊自由法（FOIA）、國家安全局（NSA）；CIA 除外，直接用 CIA
+#
+# 產生方式：PYTHONPATH=. python3 tools/build_terminology_master.py --force
+# 最後更新：2026-08-06（依 20 集 terminology.yaml 校稿後版本自動產生）
+terms:
+- term: A Strange Harvest
+  senses:
+  - id: strange_harvest_documentary
+    definition: Linda Moulton Howe 於 1980 年製作的調查紀錄片，探討神秘的動物肢解案件
+    preferred_translation: 《詭異收穫》
+    episodes:
+    - UFO-01
+    - UFO-09
+  episodes:
+  - UFO-01
+  - UFO-09
+- term: Alfred O'Donnell
+  senses:
+  - id: odonnell_witness
+    definition: Area 51 的高階管理人員，掌握墜毀飛碟相關資訊的關鍵證人
+    preferred_translation: 阿爾弗雷德·歐唐納
+    episodes:
+    - UFO-01
+    - UFO-04
+  episodes:
+  - UFO-01
+  - UFO-04
+- term: Ancient Aliens
+  senses:
+  - id: ancient_aliens_show
+    definition: 《遠古外星人》電視節目（History Channel）
+    preferred_translation: 《遠古外星人》
+    episodes:
+    - UFO-14
+    - UFO-17
+  - id: ancient_aliens_theory
+    definition: 遠古文明與外星種族互動的理論或概念
+    preferred_translation: 遠古外星人
+    episodes:
+    - UFO-15
+  episodes:
+  - UFO-14
+  - UFO-15
+  - UFO-17
+  notes: 指 History Channel 節目時譯《遠古外星人》（ancient_aliens_show，UFO-14、17）；UFO-15 segment 119 為普通名詞「遠古外星人」（ancient_aliens_theory），不加書名號
+- term: Apollo 14
+  senses:
+  - id: apollo_14_mission
+    definition: 美國第三次成功登月的太空任務（1971年）
+    preferred_translation: 阿波羅 14 號
+    episodes:
+    - UFO-01
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-19
+- term: Area 51
+  senses:
+  - id: area_51_base
+    definition: 內華達州的高度機密美國空軍設施
+    preferred_translation: 51 區
+    episodes:
+    - UFO-01
+    - UFO-04
+    - UFO-10
+    - UFO-11
+    - UFO-16
+    - UFO-17
+    - UFO-18
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-04
+  - UFO-10
+  - UFO-11
+  - UFO-16
+  - UFO-17
+  - UFO-18
+  - UFO-19
+- term: Being
+  senses:
+  - id: being_extraterrestrial
+    definition: 外星生命體或智慧存在
+    preferred_translation: 存有
+    episodes:
+    - UFO-01
+    - UFO-03
+    - UFO-04
+    - UFO-10
+    - UFO-13
+  episodes:
+  - UFO-01
+  - UFO-03
+  - UFO-04
+  - UFO-10
+  - UFO-13
+- term: Ben Rich
+  senses:
+  - id: rich_engineer
+    definition: 洛克希德臭鼬工廠主管
+    preferred_translation: 班·里奇
+    episodes:
+    - UFO-03
+    - UFO-04
+    - UFO-16
+    - UFO-17
+  episodes:
+  - UFO-03
+  - UFO-04
+  - UFO-16
+  - UFO-17
+- term: Bill Brazel
+  senses:
+  - id: bill_brazel_son
+    definition: Mack Brazel 的兒子
+    preferred_translation: 比爾·布拉澤爾
+    episodes:
+    - UFO-12
+  - id: brazel_son_witness
+    definition: 牧場主人 Mack Brazel 的兒子,親眼見過殘骸碎片的證人
+    preferred_translation: 比爾·布拉澤爾
+    episodes:
+    - UFO-11
+  episodes:
+  - UFO-11
+  - UFO-12
+- term: Bill Richardson
+  senses:
+  - id: richardson_governor
+    definition: 新墨西哥州前州長
+    preferred_translation: 比爾·理查森
+    episodes:
+    - UFO-11
+  - id: richardson_secretary
+    definition: 柯林頓政府能源部長，前新墨西哥州州長
+    preferred_translation: 比爾·理查森
+    episodes:
+    - UFO-04
+  episodes:
+  - UFO-04
+  - UFO-11
+- term: black budget
+  senses:
+  - id: black_budget
+    definition: 黑預算，不受國會監督的機密計畫資金
+    preferred_translation: 黑預算
+    episodes:
+    - UFO-07
+  - id: black_budget_funding
+    definition: 不受國會監督的機密預算
+    preferred_translation: 黑預算
+    episodes:
+    - UFO-18
+    - UFO-20
+  episodes:
+  - UFO-07
+  - UFO-18
+  - UFO-20
+- term: Blue Book
+  senses:
+  - id: blue_book_project
+    definition: 美國空軍 1952-1969 年的 UFO 調查計畫（簡稱）
+    preferred_translation: 藍皮書計畫
+    episodes:
+    - UFO-04
+    - UFO-16
+  episodes:
+  - UFO-04
+  - UFO-16
+- term: Brazilian Air Force
+  senses:
+  - id: brazilian_air_force_org
+    definition: 巴西空軍
+    preferred_translation: 巴西空軍
+    episodes:
+    - UFO-14
+  - id: organization
+    definition: 巴西空軍
+    preferred_translation: 巴西空軍
+    episodes:
+    - UFO-13
+  episodes:
+  - UFO-13
+  - UFO-14
+- term: Breakaway civilization
+  senses:
+  - id: breakaway_civilization_concept
+    definition: 脫離主流社會、掌握先進科技的秘密人類文明
+    preferred_translation: 脫離文明
+    episodes:
+    - UFO-19
+  - id: breakaway_civilization_secret
+    definition: 脫離主流社會、掌握逆向工程外星科技的秘密人類文明
+    preferred_translation: 脫離文明
+    episodes:
+    - UFO-18
+  episodes:
+  - UFO-18
+  - UFO-19
+- term: CEFA
+  senses:
+  - id: cefa_chile
+    definition: Comité de Estudios de Fenómenos Aéreos，智利空中現象研究委員會
+    preferred_translation: 異常空中現象研究委員會（CEFA）
+    episodes:
+    - UFO-16
+  - id: organization
+    definition: Committee for the Study of Anomalous Aerial Phenomena，智利民航局下屬 UFO 研究機構
+    preferred_translation: 異常空中現象研究委員會（CEFA）
+    episodes:
+    - UFO-13
+  episodes:
+  - UFO-13
+  - UFO-16
+  notes: 廢棄譯名（校稿時發現請改正）：智利空中現象研究委員會（CEFA）
+- term: CEFORA
+  senses:
+  - id: cefora_argentina
+    definition: Comisión de Estudio del Fenómeno OVNI de la República Argentina，阿根廷民間 UFO 研究傘狀組織
+    preferred_translation: CEFORA（阿根廷UFO研究委員會）
+    episodes:
+    - UFO-13
+    - UFO-14
+  episodes:
+  - UFO-13
+  - UFO-14
+  notes: 廢棄譯名（校稿時發現請改正）：CEFORA
+- term: China UFO Research Institute
+  senses:
+  - id: china_ufo_institute
+    definition: 中國UFO研究機構
+    preferred_translation: 中國UFO研究會
+    episodes:
+    - UFO-15
+    - UFO-16
+  episodes:
+  - UFO-15
+  - UFO-16
+- term: CIA
+  senses:
+  - id: cia_agency
+    definition: Central Intelligence Agency，美國中央情報局
+    preferred_translation: CIA
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-05
+    - UFO-07
+    - UFO-09
+    - UFO-10
+    - UFO-14
+    - UFO-16
+    - UFO-17
+    - UFO-18
+    - UFO-19
+    - UFO-20
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-07
+  - UFO-09
+  - UFO-10
+  - UFO-14
+  - UFO-16
+  - UFO-17
+  - UFO-18
+  - UFO-19
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：CIA（中央情報局）
+- term: CIC
+  senses:
+  - id: cic_corps
+    definition: Counter Intelligence Corps，陸軍反情報部隊
+    preferred_translation: 反情報部隊（CIC）
+    episodes:
+    - UFO-12
+  - id: cic_counterintelligence
+    definition: Counter Intelligence Corps,美國陸軍反情報部隊
+    preferred_translation: 反情報部隊（CIC）
+    episodes:
+    - UFO-11
+  episodes:
+  - UFO-11
+  - UFO-12
+  notes: 廢棄譯名（校稿時發現請改正）：反情報部隊
+- term: Classified
+  senses:
+  - id: classified_information
+    definition: 政府或軍方列為機密的資訊或文件
+    preferred_translation: 機密
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-05
+    - UFO-06
+    - UFO-07
+    - UFO-10
+    - UFO-11
+    - UFO-12
+    - UFO-13
+    - UFO-15
+    - UFO-16
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-10
+  - UFO-11
+  - UFO-12
+  - UFO-13
+  - UFO-15
+  - UFO-16
+  - UFO-19
+- term: Clinton Library
+  senses:
+  - id: clinton_library
+    definition: 柯林頓總統圖書館
+    preferred_translation: 柯林頓總統圖書館
+    episodes:
+    - UFO-03
+  - id: clinton_library_arkansas
+    definition: 位於阿肯色州的柯林頓總統圖書館
+    preferred_translation: 柯林頓總統圖書館
+    episodes:
+    - UFO-10
+  episodes:
+  - UFO-03
+  - UFO-10
+- term: Close Encounter
+  senses:
+  - id: close_encounter_ufo
+    definition: 近距離目擊或接觸 UFO/外星生物的經歷
+    preferred_translation: 近距離接觸
+    episodes:
+    - UFO-14
+    - UFO-15
+    - UFO-16
+  episodes:
+  - UFO-14
+  - UFO-15
+  - UFO-16
+- term: Coast to Coast AM
+  senses:
+  - id: coast_to_coast_am_full
+    definition: 美國深夜電台談話節目完整名稱，專注於超自然與陰謀論主題
+    preferred_translation: Coast to Coast AM
+    episodes:
+    - UFO-01
+  - id: coast_to_coast_am_radio
+    definition: 美國深夜電台談話節目，專注於超自然與陰謀論主題
+    preferred_translation: Coast to Coast AM
+    episodes:
+    - UFO-09
+  episodes:
+  - UFO-01
+  - UFO-09
+  notes: 廢棄譯名（校稿時發現請改正）：Coast to Coast AM 節目
+- term: Colonel Halt
+  senses:
+  - id: halt_deputy_commander
+    definition: 哈爾特上校，RAF Bentwaters副基地指揮官
+    preferred_translation: 哈爾特上校
+    episodes:
+    - UFO-06
+  - id: halt_officer
+    definition: 查爾斯·霍爾特上校，蘭德沙姆森林事件的副基地指揮官
+    preferred_translation: 哈爾特上校
+    episodes:
+    - UFO-09
+  episodes:
+  - UFO-06
+  - UFO-09
+  notes: 廢棄譯名（校稿時發現請改正）：霍爾特上校
+- term: COMETA Report
+  senses:
+  - id: cometa_report_french
+    definition: 法國高層軍事和情報官員撰寫的UFO研究報告（1999年）
+    preferred_translation: COMETA報告
+    episodes:
+    - UFO-01
+    - UFO-03
+    - UFO-04
+    - UFO-15
+  episodes:
+  - UFO-01
+  - UFO-03
+  - UFO-04
+  - UFO-15
+- term: Condon Committee
+  senses:
+  - id: condon_committee
+    definition: 1966-1968年科羅拉多大學受政府資助進行的UFO調查委員會
+    preferred_translation: 康登委員會
+    episodes:
+    - UFO-07
+  - id: condon_committee_colorado
+    definition: 科羅拉多大學 UFO 研究委員會
+    preferred_translation: 康登委員會
+    episodes:
+    - UFO-11
+  - id: condon_committee_project
+    definition: 1966-1968年由空軍資助的 UFO 研究項目
+    preferred_translation: 康登委員會
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-07
+  - UFO-11
+  - UFO-19
+  notes: 亦寫作：Condon committee
+  also_written_as:
+  - Condon committee
+- term: Condon Report
+  senses:
+  - id: condon_report
+    definition: 1968年科羅拉多大學UFO研究報告
+    preferred_translation: 康登報告
+    episodes:
+    - UFO-16
+  - id: condon_report_colorado
+    definition: 1960 年代科羅拉多大學政府資助的 UFO 研究報告
+    preferred_translation: 康登報告
+    episodes:
+    - UFO-01
+  episodes:
+  - UFO-01
+  - UFO-16
+- term: Congressional Research Service
+  senses:
+  - id: crs_library_congress
+    definition: 美國國會圖書館轄下的國會研究服務部門
+    preferred_translation: 國會研究服務處
+    episodes:
+    - UFO-02
+  - id: crs_service
+    definition: 國會研究服務處，美國國會的無黨派公共政策研究機構
+    preferred_translation: 國會研究服務處
+    episodes:
+    - UFO-05
+  episodes:
+  - UFO-02
+  - UFO-05
+  notes: 廢棄譯名（校稿時發現請改正）：國會研究處
+- term: Congressman Stephen Schiff
+  senses:
+  - id: schiff_congressman
+    definition: 新墨西哥州已故眾議員,推動 Roswell 國會聽證會
+    preferred_translation: 史蒂芬·希夫眾議員
+    episodes:
+    - UFO-11
+  - id: schiff_congressman_full
+    definition: 前美國眾議員，要求 GAO 調查羅斯威爾事件（全名）
+    preferred_translation: 史蒂芬·希夫眾議員
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-11
+  - UFO-12
+  notes: 廢棄譯名（校稿時發現請改正）：史蒂文·希夫眾議員
+- term: Congresswoman Hooley
+  senses:
+  - id: hooley_congresswoman
+    definition: 胡利女眾議員，聽證會評審小組成員
+    preferred_translation: 胡利眾議員
+    episodes:
+    - UFO-08
+    - UFO-20
+  - id: hooley_congresswoman_panelist
+    definition: 眾議員胡利，聽證會評審小組成員
+    preferred_translation: 胡利眾議員
+    episodes:
+    - UFO-04
+  episodes:
+  - UFO-04
+  - UFO-08
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：胡利女眾議員
+- term: Congresswoman Kilpatrick
+  senses:
+  - id: congresswoman_kilpatrick_official
+    definition: 國會女議員，聽證會委員會成員
+    preferred_translation: 基爾派翠克眾議員
+    episodes:
+    - UFO-19
+  - id: kilpatrick_congresswoman_panelist
+    definition: 眾議員基爾派翠克，聽證會評審小組成員
+    preferred_translation: 基爾派翠克眾議員
+    episodes:
+    - UFO-04
+  episodes:
+  - UFO-04
+  - UFO-19
+- term: Cover-up
+  senses:
+  - id: coverup_government
+    definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+    preferred_translation: 真相掩蓋
+    episodes:
+    - UFO-01
+    - UFO-03
+    - UFO-04
+    - UFO-06
+    - UFO-07
+    - UFO-09
+    - UFO-10
+    - UFO-11
+    - UFO-15
+    - UFO-16
+    - UFO-19
+  - id: coverup_government_ufo
+    definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+    preferred_translation: 真相掩蓋
+    episodes:
+    - UFO-08
+  - id: coverup_ufo
+    definition: 政府或軍方對 UFO 真相的隱瞞與掩蓋
+    preferred_translation: 真相掩蓋
+    episodes:
+    - UFO-05
+  episodes:
+  - UFO-01
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-08
+  - UFO-09
+  - UFO-10
+  - UFO-11
+  - UFO-15
+  - UFO-16
+  - UFO-19
+- term: Dan Sheehan
+  senses:
+  - id: sheehan_attorney_ufo
+    definition: 律師，耶穌會總部法律總顧問，參與卡特總統UFO調查
+    preferred_translation: 丹·希恩
+    episodes:
+    - UFO-02
+  - id: sheehan_counsel
+    definition: 聽證會法律顧問
+    preferred_translation: 丹·希恩
+    episodes:
+    - UFO-05
+  episodes:
+  - UFO-02
+  - UFO-05
+- term: Daniel Sheehan
+  senses:
+  - id: sheehan_attorney
+    definition: 律師,曾處理五角大樓文件案、凱倫·西爾克伍德案、伊朗門事件等重大案件
+    preferred_translation: 丹尼爾·希恩
+    episodes:
+    - UFO-03
+    - UFO-04
+  - id: sheehan_attorney_witness
+    definition: 律師，本聽證會總法律顧問，本集證人
+    preferred_translation: 丹尼爾·希恩
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-03
+  - UFO-04
+  - UFO-20
+- term: Defense Intelligence Agency
+  senses:
+  - id: defense_intelligence_agency_org
+    definition: 美國國防情報局
+    preferred_translation: 國防情報局
+    episodes:
+    - UFO-19
+  - id: dia_agency
+    definition: 國防情報局
+    preferred_translation: 國防情報局
+    episodes:
+    - UFO-03
+    - UFO-16
+  episodes:
+  - UFO-03
+  - UFO-16
+  - UFO-19
+- term: Directed Energy
+  senses:
+  - id: directed_energy_tech
+    definition: 定向能武器，利用集中能量束作為武器的技術
+    preferred_translation: 定向能武器
+    episodes:
+    - UFO-16
+  - id: directed_energy_weapon
+    definition: 定向能武器，利用集中能量束作為武器的技術
+    preferred_translation: 定向能武器
+    episodes:
+    - UFO-15
+  episodes:
+  - UFO-15
+  - UFO-16
+  notes: 亦寫作：directed energy；廢棄譯名（校稿時發現請改正）：定向能源武器
+  also_written_as:
+  - directed energy
+- term: Disclosure
+  senses:
+  - id: disclosure_nda
+    definition: 保密協議或揭露資訊
+    preferred_translation: 保密協議
+    episodes:
+    - UFO-11
+    - UFO-12
+    variants:
+    - translation: 保密協議/揭露
+      episodes:
+      - UFO-11
+  - id: disclosure_truth
+    definition: 公開揭露 UFO 與外星接觸的真相
+    preferred_translation: 真相揭露
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-06
+    - UFO-07
+    - UFO-09
+    - UFO-12
+    - UFO-13
+    - UFO-14
+    - UFO-16
+    - UFO-17
+    - UFO-19
+    - UFO-20
+  - id: disclosure_truth_ufo
+    definition: 公開揭露 UFO 與外星接觸的真相
+    preferred_translation: 真相揭露
+    episodes:
+    - UFO-08
+  - id: disclosure_ufo
+    definition: 公開揭露 UFO 與外星接觸的真相
+    preferred_translation: 真相揭露
+    episodes:
+    - UFO-05
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-08
+  - UFO-09
+  - UFO-11
+  - UFO-12
+  - UFO-13
+  - UFO-14
+  - UFO-16
+  - UFO-17
+  - UFO-19
+  - UFO-20
+  notes: UFO 揭露運動語境統一為「真相揭露」（disclosure_truth）；UFO-11 segment 190 與 UFO-12 segment 81 指 non-disclosure agreements，譯「保密協議」（disclosure_nda），兩者為不同語義
+- term: Disclosure Project
+  senses:
+  - id: disclosure_project_greer
+    definition: 由Dr. Steven Greer發起的UFO揭露運動
+    preferred_translation: 揭露計畫
+    episodes:
+    - UFO-03
+    - UFO-04
+    - UFO-14
+    - UFO-19
+  episodes:
+  - UFO-03
+  - UFO-04
+  - UFO-14
+  - UFO-19
+- term: Dr. Bookman
+  senses:
+  - id: bookman_physician_panel
+    definition: 醫師，本聽證會小組成員
+    preferred_translation: 布克曼博士
+    episodes:
+    - UFO-20
+  - id: dr_bookman_moderator
+    definition: 聽證會主持人
+    preferred_translation: 布克曼博士
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-19
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：布克曼醫師
+- term: Dr. Eric Walker
+  senses:
+  - id: walker_engineer
+    definition: 賓州州立大學前校長，國防分析研究所所長
+    preferred_translation: 艾瑞克·沃克博士
+    episodes:
+    - UFO-15
+  - id: walker_scientist
+    definition: 賓州州立大學前校長
+    preferred_translation: 艾瑞克·沃克博士
+    episodes:
+    - UFO-16
+  episodes:
+  - UFO-15
+  - UFO-16
+  notes: 廢棄譯名（校稿時發現請改正）：埃里克·沃克博士
+- term: Dr. J. Allen Hynek
+  senses:
+  - id: hynek_astronomer
+    definition: 天文學家，藍皮書計畫科學顧問
+    preferred_translation: J·艾倫·海尼克博士
+    episodes:
+    - UFO-07
+    - UFO-11
+  episodes:
+  - UFO-07
+  - UFO-11
+- term: Dr. John Mack
+  senses:
+  - id: dr_mack_researcher
+    definition: 哈佛大學精神病學教授，外星綁架研究者
+    preferred_translation: 約翰·麥克博士
+    episodes:
+    - UFO-14
+  - id: mack_psychiatrist
+    definition: 哈佛醫學院臨床精神病學系主任
+    preferred_translation: 約翰·麥克博士
+    episodes:
+    - UFO-02
+    - UFO-20
+  episodes:
+  - UFO-02
+  - UFO-14
+  - UFO-20
+- term: Dr. Roger Leir
+  senses:
+  - id: dr_leir_researcher
+    definition: 以外星植入物研究聞名的UFO研究者
+    preferred_translation: 羅傑·萊爾博士
+    episodes:
+    - UFO-14
+  - id: dr_roger_leir_witness
+    definition: 足病醫學博士，以外星植入物手術聞名
+    preferred_translation: 羅傑·萊爾博士
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-14
+  - UFO-19
+- term: Dr. Vannevar Bush
+  senses:
+  - id: bush_scientist
+    definition: 科學家，羅斯福總統科學顧問，據稱領導 MJ-12 計畫
+    preferred_translation: 萬尼瓦爾·布希博士
+    episodes:
+    - UFO-10
+  - id: dr_vannevar_bush_scientist
+    definition: 美國科學家，二戰期間科學研究與發展局局長
+    preferred_translation: 萬尼瓦爾·布希博士
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-10
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：萬尼瓦爾·布什博士
+- term: E-B-E-S
+  senses:
+  - id: ebes_acronym
+    definition: Extraterrestrial Biological Entities 的縮寫，外星生物實體
+    preferred_translation: 外星生物實體（E-B-E-S）
+    episodes:
+    - UFO-09
+    - UFO-10
+  episodes:
+  - UFO-09
+  - UFO-10
+  notes: 廢棄譯名（校稿時發現請改正）：E-B-E-S
+- term: earthfiles.com
+  senses:
+  - id: earthfiles_website
+    definition: Linda Moulton Howe 經營的科學與環境網站
+    preferred_translation: earthfiles.com
+    episodes:
+    - UFO-01
+    - UFO-09
+  episodes:
+  - UFO-01
+  - UFO-09
+- term: EBE
+  senses:
+  - id: ebe_entity
+    definition: Extraterrestrial Biological Entity，外星生物實體
+    preferred_translation: 外星生物實體（EBE）
+    episodes:
+    - UFO-01
+    - UFO-10
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-10
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：外星生物實體
+- term: Electrogravitics
+  senses:
+  - id: electrogravitics_field
+    definition: 研究電場與重力場交互作用的技術
+    preferred_translation: 電重力學
+    episodes:
+    - UFO-19
+  - id: electrogravitics_propulsion
+    definition: 電重力學，利用電磁場影響重力的推進理論
+    preferred_translation: 電重力學
+    episodes:
+    - UFO-18
+  episodes:
+  - UFO-18
+  - UFO-19
+  notes: 亦寫作：electrogravitics
+  also_written_as:
+  - electrogravitics
+- term: Entity
+  senses:
+  - id: entity_conceptual
+    definition: 實體、存在體（哲學或概念性用法）
+    preferred_translation: 實體
+    episodes:
+    - UFO-02
+  - id: entity_extraterrestrial
+    definition: 不明屬性的存在或生命體（通常指外星或跨維度存在）
+    preferred_translation: 實體
+    episodes:
+    - UFO-04
+  - id: entity_organization
+    definition: 組織、機構或實體（非外星實體）
+    preferred_translation: 實體/機構
+    episodes:
+    - UFO-10
+  - id: entity_unknown
+    definition: 不明屬性的存在或生命體（通常指外星或跨維度存在）
+    preferred_translation: 實體
+    episodes:
+    - UFO-01
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-04
+  - UFO-10
+  notes: 統一為「實體」；UFO-10 有機構義用法，保留「實體/機構」
+- term: Executive Order 12958
+  senses:
+  - id: eo_12958_clinton
+    definition: 柯林頓總統1995年簽署的解密行政命令
+    preferred_translation: 行政命令 12958
+    episodes:
+    - UFO-04
+  - id: executive_order_12958_decree
+    definition: 柯林頓總統1995年簽署的解密行政命令
+    preferred_translation: 行政命令 12958
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-04
+  - UFO-19
+- term: Extraterrestrial
+  senses:
+  - id: extraterrestrial_alien
+    definition: 來自地球以外的生命或文明
+    preferred_translation: 外星的
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-06
+    - UFO-07
+    - UFO-08
+    - UFO-09
+    - UFO-10
+    - UFO-11
+    - UFO-12
+    - UFO-13
+    - UFO-14
+    - UFO-15
+    - UFO-16
+    - UFO-17
+    - UFO-19
+    variants:
+    - translation: 外星生命
+      episodes:
+      - UFO-13
+  - id: extraterrestrial_origin
+    definition: 來自地球以外的生命或文明
+    preferred_translation: 外星的
+    episodes:
+    - UFO-05
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-08
+  - UFO-09
+  - UFO-10
+  - UFO-11
+  - UFO-12
+  - UFO-13
+  - UFO-14
+  - UFO-15
+  - UFO-16
+  - UFO-17
+  - UFO-19
+  notes: 形容詞用法統一為「外星的」；UFO-13 名詞用法保留「外星生命」，屬合理語境差異
+- term: Extraterrestrial biological entities
+  senses:
+  - id: ebe_full_name
+    definition: 外星生物實體（全名），美國政府文件中對外星生命的官方用語
+    preferred_translation: 外星生物實體
+    episodes:
+    - UFO-01
+    - UFO-09
+    - UFO-10
+  episodes:
+  - UFO-01
+  - UFO-09
+  - UFO-10
+  notes: 亦寫作：extraterrestrial biological entities
+  also_written_as:
+  - extraterrestrial biological entities
+- term: F-4 Phantom jet
+  senses:
+  - id: f4_phantom
+    definition: F-4幽靈戰鬥機
+    preferred_translation: F-4 幽靈戰鬥機
+    episodes:
+    - UFO-16
+  - id: f4_phantom_jet_aircraft
+    definition: 伊朗空軍戰鬥機，1976年與 UFO 遭遇事件
+    preferred_translation: F-4 幽靈戰鬥機
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-16
+  - UFO-19
+- term: FAA
+  senses:
+  - id: faa_agency
+    definition: Federal Aviation Administration，美國聯邦航空總署
+    preferred_translation: 聯邦航空總署（FAA）
+    episodes:
+    - UFO-17
+  - id: faa_aviation_administration
+    definition: Federal Aviation Administration，美國聯邦航空管理局
+    preferred_translation: 聯邦航空總署（FAA）
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-12
+  - UFO-17
+  notes: 廢棄譯名（校稿時發現請改正）：聯邦航空管理局、FAA（聯邦航空總署）
+- term: Flying Saucer
+  senses:
+  - id: flying_saucer_craft
+    definition: 碟形或圓盤狀的不明飛行器
+    preferred_translation: 飛碟
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-07
+    - UFO-09
+    - UFO-10
+    - UFO-11
+    - UFO-12
+    - UFO-14
+    - UFO-15
+    - UFO-16
+    - UFO-17
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-07
+  - UFO-09
+  - UFO-10
+  - UFO-11
+  - UFO-12
+  - UFO-14
+  - UFO-15
+  - UFO-16
+  - UFO-17
+  - UFO-19
+- term: FOIA
+  senses:
+  - id: foia_abbr
+    definition: Freedom of Information Act 的縮寫
+    preferred_translation: 資訊自由法（FOIA）
+    episodes:
+    - UFO-18
+  - id: foia_law
+    definition: Freedom of Information Act，美國資訊自由法
+    preferred_translation: 資訊自由法（FOIA）
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-05
+    - UFO-06
+    - UFO-07
+    - UFO-09
+    - UFO-13
+    - UFO-14
+    - UFO-16
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-09
+  - UFO-13
+  - UFO-14
+  - UFO-16
+  - UFO-18
+  notes: 廢棄譯名（校稿時發現請改正）：FOIA、資訊自由法
+- term: Foo Fighters
+  senses:
+  - id: foo_fighters_phenomenon
+    definition: 二戰期間飛行員報告看到的神秘飛行球體
+    preferred_translation: 幽浮光球
+    episodes:
+    - UFO-19
+  - id: foo_fighters_ww2
+    definition: 二戰期間飛行員報告的神秘飛行物體
+    preferred_translation: 幽浮光球（Foo Fighters）
+    episodes:
+    - UFO-15
+  episodes:
+  - UFO-15
+  - UFO-19
+  notes: 亦寫作：Foo fighters；廢棄譯名（校稿時發現請改正）：幽靈戰鬥機（Foo Fighters）；統一為「幽浮光球」；UFO-15 保留原文標註（Foo Fighters）
+  also_written_as:
+  - Foo fighters
+- term: Foreign Technology Division
+  senses:
+  - id: foreign_tech_division
+    definition: 萊特-帕特森空軍基地的外星科技部門
+    preferred_translation: 外國技術部門
+    episodes:
+    - UFO-12
+  - id: ftd_wright_patterson
+    definition: 萊特-帕特森空軍基地的外國技術部門
+    preferred_translation: 外國技術部門
+    episodes:
+    - UFO-02
+  episodes:
+  - UFO-02
+  - UFO-12
+  notes: 廢棄譯名（校稿時發現請改正）：外星科技部門
+- term: Freedom of Information Act
+  senses:
+  - id: foia_full
+    definition: 美國資訊自由法（完整名稱）
+    preferred_translation: 資訊自由法
+    episodes:
+    - UFO-05
+    - UFO-16
+  - id: foia_full_name
+    definition: 美國資訊自由法，允許公民申請政府文件解密
+    preferred_translation: 資訊自由法
+    episodes:
+    - UFO-01
+    - UFO-09
+  - id: foia_law
+    definition: 資訊自由法，美國聯邦法律
+    preferred_translation: 資訊自由法
+    episodes:
+    - UFO-17
+    - UFO-18
+  episodes:
+  - UFO-01
+  - UFO-05
+  - UFO-09
+  - UFO-16
+  - UFO-17
+  - UFO-18
+- term: GAO
+  senses:
+  - id: gao_abbreviation
+    definition: General Accounting Office 的縮寫
+    preferred_translation: 美國審計總署（GAO）
+    episodes:
+    - UFO-02
+  - id: gao_office
+    definition: General Accounting Office，美國總審計辦公室（簡稱）
+    preferred_translation: 美國審計總署（GAO）
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-02
+  - UFO-12
+  notes: 廢棄譯名（校稿時發現請改正）：總審計辦公室
+- term: General Accounting Office
+  senses:
+  - id: gao_full_name
+    definition: 美國審計總署（現稱政府問責辦公室）完整名稱
+    preferred_translation: 美國審計總署
+    episodes:
+    - UFO-02
+    - UFO-12
+  episodes:
+  - UFO-02
+  - UFO-12
+  notes: 廢棄譯名（校稿時發現請改正）：審計總署、總審計辦公室
+- term: General Assembly
+  senses:
+  - id: general_assembly_uruguay
+    definition: 烏拉圭國會
+    preferred_translation: 烏拉圭國民議會
+    episodes:
+    - UFO-14
+  - id: un_general_assembly
+    definition: 聯合國大會
+    preferred_translation: 聯合國大會
+    episodes:
+    - UFO-10
+    - UFO-12
+    - UFO-16
+  episodes:
+  - UFO-10
+  - UFO-12
+  - UFO-14
+  - UFO-16
+  notes: 聯合國語境譯「聯合國大會」；UFO-14 為烏拉圭語境，譯「烏拉圭國民議會」
+- term: General Curtis LeMay
+  senses:
+  - id: lemay_general
+    definition: 美國空軍將軍，拒絕參議員Goldwater進入藍色房間
+    preferred_translation: 柯蒂斯·李梅將軍
+    episodes:
+    - UFO-01
+    - UFO-11
+  episodes:
+  - UFO-01
+  - UFO-11
+- term: General Gabriel
+  senses:
+  - id: gabriel_general
+    definition: 美國空軍將軍，事件後訪問基地並移除證據
+    preferred_translation: 蓋博上將
+    episodes:
+    - UFO-05
+  - id: gabriel_usafe_commander
+    definition: Charles A. Gabriel將軍，美國駐歐空軍總司令
+    preferred_translation: 蓋博上將
+    episodes:
+    - UFO-06
+  episodes:
+  - UFO-05
+  - UFO-06
+  notes: 廢棄譯名（校稿時發現請改正）：加百列將軍
+- term: George H.W. Bush
+  senses:
+  - id: bush_cia_director
+    definition: 美國中央情報局局長（1976年），後成為副總統與總統
+    preferred_translation: 喬治·H·W·布希
+    episodes:
+    - UFO-02
+  - id: bush_senior_president
+    definition: 美國第 41 任總統老布希
+    preferred_translation: 老布希總統
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-02
+  - UFO-20
+  notes: 兩種稱謂依語境並存：喬治·H·W·布希／老布希總統
+- term: George Knapp
+  senses:
+  - id: knapp_journalist
+    definition: 拉斯維加斯調查記者
+    preferred_translation: 喬治·奈普
+    episodes:
+    - UFO-01
+    - UFO-04
+  episodes:
+  - UFO-01
+  - UFO-04
+- term: Grant Cameron
+  senses:
+  - id: cameron_researcher
+    definition: UFO研究者，專注於美國總統對UFO的了解
+    preferred_translation: 格蘭特·卡麥隆
+    episodes:
+    - UFO-01
+    - UFO-03
+    - UFO-15
+    - UFO-16
+  episodes:
+  - UFO-01
+  - UFO-03
+  - UFO-15
+  - UFO-16
+- term: Gulf Breeze, Florida
+  senses:
+  - id: gulf_breeze_sightings
+    definition: 佛羅里達州墨西哥灣沿岸城市，1980年代UFO熱點
+    preferred_translation: 佛羅里達州微風灣
+    episodes:
+    - UFO-02
+    - UFO-12
+  episodes:
+  - UFO-02
+  - UFO-12
+  notes: 廢棄譯名（校稿時發現請改正）：佛羅里達州海灣微風市
+- term: Holloman Air Force Base
+  senses:
+  - id: holloman_afb
+    definition: 新墨西哥州霍洛曼空軍基地
+    preferred_translation: 霍洛曼空軍基地
+    episodes:
+    - UFO-01
+  - id: holloman_afb_nm
+    definition: 新墨西哥州霍洛曼空軍基地
+    preferred_translation: 霍洛曼空軍基地
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-01
+  - UFO-12
+- term: ICBMs
+  senses:
+  - id: icbm_missiles
+    definition: Intercontinental Ballistic Missiles，洲際彈道飛彈
+    preferred_translation: 洲際彈道飛彈
+    episodes:
+    - UFO-06
+  - id: icbms
+    definition: 洲際彈道飛彈（複數形式）
+    preferred_translation: 洲際彈道飛彈
+    episodes:
+    - UFO-07
+  - id: icbms_missiles
+    definition: Intercontinental Ballistic Missiles，洲際彈道飛彈
+    preferred_translation: 洲際彈道飛彈
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-06
+  - UFO-07
+  - UFO-08
+  notes: 廢棄譯名（校稿時發現請改正）：洲際彈道導彈
+- term: Implants
+  senses:
+  - id: implants_alien_device
+    definition: 外星存有植入人體的裝置
+    preferred_translation: 植入物
+    episodes:
+    - UFO-19
+  - id: implants_cia_device
+    definition: CIA 在 1970-80 年代開發的植入裝置
+    preferred_translation: 植入物
+    episodes:
+    - UFO-04
+  episodes:
+  - UFO-04
+  - UFO-19
+- term: Interdimensional
+  senses:
+  - id: interdimensional_concept
+    definition: 涉及跨越不同維度的
+    preferred_translation: 跨維度
+    episodes:
+    - UFO-19
+  - id: interdimensional_theory
+    definition: 涉及跨越不同維度或次元的（理論假說之一）
+    preferred_translation: 跨維度
+    episodes:
+    - UFO-02
+  episodes:
+  - UFO-02
+  - UFO-19
+- term: Jim Courant
+  senses:
+  - id: courant_airline_captain
+    definition: 航線機長，31 年飛行經驗
+    preferred_translation: 吉姆·庫蘭特
+    episodes:
+    - UFO-17
+  - id: courant_jim_researcher
+    definition: NARCAP 相關研究者
+    preferred_translation: 吉姆·庫蘭特
+    episodes:
+    - UFO-18
+  episodes:
+  - UFO-17
+  - UFO-18
+  notes: 廢棄譯名（校稿時發現請改正）：吉姆·庫朗
+- term: Jim Penniston
+  senses:
+  - id: penniston_airman
+    definition: 美國空軍軍人，Rendlesham Forest 事件關鍵證人
+    preferred_translation: 吉姆·佩尼斯頓
+    episodes:
+    - UFO-20
+  - id: penniston_witness
+    definition: 美國空軍警察中士，倫德沙姆森林事件主要證人之一
+    preferred_translation: 吉姆·佩尼斯頓
+    episodes:
+    - UFO-06
+  episodes:
+  - UFO-06
+  - UFO-20
+- term: John Burroughs
+  senses:
+  - id: burroughs_witness
+    definition: 美國空軍一等兵/技術軍士，Rendlesham Forest 事件主要證人
+    preferred_translation: 約翰·巴勒斯
+    episodes:
+    - UFO-05
+    - UFO-06
+  episodes:
+  - UFO-05
+  - UFO-06
+- term: John Podesta
+  senses:
+  - id: john_podesta_official
+    definition: 白宮幕僚長，美國進步中心創始人
+    preferred_translation: 約翰·波德斯達
+    episodes:
+    - UFO-19
+  - id: podesta_official
+    definition: 白宮幕僚長，歐巴馬顧問
+    preferred_translation: 約翰·波德斯達
+    episodes:
+    - UFO-04
+  episodes:
+  - UFO-04
+  - UFO-19
+- term: Joint Chiefs of Staff
+  senses:
+  - id: jcs_military
+    definition: 美國參謀長聯席會議
+    preferred_translation: 參謀長聯席會議
+    episodes:
+    - UFO-03
+  - id: joint_chiefs_military
+    definition: 美國參謀長聯席會議
+    preferred_translation: 參謀長聯席會議
+    episodes:
+    - UFO-14
+  - id: joint_chiefs_staff_military
+    definition: 參謀長聯席會議，美國最高軍事指揮機構
+    preferred_translation: 參謀長聯席會議
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-03
+  - UFO-08
+  - UFO-14
+- term: Karen Silkwood case
+  senses:
+  - id: silkwood_case
+    definition: 凱倫·絲克伍案,涉及核材料走私的重大案件
+    preferred_translation: 凱倫·絲克伍案
+    episodes:
+    - UFO-03
+  - id: silkwood_case_legal
+    definition: 凱倫·西爾克伍德案，核工業舉報人謀殺案
+    preferred_translation: 凱倫·絲克伍案
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-03
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：凱倫·西爾克伍德案
+- term: Kirtland Air Force Base
+  senses:
+  - id: kirtland_afb
+    definition: 新墨西哥州阿布奎基的美國空軍基地
+    preferred_translation: 柯特蘭空軍基地
+    episodes:
+    - UFO-01
+  - id: kirtland_afb_facility
+    definition: 新墨西哥州阿布奎基的空軍基地
+    preferred_translation: 柯特蘭空軍基地
+    episodes:
+    - UFO-19
+  - id: kirtland_afb_location
+    definition: 新墨西哥州阿布奎基的美國空軍基地，與核武設施和 UFO 事件相關
+    preferred_translation: 柯特蘭空軍基地
+    episodes:
+    - UFO-18
+  episodes:
+  - UFO-01
+  - UFO-18
+  - UFO-19
+- term: Lawrence Rockefeller
+  senses:
+  - id: rockefeller_philanthropist
+    definition: 億萬富翁慈善家,1990年代資助UFO研究並遊說柯林頓政府
+    preferred_translation: 勞倫斯·洛克菲勒
+    episodes:
+    - UFO-03
+    - UFO-04
+  episodes:
+  - UFO-03
+  - UFO-04
+- term: Lieutenant Colonel Richard French
+  senses:
+  - id: french_osi_agent
+    definition: 美國空軍中校退役，前特別調查辦公室（OSI）探員
+    preferred_translation: 理查德·弗倫奇中校
+    episodes:
+    - UFO-02
+  - id: french_usaf_pilot
+    definition: 美國空軍中校，退役戰鬥機飛行員
+    preferred_translation: 理查德·弗倫奇中校
+    episodes:
+    - UFO-17
+  - id: french_witness
+    definition: 美國空軍退役中校，聽證會證人
+    preferred_translation: 理查德·弗倫奇中校
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-02
+  - UFO-12
+  - UFO-17
+  notes: 廢棄譯名（校稿時發現請改正）：理查德·法蘭奇中校
+- term: Linda Moulton Howe
+  senses:
+  - id: howe_journalist
+    definition: 調查記者，以動物肢解案件研究聞名
+    preferred_translation: 琳達·莫爾頓·豪
+    episodes:
+    - UFO-01
+    - UFO-09
+    - UFO-17
+  - id: howe_journalist_witness
+    definition: 調查記者，艾美獎得主，動物肢解案件研究專家
+    preferred_translation: 琳達·莫爾頓·豪
+    episodes:
+    - UFO-18
+  episodes:
+  - UFO-01
+  - UFO-09
+  - UFO-17
+  - UFO-18
+- term: Lockheed Skunk Works
+  senses:
+  - id: lockheed_skunk_works
+    definition: 洛克希德·馬丁公司的先進開發部門
+    preferred_translation: 洛克希德臭鼬工廠
+    episodes:
+    - UFO-16
+  - id: lockheed_skunk_works_division
+    definition: 洛克希德公司的先進開發項目部門
+    preferred_translation: 洛克希德臭鼬工廠
+    episodes:
+    - UFO-19
+  - id: skunk_works_division
+    definition: 洛克希德臭鼬工廠,先進開發部門
+    preferred_translation: 洛克希德臭鼬工廠
+    episodes:
+    - UFO-03
+  episodes:
+  - UFO-03
+  - UFO-16
+  - UFO-19
+- term: logic coupler
+  senses:
+  - id: logic_coupler
+    definition: 飛彈導引與控制系統的邏輯耦合器
+    preferred_translation: 邏輯耦合器
+    episodes:
+    - UFO-07
+  - id: logic_coupler_missile_component
+    definition: 邏輯耦合器，飛彈發射控制系統的關鍵電子元件
+    preferred_translation: 邏輯耦合器
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-07
+  - UFO-08
+- term: Lord Hill Norton
+  senses:
+  - id: hill_norton_admiral
+    definition: 英國海軍上將，前北約盟軍最高司令
+    preferred_translation: 希爾-諾頓勳爵
+    episodes:
+    - UFO-05
+  - id: hill_norton_chief
+    definition: 希爾-諾頓勳爵，前英國國防參謀長
+    preferred_translation: 希爾-諾頓勳爵
+    episodes:
+    - UFO-06
+  - id: hill_norton_uk_defense
+    definition: 彼得·希爾-諾頓勳爵,英國前國防參謀長
+    preferred_translation: 希爾-諾頓勳爵
+    episodes:
+    - UFO-03
+  episodes:
+  - UFO-03
+  - UFO-05
+  - UFO-06
+  notes: 廢棄譯名（校稿時發現請改正）：彼得·希爾-諾頓勳爵、希爾·諾頓勳爵
+- term: Mack Brazel
+  senses:
+  - id: brazel_rancher
+    definition: 牧場主人,首位發現 Roswell 殘骸的平民
+    preferred_translation: 麥克·布拉澤爾
+    episodes:
+    - UFO-11
+  - id: brazel_rancher_full
+    definition: 發現羅斯威爾殘骸的牧場主（全名：William W. "Mac" Brazel）
+    preferred_translation: 麥克·布拉澤爾
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-11
+  - UFO-12
+- term: Majestic 12 Group
+  senses:
+  - id: majestic_12_group
+    definition: Majestic 12 組織的正式名稱
+    preferred_translation: Majestic 12 小組（MJ-12）
+    episodes:
+    - UFO-10
+  - id: mj12_group_mentioned
+    definition: 傳說中的秘密政府 UFO 調查組織
+    preferred_translation: Majestic 12 小組（MJ-12）
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-10
+  - UFO-20
+  notes: 亦寫作：Majestic 12 group；廢棄譯名（校稿時發現請改正）：MJ-12 組織、Majestic 12 小組
+  also_written_as:
+  - Majestic 12 group
+- term: Manhattan Project
+  senses:
+  - id: manhattan_project
+    definition: 曼哈頓計畫，二戰期間美國研發原子彈的秘密計畫
+    preferred_translation: 曼哈頓計畫
+    episodes:
+    - UFO-07
+  - id: manhattan_project_program
+    definition: 美國二戰期間的原子彈研發計畫
+    preferred_translation: 曼哈頓計畫
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-07
+  - UFO-12
+- term: McDonnell Douglas
+  senses:
+  - id: mcdonnell_douglas_company
+    definition: 美國航空航太公司，由道格拉斯和麥克唐納合併而成
+    preferred_translation: 麥克唐納-道格拉斯公司
+    episodes:
+    - UFO-19
+  - id: mcdonnell_douglas_corp
+    definition: 美國航太製造公司，Dr. Bob Wood 任職 43 年的公司
+    preferred_translation: 麥克唐納-道格拉斯公司
+    episodes:
+    - UFO-10
+  episodes:
+  - UFO-10
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：麥克唐納道格拉斯公司
+- term: Merrill Cook
+  senses:
+  - id: cook_congressman
+    definition: 前美國眾議員，聽證會評審小組成員
+    preferred_translation: 梅里爾·庫克
+    episodes:
+    - UFO-01
+    - UFO-05
+  episodes:
+  - UFO-01
+  - UFO-05
+- term: military-industrial complex
+  senses:
+  - id: mic_eisenhower
+    definition: 軍工複合體，艾森豪總統警告的軍事-工業-國會權力結構
+    preferred_translation: 軍工複合體
+    episodes:
+    - UFO-02
+  - id: military_industrial_complex_system
+    definition: 軍工複合體，軍方與軍火工業的利益共同體
+    preferred_translation: 軍工複合體
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-02
+  - UFO-08
+- term: Ministry of Defense
+  senses:
+  - id: mod_uk
+    definition: 英國國防部
+    preferred_translation: 國防部
+    episodes:
+    - UFO-15
+  - id: mod_us_spelling
+    definition: 英國國防部（美式拼法）
+    preferred_translation: 英國國防部
+    episodes:
+    - UFO-05
+  - id: organization
+    definition: 國防部（阿根廷）
+    preferred_translation: 國防部
+    episodes:
+    - UFO-13
+  episodes:
+  - UFO-05
+  - UFO-13
+  - UFO-15
+  notes: 英國語境（UFO-05 藍道申事件）譯「英國國防部」；南美集數譯「國防部」
+- term: MJ-12
+  senses:
+  - id: mj12_group
+    definition: Majestic 12，傳說中的秘密政府 UFO 調查組織
+    preferred_translation: MJ-12
+    episodes:
+    - UFO-10
+    - UFO-16
+    - UFO-18
+  episodes:
+  - UFO-10
+  - UFO-16
+  - UFO-18
+- term: Motherships
+  senses:
+  - id: craft
+    definition: 母艦（大型 UFO）
+    preferred_translation: 母艦
+    episodes:
+    - UFO-13
+  - id: mothership_large_craft
+    definition: 大型母艦，可能搭載小型飛行器
+    preferred_translation: 母艦
+    episodes:
+    - UFO-15
+  episodes:
+  - UFO-13
+  - UFO-15
+  notes: 亦寫作：motherships
+  also_written_as:
+  - motherships
+- term: MUFON
+  senses:
+  - id: mufon_network
+    definition: Mutual UFO Network，UFO 互動網路
+    preferred_translation: MUFON（UFO 互動網路）
+    episodes:
+    - UFO-01
+    - UFO-03
+    - UFO-07
+    - UFO-15
+    - UFO-17
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-03
+  - UFO-07
+  - UFO-15
+  - UFO-17
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：MUFON（UFO 互動網絡）、MUFON(UFO互動網絡)
+- term: Mutual UFO Network
+  senses:
+  - id: mufon_full_name
+    definition: 全球最大的UFO研究與報告組織之一（MUFON全名）
+    preferred_translation: UFO 互動網路（MUFON）
+    episodes:
+    - UFO-01
+  - id: mufon_network_full
+    definition: UFO 互動網路（MUFON 全稱）
+    preferred_translation: UFO 互動網路（MUFON）
+    episodes:
+    - UFO-17
+  episodes:
+  - UFO-01
+  - UFO-17
+  notes: 廢棄譯名（校稿時發現請改正）：UFO互動網絡、UFO 互動網絡
+- term: NARCAP
+  senses:
+  - id: narcap_org
+    definition: National Aviation Research Center for Anomalous Phenomena
+    preferred_translation: NARCAP（國家航空異常現象報告中心）
+    episodes:
+    - UFO-14
+    - UFO-18
+  episodes:
+  - UFO-14
+  - UFO-18
+  notes: 廢棄譯名（校稿時發現請改正）：NARCAP（國家航空異常現象研究中心）、NARCAP（航空異常現象報告中心）
+- term: NASA
+  senses:
+  - id: nasa_agency
+    definition: National Aeronautics and Space Administration，美國國家航空暨太空總署
+    preferred_translation: NASA
+    episodes:
+    - UFO-18
+  - id: nasa_space_agency
+    definition: National Aeronautics and Space Administration，美國太空總署
+    preferred_translation: NASA
+    episodes:
+    - UFO-17
+  episodes:
+  - UFO-17
+  - UFO-18
+- term: National Archives
+  senses:
+  - id: national_archives
+    definition: 美國國家檔案館
+    preferred_translation: 國家檔案館
+    episodes:
+    - UFO-03
+  - id: national_archives_brazil
+    definition: 巴西國家檔案館
+    preferred_translation: 巴西國家檔案館
+    episodes:
+    - UFO-14
+  - id: national_archives_us
+    definition: 美國國家檔案館
+    preferred_translation: 美國國家檔案館
+    episodes:
+    - UFO-10
+  episodes:
+  - UFO-03
+  - UFO-10
+  - UFO-14
+  notes: 依國別語境：美國國家檔案館／巴西國家檔案館
+- term: National Press Club
+  senses:
+  - id: npc_venue
+    definition: 華盛頓特區的專業記者組織
+    preferred_translation: 國家新聞俱樂部
+    episodes:
+    - UFO-04
+    - UFO-16
+  - id: npc_venue_hearing
+    definition: 華盛頓特區的專業記者組織
+    preferred_translation: 國家新聞俱樂部
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-04
+  - UFO-08
+  - UFO-16
+- term: National Reconnaissance Office
+  senses:
+  - id: national_reconnaissance_office_agency
+    definition: 美國國家偵察局，負責衛星情報
+    preferred_translation: 國家偵察局（NRO）
+    episodes:
+    - UFO-19
+  - id: nro_agency
+    definition: 國家偵察辦公室
+    preferred_translation: 國家偵察局（NRO）
+    episodes:
+    - UFO-03
+  episodes:
+  - UFO-03
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：美國國家偵察局、國家偵察局
+- term: National Security
+  senses:
+  - id: national_security_concern
+    definition: 國家安全考量或機密等級的理由
+    preferred_translation: 國家安全
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-05
+    - UFO-06
+    - UFO-07
+    - UFO-08
+    - UFO-09
+    - UFO-10
+    - UFO-11
+    - UFO-12
+    - UFO-13
+    - UFO-14
+    - UFO-15
+    - UFO-16
+    - UFO-17
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-08
+  - UFO-09
+  - UFO-10
+  - UFO-11
+  - UFO-12
+  - UFO-13
+  - UFO-14
+  - UFO-15
+  - UFO-16
+  - UFO-17
+- term: National Security Agency
+  senses:
+  - id: national_security_agency_org
+    definition: 美國國家安全局
+    preferred_translation: 國家安全局
+    episodes:
+    - UFO-19
+  - id: nsa_agency
+    definition: 美國國家安全局
+    preferred_translation: 國家安全局
+    episodes:
+    - UFO-03
+    - UFO-14
+  episodes:
+  - UFO-03
+  - UFO-14
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：NSA（國家安全局）、國家安全局（NSA）；全名統一為「國家安全局」；縮寫 NSA 詞條用「國家安全局（NSA）」
+- term: National Security Council
+  senses:
+  - id: nsc_council
+    definition: 美國國家安全委員會
+    preferred_translation: 國家安全會議
+    episodes:
+    - UFO-12
+  - id: nsc_government
+    definition: 美國國家安全會議
+    preferred_translation: 國家安全會議
+    episodes:
+    - UFO-03
+  - id: nsc_organization
+    definition: 美國國家安全會議
+    preferred_translation: 國家安全會議
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-03
+  - UFO-12
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：國家安全委員會
+- term: National UFO Reporting Center
+  senses:
+  - id: nuforc_organization
+    definition: 美國國家UFO報告中心
+    preferred_translation: 國家UFO報告中心
+    episodes:
+    - UFO-01
+    - UFO-09
+  episodes:
+  - UFO-01
+  - UFO-09
+- term: NATO
+  senses:
+  - id: nato_alliance
+    definition: North Atlantic Treaty Organization，北大西洋公約組織
+    preferred_translation: 北約（NATO）
+    episodes:
+    - UFO-20
+  - id: nato_org
+    definition: North Atlantic Treaty Organization，北大西洋公約組織
+    preferred_translation: 北約（NATO）
+    episodes:
+    - UFO-16
+  episodes:
+  - UFO-16
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：北約
+- term: need to know
+  senses:
+  - id: need_to_know_access
+    definition: 機密資訊分級制度，只有必要人員才能接觸
+    preferred_translation: 需知原則
+    episodes:
+    - UFO-18
+  - id: need_to_know_principle
+    definition: 知密權原則，即使有安全許可也必須有工作需要才能接觸機密
+    preferred_translation: 需知原則
+    episodes:
+    - UFO-10
+  episodes:
+  - UFO-10
+  - UFO-18
+  notes: 廢棄譯名（校稿時發現請改正）：知密權
+- term: Nick Pope
+  senses:
+  - id: pope_mod_officer
+    definition: 英國國防部前UFO專案官員
+    preferred_translation: 尼克·波普
+    episodes:
+    - UFO-15
+  - id: pope_mod_official
+    definition: 前英國國防部官員，1991-1994 年負責 UFO 調查事務
+    preferred_translation: 尼克·波普
+    episodes:
+    - UFO-05
+    - UFO-06
+  - id: pope_nick_mod
+    definition: 英國國防部前 UFO 調查官員
+    preferred_translation: 尼克·波普
+    episodes:
+    - UFO-18
+  - id: pope_official
+    definition: 英國國防部前UFO調查官員
+    preferred_translation: 尼克·波普
+    episodes:
+    - UFO-16
+  - id: pope_ufo_researcher
+    definition: 英國國防部前 UFO 調查官員
+    preferred_translation: 尼克·波普
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-05
+  - UFO-06
+  - UFO-15
+  - UFO-16
+  - UFO-18
+  - UFO-20
+- term: Nikola Tesla
+  senses:
+  - id: nikola_tesla_inventor
+    definition: 塞爾維亞裔美國發明家，交流電系統先驅
+    preferred_translation: 尼古拉·特斯拉
+    episodes:
+    - UFO-19
+  - id: tesla_inventor
+    definition: 尼古拉·特斯拉，發明家與電氣工程師
+    preferred_translation: 尼古拉·特斯拉
+    episodes:
+    - UFO-17
+  episodes:
+  - UFO-17
+  - UFO-19
+- term: NSA
+  senses:
+  - id: nsa_agency
+    definition: National Security Agency，美國國家安全局
+    preferred_translation: 國家安全局（NSA）
+    episodes:
+    - UFO-06
+    - UFO-18
+  episodes:
+  - UFO-06
+  - UFO-18
+  notes: 廢棄譯名（校稿時發現請改正）：NSA、國家安全局
+- term: nuclear weapons
+  senses:
+  - id: concept
+    definition: 核武器系統
+    preferred_translation: 核武器
+    episodes:
+    - UFO-13
+  - id: nuclear_weapons_wmds
+    definition: 核武器，大規模毀滅性武器
+    preferred_translation: 核武器
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-08
+  - UFO-13
+- term: Operation Saucer
+  senses:
+  - id: operation
+    definition: 巴西空軍 1977 年亞馬遜 UFO 調查行動
+    preferred_translation: 飛碟行動
+    episodes:
+    - UFO-13
+  - id: operation_saucer_brazil
+    definition: 巴西空軍1970年代執行的UFO調查行動
+    preferred_translation: 飛碟行動
+    episodes:
+    - UFO-14
+  episodes:
+  - UFO-13
+  - UFO-14
+- term: OSI
+  senses:
+  - id: osi_abbreviation
+    definition: Office of Special Investigations，美國空軍特別調查辦公室
+    preferred_translation: 空軍特別調查辦公室（OSI）
+    episodes:
+    - UFO-02
+  - id: osi_afosi
+    definition: Office of Special Investigations，美國空軍特別調查處，負責反情報與刑事調查
+    preferred_translation: 空軍特別調查辦公室（OSI）
+    episodes:
+    - UFO-06
+  - id: osi_usaf_investigation
+    definition: Office of Special Investigations，美國空軍特別調查辦公室
+    preferred_translation: 空軍特別調查辦公室（OSI）
+    episodes:
+    - UFO-17
+  episodes:
+  - UFO-02
+  - UFO-06
+  - UFO-17
+  notes: 廢棄譯名（校稿時發現請改正）：特別調查辦公室（OSI）、特別調查處、OSI（空軍特別調查辦公室）
+- term: Paradigm Research Group
+  senses:
+  - id: prg_organization
+    definition: 範式研究組織
+    preferred_translation: 範式研究組織
+    episodes:
+    - UFO-03
+    - UFO-05
+  episodes:
+  - UFO-03
+  - UFO-05
+- term: Paul Hellyer
+  senses:
+  - id: hellyer_minister
+    definition: 加拿大前國防部長
+    preferred_translation: 保羅·赫勒
+    episodes:
+    - UFO-01
+    - UFO-03
+    - UFO-15
+  - id: hellyer_minister_witness
+    definition: 加拿大前國防部長，本集主要證人
+    preferred_translation: 保羅·赫勒
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-01
+  - UFO-03
+  - UFO-15
+  - UFO-20
+- term: Paul Hill
+  senses:
+  - id: hill_nasa
+    definition: NASA科學家，UFO研究者
+    preferred_translation: 保羅·希爾
+    episodes:
+    - UFO-16
+  - id: hill_paul_scientist
+    definition: NASA 科學家，著有《Unconventional Flying Objects》
+    preferred_translation: 保羅·希爾
+    episodes:
+    - UFO-18
+  episodes:
+  - UFO-16
+  - UFO-18
+- term: Paul LaViolette
+  senses:
+  - id: laviolette_researcher
+    definition: 系統理論家，研究反重力推進
+    preferred_translation: 保羅·拉維奧萊特
+    episodes:
+    - UFO-18
+  - id: paul_laviolette_researcher
+    definition: 電重力學研究者，B-2 轟炸機相關理論提出者
+    preferred_translation: 保羅·拉維奧萊特
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-18
+  - UFO-19
+- term: Pentagon Papers
+  senses:
+  - id: pentagon_papers_case
+    definition: 五角大廈文件案,揭露越戰秘密的重大洩密事件
+    preferred_translation: 五角大廈文件
+    episodes:
+    - UFO-03
+  - id: pentagon_papers_documents
+    definition: 五角大廈文件，越南戰爭機密文件
+    preferred_translation: 五角大廈文件
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-03
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：五角大廈文件案
+- term: Phoenix Lights
+  senses:
+  - id: phoenix_lights_event
+    definition: 1997年發生於美國亞利桑那州鳳凰城的大規模UFO目擊事件
+    preferred_translation: 鳳凰城光點事件
+    episodes:
+    - UFO-09
+    - UFO-17
+  - id: phoenix_lights_event_1997
+    definition: 1997 年亞利桑那州鳳凰城大規模 UFO 目擊事件
+    preferred_translation: 鳳凰城光點事件
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-08
+  - UFO-09
+  - UFO-17
+- term: Pine Gap
+  senses:
+  - id: pine_gap_australia
+    definition: 澳洲 Pine Gap 太空監控設施
+    preferred_translation: 松峽基地
+    episodes:
+    - UFO-17
+  - id: pine_gap_facility
+    definition: 澳洲的衛星地面站和監測設施
+    preferred_translation: 松峽基地
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-17
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：松樹谷
+- term: President Carter
+  senses:
+  - id: carter_president
+    definition: 美國第 39 任總統吉米·卡特
+    preferred_translation: 卡特總統
+    episodes:
+    - UFO-05
+  - id: carter_president_ufo
+    definition: 美國第39任總統吉米·卡特，曾親眼目擊UFO並試圖取得UFO資訊
+    preferred_translation: 卡特總統
+    episodes:
+    - UFO-02
+  episodes:
+  - UFO-02
+  - UFO-05
+- term: President Clinton
+  senses:
+  - id: clinton_president
+    definition: 美國第42任總統比爾·柯林頓
+    preferred_translation: 柯林頓總統
+    episodes:
+    - UFO-01
+    - UFO-03
+    - UFO-06
+  episodes:
+  - UFO-01
+  - UFO-03
+  - UFO-06
+- term: President Truman
+  senses:
+  - id: truman_president
+    definition: 美國第 33 任總統哈里·杜魯門
+    preferred_translation: 杜魯門總統
+    episodes:
+    - UFO-18
+    - UFO-20
+  episodes:
+  - UFO-18
+  - UFO-20
+- term: Project Blue Book
+  senses:
+  - id: project_blue_book_usaf
+    definition: 美國空軍 1952-1969 年的 UFO 調查計畫
+    preferred_translation: 藍皮書計畫
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-05
+    - UFO-07
+    - UFO-08
+    - UFO-09
+    - UFO-11
+    - UFO-14
+    - UFO-15
+    - UFO-18
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-05
+  - UFO-07
+  - UFO-08
+  - UFO-09
+  - UFO-11
+  - UFO-14
+  - UFO-15
+  - UFO-18
+  - UFO-19
+- term: Project Mogul
+  senses:
+  - id: project_mogul_balloon
+    definition: 美國空軍聲稱的氣象氣球計畫,用於解釋 Roswell 事件
+    preferred_translation: 莫古爾計畫
+    episodes:
+    - UFO-11
+    - UFO-12
+  episodes:
+  - UFO-11
+  - UFO-12
+- term: Project Starlight
+  senses:
+  - id: project_starlight_initiative
+    definition: Disclosure Project 的前身，由 Dr. Greer 與 Lawrence Rockefeller 合作啟動
+    preferred_translation: 星光計畫
+    episodes:
+    - UFO-04
+  - id: starlight_initiative
+    definition: Dr. Greer早期向軍方與政府高層簡報UFO資訊的計畫
+    preferred_translation: 星光計畫
+    episodes:
+    - UFO-03
+  episodes:
+  - UFO-03
+  - UFO-04
+- term: Provost Marshal
+  senses:
+  - id: provost_marshal_military
+    definition: 軍事基地的憲兵司令,負責安全與紀律
+    preferred_translation: 憲兵司令
+    episodes:
+    - UFO-11
+  - id: provost_marshal_position
+    definition: 憲兵司令，基地安全主管
+    preferred_translation: 憲兵司令
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-11
+  - UFO-12
+  notes: 亦寫作：provost marshal
+  also_written_as:
+  - provost marshal
+- term: PTSD
+  senses:
+  - id: ptsd_condition
+    definition: Post-Traumatic Stress Disorder，創傷後壓力症候群
+    preferred_translation: 創傷後壓力症候群
+    episodes:
+    - UFO-05
+  - id: ptsd_disorder
+    definition: Post-Traumatic Stress Disorder，創傷後壓力症候群
+    preferred_translation: 創傷後壓力症候群
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-05
+  - UFO-12
+- term: RAF Bentwaters
+  senses:
+  - id: raf_bentwaters_base
+    definition: 英國皇家空軍本特沃特斯基地
+    preferred_translation: 皇家空軍本特沃特斯基地
+    episodes:
+    - UFO-04
+    - UFO-06
+  episodes:
+  - UFO-04
+  - UFO-06
+- term: Reagan administration
+  senses:
+  - id: reagan_admin
+    definition: 雷根政府時期（1981-1989）
+    preferred_translation: 雷根政府
+    episodes:
+    - UFO-17
+  - id: reagan_presidency
+    definition: 雷根政府，1981-1989 年
+    preferred_translation: 雷根政府
+    episodes:
+    - UFO-20
+  episodes:
+  - UFO-17
+  - UFO-20
+- term: Rendlesham Forest incident
+  senses:
+  - id: rendlesham_forest_uk
+    definition: 1980年12月英國空軍基地附近的UFO事件
+    preferred_translation: 藍道申森林事件
+    episodes:
+    - UFO-15
+  - id: rendlesham_incident
+    definition: 1980 年 12 月發生於英國薩福克郡 Rendlesham Forest 的 UFO 著陸事件
+    preferred_translation: 藍道申森林事件
+    episodes:
+    - UFO-05
+  episodes:
+  - UFO-05
+  - UFO-15
+  notes: 廢棄譯名（校稿時發現請改正）：倫德爾沙姆森林事件
+- term: Reparto Generale Sicurezza
+  senses:
+  - id: rgs_italian_airforce
+    definition: 義大利空軍安全部門
+    preferred_translation: 安全部門
+    episodes:
+    - UFO-15
+    - UFO-16
+  episodes:
+  - UFO-15
+  - UFO-16
+  notes: 廢棄譯名（校稿時發現請改正）：義大利國防情報局、安全總部
+- term: Richard Dolan
+  senses:
+  - id: dolan_historian
+    definition: 歷史學家，UFO研究專家
+    preferred_translation: 理查德·多蘭
+    episodes:
+    - UFO-09
+    - UFO-17
+  - id: dolan_historian_witness
+    definition: 歷史學家，UFO 研究專家，著有 UFOs and the National Security State
+    preferred_translation: 理查德·多蘭
+    episodes:
+    - UFO-18
+    - UFO-20
+  episodes:
+  - UFO-09
+  - UFO-17
+  - UFO-18
+  - UFO-20
+- term: Robertson Panel
+  senses:
+  - id: robertson_panel
+    definition: 1952年CIA召集的UFO評估小組
+    preferred_translation: 羅伯森調查小組
+    episodes:
+    - UFO-07
+  - id: robertson_panel_cia
+    definition: 1953年1月CIA召集的UFO專家小組會議
+    preferred_translation: 羅伯森調查小組
+    episodes:
+    - UFO-02
+    - UFO-16
+  episodes:
+  - UFO-02
+  - UFO-07
+  - UFO-16
+  notes: 亦寫作：Robertson panel
+  also_written_as:
+  - Robertson panel
+- term: Rockefeller Initiative
+  senses:
+  - id: rockefeller_initiative_1990s
+    definition: 1990年代Laurance Rockefeller推動的UFO揭露行動
+    preferred_translation: 洛克菲勒倡議
+    episodes:
+    - UFO-03
+    - UFO-10
+  episodes:
+  - UFO-03
+  - UFO-10
+- term: Roscoe Bartlett
+  senses:
+  - id: bartlett_congressman
+    definition: 前美國眾議員，聽證會主席
+    preferred_translation: 羅斯科·巴特利特
+    episodes:
+    - UFO-05
+    - UFO-08
+  episodes:
+  - UFO-05
+  - UFO-08
+- term: Roswell
+  senses:
+  - id: roswell_incident
+    definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+    preferred_translation: 羅斯威爾事件
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-05
+    - UFO-06
+    - UFO-08
+    - UFO-09
+    - UFO-10
+    - UFO-11
+    - UFO-12
+    - UFO-15
+    - UFO-16
+    - UFO-17
+    - UFO-19
+    - UFO-20
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-08
+  - UFO-09
+  - UFO-10
+  - UFO-11
+  - UFO-12
+  - UFO-15
+  - UFO-16
+  - UFO-17
+  - UFO-19
+  - UFO-20
+- term: Roswell Incident
+  senses:
+  - id: roswell_incident_1947
+    definition: 1947 年新墨西哥州羅斯威爾的疑似 UFO 墜毀事件
+    preferred_translation: 羅斯威爾事件
+    episodes:
+    - UFO-18
+  - id: roswell_incident_full
+    definition: 1947年新墨西哥州羅斯威爾的疑似UFO墜毀事件
+    preferred_translation: 羅斯威爾事件
+    episodes:
+    - UFO-01
+    - UFO-02
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-18
+  notes: 亦寫作：Roswell incident
+  also_written_as:
+  - Roswell incident
+- term: Security Council
+  senses:
+  - id: un_security_council
+    definition: 聯合國安全理事會
+    preferred_translation: 聯合國安理會
+    episodes:
+    - UFO-10
+    - UFO-12
+    - UFO-16
+  episodes:
+  - UFO-10
+  - UFO-12
+  - UFO-16
+- term: Senator Claiborne Pell
+  senses:
+  - id: pell_senator
+    definition: 前參議員,參議院外交關係委員會主席
+    preferred_translation: 克萊伯恩·佩爾參議員
+    episodes:
+    - UFO-03
+    - UFO-04
+  episodes:
+  - UFO-03
+  - UFO-04
+- term: Senator Gravel
+  senses:
+  - id: gravel_panelist
+    definition: 前美國參議員麥克·格拉維爾，聽證會評審小組成員
+    preferred_translation: 格拉維爾參議員
+    episodes:
+    - UFO-06
+  - id: gravel_senator
+    definition: 前美國參議員麥克·格拉維爾，聽證會評審小組成員
+    preferred_translation: 格拉維爾參議員
+    episodes:
+    - UFO-01
+  - id: gravel_senator_panel
+    definition: 前美國參議員麥克·格拉維爾，聽證會評審小組成員
+    preferred_translation: 格拉維爾參議員
+    episodes:
+    - UFO-02
+    - UFO-20
+  - id: gravel_senator_panelist
+    definition: 麥克·格拉韋爾參議員，聽證會評審小組成員
+    preferred_translation: 格拉維爾參議員
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-06
+  - UFO-08
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：格拉韋爾參議員
+- term: Sheriff George Wilcox
+  senses:
+  - id: wilcox_sheriff
+    definition: Chavez 郡警長,接獲 Mack Brazel 報告的執法人員
+    preferred_translation: 喬治·威爾考克斯警長
+    episodes:
+    - UFO-11
+    - UFO-12
+  episodes:
+  - UFO-11
+  - UFO-12
+- term: Sighting
+  senses:
+  - id: sighting_ufo
+    definition: 目擊或觀察到 UFO 的經歷
+    preferred_translation: 目擊
+    episodes:
+    - UFO-05
+  - id: sighting_ufo_observation
+    definition: 目擊或觀察到 UFO 的經歷
+    preferred_translation: 目擊
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-06
+    - UFO-07
+    - UFO-08
+    - UFO-09
+    - UFO-13
+    - UFO-14
+    - UFO-15
+    - UFO-16
+    - UFO-17
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-08
+  - UFO-09
+  - UFO-13
+  - UFO-14
+  - UFO-15
+  - UFO-16
+  - UFO-17
+  notes: 廢棄譯名（校稿時發現請改正）：目擊事件
+- term: Stan Friedman
+  senses:
+  - id: friedman_nickname
+    definition: Stanton Friedman 的暱稱
+    preferred_translation: 史丹·弗里德曼
+    episodes:
+    - UFO-10
+  - id: friedman_researcher
+    definition: 核物理學家 Stanton Friedman 的簡稱
+    preferred_translation: 史丹·弗里德曼
+    episodes:
+    - UFO-11
+  episodes:
+  - UFO-10
+  - UFO-11
+  notes: 廢棄譯名（校稿時發現請改正）：史丹·佛烈德曼、史丹頓·佛烈德曼
+- term: Stanford Research Institute
+  senses:
+  - id: sri_research
+    definition: 史丹佛研究院
+    preferred_translation: 史丹佛研究院
+    episodes:
+    - UFO-06
+  - id: stanford_research_institute_org
+    definition: 史丹佛大學研究機構，進行遙視研究
+    preferred_translation: 史丹佛研究院
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-06
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：史丹佛研究所
+- term: Stanton Friedman
+  senses:
+  - id: friedman_physicist
+    definition: 核物理學家，MJ-12 文件研究專家
+    preferred_translation: 史丹頓·弗里德曼
+    episodes:
+    - UFO-10
+  - id: friedman_researcher
+    definition: 核物理學家，資深 UFO 研究者
+    preferred_translation: 史丹頓·弗里德曼
+    episodes:
+    - UFO-12
+    - UFO-17
+    - UFO-18
+  - id: stanton_friedman_researcher
+    definition: 核子物理學家，UFO 研究者，羅斯威爾事件專家
+    preferred_translation: 史丹頓·弗里德曼
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-10
+  - UFO-12
+  - UFO-17
+  - UFO-18
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：史丹頓·佛烈德曼、史坦頓·弗里德曼、斯坦頓·弗里德曼
+- term: swamp gas
+  senses:
+  - id: swamp_gas_debunk
+    definition: 「沼氣」，美國空軍用以揭穿UFO目擊的虛假解釋
+    preferred_translation: 沼氣
+    episodes:
+    - UFO-02
+  - id: swamp_gas_debunking
+    definition: 沼氣，UFO 的「揭穿」解釋之一
+    preferred_translation: 沼氣
+    episodes:
+    - UFO-20
+  - id: swamp_gas_explanation
+    definition: 沼澤氣體，軍方對 UFO 目擊的官方解釋術語
+    preferred_translation: 沼氣
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-02
+  - UFO-12
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：沼澤氣體
+- term: T. Townsend Brown
+  senses:
+  - id: brown_physicist
+    definition: 反重力研究先驅物理學家
+    preferred_translation: 湯森·布朗
+    episodes:
+    - UFO-03
+  - id: t_townsend_brown_inventor
+    definition: 美國物理學家，電重力學先驅
+    preferred_translation: 湯森·布朗
+    episodes:
+    - UFO-19
+  episodes:
+  - UFO-03
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：托馬斯·湯森·布朗
+- term: Telepathic
+  senses:
+  - id: telepathic_communication
+    definition: 透過心靈感應進行的溝通方式
+    preferred_translation: 心靈感應的
+    episodes:
+    - UFO-04
+    - UFO-08
+    - UFO-18
+    - UFO-19
+  episodes:
+  - UFO-04
+  - UFO-08
+  - UFO-18
+  - UFO-19
+  notes: 亦寫作：telepathic
+  also_written_as:
+  - telepathic
+- term: Theodore Shackley
+  senses:
+  - id: shackley_cia_officer
+    definition: CIA西貢站長
+    preferred_translation: 西奧多·沙克利
+    episodes:
+    - UFO-03
+    - UFO-20
+  episodes:
+  - UFO-03
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：西奧多·謝克利
+- term: Third kind cases
+  senses:
+  - id: ce3_cases
+    definition: 第三類接觸案例，涉及目擊外星實體
+    preferred_translation: 第三類接觸案例
+    episodes:
+    - UFO-16
+  - id: third_kind_ce3
+    definition: 第三類接觸案件
+    preferred_translation: 第三類接觸案例
+    episodes:
+    - UFO-15
+  episodes:
+  - UFO-15
+  - UFO-16
+  notes: 亦寫作：third kind cases；廢棄譯名（校稿時發現請改正）：第三類接觸案件
+  also_written_as:
+  - third kind cases
+- term: Top Secret
+  senses:
+  - id: top_secret_classification
+    definition: 最高等級的機密分類
+    preferred_translation: 最高機密
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-05
+    - UFO-06
+    - UFO-07
+    - UFO-10
+    - UFO-14
+    - UFO-15
+    - UFO-16
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-10
+  - UFO-14
+  - UFO-15
+  - UFO-16
+  - UFO-19
+- term: Truth Embargo
+  senses:
+  - id: truth_embargo_blockade
+    definition: 真相封鎖，對UFO資訊的系統性壓制
+    preferred_translation: 真相封鎖
+    episodes:
+    - UFO-06
+  - id: truth_embargo_concept
+    definition: 透過媒體控制與嘲笑文化維持的資訊封鎖
+    preferred_translation: 真相封鎖
+    episodes:
+    - UFO-04
+    - UFO-09
+    - UFO-18
+    - UFO-20
+  episodes:
+  - UFO-04
+  - UFO-06
+  - UFO-09
+  - UFO-18
+  - UFO-20
+  notes: 亦寫作：truth embargo
+  also_written_as:
+  - truth embargo
+- term: UAP
+  senses:
+  - id: uap_phenomenon
+    definition: Unidentified Aerial Phenomena，不明空中現象
+    preferred_translation: 不明空中現象
+    episodes:
+    - UFO-13
+    - UFO-15
+  episodes:
+  - UFO-13
+  - UFO-15
+- term: UFO
+  senses:
+  - id: ufo_craft
+    definition: Unidentified Flying Object，不明飛行物
+    preferred_translation: 不明飛行物
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-05
+    - UFO-06
+    - UFO-07
+    - UFO-08
+    - UFO-09
+    - UFO-10
+    - UFO-11
+    - UFO-12
+    - UFO-13
+    - UFO-14
+    - UFO-15
+    - UFO-16
+    - UFO-17
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-08
+  - UFO-09
+  - UFO-10
+  - UFO-11
+  - UFO-12
+  - UFO-13
+  - UFO-14
+  - UFO-15
+  - UFO-16
+  - UFO-17
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：不明飛行物（UFO）
+- term: United Nations
+  senses:
+  - id: organization
+    definition: 聯合國
+    preferred_translation: 聯合國
+    episodes:
+    - UFO-13
+  - id: un_organization
+    definition: 聯合國，國際組織
+    preferred_translation: 聯合國
+    episodes:
+    - UFO-02
+    - UFO-16
+  - id: united_nations
+    definition: 聯合國
+    preferred_translation: 聯合國
+    episodes:
+    - UFO-10
+  - id: united_nations_organization
+    definition: 聯合國
+    preferred_translation: 聯合國
+    episodes:
+    - UFO-12
+  episodes:
+  - UFO-02
+  - UFO-10
+  - UFO-12
+  - UFO-13
+  - UFO-16
+- term: United States Air Force
+  senses:
+  - id: usaf_branch
+    definition: 美國空軍
+    preferred_translation: 美國空軍
+    episodes:
+    - UFO-12
+    - UFO-20
+  episodes:
+  - UFO-12
+  - UFO-20
+- term: United States Army Air Corps
+  senses:
+  - id: usaac_historical
+    definition: 美國陸軍航空隊（空軍前身）
+    preferred_translation: 美國陸軍航空隊
+    episodes:
+    - UFO-12
+  - id: usaac_military
+    definition: 美國陸軍航空隊,空軍獨立前的名稱
+    preferred_translation: 美國陸軍航空隊
+    episodes:
+    - UFO-11
+  episodes:
+  - UFO-11
+  - UFO-12
+- term: USAAF
+  senses:
+  - id: usaaf_airforce
+    definition: United States Army Air Forces，美國陸軍航空軍（1947 年前的稱呼）
+    preferred_translation: 美國陸軍航空軍
+    episodes:
+    - UFO-05
+  - id: usaaf_forces
+    definition: United States Army Air Forces，美國陸軍航空軍（現為美國空軍）
+    preferred_translation: 美國陸軍航空軍
+    episodes:
+    - UFO-06
+  episodes:
+  - UFO-05
+  - UFO-06
+- term: Veterans Administration
+  senses:
+  - id: va_agency
+    definition: 美國退伍軍人事務部（簡稱 VA）
+    preferred_translation: 退伍軍人事務部
+    episodes:
+    - UFO-05
+  - id: va_healthcare
+    definition: 美國退伍軍人事務部
+    preferred_translation: 退伍軍人事務部
+    episodes:
+    - UFO-06
+  episodes:
+  - UFO-05
+  - UFO-06
+- term: Veterans Affairs Administration
+  senses:
+  - id: va_administration
+    definition: 美國退伍軍人事務管理局
+    preferred_translation: 退伍軍人事務管理局
+    episodes:
+    - UFO-20
+  - id: vaa_full_name
+    definition: 退伍軍人事務管理局（VA 的完整名稱）
+    preferred_translation: 退伍軍人事務管理局
+    episodes:
+    - UFO-05
+  episodes:
+  - UFO-05
+  - UFO-20
+- term: War of the Worlds
+  senses:
+  - id: war_of_worlds_broadcast
+    definition: 《世界大戰》，1938年Orson Welles的著名廣播劇
+    preferred_translation: 《世界大戰》
+    episodes:
+    - UFO-06
+  - id: war_worlds_broadcast
+    definition: 1938 年奧森·威爾斯廣播劇《世界大戰》，引發恐慌
+    preferred_translation: 《世界大戰》
+    episodes:
+    - UFO-18
+    - UFO-20
+  episodes:
+  - UFO-06
+  - UFO-18
+  - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：世界大戰（無書名號）
+- term: Webster Hubbell
+  senses:
+  - id: hubbell_official
+    definition: 柯林頓政府司法部副部長
+    preferred_translation: 韋伯斯特·哈貝爾
+    episodes:
+    - UFO-03
+    - UFO-04
+  episodes:
+  - UFO-03
+  - UFO-04
+- term: Wilbert B. Smith
+  senses:
+  - id: smith_canadian_engineer
+    definition: 加拿大交通部無線電規範總監，加拿大UFO調查負責人
+    preferred_translation: 威爾伯特·B·史密斯
+    episodes:
+    - UFO-15
+  - id: smith_engineer
+    definition: 加拿大工程師，Project Magnet 負責人
+    preferred_translation: 威爾伯特·B·史密斯
+    episodes:
+    - UFO-10
+  episodes:
+  - UFO-10
+  - UFO-15
+  notes: 廢棄譯名（校稿時發現請改正）：威爾伯特·史密斯
+- term: Witness
+  senses:
+  - id: witness_testimony
+    definition: 提供證詞或目擊報告的證人
+    preferred_translation: 證人
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-04
+    - UFO-05
+    - UFO-06
+    - UFO-07
+    - UFO-09
+    - UFO-10
+    - UFO-11
+    - UFO-12
+    - UFO-14
+    - UFO-15
+    - UFO-16
+    - UFO-17
+    - UFO-19
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-04
+  - UFO-05
+  - UFO-06
+  - UFO-07
+  - UFO-09
+  - UFO-10
+  - UFO-11
+  - UFO-12
+  - UFO-14
+  - UFO-15
+  - UFO-16
+  - UFO-17
+  - UFO-19
+- term: Wright Field
+  senses:
+  - id: wright_field_base
+    definition: 俄亥俄州代頓的空軍基地,後改名 Wright-Patterson 空軍基地
+    preferred_translation: 萊特機場
+    episodes:
+    - UFO-11
+  - id: wright_field_location
+    definition: 萊特機場，俄亥俄州代頓市附近的美國空軍設施
+    preferred_translation: 萊特機場
+    episodes:
+    - UFO-20
+  - id: wright_field_ohio
+    definition: 萊特機場（俄亥俄州代頓），後併入萊特-帕特森空軍基地
+    preferred_translation: 萊特機場
+    episodes:
+    - UFO-08
+  episodes:
+  - UFO-08
+  - UFO-11
+  - UFO-20
+- term: Wright-Patterson Air Force Base
+  senses:
+  - id: wright_patterson_afb
+    definition: 俄亥俄州代頓市附近的美國空軍基地
+    preferred_translation: 萊特-帕特森空軍基地
+    episodes:
+    - UFO-01
+    - UFO-02
+    - UFO-03
+    - UFO-11
+    - UFO-12
+    - UFO-15
+  episodes:
+  - UFO-01
+  - UFO-02
+  - UFO-03
+  - UFO-11
+  - UFO-12
+  - UFO-15

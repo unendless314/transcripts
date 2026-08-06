@@ -3,10 +3,10 @@ terms:
   # ===== A =====
   - term: Ancient Aliens
     senses:
-      - id: ancient_aliens_theory
-        definition: 遠古文明與外星種族互動的理論或概念
-        preferred_translation: 遠古外星人
-        notes: 指史前時期可能的外星訪問與文明影響
+      - id: ancient_aliens_show
+        definition: 《遠古外星人》電視節目（History Channel）
+        preferred_translation: 《遠古外星人》
+        notes: segment 453 與 UFO Hunters 並列，指 History Channel 電視節目，故加書名號
         segments: [453]
 
   - term: Amazon River
@@ -54,9 +54,9 @@ terms:
   - term: CEFORA
     senses:
       - id: cefora_argentina
-        definition: 阿根廷共和國UFO現象研究委員會
+        definition: Comisión de Estudio del Fenómeno OVNI de la República Argentina，阿根廷民間 UFO 研究傘狀組織
         preferred_translation: CEFORA（阿根廷UFO研究委員會）
-        notes: 阿根廷民間UFO研究組織，協助政府推動解密
+        notes: 2009 年由多個阿根廷 UFO 研究團體聯合組成，Silvia Pérez Simondini 主持；協助政府推動解密
         segments: [14]
 
   - term: Chulucan incident
@@ -71,7 +71,7 @@ terms:
     senses:
       - id: cia_agency
         definition: Central Intelligence Agency，美國中央情報局
-        preferred_translation: CIA（中央情報局）
+        preferred_translation: CIA
         notes: 美國主要情報機構，證人提及CIA透過國防武官辦公室監控國際UFO事件（segments 189, 301, 372, 373, 386, 411）
         segments: [189, 301, 372, 373, 386, 411]
 
@@ -95,7 +95,7 @@ terms:
     senses:
       - id: congresswoman_woolsey_official
         definition: 美國國會議員，聽證會主持者之一
-        preferred_translation: 伍爾西議員
+        preferred_translation: 伍爾西眾議員
         notes: 本集聽證會提問的國會議員
         segments: [2, 12, 23, 33]
 
@@ -202,7 +202,7 @@ terms:
     senses:
       - id: foia_law
         definition: Freedom of Information Act，美國資訊自由法
-        preferred_translation: 資訊自由法
+        preferred_translation: 資訊自由法（FOIA）
         notes: 用於申請政府解密UFO相關文件的法律
         segments: [387]
 
@@ -296,7 +296,7 @@ terms:
     senses:
       - id: ms_kilpatrick_official
         definition: 美國國會議員，聽證會主持者之一
-        preferred_translation: 基爾帕特里克議員
+        preferred_translation: 基爾派翠克眾議員
         notes: 本集聽證會提問美國與南美政府資訊交流的國會議員
         segments: [122]
 
@@ -305,7 +305,7 @@ terms:
     senses:
       - id: narcap_org
         definition: National Aviation Research Center for Anomalous Phenomena
-        preferred_translation: NARCAP（國家航空異常現象研究中心）
+        preferred_translation: NARCAP（國家航空異常現象報告中心）
         notes: 美國非政府航空研究組織，智利CEFAA的合作夥伴
         segments: [189, 195, 199]
 
@@ -337,9 +337,9 @@ terms:
     senses:
       - id: nsa_agency
         definition: 美國國家安全局
-        preferred_translation: NSA（國家安全局）
-        notes: 出現在1980年國防部備忘錄收件者名單中
-        segments: [315]
+        preferred_translation: 國家安全局
+        notes: 出現在1980年國防部備忘錄收件者名單中；全名譯「國家安全局」，不加縮寫標註
+        segments: [301]
 
   # ===== O =====
   - term: Operation Saucer
@@ -445,7 +445,7 @@ terms:
     senses:
       - id: thirty_mm_shells_weapon
         definition: 30毫米炮彈
-        preferred_translation: 30毫米炮彈
+        preferred_translation: 30 毫米炮彈
         notes: 聖瑪利亞上校的戰機配備的武器，可摧毀卡車但對UFO無效
         segments: [323, 325]
 

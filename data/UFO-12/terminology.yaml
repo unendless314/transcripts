@@ -143,7 +143,7 @@ terms:
     senses:
       - id: schiff_congressman_full
         definition: 前美國眾議員，要求 GAO 調查羅斯威爾事件（全名）
-        preferred_translation: 史蒂文·希夫眾議員
+        preferred_translation: 史蒂芬·希夫眾議員
         segments: [125]
         notes: 推動 GAO 調查，發現羅斯威爾基地1947年夏季所有記錄被銷毀
 
@@ -177,8 +177,13 @@ terms:
       - id: disclosure_truth
         definition: 公開揭露 UFO 與外星接觸的真相
         preferred_translation: 真相揭露
-        segments: [81, 125]
-        notes: 研究者請求評審小組建議如何推動羅斯威爾案真相揭露。Segment 81 中作為 "non-disclosure" 出現
+        segments: [125]
+        notes: 研究者請求評審小組建議如何推動羅斯威爾案真相揭露
+      - id: disclosure_nda
+        definition: 保密協議（non-disclosure agreement）
+        preferred_translation: 保密協議
+        segments: [81]
+        notes: Segment 81 中作為 "non-disclosure" 出現，指證人需遵守的保密義務，字幕譯為「保密協議」
 
   - term: Dr. Albert Crary's diary
     senses:
@@ -242,7 +247,7 @@ terms:
     senses:
       - id: faa_aviation_administration
         definition: Federal Aviation Administration，美國聯邦航空管理局
-        preferred_translation: 聯邦航空管理局
+        preferred_translation: 聯邦航空總署（FAA）
         segments: [272, 274]
         notes: Project Mogul 未向 FAA 申報飛行通知，成為爭議點
 
@@ -274,7 +279,7 @@ terms:
     senses:
       - id: foreign_tech_division
         definition: 萊特-帕特森空軍基地的外星科技部門
-        preferred_translation: 外星科技部門
+        preferred_translation: 外國技術部門
         segments: [30]
         notes: 由 Colonel Paul Sleeper 主管，接收 UFO 殘骸和遺體
 
@@ -299,7 +304,7 @@ terms:
     senses:
       - id: gao_office
         definition: General Accounting Office，美國總審計辦公室（簡稱）
-        preferred_translation: 總審計辦公室
+        preferred_translation: 美國審計總署（GAO）
         segments: [155]
         notes: 在 Congressman Schiff 要求下調查羅斯威爾，發現記錄被銷毀
 
@@ -307,7 +312,7 @@ terms:
     senses:
       - id: gao_full_name
         definition: 美國總審計辦公室（全名）
-        preferred_translation: 總審計辦公室
+        preferred_translation: 美國審計總署
         segments: [154]
         notes: Congressman Schiff 透過此機構要求調查羅斯威爾記錄
 
@@ -433,7 +438,7 @@ terms:
     senses:
       - id: nsc_council
         definition: 美國國家安全委員會
-        preferred_translation: 國家安全委員會
+        preferred_translation: 國家安全會議
         segments: [439]
         notes: 1950年代初期備忘錄顯示對蘇聯核武進展的擔憂
 
@@ -533,7 +538,7 @@ terms:
     senses:
       - id: friedman_researcher
         definition: 核物理學家，資深 UFO 研究者
-        preferred_translation: 史丹頓·佛烈德曼
+        preferred_translation: 史丹頓·弗里德曼
         segments: [81, 113]
         notes: 《Crash at Corona》作者，系統性駁斥 Project Mogul 解釋
 
@@ -549,7 +554,7 @@ terms:
     senses:
       - id: swamp_gas_explanation
         definition: 沼澤氣體，軍方對 UFO 目擊的官方解釋術語
-        preferred_translation: 沼澤氣體
+        preferred_translation: 沼氣
         segments: [32]
         notes: Colonel French 在 OSI 時期被要求用此解釋 Gulf Breeze 的 UFO 目擊
 

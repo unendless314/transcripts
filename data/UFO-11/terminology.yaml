@@ -39,7 +39,7 @@ terms:
     senses:
       - id: cic_counterintelligence
         definition: Counter Intelligence Corps,美國陸軍反情報部隊
-        preferred_translation: 反情報部隊
+        preferred_translation: 反情報部隊（CIC）
         segments: [882, 883]
         notes: 負責軍事情報與反間諜工作
 
@@ -346,7 +346,7 @@ terms:
     senses:
       - id: friedman_researcher
         definition: 核物理學家 Stanton Friedman 的簡稱
-        preferred_translation: 史丹·佛烈德曼
+        preferred_translation: 史丹·弗里德曼
         segments: [364]
         notes: 1978 年首次訪問 Major Jesse Marcel,開啟 Roswell 調查
 

@@ -68,7 +68,7 @@ terms:
   senses:
   - id: foia_law
     definition: Freedom of Information Act，美國資訊自由法
-    preferred_translation: 資訊自由法
+    preferred_translation: 資訊自由法（FOIA）
     segments:
     - 251
     - 485
@@ -77,8 +77,8 @@ terms:
 - term: MUFON
   senses:
   - id: mufon_network
-    definition: Mutual UFO Network，UFO 互動網絡
-    preferred_translation: MUFON（UFO 互動網絡）
+    definition: Mutual UFO Network，UFO 互動網路
+    preferred_translation: MUFON（UFO 互動網路）
     segments:
     - 400
     - 597
@@ -176,7 +176,7 @@ terms:
 - term: Captain Robert Salas
   senses:
   - id: salas_witness
-    definition: 前美國空軍導彈發射官，1967年於Malmstrom空軍基地遭遇UFO導致導彈關閉事件的證人
+    definition: 前美國空軍飛彈發射官，1967年於Malmstrom空軍基地遭遇UFO導致飛彈關閉事件的證人
     preferred_translation: 羅伯特·薩拉斯上尉
     segments:
     - 8
@@ -184,16 +184,16 @@ terms:
 - term: Malmstrom Air Force Base
   senses:
   - id: malmstrom_afb
-    definition: 蒙大拿州馬姆斯特羅姆空軍基地，美國戰略導彈基地
+    definition: 蒙大拿州馬姆斯特羅姆空軍基地，美國戰略飛彈基地
     preferred_translation: 馬姆斯特羅姆空軍基地
     segments:
     - 14
-    notes: 1967年發生Oscar與Echo Flight導彈關閉事件
+    notes: 1967年發生Oscar與Echo Flight飛彈關閉事件
 - term: Minuteman I intercontinental ballistic missile
   senses:
   - id: minuteman_i_icbm
-    definition: 民兵一型洲際彈道導彈，美國1960年代核武主力
-    preferred_translation: 民兵一型洲際彈道導彈
+    definition: 民兵一型洲際彈道飛彈，美國1960年代核武主力
+    preferred_translation: 民兵一型洲際彈道飛彈
     segments:
     - 15
     notes: Oscar與Echo Flight配備此型號，1967年事件中十枚同時失效
@@ -204,7 +204,7 @@ terms:
     preferred_translation: Oscar發射控制中心
     segments:
     - 20
-    notes: 1967年3月24日Salas上尉值勤地點，十枚導彈關閉事件發生處
+    notes: 1967年3月24日Salas上尉值勤地點，十枚飛彈關閉事件發生處
 - term: Wing Command post
   senses:
   - id: wing_command_post
@@ -213,11 +213,11 @@ terms:
     segments:
     - 42
     - 46
-    notes: 負責整個導彈聯隊的指揮中樞
+    notes: 負責整個飛彈聯隊的指揮中樞
 - term: Echo flight incident
   senses:
   - id: echo_flight_incident
-    definition: 1967年3月16日Malmstrom空軍基地Echo Flight的十枚導彈關閉事件
+    definition: 1967年3月16日Malmstrom空軍基地Echo Flight的十枚飛彈關閉事件
     preferred_translation: Echo飛行中隊事件
     segments:
     - 47
@@ -234,7 +234,7 @@ terms:
 - term: logic coupler
   senses:
   - id: logic_coupler
-    definition: 導彈導引與控制系統的邏輯耦合器
+    definition: 飛彈導引與控制系統的邏輯耦合器
     preferred_translation: 邏輯耦合器
     segments:
     - 130
@@ -255,7 +255,7 @@ terms:
     - 686
     - 688
     - 689
-    notes: 由Edward Condon領導，也稱Condon investigation、Condon team，最終產出Condon Report（康登報告）。空軍刻意隱瞞Malmstrom導彈事件，未向該委員會揭露真相
+    notes: 由Edward Condon領導，也稱Condon investigation、Condon team，最終產出Condon Report（康登報告）。空軍刻意隱瞞Malmstrom飛彈事件，未向該委員會揭露真相
 - term: Dr. Roy Craig
   senses:
   - id: craig_investigator
@@ -275,7 +275,7 @@ terms:
 - term: Minot Air Force Base
   senses:
   - id: minot_afb
-    definition: 北達科他州邁諾特空軍基地，美國戰略導彈基地
+    definition: 北達科他州邁諾特空軍基地，美國戰略飛彈基地
     preferred_translation: 邁諾特空軍基地
     segments:
     - 187
@@ -285,8 +285,8 @@ terms:
 - term: Minuteman ICBM
   senses:
   - id: minuteman_icbm
-    definition: 民兵系列洲際彈道導彈（通稱）
-    preferred_translation: 民兵導彈
+    definition: 民兵系列洲際彈道飛彈（通稱）
+    preferred_translation: 民兵飛彈
     segments:
     - 191
     notes: 美國冷戰時期核嚇阻武器主力
@@ -300,7 +300,7 @@ terms:
     - 196
     - 198
     - 229
-    notes: 1966年導彈關閉事件發生單位，Scindelli上尉所屬
+    notes: 1966年飛彈關閉事件發生單位，Scindelli上尉所屬
 - term: Mohall, North Dakota
   senses:
   - id: mohall_town
@@ -312,7 +312,7 @@ terms:
 - term: launch control facility
   senses:
   - id: lcf
-    definition: 導彈發射控制設施
+    definition: 飛彈發射控制設施
     preferred_translation: 發射控制設施
     segments:
     - 194
@@ -337,7 +337,7 @@ terms:
     preferred_translation: 電磁脈衝
     segments:
     - 228
-    notes: 證人推測UFO可能使用此技術導致導彈失效
+    notes: 證人推測UFO可能使用此技術導致飛彈失效
 - term: Dr. J. Allen Hynek
   senses:
   - id: hynek_astronomer
@@ -374,7 +374,7 @@ terms:
   senses:
   - id: 91st_missile_security
     definition: 第91飛彈安全中隊
-    preferred_translation: 第91飛彈安全中隊
+    preferred_translation: 第 91 飛彈安全中隊
     segments:
     - 265
     notes: Scott士官所屬單位
@@ -382,14 +382,14 @@ terms:
   senses:
   - id: alpha_1_lcf
     definition: Alpha 1發射控制設施
-    preferred_translation: Alpha 1發射控制設施
+    preferred_translation: Alpha 1 發射控制設施
     segments:
     - 266
     notes: Scott士官1974年值勤地點
 - term: security alert team
   senses:
   - id: sat
-    definition: 導彈基地安全警戒小組，武裝巡邏隊
+    definition: 飛彈基地安全警戒小組，武裝巡邏隊
     preferred_translation: 安全警戒小組
     segments:
     - 266
@@ -398,7 +398,7 @@ terms:
 - term: flight security controller
   senses:
   - id: fsc
-    definition: 導彈飛行中隊安全管制員
+    definition: 飛彈飛行中隊安全管制員
     preferred_translation: 飛行安全管制員
     segments:
     - 277
@@ -422,8 +422,8 @@ terms:
 - term: Minuteman III
   senses:
   - id: minuteman_iii
-    definition: 民兵三型洲際彈道導彈
-    preferred_translation: 民兵三型洲際彈道導彈
+    definition: 民兵三型洲際彈道飛彈
+    preferred_translation: 民兵三型洲際彈道飛彈
     segments:
     - 308
     notes: Fenstermacher上尉於F.E. Warren基地負責此型號
@@ -434,12 +434,12 @@ terms:
     preferred_translation: F.E. Warren空軍基地
     segments:
     - 309
-    notes: 1976年Fenstermacher上尉目擊雪茄狀UFO懸停於導彈設施上空
+    notes: 1976年Fenstermacher上尉目擊雪茄狀UFO懸停於飛彈設施上空
 - term: 400th Strategic Missile Squadron
   senses:
   - id: 400th_strategic_missile
     definition: 第400戰略飛彈中隊
-    preferred_translation: 第400戰略飛彈中隊
+    preferred_translation: 第 400 戰略飛彈中隊
     segments:
     - 309
     notes: Fenstermacher上尉所屬單位
@@ -552,12 +552,12 @@ terms:
     - 546
     - 571
     - 616
-    notes: 蘇聯導彈基地也發生類似UFO事件，1982年UFO啟動導彈發射序列
+    notes: 蘇聯飛彈基地也發生類似UFO事件，1982年UFO啟動飛彈發射序列
 - term: ICBMs
   senses:
   - id: icbms
-    definition: 洲際彈道導彈（複數形式）
-    preferred_translation: 洲際彈道導彈
+    definition: 洲際彈道飛彈（複數形式）
+    preferred_translation: 洲際彈道飛彈
     segments:
     - 567
     notes: ICBM的複數形式

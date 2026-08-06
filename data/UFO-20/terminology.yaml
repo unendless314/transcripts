@@ -137,7 +137,7 @@ terms:
     senses:
       - id: nato_alliance
         definition: North Atlantic Treaty Organization，北大西洋公約組織
-        preferred_translation: 北約
+        preferred_translation: 北約（NATO）
         notes: Paul Hellyer 提及 1960 年代北約曾調查 UFO 事件，得出至少四種外星種族造訪地球的結論
         segments: [15]
         topics: [topic_02]
@@ -267,7 +267,7 @@ terms:
     senses:
       - id: gravel_senator_panel
         definition: 阿拉斯加州聯邦參議員，本聽證會小組成員
-        preferred_translation: 格拉韋爾參議員
+        preferred_translation: 格拉維爾參議員
         notes: 本集閉幕陳述中最直言不諱的小組成員，批評代議政府並倡導直接民主
         segments: [147, 149]
         topics: [topic_07]
@@ -294,7 +294,7 @@ terms:
     senses:
       - id: bookman_physician_panel
         definition: 醫師，本聽證會小組成員
-        preferred_translation: 布克曼醫師
+        preferred_translation: 布克曼博士
         notes: 小組成員之一，聽證會中擔任主持角色
         segments: [74, 88]
         topics: [topic_04, topic_05]
@@ -410,7 +410,7 @@ terms:
     senses:
       - id: silkwood_case_legal
         definition: 凱倫·西爾克伍德案，核工業舉報人謀殺案
-        preferred_translation: 凱倫·西爾克伍德案
+        preferred_translation: 凱倫·絲克伍案
         notes: Daniel Sheehan 處理的另一重大案件
         segments: [60]
         topics: [topic_04]
@@ -437,7 +437,7 @@ terms:
     senses:
       - id: mj12_group_mentioned
         definition: 傳說中的秘密政府 UFO 調查組織
-        preferred_translation: MJ-12 組織
+        preferred_translation: Majestic 12 小組（MJ-12）
         notes: Daniel Sheehan 提及，認為 Truman 在羅斯威爾後成立，已將 UFO 議題置於憲法監督之外
         segments: [65]
         topics: [topic_04]
@@ -455,7 +455,7 @@ terms:
     senses:
       - id: war_worlds_broadcast
         definition: 世界大戰，1938 年奧森·威爾斯廣播劇
-        preferred_translation: 世界大戰
+        preferred_translation: 《世界大戰》
         notes: 小組成員提及，用於說明公眾對外星生命消息的恐慌反應
         segments: [132]
         topics: [topic_07]

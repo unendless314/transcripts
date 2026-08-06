@@ -229,7 +229,7 @@ terms:
     senses:
       - id: ebe_entity
         definition: 外星生物實體
-        preferred_translation: 外星生物實體
+        preferred_translation: 外星生物實體（EBE）
         segments: []
 
   - term: Edwards Air Force Base
@@ -271,7 +271,7 @@ terms:
     senses:
       - id: executive_order_12958_decree
         definition: 柯林頓總統1995年簽署的解密行政命令
-        preferred_translation: 行政命令12958
+        preferred_translation: 行政命令 12958
         segments: []
 
   - term: Extraterrestrial
@@ -437,7 +437,7 @@ terms:
     senses:
       - id: james_e_mcdonald_scientist
         definition: 亞利桑那大學大氣物理學家，UFO 研究者
-        preferred_translation: 詹姆斯·麥克唐納博士
+        preferred_translation: 詹姆斯·E·麥克唐納博士
         segments: [29, 41, 43]
 
   - term: Jane's Defense Weekly
@@ -524,7 +524,7 @@ terms:
     senses:
       - id: mcdonnell_douglas_company
         definition: 美國航空航太公司，由道格拉斯和麥克唐納合併而成
-        preferred_translation: 麥克唐納道格拉斯公司
+        preferred_translation: 麥克唐納-道格拉斯公司
         segments: [20, 26, 45, 52]
 
   - term: military-industrial-congressional complex
@@ -544,8 +544,8 @@ terms:
   - term: MUFON
     senses:
       - id: mufon_network
-        definition: Mutual UFO Network，UFO 互動網絡
-        preferred_translation: MUFON（UFO 互動網絡）
+        definition: Mutual UFO Network，UFO 互動網路
+        preferred_translation: MUFON（UFO 互動網路）
         segments: [31, 50, 51]
 
   # ===== N =====
@@ -553,7 +553,7 @@ terms:
     senses:
       - id: national_reconnaissance_office_agency
         definition: 美國國家偵察局，負責衛星情報
-        preferred_translation: 國家偵察局
+        preferred_translation: 國家偵察局（NRO）
         notes: 簡稱 NRO
         segments: [247, 250]
 
@@ -627,7 +627,7 @@ terms:
     senses:
       - id: pine_gap_facility
         definition: 澳洲的衛星地面站和監測設施
-        preferred_translation: 松樹谷
+        preferred_translation: 松峽基地
         segments: [141, 142]
 
   - term: Project Blue Book
@@ -706,14 +706,14 @@ terms:
     senses:
       - id: stanton_friedman_researcher
         definition: 核子物理學家，UFO 研究者，羅斯威爾事件專家
-        preferred_translation: 斯坦頓·弗里德曼
+        preferred_translation: 史丹頓·弗里德曼
         segments: [24]
 
   - term: Stanford Research Institute
     senses:
       - id: stanford_research_institute_org
         definition: 史丹佛大學研究機構，進行遙視研究
-        preferred_translation: 史丹佛研究所
+        preferred_translation: 史丹佛研究院
         segments: [53, 54]
 
   - term: Stan Meyer

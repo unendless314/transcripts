@@ -87,7 +87,7 @@ terms:
   senses:
   - id: foia_law
     definition: Freedom of Information Act，美國資訊自由法
-    preferred_translation: 資訊自由法
+    preferred_translation: 資訊自由法（FOIA）
     notes: 首次出現使用全名，後續可簡稱 FOIA
     segments:
     - 470
@@ -290,7 +290,7 @@ terms:
   senses:
   - id: bartlett_congressman
     definition: 巴特萊特博士，參與聽證會的國會議員
-    preferred_translation: 巴特萊特博士
+    preferred_translation: 巴特利特博士
     notes: 本集提問者之一
     segments:
     - 79
@@ -341,7 +341,7 @@ terms:
   senses:
   - id: cefa_chile
     definition: Comité de Estudios de Fenómenos Aéreos，智利空中現象研究委員會
-    preferred_translation: 智利空中現象研究委員會（CEFA）
+    preferred_translation: 異常空中現象研究委員會（CEFA）
     notes: 智利空軍的官方UFO調查機構
     segments:
     - 140
@@ -357,7 +357,7 @@ terms:
   senses:
   - id: f4_phantom
     definition: F-4幽靈戰鬥機
-    preferred_translation: F-4幽靈戰機
+    preferred_translation: F-4 幽靈戰鬥機
     notes: 1976年德黑蘭UFO事件中使用的戰鬥機型
     segments:
     - 171
@@ -532,10 +532,10 @@ terms:
     - 494
 - term: Reparto Generale Sicurezza
   senses:
-  - id: rgs_italy
-    definition: 義大利國防部情報單位
-    preferred_translation: 義大利國防情報局
-    notes: 義大利軍方情報機構
+  - id: rgs_italian_airforce
+    definition: 義大利空軍安全部門
+    preferred_translation: 安全部門
+    notes: 義大利空軍參謀部（Stato Maggiore Aeronautica）轄下單位，負責UFO監測；非國防情報局（SISMI/AISE）
     segments:
     - 562
 - term: United Nations

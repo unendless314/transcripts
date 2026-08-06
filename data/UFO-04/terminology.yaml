@@ -225,7 +225,7 @@ terms:
     senses:
       - id: eo_12958_clinton
         definition: 柯林頓總統1995年簽署的解密行政命令
-        preferred_translation: 行政命令12958
+        preferred_translation: 行政命令 12958
         segments: [56]
         notes: 解密了8億頁文件，但 UFO 文件仍未公開
 
@@ -616,7 +616,7 @@ terms:
     senses:
       - id: wsfm_cia_term
         definition: CIA 內部術語，代表「Weird Science and Fricking Magic」（詭異科學與魔法）
-        preferred_translation: 詭異科學與魔法 (WSFM)
+        preferred_translation: 詭異科學與魔法（WSFM）
         segments: [118]
         notes: CIA 人員用以形容先進外星科技看似魔法的現象，首次出現時可加註 "WSFM" 縮寫
 
@@ -633,7 +633,7 @@ terms:
     senses:
       - id: 60_minutes_show
         definition: CBS 電視新聞雜誌節目《60分鐘》
-        preferred_translation: 《60分鐘》
+        preferred_translation: 《60 分鐘》
         segments: [178, 185]
         notes: Mike Wallace 的節目，UFO 報導被 CBS 管理層阻止
 

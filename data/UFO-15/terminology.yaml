@@ -26,7 +26,7 @@ terms:
       - id: ancient_aliens_theory
         definition: 遠古文明與外星種族互動的理論或概念
         preferred_translation: 遠古外星人
-        notes: 指史前時期可能的外星訪問與文明影響
+        notes: 指史前時期可能的外星訪問與文明影響；segment 119 為普通名詞用法（古代外星人的玉雕像），非節目名稱，不加書名號
         segments: [119]
 
   # ===== B =====
@@ -100,7 +100,7 @@ terms:
     senses:
       - id: directed_energy_weapon
         definition: 定向能武器，利用集中能量束作為武器的技術
-        preferred_translation: 定向能源武器
+        preferred_translation: 定向能武器
         notes: 指利用雷射、微波等集中能量束的武器系統
         segments: [264]
 
@@ -116,7 +116,7 @@ terms:
     senses:
       - id: walker_engineer
         definition: 賓州州立大學前校長，國防分析研究所所長
-        preferred_translation: 埃里克·沃克博士
+        preferred_translation: 艾瑞克·沃克博士
         notes: 被 Sarbacher 指認為參與飛碟回收計畫的關鍵人物
         segments: [214, 216]
 
@@ -174,7 +174,7 @@ terms:
     senses:
       - id: foo_fighters_ww2
         definition: 二戰期間飛行員報告的神秘飛行物體
-        preferred_translation: 幽靈戰鬥機（Foo Fighters）
+        preferred_translation: 幽浮光球（Foo Fighters）
         notes: 首次出現保留原文加註，後續可用中文
         segments: [400]
 
@@ -283,8 +283,8 @@ terms:
   - term: MUFON
     senses:
       - id: mufon_network
-        definition: Mutual UFO Network，UFO 互動網絡
-        preferred_translation: MUFON（UFO 互動網絡）
+        definition: Mutual UFO Network，UFO 互動網路
+        preferred_translation: MUFON（UFO 互動網路）
         notes: 全球最大的UFO研究組織之一
         segments: [30]
 
@@ -367,16 +367,16 @@ terms:
     senses:
       - id: rendlesham_forest_uk
         definition: 1980年12月英國空軍基地附近的UFO事件
-        preferred_translation: 倫德爾沙姆森林事件
+        preferred_translation: 藍道申森林事件
         notes: 英國最著名的UFO事件，又稱本特沃特斯事件
         segments: [256]
 
   - term: Reparto Generale Sicurezza
     senses:
       - id: rgs_italian_airforce
-        definition: 意大利空軍安全總部
-        preferred_translation: 安全總部
-        notes: 意大利空軍負責UFO監測的部門
+        definition: 義大利空軍安全部門
+        preferred_translation: 安全部門
+        notes: 義大利空軍參謀部（Stato Maggiore Aeronautica）轄下單位，負責UFO監測；非國防情報局（SISMI/AISE）
         segments: [36, 50]
 
   - term: Research and Development Board
@@ -408,7 +408,7 @@ terms:
     senses:
       - id: salyut6_station
         definition: 蘇聯禮炮6號太空站
-        preferred_translation: 禮炮6號太空站
+        preferred_translation: 禮炮 6 號太空站
         notes: 1981年太空人 Vladimir Kovalyonok 在此目擊UFO
         segments: [349]
 
@@ -457,7 +457,7 @@ terms:
     senses:
       - id: third_kind_ce3
         definition: 第三類接觸案件
-        preferred_translation: 第三類接觸案件
+        preferred_translation: 第三類接觸案例
         notes: 指目擊UFO乘員的案例，如鳳凰山、曹公事件等
         segments: [113]
 
@@ -548,7 +548,7 @@ terms:
     senses:
       - id: smith_canadian_engineer
         definition: 加拿大交通部無線電規範總監，加拿大UFO調查負責人
-        preferred_translation: 威爾伯特·史密斯
+        preferred_translation: 威爾伯特·B·史密斯
         notes: 1950年代加拿大官方UFO調查負責人
         segments: [154, 426, 429]
 

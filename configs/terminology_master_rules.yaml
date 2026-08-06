@@ -1,0 +1,89 @@
+# Terminology Master 人工判斷規則
+#
+# 供 tools/build_terminology_master.py 產生 configs/terminology_master.yaml 時套用。
+# 把人工判斷集中在這個可審核的 YAML，避免藏在產生器程式碼裡被無聲套用。
+#
+# 三個區段（key 皆為 normalized term：小寫、壓縮空白）：
+#   deprecated         - 2026-08 校稿統一前的廢棄譯名，供校稿時全文搜尋，發現舊寫法應改為標準譯名
+#   contextual         - 刻意保留的語境差異說明（這些不算不一致）
+#   needs_verification - 譯名依集數原始研究保留，但準確性待查證
+#
+# 修改本檔後請重新執行：PYTHONPATH=. python3 tools/build_terminology_master.py --force
+
+deprecated:
+  stanton friedman: ["史丹頓·佛烈德曼", "史坦頓·弗里德曼", "斯坦頓·弗里德曼"]
+  stan friedman: ["史丹·佛烈德曼", "史丹頓·佛烈德曼"]
+  senator gravel: ["格拉韋爾參議員"]
+  colonel halt: ["霍爾特上校"]
+  lieutenant colonel richard french: ["理查德·法蘭奇中校"]
+  congressman steven schiff: ["史蒂文·希夫眾議員"]
+  congressman stephen schiff: ["史蒂文·希夫眾議員"]
+  dr. vannevar bush: ["萬尼瓦爾·布什博士"]
+  dr. eric walker: ["埃里克·沃克博士"]
+  karen silkwood case: ["凱倫·西爾克伍德案"]
+  theodore shackley: ["西奧多·謝克利"]
+  jim courant: ["吉姆·庫朗"]
+  ms. kilpatrick: ["基爾帕特里克議員"]
+  dr. bartlett: ["巴特萊特博士"]
+  congresswoman woolsey: ["伍爾西議員"]
+  congresswoman hooley: ["胡利女眾議員"]
+  general gabriel: ["加百列將軍"]
+  lord hill norton: ["彼得·希爾-諾頓勳爵", "希爾·諾頓勳爵"]
+  t. townsend brown: ["托馬斯·湯森·布朗"]
+  rendlesham forest incident: ["倫德爾沙姆森林事件"]
+  icbms: ["洲際彈道導彈"]
+  national security council: ["國家安全委員會"]
+  mufon: ["MUFON（UFO 互動網絡）", "MUFON(UFO互動網絡)"]
+  mutual ufo network: ["UFO互動網絡", "UFO 互動網絡"]
+  foreign technology division: ["外星科技部門"]
+  foo fighters: ["幽靈戰鬥機（Foo Fighters）"]
+  narcap: ["NARCAP（國家航空異常現象研究中心）", "NARCAP（航空異常現象報告中心）"]
+  cefa: ["智利空中現象研究委員會（CEFA）"]
+  reparto generale sicurezza: ["義大利國防情報局", "安全總部"]
+  pine gap: ["松樹谷"]
+  swamp gas: ["沼澤氣體"]
+  need to know: ["知密權"]
+  majestic 12 group: ["MJ-12 組織", "Majestic 12 小組"]
+  majestic 12: ["Majestic 12"]
+  pentagon papers: ["五角大廈文件案"]
+  war of the worlds: ["世界大戰（無書名號）"]
+  gulf breeze, florida: ["佛羅里達州海灣微風市"]
+  mcdonnell douglas: ["麥克唐納道格拉斯公司"]
+  stanford research institute: ["史丹佛研究所"]
+  national reconnaissance office: ["美國國家偵察局", "國家偵察局"]
+  gao: ["總審計辦公室"]
+  general accounting office: ["審計總署", "總審計辦公室"]
+  congressional research service: ["國會研究處"]
+  directed energy: ["定向能源武器"]
+  third kind cases: ["第三類接觸案件"]
+  wilbert b. smith: ["威爾伯特·史密斯"]
+  james e. mcdonald: ["詹姆斯·麥克唐納博士"]
+  dr. bookman: ["布克曼醫師"]
+  osi: ["特別調查辦公室（OSI）", "特別調查處", "OSI（空軍特別調查辦公室）"]
+  faa: ["聯邦航空管理局", "FAA（聯邦航空總署）"]
+  nsa: ["NSA", "國家安全局"]
+  cia: ["CIA（中央情報局）"]
+  nato: ["北約"]
+  foia: ["FOIA", "資訊自由法"]
+  ufo: ["不明飛行物（UFO）"]
+  sighting: ["目擊事件"]
+  ebe: ["外星生物實體"]
+  e-b-e-s: ["E-B-E-S"]
+  cic: ["反情報部隊"]
+  cefora: ["CEFORA"]
+  national security agency: ["NSA（國家安全局）", "國家安全局（NSA）"]
+  coast to coast am: ["Coast to Coast AM 節目"]
+
+contextual:
+  extraterrestrial: 形容詞用法統一為「外星的」；UFO-13 名詞用法保留「外星生命」，屬合理語境差異
+  entity: 統一為「實體」；UFO-10 有機構義用法，保留「實體/機構」
+  general assembly: 聯合國語境譯「聯合國大會」；UFO-14 為烏拉圭語境，譯「烏拉圭國民議會」
+  ministry of defense: 英國語境（UFO-05 藍道申事件）譯「英國國防部」；南美集數譯「國防部」
+  national archives: 依國別語境：美國國家檔案館／巴西國家檔案館
+  national security agency: 全名統一為「國家安全局」；縮寫 NSA 詞條用「國家安全局（NSA）」
+  foo fighters: 統一為「幽浮光球」；UFO-15 保留原文標註（Foo Fighters）
+  george h.w. bush: 兩種稱謂依語境並存：喬治·H·W·布希／老布希總統
+  disclosure: UFO 揭露運動語境統一為「真相揭露」（disclosure_truth）；UFO-11 segment 190 與 UFO-12 segment 81 指 non-disclosure agreements，譯「保密協議」（disclosure_nda），兩者為不同語義
+  ancient aliens: 指 History Channel 節目時譯《遠古外星人》（ancient_aliens_show，UFO-14、17）；UFO-15 segment 119 為普通名詞「遠古外星人」（ancient_aliens_theory），不加書名號
+
+needs_verification: {}

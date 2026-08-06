@@ -30,7 +30,7 @@ terms:
     senses:
       - id: crs_library_congress
         definition: 美國國會圖書館轄下的國會研究服務部門
-        preferred_translation: 國會研究處
+        preferred_translation: 國會研究服務處
         segments: [140, 141, 149, 181, 197]
         notes: Marcia Smith負責為卡特總統調查UFO資訊，Daniel Sheehan擔任特別法律顧問
 
@@ -98,7 +98,7 @@ terms:
     senses:
       - id: gulf_breeze_sightings
         definition: 佛羅里達州墨西哥灣沿岸城市，1980年代UFO熱點
-        preferred_translation: 佛羅里達州海灣微風市
+        preferred_translation: 佛羅里達州微風灣
         segments: [213]
         notes: Richard French承認捏造「沼氣」解釋來揭穿此地每週三次的UFO目擊
 
@@ -226,7 +226,7 @@ terms:
     senses:
       - id: ufo_craft
         definition: Unidentified Flying Object，不明飛行物
-        preferred_translation: 不明飛行物（UFO）
+        preferred_translation: 不明飛行物
         segments: [12, 14, 25, 62, 88, 91, 100, 101, 106, 110, 138, 166, 169, 188, 206, 207, 212, 270, 289, 313, 314, 322, 357, 363, 366, 371, 372, 387, 388]
         notes: 本集高頻術語，涵蓋全球UFO現象、聯合國倡議、官方調查
 
@@ -323,7 +323,7 @@ terms:
     senses:
       - id: french_osi_agent
         definition: 美國空軍中校退役，前特別調查辦公室（OSI）探員
-        preferred_translation: 理查德·法蘭奇中校
+        preferred_translation: 理查德·弗倫奇中校
         segments: [203]
         notes: 本集重要證人，坦承12年揭穿UFO工作，親眼見證羅斯威爾殘骸與遺體
 
@@ -385,7 +385,7 @@ terms:
     senses:
       - id: gao_full_name
         definition: 美國審計總署（現稱政府問責辦公室）完整名稱
-        preferred_translation: 審計總署
+        preferred_translation: 美國審計總署
         segments: [286]
         notes: 1994年調查羅斯威爾事件，發現1946-48年相關記錄已被銷毀
 
@@ -410,7 +410,7 @@ terms:
     senses:
       - id: osi_abbreviation
         definition: Office of Special Investigations，美國空軍特別調查辦公室
-        preferred_translation: 特別調查辦公室（OSI）
+        preferred_translation: 空軍特別調查辦公室（OSI）
         segments: [205, 213]
         notes: Richard French所屬單位，負責揭穿UFO報告以維持保密；文本中使用縮寫形式
 

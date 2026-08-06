@@ -284,6 +284,9 @@ done
 - `tools/fix_chinese_punctuation.py` - QA tool to fix English punctuation in Chinese translations ✅
 - `tools/export_srt.py` - Convert main.yaml back to SRT format ✅
 - `tools/split_srt.py` - Split long SRT subtitles for better readability ✅
+- `tools/check_glossary_consistency.py` - Cross-episode glossary consistency audit (term → per-episode translation matrix, plus sense-aware drift check against the terminology master) ✅
+- `tools/fix_glossary_inconsistencies.py` - One-shot idempotent batch fix for glossary inconsistencies (2026-08 proofreading; `--dry-run` supported, writes only when content changes) ✅
+- `tools/build_terminology_master.py` - Generate `configs/terminology_master.yaml` from per-episode glossaries (term+sense aware; requires `--force` to overwrite existing output) ✅
 
 **Shared Modules:**
 - `src/clients/base_client.py` - Abstract LLM client interface ✅
@@ -296,6 +299,8 @@ done
 - `configs/default.yaml` - Default configuration for all episodes ✅
 - `configs/UFO-01.yaml` to `configs/UFO-20.yaml` - Episode-specific configs ✅
 - `configs/guidelines_template.md` - Translation style guide template ✅
+- `configs/terminology_master.yaml` - Cross-episode canonical translation table (166 terms appearing in ≥2 episodes; single source of truth for proofreading; term+sense structure, contextual differences kept as per-sense `variants`) ✅
+- `configs/terminology_master_rules.yaml` - Editorial rules feeding the master table (deprecated forms, contextual exceptions, needs-verification); edit this file, then regenerate the master ✅
 - `.env.example` - API key template ✅
 - `prompts/topic_analysis_system.txt` - Topic analysis prompt ✅
 
@@ -309,6 +314,7 @@ done
 QA tools should validate:
 - **Punctuation consistency** - Chinese translations must use Chinese punctuation (，not ,)
 - Terminology consistency across segments
+- **Cross-episode glossary consistency** - canonical translations live in `configs/terminology_master.yaml`; audit with `tools/check_glossary_consistency.py` (reports cross-episode conflicts and drift against the master; deprecated forms and documented contextual exceptions are listed in each master entry's notes, sourced from `configs/terminology_master_rules.yaml`)
 - Translation confidence scores
 - Text length ratios (source vs. translation)
 - Timecode integrity

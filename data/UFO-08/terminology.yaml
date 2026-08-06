@@ -87,7 +87,7 @@ terms:
     senses:
       - id: hooley_congresswoman
         definition: 胡利女眾議員，聽證會評審小組成員
-        preferred_translation: 胡利女眾議員
+        preferred_translation: 胡利眾議員
         segments: [144]
         notes: 提問 UFO 關閉飛彈的動機，詢問是否為展示能力的警告
 
@@ -347,7 +347,7 @@ terms:
     senses:
       - id: gravel_senator_panelist
         definition: 麥克·格拉韋爾參議員，聽證會評審小組成員
-        preferred_translation: 格拉韋爾參議員
+        preferred_translation: 格拉維爾參議員
         segments: [216]
         notes: Whisper 轉錄誤拼為 Gravell
 

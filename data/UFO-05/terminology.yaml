@@ -219,7 +219,7 @@ terms:
   senses:
   - id: foia_law
     definition: Freedom of Information Act，美國資訊自由法
-    preferred_translation: 資訊自由法
+    preferred_translation: 資訊自由法（FOIA）
     segments:
     - 248
     - 261
@@ -316,7 +316,7 @@ terms:
   senses:
   - id: hill_norton_admiral
     definition: 英國海軍上將，前北約盟軍最高司令
-    preferred_translation: 希爾·諾頓勳爵
+    preferred_translation: 希爾-諾頓勳爵
     segments:
     - 21
     - 22

@@ -40,7 +40,7 @@
 → {"text": "在1978年如此多可靠的幽浮目擊經歷中——包括飛行員、航管人員、軍人、記者、科學家以及普通民眾——我親眼目睹了長達三小時，並在佩魯賈附近拍攝到一些類似親愛的幽浮現象，與我們11位目擊者團體互動。", "confidence": "medium", "notes": "darling-like 直譯為類似親愛的，語意較奇特，可能指某種形狀或特性"}
 
 36. Since then, and as a result of this wave and of a parliamentary question mentioning me and CUN, our center, the Italian Air Force Reparto Generale Sicurezza, was charged by our government's premier, Giulio Andreotti, to monitor UFO phenomena in Italy regularly.
-→ {"text": "從那時起，由於這次浪潮以及一份提及我和CUN的議會質詢，我們的中心——意大利空軍安全總部（Reparto Generale Sicurezza）受命於總理朱利奧·安德烈奧蒂（Giulio Andreotti），負責定期監測意大利的幽浮現象。", "confidence": "high", "notes": ""}
+→ {"text": "從那時起，由於這次浪潮以及一份提及我和CUN的議會質詢，我們的中心——意大利空軍安全部門（Reparto Generale Sicurezza）受命於總理朱利奧·安德烈奧蒂（Giulio Andreotti），負責定期監測意大利的幽浮現象。", "confidence": "high", "notes": ""}
 
 37. Then in 1980, I was invited by the House of Lords in London to lecture for them about the Italian 1978 UFO wave.
 → {"text": "1980年，我受倫敦上議院（House of Lords）邀請，為他們講解1978年意大利幽浮浪潮。", "confidence": "high", "notes": ""}
@@ -82,7 +82,7 @@
 → {"text": "2012年，《幽浮問題的本質》（The Nature of the UFO Problem）甚至以流行漫畫書的形式呈現，由我擔任主角。", "confidence": "high", "notes": ""}
 
 50. Apart from this, in 2000, the Italian Air Force sent an official delegation in their uniforms headed by the Reparto Generale Sicurezza's chief, General Aldo Oliveiro, to present their UFO data during the San Marino symposium.
-→ {"text": "除此之外，2000年意大利空軍派遣了一支穿著制服的官方代表團，由安全總部（Reparto Generale Sicurezza）首長阿爾多·奧利維羅將軍（General Aldo Oliveiro）率領，在聖馬利諾研討會上展示他們的幽浮數據。", "confidence": "high", "notes": ""}
+→ {"text": "除此之外，2000年意大利空軍派遣了一支穿著制服的官方代表團，由安全部門（Reparto Generale Sicurezza）首長阿爾多·奧利維羅將軍（General Aldo Oliveiro）率領，在聖馬利諾研討會上展示他們的幽浮數據。", "confidence": "high", "notes": ""}
 
 51. Later, I was allowed in different occasions to consult their files in Rome.
 → {"text": "後來，我多次獲准在羅馬查閱他們的檔案。", "confidence": "high", "notes": ""}

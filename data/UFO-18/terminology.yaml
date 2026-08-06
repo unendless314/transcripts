@@ -109,7 +109,7 @@ terms:
     senses:
       - id: nsa_agency
         definition: National Security Agency，美國國家安全局
-        preferred_translation: NSA
+        preferred_translation: 國家安全局（NSA）
         notes: Major Torres 在 1957 年遭遇事件後，被 NSA 人員（他稱為「spook」）威脅保持沉默。NSA 也在 FOIA 訴訟中被揭露持有大量 UFO 文件
         segments: [102, 103, 139, 142]
         topics: [topic_02, topic_04]
@@ -341,7 +341,7 @@ terms:
     senses:
       - id: war_worlds_broadcast
         definition: 1938 年奧森·威爾斯廣播劇《世界大戰》，引發恐慌
-        preferred_translation: 世界大戰
+        preferred_translation: 《世界大戰》
         notes: 討論政府保密動機時提及，暗示擔心公眾恐慌
         segments: [170, 220]
         topics: [topic_05]
@@ -434,7 +434,7 @@ terms:
     senses:
       - id: narcap_org
         definition: National Aviation Reporting Center on Anomalous Phenomena，航空異常現象報告中心
-        preferred_translation: NARCAP（航空異常現象報告中心）
+        preferred_translation: NARCAP（國家航空異常現象報告中心）
         notes: Richard Dolan 提及的民間 UFO 研究組織，收集航空業遭遇的不明物體案例
         segments: [108, 163]
         topics: [topic_03, topic_05]
@@ -519,7 +519,7 @@ terms:
     senses:
       - id: courant_jim_researcher
         definition: NARCAP 相關研究者
-        preferred_translation: 吉姆·庫朗
+        preferred_translation: 吉姆·庫蘭特
         notes: Richard Dolan 提及的航空異常現象研究者。原轉錄錯誤為 Jim Carant，已修正
         segments: [108]
         topics: [topic_03]
@@ -671,7 +671,7 @@ terms:
     senses:
       - id: foia_abbr
         definition: Freedom of Information Act 的縮寫
-        preferred_translation: FOIA
+        preferred_translation: 資訊自由法（FOIA）
         notes: 見 Freedom of Information Act
         segments: [102]
         topics: [topic_02]
@@ -738,7 +738,7 @@ terms:
     senses:
       - id: friedman_researcher
         definition: 核物理學家，著名 UFO 研究者
-        preferred_translation: 史坦頓·弗里德曼
+        preferred_translation: 史丹頓·弗里德曼
         notes: 討論 electrogravitics 時提及。原轉錄錯誤為 Stan and Friedman，已修正
         segments: [204]
         topics: [topic_05]

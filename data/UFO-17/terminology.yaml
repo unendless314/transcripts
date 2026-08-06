@@ -32,7 +32,7 @@ terms:
     senses:
       - id: sighting_ufo_observation
         definition: 目擊或觀察到 UFO 的經歷
-        preferred_translation: 目擊事件
+        preferred_translation: 目擊
         notes: 可搭配使用「目擊事件」、「目擊報告」
         segments: [216, 225, 314, 426, 479]
 
@@ -41,7 +41,7 @@ terms:
     senses:
       - id: faa_agency
         definition: Federal Aviation Administration，美國聯邦航空總署
-        preferred_translation: FAA（聯邦航空總署）
+        preferred_translation: 聯邦航空總署（FAA）
         notes: John Callahan 的工作單位，本集關鍵機構
         segments: [5, 19, 22, 32, 46, 48, 89, 95, 118]
 
@@ -81,7 +81,7 @@ terms:
     senses:
       - id: osi_usaf_investigation
         definition: Office of Special Investigations，美國空軍特別調查辦公室
-        preferred_translation: OSI（空軍特別調查辦公室）
+        preferred_translation: 空軍特別調查辦公室（OSI）
         notes: Lt. Col. French 所屬的調查單位
         segments: [267]
 
@@ -519,16 +519,16 @@ terms:
   - term: MUFON
     senses:
       - id: mufon_network
-        definition: Mutual UFO Network，UFO 互動網絡
-        preferred_translation: MUFON（UFO 互動網絡）
+        definition: Mutual UFO Network，UFO 互動網路
+        preferred_translation: MUFON（UFO 互動網路）
         notes: Major Filer 擔任東部地區主管
         segments: [142, 627]
 
   - term: Mutual UFO Network
     senses:
       - id: mufon_network_full
-        definition: UFO 互動網絡（MUFON 全稱）
-        preferred_translation: UFO 互動網絡
+        definition: UFO 互動網路（MUFON 全稱）
+        preferred_translation: UFO 互動網路（MUFON）
         notes: 全球最大的 UFO 研究組織之一
         segments: [142]
 

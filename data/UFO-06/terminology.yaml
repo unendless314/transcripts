@@ -46,7 +46,7 @@ terms:
     senses:
       - id: osi_afosi
         definition: Office of Special Investigations，美國空軍特別調查處，負責反情報與刑事調查
-        preferred_translation: 特別調查處
+        preferred_translation: 空軍特別調查辦公室（OSI）
         segments: []
         notes: 在事件中扮演威脅訊問、強制淨化證詞的關鍵角色，首次出現時使用「特別調查處（OSI）」
 
@@ -119,7 +119,7 @@ terms:
     senses:
       - id: gabriel_usafe_commander
         definition: Charles A. Gabriel將軍，美國駐歐空軍總司令
-        preferred_translation: 加百列將軍
+        preferred_translation: 蓋博上將
         segments: [200]
         notes: 事件發生後不久曾訪問RAF Bentwaters，相關文件在解密檔案中缺失
 
@@ -257,7 +257,7 @@ terms:
     senses:
       - id: nsa_agency
         definition: National Security Agency，美國國家安全局
-        preferred_translation: 國家安全局
+        preferred_translation: 國家安全局（NSA）
         segments: [625]
         notes: 證人律師收到來自NSA的奇怪電話，首次出現時使用「國家安全局（NSA）」
 
@@ -298,7 +298,7 @@ terms:
     senses:
       - id: c3_command_control
         definition: Command, Control, and Communications facility，指揮、控制與通訊設施
-        preferred_translation: C3設施
+        preferred_translation: C3 設施
         segments: []
         notes: Marlesham Heath配備先進的C3設施，包括視網膜掃描器
 
@@ -339,7 +339,7 @@ terms:
     senses:
       - id: c5_galaxy_aircraft
         definition: C-5銀河式運輸機，美國空軍大型戰略運輸機
-        preferred_translation: C-5運輸機
+        preferred_translation: C-5 運輸機
         segments: [164]
         notes: 從Langley運送特別調查小組的運輸機
 
@@ -347,7 +347,7 @@ terms:
     senses:
       - id: a10_warthog
         definition: A-10雷霆二式攻擊機，專門設計用於對地攻擊的戰機
-        preferred_translation: A-10反戰車攻擊機
+        preferred_translation: A-10 反戰車攻擊機
         segments: [317]
         notes: RAF Bentwaters部署的主要戰機型號，約160架分為六個中隊
 
@@ -372,7 +372,7 @@ terms:
     senses:
       - id: foia_law
         definition: Freedom of Information Act，美國資訊自由法
-        preferred_translation: 資訊自由法
+        preferred_translation: 資訊自由法（FOIA）
         segments: [613, 628, 629]
         notes: 證人試圖透過FOIA取得文件，但OSI違反時限並拒絕回應
 

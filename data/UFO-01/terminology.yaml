@@ -257,7 +257,7 @@ terms:
     senses:
       - id: ebe_entity
         definition: Extraterrestrial Biological Entity，外星生物實體
-        preferred_translation: 外星生物實體
+        preferred_translation: 外星生物實體（EBE）
         segments: [374]
         notes: 美國軍方對外星生命的官方代號，可簡稱EBE
 
@@ -298,7 +298,7 @@ terms:
     senses:
       - id: foia_law
         definition: Freedom of Information Act，美國資訊自由法
-        preferred_translation: 資訊自由法
+        preferred_translation: 資訊自由法（FOIA）
         segments: [103]
         notes: 首次出現使用全名，後續可簡稱 FOIA
 
@@ -422,8 +422,8 @@ terms:
   - term: MUFON
     senses:
       - id: mufon_network
-        definition: Mutual UFO Network，UFO 互動網絡
-        preferred_translation: MUFON（UFO 互動網絡）
+        definition: Mutual UFO Network，UFO 互動網路
+        preferred_translation: MUFON（UFO 互動網路）
         segments: [663]
         notes: 全球最大的UFO研究組織之一，跨集數高頻出現
 
@@ -439,7 +439,7 @@ terms:
     senses:
       - id: mufon_full_name
         definition: 全球最大的UFO研究與報告組織之一（MUFON全名）
-        preferred_translation: UFO互動網絡
+        preferred_translation: UFO 互動網路（MUFON）
         segments: [137]
         notes: 每月收到超過600份目擊報告，與National UFO Reporting Center並列北美最大UFO報告網站
 
@@ -529,7 +529,7 @@ terms:
     senses:
       - id: bluebook_report_14
         definition: 美國空軍委託的最大規模UFO研究報告，涵蓋3,200個案例
-        preferred_translation: 藍皮書計畫特別報告14號
+        preferred_translation: 藍皮書計畫特別報告 14 號
         segments: [221]
         notes: 由Battelle Memorial Institute執行，官方新聞稿刻意扭曲研究結論
 

@@ -496,7 +496,7 @@
 → {"text": "我能問最後一個問題嗎，如果我還有30秒的話，有人知道嗎，嗯，請讓我問完這個問題，有人知道任何軍事人員或軍方承包商被解除他們可能就UFO主題所立的保密誓言嗎，來自任何國家，再次強調，你們自己的或美國或其他任何國家？", "confidence": "high", "notes": ""}
 
 562. In the case of Italy, we had in San Marino in 2000, the chief of the Reparto Generale Sicurezza of the Italian Air Force who came in uniform to have a presentation of the UFO data, of the official UFO data, in the San Marino Congress.
-→ {"text": "在義大利的情況下，我們在2000年的聖馬利諾會議上，有義大利空軍國防情報局（Reparto Generale Sicurezza）的首長穿著制服前來，展示UFO資料，官方UFO資料。", "confidence": "high", "notes": ""}
+→ {"text": "在義大利的情況下，我們在2000年的聖馬利諾會議上，有義大利空軍安全部門（Reparto Generale Sicurezza）的首長穿著制服前來，展示UFO資料，官方UFO資料。", "confidence": "high", "notes": ""}
 
 563. This man today is retired and would have been here if possible.
 → {"text": "這個人今天已經退休了，如果可能的話他會來這裡。", "confidence": "high", "notes": ""}

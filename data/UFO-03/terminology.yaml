@@ -9,12 +9,6 @@ terms:
         segments: [125]
         notes: 證詞中提到羅斯威爾回收的活體外星存有,可補充為「外星存有」
 
-      - id: being_gerund
-        definition: 動名詞或進行式用法,表示「正在...」或「被...」的狀態
-        preferred_translation: 被、正在
-        segments: [32, 63, 69, 106, 110, 332, 486, 508, 510, 515]
-        notes: 文法功能詞,非術語意義
-
   # ===== C =====
   - term: CIA
     senses:
@@ -95,7 +89,7 @@ terms:
     senses:
       - id: foia_law
         definition: Freedom of Information Act,美國資訊自由法
-        preferred_translation: 資訊自由法
+        preferred_translation: 資訊自由法（FOIA）
         segments: [149, 178, 452]
         notes: UFO-03強調FOIA文件的消失,原本1,000頁文件從檔案館中消失
 
@@ -103,8 +97,8 @@ terms:
   - term: MUFON
     senses:
       - id: mufon_network
-        definition: Mutual UFO Network,共同UFO網絡
-        preferred_translation: MUFON(UFO互動網絡)
+        definition: Mutual UFO Network,共同UFO網路
+        preferred_translation: MUFON（UFO 互動網路）
         segments: [246]
         notes: 背書UFO Briefing Document的三大美國UFO組織之一
 
@@ -369,7 +363,7 @@ terms:
     senses:
       - id: brown_physicist
         definition: 反重力研究先驅物理學家
-        preferred_translation: 托馬斯·湯森·布朗
+        preferred_translation: 湯森·布朗
         segments: [80]
         notes: 1929年開始進行先進反重力研究
 
@@ -378,7 +372,7 @@ terms:
     senses:
       - id: pentagon_papers_case
         definition: 五角大廈文件案,揭露越戰秘密的重大洩密事件
-        preferred_translation:  五角大廈文件案
+        preferred_translation: 五角大廈文件
         segments: [87, 89, 103, 131]
         notes: Daniel Sheehan經手的著名案件之一
 
@@ -418,7 +412,7 @@ terms:
     senses:
       - id: shackley_cia_officer
         definition: CIA西貢站長
-        preferred_translation: 西奧多·謝克利
+        preferred_translation: 西奧多·沙克利
         segments: [95]
         notes: 設立Nugan Hand Bank的CIA官員
 
@@ -426,7 +420,7 @@ terms:
     senses:
       - id: 5412_committee_nsc
         definition: 國家安全會議內部監督秘密行動的5412委員會
-        preferred_translation: 5412委員會
+        preferred_translation: 5412 委員會
         segments: [97, 102]
         notes: 1947年CIA成立後設立的秘密監督機制
 
@@ -523,7 +517,7 @@ terms:
     senses:
       - id: schiff_congressman
         definition: 新墨西哥州眾議員史蒂芬·席夫
-        preferred_translation: 史蒂文·希夫眾議員
+        preferred_translation: 史蒂芬·希夫眾議員
         segments: [177]
         notes: 下令GAO調查羅斯威爾,遭國防部長Les Aspin阻撓
 
@@ -608,14 +602,6 @@ terms:
         segments: [246]
         notes: 簡稱CUFOS,背書UFO Briefing Document的組織之一
 
-  - term: Cometa report
-    senses:
-      - id: cometa_lowercase
-        definition: COMETA報告(小寫拼寫)
-        preferred_translation: COMETA報告
-        segments: [253, 255]
-        notes: 與COMETA Report同義
-
   - term: Pocantico Conference Center
     senses:
       - id: pocantico_center
@@ -653,7 +639,7 @@ terms:
     senses:
       - id: b2_stealth_bomber
         definition: B-2隱形轟炸機
-        preferred_translation: B-2隱形轟炸機
+        preferred_translation: B-2 隱形轟炸機
         segments: [298]
         notes: 證詞提到其採用部分先進推進技術
 
@@ -677,7 +663,7 @@ terms:
     senses:
       - id: hill_norton_uk_defense
         definition: 彼得·希爾-諾頓勳爵,英國前國防參謀長
-        preferred_translation: 彼得·希爾-諾頓勳爵
+        preferred_translation: 希爾-諾頓勳爵
         segments: [316]
         notes: 海軍元帥,英國國防參謀長(Chief of the Defence Staff),Dr. Greer向他解釋為何英國高層被拒絕UFO資訊
 
@@ -709,7 +695,7 @@ terms:
     senses:
       - id: nro_agency
         definition: 國家偵察辦公室
-        preferred_translation: 美國國家偵察局
+        preferred_translation: 國家偵察局（NRO）
         segments: [421]
         notes: 簡稱NRO,負責衛星偵察的機構
 
