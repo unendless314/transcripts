@@ -73,6 +73,30 @@
           "error_text": "Teddy Sorensen",
           "suggested_correction": "Ted Sorensen",
           "reasoning": "The common and correct name for the political advisor is Ted Sorensen, not Teddy."
+        },
+        {
+          "segment_id": 181,
+          "error_text": "Marsha Smith",
+          "suggested_correction": "Marcia Smith",
+          "reasoning": "The CRS official directing the Carter UFO investigation is Marcia Smith; 'Marsha' is a phonetic misspelling."
+        },
+        {
+          "segment_id": 206,
+          "error_text": "McCord Air Force Base",
+          "suggested_correction": "McChord Air Force Base",
+          "reasoning": "The Washington state base is McChord Air Force Base (now Joint Base Lewis-McChord); 'McCord' is a misspelling."
+        },
+        {
+          "segment_id": 208,
+          "error_text": "They drugged the Colorado River",
+          "suggested_correction": "They dragged the Colorado River",
+          "reasoning": "Context is searching/dragging a river area for debris; 'drugged' is a homophone error for 'dragged'."
+        },
+        {
+          "segment_id": 208,
+          "error_text": "the magic report",
+          "suggested_correction": "the Majic report",
+          "reasoning": "French refers to the MJ-12-related 'Majic' briefing document; 'magic' is a phonetic mishearing."
         }
       ]
     },
@@ -126,6 +150,30 @@
           "error_text": "about '94 or '05",
           "suggested_correction": "about '94 or '95",
           "reasoning": "The context is Representative Steven Schiff's request for a GAO investigation into Roswell. This occurred in 1994, with the report released in 1995. The year 2005 ('05) is contextually incorrect."
+        },
+        {
+          "segment_id": 213,
+          "error_text": "Some of my answers, I swear, were observed",
+          "suggested_correction": "Some of my answers, I swear, were absurd",
+          "reasoning": "French is describing his fabricated debunking explanations as ridiculous; 'absurd' fits the context, 'observed' is a phonetic mishearing."
+        },
+        {
+          "segment_id": 214,
+          "error_text": "to be the most artful lawyer on earth",
+          "suggested_correction": "to be the most artful liar on earth",
+          "reasoning": "French's debunking job consisted of fabricating explanations (his own words: 'That was my lie'); 'liar' is the intended word, 'lawyer' a phonetic mishearing."
+        },
+        {
+          "segment_id": 326,
+          "error_text": "osteopithecus",
+          "suggested_correction": "australopithecus",
+          "reasoning": "The evolutionary context (between australopithecus and homo erectus) indicates 'australopithecus'; 'osteopithecus' is a garbled transcription."
+        },
+        {
+          "segment_id": 448,
+          "error_text": "You know what a pie ball is",
+          "suggested_correction": "You know what a pibal balloon is",
+          "reasoning": "A pibal (pilot) balloon is a high-altitude tracking balloon used to monitor upper air currents, exactly as described; 'pie ball' is a phonetic mishearing."
         }
       ]
     }

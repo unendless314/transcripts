@@ -107,4 +107,24 @@
 
 ## 八、本集專屬事項
 
-（每集自行補充：該集高頻術語與定譯、前任校稿者遺留問題、已查證的事實、特殊格式決定等）
+### 進度
+- [x] topic_01（段落 1–208）已審完，約 30 處修訂；JSON 驗證通過；topics.json 已補錄 4 筆新 potential_errors（seg 181、206、208×2）
+- [x] topic_02（段落 209–510）已審完，約 15 處修訂；JSON 驗證通過；topics.json 再補錄 4 筆（seg 213、214、326、448）
+
+### 新增人名／地名定譯（主表未收錄，供後續集數沿用）
+- topic_01：Gordon Cooper → 戈登·庫珀；Jacques Vallee → 雅克·瓦萊；Lawrence Coyne → 勞倫斯·科恩；Maurice Bishop → 莫里斯·畢夏普；Lawrence Rockefeller → 勞倫斯·洛克斐勒；Father Bill Davis → 比爾·戴維斯神父；Peter Rodino → 彼得·羅迪諾；Scott Armstrong → 史考特·阿姆斯壯；Alexander Butterfield → 亞歷山大·巴特菲爾德；Poindexter → 波因德克斯特；Brigadier General Carroll → 卡羅爾准將（查證為 Joseph F. Carroll，OSI 首任指揮官 1948–1955）；John Drahos → 約翰·德拉霍斯
+- topic_02：Steven Schiff → 史蒂文·席夫；Oliver North → 奧利弗·諾斯；Donald Menzel → 唐納德·門澤爾；Carl Bernstein → 卡爾·伯恩斯坦；Edward Condon → 愛德華·康登；Gerald Ford → 傑拉爾德·福特；Teilhard de Chardin → 德日進；Carroll Bolender → 卡羅爾·博倫德；Pat Robertson → 帕特·羅伯遜
+- 地名：Los Alamos → 洛斯阿拉莫斯；Oak Ridge → 橡樹嶺；Jefferson Building → 傑弗遜大樓；DuPont Circle → 杜邦圓環；1717 Mass Ave → 麻薩諸塞大道 1717 號；McCord → 麥科德（McChord）；Gulf Breeze → 微風灣（從本集術語表）；Alamogordo → 阿拉莫戈多；White Sands → 白沙
+
+### 待釐清／遺留
+- **收尾待人工執行**（2026-08-08 裁決）：topics.json 已含全部 potential_errors，人工依收尾流程跑 fix_transcription_errors → backfill → export 即可
+- 段落 4「Mr. Gillin」：查無此人，暫音譯「吉林先生」，confidence 已降 medium，待有影帶或官方名單再定
+- 段落 89 格瑞納達獨立年份：原文 1978，查證實際為 1974-02-07；保留原數字、已標註（不入 potential_errors，不改原文）
+- 段落 485「96 名參議員」：實際應為 100 名；保留原數字、降 medium 並標註
+- off-the-shelf enterprise（段落 201–202）按 off-the-books（帳外行動）處理並註記
+
+### 已拍板決定
+- Dolan 沿用 UFO-01 定譯「多蘭」；Bartlett 沿用「巴特利特」；Friedman 從主表「史丹頓·弗里德曼」；Hooley 沿用「胡利眾議員」
+- GAO 統一「美國審計總署」；Uniting for Peace Resolution → 聯合一致促進和平決議
+- Whisper 斷句造成的跨段語意（如段落 67/68 的 for the past 37 years）：以字幕流暢為優先併入前段，notes 標註
+- 講者自述的 Whisper 誤聽採正確義直接入譯並註記：artful lawyer→liar、were observed→absurd、pie ball→pibal、osteopithecus→australopithecus、drugged→dragged、magic→Majic、McCord→McChord、Marsha→Marcia

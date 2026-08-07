@@ -10,13 +10,13 @@
 → {"text": "我的理解是這裡的小組成員與後面的委員會成員都能看到時間提示卡。我們會注意那些卡片並自己計時。我記得多年前我在車上旅行，打開車上的收音機，聽到兩則新聞報導。", "confidence": "high", "notes": ""}
 
 212. One was that there were some UFO sightings over New Mexico and the other was that there had been two mysterious deaths in New York City that might have been cyticosis and if it was cyticosis it might have come from dried pigeon manure, so it was a serious suggestion that maybe we ought to kill all the pigeons in New York. I listened to those two newscasts and I thought, gee, if these flying saucers are extraterrestrial I think I'd wander around a bit up there and watch for a while yet before I landed. As I said when we started this it is really enormously arrogant and presumptive to believe that we're the most advanced civilization in the universe. We still fight stupid wars and kill each other. There just has to be a better way, doesn't there. Again, I will reserve my question until the end. My co-chair.
-→ {"text": "一則是新墨西哥州上空有不明飛行物目擊事件，另一則是紐約市有兩起神秘死亡事件，可能是鸚鵡熱，如果是鸚鵡熱，可能來自乾燥的鴿子糞便，所以有人認真建議也許我們應該殺死紐約所有的鴿子。我聽著這兩則新聞播報，心想，天啊，如果這些飛碟是外星的，我想我會在上面多轉轉，再觀察一陣子才降落。正如我在開始時所說的，相信我們是宇宙中最先進的文明，實在是極度傲慢與自以為是。我們仍在進行愚蠢的戰爭並互相殘殺。一定有更好的方式，不是嗎。我會再次將我的問題保留到最後。我的副主席。", "confidence": "high", "notes": ""}
+→ {"text": "一則是新墨西哥州上空有不明飛行物目擊事件，另一則是紐約市有兩起神秘死亡事件，可能是鸚鵡熱，如果是鸚鵡熱，可能來自乾燥的鴿子糞便，所以有人認真建議也許我們應該殺死紐約所有的鴿子。我聽著這兩則新聞播報，心想，天啊，如果這些飛碟是外星的，我想我會在上面多轉轉，再觀察一陣子才降落。正如我在開始時所說的，相信我們是宇宙中最先進的文明，實在是極度傲慢與自以為是。我們仍在進行愚蠢的戰爭並互相殘殺。一定有更好的方式，不是嗎。我會再次將我的問題保留到最後。我的副主席。", "confidence": "high", "notes": "原文 cyticosis 為 Whisper 殘詞，疑指鸚鵡熱或隱球菌病（皆與鴿糞有關）"}
 
 213. I wanted to mention one other thing. All of the time, and there's a period there that's about 12 years, but during that 12-year period my primary job as a member of the OSI was to debunk them. In other words, I'd come up with any kind of explanation. We'd say it was swamp gas or you name it, anything that we could come up with to apparently convince the general public and maintain the secrecy level on that. Some of my answers, I swear, were observed. The swamp gas, for instance, at that time there was an average of about three a week UFOs had descended into the Gulf Breeze, Florida area, if you know where that is. It's just where the panhandle is in Florida. Anyway, I went down there and we observed them just regularly, just sit there every evening with a cocktail and in they'd come.
-→ {"text": "我想提另一件事。一直以來，那段時期大約有 12 年，但在那 12 年期間，我作為 OSI 成員的主要工作就是揭穿它們。換句話說，我會想出任何解釋。我們會說那是沼氣或你說什麼都行，任何我們能想到的東西，顯然是為了說服一般大眾並維持保密層級。我發誓，我的一些答案真的很荒謬。例如沼氣，當時佛羅里達州海灣微風地區平均每週有大約三次不明飛行物降落，如果你知道那裡在哪的話。就是佛羅里達州狹長地帶那裡。無論如何，我去了那裡，我們定期觀察它們，每天晚上就坐在那裡喝著雞尾酒，它們就進來了。", "confidence": "high", "notes": ""}
+→ {"text": "我想提另一件事。一直以來，那段時期大約有 12 年，但在那 12 年期間，我作為 OSI 成員的主要工作就是揭穿它們。換句話說，我會想出任何解釋。我們會說那是沼氣或你說什麼都行，任何我們能想到的東西，顯然是為了說服一般大眾並維持保密層級。我發誓，我的一些答案真的很荒謬。例如沼氣，當時佛羅里達州微風灣地區平均每週有大約三次不明飛行物降落，如果你知道那裡在哪的話。就是佛羅里達州狹長地帶那裡。無論如何，我去了那裡，我們定期觀察它們，每天晚上就坐在那裡喝著雞尾酒，它們就進來了。", "confidence": "high", "notes": "原文 were observed 應為 absurd（荒謬）之誤聽"}
 
 214. But what was it? It was swamp gas. That was my lie and I made good on it. But that was my actual job, to be the most artful lawyer on earth.
-→ {"text": "但那是什麼？那是沼氣。那是我的謊言，而且我說得很好。但那就是我的實際工作，成為地球上最狡猾的律師。", "confidence": "high", "notes": ""}
+→ {"text": "但那是什麼？那是沼氣。那是我的謊言，而且我說得天衣無縫。但那就是我的實際工作，成為地球上最狡猾的說謊者。", "confidence": "high", "notes": "原文 lawyer 應為 liar（說謊者）之誤聽，脈絡為其自述揭穿工作的謊言"}
 
 215. So Colonel French, you did a good job of it, obviously.
 → {"text": "所以法蘭奇中校，你顯然做得很好。", "confidence": "high", "notes": ""}
@@ -133,7 +133,7 @@
 → {"text": "也許我們做得更好，因為我們是前民選官員、公共政策制定者。不能那樣說，因為會樹起一道牆，你無法跨越。必須有更好的方式來表達，並開始實施你建議的一些事情。", "confidence": "high", "notes": ""}
 
 253. It'll come probably through religious communities, that the altering of consciousness with regard to an angelic realm, an other dimension of reality. That's where most people categorize these types of discussions.
-→ {"text": "這可能會通過宗教社群來實現，關於天使領域、另一個現實維度的意識轉變。大多數人將這類討論歸類在那裡。", "confidence": "high", "notes": ""}
+→ {"text": "這可能會透過宗教社群來實現，關於天使領域、另一個現實維度的意識轉變。大多數人將這類討論歸類在那裡。", "confidence": "high", "notes": ""}
 
 254. Okay, and that's where you worked with the Jesuit Coordination Coalition. I think that's a good start. I think you can't leave out private industry. I think you can't leave out the universities. I mean, it's got to be a major coalition of things and institutions in our country and around the world that would come together more than one time with experts like yourselves and laymen like us and others who have interest in the issue because it is a world phenomenon. If we keep acting like it doesn't exist, then we all lose. The world loses.
 → {"text": "好的，那就是你與耶穌會協調聯盟合作的地方。我認為這是個好的開始。我認為不能排除私營企業。我認為不能排除大學。我是說，必須是我們國家和世界各地的事物與機構組成的重要聯盟，不只一次地聚集在一起，與像你們這樣的專家、像我們這樣的外行人以及其他對這個議題有興趣的人，因為這是一個世界現象。如果我們繼續假裝它不存在，那麼我們都會失敗。世界會失敗。", "confidence": "high", "notes": ""}
@@ -166,7 +166,7 @@
 → {"text": "通常，人們已經將它擱置了。官方上是這樣，對吧？政府方面，但我認為在某種程度上確實有緊迫性，因為這個潛力有非常好的潛力。正如我在陳述中所說，它真的可以做到其他一切都失敗的事情。我們在這個地球上做什麼？除了這個議題，我們還有巨大的問題。環境問題、飢餓問題等等。不知何故，我們似乎無法作為一個世界社會來處理它們。有太多的鬥爭、意識形態差異和宗教差異。宗教議題非常重要。", "confidence": "high", "notes": ""}
 
 264. Look at all the recent problems we've had internationally with certain factions of the Islamic religion and all that. In fact, I wrote an article in the magazine about UFOs in Islam, which was quite interesting for me to research that. Like all religions, again, you have many factions within a religion. I do agree with Daniel. Probably if the pope and other religious figures, they might be the way to do it. That may do the trick rather than the political will because you know how politics are. You know better than we do how things get very difficult. I see half a minute left. Thank you very much for that. Just in kind of summing, trying to understand it, as an appropriator, 12 years on the Federal Appropriations Committee with a budget of nearly $3 trillion. Biggest being the Armed Services of $700 billion. Now we're on our knees. We don't have the money for
-→ {"text": "看看我們最近在國際上與伊斯蘭教某些派系遇到的所有問題等等。事實上，我在雜誌上寫了一篇關於伊斯蘭教中不明飛行物的文章，研究那個對我來說相當有趣。就像所有宗教一樣，一個宗教中有許多派系。我確實同意丹尼爾。如果教宗和其他宗教人物可能是實現這一目標的方式。這可能比政治意願更有效，因為你知道政治是怎麼回事。你們比我們更了解事情會變得多麼困難。我看還剩半分鐘。非常感謝。在總結時，試圖理解它，作為一名撥款委員，在聯邦撥款委員會服務 12 年，預算接近 3 兆美元。最大的是 7000 億美元的軍事服務。現在我們跪下了。我們沒有錢。", "confidence": "high", "notes": ""}
+→ {"text": "看看我們最近在國際上與伊斯蘭教某些派系遇到的所有問題等等。事實上，我在雜誌上寫了一篇關於伊斯蘭教中不明飛行物的文章，研究那個對我來說相當有趣。就像所有宗教一樣，一個宗教中有許多派系。我確實同意丹尼爾。如果教宗和其他宗教人物可能是實現這一目標的方式。這可能比政治意願更有效，因為你知道政治是怎麼回事。你們比我們更了解事情會變得多麼困難。我看還剩半分鐘。非常感謝。在總結時，試圖理解它，作為一名撥款委員，在聯邦撥款委員會服務 12 年，預算接近 3 兆美元。最大的是武裝部隊的 7,000 億美元。現在我們捉襟見肘。我們沒有錢。", "confidence": "high", "notes": ""}
 
 265. this or that. Could this possibly be something that can save our budget, get more resources, make it universal, offer some kind of -- I'm looking at it from an appropriations point.
 → {"text": "這個或那個。這有可能是可以拯救我們預算、獲得更多資源、使其普及、提供某種——我從撥款的角度來看待它。", "confidence": "high", "notes": ""}
@@ -196,7 +196,7 @@
 → {"text": "那份文件，我們這邊的人會深深感激你嗎？", "confidence": "high", "notes": ""}
 
 274. I could start that a little bit because there's a provision in the United Nations which is called Uniting for Peace Resolution. And Henry Kissinger told us about this in Gov 180 at Harvard College. And he said, "If the world population ever finds out about this, we're all in trouble," he said. I was kind of wondering who he meant by "we."
-→ {"text": "我可以稍微開始一下，因為聯合國有一個條款叫做聯合促進和平決議。亨利·季辛吉在哈佛大學政府 180 課程中告訴我們這個。他說：「如果世界人口發現這個，我們都會有麻煩。」他說。我當時有點想知道他所說的「我們」是指誰。", "confidence": "high", "notes": ""}
+→ {"text": "我可以稍微開始一下，因為聯合國有一個條款叫做聯合一致促進和平決議。亨利·季辛吉在哈佛大學政府 180 課程中告訴我們這個。他說：「如果世界人口發現這個，我們都會有麻煩。」他說。我當時有點想知道他所說的「我們」是指誰。", "confidence": "high", "notes": ""}
 
 275. And he's right.
 → {"text": "而且他是對的。", "confidence": "high", "notes": ""}
@@ -223,7 +223,7 @@
 → {"text": "我們很樂意。", "confidence": "high", "notes": ""}
 
 283. Now, the question I would ask, Mr. Dolan, you mentioned that the compendium of documents that you're aware of has come about through Freedom of Information Act, has come about by accident in many regards. Is there anything out there that document-wise backs up the Roswell incident, that is, the crash and the humanoids? Is there any document that we could put our hands on?
-→ {"text": "現在，我想問的問題是，多蘭先生，你提到你所知道的文件彙編是通過資訊自由法出現的，在許多方面是偶然出現的。就文件而言，有什麼能支持羅斯威爾事件的嗎，也就是墜毀和人形生物？有我們可以掌握的文件嗎？", "confidence": "high", "notes": ""}
+→ {"text": "現在，我想問的問題是，多蘭先生，你提到你所知道的文件彙編是透過資訊自由法出現的，在許多方面是偶然出現的。就文件而言，有什麼能支持羅斯威爾事件的嗎，也就是墜毀和人形生物？有我們可以掌握的文件嗎？", "confidence": "high", "notes": ""}
 
 284. Yes, sir. There are a few very interesting documents, even as early as July 1947, FBI, which was involved in investigating the so-called flying saucers very actively, had a memo indicating that the debris or whatever was recovered at Roswell was being transferred to Wright Field Dayton, Ohio, U.S. Air Force headquarters. I think that's rather interesting. Whatever this was, if it was some kind of balloon apparatus, I think we could ask why would that be transferred to Wright Field.
 → {"text": "是的，先生。有一些非常有趣的文件，早在 1947 年 7 月，非常積極調查所謂飛碟的聯邦調查局就有一份備忘錄，表明在羅斯威爾回收的殘骸或任何東西正被轉移到俄亥俄州代頓的萊特飛行場，美國空軍總部。我認為這相當有趣。無論這是什麼，如果它是某種氣球裝置，我想我們可以問為什麼要將它轉移到萊特飛行場。", "confidence": "high", "notes": ""}
@@ -232,7 +232,7 @@
 → {"text": "所以這很有趣。還有許多其他文件談到軍方內部討論的傳聞——是的，那不夠——對。不，不。——因為那是道聽塗說。", "confidence": "high", "notes": ""}
 
 286. But regarding Roswell, there was -- back in 1994, the General Accounting Office of Congress was tasked with looking into the Roswell incident. All right. And this was on the initiative of the late Representative Stephen Schiff of New Mexico, whose constituents asked him to do this, and he did. Schiff talked about this at length, about how the Air Force and the Pentagon just stonewalled him, gave him nothing, gave him a lot of expletives as well in the process. But what the GAO's investigation was that the relevant records at Roswell from the end of 1946 into, I think, 1948, 49 were gone. All of the records that they were looking for, that they expected to find, were, surprise, not there. And there was no explanation given.
-→ {"text": "但關於羅斯威爾，早在 1994 年，國會審計總署被委任調查羅斯威爾事件。好的。這是應新墨西哥州已故眾議員史蒂芬·謝夫的倡議，他的選民要求他這樣做，他也照做了。謝夫詳細談到了這件事，談到空軍和五角大廈如何對他設置障礙，什麼都不給他，在過程中也給了他很多髒話。但審計總署的調查發現，羅斯威爾從 1946 年底到，我想，1948 年、49 年的相關記錄都不見了。他們正在尋找的所有記錄，他們期望找到的，驚喜的是，都不在那裡。而且沒有任何解釋。", "confidence": "high", "notes": ""}
+→ {"text": "但關於羅斯威爾，早在 1994 年，國會的美國審計總署被委任調查羅斯威爾事件。好的。這是應新墨西哥州已故眾議員史蒂文·席夫的倡議，他的選民要求他這樣做，他也照做了。席夫詳細談到了這件事，談到空軍和五角大廈如何對他設置障礙，什麼都不給他，在過程中也給了他很多髒話。但審計總署的調查發現，羅斯威爾從 1946 年底到，我想，1948 年、49 年的相關記錄都不見了。他們正在尋找的所有記錄，他們期望找到的，『驚喜地』，都不在那裡。而且沒有任何解釋。", "confidence": "high", "notes": "原文 surprise 為反諷語氣"}
 
 287. These were records, according to the GAO, that should not have been ever removed. They were permanent, but they were gone. And the Air Force, by the way, was very, very deft in their handling of this, because while the GAO investigation was going on, the United States Air Force took the initiative and did their own study, quote-unquote "study," in which they beat the GAO to the punch in terms of publicity, got their own thing out there and said, oh, yeah, it was a classified balloon project known as Mogul, which was designed to test to see whether the Soviets were detonating their own atomic devices. It's a big, big fat report. It looks very impressive. When you actually read it, it's a load of fluff, in my opinion. But that was their explanation. They beat the GAO to the punch and so they won the PR war.
 → {"text": "根據審計總署的說法，這些記錄本來不應該被移除。它們是永久性的，但它們不見了。順便說一句，空軍在處理這件事上非常靈巧，因為在審計總署調查進行期間，美國空軍主動進行了他們自己的研究，所謂的「研究」，他們在宣傳方面搶在審計總署之前，發布了他們自己的東西並說，哦，是的，那是一個名為莫古爾的機密氣球計畫，設計用來測試蘇聯是否在引爆他們自己的原子裝置。這是一份又大又厚的報告。看起來非常令人印象深刻。但當你實際閱讀它時，依我之見，這是一堆廢話。但那就是他們的解釋。他們搶在審計總署之前，所以他們贏得了公關戰。", "confidence": "high", "notes": ""}
@@ -352,7 +352,7 @@
 → {"text": "重新連結智性的整個想法，intellectus，智性的詞根是 intellectus，區分之間差異的能力。", "confidence": "high", "notes": ""}
 
 326. The whole ability that we develop somewhere between osteopithecus and homo erectus, this intellectual capacity, we alienated ourselves in a separate entity here behind our eyeballs from all the rest of reality.
-→ {"text": "我們在南方古猿與直立人之間某個階段發展出來的整個能力，這種智性能力，使我們在眼球後面將自己異化為與所有其他現實分離的獨立實體。", "confidence": "high", "notes": ""}
+→ {"text": "我們在南方古猿與直立人之間某個階段發展出來的整個能力，這種智性能力，使我們在眼球後面將自己異化為與所有其他現實分離的獨立實體。", "confidence": "high", "notes": "原文 osteopithecus 應為 australopithecus（南方古猿）之誤聽"}
 
 327. Sure.
 → {"text": "當然。", "confidence": "high", "notes": ""}
@@ -385,7 +385,7 @@
 → {"text": "嗯，我在這裡絕不是為了為我的特定宗教信仰做傳教工作，或者當然也不是為我的宗教信仰代言。", "confidence": "high", "notes": ""}
 
 337. I'm a Mormon, but on a fundamental level, many Mormons believe it's consistent with the doctrines of the church that there is life outside the church.
-→ {"text": "我是摩門教徒，但在基本層面上，許多摩門教徒相信，相信教會之外存在生命與教會教義是一致的。", "confidence": "medium", "notes": "此處doctrines應為教義，topics.json標註為潛在轉錄錯誤"}
+→ {"text": "我是摩門教徒，但在基本層面上，許多摩門教徒相信，相信教會之外存在生命與教會教義是一致的。", "confidence": "high", "notes": "topics.json 記錄本段原文 doctors of the church 為 doctrines of the church 之誤聽，譯文已採正確義"}
 
 338. It's an official doctrine of the Church of the Latter-day Saints, the actual belief in extraterrestrial intelligence.
 → {"text": "這是耶穌基督後期聖徒教會的官方教義，對外星智慧的實際信仰。", "confidence": "high", "notes": ""}
@@ -427,7 +427,7 @@
 → {"text": "嗯，謝謝。", "confidence": "high", "notes": ""}
 
 351. Thank you very much, Congresswoman Hooley.
-→ {"text": "非常感謝，胡利女眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "非常感謝，胡利眾議員。", "confidence": "high", "notes": ""}
 
 352. What kind of, I mean, the reaction over the last 30, 40 years in the United States, what's the reaction, and what has happened in the rest of the world?
 → {"text": "什麼樣的，我是說，過去 30、40 年美國的反應，反應是什麼，世界其他地方發生了什麼？", "confidence": "high", "notes": ""}
@@ -529,7 +529,7 @@
 → {"text": "即使在蘇聯時期，也有委員會——實際上在 70 年代末和 80 年代有兩個委員會在運作。", "confidence": "high", "notes": ""}
 
 385. One was a public one through the Soviet Academy of Sciences, and the other one was a secret one by the KGB and the Ministry of Defense, the Soviet military.
-→ {"text": "一個是通過蘇聯科學院的公開委員會，另一個是由克格勃和國防部、蘇聯軍方主導的秘密委員會。", "confidence": "high", "notes": ""}
+→ {"text": "一個是透過蘇聯科學院運作的公開委員會，另一個是由克格勃和國防部、蘇聯軍方主導的秘密委員會。", "confidence": "high", "notes": ""}
 
 386. Nobody knew about that one publicly, but the scientific one was even officially revealed even in the controlled Soviet media.
 → {"text": "公眾沒有人知道那個秘密委員會，但科學委員會甚至在受控的蘇聯媒體中也被官方揭露。", "confidence": "high", "notes": ""}
@@ -727,7 +727,7 @@
 → {"text": "從哪裡？", "confidence": "high", "notes": ""}
 
 448. You know what a pie ball is, it's a high-altitude balloon that they track, they launch them and then track them so they can keep track of upper air currents.
-→ {"text": "你知道探空氣球是什麼，它是一種高空氣球，他們追蹤它，發射它們然後追蹤它們，這樣他們就可以追蹤高空氣流。", "confidence": "high", "notes": ""}
+→ {"text": "你知道探空氣球是什麼，它是一種高空氣球，他們追蹤它，發射它們然後追蹤它們，這樣他們就可以追蹤高空氣流。", "confidence": "high", "notes": "原文 pie ball 應為 pibal（pilot balloon，探空氣球）之誤聽"}
 
 449. But when it was launched, when Marcel launched the thing, he would have been probably standing right in front of base ops because that's where they send them up from.
 → {"text": "但當它發射時，當馬塞爾發射這東西時，他可能就站在基地作戰中心前面，因為那裡是他們發射這些東西的地方。", "confidence": "high", "notes": ""}
@@ -787,7 +787,7 @@
 → {"text": "我是科學與技術委員會的成員，我想當時它只是被稱為科學委員會。", "confidence": "high", "notes": ""}
 
 468. When Schiff held this, I thought it was a hearing apparently, it was a briefing and it was what, about '94 or '95, I came to the Congress in '93 and I remember his interest in that.
-→ {"text": "當希夫舉辦這個活動時，我以為顯然是聽證會，結果是簡報會，那是什麼時候，大約 94 或 95 年，我於 93 年進入國會，我記得他對此的興趣。", "confidence": "medium", "notes": "topics.json標註'05可能是轉錄錯誤，應為'95"}
+→ {"text": "當希夫舉辦這個活動時，我以為顯然是聽證會，結果是簡報會，那是什麼時候，大約 94 或 95 年，我於 93 年進入國會，我記得他對此的興趣。", "confidence": "medium", "notes": "topics.json 記錄原文 about '94 or '05 為 '95 之誤聽，本段原文已正確；句構破碎故降 confidence"}
 
 469. When I was first approached about this week's activities, I was cautioned that if you do this you could possibly be relegated to the lunatic fringe and this may not be good for your potential activities for the rest of your political productive life.
 → {"text": "當我第一次被接觸參與本週的活動時，有人警告我，如果你這樣做，你可能會被歸入瘋子邊緣，這可能對你政治生涯其餘時間的潛在活動不利。", "confidence": "high", "notes": ""}
@@ -802,7 +802,7 @@
 → {"text": "希恩先生，這不是屬於那個範圍嗎？", "confidence": "high", "notes": ""}
 
 473. Oh yes, there's no doubt about this, but the fact of the matter is in a national security state, from the passage of the National Security Act of 1947, there has been an entire caveat on the Constitution that things that fall under national security, when Oliver North can sit right in front of you and say, "Sure, I lied to you, the Congress, because this was a covert operation, that we're in charge, you're not in charge."
-→ {"text": "哦，是的，這毫無疑問，但事實是在國家安全國家體制下，自從 1947 年國家安全法案通過以來，憲法上就一直存在著整個附加條款，即屬於國家安全範疇的事情，當奧利弗·諾斯可以坐在你面前說，「當然，我對你們撒了謊，對國會撒了謊，因為這是秘密行動，我們負責，你們不負責。」", "confidence": "high", "notes": ""}
+→ {"text": "哦，是的，這毫無疑問，但事實是，在國安國家體制下，自從 1947 年國家安全法案通過以來，憲法上就一直存在一個巨大的保留：凡是屬於國家安全範疇的事——當奧利弗·諾斯可以坐在你面前說：『當然，我對你們、對國會撒了謊，因為這是秘密行動；掌權的是我們，不是你們。』", "confidence": "high", "notes": ""}
 
 474. There's an entire national security state kind of subculture that believes that they have the right, not only to hold information back from Congress, but to openly defy Congress.
 → {"text": "整個國家安全國家有一種次文化，他們相信他們有權不僅對國會隱瞞資訊，而且公開違抗國會。", "confidence": "high", "notes": ""}
@@ -838,7 +838,7 @@
 → {"text": "F-35 在 48 個州建造。", "confidence": "high", "notes": ""}
 
 485. There are 96 senators, and I don't know how many hundred representatives support the F-35, not because we may need it, but because it creates jobs.
-→ {"text": "有 96 名參議員，我不知道有多少百名眾議員支持 F-35，不是因為我們可能需要它，而是因為它創造就業機會。", "confidence": "high", "notes": ""}
+→ {"text": "有 96 名參議員，我不知道有多少百名眾議員支持 F-35，不是因為我們可能需要它，而是因為它創造就業機會。", "confidence": "medium", "notes": "查證：美國參議員應為 100 名，原文 96 疑為口誤或轉錄錯誤，保留原數字"}
 
 486. Too many of us cannot differentiate between jobs that consume wealth and jobs that create wealth.
 → {"text": "我們中太多人無法區分消耗財富的工作和創造財富的工作。", "confidence": "high", "notes": ""}
