@@ -4,7 +4,7 @@
 → {"text": "巴特利特主席、尊敬的公民揭露聽證會評審小組成員以及各位同仁，我的名字是琳達·莫爾頓·豪。", "confidence": "high", "notes": ""}
 
 336. I grew up in Boise, Idaho where my father, Chet Moulton, was Director of Aeronautics.
-→ {"text": "我在愛達荷州博伊西長大，我的父親 Chet Moulton 是航空局局長。", "confidence": "high", "notes": ""}
+→ {"text": "我在愛達荷州博伊西長大，我的父親切特·莫爾頓是航空局局長。", "confidence": "high", "notes": ""}
 
 337. One of his friends was Kenneth Arnold, who reported the unidentified flying objects over Mount Rainier in June of 1947.
 → {"text": "他的一位朋友是肯尼斯·阿諾德，他在 1947 年 6 月報告了雷尼爾山上空的不明飛行物。", "confidence": "high", "notes": ""}
@@ -28,7 +28,7 @@
 → {"text": "離開史丹佛後，我前往洛杉磯的 KNBC 電視新聞部工作，我的報導範圍是科學、環境與醫學。", "confidence": "high", "notes": ""}
 
 344. Later I was honored at WCVB in Boston as a producer sharing the station's Peabody Award for Science and Medical Programming Excellence.
-→ {"text": "後來我在波士頓的 WCVB 電視台擔任製作人，榮獲該台科學與醫療節目卓越獎的皮博迪獎。", "confidence": "high", "notes": ""}
+→ {"text": "後來我在波士頓的 WCVB 電視台擔任製作人，分享該台因科學與醫療節目卓越表現而獲得的皮博迪獎。", "confidence": "high", "notes": "sharing 指分享電視台共同榮譽，非個人獲獎"}
 
 345. Then I became Director of Special Projects at the Denver CBS affiliate, KMGH-TV.
 → {"text": "隨後我成為丹佛 CBS 附屬電視台 KMGH-TV 的特別專案總監。", "confidence": "high", "notes": ""}
@@ -52,7 +52,7 @@
 → {"text": "當我 1979 年在科羅拉多州時，這些肢解案件自 1960 年代初期以來就以一系列重複循環的方式出現，我後來了解到它們並不僅限於科羅拉多州，而是遍布美國各地、加拿大以及世界其他地區。", "confidence": "high", "notes": ""}
 
 352. The first research interview that I did for that animal mutilation documentary was with former Logan County Sheriff Tex Graves.
-→ {"text": "我為那部動物肢解紀錄片進行的第一次研究訪談對象是前洛根郡警長 Tex Graves。", "confidence": "high", "notes": ""}
+→ {"text": "我為那部動物肢解紀錄片進行的第一次研究訪談對象是前洛根郡警長泰克斯·格雷夫斯。", "confidence": "high", "notes": ""}
 
 353. He told me bluntly on my first meeting with him, "The perpetrators of animal mutilations are creatures from outer space."
 → {"text": "他在我第一次見面時就直言不諱地告訴我：「動物肢解案的作案者是來自外太空的生物。」", "confidence": "high", "notes": ""}
@@ -64,13 +64,13 @@
 → {"text": "他說：「妳必須找其他人來告訴妳這個真相。」", "confidence": "high", "notes": ""}
 
 356. And in fact, a few ranchers told me about beams of light from rounder glowing objects in the sky that they had seen with their own eyes pick up cattle from a pasture or lure an animal to a pasture, dead with the same bloodless excisions.
-→ {"text": "事實上，有幾位牧場主告訴我，他們親眼看到天空中圓形發光物體射出的光束從牧場吸起牛隻，或將動物引誘到牧場，死後出現同樣的無血切割。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，有幾位牧場主告訴我，他們親眼看到天空中圓形發光物體射出的光束從牧場吸起牛隻，或把動物引誘到牧場上，之後發現牠們已經死亡，身上都有同樣的無血切割。", "confidence": "high", "notes": "原文 rounder 疑為 round 之轉錄錯誤"}
 
 357. The beam transport would explain why there are no tracks, not even the animals own tracks around bodies that are found on dusty pastures that have no grass.
 → {"text": "光束傳送可以解釋為什麼沒有任何足跡，甚至在沒有草的塵土牧場上發現的屍體周圍連動物自己的足跡都沒有。", "confidence": "high", "notes": ""}
 
 358. The animals are found in what is equivalent to face powder with no tracks around a 2,000 pound or 1,800 pound animal that has an ear, eye, tongue, jaw flesh, genitals and rectum removed without any blood.
-→ {"text": "這些動物被發現時周圍是像撲粉一樣的細土，在這隻重達 2，000 磅或 1，800 磅、耳朵、眼睛、舌頭、下顎肌肉、生殖器和直腸被移除且沒有任何血跡的動物周圍沒有任何足跡。", "confidence": "high", "notes": ""}
+→ {"text": "這些動物被發現時，四周的細土就像撲粉一樣，無論是重達 2,000 磅或 1,800 磅的動物，屍體周圍都沒有任何足跡，而牠們的耳朵、眼睛、舌頭、下顎肌肉、生殖器和直腸都已被移除，且沒有留下任何血跡。", "confidence": "high", "notes": ""}
 
 359. The documentary that I produced, A Strange Harvest, was awarded a regional Emmy.
 → {"text": "我製作的紀錄片《詭異收穫》獲得了地區艾美獎。", "confidence": "high", "notes": ""}
@@ -118,7 +118,7 @@
 → {"text": "這份據稱的總統簡報文件還描述了來自一個活體外星生物實體的資訊。", "confidence": "high", "notes": ""}
 
 374. The acronym is EBE, E-B-E, taken from a crash site near Roswell, New Mexico in 1949, two years after the historically famous 1947 July crashes of not disks, but my understanding is wedge-shaped craft that contained small humanoid bodies, both dead and alive.
-→ {"text": "這個縮寫是 EBE，E-B-E，取自 1949 年新墨西哥州羅斯威爾附近墜毀現場，這是在歷史上著名的 1947 年 7 月墜毀事件兩年之後，墜毀的不是碟形飛行器，而據我理解是楔形飛行器，裡面有小型類人屍體，既有死亡的也有活著的。", "confidence": "high", "notes": "原文誤為 EBA，已修正為 EBE"}
+→ {"text": "這個縮寫是 EBE，E-B-E，取自 1949 年新墨西哥州羅斯威爾附近墜毀現場，這是在歷史上著名的 1947 年 7 月墜毀事件兩年之後，墜毀的不是碟形飛行器，而據我理解是楔形飛行器，裡面有小型類人身軀，既有死亡的也有活著的。", "confidence": "high", "notes": "原文誤為 EBA，已修正為 EBE"}
 
 375. I was told that one of the first scientists brought in on autopsies of dead alien bodies was a herpetologist who studies snakes and reptiles.
 → {"text": "我被告知，最早被召來解剖外星屍體的科學家之一是一位研究蛇類和爬行動物的爬蟲學家。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "自 1983 年 4 月 9 日以來，我擁有證人和實體證據支持在柯特蘭空軍基地展示給我看的那份據稱的總統簡報文件，從那時起，我作為調查記者一直在報導我能夠收集到的最確鑿的事實和證據，透過電視、廣播以及我撰寫的書籍。", "confidence": "high", "notes": ""}
 
 378. Today on April 29, 2013, 30 years later, as a longtime TV producer and investigative reporter who produces the science and environment website, earthfiles.com, and also reports monthly for premier radio networks broadcast of Coast to Coast AM in Los Angeles, I can, before you today, assert that the pressure of facts accumulated from military and intelligent eyewitnesses, from ranchers and pathologists, from pilots and astronauts, from fellow human experiencers in the UFO abduction syndrome, and from leaks by scientists and computer experts who have worked on back engineering extraterrestrial technologies extracted from non-human craft, there is no doubt that the United States government since World War II and the FDR and Truman administrations has known about the extraterrestrial interactions with earth and that their policies of denial in the alleged interest of national security
-→ {"text": "今天是 2013 年 4 月 29 日，30 年後，作為一名長期從事電視製作和調查報導工作的記者，我經營科學與環境網站 earthfiles.com，同時每月為洛杉磯首屈一指的廣播網絡 Coast to Coast AM 報導，我今天可以在各位面前斷言，從軍事和情報目擊證人、從牧場主和病理學家、從飛行員和太空人、從 UFO 綁架症候群的人類經歷者同伴、以及從曾從事逆向工程研究從非人類飛行器中提取的外星技術的科學家和電腦專家的洩密中累積的事實壓力證明，毫無疑問，美國政府自第二次世界大戰以及羅斯福和杜魯門政府以來就已經知道外星生命與地球的互動，而他們以所謂國家安全利益為由的否認政策", "confidence": "high", "notes": ""}
+→ {"text": "今天是 2013 年 4 月 29 日，30 年後，作為一名長期從事電視製作和調查報導工作的記者，我經營科學與環境網站 earthfiles.com，同時每月為洛杉磯首屈一指的廣播網路 Coast to Coast AM 報導，我今天可以在各位面前斷言，從軍事和情報目擊證人、從牧場主和病理學家、從飛行員和太空人、從 UFO 綁架症候群的人類經歷者同伴、以及從曾從事逆向工程研究從非人類飛行器中提取的外星技術的科學家和電腦專家的洩密中累積的事實壓力證明，毫無疑問，美國政府自第二次世界大戰以及羅斯福和杜魯門政府以來就已經知道外星生命與地球的互動，而他們以所謂的國家安全理由的否認政策", "confidence": "high", "notes": "原文 military and intelligent eyewitnesses 疑為 intelligence 之轉錄錯誤，譯文已按「情報目擊證人」處理"}
 
 379. are still in effect.
 → {"text": "至今仍在實施。", "confidence": "high", "notes": ""}
@@ -142,7 +142,7 @@
 → {"text": "在一個應該是民有、民治、民享的民主政府中，國家安全不應該建立在謊言和保密之上。", "confidence": "high", "notes": ""}
 
 382. Every American and the whole world deserves the truth about non-humans past, present, and future interacting with this planet.
-→ {"text": "每一位美國人和全世界都應該知道關於非人類過去、現在和未來與這個星球互動的真相。", "confidence": "high", "notes": ""}
+→ {"text": "每一位美國人和全世界都應該知道過去、現在和未來與這個星球互動的非人類存有的真相。", "confidence": "high", "notes": ""}
 
 383. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}

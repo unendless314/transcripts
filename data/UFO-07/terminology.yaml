@@ -30,7 +30,7 @@ terms:
     - 664
     - 665
     - 689
-    notes: 常見分類：Top Secret (絕密)、Secret (機密)、Confidential (密)
+    notes: 常見分類：Top Secret (最高機密)、Secret (機密)、Confidential (密)
 - term: Cover-up
   senses:
   - id: coverup_government

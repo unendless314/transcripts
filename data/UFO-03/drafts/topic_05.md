@@ -154,7 +154,7 @@
 → {"text": "更大的問題是，我們為什麼要保守這個秘密？", "confidence": "high", "notes": ""}
 
 324. There is a document that I have from the Federation of American Scientists released two years ago that there are 5,135 patents that have been seized under the National Security Act.
-→ {"text": "我手上有一份美國科學家聯盟（Federation of American Scientists）兩年前發布的文件，顯示有 5，135 項專利已根據《國家安全法》（National Security Act）被扣押。", "confidence": "high", "notes": ""}
+→ {"text": "我手上有一份美國科學家聯盟（Federation of American Scientists）兩年前發布的文件，顯示有 5,135 項專利已根據《國家安全法》（National Security Act）被扣押。", "confidence": "high", "notes": ""}
 
 325. Dr. Greer, we have to end your response, and it is Senator Gravel.
 → {"text": "Dr. Greer，我們必須結束您的回答，現在輪到格拉維爾參議員（Senator Gravel）。", "confidence": "high", "notes": ""}
@@ -586,7 +586,7 @@
 → {"text": "那些，是的，根據定義，如果國防部長不斷追蹤——所以那 2.3 兆美元中的很多是那些？", "confidence": "high", "notes": ""}
 
 468. Over several decades, and we estimate it's between, at this point, $100 billion and $200 billion a year.
-→ {"text": "在幾十年內，我們估計目前每年在 1，000 億至 2，000 億美元之間。", "confidence": "high", "notes": ""}
+→ {"text": "在幾十年內，我們估計目前每年在 1,000 億至 2,000 億美元之間。", "confidence": "high", "notes": ""}
 
 469. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}

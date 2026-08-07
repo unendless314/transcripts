@@ -23,7 +23,8 @@
 │       ├── main.yaml      # 主資料檔案
 │       ├── topics.json    # 主題分析結果
 │       ├── terminology.yaml
-│       ├── guidelines.md  # 翻譯風格指南
+│       ├── translation_guidelines.md  # 翻譯風格指南
+│       ├── proofread_guidelines.md    # 校稿準則
 │       └── drafts/        # 翻譯草稿檔案
 ├── output/                # 輸出結果
 │   └── UFO-XX/
@@ -111,7 +112,7 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/UFO-01.yaml 
 編輯 `data/UFO-01/drafts/topic_XX.md` 檔案，填入翻譯內容。
 
 參考資料：
-- `data/UFO-01/guidelines.md` - 翻譯風格指南
+- `data/UFO-01/translation_guidelines.md` - 翻譯風格指南
 - `data/UFO-01/terminology.yaml` - 術語對照表
 - `data/UFO-01/topics.json` - 主題摘要
 

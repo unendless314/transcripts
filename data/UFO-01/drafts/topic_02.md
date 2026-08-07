@@ -4,13 +4,13 @@
 → {"text": "我想先說明，我們目前晚了大約 13 分鐘。", "confidence": "high", "notes": ""}
 
 68. If we could have Ms. Howe, Mr. Dolan, Mr. Friedman, and Mr. Cameron come forward.
-→ {"text": "請 Howe 女士、Dolan 先生、Friedman 先生以及 Cameron 先生上前。", "confidence": "high", "notes": ""}
+→ {"text": "請豪女士、多蘭先生、弗里德曼先生以及卡麥隆先生上前。", "confidence": "high", "notes": ""}
 
 69. And in a moment I have the distinct honor of administering the oath.
 → {"text": "稍後我將有幸為各位主持宣誓。", "confidence": "high", "notes": ""}
 
 70. And gentlemen and Ms. Hell, if you'd like to repeat after me, I do hereby affirm --
-→ {"text": "各位先生與 Howe 女士，請跟我複誦，我在此宣誓——", "confidence": "high", "notes": "原文 Ms. Hell 是 Ms. Howe 的誤聽"}
+→ {"text": "各位先生與豪女士，請跟我複誦，我在此宣誓——", "confidence": "high", "notes": "原文 Ms. Hell 是 Ms. Howe 的誤聽"}
 
 
 ## Speaker Group 3
@@ -91,7 +91,7 @@
 → {"text": "CIA、NSA 以及所有軍事情報部門歷來都收到 UFO 報告，並將此事視為嚴重關切事項進行討論。", "confidence": "high", "notes": ""}
 
 92. And yet, the military and other branches of government have created the fiction for public consumption only that the UFO problem is nothing to be concerned about, certainly not the result of little green men.
-→ {"text": "然而，軍方和其他政府部門僅為公眾消費創造了一個虛構說法，聲稱 UFO 問題不值得關注，當然也不是小綠人所為。", "confidence": "high", "notes": ""}
+→ {"text": "然而，軍方和其他政府部門編造了一個只說給公眾聽的虛構說法，聲稱 UFO 問題不值得關注，當然也不是小綠人所為。", "confidence": "high", "notes": ""}
 
 93. We are fortunate that starting in the 1970s, the US Freedom of Information Act began to help researchers learn some of the truth that lay behind the facade of propaganda.
 → {"text": "幸運的是，從 1970 年代開始，美國資訊自由法開始幫助研究人員了解隱藏在宣傳表象背後的部分真相。", "confidence": "high", "notes": ""}
@@ -163,7 +163,7 @@
 → {"text": "「被描述為頂部和底部平坦，從正面看具有圓邊並略微斜角，」這裡有相當多的細節，「沒有蒸氣軌跡或排氣或可見的推進方式，被描述為以極快速度行進。」", "confidence": "high", "notes": ""}
 
 116. And one more quote from the early years, this one from a former head of the CIA, Roscoe Hillencutter, speaking in 1960, "Behind the scenes, high ranking Air Force officers are soberly concerned about UFOs, but through official secrecy and ridicule, many citizens are led to believe the unknown flying objects are nonsense."
-→ {"text": "還有一段早期的引文，這段來自 CIA 前局長羅斯科·希倫庫特，他在 1960 年說：「在幕後，高階空軍軍官嚴肅地關注 UFO，但透過官方保密與嘲笑，許多公民被引導相信這些不明飛行物體是無稽之談。」", "confidence": "high", "notes": ""}
+→ {"text": "還有一段早期的引文，這段來自 CIA 前局長羅斯科·希倫科特，他在 1960 年說：「在幕後，高階空軍軍官嚴肅地關注 UFO，但透過官方保密與嘲笑，許多公民被引導相信這些不明飛行物體是無稽之談。」", "confidence": "high", "notes": "原文 Roscoe Hillencutter 為 Hillenkoetter 之誤拼（首任 CIA 局長），譯名以正確拼寫為準"}
 
 117. Now how much clearer a statement should responsible citizens, academicians, media, and political leadership require before demanding to get some reasonable answers as to what is going on behind the scenes in relation to the phenomenon of UFOs?
 → {"text": "那麼，負責任的公民、學者、媒體和政治領導人還需要多清楚的聲明，才會要求就 UFO 現象幕後發生的事情獲得一些合理的答案？", "confidence": "high", "notes": ""}
@@ -187,13 +187,13 @@
 → {"text": "我們也得知 UFO 直接從雷達上消失了。", "confidence": "high", "notes": ""}
 
 124. The Air Force conclusion was that it could have been "any number of things."
-→ {"text": "空軍的結論是這可能是「任何數量的東西」。", "confidence": "high", "notes": ""}
+→ {"text": "空軍的結論是它「可能是任何東西」。", "confidence": "high", "notes": ""}
 
 125. Now perhaps we might like to know precisely which things.
 → {"text": "那麼，也許我們會想確切知道是哪些東西。", "confidence": "high", "notes": ""}
 
 126. What blue object can descend at an 80 degree angle, stop, reverse course, and accelerate away from two F-16 jets near the nation's capital in post-9/11 America?
-→ {"text": "什麼藍色物體能夠以 80 度角下降、停止、反轉方向，然後在 9/11 後的美國首都附近加速遠離兩架 F-16 噴射機？", "confidence": "high", "notes": ""}
+→ {"text": "什麼藍色物體能夠以 80 度角下降、停止、反轉方向，然後在 9/11 事件後的美國首都附近加速遠離兩架 F-16 戰機？", "confidence": "high", "notes": ""}
 
 127. It might be an interesting question to ponder.
 → {"text": "這可能是一個值得思考的有趣問題。", "confidence": "high", "notes": ""}
@@ -226,7 +226,7 @@
 → {"text": "事實上，還有壓倒性數量的案例。", "confidence": "high", "notes": ""}
 
 137. The two largest websites for collecting North American UFO reports, the National UFO Reporting Center and the Mutual UFO Network, have a combined total of well over 10,000 reports every year.
-→ {"text": "收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心和 UFO 互動網絡，每年合計收到遠超過 10，000 份報告。", "confidence": "high", "notes": ""}
+→ {"text": "收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心和 UFO 互動網路（MUFON），每年合計收到遠超過 10,000 份報告。", "confidence": "high", "notes": ""}
 
 138. Every year.
 → {"text": "每年。", "confidence": "high", "notes": ""}
@@ -241,10 +241,10 @@
 → {"text": "其中許多確實令人難以置信，並且許多確實已接受後續調查。", "confidence": "high", "notes": ""}
 
 142. They are unexplained, and at least by our conventional wisdom, unexplainable.
-→ {"text": "它們無法解釋，至少以我們的常規智慧而言，無法解釋。", "confidence": "high", "notes": ""}
+→ {"text": "它們尚未獲得解釋，而至少以我們的常規認知而言，是無法解釋的。", "confidence": "high", "notes": ""}
 
 143. The combination of astonishing performance, powerful statements from selected senior officials, and unremitting silence and dismissal by our political establishment point to a problem.
-→ {"text": "驚人的性能表現、精選高階官員的有力聲明，以及政治體制持續不斷的沉默與否認，這些結合在一起指向一個問題。", "confidence": "high", "notes": ""}
+→ {"text": "驚人的性能表現、特定高階官員的有力聲明，以及政治體制持續不斷的沉默與否認，這些結合在一起指向一個問題。", "confidence": "high", "notes": ""}
 
 144. This is not merely the problem of cognitive dissonance.
 → {"text": "這不僅僅是認知失調的問題。", "confidence": "high", "notes": ""}

@@ -534,13 +534,13 @@ terms:
         notes: 由Battelle Memorial Institute執行，官方新聞稿刻意扭曲研究結論
 
   # ===== R =====
-  - term: Roscoe Hillencutter
+  - term: Roscoe Hillenkoetter
     senses:
-      - id: hillencutter_cia_director
-        definition: CIA前局長
-        preferred_translation: 羅斯科·希倫庫特
+      - id: hillenkoetter_cia_director
+        definition: 首任CIA局長（1947–1950）
+        preferred_translation: 羅斯科·希倫科特
         segments: [116]
-        notes: 1960年公開表示高階空軍官員私下嚴肅看待UFO，但透過保密與嘲笑誤導公眾
+        notes: 1960年公開表示高階空軍官員私下嚴肅看待UFO，但透過保密與嘲笑誤導公眾。Whisper原文誤拼為Hillencutter
 
   - term: Roswell
     senses:

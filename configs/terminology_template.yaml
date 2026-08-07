@@ -75,7 +75,7 @@ terms:
       - id: classified_information
         definition: 政府或軍方列為機密的資訊或文件
         preferred_translation: 機密
-        notes: 常見分類：Top Secret (絕密)、Secret (機密)、Confidential (密)
+        notes: 常見分類：Top Secret (最高機密)、Secret (機密)、Confidential (密)
 
   - term: Close Encounter
     senses:

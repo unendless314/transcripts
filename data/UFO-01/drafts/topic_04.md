@@ -4,7 +4,7 @@
 → {"text": "感謝邀請我來到這裡。", "confidence": "high", "notes": ""}
 
 207. As a retired nuclear physicist who has been studying the evidence about UFOs since 1958 and since 1967 has given well over 700 lectures in all 50 states, 10 Canadian provinces and 18 other countries, I've reached four major conclusions.
-→ {"text": "作為一位退休的核子物理學家，自 1958 年以來一直在研究有關不明飛行物 (UFO) 的證據，並且自 1967 年以來已在全美 50 個州、加拿大 10 個省份以及其他 18 個國家進行了超過 700 場演講，我得出了四個主要結論。", "confidence": "high", "notes": ""}
+→ {"text": "作為一位退休的核物理學家，自 1958 年以來一直在研究有關不明飛行物 (UFO) 的證據，並且自 1967 年以來已在全美 50 個州、加拿大 10 個省份以及其他 18 個國家進行了超過 700 場演講，我得出了四個主要結論。", "confidence": "high", "notes": ""}
 
 208. One, the evidence is overwhelming that Earth is being visited by intelligently controlled extraterrestrial spacecraft.
 → {"text": "第一，有壓倒性的證據顯示，地球正被具有智慧控制的外星太空船造訪。", "confidence": "high", "notes": ""}
@@ -46,10 +46,10 @@
 → {"text": "這些結論的依據是，第一，至少有五項大規模科學研究提供了實質證據。", "confidence": "high", "notes": ""}
 
 221. These include Project Blue Book Special Report Number 14, the largest study ever done for the United States Air Force, covering more than 3,200 cases with more than 200 charts, tables, graphs, and maps.
-→ {"text": "其中包括藍皮書計畫特別報告14號 (Project Blue Book Special Report Number 14)，這是為美國空軍進行的最大規模研究，涵蓋超過 3，200 個案例，包含超過 200 個圖表、表格、圖形與地圖。", "confidence": "high", "notes": ""}
+→ {"text": "其中包括藍皮書計畫特別報告 14 號 (Project Blue Book Special Report Number 14)，這是為美國空軍進行的最大規模研究，涵蓋超過 3,200 個案例，包含超過 200 個圖表、表格、圖形與地圖。", "confidence": "high", "notes": ""}
 
 222. It is quality evaluation, cross-comparison between unknowns and knowns.
-→ {"text": "這是一個質量評估，對未知案例與已知案例進行交叉比較。", "confidence": "high", "notes": ""}
+→ {"text": "這是一個品質評估，對未知案例與已知案例進行交叉比較。", "confidence": "high", "notes": ""}
 
 223. The official press release lied about the data, I'll document that in a minute, is almost never referenced by UFO debunkers.
 → {"text": "官方新聞稿對數據撒了謊——我稍後會證明這點——而 UFO 揭穿者幾乎從不引用這份報告。", "confidence": "high", "notes": ""}
@@ -61,7 +61,7 @@
 → {"text": "但沒有任何案例同時具備可靠性和趣味性。", "confidence": "high", "notes": ""}
 
 226. This statement was not backed up by reference to data, but is directly contradicted by the Blue Book Special Report 14 data.
-→ {"text": "這個說法並沒有數據支持，反而與藍皮書特別報告14號的數據直接矛盾。", "confidence": "high", "notes": ""}
+→ {"text": "這個說法並沒有數據支持，反而與藍皮書特別報告 14 號的數據直接矛盾。", "confidence": "high", "notes": ""}
 
 227. It was found that the more reliable the case, the more likely to be unexplainable.
 → {"text": "研究發現，案例越可靠，就越可能無法解釋。", "confidence": "high", "notes": ""}
@@ -112,7 +112,7 @@
 → {"text": "他訪談了 500 名目擊者，但他呈現了 41 個傑出案例，包括多名目擊者的雷達視覺目擊、飛行員目擊、天文學家目擊、以及氣象學家目擊。", "confidence": "high", "notes": ""}
 
 243. He noted physical trace cases of which, by now, more than 5,000 have been collected by Ted Phillips from 95 countries.
-→ {"text": "他注意到了物理痕跡案例，至今 Ted Phillips 已從 95 個國家收集了超過 5，000 個此類案例。", "confidence": "high", "notes": ""}
+→ {"text": "他注意到了物理痕跡案例，至今泰德·菲利普斯已從 95 個國家收集了超過 5,000 個此類案例。", "confidence": "high", "notes": ""}
 
 244. They get dull, same thing was happening all over the world.
 → {"text": "這些案例變得單調，因為同樣的事情在全世界各地都在發生。", "confidence": "high", "notes": ""}
@@ -124,7 +124,7 @@
 → {"text": "這些案例中有六分之一涉及在飛行器停在地面時，與之相關的小型生物的報告。", "confidence": "high", "notes": ""}
 
 247. I was the youngest contributor to those, and I think the only survivor since then, to those hearings in 1968.
-→ {"text": "我是 1968 年那些聽證會中最年輕的貢獻者，我想我也是至今唯一的倖存者。", "confidence": "high", "notes": ""}
+→ {"text": "我是 1968 年那些聽證會中最年輕的參與者，我想我也是至今唯一的倖存者。", "confidence": "high", "notes": ""}
 
 248. And I was the only one without a PhD, that might tell you something, I'm not sure what.
 → {"text": "而且我是唯一一個沒有博士學位的人——這可能說明了什麼，我不確定是什麼。", "confidence": "high", "notes": ""}
@@ -133,13 +133,13 @@
 → {"text": "順帶一提，這些聽證會記錄至今仍可在線上取得。", "confidence": "high", "notes": ""}
 
 250. One of the contributors was Dr. J. Allen Hynek, chairman of the astronomy department at Northwestern University, and for 20 years, United States Air Force scientific consultant to Project Blue Book.
-→ {"text": "其中一位貢獻者是 Dr. J. Allen Hynek，他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。", "confidence": "high", "notes": ""}
+→ {"text": "其中一位參與者是 J·艾倫·海尼克博士，他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。", "confidence": "high", "notes": ""}
 
 251. His book, The UFO Experience, a Scientific Inquiry, should be required reading by anybody who's going to talk about flying saucers, especially negatively.
 → {"text": "他的書《The UFO Experience， a Scientific Inquiry》應該是任何要談論飛碟的人——特別是持負面態度的人——的必讀讀物。", "confidence": "high", "notes": ""}
 
 252. According to another source here, according to a special UFO subcommittee of the American Institute of Aeronautics and Astronautics, world's largest group of space scientists, 30% of the 117 cases studied by the University of Colorado, government-sponsored study in the late '60s, and discussed in the Condon Report, Edward U. Condon, could not be identified, and yet the headline said, "Scientific study shows no UFOs."
-→ {"text": "根據另一個資料來源，根據美國航空航天學會——世界最大的太空科學家團體——的 UFO 特別小組委員會，科羅拉多大學在 60 年代後期進行的政府資助研究中所研究的 117 個案例中，有 30% 無法被識別，而這些案例在 Edward U. Condon 的康登報告 (Condon Report) 中有討論，但頭條卻寫著「科學研究顯示沒有 UFO」。", "confidence": "high", "notes": ""}
+→ {"text": "根據另一個資料來源，根據美國航空太空學會——世界最大的太空科學家團體——的 UFO 特別小組委員會，科羅拉多大學在 60 年代後期進行的政府資助研究中所研究的 117 個案例中，有 30% 無法被識別，而這些案例在愛德華·康登的康登報告 (Condon Report) 中有討論，但頭條卻寫著「科學研究顯示沒有 UFO」。", "confidence": "high", "notes": ""}
 
 253. Totally untrue.
 → {"text": "完全不真實。", "confidence": "high", "notes": ""}
@@ -148,7 +148,7 @@
 → {"text": "有一份名為《UFO Evidence》的兩卷報告，其中包含大量數據，數百個無法識別的案例。", "confidence": "high", "notes": ""}
 
 255. There's also the COMETA Report from France, which goes into numerous excellent officially involved cases in France.
-→ {"text": "還有來自法國的COMETA報告 (COMETA Report)，其中詳細介紹了許多由法國官方參與的優秀案例。", "confidence": "high", "notes": ""}
+→ {"text": "還有來自法國的 COMETA 報告 (COMETA Report)，其中詳細介紹了許多由法國官方參與的優秀案例。", "confidence": "high", "notes": ""}
 
 256. There are a dozen PhD theses about UFOs.
 → {"text": "有十幾篇關於 UFO 的博士論文。", "confidence": "high", "notes": ""}
@@ -175,7 +175,7 @@
 → {"text": "這可以說是一種疾病、一種病症，感染了那些自以為知道一切但其實並不了解的人。", "confidence": "high", "notes": ""}
 
 264. A really bad example of bias and ignorance appeared in Astronomy Magazine this month, May 2013, by Dr. Phil Plait.
-→ {"text": "一個極糟糕的偏見與無知例子出現在本月——2013 年 5 月——的《Astronomy Magazine》上，作者是 Dr. Phil Plait。", "confidence": "high", "notes": ""}
+→ {"text": "一個極糟糕的偏見與無知例子出現在本月——2013 年 5 月——的《Astronomy Magazine》上，作者是菲爾·普萊特博士。", "confidence": "high", "notes": ""}
 
 265. He does a blog, Bad Astronomy.
 → {"text": "他經營一個部落格，名為《Bad Astronomy》。", "confidence": "high", "notes": ""}
@@ -184,7 +184,7 @@
 → {"text": "信不信由你，這篇文章的標題是《The Science Behind UFOs》，而且是封面故事。", "confidence": "high", "notes": ""}
 
 267. He somehow manages to mention none of the five large-scale scientific studies that I've just talked about, or any of the 5,000 physical trace cases, or any multiple witness radar visual cases, or abductions nor advanced technology studies at national labs and an industry showing trips to nearby stars in reasonable round-trip times using fusion propulsion are feasible.
-→ {"text": "他竟然完全沒有提及我剛才談到的五項大規模科學研究，也沒有提到任何 5，000 個物理痕跡案例，或任何多名目擊者的雷達視覺案例，或綁架案，也沒有提到國家實驗室與產業界進行的先進技術研究——這些研究顯示使用核融合推進在合理的往返時間內前往鄰近恆星是可行的。", "confidence": "high", "notes": ""}
+→ {"text": "他竟然完全沒有提及我剛才談到的五項大規模科學研究，也沒有提到任何 5,000 個物理痕跡案例，或任何多名目擊者的雷達視覺案例，或綁架案，也沒有提到國家實驗室與產業界進行的先進技術研究——這些研究顯示使用核融合推進在合理的往返時間內前往鄰近恆星是可行的。", "confidence": "high", "notes": ""}
 
 268. I worked on fusion back in the early '60s.
 → {"text": "我在 60 年代初期從事過核融合研究。", "confidence": "high", "notes": ""}
@@ -199,19 +199,19 @@
 → {"text": "如果你願意的話，原子與 UFO 結合在一起的一個很好的例證是，在很短的時間內，我們從二戰時期 1945 年的 10 噸重型炸彈——需要一架大型 B-29 轟炸機才能攜帶。", "confidence": "high", "notes": ""}
 
 272. That was in 1944, in 1945, the first A-bomb, 15,000 tons of TNT, not 10.
-→ {"text": "那是在 1944 年，到了 1945 年，第一顆原子彈的威力相當於 15，000 噸 TNT，而不是 10 噸。", "confidence": "high", "notes": ""}
+→ {"text": "那是在 1944 年，到了 1945 年，第一顆原子彈的威力相當於 15,000 噸 TNT，而不是 10 噸。", "confidence": "high", "notes": ""}
 
 273. Seven years later, which is nothing, cost a lot of money, we set off the first fusion device, an H-bomb, called Mike, incidentally.
 → {"text": "七年後——這根本不算什麼，花了很多錢——我們引爆了第一個核融合裝置，也就是氫彈，順帶一提，它叫做 Mike。", "confidence": "high", "notes": ""}
 
 274. It released the energy of 10 million tons of TNT.
-→ {"text": "它釋放了相當於 1，000 萬噸 TNT 的能量。", "confidence": "high", "notes": ""}
+→ {"text": "它釋放了相當於 1,000 萬噸 TNT 的能量。", "confidence": "high", "notes": ""}
 
 275. So you go from 10 to 15,000 to 10 million tons.
-→ {"text": "所以你從 10 噸到 15，000 噸再到 1，000 萬噸。", "confidence": "high", "notes": ""}
+→ {"text": "所以你從 10 噸到 15,000 噸再到 1,000 萬噸。", "confidence": "high", "notes": ""}
 
 276. And the Russians sent off one that was 50 million tons of TNT.
-→ {"text": "而俄羅斯人引爆了一顆相當於 5，000 萬噸 TNT 的氫彈。", "confidence": "high", "notes": ""}
+→ {"text": "而俄羅斯人引爆了一顆相當於 5,000 萬噸 TNT 的氫彈。", "confidence": "high", "notes": ""}
 
 277. The point is we know how to get to the stars if we want to spend the money.
 → {"text": "重點是，如果我們願意花錢，我們知道如何到達恆星。", "confidence": "high", "notes": ""}
@@ -259,13 +259,13 @@
 → {"text": "所以當有人說某件事是不可能的時候，我們有理由非常謹慎。", "confidence": "high", "notes": ""}
 
 292. I have a whole book, it's impossible, isn't it, was going to be the title, but science was wrong is what the publisher decided on.
-→ {"text": "我有一整本書，原本打算用「這是不可能的，對吧」作為書名，但出版商決定用「科學錯了」這個標題。", "confidence": "high", "notes": ""}
+→ {"text": "我有一整本書，原本打算用《這是不可能的，對吧》作為書名，但出版商決定用《科學錯了》這個標題。", "confidence": "high", "notes": ""}
 
 293. I like the first one better, but anyway, let's look at another progression, not only in bombs.
 → {"text": "我比較喜歡第一個，但無論如何，讓我們看看另一個進展，不僅僅是炸彈方面。", "confidence": "high", "notes": ""}
 
 294. Ferdinand Magellan's ship, he didn't make it, but his ship did, went around the planet in three years, in 1523, three years, three years before the mast, you might say.
-→ {"text": "Ferdinand Magellan 的船——他本人沒能完成，但他的船完成了——在 1523 年花了三年時間環繞地球，三年，你可以說是在桅杆前的三年。", "confidence": "high", "notes": ""}
+→ {"text": "斐迪南·麥哲倫的船——他本人沒能完成，但他的船完成了——在 1523 年花了三年時間環繞地球，三年，你可以說是在船上度過的三年。", "confidence": "medium", "notes": "原文 1523 年疑為 1522 年之誤：麥哲倫船隊維多利亞號於 1522 年 9 月返抵西班牙，保留原數字"}
 
 295. Science fiction writers had going around the world in 80 days in the 19th century.
 → {"text": "19 世紀的科幻小說作家寫了 80 天環遊世界的故事。", "confidence": "high", "notes": ""}
@@ -277,7 +277,7 @@
 → {"text": "進步來自於用不同的方式做事。", "confidence": "high", "notes": ""}
 
 298. A second problem I have found, I worked under security for 14 years for major companies like GE, GM, Westinghouse, McDonald Douglas, TRW systems, Aerojet-General Nucleonics, I set a record for working on cancelled government sponsored research and development programs.
-→ {"text": "我發現的第二個問題是，我曾在保密條件下為 GE、GM、Westinghouse、McDonald Douglas、TRW systems、Aerojet-General Nucleonics 等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。", "confidence": "high", "notes": "原文「aerogenerals, nucleonics」為 Whisper 轉錄錯誤，已修正為 Aerojet-General Nucleonics（航空噴射通用核子公司）"}
+→ {"text": "我發現的第二個問題是，我曾在保密條件下為 GE、GM、西屋、麥克唐納-道格拉斯、TRW 系統、航空噴射通用核子等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。", "confidence": "high", "notes": "原文 aerogenerals, nucleonics 應為 Aerojet-General Nucleonics；McDonald Douglas 應為 McDonnell Douglas"}
 
 299. Not intentionally, you understand.
 → {"text": "你要理解，這不是故意的。", "confidence": "high", "notes": ""}
@@ -286,7 +286,7 @@
 → {"text": "另一個錯誤的迷思是，政府無法保守秘密。", "confidence": "high", "notes": ""}
 
 301. Two astronomers have demonstrated this, Dr. Seth Shostak of the SETI Institute, S-E-T-I, that stands for Silly Effort to Investigate, incidentally, that's another story which I've written about in the book, said you can prove that the government can't keep secrets by how badly FEMA fouled up with Katrina and how poorly the post offices operated.
-→ {"text": "兩位天文學家展示了這一點，SETI研究所 (SETI Institute) 的 Dr. Seth Shostak——S-E-T-I，順帶一提，我把它理解為「愚蠢的調查努力」，這是我在書中寫過的另一個故事——他說你可以通過 FEMA 在 Katrina 颶風中的糟糕表現以及郵局運作的低效來證明政府無法保守秘密。", "confidence": "high", "notes": ""}
+→ {"text": "兩位天文學家展示了這一點，SETI研究所 (SETI Institute) 的賽斯·蕭斯塔克博士——S-E-T-I，順帶一提，我把它理解為「愚蠢的調查努力」，這是我在書中寫過的另一個故事——他說你可以透過 FEMA 在卡崔娜颶風中的糟糕表現以及郵局運作的低效來證明政府無法保守秘密。", "confidence": "high", "notes": ""}
 
 302. If you can see a connection between either of those things and governments keeping secrets, I sure can't.
 → {"text": "如果你能看出這兩件事與政府保守秘密之間有什麼關聯，我肯定看不出來。", "confidence": "high", "notes": ""}
@@ -295,16 +295,16 @@
 → {"text": "他沒有提到 CIA、DIA、NRO、NSA 以及所有那些字母縮寫的情報機構。", "confidence": "high", "notes": ""}
 
 304. Another great astronomer, Dr. Neil deGrasse Tyson, head of Hayden Planetarium, he said the proof that governments can't keep secrets is shown by how much we know about President Clinton's genitalia.
-→ {"text": "另一位偉大的天文學家，Hayden Planetarium 負責人 Dr. Neil deGrasse Tyson，他說政府無法保守秘密的證據是我們對柯林頓總統生殖器的了解程度。", "confidence": "high", "notes": ""}
+→ {"text": "另一位偉大的天文學家，海頓天象館館長尼爾·德格拉斯·泰森博士，他說政府無法保守秘密的證據是我們對柯林頓總統生殖器的了解程度。", "confidence": "high", "notes": ""}
 
 305. Now if you can figure that one out you're better than I am.
 → {"text": "如果你能理解那個邏輯，你比我強。", "confidence": "high", "notes": ""}
 
 306. Now the proof, and I'll show some of this in my lecture Tuesday night, about government cover-up, it's not just an idle concept.
-→ {"text": "現在關於政府掩蓋的證據——我會在星期二晚上的演講中展示其中一些——這不僅僅是一個空洞的概念。", "confidence": "high", "notes": ""}
+→ {"text": "現在關於政府掩蓋真相的證據——我會在星期二晚上的演講中展示其中一些——這不僅僅是一個空洞的概念。", "confidence": "high", "notes": ""}
 
 307. If you wish you can get a hold of 156 top-secret Umbra NSA UFO documents.
-→ {"text": "如果你願意，你可以取得 156 份絕密 Umbra 等級的 NSA UFO 文件。", "confidence": "high", "notes": ""}
+→ {"text": "如果你願意，你可以取得 156 份最高機密 Umbra 等級的 NSA UFO 文件。", "confidence": "high", "notes": ""}
 
 308. They're not very interesting because all you can read is one sentence per page.
 → {"text": "它們不太有趣，因為每頁只能讀到一句話。", "confidence": "high", "notes": ""}
@@ -346,7 +346,7 @@
 → {"text": "他被要求調查關於藍皮書計畫 (Project Blue Book) 應該如何處理，這些報告不是藍皮書系統的一部分。", "confidence": "high", "notes": ""}
 
 321. UFO reports which could affect national security are not part of the Blue Book system.
-→ {"text": "可能影響國家安全的 UFO 報告不是 Blue Book 系統的一部分。", "confidence": "high", "notes": ""}
+→ {"text": "可能影響國家安全的 UFO 報告不是藍皮書系統的一部分。", "confidence": "high", "notes": ""}
 
 322. Incredible statement.
 → {"text": "令人難以置信的聲明。", "confidence": "high", "notes": ""}

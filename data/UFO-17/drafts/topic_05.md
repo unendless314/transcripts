@@ -79,7 +79,7 @@
 → {"text": "這個物體看起來非常巨大，大約有半英里寬，將近一英里長。", "confidence": "high", "notes": ""}
 
 327. The lights came past us at approximately 3,000 feet AGL, that's above ground level.
-→ {"text": "這些燈光從我們附近飛過，高度大約是3，000英尺 AGL，也就是離地高度。", "confidence": "high", "notes": "AGL = Above Ground Level，離地高度"}
+→ {"text": "這些燈光從我們附近飛過，高度大約是3,000英尺 AGL，也就是離地高度。", "confidence": "high", "notes": "AGL = Above Ground Level，離地高度"}
 
 328. It was up close and personal.
 → {"text": "這是近距離的親身經歷。", "confidence": "high", "notes": ""}
@@ -214,7 +214,7 @@
 → {"text": "果然，一份非常詳細、全面的報告出爐了。", "confidence": "high", "notes": ""}
 
 372. There it was, an unidentified aircraft with no transponder traveling from east to west at 1,900 to 2,100 miles an hour.
-→ {"text": "報告顯示，有一架沒有航空應答機（transponder）的不明飛行器，以每小時1，900到2，100英里的速度由東向西飛行。", "confidence": "high", "notes": ""}
+→ {"text": "報告顯示，有一架沒有航空應答機（transponder）的不明飛行器，以每小時1,900到2,100英里的速度由東向西飛行。", "confidence": "high", "notes": ""}
 
 373. Then in less than ten seconds, slowing to a speed of less than 50 miles an hour over Stephenville, Texas.
 → {"text": "然後在不到十秒內，減速到每小時不到50英里，飛越德州斯蒂芬維爾上空。", "confidence": "high", "notes": ""}
@@ -232,7 +232,7 @@
 → {"text": "還有另外八架 F-16 戰機，四架在飛行器的一側，四架在另一側，試圖從兩翼包抄這個物體。", "confidence": "high", "notes": ""}
 
 378. Also an AWACS, Airborne Weather Command Center, that's the aircraft with the giant frisbee-like radar on its rear at 41,000 foot, circling the area for over four hours.
-→ {"text": "還有一架 AWACS 空中預警機（Airborne Warning and Control System），也就是機尾裝有巨大飛盤狀雷達的飛機，在41，000英尺高空盤旋該區域超過四小時。", "confidence": "high", "notes": "AWACS = Airborne Warning and Control System，空中預警管制系統"}
+→ {"text": "還有一架 AWACS 空中預警機（Airborne Warning and Control System），也就是機尾裝有巨大飛盤狀雷達的飛機，在41,000英尺高空盤旋該區域超過四小時。", "confidence": "high", "notes": "AWACS = Airborne Warning and Control System，空中預警管制系統"}
 
 379. Powell and Schultz also received copies of the F-16 log books.
 → {"text": "鮑威爾和舒爾茨還收到了 F-16 戰機的飛行日誌副本。", "confidence": "high", "notes": ""}

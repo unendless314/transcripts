@@ -13,7 +13,7 @@
 → {"text": "今天下午，我將談論洛克菲勒倡議（Rockefeller Initiative）。", "confidence": "high", "notes": ""}
 
 149. My testimony is based on 1,000 pages of documents that were released to me in 2001 by the Clinton White House in response to a FOIA for UFO files.
-→ {"text": "我的證詞基於 2001 年柯林頓白宮根據資訊自由法（FOIA）申請而向我公開的 1，000 頁不明飛行物檔案文件。", "confidence": "high", "notes": ""}
+→ {"text": "我的證詞基於 2001 年柯林頓白宮根據資訊自由法（FOIA）申請而向我公開的 1,000 頁不明飛行物檔案文件。", "confidence": "high", "notes": ""}
 
 150. It should be noted here that, like the documents you were talking about this morning, the Roswell documents that disappeared, these documents have now disappeared.
 → {"text": "必須指出的是，如同各位今早談到的羅斯威爾文件已經消失，這些文件現在也消失了。", "confidence": "high", "notes": ""}
@@ -25,10 +25,10 @@
 → {"text": "例如，我曾向柯林頓總統圖書館提交了一份資訊自由法申請。", "confidence": "high", "notes": "原文為 FOIAA，應為 FOIA 之轉錄錯誤"}
 
 153. I received about 1,000 pages of UFO documents, which included an awful lot of material that Stephen Greer had said to the President.
-→ {"text": "我收到了約 1，000 頁的不明飛行物文件，其中包含大量 Stephen Greer 向總統提供的資料。", "confidence": "high", "notes": ""}
+→ {"text": "我收到了約 1,000 頁的不明飛行物文件，其中包含大量 Stephen Greer 向總統提供的資料。", "confidence": "high", "notes": ""}
 
 154. The 1,000 pages that I'm going to talk about right now were not part of the disclosure, and both maintain that they don't have them.
-→ {"text": "我現在要談的這 1，000 頁文件並不在那次公開範圍內，兩個機構都聲稱沒有這些文件。", "confidence": "high", "notes": ""}
+→ {"text": "我現在要談的這 1,000 頁文件並不在那次公開範圍內，兩個機構都聲稱沒有這些文件。", "confidence": "high", "notes": ""}
 
 155. They are on my website, the President's UFO website, and basically what the documents show, these FOIAA documents show that billionaire businessman Lawrence Rockefeller had approached the White House to get the government to disclose the truth behind the UFO mystery.
 → {"text": "這些文件已上傳至我的網站「總統的不明飛行物網站」（President's UFO website）。這些資訊自由法文件基本上顯示，億萬富翁勞倫斯·洛克菲勒（Lawrence Rockefeller）曾向白宮施壓，要求政府揭露不明飛行物謎團背後的真相。", "confidence": "high", "notes": "原文為 FOIAA，應為 FOIA 之轉錄錯誤"}

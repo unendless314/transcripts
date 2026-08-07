@@ -20,8 +20,8 @@ def fix_punctuation_in_text_field(line: str) -> str:
 
     def replace_comma(match):
         text_content = match.group(1)
-        # 將英文逗號替換為中文逗號
-        fixed_content = text_content.replace(',', '，')
+        # 將英文逗號替換為中文逗號，但保留數字千分位（如 10,000）
+        fixed_content = re.sub(r'(?<!\d),(?!\d)', '，', text_content)
         return f'"text": "{fixed_content}"'
 
     # 只替換 text 欄位內的內容

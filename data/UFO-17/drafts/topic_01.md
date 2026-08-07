@@ -205,7 +205,7 @@
 → {"text": "嗯，到了快結束的時候，管制員聯繫了一架聯合航空的飛機，問他們是否可以延遲抵達時間，並讓他查看這架正在向南飛行的747客機。", "confidence": "high", "notes": ""}
 
 69. So they vectored him over to the 747, he's about 2,000 feet beneath him.
-→ {"text": "所以他們引導他飛向那架747，他在747下方約2，000英呎處。", "confidence": "high", "notes": ""}
+→ {"text": "所以他們引導他飛向那架747，他在747下方約2,000英呎處。", "confidence": "high", "notes": ""}
 
 70. And the United says, "It's a beautiful airplane, the moon behind him, it looks good."
 → {"text": "然後聯合航空的飛行員說：「那是一架漂亮的飛機，月亮在它後面，看起來很棒。」", "confidence": "high", "notes": ""}

@@ -7,10 +7,10 @@
 → {"text": "如同巴特利特主席所言，我們將以委員會的形式就座，今天的活動將仿照正式的國會聽證會進行。", "confidence": "high", "notes": ""}
 
 3. And first of all, we have with us Congresswoman Darlene Hooley, and we have Senator Gravel, Mike Gravel.
-→ {"text": "首先，我們有眾議員 Darlene Hooley，以及參議員 Mike Gravel。", "confidence": "high", "notes": ""}
+→ {"text": "首先，我們有胡利眾議員，以及麥克·格拉維爾參議員。", "confidence": "high", "notes": ""}
 
 4. We have Congresswoman Carolyn Kilpatrick, and we have Congressman Merrill Cook.
-→ {"text": "我們有眾議員 Carolyn Kilpatrick，以及眾議員 Merrill Cook。", "confidence": "high", "notes": ""}
+→ {"text": "我們有卡蘿琳·基爾派翠克眾議員，以及梅里爾·庫克眾議員。", "confidence": "high", "notes": ""}
 
 5. And we are all retired.
 → {"text": "我們都已退休。", "confidence": "high", "notes": ""}
@@ -19,7 +19,7 @@
 → {"text": "我們幾位加起來擁有 80 年以上的經驗，僅聯邦層級就有 80 年。", "confidence": "high", "notes": ""}
 
 7. And Roscoe and I, we're classmates.
-→ {"text": "Roscoe 和我是同學。", "confidence": "high", "notes": ""}
+→ {"text": "羅斯科和我是同學。", "confidence": "high", "notes": ""}
 
 8. We have 20 years each.
 → {"text": "我們各有 20 年經驗。", "confidence": "high", "notes": ""}
@@ -34,7 +34,7 @@
 → {"text": "因此，如果我們保持客觀、公事公辦，並且專注於議題本身，我認為我們將度過非常、非常有趣的一週。", "confidence": "high", "notes": ""}
 
 12. And right now, though, we get to swear in the first two witnesses.
-→ {"text": "現在，我們要宣誓前兩位證人。", "confidence": "high", "notes": ""}
+→ {"text": "現在，我們要請首批兩位證人宣誓。", "confidence": "high", "notes": ""}
 
 13. And initially, I think, Dr. Edgar Mitchell will be brought in on Skype.
 → {"text": "首先，我認為，艾德加·米切爾博士將透過 Skype 加入。", "confidence": "high", "notes": ""}
@@ -49,13 +49,13 @@
 → {"text": "我是前太空人，曾搭乘阿波羅 14 號登月。", "confidence": "high", "notes": ""}
 
 17. And so I have a little bit of out-of-the-earth experience, but also I grew up near Roswell, New Mexico on a ranch, and the so-called Roswell incident of 1947 occurred when I was a senior in high school and getting ready to go off to college in the East.
-→ {"text": "因此我有一些離開地球的經驗，但我也在新墨西哥州 Roswell 附近的牧場長大，1947 年所謂的羅斯威爾事件發生時，我正就讀高中最後一年，準備前往東部上大學。", "confidence": "high", "notes": ""}
+→ {"text": "因此我有一些離開地球的經驗，但我也在新墨西哥州羅斯威爾附近的牧場長大，1947 年所謂的羅斯威爾事件發生時，我正就讀高中最後一年，準備前往東部上大學。", "confidence": "high", "notes": ""}
 
 18. So and I have been interested in this subject for many years, but let me set up the basic credentials-- for the first time in our human history, our technology is showing us how huge our universe-- well, let's just call it a multiverse-- is with billions and billions of galaxies and galactic clusters and stars, and many of them-- and we identified a few-- many of them so far that possibly could have living systems on them, living beings.
 → {"text": "我對這個主題感興趣已有多年，但讓我先建立基本背景——在人類歷史上第一次，我們的技術向我們展示了宇宙的浩瀚——不如就稱之為多重宇宙——擁有數十億個星系、星系團和恆星，其中許多——我們已經識別出一些——目前發現的許多星球可能擁有生命系統，存在生命存有。", "confidence": "high", "notes": ""}
 
 19. And we have a history that I'm aware of, particularly starting with the Roswell incident, but even long before that, that we have been visited by aliens or visitors from different star systems and different planets.
-→ {"text": "據我所知，我們有一段歷史，特別是從羅斯威爾事件開始，但甚至在那之前很久，我們就一直被來自不同星系和不同星球的外星人或訪客造訪。", "confidence": "high", "notes": ""}
+→ {"text": "據我所知，我們有一段歷史，特別是從羅斯威爾事件開始，但甚至在那之前很久，我們就一直被來自不同恆星系統和不同星球的外星人或訪客造訪。", "confidence": "high", "notes": ""}
 
 20. And of course, if we continue our endeavors, we will in due course be able to go outside our solar system as well.
 → {"text": "當然，如果我們持續努力，我們最終也能夠離開太陽系。", "confidence": "high", "notes": ""}
@@ -70,7 +70,7 @@
 → {"text": "看起來，他們來到這裡已經很長、很長時間了，證據顯示如此。", "confidence": "high", "notes": ""}
 
 24. We have been having visitors for a long, long time, perhaps hundreds, maybe even thousands of years.
-→ {"text": "我們接受訪客造訪已經很長、很長時間了，也許數百年，甚至可能數千年。", "confidence": "high", "notes": ""}
+→ {"text": "訪客造訪我們已經很長、很長時間了，也許數百年，甚至可能數千年。", "confidence": "high", "notes": ""}
 
 25. There's some that would even say that the pyramid is both in Egypt and in South America, that the aliens aided us in building those, and that seems to have a reasonable ring to it.
 → {"text": "甚至有人會說，無論是埃及還是南美洲的金字塔，外星人都協助我們建造了那些建築，這似乎聽起來有一定道理。", "confidence": "high", "notes": ""}
@@ -88,10 +88,10 @@
 → {"text": "我們在這裡，他們也在這裡。", "confidence": "high", "notes": ""}
 
 30. We can't go there, and in due course, we will.
-→ {"text": "我們目前還無法前往那裡，但最終我們會做到。", "confidence": "high", "notes": ""}
+→ {"text": "我們目前還無法前往那裡，但終有一天我們也能前往。", "confidence": "high", "notes": ""}
 
 31. And for the last, I've been very interested in this for the last 16 or 17 years on a basis of speaking about it publicly, and since I went to the moon 47 years ago, and my co-colleague Gordon Cooper also had an incident when he was at Edwards Air Force Base as a duty officer at a UFO land while he was on duty.
-→ {"text": "在過去 16 或 17 年裡，我一直對此非常感興趣，並公開談論這個話題，自從我 47 年前登月以來，我的同事 Gordon Cooper 在 Edwards 空軍基地擔任值勤官時，也曾在值勤期間目擊一架 UFO 降落。", "confidence": "high", "notes": ""}
+→ {"text": "在過去 16 或 17 年裡，我一直對此非常感興趣，並公開談論這個話題，自從我 47 年前登月以來，我的同事高登·庫珀在愛德華茲空軍基地擔任值勤官時，也曾在值勤期間目擊一架 UFO 降落。", "confidence": "medium", "notes": "原文「47 年前登月」與事實有出入：阿波羅 14 號登月為 1971 年，距 2013 年聽證會應約 42 年，疑為轉錄誤聽或講者口誤，保留原數字"}
 
 32. So there's a number of us that have had these types of experiences to say, yes, we're not alone.
 → {"text": "因此，我們當中有許多人曾有過這類經驗，可以說，是的，我們並不孤單。", "confidence": "high", "notes": ""}
@@ -115,7 +115,7 @@
 → {"text": "早安。", "confidence": "high", "notes": ""}
 
 38. I'm Paul Hellyer, former Minister of Defense of Canada.
-→ {"text": "我是 Paul Hellyer，加拿大前國防部長。", "confidence": "high", "notes": ""}
+→ {"text": "我是保羅·赫勒，加拿大前國防部長。", "confidence": "high", "notes": ""}
 
 39. And a long-time participant in politics and governance.
 → {"text": "我長期參與政治與治理工作。", "confidence": "high", "notes": ""}
@@ -139,7 +139,7 @@
 → {"text": "（掌聲）", "confidence": "high", "notes": ""}
 
 46. Whether to your friends or family or to the citizens of nations, I believe this citizens hearing serves that purpose, and like my friend, Edgar Mitchell, I say without equivocation, we are not alone in the cosmos.
-→ {"text": "無論是對你的朋友、家人，還是對各國公民，我相信這場公民聽證會正是為了這個目的，而且就像我的朋友 Edgar Mitchell 一樣，我毫不含糊地說，我們在宇宙中並不孤單。", "confidence": "high", "notes": ""}
+→ {"text": "無論是對你的朋友、家人，還是對各國公民，我相信這場公民聽證會正是為了這個目的，而且就像我的朋友艾德加·米切爾一樣，我毫不含糊地說，我們在宇宙中並不孤單。", "confidence": "high", "notes": ""}
 
 47. We have neighbors.
 → {"text": "我們有鄰居。", "confidence": "high", "notes": ""}
@@ -154,7 +154,7 @@
 → {"text": "（掌聲）", "confidence": "high", "notes": ""}
 
 51. I think it was about 33 years ago I was camping in West Virginia on a mountain 4,000 feet high.
-→ {"text": "我想那是大約 33 年前，我在西維吉尼亞州一座 4，000 英呎高的山上露營。", "confidence": "high", "notes": ""}
+→ {"text": "我想那是大約 33 年前，我在西維吉尼亞州一座 4,000 英呎高的山上露營。", "confidence": "high", "notes": ""}
 
 52. I got up in the middle of the night and went out and I just couldn't believe what I saw.
 → {"text": "我在半夜起床走到外面，簡直無法相信我所看到的景象。", "confidence": "high", "notes": ""}
@@ -178,7 +178,7 @@
 → {"text": "我們只是銀河中一顆相當普通的恆星。", "confidence": "high", "notes": ""}
 
 59. If the Milky Way was the United States, we're a fairly mediocre star somewhere in South Georgia.
-→ {"text": "如果把銀河比作美國，我們就是南喬治亞州某處一顆相當普通的恆星。", "confidence": "high", "notes": ""}
+→ {"text": "如果把銀河比作美國，我們就是喬治亞州南部某處一顆相當普通的恆星。", "confidence": "high", "notes": ""}
 
 60. And there are a million other galaxies out there, a billion perhaps out there like ours.
 → {"text": "而外面還有數百萬個其他星系，也許有數十億個像我們這樣的星系。", "confidence": "high", "notes": ""}
@@ -187,7 +187,7 @@
 → {"text": "要相信這個——我是一位科學家——你必須非常傲慢和自以為是。", "confidence": "high", "notes": ""}
 
 62. I got my Ph.D. 66 years ago.
-→ {"text": "我在 66 年前取得博士學位。", "confidence": "high", "notes": ""}
+→ {"text": "我在 66 年前取得博士學位。", "confidence": "medium", "notes": "原文「66 年前」疑為轉錄誤聽：講者應為 Roscoe Bartlett，其於 1952 年取得博士學位，距 2013 年聽證會應約 61 年，保留原數字"}
 
 63. You have to be very arrogant and presumptive to believe that this is the only place where life exists in a universe this large.
 → {"text": "要相信在如此浩瀚的宇宙中，這裡是唯一存在生命的地方，那必須非常傲慢和自以為是。", "confidence": "high", "notes": ""}

@@ -73,6 +73,12 @@
           "error_text": "Ms. Hell",
           "suggested_correction": "Ms. Howe",
           "reasoning": "Linda Moulton Howe is a prominent researcher in this field and a scheduled witness who testifies later. 'Ms. Hell' is almost certainly a transcription error."
+        },
+        {
+          "segment_id": 116,
+          "error_text": "Roscoe Hillencutter",
+          "suggested_correction": "Roscoe Hillenkoetter",
+          "reasoning": "The first CIA Director's name is spelled Hillenkoetter. 'Hillencutter' is a Whisper mishearing propagated into the transcript."
         }
       ]
     },
@@ -117,6 +123,18 @@
           "error_text": "crashed at Roswold",
           "suggested_correction": "crashed at Roswell",
           "reasoning": "This is a clear misspelling of Roswell, the famous site of the alleged 1947 UFO crash."
+        },
+        {
+          "segment_id": 190,
+          "error_text": "Jayden",
+          "suggested_correction": "Jaden",
+          "reasoning": "Will Smith's son is Jaden Smith. 'Jayden' is a homophone misspelling."
+        },
+        {
+          "segment_id": 193,
+          "error_text": "I can neither conform nor deny",
+          "suggested_correction": "I can neither confirm nor deny",
+          "reasoning": "The standard phrase is 'neither confirm nor deny'. 'Conform' is a mishearing of 'confirm'."
         }
       ]
     },
@@ -159,6 +177,12 @@
           "error_text": "aerogenerals, nucleonics",
           "suggested_correction": "Aerojet-General Nucleonics",
           "reasoning": "The speaker is listing companies he worked for. Aerojet-General Nucleonics was a major aerospace and defense contractor involved in nuclear projects."
+        },
+        {
+          "segment_id": 298,
+          "error_text": "McDonald Douglas",
+          "suggested_correction": "McDonnell Douglas",
+          "reasoning": "The aerospace company is spelled McDonnell Douglas. 'McDonald Douglas' is a common misspelling propagated by transcription."
         }
       ]
     },
@@ -184,16 +208,40 @@
       ],
       "potential_errors": [
         {
+          "segment_id": 356,
+          "error_text": "beams of light from rounder glowing objects",
+          "suggested_correction": "beams of light from round glowing objects",
+          "reasoning": "The witnesses describe round, glowing objects. 'Rounder' is a comparative adjective that does not fit the context and is likely a mishearing of 'round'."
+        },
+        {
           "segment_id": 362,
           "error_text": "Curlin Air Force Base",
           "suggested_correction": "Kirtland Air Force Base",
           "reasoning": "The correct name of the base in Albuquerque is Kirtland. The speaker says Kirtland elsewhere, making 'Curlin' a clear mishearing."
         },
         {
+          "segment_id": 364,
+          "error_text": "Curlin Air Force Base",
+          "suggested_correction": "Kirtland Air Force Base",
+          "reasoning": "Same repeated mishearing of Kirtland Air Force Base as in segment 362. The base in Albuquerque is Kirtland."
+        },
+        {
+          "segment_id": 369,
+          "error_text": "the Curlin AFOSI office",
+          "suggested_correction": "the Kirtland AFOSI office",
+          "reasoning": "Same repeated mishearing of Kirtland as in segments 362 and 364. The AFOSI office is located at Kirtland Air Force Base."
+        },
+        {
           "segment_id": 374,
           "error_text": "The acronym is EBA, E-B-E",
           "suggested_correction": "The acronym is EBE, E-B-E",
           "reasoning": "The standard acronym for Extraterrestrial Biological Entity is EBE. The mention of 'EBA' is likely a slip of the tongue or transcription error."
+        },
+        {
+          "segment_id": 378,
+          "error_text": "military and intelligent eyewitnesses",
+          "suggested_correction": "military and intelligence eyewitnesses",
+          "reasoning": "The speaker lists military and intelligence eyewitnesses. 'Intelligent' is a mishearing of 'intelligence'."
         }
       ]
     },
@@ -223,10 +271,34 @@
           "reasoning": "The Congresswoman's name was correctly stated as Carolyn Kilpatrick during the introduction. 'Kilfetrick' is a transcription error."
         },
         {
+          "segment_id": 443,
+          "error_text": "Mr. Freeman",
+          "suggested_correction": "Mr. Friedman",
+          "reasoning": "The witness being addressed is nuclear physicist Stanton Friedman. 'Freeman' is a mishearing of 'Friedman'."
+        },
+        {
+          "segment_id": 476,
+          "error_text": "Things like we're doing today in urgent Congress",
+          "suggested_correction": "Things like we're doing today, the US Congress",
+          "reasoning": "The speaker refers to the United States Congress not having held a hearing on UFOs since 1968. 'Urgent' is a mishearing of 'US'."
+        },
+        {
           "segment_id": 566,
           "error_text": "Curlin Air Force Base",
           "suggested_correction": "Kirtland Air Force Base",
           "reasoning": "This is a repeated mishearing of Kirtland Air Force Base, which is the correct name of the facility in Albuquerque."
+        },
+        {
+          "segment_id": 634,
+          "error_text": "Dark bombs",
+          "suggested_correction": "Atom bombs",
+          "reasoning": "The speaker lists the three developments at the end of World War II: atomic bombs, powerful rockets, and radar. 'Dark bombs' is a mishearing of 'atom bombs'."
+        },
+        {
+          "segment_id": 711,
+          "error_text": "an airplane or a lighter than aircraft in the air",
+          "suggested_correction": "an airplane or a lighter-than-air aircraft in the air",
+          "reasoning": "The speaker refers to sightings predating airplanes and lighter-than-air craft (balloons, airships). 'Lighter than aircraft' is a mis-transcription of 'lighter-than-air aircraft'."
         }
       ]
     }

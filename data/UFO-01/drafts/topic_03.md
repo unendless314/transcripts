@@ -13,7 +13,7 @@
 → {"text": "我是總統 UFO 網站的負責人。", "confidence": "high", "notes": ""}
 
 154. As Steve Bassett mentioned, the Obama administration has come out with an official statement saying there is no ET evidence for an interaction with ET's and there is no cover-up.
-→ {"text": "如同 Steve Bassett 所提到的，歐巴馬政府發布了一份官方聲明，表示沒有與外星人互動的證據，也沒有真相掩蓋。", "confidence": "high", "notes": ""}
+→ {"text": "如同史蒂夫·巴塞特所提到的，歐巴馬政府發布了一份官方聲明，表示沒有與外星人互動的證據，也沒有真相掩蓋。", "confidence": "high", "notes": ""}
 
 155. What I would like to do, based on my years of research, is present a few pieces of evidence which show that this statement, written by a low-level White House staffer, is ill-informed and not true.
 → {"text": "基於我多年的研究，我想要呈現幾項證據，證明這份由白宮低階幕僚所撰寫的聲明是缺乏充分資訊且不真實的。", "confidence": "high", "notes": ""}
@@ -49,7 +49,7 @@
 → {"text": "該紀錄片獲得 25 萬美元的資助，他們被要求不要在製作人員名單中註明資金來源。", "confidence": "high", "notes": ""}
 
 166. A CIA agent was present through the entire production, and as Linda Howe can testify, she saw a letter to one of the producers from President Richard Nixon thanking him for his cooperation on the project.
-→ {"text": "一位 CIA 特工在整個製作過程中都在場，而且如同 Linda Howe 可以作證的，她看到一封尼克森總統寫給其中一位製作人的信，感謝他在這個專案上的合作。", "confidence": "high", "notes": ""}
+→ {"text": "一位 CIA 特工在整個製作過程中都在場，而且如同琳達·豪可以作證的，她看到一封尼克森總統寫給其中一位製作人的信，感謝他在這個專案上的合作。", "confidence": "high", "notes": ""}
 
 167. Former Senator Barry Goldwater wrote extensively on UFOs, such as in 1975 when he wrote about his friend General Curtis LeMay, who refused him access in 1964 to the Blue Room at Wright Patterson Air Force Base, where alien hardware and bodies were rumored to have been held.
 → {"text": "前參議員貝利·高華德廣泛撰寫關於 UFO 的文章，例如 1975 年他寫到他的朋友柯蒂斯·李梅將軍，將軍在 1964 年拒絕他進入萊特-帕特森空軍基地的藍色機密房，據傳該處存放著外星硬體和遺體。", "confidence": "high", "notes": ""}
@@ -64,13 +64,13 @@
 → {"text": "作為參議院情報委員會主席，高華德持續回覆 UFO 相關信件，他在一封信中寫道：「這件事已經被列為如此高度機密，以至於不可能獲得任何相關資訊。」", "confidence": "high", "notes": ""}
 
 171. In another letter, Goldwater wrote, "I have no idea who controls the flow of need to know because, frankly, I was told in such an emphatic way that it was none of my business that I've never tried to make it my business since."
-→ {"text": "在另一封信中，高華德寫道：「我不知道誰控制著知情權的流通，因為坦白說，我被如此強硬地告知這不關我的事，以至於從那以後我再也沒有試圖讓它成為我的事。」", "confidence": "high", "notes": ""}
+→ {"text": "在另一封信中，高華德寫道：「我不知道誰控制著需知資訊的流通，因為坦白說，我被如此強硬地告知這不關我的事，以至於從那以後我再也沒有試圖讓它成為我的事。」", "confidence": "high", "notes": ""}
 
 172. And finally, Goldwater wrote, "I have been interested in this subject for a long time, and I know that whatever the Air Force has on this subject is going to remain highly classified."
 → {"text": "最後，高華德寫道：「我對這個主題感興趣已經很長時間了，我知道空軍在這個主題上擁有的任何東西都將保持高度機密。」", "confidence": "high", "notes": ""}
 
 173. Those waiting for the president to stand up and say ETs are here should know that that event occurred on June the 27th, 1981.
-→ {"text": "那些等待總統站出來宣布外星人存在的人應該知道，這件事已經在 1981 年 6 月 27 日發生了。", "confidence": "high", "notes": ""}
+→ {"text": "那些等待總統站出來宣布外星人存在的人應該知道，這件事已經在 1981 年 6 月 27 日發生了。", "confidence": "medium", "notes": "原文 1981 年疑為 1982 年之誤：《E.T. 外星人》1982 年 6 月 11 日上映，白宮放映會記錄為 1982 年 6 月 27 日（月日與原文相符），保留原數字"}
 
 174. Steven Spielberg stated that after the screening of ET, the extraterrestrial, in the White House Theatre, Reagan "just stood up and looked around the room, almost like he was doing a head count.
 → {"text": "史蒂芬·史匹柏表示，在白宮劇院放映《E.T. 外星人》之後，雷根「站了起來，環顧房間，幾乎像是在清點人數。", "confidence": "high", "notes": ""}
@@ -112,25 +112,25 @@
 → {"text": "即使是歐巴馬總統本人也說過與他自己的白宮所發布的聲明相矛盾的話。", "confidence": "high", "notes": ""}
 
 187. This might be because neither he nor anybody in his office saw the petition on ET question despite the fact that over 12,000 people signed the petition addressed to the President.
-→ {"text": "這可能是因為儘管有超過 12，000 人簽署了致總統的外星人問題請願書，但他本人和辦公室裡的任何人都沒有看到這份請願書。", "confidence": "high", "notes": ""}
+→ {"text": "這可能是因為儘管有超過 12,000 人簽署了致總統的外星人問題請願書，但他本人和辦公室裡的任何人都沒有看到這份請願書。", "confidence": "high", "notes": ""}
 
 188. During a visit to Roswell, New Mexico in 2012, President Obama referred to the White House -- to the Roswell crash saying, "We're going to keep our secrets here."
-→ {"text": "2012 年在訪問新墨西哥州 Roswell 期間，歐巴馬總統提到白宮——提到羅斯威爾墜毀事件時說：「我們要在這裡保守我們的秘密。」", "confidence": "high", "notes": ""}
+→ {"text": "2012 年在訪問新墨西哥州羅斯威爾期間，歐巴馬總統提到白宮——提到羅斯威爾墜毀事件時說：「我們要在這裡保守我們的秘密。」", "confidence": "high", "notes": ""}
 
 189. This raises the question, in light of the statement put out by his office that there is no ET cover-up, what secrets is President Obama referring to?
 → {"text": "這引發了一個問題，鑑於他的辦公室發布的聲明說沒有外星真相掩蓋，那麼歐巴馬總統所指的秘密是什麼？", "confidence": "high", "notes": ""}
 
 190. Then during a White House tour, President Obama anticipated a question that actor Will Smith's son Jayden wanted to ask about the reality of extraterrestrials.
-→ {"text": "然後在一次白宮參觀期間，歐巴馬總統預料到演員 Will Smith 的兒子 Jayden 想要詢問關於外星人真實性的問題。", "confidence": "high", "notes": ""}
+→ {"text": "然後在一次白宮參觀期間，歐巴馬總統預料到演員威爾·史密斯的兒子傑登想要詢問關於外星人真實性的問題。", "confidence": "high", "notes": "原文 Jayden 應為 Jaden（傑登·史密斯）"}
 
 191. When they arrived in the White House situation room, the President said to Jayden, "I know what you want to ask.
-→ {"text": "當他們抵達白宮戰情室時，總統對 Jayden 說：「我知道你想問什麼。", "confidence": "high", "notes": ""}
+→ {"text": "當他們抵達白宮戰情室時，總統對傑登說：「我知道你想問什麼。", "confidence": "high", "notes": ""}
 
 192. You want to know about the aliens.
 → {"text": "你想知道關於外星人的事。", "confidence": "high", "notes": ""}
 
 193. I can neither conform nor deny that extraterrestrials have visited the Earth.
-→ {"text": "我既不能確認也不能否認外星人曾造訪過地球。", "confidence": "high", "notes": ""}
+→ {"text": "我既不能確認也不能否認外星人曾造訪過地球。", "confidence": "high", "notes": "原文 conform 應為 confirm（neither confirm nor deny 為慣用語）"}
 
 194. But if they had, and if there had been a top-secret meeting on the subject, it would have occurred in this very room."
 → {"text": "但如果他們真的來過，而且如果曾經就此主題召開過最高機密會議，那會議就會在這個房間裡舉行。」", "confidence": "high", "notes": ""}
@@ -142,7 +142,7 @@
 → {"text": "奈普表示，他有超過二十多位證人，他們講述了在內華達試驗場捕獲活體外星人和外星飛行器並進行逆向工程的故事片段。", "confidence": "high", "notes": ""}
 
 197. He has also revealed during interviews that he had a discussion with Senator Howard Cannon shortly before his death, and that Howard Cannon basically confirmed to him that he had talked to Goldwater and the stories were true.
-→ {"text": "他還在訪談中透露，他在參議員 Howard Cannon 去世前不久與他進行過討論，Howard Cannon 基本上向他確認，他曾與高華德談過，而那些故事是真的。", "confidence": "high", "notes": ""}
+→ {"text": "他還在訪談中透露，他在霍華德·坎農參議員去世前不久與他進行過討論，坎農基本上向他確認，他曾與高華德談過，而那些故事是真的。", "confidence": "high", "notes": ""}
 
 198. Knapp stated that six of his witnesses were threatened, which succeeded in stopping them from going on camera.
 → {"text": "奈普表示，他的證人中有六位受到威脅，成功阻止了他們上鏡頭。", "confidence": "high", "notes": "原文 succeeded them from stopping 應為 succeeded in stopping"}
@@ -154,7 +154,7 @@
 → {"text": "他對外星真相掩蓋的說法很明確，他提到了他在 CIA 總部看到的資料。", "confidence": "high", "notes": ""}
 
 201. To quote Chase Brandon, "I absolutely know, as I sit here talking to you, that there was a craft beyond this world that crashed at Roswell, and that the military picked up the remains of not just a wreckage, but of cadavers.
-→ {"text": "引用蔡斯·布蘭登的話：「我絕對知道，當我坐在這裡與你交談時，有一架來自地球以外的飛行器在 Roswell 墜毀，而且軍方不僅回收了殘骸，還回收了屍體。", "confidence": "high", "notes": ""}
+→ {"text": "引用蔡斯·布蘭登的話：「我絕對知道，當我坐在這裡與你交談時，有一架來自地球以外的飛行器在羅斯威爾墜毀，而且軍方不僅回收了殘骸，還回收了屍體。", "confidence": "high", "notes": ""}
 
 202. One hundred percent in my heart and soul," said Brandon, "Roswold happened.
 → {"text": "我內心和靈魂百分之百確定，」布蘭登說，「羅斯威爾事件確實發生了。", "confidence": "high", "notes": "原文 Roswold 應為 Roswell"}

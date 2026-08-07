@@ -100,7 +100,7 @@
 → {"text": "其中一位證人是一名女性，她是軍事承包商的速記員，曾參與過討論，當時似乎有物資正從萊特-帕特森空軍基地運往 51 區。", "confidence": "high", "notes": ""}
 
 417. She was in on these meetings and she had agreed to go on camera with George Knapp after the story started to break in 1989, she was visited by two officers the same day she was going to go on camera and they said we just want to remind you, you have a security clearance, you're still under oath.
-→ {"text": "她參加了這些會議，在 1989 年故事開始曝光後，她同意與 George Knapp 一起上鏡頭，就在她要上鏡頭的當天，兩名軍官拜訪了她，他們說我們只是想提醒你，你有安全許可，你仍然受誓言約束。", "confidence": "high", "notes": ""}
+→ {"text": "她參加了這些會議，在 1989 年故事開始曝光後，她同意與喬治·奈普一起上鏡頭，就在她要上鏡頭的當天，兩名軍官拜訪了她，他們說我們只是想提醒你，你有安全許可，你仍然受誓言約束。", "confidence": "high", "notes": ""}
 
 418. We know that you and your daughter travel back and forth between Las Vegas and Los Angeles.
 → {"text": "我們知道你和你女兒往返於拉斯維加斯和洛杉磯之間。", "confidence": "high", "notes": ""}
@@ -112,10 +112,10 @@
 → {"text": "我們不希望在沙漠中發生什麼事。", "confidence": "high", "notes": ""}
 
 421. George Knapp told me personally this woman is so scared that 20 years later she's still will not talk about it.
-→ {"text": "George Knapp 親自告訴我，這位女士非常害怕，20 年後她仍然不願談論此事。", "confidence": "high", "notes": ""}
+→ {"text": "喬治·奈普親自告訴我，這位女士非常害怕，20 年後她仍然不願談論此事。", "confidence": "high", "notes": ""}
 
 422. They had witnesses at Nellis Air Force Base, the golf instructor at Nellis Air Force Base, the golf pro, the guy who did the taxes for the generals.
-→ {"text": "他們在 Nellis 空軍基地有證人，Nellis 空軍基地的高爾夫教練、高爾夫專業人員、為將軍們報稅的人。", "confidence": "high", "notes": ""}
+→ {"text": "他們在內利斯空軍基地有證人，內利斯空軍基地的高爾夫教練、高爾夫職業選手、為將軍們報稅的人。", "confidence": "high", "notes": ""}
 
 423. They had gotten to know all the generals and had been told the stories about the fact that the crafts were at Area 51, this is all for true.
 → {"text": "他們認識了所有的將軍，並被告知了關於飛行器在 51 區的故事，這一切都是真的。", "confidence": "high", "notes": ""}
@@ -127,7 +127,7 @@
 → {"text": "他是 51 區級別最高的人員之一。", "confidence": "high", "notes": ""}
 
 426. George Knapp had a number of witnesses and he figured that he wanted to track down this Alfred O'Donnell, figured if anybody knew if the Area 51 crash saucer stories were true it would be Alfred O'Donnell.
-→ {"text": "George Knapp 有許多證人，他認為他想追蹤這位阿爾弗雷德·歐唐納，認為如果有人知道 51 區墜毀飛碟的故事是否屬實，那就會是阿爾弗雷德·歐唐納。", "confidence": "high", "notes": ""}
+→ {"text": "喬治·奈普有許多證人，他認為他想追蹤這位阿爾弗雷德·歐唐納，認為如果有人知道 51 區墜毀飛碟的故事是否屬實，那就會是阿爾弗雷德·歐唐納。", "confidence": "high", "notes": ""}
 
 427. He got to know him, he got to be sort of friends.
 → {"text": "他認識了他，他們成為了某種程度上的朋友。", "confidence": "high", "notes": ""}
@@ -139,22 +139,22 @@
 → {"text": "他說：「你來這裡不是要談那個的，對吧？」", "confidence": "high", "notes": ""}
 
 430. And George said, "No, I didn't come here to talk about that."
-→ {"text": "George 說：「不，我來這裡不是要談那個的。」", "confidence": "high", "notes": ""}
+→ {"text": "喬治說：「不，我來這裡不是要談那個的。」", "confidence": "high", "notes": ""}
 
 431. He said, "You came here to talk about UFOs, didn't you?"
 → {"text": "他說：「你來這裡是要談 UFO 的，對吧？」", "confidence": "high", "notes": ""}
 
 432. And George said, "Yeah, that's why I'd like to know about it."
-→ {"text": "George 說：「是的，這就是為什麼我想知道這件事。」", "confidence": "high", "notes": ""}
+→ {"text": "喬治說：「是的，這就是為什麼我想知道這件事。」", "confidence": "high", "notes": ""}
 
 433. And he said, "Well," and George said, "It took six months to get this guy to talk."
-→ {"text": "他說：「嗯，」George 說：「花了六個月才讓這個人開口說話。」", "confidence": "high", "notes": ""}
+→ {"text": "他說：「嗯，」喬治說：「花了六個月才讓這個人開口說話。」", "confidence": "high", "notes": ""}
 
 434. And the guy bit by piece, he wasn't allowed to tape, he wasn't allowed to take notes, and in the end he basically said, "Yes, it's true."
 → {"text": "這個人一點一點地說，他不被允許錄音，不被允許做筆記，最後他基本上說：「是的，這是真的。」", "confidence": "high", "notes": ""}
 
 435. Area 51, we have the saucers there and George said, "Weren't you afraid that the story would get out?"
-→ {"text": "51 區，我們那裡有飛碟，George 說：「你們不怕這個故事會洩露出去嗎？」", "confidence": "high", "notes": ""}
+→ {"text": "51 區，我們那裡有飛碟，喬治說：「你們不怕這個故事會洩露出去嗎？」", "confidence": "high", "notes": ""}
 
 436. He said, "No, we were afraid it would get out."
 → {"text": "他說：「不，我們害怕它會洩露出去。」", "confidence": "high", "notes": ""}
@@ -175,7 +175,7 @@
 ## Speaker Group 8
 
 441. Thank you, Ms. Kilpatrick.
-→ {"text": "謝謝您，Kilpatrick 女士。", "confidence": "high", "notes": "Transcription error corrected: Ms. Kilfetrick → Ms. Kilpatrick"}
+→ {"text": "謝謝您，基爾派翠克女士。", "confidence": "high", "notes": "原文誤為 Kilfetrick，已修正為 Kilpatrick"}
 
 
 ## Speaker Group 9
@@ -184,7 +184,7 @@
 → {"text": "有幾件事，非常感謝您的證詞，非常、非常好，非常好。", "confidence": "high", "notes": ""}
 
 443. Mr. Freeman, you were going to answer or add something to what Congressman Woolsey said, I'll give you that opportunity for a minute of my time if you'd like.
-→ {"text": "Friedman 先生，您要回答或補充一些關於 Woolsey 議員所說的話，如果您願意，我可以給您一分鐘時間。", "confidence": "high", "notes": "原文 Mr. Freeman 應為 Mr. Friedman（核子物理學家 Stanton Friedman）"}
+→ {"text": "弗里德曼先生，您要回答或補充一些關於伍爾西議員所說的話，如果您願意，我可以給您一分鐘時間。", "confidence": "high", "notes": "原文 Mr. Freeman 應為 Mr. Friedman（核物理學家 Stanton Friedman）；原文 Congressman Woolsey 應為 Congresswoman Woolsey（琳恩·伍爾西為女性眾議員）"}
 
 
 ## Speaker Group 10
@@ -205,7 +205,7 @@
 → {"text": "哦，你當然可以，你想弄清楚飛碟是如何運作的，你擔心對方會弄清楚飛碟是如何運作的，你擔心如果宣布了，年輕一代會推動地球人取向，如果我們被告知地球正在被訪問，包括我們在內的任何政府都不希望那樣。", "confidence": "high", "notes": ""}
 
 447. We have the problem of Pat Robertson saying all the UFO stuff is the work of the devil, and all the intelligent life in the universe is here on planet Earth, I take issue with that.
-→ {"text": "我們有 Pat Robertson 的問題，他說所有 UFO 的東西都是魔鬼的作為，而宇宙中所有的智慧生命都在地球上，我對此有異議。", "confidence": "high", "notes": ""}
+→ {"text": "我們有派特·羅伯森的問題，他說所有 UFO 的東西都是魔鬼的作為，而宇宙中所有的智慧生命都在地球上，我對此有異議。", "confidence": "high", "notes": ""}
 
 448. Finally, we have two special things, if they're coming here, some people say it's going to upset our whole technology, they've got things that will get rid of the oil industry, the car industry, plane industry, economic chaos.
 → {"text": "最後，我們有兩件特別的事，如果他們來到這裡，有些人說這會顛覆我們整個技術，他們擁有的東西會取代石油工業、汽車工業、飛機工業，經濟混亂。", "confidence": "high", "notes": ""}
@@ -331,7 +331,7 @@
 → {"text": "這是一個世界現象，你們都比我更了解，我們這裡除了科學家之外都有點像新手，你知道，你們要拿它怎麼辦？", "confidence": "high", "notes": ""}
 
 476. Things like we're doing today in urgent Congress since 1968 has not had a hearing to do something else about it in the science committee that they did some 40 plus years ago, comment?
-→ {"text": "像我們今天所做的事情，國會自 1968 年以來就沒有舉行過聽證會來處理這件事，在科學委員會中他們在 40 多年前做過，有何評論？", "confidence": "medium", "notes": "Complex sentence structure"}
+→ {"text": "像我們今天所做的事情，國會自 1968 年以來就沒有再舉行過聽證會來處理這件事，而他們在 40 多年前曾在科學委員會做過，有何評論？", "confidence": "medium", "notes": "原文 urgent Congress 疑為 US Congress 之轉錄錯誤；原文句構破碎"}
 
 
 ## Speaker Group 26
@@ -349,7 +349,7 @@
 → {"text": "我製作了一部紀錄片，於 1980 年 5 月 25 日在科羅拉多州及周邊各州大範圍播出，名為《詭異收穫》。", "confidence": "high", "notes": ""}
 
 481. And after that as a professional working as director of special projects at the CBS station, I went on to do astronaut training in Colorado, Martin Marietta, and a thousand other subjects over the last 30 some years.
-→ {"text": "在那之後，作為 CBS 電視台特別專案主任的專業人員，我繼續報導了科羅拉多州的太空人訓練、Martin Marietta，以及過去 30 多年來的其他上千個主題。", "confidence": "high", "notes": ""}
+→ {"text": "在那之後，作為 CBS 電視台特別專案總監的專業人員，我繼續報導了科羅拉多州的太空人訓練、馬丁·瑪麗埃塔，以及過去 30 多年來的其他上千個主題。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 27
@@ -454,7 +454,7 @@
 ## Speaker Group 42
 
 500. With all due respect, let me correct, I pronounce it within my family Gravel.
-→ {"text": "恕我糾正，在我家族中我們發音為 Gravel。", "confidence": "high", "notes": ""}
+→ {"text": "恕我糾正，在我家族中我們把這個名字唸作 Gravel（格拉維爾）。", "confidence": "high", "notes": "此段討論姓氏發音，保留原文並括註中譯"}
 
 
 ## Speaker Group 43
@@ -523,7 +523,7 @@
 → {"text": "年輕一代會推動地球人取向。", "confidence": "high", "notes": ""}
 
 518. Let's face it from an alien viewpoint, we are all earthlings, Terrans as the science fiction writers would say.
-→ {"text": "讓我們面對現實，從外星人的觀點來看，我們都是地球人，就像科幻作家所說的 Terrans。", "confidence": "high", "notes": ""}
+→ {"text": "讓我們面對現實，從外星人的觀點來看，我們都是地球人，就像科幻作家所說的地球人（Terrans）。", "confidence": "high", "notes": ""}
 
 519. I know of no government on this planet that wants its people to owe their allegiance to the planet instead of that individual government.
 → {"text": "我不知道這個星球上有哪個政府希望其人民效忠於地球而不是該個別政府。", "confidence": "high", "notes": ""}
@@ -532,13 +532,13 @@
 → {"text": "據我所知，民族主義是唯一的選擇。", "confidence": "high", "notes": ""}
 
 521. There are some religious problems, extremists who say we're the only intelligent life in the universe and their followers don't want any part of visitors from outer space.
-→ {"text": "有一些宗教問題，極端主義者說我們是宇宙中唯一的智慧生命，他們的追隨者不想要任何來自外太空訪客的部分。", "confidence": "high", "notes": ""}
+→ {"text": "有一些宗教問題，極端主義者說我們是宇宙中唯一的智慧生命，他們的追隨者不想和外太空來的訪客有任何瓜葛。", "confidence": "high", "notes": ""}
 
 522. He can't be.
 → {"text": "不可能。", "confidence": "medium", "notes": "Short fragment, context unclear"}
 
 523. Planet was created in 4004 BC instead of 4 billion in 4 BC.
-→ {"text": "行星是在公元前 4004 年創造的，而不是 40 億年前。", "confidence": "medium", "notes": "Transcription appears garbled at end"}
+→ {"text": "說地球是公元前 4004 年創造的，而不是 40 億年前。", "confidence": "medium", "notes": "原文尾段轉錄破碎（4 billion in 4 BC），語意應為對比公元前 4004 年創世說與 40 億年科學估計"}
 
 524. A final thing, I have 7 times heard of cases in which pilots were scrambled to chase UFOs.
 → {"text": "最後一件事，我聽說過 7 次飛行員緊急起飛追趕 UFO 的案例。", "confidence": "high", "notes": ""}
@@ -553,7 +553,7 @@
 → {"text": "如果我聽說過 7 次，那麼還有更多類似的案例。", "confidence": "high", "notes": ""}
 
 528. There were 200 fatal military plane crashes between 1951 and '56, including 5 where the pilots had over 100 missions in Korea where there were MiGs trying to shoot them down.
-→ {"text": "1951 年至 1956 年間有 200 起致命的軍機墜毀事故，其中 5 起涉及在韓國執行過 100 多次任務的飛行員，當時有米格機試圖擊落他們。", "confidence": "high", "notes": ""}
+→ {"text": "1951 年至 1956 年間有 200 起致命的軍機墜毀事故，其中 5 起涉及在北韓執行過 100 多次任務的飛行員，當時有米格機試圖擊落他們。", "confidence": "high", "notes": ""}
 
 529. That's a pretty good pilot to survive that.
 → {"text": "能在那種情況下生存下來的是相當優秀的飛行員。", "confidence": "high", "notes": ""}
@@ -565,7 +565,7 @@
 → {"text": "所以沒有任何家屬被告知這件事。", "confidence": "high", "notes": ""}
 
 532. And it won't come as a shock to you, but there were 166 Air Force guys on board reconnaissance planes that were tickling North Korea, Russia, and China right after the war.
-→ {"text": "這對你來說不會感到震驚，但戰後有 166 名空軍人員在偵察機上挑釁北韓、俄羅斯和中國。", "confidence": "high", "notes": ""}
+→ {"text": "這不會讓你驚訝，但戰後有 166 名空軍人員在偵察機上挑釁北韓、俄羅斯和中國。", "confidence": "high", "notes": ""}
 
 533. See how quickly the radar came on, what frequency they used and all that sort of stuff. 166 wind up in planes that were shot down.
 → {"text": "看看雷達多快開啟、他們使用什麼頻率以及所有類似的事情。166 人最終在被擊落的飛機上。", "confidence": "high", "notes": ""}
@@ -592,7 +592,7 @@
 → {"text": "我可以快速補充一下而不佔用太多時間嗎？", "confidence": "high", "notes": ""}
 
 540. I talked earlier about why I think that the possession of certain radical technology would have initiated some of the secrecy.
-→ {"text": "我之前談到為什麼我認為擁有某些激進技術會啟動一些保密措施。", "confidence": "high", "notes": ""}
+→ {"text": "我之前談到為什麼我認為擁有某些顛覆性技術會啟動一些保密措施。", "confidence": "high", "notes": "原文 radical technology 語意應為革命性／顛覆性技術"}
 
 541. Also, I think the need to maintain some level of social control, not knowing what these other beings were, at least in the early years.
 → {"text": "此外，我認為需要維持某種程度的社會控制，至少在早期不知道這些其他生物是什麼。", "confidence": "high", "notes": ""}
@@ -637,7 +637,7 @@
 → {"text": "這是一種長期存在的關係。", "confidence": "high", "notes": ""}
 
 555. But there would be some very deep questions to ask about that, about the nature of special access programs and unacknowledged special access programs and the primordial black budget.
-→ {"text": "但關於這一點會有一些非常深刻的問題要問，關於特殊准入計畫的性質、未公開的特殊准入計畫以及原始的黑預算。", "confidence": "high", "notes": ""}
+→ {"text": "但關於這一點會有一些非常深刻的問題要問，關於特殊准入計畫的性質、未公開的特殊准入計畫以及最初的黑預算。", "confidence": "high", "notes": ""}
 
 556. All of these would now become the target of citizen inquiry.
 → {"text": "所有這些現在都會成為公民調查的目標。", "confidence": "high", "notes": ""}
@@ -670,7 +670,7 @@
 → {"text": "早在 1947 年，我們的政府就開始理解，他們從這些飛行器中取出的一些遺體甚至不是我們所理解的生物組織。", "confidence": "high", "notes": ""}
 
 566. And then you combine that with a sentence that I read in the alleged briefing paper that I was shown at Kirtland Air Force Base in the OSI office, the quote which has never left my mind.
-→ {"text": "然後你將這一點與我在柯特蘭空軍基地 OSI 辦公室看到的那份所謂簡報文件中讀到的一句話結合起來，那句引文從未離開過我的腦海。", "confidence": "high", "notes": "Transcription error corrected: Curlin → Kirtland"}
+→ {"text": "然後你將這一點與我在柯特蘭空軍基地空軍特別調查辦公室看到的那份所謂簡報文件中讀到的一句話結合起來，那句引文從未離開過我的腦海。", "confidence": "high", "notes": "原文誤為 Curlin，已修正為 Kirtland"}
 
 567. These extraterrestrial biological entities manipulated DNA and already evolving primates to create Homo sapien, close quote.
 → {"text": "「這些外星生物實體操縱了 DNA 和已經在進化的靈長類動物，以創造現代智人」，引文結束。", "confidence": "high", "notes": ""}
@@ -706,7 +706,7 @@
 → {"text": "我希望接下來的兩位證人也是如此，這樣他們的問答時間可能會更短。", "confidence": "high", "notes": ""}
 
 578. Congressman Cook.
-→ {"text": "Cook 議員。", "confidence": "high", "notes": ""}
+→ {"text": "庫克議員。", "confidence": "high", "notes": ""}
 
 579. I would like to claim my five minutes, Chairman, if that is all right.
 → {"text": "主席，如果可以的話，我想要求我的五分鐘時間。", "confidence": "high", "notes": ""}
@@ -805,7 +805,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 611. Before I invite maybe 15 seconds from both Mr. Friedman and Ms. Howe, could you also comment on the testimony here that hasn't really said a whole lot.
-→ {"text": "在我邀請 Friedman 先生和 Howe 女士各花大約 15 秒之前，您能否也評論一下這裡的證詞，它並沒有真正說太多。", "confidence": "medium", "notes": "Incomplete sentence in source"}
+→ {"text": "在我邀請弗里德曼先生和豪女士各花大約 15 秒之前，您能否也評論一下這裡的證詞，它並沒有真正說太多。", "confidence": "medium", "notes": "Incomplete sentence in source"}
 
 612. It was mentioned briefly, but a whole lot about sightings before the 1940s, before the Second World War.
 → {"text": "它被簡短地提到了，但關於 1940 年代之前、第二次世界大戰之前的目擊事件說得不多。", "confidence": "high", "notes": ""}
@@ -838,7 +838,7 @@
 → {"text": "我做過……", "confidence": "high", "notes": ""}
 
 622. The presidents, I spent a lot of time trying to find stories of UFOs back in history through presidents.
-→ {"text": "關於總統們，我花了很多時間試圖通過總統在歷史上尋找 UFO 的故事。", "confidence": "high", "notes": ""}
+→ {"text": "關於總統們，我花了很多時間試圖透過總統在歷史上尋找 UFO 的故事。", "confidence": "high", "notes": ""}
 
 623. It starts in Roosevelt's day.
 → {"text": "它始於羅斯福時代。", "confidence": "high", "notes": ""}
@@ -874,7 +874,7 @@
 → {"text": "到二戰結束時，有三件事告訴我們來自外太空的訪客，我們很快就會去那裡，這會讓他們嚇壞了，因為我們是如此原始的社會。", "confidence": "high", "notes": ""}
 
 634. Dark bombs, powerful rockets used to kill, not to deliver the mail, as some people said they would, and powerful radar at the beginning of the electronics revolution.
-→ {"text": "原子彈、用於殺戮而非像有些人說的那樣用於遞送郵件的強大火箭，以及電子革命開始時的強大雷達。", "confidence": "high", "notes": "原文 Dark bombs 指的是原子彈"}
+→ {"text": "原子彈、用於殺戮而非像有些人說的那樣用於遞送郵件的強大火箭，以及電子革命開始時的強大雷達。", "confidence": "high", "notes": "原文 Dark bombs 疑為 atom bombs 之轉錄錯誤"}
 
 635. The only place in the world in July 1947 where you could check out all three of those was southeastern New Mexico, which is where Roswell is.
 → {"text": "1947 年 7 月世界上唯一可以檢查這三者的地方是新墨西哥州東南部，那就是羅斯威爾所在的地方。", "confidence": "high", "notes": ""}
@@ -910,7 +910,7 @@
 → {"text": "這是時空。", "confidence": "high", "notes": ""}
 
 646. We're dealing with technologies that can bend space-time and put the corner to the corner.
-→ {"text": "我們正在處理可以彎曲時空並將角落對角落的技術。", "confidence": "high", "notes": ""}
+→ {"text": "我們正在處理可以彎曲時空並把兩個角對接在一起的技術。", "confidence": "high", "notes": ""}
 
 647. That is why Euclidean geometry and time, as we know it on this planet, have no relevance to the phenomena and the intelligence that we're dealing with.
 → {"text": "這就是為什麼歐幾里得幾何和時間，如我們在這個星球上所知道的，與我們正在處理的現象和智慧無關。", "confidence": "high", "notes": ""}
@@ -940,7 +940,7 @@
 → {"text": "問題。", "confidence": "high", "notes": ""}
 
 656. Has there been a decrease in the number of incidents that have happened, at least in this country, or because it seemed like this was talked about a lot, and there were a lot of sightings at some time, whether it was over the Prairie State, but that seems ... You don't read about it very much today.
-→ {"text": "至少在這個國家，發生的事件數量是否減少了，還是因為這似乎被談論很多，而且在某個時期有很多目擊事件，無論是在大草原州，但那似乎……你今天不太讀到它了。", "confidence": "medium", "notes": "Long, somewhat rambling sentence"}
+→ {"text": "至少在這個國家，發生的事件數量是否減少了，還是因為這似乎被談論很多，而且在某個時期有很多目擊事件，無論是在大草原州（伊利諾州），但那似乎……你今天不太讀到它了。", "confidence": "medium", "notes": "Long, somewhat rambling sentence"}
 
 657. That's the kicker.
 → {"text": "這就是關鍵。", "confidence": "high", "notes": ""}
@@ -961,7 +961,7 @@
 → {"text": "90% 的手放下了。", "confidence": "high", "notes": ""}
 
 663. MUFON, the Mutual UFO Network, is getting over 600 reports a month.
-→ {"text": "MUFON，UFO 互動網絡，每月收到超過 600 份報告。", "confidence": "high", "notes": ""}
+→ {"text": "MUFON，UFO 互動網路，每月收到超過 600 份報告。", "confidence": "high", "notes": ""}
 
 664. You don't hear about most of those cases, where the public's grown accustomed, I guess, or the media's unwilling to get involved.
 → {"text": "你沒有聽到大多數這些案例，我猜公眾已經習慣了，或者媒體不願意參與。", "confidence": "high", "notes": ""}
@@ -973,7 +973,7 @@
 → {"text": "我知道兩位真正投入 UFO 研究的稱職記者。", "confidence": "high", "notes": ""}
 
 667. That's an awful small number, George Knapp being one.
-→ {"text": "那是一個非常小的數字，George Knapp 是其中之一。", "confidence": "high", "notes": ""}
+→ {"text": "那是一個非常小的數字，喬治·奈普是其中之一。", "confidence": "high", "notes": ""}
 
 668. What about in other countries?
 → {"text": "那其他國家呢？", "confidence": "high", "notes": ""}
@@ -982,13 +982,13 @@
 → {"text": "它們有被報告嗎，還是那個——我到處都發現目擊事件。", "confidence": "high", "notes": ""}
 
 670. The sightings are very common, but what isn't uniform are proper distribution networks or reporting systems that are in place.
-→ {"text": "目擊事件非常普遍，但不統一的是適當的分發網絡或現有的報告系統。", "confidence": "high", "notes": ""}
+→ {"text": "目擊事件非常普遍，但不統一的是適當的分發網路或現有的報告系統。", "confidence": "high", "notes": ""}
 
 671. What we've developed here in the US are a number of websites that collect reports.
 → {"text": "我們在美國這裡開發的是許多收集報告的網站。", "confidence": "high", "notes": ""}
 
 672. As I mentioned earlier, my estimate is a rough one, but it's not less than 10,000 reports actually are written by people per year, 10,000 in North America, the US and Canada.
-→ {"text": "正如我之前提到的，我的估計是粗略的，但實際上每年有人寫的報告不少於 10，000 份，在北美、美國和加拿大有 10，000 份。", "confidence": "high", "notes": ""}
+→ {"text": "正如我之前提到的，我的估計是粗略的，但實際上每年有人寫的報告不少於 10,000 份，在北美、美國和加拿大有 10,000 份。", "confidence": "high", "notes": ""}
 
 673. Elsewhere in the world, there are obviously many sightings.
 → {"text": "在世界其他地方，顯然有許多目擊事件。", "confidence": "high", "notes": ""}
@@ -1102,10 +1102,10 @@
 → {"text": "關於為什麼要真相掩蓋有很多討論。", "confidence": "high", "notes": ""}
 
 710. Congressman Cook asked a question.
-→ {"text": "Cook 議員問了一個問題。", "confidence": "high", "notes": ""}
+→ {"text": "庫克議員問了一個問題。", "confidence": "high", "notes": ""}
 
 711. There wasn't a lengthy discussion of it, and that is there have been a number of sightings before anybody had an airplane or a lighter than aircraft in the air, and I think that people need to understand that this is not just a current day.
-→ {"text": "對此沒有太長的討論，那就是在任何人擁有飛機或比飛機更輕的航空器在空中之前就有許多目擊事件，我認為人們需要理解這不僅僅是當今的事情。", "confidence": "medium", "notes": "Complex sentence"}
+→ {"text": "對此沒有太長的討論，那就是在任何人擁有飛機或輕於空氣的航空器升空之前就有許多目擊事件，我認為人們需要理解這不僅僅是當今的事情。", "confidence": "medium", "notes": "原文 lighter than aircraft 疑為 lighter-than-air aircraft（輕於空氣的航空器）之轉錄錯誤"}
 
 712. As our technology has developed, the sightings have become more frequent, but there have been sightings way back in history.
 → {"text": "隨著我們技術的發展，目擊事件變得更加頻繁，但在歷史上很早以前就有目擊事件。", "confidence": "high", "notes": ""}

@@ -227,7 +227,7 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/<episode>.ya
 1. 載入 Context：
    - `topics.json` - 全域摘要與當前 topic 的 summary、keywords
    - `data/<episode>/terminology.yaml` - 術語翻譯標準（若已完成階段 5）
-   - `configs/guidelines_template.md` - 翻譯風格指引
+   - `configs/translation_guidelines_template.md` - 翻譯風格指引
 2. 直接在 `drafts/topic_0X.md` 中填寫翻譯（修改箭頭右側的 JSON 欄位）
 3. 填寫欄位：
    - `text` - 翻譯內容（必填，非空）
@@ -266,7 +266,7 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/<episode>.ya
    請翻譯 data/<episode>/drafts/topic_0X.md
 
    **必讀參考文檔**（請先閱讀以下檔案）：
-   1. data/<episode>/guidelines.md - 翻譯風格與規範
+   1. data/<episode>/translation_guidelines.md - 翻譯風格與規範
    2. data/<episode>/terminology.yaml - 術語翻譯標準（若已完成階段 5）
    3. data/<episode>/topics.json - 全集摘要與當前 topic 的語境
 

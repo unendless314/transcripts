@@ -49,7 +49,7 @@
 → {"text": "但在一百多英呎外有一圈馬蹄印，彷彿這匹馬被困在某種東西裡，蹄子繞著圓圈走，然後在一百多英呎外發現了屍體。", "confidence": "high", "notes": ""}
 
 309. At that same time, and Jennifer, image 00, on July 15th, 1984, the Sunday Times in Australia headlined, quote, "Cover-up alleged over UFO-linked animal slaughter.
-→ {"text": "在同一時期，珍妮佛，投影片00，1984年7月15日，澳洲《星期日泰晤士報》的頭條寫道：「據稱存在與不明飛行物相關的動物屠殺真相掩蓋。", "confidence": "high", "notes": ""}
+→ {"text": "在同一時期，珍妮佛，投影片00,1984年7月15日，澳洲《星期日泰晤士報》的頭條寫道：「據稱存在與不明飛行物相關的動物屠殺真相掩蓋。", "confidence": "high", "notes": ""}
 
 310. Many reports of UFOs and strange lights in the sky," close quote, "Farmers in the Adelaide Hills have discovered mutilated animal corpses and burn marks on the ground.
 → {"text": "許多關於不明飛行物和天空中奇怪光點的報告，」引述結束，「阿得萊德山區（Adelaide Hills）的農民發現了肢解的動物屍體和地面上的燒焦痕跡。", "confidence": "high", "notes": ""}

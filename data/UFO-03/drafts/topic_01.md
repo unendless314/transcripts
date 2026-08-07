@@ -136,7 +136,7 @@
 → {"text": "這是在 2001 年 9 月 10 日。", "confidence": "high", "notes": ""}
 
 46. Now, prior to that, I was not surprised at that comment because back in 1994, I had a meeting with Mr. DeMato, not the senator, who was the chief counsel for the Senate Appropriations Committee, and he informed me that they felt that there was upwards of or in excess of $900 billion a year missing out of the Treasury going into so-called black projects.
-→ {"text": "在此之前，我對這番評論並不驚訝，因為早在 1994 年，我曾與參議院撥款委員會（Senate Appropriations Committee）首席法律顧問 DeMato 先生（不是參議員）會面，他告知我，他們認為每年有高達或超過 9，000 億美元從財政部流失，流向所謂的黑計畫。", "confidence": "high", "notes": ""}
+→ {"text": "在此之前，我對這番評論並不驚訝，因為早在 1994 年，我曾與參議院撥款委員會（Senate Appropriations Committee）首席法律顧問 DeMato 先生（不是參議員）會面，他告知我，他們認為每年有高達或超過 9,000 億美元從財政部流失，流向所謂的黑計畫。", "confidence": "high", "notes": ""}
 
 47. Now, this is a misnomer, just so that the committee knows, the proper term in the military and intelligence world is an unacknowledged special access project.
 → {"text": "現在，我要說明的是，這其實是用詞不當。讓委員會知道，在軍方與情報界的正確術語是「未公開特別許可項目」（Unacknowledged Special Access Project）。", "confidence": "high", "notes": ""}
