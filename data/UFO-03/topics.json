@@ -301,6 +301,18 @@
           "reasoning": "The speaker is referring to the witness, attorney Daniel Sheehan. 'Danny Sheen' is a mishearing."
         },
         {
+          "segment_id": 297,
+          "error_text": "Koloski-Frost",
+          "suggested_correction": "Kowsky-Frost",
+          "reasoning": "The Kowsky-Frost antenna refers to 1920s German high-voltage electrostatic lift experiments (as referenced in Nick Cook's The Hunt for Zero Point). 'Koloski-Frost' is a phonetic mishearing. (Added during 2026-08 proofreading.)"
+        },
+        {
+          "segment_id": 303,
+          "error_text": "a special skiff",
+          "suggested_correction": "a special SCIF",
+          "reasoning": "SCIF (Sensitive Compartmented Information Facility) is the secure room used for classified briefings. 'skiff' is a phonetic mishearing of the acronym. (Added during 2026-08 proofreading.)"
+        },
+        {
           "segment_id": 486,
           "error_text": "Dr. Crere",
           "suggested_correction": "Dr. Greer",
@@ -311,6 +323,18 @@
           "error_text": "conference in the Sylmar",
           "suggested_correction": "conference in Asilomar",
           "reasoning": "The witness is referring to the conference held at the Asilomar Conference Grounds, mentioned earlier in the testimony. 'Sylmar' is a phonetic error."
+        },
+        {
+          "segment_id": 463,
+          "error_text": "Projects yet, USABs",
+          "suggested_correction": "Projects, yes, USAPs",
+          "reasoning": "USAPs (Unacknowledged Special Access Projects) is the core concept of this testimony; 'USABs' is a slip or transcription error, and 'yet' is likely 'yes'. (Added during 2026-08 proofreading.)"
+        },
+        {
+          "segment_id": 508,
+          "error_text": "as well as C.I. / Director Woolsey",
+          "suggested_correction": "as well as CIA Director Woolsey",
+          "reasoning": "The speaker refers to CIA Director James Woolsey; Whisper split 'CIA' across segments 508-509 as 'C.I.' / 'Director'. (Added during 2026-08 proofreading.)"
         }
       ]
     }

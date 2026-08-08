@@ -205,7 +205,7 @@
 → {"text": "現在，當您從美國媒體得到的說法是：「天哪，他們正在尋找炸彈。」", "confidence": "high", "notes": ""}
 
 341. We tried to give them the bomb under the Shah, and they're the ones that decided they don't want it.
-→ {"text": "我們曾試圖在伊朗國王統治下給他們炸彈，而他們是決定不要的一方。", "confidence": "high", "notes": ""}
+→ {"text": "我們曾試圖在伊朗國王時期給他們核彈，是他們自己決定不要的。", "confidence": "high", "notes": "the bomb 在此語境指核彈（承接伊朗核武議題）"}
 
 342. It's immoral.
 → {"text": "這是不道德的。", "confidence": "high", "notes": ""}
@@ -217,7 +217,7 @@
 → {"text": "這是我想提出的兩點。", "confidence": "high", "notes": ""}
 
 345. I'll yield back the balance of my time because I can't think of an intelligent question I could ask to the intelligent testimony we just had.
-→ {"text": "我將交還我剩餘的時間，因為我想不出可以向剛才的智慧證詞提出的智慧問題。", "confidence": "high", "notes": ""}
+→ {"text": "我將交還剩餘的時間，因為面對我們剛才聽到的這番睿智的證詞，我實在想不出任何睿智的問題可以提。", "confidence": "high", "notes": ""}
 
 346. That's nice.
 → {"text": "很好。", "confidence": "high", "notes": ""}
@@ -250,16 +250,16 @@
 → {"text": "所有情報事務都由該預算資助，而作為國會議員，我們不會辯論它。", "confidence": "high", "notes": ""}
 
 356. We don't know its bottom number or any of that because, quote, it's over our classified.
-→ {"text": "我們不知道它的底線數字或任何相關資訊，因為，引述，這超出了我們的機密等級。", "confidence": "high", "notes": ""}
+→ {"text": "我們不知道它的最終數字或任何相關資訊，因為（引述）「這超出了我們的機密權限」。", "confidence": "high", "notes": "原文 it's over our classified 句構破碎（Whisper 常見），依語境補足為「超出機密權限」"}
 
 357. Members of Congress are also classified to a point.
-→ {"text": "國會議員也有一定程度的機密等級。", "confidence": "high", "notes": ""}
+→ {"text": "國會議員能接觸的機密也僅到一定程度。", "confidence": "high", "notes": ""}
 
 358. When we come in office, as you know, I'm sure we take an oath and sign for the intelligence level that we can hear.
-→ {"text": "如您所知，我相信，當我們上任時，我們宣誓並簽署我們可以聽取的情報等級。", "confidence": "high", "notes": ""}
+→ {"text": "正如各位所知，我確信，當我們上任時，我們宣誓就職，並簽署文件，以取得聽取特定情報層級的權限。", "confidence": "high", "notes": ""}
 
 359. Of course, there's super, super intelligence that we don't, and I think we're discussing much of that today, which is where the money is and where that intelligence budget is gone.
-→ {"text": "當然，還有超級、超級情報，我們無法獲得，我認為我們今天討論的大部分內容，就是資金所在以及情報預算的去向。", "confidence": "high", "notes": ""}
+→ {"text": "當然，還有一些層級極高的情報是我們無權接觸的，而我想我們今天討論的許多內容正是屬於這一類——那裡正是資金所在，也是情報預算的去向。", "confidence": "high", "notes": ""}
 
 360. You mentioned emergency and everything we talked about today, and my newspaper person came up to me this ... I told them I'll speak to them on Friday after I learn more, but they still keep coming.
 → {"text": "您提到了緊急情況，以及我們今天談論的所有內容，我的新聞界人士今天來找我……我告訴他們我會在週五學到更多後再與他們交談，但他們還是不斷前來。", "confidence": "high", "notes": ""}
@@ -313,7 +313,7 @@
 → {"text": "我們為什麼還在使用石油？", "confidence": "high", "notes": ""}
 
 377. I think we're on oil, and coal, and nuclear power, because there has been an active longitude and a long-term suppression of really advanced sciences and technologies.
-→ {"text": "我認為我們使用石油、煤炭和核能，是因為真正先進的科學與技術長期受到積極的抑制。", "confidence": "high", "notes": ""}
+→ {"text": "我認為我們使用石油、煤炭和核能，是因為真正先進的科學與技術長期受到積極的抑制。", "confidence": "high", "notes": "原文 an active longitude 疑為轉錄錯誤（對照 seg 386 active suppression），依語境意譯"}
 
 378. I think that this has created both a geopolitical emergency and a geophysical emergency.
 → {"text": "我認為這造成了地緣政治緊急情況和地球物理緊急情況。", "confidence": "high", "notes": ""}
@@ -331,10 +331,10 @@
 → {"text": "幸運的是，我相當富裕，能夠建立一個巨大的太陽能農場。", "confidence": "high", "notes": ""}
 
 383. It's the biggest private solar farm in Virginia, but it's not practical for most people, whereas there are advanced technologies dealing with the physics of zero-point energy, so that every home and car would have a generator pulling energy out of the fabric of space-time, and you would never have to burn another drop of oil.
-→ {"text": "這是維吉尼亞州最大的私人太陽能農場，但對大多數人來說這並不實際，然而有處理零點能量物理學的先進技術，使得每個家庭和汽車都能有一個從時空結構中提取能量的發電機，您永遠不必再燃燒一滴石油。", "confidence": "high", "notes": ""}
+→ {"text": "這是維吉尼亞州最大的私人太陽能農場，但對大多數人來說這並不實際，然而有運用零點能量物理原理的先進技術，使得每個家庭和汽車都能有一個從時空結構中提取能量的發電機，您永遠不必再燃燒一滴石油。", "confidence": "high", "notes": ""}
 
 384. Why are we not there?
-→ {"text": "我們為什麼還沒有達到那裡？", "confidence": "high", "notes": ""}
+→ {"text": "為什麼我們還沒有走到那一步？", "confidence": "high", "notes": ""}
 
 385. Why are we not doing that?
 → {"text": "我們為什麼不這樣做？", "confidence": "high", "notes": ""}
@@ -343,19 +343,19 @@
 → {"text": "因為這些資訊受到積極的抑制。", "confidence": "high", "notes": ""}
 
 387. As Mr. Sheehan reported, there are people on my team who have been threatened.
-→ {"text": "正如 Sheehan 先生報告的，我的團隊中有人曾受到威脅。", "confidence": "high", "notes": ""}
+→ {"text": "正如希恩先生所述，我的團隊中有人曾受到威脅。", "confidence": "high", "notes": ""}
 
 388. There is a man working on one of these devices for my group.
-→ {"text": "有一個人正在為我的團隊研究這些裝置之一。", "confidence": "high", "notes": ""}
+→ {"text": "有一個人正在為我的團隊研發這類裝置中的一種。", "confidence": "high", "notes": ""}
 
 389. We provided some grant funding, and about two or three years ago, a former CIA director, who I don't want to talk about, with a group of people went down there and threatened him and his wife if he didn't stop.
-→ {"text": "我們提供了一些資助，大約兩三年前，一位前 CIA 局長——我不想談論是誰——帶著一群人去了那裡，威脅他和他的妻子，如果他不停止的話。", "confidence": "high", "notes": ""}
+→ {"text": "我們提供了一些資助，大約兩三年前，一位我不想指名道姓的前 CIA 局長帶著一群人去了那裡，威脅他和他妻子，要他停手。", "confidence": "high", "notes": ""}
 
 390. So this is a man who is attached to IT&T and does contract work for the CIA.
 → {"text": "所以這個人隸屬於 IT&T，為 CIA 做合約工作。", "confidence": "high", "notes": ""}
 
 391. He had been clear to do it for us.
-→ {"text": "他已經被清除可以為我們做這件事。", "confidence": "high", "notes": ""}
+→ {"text": "他原本已獲安全許可，可以為我們進行這項工作。", "confidence": "high", "notes": "原文 clear 即 cleared（通過安全審查），舊譯「被清除」為誤譯"}
 
 392. Why then?
 → {"text": "那為什麼呢？", "confidence": "high", "notes": ""}
@@ -376,7 +376,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 398. Threatened, near-death, exercise, eliminated, or whatever that means.
-→ {"text": "威脅、瀕死、演習、消滅，或任何這意味著的。", "confidence": "high", "notes": ""}
+→ {"text": "被威脅、瀕臨死亡、演習、被除掉，或不管那是什麼意思。", "confidence": "medium", "notes": "原文 exercise 在此列舉語境中語意不明，暫譯「演習」；疑為轉錄錯誤但無法確定原詞"}
 
 399. Right.
 → {"text": "對。", "confidence": "high", "notes": ""}
@@ -406,19 +406,19 @@
 → {"text": "也有很多人反對我們試圖做的事情。", "confidence": "high", "notes": ""}
 
 408. There is a committee, it used to be called Majestic, that deals with this issue.
-→ {"text": "有一個委員會，曾經被稱為 Majestic，處理這個問題。", "confidence": "high", "notes": ""}
+→ {"text": "有一個處理這個問題的委員會，過去被稱為 Majestic。", "confidence": "high", "notes": ""}
 
 409. And I will give the committee a document, this document I refer to, and the second one down is Cosmic Ops, and the third one is Magic Ops and Magi Ops.
-→ {"text": "我將向委員會提供一份文件，我提到的這份文件，第二個是 Cosmic Ops，第三個是 Magic Ops 和 Magi Ops。", "confidence": "high", "notes": ""}
+→ {"text": "我會交給委員會一份文件，就是我提到的這份，當中第二項是 Cosmic Ops，第三項是 Magic Ops 和 Magi Ops。", "confidence": "high", "notes": ""}
 
 410. You know how important that would be if we had it in front of us?
-→ {"text": "您知道如果我們面前有它會有多重要嗎？", "confidence": "high", "notes": ""}
+→ {"text": "您知道如果這些文件就擺在我們面前，會有多重要嗎？", "confidence": "high", "notes": ""}
 
 411. Which is my point.
 → {"text": "這就是我的重點。", "confidence": "high", "notes": ""}
 
 412. We're going to get it for you.
-→ {"text": "我們會為您取得它。", "confidence": "high", "notes": ""}
+→ {"text": "我們會為您把文件找來。", "confidence": "high", "notes": ""}
 
 413. We need all of it.
 → {"text": "我們需要全部。", "confidence": "high", "notes": ""}
@@ -433,16 +433,16 @@
 → {"text": "這有助於我們準備。", "confidence": "high", "notes": ""}
 
 417. And when you refer to things, we can see it as well as hear it, and it's internalized better.
-→ {"text": "當您提到事情時，我們既能看到又能聽到，這樣內化得更好。", "confidence": "high", "notes": ""}
+→ {"text": "當您提及這些內容時，我們不僅能聽到，還能親眼看到，這樣更能消化吸收。", "confidence": "high", "notes": ""}
 
 418. I appreciate it.
 → {"text": "我很感激。", "confidence": "high", "notes": ""}
 
 419. And we have a computer disk we'll give each of you that has all of this.
-→ {"text": "我們有一張電腦光碟會給你們每個人，上面有所有這些內容。", "confidence": "high", "notes": ""}
+→ {"text": "我們還有一張電腦光碟，會發給在座每一位，上面有所有這些內容。", "confidence": "high", "notes": ""}
 
 420. What's key about the document, however, is that these compartmented operations that are known to exist work mainly in the science and technology area.
-→ {"text": "然而，該文件的關鍵在於，這些已知存在的分區行動主要在科學技術領域工作。", "confidence": "high", "notes": ""}
+→ {"text": "然而，這份文件的關鍵之處在於，這些已知存在的機密分隔行動主要運作於科學與技術領域。", "confidence": "high", "notes": ""}
 
 421. And this particular document is from the National Reconnaissance Office, and it was a security breach warning for Nellis Air Force Base.
 → {"text": "而這份特定文件來自國家偵察局（National Reconnaissance Office），這是針對內利斯空軍基地（Nellis Air Force Base）的安全漏洞警告。", "confidence": "high", "notes": ""}
@@ -457,16 +457,16 @@
 → {"text": "嗯，不，我沒有。", "confidence": "high", "notes": ""}
 
 425. Actually, everything that we have, even if -- we have determined, as I said through the unless otherwise directed order that we sent out a letter, that all of this information is declassified.
-→ {"text": "實際上，我們擁有的所有東西，即使——我們已經確定，正如我所說的，通過我們發出的「除非另有指示」命令信函，所有這些資訊都已解密。", "confidence": "high", "notes": ""}
+→ {"text": "實際上，我們擁有的所有東西，即使——正如我所說，透過我們發出的信函，依據「除非另有指示」的命令，我們已確定所有這些資訊都已解密。", "confidence": "high", "notes": "原文句構破碎（Whisper 常見），譯文依語境整理"}
 
 426. All right.
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 427. Because we have determined that the secrecy has been maintained outside a proper constitutional -- look, I met personally with the head of the Defense Intelligence Agency for a very long period of time.
-→ {"text": "因為我們已經確定，保密是在適當的憲法框架之外維持的——聽著，我親自與國防情報局（Defense Intelligence Agency）局長會面了很長時間。", "confidence": "high", "notes": ""}
+→ {"text": "因為我們已經確定，這種保密是在適當的憲法框架之外維持的——聽著，我親自與國防情報局（Defense Intelligence Agency）局長會面了很長時間。", "confidence": "high", "notes": "原文 outside a proper constitutional -- 中斷，譯文補足「框架」"}
 
 428. He was given information, actionable intelligence, and he, along -- as well as Admiral Wilson, and this man is General Patrick Hughes, and many of you may have known him.
-→ {"text": "他獲得了資訊、可行的情報，而他，以及威爾森上將（Admiral Wilson），這個人是派翠克·休斯將軍（General Patrick Hughes），你們中的許多人可能認識他。", "confidence": "high", "notes": ""}
+→ {"text": "他獲得了資訊、可據以行動的情報，而他——以及威爾森上將（Admiral Wilson）——這位就是派翠克·休斯將軍（General Patrick Hughes），你們當中的許多人可能認識他。", "confidence": "high", "notes": "原文句構破碎，語意承接下段「他被拒絕訪問」"}
 
 429. He was denied access.
 → {"text": "他被拒絕訪問。", "confidence": "high", "notes": ""}
@@ -475,7 +475,7 @@
 → {"text": "這肯定是非法的。", "confidence": "high", "notes": ""}
 
 431. You cannot be denying senior people who are in the chain of command.
-→ {"text": "您不能拒絕指揮鏈中的高層人員。", "confidence": "high", "notes": ""}
+→ {"text": "你們不能拒絕指揮鏈上的高層人員取得這些資訊。", "confidence": "high", "notes": "原文語意簡略，譯文補足「取得這些資訊」"}
 
 432. And so -- Okay.
 → {"text": "所以——好的。", "confidence": "high", "notes": ""}
@@ -499,7 +499,7 @@
 → {"text": "我們想與您合作。", "confidence": "high", "notes": ""}
 
 439. We want the information -- Thank you. -- in writing, as well as verbally, and I yield back the balance of my time.
-→ {"text": "我們想要書面形式的資訊——謝謝——以及口頭形式，我交還我剩餘的時間。", "confidence": "high", "notes": ""}
+→ {"text": "我們希望取得這些資訊——謝謝——以書面以及口頭兩種形式，我交還剩餘的時間。", "confidence": "high", "notes": ""}
 
 440. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -526,10 +526,10 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 448. I'd like to continue with Dr. Greer for a moment.
-→ {"text": "我想繼續與 Dr. Greer 討論片刻。", "confidence": "high", "notes": ""}
+→ {"text": "我想繼續與葛瑞爾博士討論片刻。", "confidence": "high", "notes": ""}
 
 449. You talked about 14 countries that have opened up UFO files, and I take it that these are probably similar to files that the United States has that the United States government has refused to open up.
-→ {"text": "您談到了 14 個國家開放了不明飛行物（UFO）檔案，我認為這些檔案可能與美國政府擁有但拒絕開放的檔案類似。", "confidence": "high", "notes": ""}
+→ {"text": "您談到了 14 個國家開放了不明飛行物檔案，我認為這些檔案可能與美國政府擁有但拒絕開放的檔案類似。", "confidence": "high", "notes": ""}
 
 450. Am I right in that implication?
 → {"text": "我的理解對嗎？", "confidence": "high", "notes": ""}
@@ -538,7 +538,7 @@
 → {"text": "澄清一下，那些是在這些政府內部可獲得的文件，但不在未公開特別許可項目（unacknowledged special access project）中。", "confidence": "high", "notes": ""}
 
 452. Great Britain, for example, has recently opened up a large number of files, but those are the ones that can be obtained by a FOIA-type officer, same thing in France.
-→ {"text": "例如，英國最近開放了大量檔案，但那些是可以通過類似資訊自由法（FOIA）的官員獲得的檔案，法國也是如此。", "confidence": "high", "notes": ""}
+→ {"text": "例如，英國最近開放了大量檔案，但那些是可以透過類似資訊自由法（FOIA）程序的官員取得的檔案，法國的情況也是如此。", "confidence": "high", "notes": ""}
 
 453. There are corollaries to these unacknowledged projects in some of these other countries, which we have discovered -- Great Britain, certainly, Canada, certainly, and also France.
 → {"text": "其中一些其他國家也存在這些未公開項目的對應物，我們已經發現了——當然包括英國，當然包括加拿大，還有法國。", "confidence": "high", "notes": ""}
@@ -559,7 +559,7 @@
 → {"text": "您剛才指出，我們剛剛談到的，您說在幾十年內國防部預算中完全失蹤的 2.3 兆美元？", "confidence": "high", "notes": ""}
 
 459. Well, Secretary of Defense Rumsfeld didn't comment on how long.
-→ {"text": "嗯，國防部長倫斯斐（Secretary of Defense Rumsfeld）沒有評論時間跨度。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，國防部長倫斯斐（Secretary of Defense Rumsfeld）沒有說明那是多久期間的累計。", "confidence": "high", "notes": ""}
 
 460. Now, Secretary of Defense Cohen -- I think most of you may have known him during the Clinton years -- he was given information also from Gordon Cooper, one of our witnesses who was an astronaut, and he also said, "Look, I've looked into this, and there's a great deal of activity, but they won't share it with me," from the secretary of defense.
 → {"text": "現在，國防部長科恩（Secretary of Defense Cohen）——我想你們大多數人可能在柯林頓年代認識他——他也從戈登·庫珀（Gordon Cooper）那裡獲得了資訊，戈登·庫珀是我們的證人之一，他是一位太空人，他也說：「聽著，我調查過此事，有大量活動，但他們不會與我分享」，這是國防部長說的。", "confidence": "high", "notes": ""}
@@ -571,7 +571,7 @@
 → {"text": "好的，但當您說我們不太清楚它的去向時，是其中的一部分還是全部，還是其中的一些，是您所說的未公開特別許可程序（unacknowledged special access processes）？", "confidence": "high", "notes": ""}
 
 463. Projects yet, USABs.
-→ {"text": "項目，對，USAP。", "confidence": "high", "notes": ""}
+→ {"text": "項目，對，USAP。", "confidence": "high", "notes": "原文 USABs 應為 USAPs（口誤或轉錄錯誤）；yet 疑為 yes"}
 
 464. Projects.
 → {"text": "項目。", "confidence": "high", "notes": ""}
@@ -604,16 +604,16 @@
 → {"text": "您只是不知道。", "confidence": "high", "notes": ""}
 
 474. We think it is, and in fact, I believe that's what he was saying over a number of years, many years.
-→ {"text": "我們認為是的，事實上，我相信這就是他在許多年，很多年來所說的。", "confidence": "high", "notes": ""}
+→ {"text": "我們認為是的，事實上，我相信這正是他多年來、許多年以來一直所說的。", "confidence": "high", "notes": ""}
 
 475. If we have counted in those projects things like anti-gravity machines, things like space elevators that are based on anti-gravity research and magnetism and electricity that goes far beyond any of us are really totally aware of right now, or some may be, or I can think of a number of things, but here's my question.
-→ {"text": "如果我們在這些項目中計算了像反重力機器、基於反重力研究以及磁力和電力的太空電梯等東西，這遠遠超出了我們現在真正完全了解的範圍，或者有些人可能了解，或者我能想到的許多事情，但這是我的問題。", "confidence": "high", "notes": ""}
+→ {"text": "如果我們把諸如反重力機器、基於反重力研究以及磁電技術的太空電梯等東西算進這些項目——這些遠超出我們任何人目前真正完全了解的範圍，或許有些人了解——我能想到許多東西，但我的問題是：", "confidence": "high", "notes": "原文句構破碎（Whisper 常見），譯文依語境整理"}
 
 476. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 477. And I want you to really give me your best possible feeling on this.
-→ {"text": "我希望您真正給我您對此的最佳可能感受。", "confidence": "high", "notes": ""}
+→ {"text": "我希望您能盡可能給我您對此最真切的感受。", "confidence": "high", "notes": ""}
 
 478. Is some of that clearly, legitimately, withheld for national security reasons?
 → {"text": "其中一些是否明確、合法地基於國家安全（national security）原因而被保密？", "confidence": "high", "notes": ""}
@@ -622,7 +622,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 480. In fact, I was approached by some folks after Obama was elected to support an initiative to privately bring out the lifter or electromagnetic gravitics, and I said because they could become a delivery system, and I was meeting with an Air Force colonel at the time, I think that some of that needs to be looked at very carefully.
-→ {"text": "事實上，在歐巴馬當選後，我被一些人接觸，支持一項私下公開升力系統或電磁重力系統的倡議，我說因為它們可能成為投射系統，我當時正在與一位空軍上校會面，我認為其中一些需要非常仔細地審查。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，歐巴馬當選後，有人來接觸我，希望我支持一項倡議，私下公開升力系統或電磁重力技術；我回應說，由於它們可能成為武器投射系統——我當時正與一位空軍上校會面——我認為其中一些需要非常仔細地審視。", "confidence": "high", "notes": "原文句構破碎，譯文依語境整理；delivery system 指武器投射系統"}
 
 481. However, the stationary energy generation systems that would get us off oil, gas, and coal tomorrow, those should be brought out.
 → {"text": "然而，固定式能源發電系統能讓我們明天就擺脫石油、天然氣和煤炭，這些應該公開。", "confidence": "high", "notes": ""}
@@ -631,16 +631,16 @@
 → {"text": "所以我認為——當然。", "confidence": "high", "notes": ""}
 
 483. So I think you do have to have a very -- and I'm saying this, and I know there are people who probably in the disclosure movement are going to be appalled by what I'm about to say -- is that we do not yet live in a world where everyone on the planet should have a lifter and transfer transportation system that could get us from here to Paris in two or three minutes, and I think that those sort of technologies obviously have weapons delivery applications.
-→ {"text": "所以我認為您必須非常——我說這個，我知道在真相揭露（disclosure）運動中可能有人會對我接下來要說的感到震驚——是我們還沒有生活在一個地球上每個人都應該擁有升力和傳輸運輸系統的世界，這種系統可以讓我們在兩三分鐘內從這裡到達巴黎，我認為這些類型的技術顯然具有武器投射應用。", "confidence": "high", "notes": ""}
+→ {"text": "所以我認為您必須非常——我這麼說，也知道真相揭露（disclosure）運動中可能有些人會對我接下來要說的話感到震驚——我們還沒有生活在一個地球上每個人都該擁有升力載具和傳送式運輸系統的世界，那種系統可以讓我們兩三分鐘內從這裡到達巴黎，而我認為這類技術顯然有武器投射的用途。", "confidence": "high", "notes": ""}
 
 484. However, the part of the technology that deals with energy generation should come out and has also been suppressed for reasons mainly of macroeconomic stability, because as you know, part of the national security discussion has always been these would be highly disruptive technologies, to which I say, well, good, you want to be disrupted now or later when we go through a terminus with the environment melting down around us.
-→ {"text": "然而，處理能源發電的技術部分應該公開，而且也因為主要是宏觀經濟穩定的原因而受到抑制，因為如您所知，國家安全（national security）討論的一部分一直是這些將是高度破壞性的技術，對此我說，好吧，您想現在被破壞還是以後，當我們經歷環境在我們周圍崩潰的終點時。", "confidence": "high", "notes": ""}
+→ {"text": "然而，其中涉及能源生產的技術部分應該公開；它們受到抑制，主要也是出於宏觀經濟穩定的考量。因為如您所知，國家安全的討論中一直有人說這些是高度顛覆性的技術，對此我要說：好啊，那您是想現在被顛覆，還是想等到以後——等到我們走向終局、環境在我們四周崩解的時候？", "confidence": "high", "notes": "disruptive 在此譯「顛覆性」；terminus 譯「終局」"}
 
 485. We have got to make these hard decisions.
 → {"text": "我們必須做出這些艱難的決定。", "confidence": "high", "notes": ""}
 
 486. Okay, well, then my last question to you, Dr. Greer, would be these 14 countries that are disclosing, or at least making it possible for the people in those countries and people around the world to know what's in those files, is it possible that one of the reasons they may be motivated over the United States is because they think some of this stuff that's being seen and this phenomena, the maneuvering that's been talked about, the maneuvering that defies the laws of physics, might be something the United States is testing, that the United States just refuses to talk about?
-→ {"text": "好的，那麼我對您的最後一個問題，Dr. Greer，將是這 14 個正在揭露或至少讓這些國家的人民以及世界各地的人知道這些檔案內容的國家，是否有可能他們的動機之一超過美國的原因是，他們認為一些被看到的東西和這種現象，被談論的機動性，違反物理定律的機動性，可能是美國正在測試的東西，而美國只是拒絕談論它？", "confidence": "high", "notes": ""}
+→ {"text": "好的，那麼我對您的最後一個問題，葛瑞爾博士，是關於這 14 個正在揭露、或至少讓本國人民和世界各地的人知道檔案內容的國家——他們之所以比美國更積極，動機之一是否可能是：他們認為人們看到的這些東西、這種現象，那些被談論的、違反物理定律的機動表現，可能是美國正在測試、卻拒絕談論的東西？", "confidence": "high", "notes": "原文 motivated over the United States 句構破碎，依語境理解為「比美國更積極」"}
 
 487. Correct.
 → {"text": "正確。", "confidence": "high", "notes": ""}
@@ -655,10 +655,10 @@
 → {"text": "他們知道其中一些物體具有外星（extraterrestrial）起源。", "confidence": "high", "notes": ""}
 
 491. They know that some of them are man-made, and the Lockheed Skunk Works and some of my witnesses and sources work in the famous Skunk Works, and I will tell you that Ben Rich, who headed up the Lockheed Skunk Works, said before he died, and we have a witness to this comment that we "already have the technologies to take ET home."
-→ {"text": "他們知道其中一些是人造的，洛克希德臭鼬工廠（Lockheed Skunk Works）以及我的一些證人和消息來源在著名的臭鼬工廠工作，我會告訴您，領導洛克希德臭鼬工廠的班·里奇（Ben Rich）在他去世前說過，我們有一位證人證實了這一評論，「我們已經擁有將 ET 帶回家的技術」。", "confidence": "high", "notes": ""}
+→ {"text": "他們知道其中一些是人造的——洛克希德臭鼬工廠（Lockheed Skunk Works）；我的一些證人和消息來源就在那家著名的臭鼬工廠工作。我要告訴您，領導過洛克希德臭鼬工廠的班·里奇（Ben Rich）生前說過——我們有證人可以證實這句話——「我們已經擁有把 ET 帶回家的技術。」", "confidence": "high", "notes": "原文句構破碎，譯文依語境整理"}
 
 492. In other words, we already have at the Skunk Works interstellar-capable technologies.
-→ {"text": "換句話說，我們在臭鼬工廠已經擁有星際旅行能力的技術。", "confidence": "high", "notes": ""}
+→ {"text": "換句話說，我們已經在臭鼬工廠擁有具備星際航行能力的技術。", "confidence": "high", "notes": ""}
 
 493. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -670,28 +670,28 @@
 → {"text": "首先，感謝您的證詞，這非常有趣。", "confidence": "high", "notes": ""}
 
 496. When you have other countries opening up, is there any reason that we shouldn't do the same, at least to the extent that they're doing?
-→ {"text": "當其他國家開放時，我們有什麼理由不做同樣的事情，至少在他們做的程度上？", "confidence": "high", "notes": ""}
+→ {"text": "既然有其他國家在開放檔案，我們有什麼理由不跟進，至少做到他們的程度？", "confidence": "high", "notes": ""}
 
 497. We talked about, or you talked about some restrictions at places that we might not want to go for actually really good reasons.
-→ {"text": "我們談到，或您談到了一些我們可能出於真正好的理由而不想去的限制地點。", "confidence": "high", "notes": ""}
+→ {"text": "我們討論過，或者說您提過一些限制——有些領域我們可能不願涉足，而那確實有充分的理由。", "confidence": "high", "notes": "原文語意簡略，譯文依語境補足"}
 
 498. Is there any reason that we shouldn't open up as much as some of the other countries have done?
 → {"text": "我們有什麼理由不像其他一些國家那樣開放？", "confidence": "high", "notes": ""}
 
 499. No, there's not, and in fact, I think that in reality, the secrecy undermines our democracy, and my mom's family were some of the original founders of the United States.
-→ {"text": "不，沒有，事實上，我認為實際上，保密削弱了我們的民主，我母親的家族是美國的一些原始創始人之一。", "confidence": "high", "notes": ""}
+→ {"text": "不，沒有理由。事實上，我認為這種保密實際上削弱了我們的民主——我母親的家族是美國最初的建國者之一。", "confidence": "high", "notes": ""}
 
 500. They were the first, well, we say the losers, who got caught by the British and were thrown in prison, so we were the first POWs, and my family and many of us, and my uncle who worked at Northrop Grumman, are appalled at the illegality of the secrecy and the ruthlessness with which it's been enforced, and those of us who've gone through that buzzsaw, and I've gone through a fair amount of it, it is not pretty, and what I would say is that this really does undermine our whole concept of a free society.
-→ {"text": "他們是第一批，嗯，我們說失敗者，被英國人抓住並投入監獄，所以我們是第一批戰俘，我的家族和我們許多人，以及我在諾斯洛普格魯曼（Northrop Grumman）工作的叔叔，都對保密的非法性以及執行保密的無情感到震驚，我們這些經歷過那種鋸齒式攻擊的人，我經歷了相當多，這並不美好，我想說的是，這確實削弱了我們自由社會的整個概念。", "confidence": "high", "notes": ""}
+→ {"text": "他們是第一批——嗯，用我們的話說——被英國人逮住關進監獄的失敗者，所以我們家算是第一批戰俘。我的家族、我們當中的許多人，還有我在諾斯洛普格魯曼（Northrop Grumman）工作的叔叔，都對這種保密的非法性、以及執行保密手段的無情感到震驚。我們這些經歷過那場煎熬的人——我自己就經歷過不少——那絕非美好的經驗。我想說的是，這確實動搖了我們對自由社會的整個信念。", "confidence": "high", "notes": "buzzsaw 為比喻（煎熬/磨難），非字面攻擊"}
 
 501. It also undermines the credibility of government.
 → {"text": "它也削弱了政府的可信度。", "confidence": "high", "notes": ""}
 
 502. This was one of my key points that I made to Mr. Rockefeller and to the Clinton administration, is that when you have almost 60 percent of the public believing this is real and some part of the government's hiding it, it makes a laughing stock when the Air Force has trotted out to say everything's a weather balloon.
-→ {"text": "這是我向洛克菲勒先生（Mr. Rockefeller）和柯林頓政府（Clinton administration）提出的關鍵點之一，即當您有近百分之六十的公眾相信這是真實的，政府的某些部分正在隱瞞它時，當空軍被拿出來說一切都是氣象氣球時，這讓政府成為笑柄。", "confidence": "high", "notes": ""}
+→ {"text": "這是我向洛克菲勒先生（Mr. Rockefeller）和柯林頓政府（Clinton administration）提出的關鍵論點之一：當近六成民眾相信這是真的、而政府的某個部分正在隱瞞時，空軍卻一再出面宣稱一切都是氣象氣球，這實在讓政府淪為笑柄。", "confidence": "high", "notes": ""}
 
 503. It's just as ridiculous, so the more we can release, the better, and I think the technology end of it needs to at least be released at the level where we would be able to have practical applications and sort of a peace dividend and an environmental dividend to this $2.3 trillion that are unaccounted for in the Department of Defense, and that certainly ought to happen.
-→ {"text": "這同樣荒謬，所以我們能發布的越多越好，我認為其中的技術部分至少需要在我們能夠擁有實際應用的層面上發布，並對這 2.3 兆美元未計入國防部的資金獲得某種和平紅利和環境紅利，這當然應該發生。", "confidence": "high", "notes": ""}
+→ {"text": "這同樣荒謬，所以我們能公開的愈多愈好。我認為其中的技術部分至少必須公開到讓我們能有實際應用的程度，並針對國防部這筆去向不明的 2.3 兆美元取得某種和平紅利與環境紅利，這當然應該實現。", "confidence": "high", "notes": ""}
 
 504. [Applause]
 → {"text": "【掌聲】", "confidence": "high", "notes": ""}
@@ -712,25 +712,25 @@
 ## Speaker Group 3
 
 508. Well, I think, you know, we would have to make a concerted effort, and I have to tell you, the look of fear, and I'm being very honest here, the fear and the anger I saw in the faces of General Patrick Hughes and Admiral Wilson when we provided the information that I'm going to provide for you, and which was provided to these people, as well as C.I.
-→ {"text": "嗯，我認為，您知道，我們必須做出一致的努力，我必須告訴您，當我們提供我將為您提供的資訊時，我在派翠克·休斯將軍（General Patrick Hughes）和威爾森上將（Admiral Wilson）臉上看到的恐懼和憤怒，我非常誠實地說，這種恐懼和憤怒。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，我認為，您知道，我們必須做出一致的努力。我必須告訴您——我在這裡非常誠實——當我們提供這份資訊時（也就是我稍後要交給您的那份，而這份資訊當時也提供給了這些人，以及 CIA——", "confidence": "high", "notes": "原文於 C.I. 處中斷，與下段 Director Woolsey 合為 CIA Director Woolsey（CIA 局長伍爾西）；本段句構承接後續段落"}
 
 509. Director Woolsey.
-→ {"text": "伍爾西局長（Director Woolsey）。", "confidence": "high", "notes": ""}
+→ {"text": "局長伍爾西）——我在派翠克·休斯將軍（General Patrick Hughes）和威爾森上將（Admiral Wilson）臉上看到的恐懼與憤怒。", "confidence": "high", "notes": "承接 seg 508 的斷句（as well as C.I. Director Woolsey）；恐懼與憤怒的描述主句於此收束"}
 
 510. It was palpable, because they realized that there was this very deep secret national security state that even they, who are supposed to be looking out after our best interests, were being denied access to, and when I asked the Admiral, Admiral Wilson, the head of intelligence joint staff, to please try to get control of this, he looked at me, he says, "My understanding now is that the best thing I have is a B2 stealth.
-→ {"text": "這是顯而易見的，因為他們意識到存在這個非常深層的秘密國家安全國家（national security state），即使是他們，應該照顧我們最佳利益的人，也被拒絕訪問，當我要求上將，威爾森上將，聯合參謀部情報主管，請試圖控制這個時，他看著我，他說：「我現在的理解是，我擁有的最好的東西是 B2 隱形轟炸機。」", "confidence": "high", "notes": ""}
+→ {"text": "那種感覺顯而易見，因為他們意識到存在著一個非常深層的秘密國家安全體系（national security state），即使是他們——理應守護我們最佳利益的人——也被拒絕訪問。當我請求威爾森上將（參謀長聯席會議情報主管）設法掌控這個局面時，他看著我說：「我現在的理解是，我手上最好的東西就是一架 B-2 隱形轟炸機。」", "confidence": "high", "notes": "B-2 依術語表加連字號；head of intelligence joint staff 依主表譯「參謀長聯席會議情報主管」"}
 
 511. What this secret organization has are things that can do circles around it.
-→ {"text": "這個秘密組織擁有的東西可以繞著它轉圈。", "confidence": "high", "notes": ""}
+→ {"text": "而這個秘密組織所擁有的，是性能遠在 B-2 之上的東西。", "confidence": "high", "notes": "do circles around 為俚語「遠遠超越」；it 指上段的 B-2 隱形轟炸機"}
 
 512. I'm outgunned."
-→ {"text": "我被比下去了。", "confidence": "high", "notes": ""}
+→ {"text": "我在武力上被完全壓制了。」", "confidence": "high", "notes": "承接 seg 510 威爾森上將的引言"}
 
 513. He also said that until the civilian leaders of the government order him to do something, the Secretary of Defense and the President, he can only do so much, but we couldn't get President Clinton to lean into this for reasons, well, I don't know if I want to even go into that, but it's for security reasons, safety reasons.
-→ {"text": "他還說，除非政府的文職領導人，國防部長和總統，命令他做某事，否則他只能做這麼多，但我們無法讓柯林頓總統（President Clinton）深入此事，原因是，嗯，我不知道我是否想深入探討，但這是出於安全原因、安全理由。", "confidence": "high", "notes": ""}
+→ {"text": "他還說，除非政府的文職領導人——國防部長和總統——命令他採取行動，否則他能做的有限；但我們無法讓柯林頓總統（President Clinton）投入此事，原因嘛，嗯，我不知道自己是否想談這個，但那是出於安全和人身安危的考量。", "confidence": "high", "notes": ""}
 
 514. So I think that this is the sort of problem you run into, and General Patrick Hughes went over to a shelf, now this is the head of the Defense Intelligence Agency, huge, and he said, "This is all I've ever gotten from the Defense Intelligence Agency chain of command in my inquiries into this subject," and he had a little ET doll brought at a toy store, and we all laughed but wanted to cry.
-→ {"text": "所以我認為這就是您會遇到的問題，派翠克·休斯將軍（General Patrick Hughes）走到一個架子前，現在這是國防情報局（Defense Intelligence Agency）局長，巨大的，他說：「這就是我從國防情報局指揮鏈對此主題的調查中獲得的全部」，他有一個在玩具店買的小 ET 娃娃，我們都笑了但想哭。", "confidence": "high", "notes": ""}
+→ {"text": "所以我認為這就是您會遇到的那種問題。派翠克·休斯將軍（General Patrick Hughes）——他可是國防情報局（Defense Intelligence Agency）局長——走到一個巨大的架子前，說：「這就是我循國防情報局指揮鏈調查這個主題所得到的全部。」架上有個從玩具店買來的小 ET 娃娃，我們都笑了，卻又想哭。", "confidence": "high", "notes": "原文句構破碎（huge 指架子），譯文依語境整理"}
 
 515. So here you have a general and an admiral and a CIA director, and these people were not just picking my brain trying to figure out what I knew, they honestly were being denied access.
 → {"text": "所以您這裡有一位將軍、一位上將和一位 CIA 局長，這些人不只是在挖我的腦子試圖弄清楚我知道什麼，他們確實被拒絕訪問（being denied access）。", "confidence": "high", "notes": ""}
@@ -742,28 +742,28 @@
 → {"text": "怎麼可能？", "confidence": "high", "notes": ""}
 
 518. Well, that's what I found in the hearing when I asked about how do we get to that place where they can go through an audit.
-→ {"text": "嗯，這就是我在聽證會上詢問我們如何到達他們可以進行審計的地方時發現的。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，這就是我在聽證會上詢問如何讓他們能夠通過審計時所發現的情況。", "confidence": "high", "notes": ""}
 
 519. It was, I mean, it was sort of a big joke, like, "Well, we're never going to be able to do that," so there.
 → {"text": "我的意思是，這有點像一個大笑話，比如：「嗯，我們永遠無法做到」，就這樣。", "confidence": "high", "notes": ""}
 
 520. One of the reasons is this, and this is going to have to get reformed somehow, I know an auditor for my uncle's old company, Northrop Grumman, he said, "Basically, if you're dealing with one of these unacknowledged projects, they will tell you, 'Well, we have an undisclosed amount of money doing an undisclosed project, and you don't have a need to know,' and they will then just rubber-stamp what's going into Northrop Grumman, or Lockheed Martin, or Science Applications International Corporation, or MITRE Corporation."
-→ {"text": "其中一個原因是這個，這必須以某種方式改革，我認識我叔叔的老公司諾斯洛普格魯曼（Northrop Grumman）的一位審計員，他說：「基本上，如果您正在處理這些未公開項目之一，他們會告訴您：『嗯，我們有一筆未公開的金額在做一個未公開的項目，而您沒有知曉的必要性』，然後他們會直接橡皮圖章批准進入諾斯洛普格魯曼、洛克希德馬丁（Lockheed Martin）、科學應用國際公司（Science Applications International Corporation）或 MITRE 公司的款項。」", "confidence": "high", "notes": ""}
+→ {"text": "其中一個原因是這個，而這遲早必須改革。我認識我叔叔老東家諾斯洛普格魯曼（Northrop Grumman）的一位審計員，他說：「基本上，如果您處理的是這些未公開項目之一，他們會告訴您：『嗯，我們有一筆未公開金額的資金在進行一個未公開的項目，而您沒有需知權限。』然後他們對流入諾斯洛普格魯曼、洛克希德馬丁（Lockheed Martin）、科學應用國際公司（Science Applications International Corporation）或 MITRE 公司的款項就只是蓋橡皮圖章放行。」", "confidence": "high", "notes": "need to know 依主表譯「需知權限」"}
 
 521. Now, I have a whole list.
 → {"text": "現在，我有一整份清單。", "confidence": "high", "notes": ""}
 
 522. One of the sections in here that I will provide for you, and Congressman Christopher Cox, who later became Bush's head of the SEC, asked me to put this together for him, and it's a list of the facilities and corporations and sub-corporations and sub-facilities where this activity is going on.
-→ {"text": "我將為您提供的其中一個部分，眾議員克里斯托弗·考克斯（Congressman Christopher Cox），他後來成為布希的證券交易委員會（SEC）主管，要求我為他整理這個，這是一份設施、公司、子公司和子設施的清單，這些活動正在進行的地方。", "confidence": "high", "notes": ""}
+→ {"text": "我稍後會提供給您的其中一個部分——是克里斯托弗·考克斯眾議員（Congressman Christopher Cox）要求我為他整理的，他後來出任布希政府的證券交易委員會（SEC）主席——那是一份清單，列出進行這些活動的設施、公司、子公司與子設施。", "confidence": "high", "notes": "head of the SEC 即 SEC 主席"}
 
 523. This is actionable intelligence if anyone wants to follow up on it.
-→ {"text": "如果有人想跟進，這是可行的情報。", "confidence": "high", "notes": ""}
+→ {"text": "如果有人想跟進，這是可據以行動的情報。", "confidence": "high", "notes": ""}
 
 524. So yes, you can find out.
 → {"text": "所以是的，您可以找出來。", "confidence": "high", "notes": ""}
 
 525. We have found out, but it's something that would have to be a concerted effort under subpoena power by people who would not take no for an answer, and that I think the people deserve.
-→ {"text": "我們已經找出來了，但這需要在傳票權力下進行一致的努力，由不會接受拒絕答案的人進行，我認為人民應該得到這個。", "confidence": "high", "notes": ""}
+→ {"text": "我們已經查出來了，但這必須由不接受拒絕的人憑藉傳票權限一致努力才能做到，而我認為這是人民應得的。", "confidence": "high", "notes": ""}
 
 526. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -772,7 +772,7 @@
 → {"text": "嗯，這個小組實際上已經結束了，下一個小組即將開始，但我總是有一些懸而未決的事情，因為如果我們不能對此做任何事情，如果我們不這樣做，我們正在學習的一切都不會有任何區別。", "confidence": "high", "notes": ""}
 
 528. And in 1995, the Rockefeller-funded conference in Asilomar, my question, as you were talking about it, was, well, what were their goals?
-→ {"text": "而在 1995 年，洛克菲勒資助的在 Asilomar 的會議，我的問題，當您談論它時，是，他們的目標是什麼？", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：'conference in the Sylmar' → 'conference in Asilomar'"}
+→ {"text": "而在 1995 年，當您談到那場由洛克菲勒資助、在阿西洛馬（Asilomar）舉行的會議時，我的問題是：他們的目標是什麼？", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：'conference in the Sylmar' → 'conference in Asilomar'；Asilomar 依 topic_01 定譯「阿西洛馬」"}
 
 529. What did they accomplish?
 → {"text": "他們實現了什麼？", "confidence": "high", "notes": ""}
@@ -781,19 +781,19 @@
 → {"text": "因為那次會議真的發生了什麼事嗎？", "confidence": "high", "notes": ""}
 
 531. And what we're doing today, this many years later, is there enough different out there that we can make a difference this week?
-→ {"text": "我們今天所做的，這麼多年後，外面是否有足夠的不同，我們可以在本週產生影響？", "confidence": "high", "notes": ""}
+→ {"text": "而這麼多年後的今天我們正在做的事——如今外部環境是否已有足夠的改變，讓我們本週就能帶來影響？", "confidence": "high", "notes": ""}
 
 532. Yes, ma'am, it's part of a process, and that meeting was a meeting to get together the initial governmental witnesses and to create a support group for them.
 → {"text": "是的，女士，這是一個過程的一部分，那次會議是為了召集最初的政府證人並為他們創建一個支持小組。", "confidence": "high", "notes": ""}
 
 533. I had grown men, old enough to be my grandfather, cry on my shoulder and say, "We've been wanting to talk about this our whole lives," who were astronauts, who were cosmonauts.
-→ {"text": "我有年齡大到足以成為我祖父的成年男子在我肩膀上哭泣，說：「我們一輩子都想談論這個」，他們是太空人，他們是太空員。", "confidence": "high", "notes": ""}
+→ {"text": "曾有一些成年男子——年紀大得足以當我的祖父——在我肩頭哭泣，說：「我們一輩子都想談談這件事。」他們當中有太空人，也有宇宙飛行員。", "confidence": "high", "notes": "astronauts（美）與 cosmonauts（蘇/俄）分別譯為太空人、宇宙飛行員"}
 
 534. I said, "Okay, let's do that," but they were afraid.
 → {"text": "我說：「好的，讓我們這樣做」，但他們害怕。", "confidence": "high", "notes": ""}
 
 535. They had signed oaths saying that they would never talk about any of this stuff, and they were afraid, and some of them had been in unacknowledged projects where they were told they would be terminated, killed, if they talked about it, and this is true.
-→ {"text": "他們簽署了誓言，說他們永遠不會談論任何這些東西，他們害怕，其中一些人曾在未公開項目中，他們被告知如果談論它就會被終止、被殺，這是真的。", "confidence": "high", "notes": ""}
+→ {"text": "他們簽署過誓言，絕不談論這一切；他們很害怕。其中有些人曾參與未公開項目，被告知如果說出去就會被除掉、被殺害——這是千真萬確的。", "confidence": "high", "notes": "terminated 在此指人被除掉，非合約終止"}
 
 536. So it was a process, and what I wanted to have happen, in 1997, when we had the meetings for various members of Congress, we had hoped that members of Congress who were chair of committees would pick up this mantle.
 → {"text": "所以這是一個過程，我想要發生的是，在 1997 年，當我們為國會各成員舉行會議時，我們希望擔任委員會主席的國會議員能接下這個使命。", "confidence": "high", "notes": ""}
@@ -808,10 +808,10 @@
 → {"text": "但我認為如果我們作為人民團結起來，我們可以做到。", "confidence": "high", "notes": ""}
 
 540. Now, with this process, there's the possibility of galvanizing a larger movement, because I think if the people will lead, the leaders will have to follow, but we have to get the information that we have out.
-→ {"text": "現在，通過這個過程，有可能激發一個更大的運動，因為我認為如果人民帶頭，領導者就必須跟隨，但我們必須把我們擁有的資訊公開。", "confidence": "high", "notes": ""}
+→ {"text": "現在，透過這個過程，有可能激發一個更大的運動，因為我認為如果人民帶頭，領導者就必須跟隨，但我們必須把我們擁有的資訊公開。", "confidence": "high", "notes": ""}
 
 541. But I think that to the extent that you folks could influence some of your colleagues who are still in the Congress to take a serious interest in this, that isn't just a dog-and-pony show of denial and ridicule, but really drills down on the, again, actionable intelligence that we've put together over the last 15 years, I think that that would result to really the lid coming off this thing and the people knowing the truth once and for all.
-→ {"text": "但我認為，在您們能夠影響您們在國會中的一些仍在任的同事，讓他們認真對待此事，而不僅僅是拒絕和嘲笑的狗和小馬秀，而是真正深入挖掘我們在過去 15 年中整理的，再次，可行的情報，我認為這將導致這件事的蓋子真正被揭開，人民終於知道真相。", "confidence": "high", "notes": ""}
+→ {"text": "但我認為，如果您們能影響一些仍在國會的同仁，讓他們認真關注此事——而不只是一場充斥否認與嘲笑的表面秀——真正深入探究我們過去 15 年間整理出的、可據以行動的情報，我相信那將真正掀開這件事的蓋子，讓人民一勞永逸地知道真相。", "confidence": "high", "notes": "dog-and-pony show 為慣用語（做給看的表面秀），非字面義"}
 
 542. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
