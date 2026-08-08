@@ -11,6 +11,7 @@
 # 修改本檔後請重新執行：PYTHONPATH=. python3 tools/build_terminology_master.py --force
 
 deprecated:
+  dr. steven greer: ["史蒂芬·葛瑞爾博士", "葛瑞爾博士", "葛瑞爾"]
   stanton friedman: ["史丹頓·佛烈德曼", "史坦頓·弗里德曼", "斯坦頓·弗里德曼"]
   stan friedman: ["史丹·佛烈德曼", "史丹頓·佛烈德曼"]
   senator gravel: ["格拉韋爾參議員"]

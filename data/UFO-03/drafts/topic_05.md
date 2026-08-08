@@ -19,7 +19,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 279. Dr. Greer, you mentioned that there was a very large amount of money that could not be accounted for in the Pentagon.
-→ {"text": "葛瑞爾博士，您提到五角大樓有一筆非常龐大的款項無法交代其去向。", "confidence": "high", "notes": ""}
+→ {"text": "格里爾博士，您提到五角大樓有一筆非常龐大的款項無法交代其去向。", "confidence": "high", "notes": ""}
 
 280. The Pentagon still cannot be audited.
 → {"text": "五角大樓至今仍無法被審計。", "confidence": "high", "notes": ""}
@@ -157,10 +157,10 @@
 → {"text": "我手上有一份美國科學家聯盟（Federation of American Scientists）兩年前發布的文件，顯示有 5,135 項專利已根據《國家安全法》（National Security Act）被扣押。", "confidence": "high", "notes": ""}
 
 325. Dr. Greer, we have to end your response, and it is Senator Gravel.
-→ {"text": "葛瑞爾博士，我們必須結束您的回答，現在輪到格拉維爾參議員（Senator Gravel）。", "confidence": "high", "notes": ""}
+→ {"text": "格里爾博士，我們必須結束您的回答，現在輪到格拉維爾參議員（Senator Gravel）。", "confidence": "high", "notes": ""}
 
 326. I won't take my full time because some of these questions need to be elaborated like Dr. Greer was doing, but let me add, because of our view that we want to get the Congress to do something, there's a ruling of the Supreme Court, and my colleague will be interested in about the constitutionality of it.
-→ {"text": "我不會用完我的全部時間，因為其中一些問題需要像葛瑞爾博士那樣詳細闡述，但讓我補充一點，因為我們的觀點是希望國會採取行動，最高法院有一項裁決，我的同事會對其合憲性感興趣。", "confidence": "high", "notes": ""}
+→ {"text": "我不會用完我的全部時間，因為其中一些問題需要像格里爾博士那樣詳細闡述，但讓我補充一點，因為我們的觀點是希望國會採取行動，最高法院有一項裁決，我的同事會對其合憲性感興趣。", "confidence": "high", "notes": ""}
 
 327. I was prosecuted by the Nixon administration, and my defense, which Daniel Sheehan is very knowledgeable about, was the speech and debate clause of the constitution.
 → {"text": "我曾被尼克森政府起訴，而我的辯護——丹尼爾·希恩（Daniel Sheehan）對此非常了解——是憲法的言論與辯論條款（speech and debate clause）。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：'Danny Sheen' → 'Daniel Sheehan'"}
@@ -241,7 +241,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 353. Going back to the millions of dollars that are missing, or inaudible, or missing, in the defensive budget over several years, 2.3, Dr. Greer, I think was the number you gave, 2.3 trillion, 2.3 trillion, and that's over several years.
-→ {"text": "回到國防預算中失蹤的數百萬美元，或者說無法審計的，或者說失蹤的，在幾年間，葛瑞爾博士，我想您提到的數字是 2.3——2.3 兆美元，2.3 兆美元，而且這是幾年累積的。", "confidence": "high", "notes": "原文 'or inaudible' 依語境理解為 'unauditable'（無法審計）"}
+→ {"text": "回到國防預算中失蹤的數百萬美元，或者說無法審計的，或者說失蹤的，在幾年間，格里爾博士，我想您提到的數字是 2.3——2.3 兆美元，2.3 兆美元，而且這是幾年累積的。", "confidence": "high", "notes": "原文 'or inaudible' 依語境理解為 'unauditable'（無法審計）"}
 
 354. I know most of you know at the table that we have also passed an intelligence budget in the Congress.
 → {"text": "我知道在座的大多數人都知道，我們在國會還通過了一項情報預算。", "confidence": "high", "notes": ""}
@@ -526,7 +526,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 448. I'd like to continue with Dr. Greer for a moment.
-→ {"text": "我想繼續與葛瑞爾博士討論片刻。", "confidence": "high", "notes": ""}
+→ {"text": "我想繼續與格里爾博士討論片刻。", "confidence": "high", "notes": ""}
 
 449. You talked about 14 countries that have opened up UFO files, and I take it that these are probably similar to files that the United States has that the United States government has refused to open up.
 → {"text": "您談到了 14 個國家開放了不明飛行物檔案，我認為這些檔案可能與美國政府擁有但拒絕開放的檔案類似。", "confidence": "high", "notes": ""}
@@ -640,7 +640,7 @@
 → {"text": "我們必須做出這些艱難的決定。", "confidence": "high", "notes": ""}
 
 486. Okay, well, then my last question to you, Dr. Greer, would be these 14 countries that are disclosing, or at least making it possible for the people in those countries and people around the world to know what's in those files, is it possible that one of the reasons they may be motivated over the United States is because they think some of this stuff that's being seen and this phenomena, the maneuvering that's been talked about, the maneuvering that defies the laws of physics, might be something the United States is testing, that the United States just refuses to talk about?
-→ {"text": "好的，那麼我對您的最後一個問題，葛瑞爾博士，是關於這 14 個正在揭露、或至少讓本國人民和世界各地的人知道檔案內容的國家——他們之所以比美國更積極，動機之一是否可能是：他們認為人們看到的這些東西、這種現象，那些被談論的、違反物理定律的機動表現，可能是美國正在測試、卻拒絕談論的東西？", "confidence": "high", "notes": "原文 motivated over the United States 句構破碎，依語境理解為「比美國更積極」"}
+→ {"text": "好的，那麼我對您的最後一個問題，格里爾博士，是關於這 14 個正在揭露、或至少讓本國人民和世界各地的人知道檔案內容的國家——他們之所以比美國更積極，動機之一是否可能是：他們認為人們看到的這些東西、這種現象，那些被談論的、違反物理定律的機動表現，可能是美國正在測試、卻拒絕談論的東西？", "confidence": "high", "notes": "原文 motivated over the United States 句構破碎，依語境理解為「比美國更積極」"}
 
 487. Correct.
 → {"text": "正確。", "confidence": "high", "notes": ""}

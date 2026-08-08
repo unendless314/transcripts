@@ -120,6 +120,36 @@
           "error_text": "hornwim grasses",
           "suggested_correction": "horn-rim glasses",
           "reasoning": "The phrase describes the type of eyeglasses Senator Pell wore. 'Hornwim grasses' is a nonsensical phonetic mis-transcription."
+        },
+        {
+          "segment_id": 123,
+          "error_text": "Wolsey",
+          "suggested_correction": "Woolsey",
+          "reasoning": "The CIA Director is R. James Woolsey; 'Wolsey' is a spelling error (appears 3 times in this segment: CIA Director Wolsey, Dr. Wolsey x2). 校稿補錄。"
+        },
+        {
+          "segment_id": 124,
+          "error_text": "Wolsey",
+          "suggested_correction": "Woolsey",
+          "reasoning": "同 seg 123，Dr. Wolsey 應為 Dr. Woolsey。校稿補錄。"
+        },
+        {
+          "segment_id": 131,
+          "error_text": "Dr. Grier",
+          "suggested_correction": "Dr. Greer",
+          "reasoning": "The speaker is Dr. Steven Greer; 'Grier' is a phonetic misspelling. 校稿補錄。"
+        },
+        {
+          "segment_id": 138,
+          "error_text": "Dr. Grier",
+          "suggested_correction": "Dr. Greer",
+          "reasoning": "同 seg 131，Dr. Grier 應為 Dr. Greer。校稿補錄。"
+        },
+        {
+          "segment_id": 141,
+          "error_text": "Dr. Grier",
+          "suggested_correction": "Dr. Greer",
+          "reasoning": "同 seg 131，Dr. Grier 應為 Dr. Greer。校稿補錄。"
         }
       ]
     },
@@ -196,12 +226,6 @@
           "error_text": "Congresswoman Houli",
           "suggested_correction": "Congresswoman Hooley",
           "reasoning": "The panel member is former Congresswoman Darlene Hooley. 'Houli' is a phonetic error."
-        },
-        {
-          "segment_id": 389,
-          "error_text": "palette, go look at it",
-          "suggested_correction": "[witness name], go look at it",
-          "reasoning": "The word 'palette' is nonsensical in this context. The speaker is likely referring to a specific witness by name whose testimony was released posthumously, but the name was misheard by the transcription."
         }
       ]
     }

@@ -19,7 +19,7 @@
 → {"text": "所以這是軍事、工業、企業、金融複合體，我並不反對企業。", "confidence": "high", "notes": ""}
 
 258. However, as Jefferson said, the unchecked power of a corporation.
-→ {"text": "然而，正如傑斐遜所說，企業不受制衡的權力。", "confidence": "high", "notes": ""}
+→ {"text": "然而，正如傑佛遜所說，企業不受制衡的權力。", "confidence": "high", "notes": ""}
 
 259. And see, if our budget is $3.8 trillion, but we're talking about something that if it's disclosed would threaten the privately owned interest in the oil, gas, coal, utility industries that are estimated in the multi-hundred trillions of dollars, what tail is wagging the dog of our democracy?
 → {"text": "你看，如果我們的預算是 3.8 兆美元，但我們討論的事情一旦揭露將威脅石油、天然氣、煤炭、公用事業產業的私有利益，這些產業估計價值數百兆美元，那麼是什麼尾巴在搖動我們民主的狗？", "confidence": "high", "notes": ""}
@@ -118,7 +118,7 @@
 → {"text": "我願意為此貢獻自己，因為我想這樣做。", "confidence": "high", "notes": ""}
 
 285. [ Applause ] The public-private partnerships that I mentioned earlier today got to do it.
-→ {"text": "[掌聲] 我今天早些時候提到的公私合作夥伴關係必須這樣做。", "confidence": "high", "notes": ""}
+→ {"text": "【掌聲】我今天早些時候提到的公私合作夥伴關係必須承擔起這件事。", "confidence": "high", "notes": ""}
 
 286. Once upon a time, this country had horse and buggies.
 → {"text": "曾幾何時，這個國家有馬車。", "confidence": "high", "notes": ""}
@@ -136,7 +136,7 @@
 → {"text": "當你談到石油、天然氣和煤炭時，是的，那是金錢，這關乎金錢和權力。", "confidence": "high", "notes": ""}
 
 291. But who's to say you can't transition that to what we're talking about here today with the kind of partnerships that we have to build in order to do that?
-→ {"text": "但誰說你不能通過我們必須建立的那種夥伴關係，將其轉型到我們今天討論的內容？", "confidence": "high", "notes": ""}
+→ {"text": "但誰說你不能透過我們必須建立的那種夥伴關係，將其轉型到我們今天討論的內容？", "confidence": "high", "notes": ""}
 
 292. So we phase out of oil, gas, and coal, and we're doing it already, but we're just not.
 → {"text": "所以我們逐步淘汰石油、天然氣和煤炭，我們已經在這樣做了，但我們只是還沒有。", "confidence": "high", "notes": ""}
@@ -157,7 +157,7 @@
 → {"text": "我甚至不認識經歷過這些的人。", "confidence": "high", "notes": ""}
 
 298. And in the last month since they found out I'm on it, I get all kind of things from around the world.
-→ {"text": "自從上個月他們發現我參與此事以來，我收到來自世界各地的各種信息。", "confidence": "high", "notes": ""}
+→ {"text": "自從上個月他們發現我參與此事以來，我收到來自世界各地的各種訊息。", "confidence": "high", "notes": ""}
 
 299. I'm happy you're going to be listening, and I'm happy that I am listening.
 → {"text": "我很高興你們將會傾聽，我也很高興我正在傾聽。", "confidence": "high", "notes": ""}
@@ -166,7 +166,7 @@
 → {"text": "但我想讓我們考慮那個公私合作夥伴關係究竟是什麼，格里爾博士。", "confidence": "medium", "notes": "原文語法不清晰，可能是轉錄錯誤"}
 
 301. Excellent information, all of that.
-→ {"text": "出色的信息，所有這些。", "confidence": "high", "notes": ""}
+→ {"text": "出色的資訊，所有這些。", "confidence": "high", "notes": ""}
 
 302. Got to be funded.
 → {"text": "必須獲得資金。", "confidence": "high", "notes": ""}
@@ -292,7 +292,7 @@
 → {"text": "如果你談論我們今天討論的一切，而這只是第一天。", "confidence": "high", "notes": ""}
 
 343. I can't even imagine what we're going to do the rest of the week.
-→ {"text": "我甚至無法想象我們這週剩餘時間會做什麼。", "confidence": "high", "notes": ""}
+→ {"text": "我甚至無法想像我們這週剩餘時間會做什麼。", "confidence": "high", "notes": ""}
 
 344. But the hurricanes, tornadoes, fires, winds, I'm a biblical person.
 → {"text": "但颶風、龍捲風、火災、風暴，我是一個相信聖經的人。", "confidence": "high", "notes": ""}
@@ -322,7 +322,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 353. [ Applause ] Congressman Cook.
-→ {"text": "[掌聲] 庫克眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "【掌聲】庫克眾議員。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 41
@@ -358,7 +358,7 @@
 ## Speaker Group 43
 
 362. Yes. But although he called for UA hearings initially, he kind of just was talking as his last statement that we need congressional hearings.
-→ {"text": "是的。但儘管他最初呼籲 UA 聽證會，他最後的聲明基本上是說我們需要國會聽證會。", "confidence": "high", "notes": ""}
+→ {"text": "是的。但儘管他最初呼籲的是 UFO 聽證會，他最後的陳述基本上是說我們需要國會聽證會。", "confidence": "medium", "notes": "原文 UA 疑為 UFO 誤聽，暫依語境譯；原詞不明，不入 potential_errors"}
 
 363. Now, I don't know whether this group, this panel should be focusing on members of the Congress to do something or members of the administration to do something, and I also, or maybe both, I shouldn't use the expression rats chasing rats, but maybe that's not such a bad example.
 → {"text": "現在，我不知道這個團體、這個小組應該專注於讓國會議員做些什麼，還是讓行政部門成員做些什麼，我也，或者也許兩者兼有，我不應該使用「老鼠追老鼠」這個表達，但也許這不是一個壞例子。", "confidence": "high", "notes": ""}
@@ -385,13 +385,13 @@
 → {"text": "這是一件事。", "confidence": "high", "notes": ""}
 
 370. The other is that I would, I want to put out a call for other witnesses from inside the military, intelligence, and corporate world to come forward, but who will come forward, rank, serial number, name, actionable intelligence.
-→ {"text": "另一件事是，我想呼籲來自軍事、情報和企業界內部的其他證人站出來，但要站出來的人，軍銜、編號、姓名、可操作的情報。", "confidence": "high", "notes": ""}
+→ {"text": "另一件事是，我想呼籲來自軍事、情報和企業界內部的其他證人站出來，而站出來的人要提供軍銜、編號、姓名、可據以行動的情報。", "confidence": "high", "notes": ""}
 
 371. One thing I want to comment on, there is a confusion that's been in the room a little bit today between access and control.
 → {"text": "我想評論一件事，今天房間裡對訪問權和控制權之間存在一些混淆。", "confidence": "high", "notes": ""}
 
 372. Now, I just want to say that I have been able to provide actionable intelligence to where there would be access, but you don't necessarily have control, and I think we have to understand the difference for the president and for even some of these senior military officials that I've met with and continue to meet with.
-→ {"text": "現在，我只想說，我已經能夠提供可操作的情報，讓他們可以訪問，但你不一定擁有控制權，我認為我們必須理解對於總統以及我會見過並繼續會見的一些高級軍事官員來說的區別。", "confidence": "high", "notes": ""}
+→ {"text": "現在，我只想說，我已經能夠提供可據以行動的情報，說明哪裡可以訪問、但你不一定擁有控制權，我認為我們必須讓總統，甚至我會見過並繼續會見的一些高階軍事官員，理解兩者之間的差別。", "confidence": "high", "notes": ""}
 
 373. There is a huge problem there, and this is something that does need to be fixed.
 → {"text": "這裡存在一個巨大的問題，這是需要解決的問題。", "confidence": "high", "notes": ""}
@@ -400,7 +400,7 @@
 → {"text": "媒體是一部分，公眾是一部分。", "confidence": "high", "notes": ""}
 
 375. I think we have to get all these components going, but something that needs to be looked at from a constitutional and national security point of view is that you cannot have information like this being withheld from the commander in chief and senior people like the Defense Intelligence Agency head or the CIA director, which we know is going on.
-→ {"text": "我認為我們必須讓所有這些組成部分運作起來，但從憲法和國家安全的角度來看，需要審視的一件事是，你不能讓這樣的信息對三軍統帥以及國防情報局局長或 CIA 局長等高級人員隱瞞，而我們知道這種情況正在發生。", "confidence": "high", "notes": ""}
+→ {"text": "我認為我們必須讓所有這些組成部分運作起來，但從憲法和國家安全的角度來看，需要審視的一件事是，你不能讓這樣的資訊對三軍統帥以及國防情報局局長或 CIA 局長等高級人員隱瞞，而我們知道這種情況正在發生。", "confidence": "high", "notes": ""}
 
 376. And I think that if we cannot fix that, our democracy is in danger, but so is our world.
 → {"text": "我認為如果我們不能解決這個問題，我們的民主就處於危險之中，我們的世界也是如此。", "confidence": "high", "notes": ""}
@@ -409,7 +409,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 378. [ Applause ]
-→ {"text": "[掌聲]", "confidence": "high", "notes": ""}
+→ {"text": "【掌聲】", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 45
@@ -442,7 +442,7 @@
 → {"text": "現在，你必須，我不喜歡用這個詞，但要全力投入，而且要非常用力地投入。", "confidence": "high", "notes": ""}
 
 386. I mean, the powers of the Congress and the powers of the presidency and the courts are substantial, and I think that if they are then denied access control over projects that we can prove are going on, that there should be serious consequences to that because that is treason.
-→ {"text": "我的意思是，國會的權力、總統的權力和法院的權力是巨大的，我認為如果他們被拒絕訪問和控制我們可以證明正在進行的項目，那應該有嚴重的後果，因為那是叛國罪。", "confidence": "high", "notes": ""}
+→ {"text": "我的意思是，國會的權力、總統的權力和法院的權力是巨大的，我認為如果他們被拒絕訪問和控制我們可以證明正在進行的專案，那應該有嚴重的後果，因為那是叛國罪。", "confidence": "high", "notes": ""}
 
 387. And I think that the other point is that the public have to demand this level of transparency, which, and then ultimately, there needs to be a level of compassion for those who are trapped in a system that they are terrified to take on, and I think that this is why there has to also be a level of protection for people who want to step forward, who are deep insiders.
 → {"text": "我認為另一點是，公眾必須要求這種透明度水平，然後最終，需要對那些被困在他們害怕對抗的體系中的人表示同情，我認為這就是為什麼也必須為想要站出來的深層內部人士提供一定程度的保護。", "confidence": "high", "notes": ""}
@@ -451,7 +451,7 @@
 → {"text": "我的意思是，我很想給出我在非常高層和深層職位上會見過的人的名單，但他們要求我不要這樣做。", "confidence": "high", "notes": ""}
 
 389. I recently put on YouTube the testimony of a man who had worked with the CIA who would not let me release it until he died, and it's up there now, [witness name], go look at it.
-→ {"text": "我最近在 YouTube 上發布了一位曾在 CIA 工作的人的證詞，他直到去世才允許我發布，現在就在那裡，[證人姓名]，去看看。", "confidence": "medium", "notes": "原文 'palette' 是轉錄錯誤，應為證人姓名"}
+→ {"text": "我最近在 YouTube 上發布了一位曾在 CIA 工作的人的證詞，他直到去世才允許我發布，現在已經上架了，帕萊特——去看看就知道了。", "confidence": "medium", "notes": "原文 palette 為證人姓名（人工覆聽與 YouTube 字幕皆確認原音如此），音譯保留，身分待查證"}
 
 390. I think that it deals with something you'll hear about later, implants, which were actually developed by the CIA in the '70s and '80s.
 → {"text": "我認為它涉及你們稍後會聽到的東西，植入物，這實際上是 CIA 在 70 年代和 80 年代開發的。", "confidence": "high", "notes": ""}
@@ -496,7 +496,7 @@
 → {"text": "有一天她告訴我，她有一位朋友在洛克希德·馬丁內部工作，職位與他們在航空航天領域所做的某些事情有關，但這是機密的。", "confidence": "high", "notes": ""}
 
 403. It was one of those office complexes where you had to have the need to know in order to enter or the red and the blue lights would spin.
-→ {"text": "這是那些辦公大樓之一，你必須有「需要知道」的權限才能進入，否則紅燈和藍燈會旋轉。", "confidence": "high", "notes": ""}
+→ {"text": "那是那種辦公大樓之一，你必須具備需知權限才能進入，否則紅燈和藍燈就會轉動。", "confidence": "high", "notes": ""}
 
 404. And she invited him as a friend to go out to dinner or something.
 → {"text": "她作為朋友邀請他出去吃晚飯或什麼的。", "confidence": "high", "notes": ""}
@@ -532,7 +532,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 413. [ Applause ]
-→ {"text": "[掌聲]", "confidence": "high", "notes": ""}
+→ {"text": "【掌聲】", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 51
@@ -559,4 +559,4 @@
 → {"text": "我們的證人表現出色。", "confidence": "high", "notes": ""}
 
 421. [ Applause ]
-→ {"text": "[掌聲]", "confidence": "high", "notes": ""}
+→ {"text": "【掌聲】", "confidence": "high", "notes": ""}

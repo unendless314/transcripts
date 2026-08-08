@@ -25,7 +25,7 @@
 → {"text": "例如，我曾向柯林頓總統圖書館提交了一份資訊自由法申請。", "confidence": "high", "notes": "原文為 FOIAA，應為 FOIA 之轉錄錯誤"}
 
 153. I received about 1,000 pages of UFO documents, which included an awful lot of material that Stephen Greer had said to the President.
-→ {"text": "我收到了約 1,000 頁的不明飛行物文件，其中包含大量史蒂芬·葛瑞爾（Stephen Greer）向總統提供的資料。", "confidence": "high", "notes": ""}
+→ {"text": "我收到了約 1,000 頁的不明飛行物文件，其中包含大量史蒂芬·格里爾（Stephen Greer）向總統提供的資料。", "confidence": "high", "notes": ""}
 
 154. The 1,000 pages that I'm going to talk about right now were not part of the disclosure, and both maintain that they don't have them.
 → {"text": "我現在要談的這 1,000 頁文件並不在那次公開範圍內，兩個機構都聲稱沒有這些文件。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "這份報告是空軍對柯林頓在貝爾法斯特提到的外星存有遺體質疑所做的蹩腳回應。", "confidence": "high", "notes": ""}
 
 188. Without any official record of the event, Lawrence Rockefeller did sit down with Bill and Hillary Clinton, and most of those documents were provided by Stephen Greer, who provided them to Lawrence Rockefeller.
-→ {"text": "儘管沒有此事件的官方記錄，勞倫斯·洛克菲勒確實與比爾·柯林頓（Bill Clinton）和希拉蕊·柯林頓（Hillary Clinton）會面，而大部分文件是由史蒂芬·葛瑞爾提供給勞倫斯·洛克菲勒的。", "confidence": "high", "notes": ""}
+→ {"text": "儘管沒有此事件的官方記錄，勞倫斯·洛克菲勒確實與比爾·柯林頓（Bill Clinton）和希拉蕊·柯林頓（Hillary Clinton）會面，而大部分文件是由史蒂芬·格里爾提供給勞倫斯·洛克菲勒的。", "confidence": "high", "notes": ""}
 
 189. They met at the Wyoming JY Ranch, which was controlled by the Rockefellers.
 → {"text": "他們在懷俄明州的 JY 牧場（Wyoming JY Ranch）會面，該牧場由洛克菲勒家族控制。", "confidence": "high", "notes": ""}

@@ -10,7 +10,7 @@
 → {"text": "感謝兩位。", "confidence": "high", "notes": ""}
 
 4. And we're going to begin with Dr. Greer.
-→ {"text": "我們將從葛瑞爾博士（Dr. Greer）開始。", "confidence": "high", "notes": "人名統一中譯：Steven Greer → 史蒂芬·葛瑞爾（本集新增定譯）"}
+→ {"text": "我們將從格里爾博士（Dr. Greer）開始。", "confidence": "high", "notes": "人名統一中譯：Steven Greer → 史蒂芬·格里爾（本集新增定譯）"}
 
 5. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "由於此事件，我們隨後撰寫了一封「除非另有指示」信函（Unless Otherwise Directed letter, UNOD）。", "confidence": "high", "notes": ""}
 
 32. My military advisor said, "Dr. Greer, what you need to do is do a UNOD letter that goes to all branches of government that says that we have concluded that this subject is being managed in an extra-constitutional fashion.
-→ {"text": "我的軍方顧問說：「葛瑞爾博士，您需要撰寫一封 UNOD 信函送交政府各部門，聲明我們已得出結論：此議題正以超憲法方式進行管理。", "confidence": "high", "notes": ""}
+→ {"text": "我的軍方顧問說：「格里爾博士，您需要撰寫一封 UNOD 信函送交政府各部門，聲明我們已得出結論：此議題正以超憲法方式進行管理。", "confidence": "high", "notes": ""}
 
 33. A priori, the National Security Act no longer applies to those under those, and they are hereby exonerated or freed from them."
 → {"text": "因此，《國家安全法》（National Security Act）不再適用於受該法約束之人士，他們在此被免除或解除該義務。」", "confidence": "high", "notes": ""}

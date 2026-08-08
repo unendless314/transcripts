@@ -482,12 +482,12 @@ terms:
         notes: 專門研究飛行員目擊事件
         segments: [828, 830]
 
-  - term: Dr. Greer
+  - term: Dr. Steven Greer
     senses:
       - id: greer_researcher
         definition: 史蒂芬·格里爾博士，急診醫師，揭露計畫創始人
-        preferred_translation: 格里爾博士
-        notes: Disclosure Project 發起人
+        preferred_translation: 史蒂芬·格里爾博士
+        notes: Disclosure Project 發起人（原文亦作 Dr. Greer）
         segments: [678]
 
   # ===== 軍事人物 =====

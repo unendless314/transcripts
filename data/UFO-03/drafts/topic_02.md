@@ -103,7 +103,7 @@
 → {"text": "所以在那時我再次明顯意識到，存在著一些政治圈內幾乎所有人都同意必須保密的秘密，而我們完全違反《核武禁擴條約》向以色列提供 98% 武器級鈽，就是其中之一。", "confidence": "high", "notes": ""}
 
 119. And so I realized that at that time there were these -- there was this dimension, such as Dr. Greer has talked about, there are levels of classification that are way beyond people in the congress, way beyond us as civilians, but I spent a lot of time looking into this whole process.
-→ {"text": "因此我意識到，當時存在著這些——如葛瑞爾博士所談論的那樣——存在著遠遠超出國會人士、遠遠超出我們這些平民的機密等級。但我花了很多時間研究整個過程。", "confidence": "high", "notes": ""}
+→ {"text": "因此我意識到，當時存在著這些——如格里爾博士所談論的那樣——存在著遠遠超出國會人士、遠遠超出我們這些平民的機密等級。但我花了很多時間研究整個過程。", "confidence": "high", "notes": ""}
 
 120. And as you know, I was the one that filed the original Iran-Contra case that got the special prosecutor appointed.
 → {"text": "如各位所知，我是提起原始伊朗門案件（Iran-Contra case）並促成特別檢察官任命的人。", "confidence": "high", "notes": ""}

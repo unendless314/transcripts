@@ -1,7 +1,7 @@
 # Terminology Master - UFO Citizen Hearing 全系列標準譯名表
 #
-# 收錄標準：出現於 >= 2 集的跨集術語（共 166 個）。
-# 單集專屬術語（僅出現 1 集，共 820 個）請見各集 data/UFO-XX/terminology.yaml。
+# 收錄標準：出現於 >= 2 集的跨集術語（共 167 個）。
+# 單集專屬術語（僅出現 1 集，共 817 個）請見各集 data/UFO-XX/terminology.yaml。
 #
 # 此表是全系列「標準譯名」的唯一權威來源：
 #   ✅ 校稿時字幕正文若與此表不符，以此表為準修正
@@ -20,7 +20,7 @@
 #   - 縮寫標註格式：中文（縮寫），如 資訊自由法（FOIA）、國家安全局（NSA）；CIA 除外，直接用 CIA
 #
 # 產生方式：PYTHONPATH=. python3 tools/build_terminology_master.py --force
-# 最後更新：2026-08-06（依 20 集 terminology.yaml 校稿後版本自動產生）
+# 最後更新：2026-08-08（依 20 集 terminology.yaml 校稿後版本自動產生）
 terms:
 - term: A Strange Harvest
   senses:
@@ -778,6 +778,26 @@ terms:
   episodes:
   - UFO-14
   - UFO-19
+- term: Dr. Steven Greer
+  senses:
+  - id: dr_steven_greer_researcher
+    definition: 急診醫師，揭露計畫創始人
+    preferred_translation: 史蒂芬·格里爾博士
+    episodes:
+    - UFO-19
+  - id: greer_researcher
+    definition: 急診醫師、UFO研究者，揭露計畫創始人
+    preferred_translation: 史蒂芬·格里爾博士
+    episodes:
+    - UFO-03
+    - UFO-04
+    - UFO-17
+  episodes:
+  - UFO-03
+  - UFO-04
+  - UFO-17
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：史蒂芬·葛瑞爾博士、葛瑞爾博士、葛瑞爾
 - term: Dr. Vannevar Bush
   senses:
   - id: bush_scientist

@@ -67,10 +67,13 @@ def extract_errors_from_topics(topics_path: Path) -> dict:
         for error in topic.get('potential_errors', []):
             all_errors.append(error)
 
-    # Create segment_id -> error mapping
-    error_map = {err['segment_id']: err for err in all_errors}
+    # Create segment_id -> [errors] mapping (同一段可能有多筆錯誤，全部保留)
+    error_map = {}
+    for err in all_errors:
+        error_map.setdefault(err['segment_id'], []).append(err)
 
-    logging.info(f"Found {len(error_map)} potential errors in topics.json")
+    logging.info(f"Found {sum(len(v) for v in error_map.values())} potential errors "
+                 f"in topics.json ({len(error_map)} segments)")
     return error_map
 
 
@@ -99,24 +102,24 @@ def apply_corrections(main_yaml_path: Path, error_map: dict, dry_run: bool = Fal
         seg_id = segment['segment_id']
 
         if seg_id in error_map:
-            error = error_map[seg_id]
-            old_text = segment['source_text']
+            for error in error_map[seg_id]:
+                old_text = segment['source_text']
 
-            # Perform replacement
-            new_text = old_text.replace(error['error_text'], error['suggested_correction'])
+                # Perform replacement
+                new_text = old_text.replace(error['error_text'], error['suggested_correction'])
 
-            if new_text != old_text:
-                segment['source_text'] = new_text
-                fixed_count += 1
+                if new_text != old_text:
+                    segment['source_text'] = new_text
+                    fixed_count += 1
 
-                logging.info(f"Segment {seg_id}: Fixed")
-                logging.debug(f"  Error: \"{error['error_text']}\"")
-                logging.debug(f"  Fixed: \"{error['suggested_correction']}\"")
-                logging.debug(f"  Reason: {error['reasoning']}")
-            else:
-                logging.warning(f"Segment {seg_id}: Error text not found in source_text")
-                logging.warning(f"  Looking for: \"{error['error_text']}\"")
-                logging.warning(f"  In text: \"{old_text[:100]}...\"")
+                    logging.info(f"Segment {seg_id}: Fixed")
+                    logging.debug(f"  Error: \"{error['error_text']}\"")
+                    logging.debug(f"  Fixed: \"{error['suggested_correction']}\"")
+                    logging.debug(f"  Reason: {error['reasoning']}")
+                else:
+                    logging.warning(f"Segment {seg_id}: Error text not found in source_text")
+                    logging.warning(f"  Looking for: \"{error['error_text']}\"")
+                    logging.warning(f"  In text: \"{old_text[:100]}...\"")
 
     # Save corrected main.yaml (unless dry-run)
     if not dry_run:
@@ -192,13 +195,14 @@ Examples:
         fixed_count = apply_corrections(main_yaml_path, error_map, dry_run=args.dry_run)
 
         # Summary
+        total_errors = sum(len(v) for v in error_map.values())
         logging.info("=" * 60)
         logging.info(f"Correction summary:")
-        logging.info(f"  Total errors detected: {len(error_map)}")
+        logging.info(f"  Total errors detected: {total_errors}")
         logging.info(f"  Successfully fixed: {fixed_count}")
 
-        if fixed_count < len(error_map):
-            logging.warning(f"  Failed to fix: {len(error_map) - fixed_count}")
+        if fixed_count < total_errors:
+            logging.warning(f"  Failed to fix: {total_errors - fixed_count}")
             logging.warning("  (Error text not found in source_text)")
 
         logging.info("=" * 60)

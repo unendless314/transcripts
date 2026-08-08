@@ -513,13 +513,13 @@ terms:
         segments: [366]
         notes: 基於揭露計畫工作的紀錄片，赫芬頓郵報曾報導
 
-  - term: Stephen Greer
+  - term: Dr. Steven Greer
     senses:
       - id: greer_researcher
         definition: 急診醫師、UFO研究者，揭露計畫創始人
-        preferred_translation: 史蒂芬·格里爾
+        preferred_translation: 史蒂芬·格里爾博士
         segments: [27, 28]
-        notes: Disclosure Project 發起人，本集證人之一（通常稱 Dr. Steven Greer）
+        notes: Disclosure Project 發起人，本集證人之一；簡稱格里爾博士（原文亦作 Stephen Greer／Dr. Greer）
 
   # ===== T =====
   - term: technology assisted consciousness

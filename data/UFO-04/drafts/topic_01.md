@@ -67,7 +67,7 @@
 ## Speaker Group 12
 
 12. All right, Mr. Cameron.
-→ {"text": "好的，Cameron 先生。", "confidence": "high", "notes": ""}
+→ {"text": "好的，卡麥隆先生。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 13
@@ -94,7 +94,7 @@
 → {"text": "我想提出的第二點評論也與軍方相關，因為我曾參與 51 區的報導工作。", "confidence": "high", "notes": ""}
 
 20. I knew George Knapp, who was the chief investigative reporter.
-→ {"text": "我認識 George Knapp，他是首席調查記者。", "confidence": "high", "notes": ""}
+→ {"text": "我認識喬治·奈普，他是首席調查記者。", "confidence": "high", "notes": ""}
 
 21. He told the story about the Appropriations Committee in Congress had wanted, when they heard the story about the flying saucers at Area 51 and the Aurora and all sorts of planes that were flying around Area 51 that the Appropriations Committee were going like, "What is going on here?
 → {"text": "他講述了當國會眾議院撥款委員會聽說 51 區有飛碟、極光偵察機以及各種飛機在那裡飛行時，撥款委員會的反應是：「這裡到底發生了什麼事？", "confidence": "high", "notes": "Aurora 為極光偵察機的傳聞代號"}
@@ -106,7 +106,7 @@
 → {"text": "我們有撥款給這個計畫嗎？」", "confidence": "high", "notes": ""}
 
 24. They sent Dick D'Amato, who was a congressional investigator, to Area 51 to get inside Area 51.
-→ {"text": "他們派了國會調查員 Dick D'Amato 前往 51 區，試圖進入內部調查。", "confidence": "high", "notes": ""}
+→ {"text": "他們派了國會調查員迪克·達馬托前往 51 區，試圖進入內部調查。", "confidence": "high", "notes": ""}
 
 25. He had all the top security clearances.
 → {"text": "他擁有所有最高機密許可。", "confidence": "high", "notes": ""}
@@ -115,10 +115,10 @@
 → {"text": "他具備所有必要條件。", "confidence": "high", "notes": ""}
 
 27. He could give people immunity, and he went in there, and he tried to talk to this one witness that I mentioned to you in the previous panel, this Alfred O'Donnell fellow who refused to talk, and he came back, and Stephen Greer can confirm this.
-→ {"text": "他有權給予證人豁免權。他進去之後，試圖與我在前一場討論中提到的證人 Alfred O'Donnell 交談，但這位先生拒絕開口。他回來後——Stephen Greer 可以證實這一點——", "confidence": "high", "notes": ""}
+→ {"text": "他有權給予證人豁免權。他進去之後，試圖與我在前一場討論中提到的證人阿爾弗雷德·歐唐納交談，但這位先生拒絕開口。他回來後——史蒂芬·格里爾可以證實這一點——", "confidence": "high", "notes": ""}
 
 28. He talked to a number of researchers, and he told Stephen Greer, "I just want to let you know you're up against the varsity team of all black budget programs.
-→ {"text": "他與多位研究者交談，並告訴 Stephen Greer：「我只想讓你知道，你們面對的是所有黑預算計畫中最精銳的團隊。", "confidence": "high", "notes": "varsity team 意指最頂尖、最專業的團隊"}
+→ {"text": "他與多位研究者交談，並告訴格里爾：「我只想讓你知道，你們面對的是所有黑預算計畫中最精銳的團隊。", "confidence": "high", "notes": "varsity team 意指最頂尖、最專業的團隊"}
 
 29. Good luck."
 → {"text": "祝你好運。」", "confidence": "high", "notes": ""}
@@ -127,7 +127,7 @@
 → {"text": "他說，即使擁有最高機密許可，即使有撥款委員會作為後盾，他仍然無法取得任何進展，因為這件事被保密得太深了。", "confidence": "high", "notes": ""}
 
 31. And that's basically what Ben Rich said as well, is that it would take an act of God to get this thing out of Congress, because it's so deep black.
-→ {"text": "這基本上也是 Ben Rich 所說的——需要「上帝的行為」才能讓這件事從國會曝光，因為它是如此深度機密。", "confidence": "high", "notes": "Ben Rich 為洛克希德臭鼬工廠主管"}
+→ {"text": "這基本上也是班·里奇所說的——除非奇蹟發生，否則這件事不可能突破國會的封鎖，因為它屬於極深層的黑預算。", "confidence": "high", "notes": "act of God 意為奇蹟、非人力所能及之事；deep black 指最高層級的黑預算機密"}
 
 32. Even though they have the technology, nobody's ever going to see it as far as the military is concerned.
 → {"text": "即使他們擁有這項技術，就軍方而言，沒有人會看到它。", "confidence": "high", "notes": ""}
@@ -160,7 +160,7 @@
 → {"text": "他們只是傾倒檔案，好讓自己脫離不明飛行物這攤子事。", "confidence": "high", "notes": ""}
 
 42. Margaret Thatcher said, when she was asked in 1997, you must make sure you get the facts correct and you can't tell the people.
-→ {"text": "Margaret Thatcher 在 1997 年被問及此事時說：「你必須確保事實正確，但不能告訴人民。」", "confidence": "high", "notes": ""}
+→ {"text": "瑪格麗特·柴契爾在 1997 年被問及此事時說：「你必須確保事實正確，但不能告訴人民。」", "confidence": "high", "notes": ""}
 
 43. That's basically the rule around the world.
 → {"text": "這基本上是全世界的規則。", "confidence": "high", "notes": ""}
@@ -175,40 +175,40 @@
 → {"text": "他們試圖撼動這個局面。", "confidence": "high", "notes": ""}
 
 47. Bill Clinton, for example, had done some work with John Podesta, and he actually, in 2005 in Hong Kong, Bill Clinton actually was talking about this in public, and he stated that the vast majority of the people in the Clinton administration believed the story of Area 51.
-→ {"text": "例如，Bill Clinton 與 John Podesta 合作過此事。2005 年在香港，Bill Clinton 實際上公開談論了這件事，並表示柯林頓政府中絕大多數人相信 51 區的故事。", "confidence": "high", "notes": ""}
+→ {"text": "例如，比爾·柯林頓與約翰·波德斯達合作過此事。2005 年在香港，柯林頓實際上公開談論了這件事，並表示柯林頓政府中絕大多數人相信 51 區的故事。", "confidence": "high", "notes": ""}
 
 48. They believed there was a live alien.
 → {"text": "他們相信那裡有活的外星人。", "confidence": "high", "notes": ""}
 
 49. They believed there was a craft underground, and then Bill Clinton actually went there to try to get to the bottom of this thing, and he stated in 2005, after mentioning this, he said, "I'm probably not the first president they kept in the dark or that bureaucrats have tried to wait out."
-→ {"text": "他們相信地下有飛行器。Bill Clinton 實際上曾前往那裡試圖查明真相，他在 2005 年提到此事後表示:「我可能不是第一個被他們蒙在鼓裡的總統，也不是官僚們第一個試圖拖延等待的對象。」", "confidence": "high", "notes": ""}
+→ {"text": "他們相信地下有飛行器。柯林頓實際上曾前往那裡試圖查明真相，他在 2005 年提到此事後表示：「我可能不是第一個被他們蒙在鼓裡的總統，也不是官僚們第一個試圖拖延等待的對象。」", "confidence": "high", "notes": ""}
 
 50. So Clinton tried to get to these materials.
-→ {"text": "所以 Clinton 試圖取得這些資料。", "confidence": "high", "notes": ""}
+→ {"text": "所以柯林頓試圖取得這些資料。", "confidence": "high", "notes": ""}
 
 51. He told Paul Davids that he was fascinated with the subject of UFOs, and he was very interested in the latest Roswell book that had come out that was given to him at that time, and Bill Clinton had actually, as we look back in the files, Bill Clinton had actually given a job to Webster Hubbell.
-→ {"text": "他告訴 Paul Davids，他對不明飛行物這個主題深感著迷，並且對當時送給他的最新羅斯威爾事件書籍非常感興趣。回顧檔案，Bill Clinton 實際上曾指派 Webster Hubbell 執行一項任務。", "confidence": "high", "notes": ""}
+→ {"text": "他告訴保羅·大衛斯，他對不明飛行物這個主題深感著迷，並且對當時送給他的最新羅斯威爾事件書籍非常感興趣。回顧檔案，比爾·柯林頓實際上曾指派韋伯斯特·哈貝爾執行一項任務。", "confidence": "high", "notes": ""}
 
 52. The job he said to Webster, according to Webster Hubbell's book, Friends in High Places in 1997, Hubbell said that Bill told him, "If I put you over there in justice, I want you to find out the answer to two questions.
-→ {"text": "根據 Webster Hubbell 1997 年的著作《高層友人》，Hubbell 說 Bill 告訴他的任務是：「如果我讓你去司法部，我要你找出兩個問題的答案。", "confidence": "high", "notes": ""}
+→ {"text": "根據韋伯斯特·哈貝爾 1997 年的著作《高層友人》，哈貝爾說比爾告訴他的任務是：「如果我讓你去司法部，我要你找出兩個問題的答案。", "confidence": "high", "notes": ""}
 
 53. Number one, are there UFOs, and number two, who killed JFK?"
 → {"text": "第一，是否有不明飛行物？第二，誰殺了甘迺迪？」", "confidence": "high", "notes": ""}
 
 54. So Bill Clinton was a guy who didn't believe the official stories of the UFO or of the JFK stuff, and he actually sent someone to try to get the answers to this material.
-→ {"text": "所以 Bill Clinton 是一個不相信不明飛行物或甘迺迪事件官方說法的人，他實際上派人去試圖取得這些問題的答案。", "confidence": "high", "notes": ""}
+→ {"text": "所以比爾·柯林頓是一個不相信不明飛行物或甘迺迪事件官方說法的人，他實際上派人去試圖取得這些問題的答案。", "confidence": "high", "notes": ""}
 
 55. One of Bill Clinton's main, this is sort of being overlooked here, one of Bill Clinton's main allies in this effort to try to get material, it was John Podesta, and he and John Podesta actually did try to get a lot of classified material out into the public.
-→ {"text": "Bill Clinton 在試圖取得資料的努力中，有一位主要盟友——這點常被忽略——那就是 John Podesta。他與 John Podesta 確實試圖將大量機密資料公諸於世。", "confidence": "high", "notes": ""}
+→ {"text": "比爾·柯林頓在試圖取得資料的努力中，有一位主要盟友——這點常被忽略——那就是約翰·波德斯達。他與波德斯達確實試圖將大量機密資料公諸於世。", "confidence": "high", "notes": ""}
 
 56. It was the Executive Order 12958, which was signed in 1995, and it introduced a 25-year rule which hoped to bring to light many hidden secrets inside government like the UFO issue.
 → {"text": "那就是 1995 年簽署的行政命令 12958，它引入了 25 年期限規則，希望能揭露政府內部許多隱藏的秘密，例如不明飛行物議題。", "confidence": "high", "notes": ""}
 
 57. What was sought was a proper balance of openness in government versus what Podesta called unthinking secrecy.
-→ {"text": "他們追求的是政府開放性與 Podesta 所稱的「不加思索的保密」之間的適當平衡。", "confidence": "high", "notes": ""}
+→ {"text": "他們追求的是政府開放性與波德斯達所稱的「不加思索的保密」之間的適當平衡。", "confidence": "high", "notes": ""}
 
 58. Podesta stated, "Our founders knew that democracy cannot function in the absence of public information."
-→ {"text": "Podesta 表示：「我們的開國元勳深知，民主無法在缺乏公開資訊的情況下運作。」", "confidence": "high", "notes": ""}
+→ {"text": "波德斯達表示：「我們的開國元勳深知，民主無法在缺乏公開資訊的情況下運作。」", "confidence": "high", "notes": ""}
 
 59. He noted the importance of balancing the vital interests of national security with the genuine claims of public openness.
 → {"text": "他指出，在國家安全的重大利益與公眾開放性的正當訴求之間取得平衡的重要性。", "confidence": "high", "notes": ""}
@@ -226,7 +226,7 @@
 → {"text": "不幸的是，柯林頓夫婦希望隨這些資料釋出的不明飛行物文件從未出現。", "confidence": "high", "notes": ""}
 
 64. And then in 2002, Podesta who went on to work for the Obama administration stated in a public statement at a sci-fi conference, "I think it's time to open the books on the questions that have remained in the dark, on the questions of government investigations of UFOs.
-→ {"text": "2002 年，Podesta 轉往歐巴馬政府任職後，在一場科幻大會上發表公開聲明：「我認為是時候公開那些一直被蒙在暗處的問題、政府對不明飛行物調查的問題了。", "confidence": "high", "notes": ""}
+→ {"text": "2002 年，波德斯達轉往歐巴馬政府任職後，在一場科幻大會上發表公開聲明：「我認為是時候公開那些一直被蒙在暗處的問題、政府對不明飛行物調查的問題了。", "confidence": "high", "notes": ""}
 
 65. We ought to do it because it's right.
 → {"text": "我們應該這麼做，因為這是正確的。", "confidence": "high", "notes": ""}
@@ -235,10 +235,10 @@
 → {"text": "我們應該這麼做，因為美國人民能夠承受真相，而且我們應該這麼做，因為這是法律規定。」", "confidence": "high", "notes": ""}
 
 67. Another ally in getting openness regarding UFOs inside the Clinton administration was the Secretary of Energy Bill Richardson who has made many pro-UFO disclosure messages over the years.
-→ {"text": "柯林頓政府內部另一位爭取不明飛行物開放性的盟友是能源部長 Bill Richardson，他多年來發表過許多支持真相揭露的訊息。", "confidence": "high", "notes": ""}
+→ {"text": "柯林頓政府內部另一位爭取不明飛行物開放性的盟友是能源部長比爾·理查森，他多年來發表過許多支持真相揭露的訊息。", "confidence": "high", "notes": ""}
 
 68. For example, writing an a foreword to the book on the Roswell UFO crash when he was governor of New Mexico, Richardson wrote, "Clearly, it would help everybody if the U.S. government disclosed everything it knows.
-→ {"text": "例如，當他擔任新墨西哥州州長時，為一本關於羅斯威爾不明飛行物墜毀事件的書籍撰寫序言，Richardson 寫道：「很明顯，如果美國政府公開它所知道的一切，對所有人都有幫助。", "confidence": "high", "notes": ""}
+→ {"text": "例如，當他擔任新墨西哥州州長時，為一本關於羅斯威爾不明飛行物墜毀事件的書籍撰寫序言，理查森寫道：「很明顯，如果美國政府公開它所知道的一切，對所有人都有幫助。", "confidence": "high", "notes": ""}
 
 69. The American people can handle the truth no matter how bizarre or mundane.
 → {"text": "美國人民能夠承受真相，無論它多麼離奇或平凡。", "confidence": "high", "notes": ""}
@@ -247,7 +247,7 @@
 → {"text": "透過完全揭露與我們最好的科學調查，我們應該能夠找出 1947 年那個命運攸關的日子發生了什麼事。」", "confidence": "high", "notes": ""}
 
 71. Then in a question and answer while he was running for president, Richardson talked about his long history of attempts to get answers on UFOs.
-→ {"text": "後來在總統競選期間的問答中，Richardson 談到他長期以來試圖取得不明飛行物答案的歷史。", "confidence": "high", "notes": ""}
+→ {"text": "後來在總統競選期間的問答中，理查森談到他長期以來試圖取得不明飛行物答案的歷史。", "confidence": "high", "notes": ""}
 
 72. "I've been in government a long time.
 → {"text": "「我在政府工作很長時間了。", "confidence": "high", "notes": ""}

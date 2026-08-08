@@ -1,7 +1,7 @@
 ## Speaker Group 19
 
 152. Okay. Mr. Bartlett.
-→ {"text": "好的，Bartlett 先生。", "confidence": "high", "notes": ""}
+→ {"text": "好的，巴特利特先生。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 20
@@ -76,7 +76,7 @@
 → {"text": "這份文件曾短暫解密，然後又被重新列為機密。", "confidence": "high", "notes": ""}
 
 172. It was under the first President Bush term.
-→ {"text": "這是在第一任 Bush 總統任期內發生的。", "confidence": "high", "notes": ""}
+→ {"text": "這是在老布希總統任期內發生的。", "confidence": "high", "notes": ""}
 
 173. And this is not a contested CIA document.
 → {"text": "這不是一份有爭議的 CIA 文件。", "confidence": "high", "notes": ""}
@@ -88,19 +88,19 @@
 → {"text": "我們在 12 年前，也就是幾乎就是今天，2001 年 5 月 9 日在國家新聞俱樂部舉辦的揭露計畫記者會上目睹了這種情況。", "confidence": "high", "notes": ""}
 
 176. And one of the people I dealt with, Bob Schwartz, who was on the board of Time Life that later became AOL, Time Warner, and CNN, the whole conglomerate, he told me that he was very good friends with Mike Wallace.
-→ {"text": "我接觸過的一位人士，Bob Schwartz，他是 Time Life 董事會成員，後來該公司成為 AOL、Time Warner 和 CNN 整個企業集團的一部分，他告訴我他與麥克·華萊士是非常好的朋友。", "confidence": "high", "notes": ""}
+→ {"text": "我接觸過的一位人士鮑伯·史瓦茲，他是 Time Life 董事會成員，後來該公司成為 AOL、Time Warner 和 CNN 整個企業集團的一部分，他告訴我他與麥克·華萊士是非常好的朋友。", "confidence": "high", "notes": ""}
 
 177. And he had given him a lot of these documents that we had.
 → {"text": "他給了華萊士許多我們擁有的這些文件。", "confidence": "high", "notes": ""}
 
 178. And Mike Wallace wanted to do the story at 60 Minutes.
-→ {"text": "麥克·華萊士想在《60分鐘》上報導這個故事。", "confidence": "high", "notes": ""}
+→ {"text": "麥克·華萊士想在《60 分鐘》上報導這個故事。", "confidence": "high", "notes": ""}
 
 179. And the corporate CBS, and I think at the time it was controlled by Westinghouse, a big defense contractor, did not permit him to do the story.
 → {"text": "但 CBS 企業層，我認為當時是由西屋電氣公司控制，一家大型國防承包商，不允許他報導這個故事。", "confidence": "high", "notes": ""}
 
 180. Ira Rosen, who was at ABC News executive producer for 2020 and Primetime Live, he came to my home in Virginia out near Thomas Jefferson's home, ironically.
-→ {"text": "艾拉·羅森，他是 ABC 新聞《20/20》和《黃金時間現場》的執行製作人，諷刺的是，他來到我位於維吉尼亞州的家，就在 Thomas Jefferson 故居附近。", "confidence": "high", "notes": ""}
+→ {"text": "艾拉·羅森，他是 ABC 新聞《20/20》和《黃金時間現場》的執行製作人，諷刺的是，他來到我位於維吉尼亞州的家，就在湯瑪斯·傑佛遜故居附近。", "confidence": "high", "notes": ""}
 
 181. And I gave him 35 digital hours of top secret witness testimony and many documents.
 → {"text": "我給了他 35 小時數位化的最高機密證人證詞和許多文件。", "confidence": "high", "notes": ""}
@@ -115,7 +115,7 @@
 → {"text": "我說：「好的，我會全力配合。」", "confidence": "high", "notes": ""}
 
 185. He had gotten his Emmy working with Mike Wallace at 60 Minutes where he has returned.
-→ {"text": "他曾在《60分鐘》與麥克·華萊士合作而獲得艾美獎，後來又回到那裡工作。", "confidence": "high", "notes": ""}
+→ {"text": "他曾在《60 分鐘》與麥克·華萊士合作而獲得艾美獎，後來又回到那裡工作。", "confidence": "high", "notes": ""}
 
 186. And I said, "I don't think you'll be allowed to do this story."
 → {"text": "我說：「我不認為他們會允許你報導這個故事。」", "confidence": "high", "notes": ""}
@@ -133,13 +133,13 @@
 → {"text": "我說：「好吧。」結果兩週後，他打電話給我。", "confidence": "high", "notes": ""}
 
 191. And he said, "Dr. Greer, they won't let me do this story."
-→ {"text": "他說：「Greer 博士，他們不讓我報導這個故事。」", "confidence": "high", "notes": ""}
+→ {"text": "他說：「格里爾博士，他們不讓我報導這個故事。」", "confidence": "high", "notes": ""}
 
 192. I said, "Ira, who are they?"
-→ {"text": "我說：「Ira，『他們』是誰？」", "confidence": "high", "notes": ""}
+→ {"text": "我說：「艾拉，『他們』是誰？」", "confidence": "high", "notes": ""}
 
 193. And he said, "Dr. Greer, you know who they are."
-→ {"text": "他說：「Greer 博士，你知道『他們』是誰。」", "confidence": "high", "notes": ""}
+→ {"text": "他說：「格里爾博士，你知道『他們』是誰。」", "confidence": "high", "notes": ""}
 
 194. Now, I could tell you probably 100 stories like that.
 → {"text": "現在，我可以告訴你大概 100 個類似的故事。", "confidence": "high", "notes": ""}
@@ -178,7 +178,7 @@
 → {"text": "你知道，如果主流媒體不報導某件事，而有 50、60% 的公眾相信這是真的，並且有大量的數據，4,000 個降落案例。", "confidence": "high", "notes": ""}
 
 206. The COMETA Report, where they documented the landing in Provence of a craft, the Bentwaters case, where a craft landed at RAF Bentwaters and left physical trace that has been confirmed by the Ministry of Defense.
-→ {"text": "COMETA報告記錄了在 Provence 的飛行器降落事件，Bentwaters 案例，飛行器降落在皇家空軍本特沃特斯基地並留下物理痕跡，已被國防部證實。", "confidence": "high", "notes": ""}
+→ {"text": "COMETA 報告記錄了在普羅旺斯的飛行器降落事件，還有本特沃特斯案例——飛行器降落在皇家空軍本特沃特斯基地並留下物理痕跡，已獲英國國防部證實。", "confidence": "high", "notes": "原文 Comita Report 應為 COMETA Report"}
 
 207. We have all this hard data and information.
 → {"text": "我們擁有所有這些確鑿的數據和資訊。", "confidence": "high", "notes": ""}
@@ -217,7 +217,7 @@
 → {"text": "這是一份 CIA 文件，小綠人，哈哈哈哈哈。", "confidence": "high", "notes": ""}
 
 219. So that has worked, and there's an Air Force major, George Filer, who I know, he may be here, who said, "Look, the secrecy really has been created mainly through the force of just ridicule.
-→ {"text": "所以這招奏效了，有一位空軍少校，George Filer，我認識他，他可能在這裡，他說：「聽著，保密制度真正主要是透過嘲笑的力量建立起來的。", "confidence": "high", "notes": ""}
+→ {"text": "所以這招奏效了，有一位空軍少校喬治·法勒，我認識他，他可能在現場，他說：「聽著，保密制度主要確實是透過嘲笑的力量建立起來的。", "confidence": "high", "notes": ""}
 
 220. People don't want to be made a laughing stock."
 → {"text": "人們不想成為笑柄。」", "confidence": "high", "notes": ""}
@@ -226,19 +226,19 @@
 → {"text": "我認為，一旦反情報人員完成了他們的工作，對被同儕嘲笑的恐懼是很難克服的，無論你是參議員、醫生還是大學教授，而他們在這方面已經完成了，這就是宣傳。", "confidence": "high", "notes": ""}
 
 222. There is very serious information in intelligence, and I think that we have to figure out how do we get around the truth embargo, as Steve calls it.
-→ {"text": "情報界有非常嚴肅的資訊，我認為我們必須弄清楚如何繞過真相封鎖，正如 Steve 所稱呼的。", "confidence": "high", "notes": ""}
+→ {"text": "情報界有非常嚴肅的資訊，我認為我們必須弄清楚如何繞過真相封鎖，正如格里爾所稱呼的。", "confidence": "high", "notes": "原文 Steve 應指 Steven Greer（truth embargo 為其創用語）"}
 
 223. In reality, we're sort of in, it's not just the government doing the embargo, it's we are doing the embargo because we have been brainwashed to laugh at this issue instead of look at it in a very serious, scientific, in-depth, and honest and truthful way.
 → {"text": "事實上，我們某種程度上處於這樣的狀態，不僅僅是政府在實施封鎖，而是我們自己在實施封鎖，因為我們被洗腦去嘲笑這個議題，而不是以非常嚴肅、科學、深入、誠實和真實的方式來看待它。", "confidence": "high", "notes": ""}
 
 224. [ Applause ]
-→ {"text": "［掌聲］", "confidence": "high", "notes": ""}
+→ {"text": "【掌聲】", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 25
 
 225. So time keep, how much more time does Mr. Bartlett have?
-→ {"text": "計時員，Bartlett 先生還有多少時間？", "confidence": "high", "notes": ""}
+→ {"text": "計時員，巴特利特先生還有多少時間？", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 26
@@ -283,7 +283,7 @@
 → {"text": "是的，我只是想對此發表意見，因為我對此有一些參與。", "confidence": "high", "notes": ""}
 
 235. As I mentioned in my statement, Bill Clinton asked Webster Hubbell to go and get the answer to who killed JFK, and if you go to the files that have been recovered, there's like 5,000, almost 6,000 pages of Kennedy assassination stuff that the Clintons did uncover, and he asked them to uncover JFK and UFOs.
-→ {"text": "正如我在陳述中提到的，Bill Clinton 要求韋伯斯特·哈貝爾去找出誰殺了甘迺迪的答案，如果你去查看已經找回的檔案，有大約 5,000 頁，幾乎 6,000 頁關於甘迺迪暗殺的資料是柯林頓夫婦確實挖掘出來的，而他要求他們調查甘迺迪和 UFO。", "confidence": "high", "notes": ""}
+→ {"text": "正如我在陳述中提到的，比爾·柯林頓要求韋伯斯特·哈貝爾去找出誰殺了甘迺迪的答案，如果你去查看已經找回的檔案，有大約 5,000 頁，幾乎 6,000 頁關於甘迺迪暗殺的資料是柯林頓夫婦確實挖掘出來的，而他要求他們調查甘迺迪和 UFO。", "confidence": "high", "notes": ""}
 
 236. When that book was released, "Friends in High Places" by Hubbell in 1997, that, of course, the very next day in the White House press briefing, his question was brought up, and it was Deborah Oren, who was no friend of the Clintons from "New York Post" who asked the question.
 → {"text": "當哈貝爾的那本書《高層友人》在 1997 年發行時，當然，第二天在白宮記者會上，他的問題被提出來了，提問的是《紐約郵報》的黛博拉·奧倫，她並非柯林頓夫婦的朋友。", "confidence": "high", "notes": ""}
@@ -310,7 +310,7 @@
 → {"text": "你是一路努力爬上去的。", "confidence": "high", "notes": ""}
 
 244. So a lot of it does have to do with the ridicule, and a lot of it has to do with I mentioned Chase Brandon who was this 42-year CIA guy.
-→ {"text": "所以很大一部分確實與嘲笑有關，而且很大一部分與我提到的 Chase Brandon 有關，他是一位在 CIA 工作了 42 年的人。", "confidence": "high", "notes": ""}
+→ {"text": "所以很大一部分確實與嘲笑有關，而且很大一部分與我提到的蔡斯·布蘭登有關，他是一位在 CIA 工作了 42 年的人。", "confidence": "high", "notes": ""}
 
 245. He writes a fictional book about Roswell, and there was one of the stories that we'd always tried to track in the UFO world, and that was by Richard Helms.
 → {"text": "他寫了一本關於羅斯威爾事件的虛構小說，在 UFO 世界裡我們一直試圖追查的一個故事，那就是理查德·赫爾姆斯的說法。", "confidence": "high", "notes": ""}
@@ -319,7 +319,7 @@
 → {"text": "那是一個聲明，理查德·赫爾姆斯說：「我們控制了美國所有重要的媒體。」", "confidence": "high", "notes": ""}
 
 247. And we were trying to track this, and if you look in Chase Brandon's book, his character in the book actually uses this statement.
-→ {"text": "我們一直試圖追查這個說法，如果你查看 Chase Brandon 的書，他書中的角色實際上使用了這個聲明。", "confidence": "high", "notes": ""}
+→ {"text": "我們一直試圖追查這個說法，如果你查看蔡斯·布蘭登的書，他書中的角色實際上使用了這個聲明。", "confidence": "high", "notes": ""}
 
 248. Richard Helms said, "We control all media of any consequence in America," and the character says, "I wish he hadn't said that."
 → {"text": "理查德·赫爾姆斯說：「我們控制了美國所有重要的媒體」，而書中的角色說：「我希望他沒說過那句話。」", "confidence": "high", "notes": ""}
@@ -340,4 +340,4 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 252. Senator Gravel.
-→ {"text": "Gravel 參議員。", "confidence": "high", "notes": ""}
+→ {"text": "格拉維爾參議員。", "confidence": "high", "notes": ""}
