@@ -10,7 +10,7 @@
 → {"text": "感謝兩位。", "confidence": "high", "notes": ""}
 
 4. And we're going to begin with Dr. Greer.
-→ {"text": "我們將從 Dr. Greer 開始。", "confidence": "high", "notes": ""}
+→ {"text": "我們將從葛瑞爾博士（Dr. Greer）開始。", "confidence": "high", "notes": "人名統一中譯：Steven Greer → 史蒂芬·葛瑞爾（本集新增定譯）"}
 
 5. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -25,13 +25,13 @@
 → {"text": "事情源於 1992 年，當時我率領一支團隊在佛羅里達州的海灘上經歷了一次接觸事件。", "confidence": "high", "notes": ""}
 
 9. And this got reported into a Department of Defense memo or report that was done by John Peterson at the Arlington Institute.
-→ {"text": "此事被記錄於一份國防部備忘錄或報告中，該文件由 Arlington Institute 的 John Peterson 撰寫。", "confidence": "high", "notes": ""}
+→ {"text": "此事被記錄於一份國防部備忘錄或報告中，該文件由阿靈頓研究所（Arlington Institute）的約翰·彼得森（John Peterson）撰寫。", "confidence": "high", "notes": ""}
 
 10. And he was friends with the man who became CIA Director Woolsey.
-→ {"text": "他與後來成為 CIA 局長的 Woolsey 是朋友。", "confidence": "high", "notes": ""}
+→ {"text": "他與後來成為 CIA 局長的伍爾西（Woolsey）是朋友。", "confidence": "high", "notes": ""}
 
 11. CIA Director Woolsey invited us to come to Washington to meet with him and some folks to discuss this.
-→ {"text": "CIA 局長 Woolsey 邀請我們前往華盛頓與他及一些人士會面討論此事。", "confidence": "high", "notes": ""}
+→ {"text": "CIA 局長伍爾西邀請我們前往華盛頓與他及一些人士會面討論此事。", "confidence": "high", "notes": ""}
 
 12. And it was to my great surprise and dismay to learn that the CIA Director had made inquiries into this subject and had not gotten any information.
 → {"text": "令我極為驚訝與失望的是，我得知這位 CIA 局長曾就此議題進行調查，卻未獲得任何資訊。", "confidence": "high", "notes": ""}
@@ -52,7 +52,7 @@
 → {"text": "我是一名急診醫師，我總是半開玩笑地說，我看得出緊急狀況，而我們的星球與政府正處於緊急狀態。", "confidence": "high", "notes": ""}
 
 18. During the period around the time we had our meetings with Mr. Rockefeller, I had already set up briefings through the head of intelligence for the Joint Chiefs of Staff, Admiral Wilson, meeting at Wright-Patterson Air Force Base to which the remains of the Roswell event was sent.
-→ {"text": "在我們與 Rockefeller 先生會面的那段期間，我已透過參謀長聯席會議情報主管威爾森上將（Admiral Wilson）安排了簡報，會面地點在萊特-帕特森空軍基地（Wright-Patterson Air Force Base），羅斯威爾事件（Roswell event）的殘骸曾被送往該處。", "confidence": "high", "notes": ""}
+→ {"text": "在我們與洛克菲勒先生會面的那段期間，我已透過參謀長聯席會議情報主管威爾森上將（Admiral Wilson）安排了簡報，會面地點在萊特-帕特森空軍基地（Wright-Patterson Air Force Base），羅斯威爾事件（Roswell event）的殘骸曾被送往該處。", "confidence": "high", "notes": ""}
 
 19. They initially did not want to have this meeting.
 → {"text": "他們起初不願舉行此會議。", "confidence": "high", "notes": ""}
@@ -61,13 +61,13 @@
 → {"text": "此會議是由空軍情報主管在 J2（如各位所知，J2 是聯合參謀部情報主管）的命令下安排，即克拉默上將（Admiral Kramer）。", "confidence": "medium", "notes": "topics.json 建議此處的 Admiral Kramer 可能是 Admiral Wilson 的誤聽"}
 
 21. That then led to a series of events where we decided what we needed to do was pull together the best military, intelligence, and corporate, Lockheed, Northrop, and other witnesses as we call them, to this issue and begin to do briefings for various members of Congress and people in the administration.
-→ {"text": "這促成了一系列後續事件，我們決定集結最優秀的軍方、情報界與企業界人士——包括 Lockheed、Northrop 等公司的證人——並開始向國會議員及政府人士進行簡報。", "confidence": "high", "notes": ""}
+→ {"text": "這促成了一系列後續事件，我們決定集結最優秀的軍方、情報界與企業界人士——包括洛克希德（Lockheed）、諾斯羅普（Northrop）等公司的證人——並開始向國會議員及政府人士進行簡報。", "confidence": "high", "notes": ""}
 
 22. In 1995, I organized, and Mr. Rockefeller funded, a gathering of the first of witnesses at Asilomar near Monterey in California.
-→ {"text": "1995 年，我組織了首次證人聚會，由 Rockefeller 先生資助，地點在加州蒙特雷附近的 Asilomar。", "confidence": "high", "notes": ""}
+→ {"text": "1995 年，我組織了首次證人聚會，由洛克菲勒先生資助，地點在加州蒙特雷附近的阿西洛馬（Asilomar）。", "confidence": "high", "notes": ""}
 
 23. These were people, they were cosmonauts, they were from Russia, they were astronauts such as Edgar Mitchell, they were people who had worked with Eisenhower and knew of Eisenhower's concern that he had lost control over the secrecy on this issue around 1956.
-→ {"text": "這些人包括太空人、俄羅斯太空員、Edgar Mitchell 這樣的太空人，以及曾與艾森豪共事的人士，他們知道艾森豪曾擔憂在 1956 年左右失去了對此議題保密工作的控制權。", "confidence": "high", "notes": ""}
+→ {"text": "這些人包括來自俄羅斯的太空人、像艾德加·米切爾（Edgar Mitchell）這樣的太空人，以及曾與艾森豪共事的人士，他們知道艾森豪曾擔憂在 1956 年左右失去了對此議題保密工作的控制權。", "confidence": "high", "notes": ""}
 
 24. Then ironically, the Rockefeller commission reorganized the Department of Defense and the CIA into such a Byzantine mess that to this day these projects have not had proper oversight at that level.
 → {"text": "諷刺的是，洛克菲勒委員會（Rockefeller commission）將國防部與 CIA 重組成極為複雜的體系，以至於這些計畫至今都未能在該層級獲得適當監督。", "confidence": "high", "notes": ""}
@@ -76,25 +76,25 @@
 → {"text": "這促使我們為國會議員安排了一些會議。", "confidence": "high", "notes": ""}
 
 26. We did in 1997, and Congressman Dan Burton, who was chairman of the House Government Oversight Committee came, along with a number of other congressmen and senators, and also following that, we did what's called a stand-up briefing, Edgar Mitchell and I did, the Sixth Man to Walk on the Moon, with some of our military sources for then head of intelligence joint staff, Admiral Tom Wilson.
-→ {"text": "我們於 1997 年舉行了會議，眾議院政府監督委員會主席 Dan Burton 眾議員與其他多位國會議員及參議員出席。隨後，我與第六位登月太空人 Edgar Mitchell 一同為當時的聯合參謀部情報主管湯姆·威爾森上將（Admiral Tom Wilson）進行了所謂的立式簡報，並提供了我們的軍方消息來源。", "confidence": "high", "notes": ""}
+→ {"text": "我們於 1997 年舉行了會議，眾議院政府監督委員會主席丹·伯頓眾議員（Dan Burton）與其他多位國會議員及參議員出席。隨後，我與第六位登月太空人艾德加·米切爾一同為當時的聯合參謀部情報主管湯姆·威爾森上將（Admiral Tom Wilson）進行了所謂的立式簡報，並提供了我們的軍方消息來源。", "confidence": "high", "notes": ""}
 
 27. To my astonishment, when I had this meeting, I had sent in advance a briefing similar to the one that I provided here, this is the one I provided for President Obama.
 → {"text": "令我驚訝的是，在這次會議之前，我事先寄送了一份類似於此處提供的簡報，這也是我提供給歐巴馬總統（President Obama）的版本。", "confidence": "high", "notes": ""}
 
 28. What I was astonished and appalled to learn is that the first document that I have in this document is a National Reconnaissance Office document that has actionable intelligence listing project code names and code numbers, effective as of the early '90s.
-→ {"text": "令我震驚與憤慨的是，該文件中的第一份文件是一份國家偵察辦公室（National Reconnaissance Office）的文件，包含可採取行動的情報，列出了截至 1990 年代初期仍有效的計畫代號與代碼。", "confidence": "high", "notes": ""}
+→ {"text": "令我震驚與憤慨的是，該文件中的第一份文件是一份國家偵察局（NRO）的文件，包含可採取行動的情報，列出了截至 1990 年代初期仍有效的計畫代號與代碼。", "confidence": "high", "notes": "機構名依本集術語表／主表定譯為國家偵察局（NRO）"}
 
 29. This Admiral, Tom Wilson, looked through this document, identified one of the compartments, contacted them and was told, and I'm quoting, "Sir, you do not have a need to know."
-→ {"text": "這位湯姆·威爾森上將（Admiral Tom Wilson）翻閱了這份文件，確認了其中一個機密區間（compartment），聯繫了該單位，卻被告知——我引述原話——「長官，您沒有知曉的必要性。」", "confidence": "high", "notes": ""}
+→ {"text": "這位湯姆·威爾森上將（Admiral Tom Wilson）翻閱了這份文件，確認了其中一個機密區間（compartment），聯繫了該單位，卻被告知——我引述原話——「長官，您沒有需知權限。」", "confidence": "high", "notes": "need to know 依主表譯為「需知」（deprecated：知密權）"}
 
 30. This is the head of intelligence for the Joint Chiefs of Staff, and he said to the person, it was a contractor, I cannot disclose which one, he said that basically, "Sir, we will not discuss this with you further," and basically hung up on the Admiral.
 → {"text": "這可是參謀長聯席會議的情報主管，而對方——一名承包商，我不能透露是哪一家——基本上對他說：「長官，我們不會與您進一步討論此事」，然後就掛斷了上將的電話。", "confidence": "high", "notes": ""}
 
 31. Because of that event, we then wrote a unless otherwise directed letter.
-→ {"text": "由於此事件，我們隨後撰寫了一封「除非另有指示」信函（Unless Otherwise Directed letter，UNOD）。", "confidence": "high", "notes": ""}
+→ {"text": "由於此事件，我們隨後撰寫了一封「除非另有指示」信函（Unless Otherwise Directed letter, UNOD）。", "confidence": "high", "notes": ""}
 
 32. My military advisor said, "Dr. Greer, what you need to do is do a UNOD letter that goes to all branches of government that says that we have concluded that this subject is being managed in an extra-constitutional fashion.
-→ {"text": "我的軍方顧問說：「Dr. Greer，您需要撰寫一封 UNOD 信函送交政府各部門，聲明我們已得出結論：此議題正以超憲法方式進行管理。", "confidence": "high", "notes": ""}
+→ {"text": "我的軍方顧問說：「葛瑞爾博士，您需要撰寫一封 UNOD 信函送交政府各部門，聲明我們已得出結論：此議題正以超憲法方式進行管理。", "confidence": "high", "notes": ""}
 
 33. A priori, the National Security Act no longer applies to those under those, and they are hereby exonerated or freed from them."
 → {"text": "因此，《國家安全法》（National Security Act）不再適用於受該法約束之人士，他們在此被免除或解除該義務。」", "confidence": "high", "notes": ""}
@@ -127,7 +127,7 @@
 → {"text": "不幸的是，幾個月後發生了 9/11 事件。", "confidence": "high", "notes": ""}
 
 43. The day before 9/11, September 10th, that there was a memo from a comment, I should say, in a speech by then Secretary of Defense Rumsfeld who stated that there is $2.3 trillion unaccounted for in the Department of Defense budget.
-→ {"text": "在 9/11 的前一天，也就是 9 月 10 日，時任國防部長倫斯斐（Rumsfeld）在一次演講中發表評論——應該說是一份備忘錄——指出國防部預算中有 2.3 兆美元下落不明。", "confidence": "high", "notes": ""}
+→ {"text": "在 9/11 的前一天，也就是 9 月 10 日，時任國防部長倫斯斐（Rumsfeld）曾提到一份備忘錄——更正確地說，是他在一次演講中的評論——指出國防部預算中有 2.3 兆美元下落不明。", "confidence": "high", "notes": "原文講者先說 memo 再自我修正為演講中的評論，原譯方向相反已更正"}
 
 44. Let me repeat that number, $2.3 trillion.
 → {"text": "讓我重複這個數字：2.3 兆美元。", "confidence": "high", "notes": ""}
@@ -136,7 +136,7 @@
 → {"text": "這是在 2001 年 9 月 10 日。", "confidence": "high", "notes": ""}
 
 46. Now, prior to that, I was not surprised at that comment because back in 1994, I had a meeting with Mr. DeMato, not the senator, who was the chief counsel for the Senate Appropriations Committee, and he informed me that they felt that there was upwards of or in excess of $900 billion a year missing out of the Treasury going into so-called black projects.
-→ {"text": "在此之前，我對這番評論並不驚訝，因為早在 1994 年，我曾與參議院撥款委員會（Senate Appropriations Committee）首席法律顧問 DeMato 先生（不是參議員）會面，他告知我，他們認為每年有高達或超過 9,000 億美元從財政部流失，流向所謂的黑計畫。", "confidence": "high", "notes": ""}
+→ {"text": "在此之前，我對這番評論並不驚訝，因為早在 1994 年，我曾與參議院撥款委員會（Senate Appropriations Committee）首席法律顧問達馬托先生（D'Amato，不是參議員）會面，他告知我，他們認為每年有高達或超過 9,000 億美元從財政部流失，流向所謂的黑計畫。", "confidence": "high", "notes": "原文 DeMato 應為 D'Amato（理查·達馬托，講者特別澄清非達馬托參議員）；已補錄 topics.json potential_errors"}
 
 47. Now, this is a misnomer, just so that the committee knows, the proper term in the military and intelligence world is an unacknowledged special access project.
 → {"text": "現在，我要說明的是，這其實是用詞不當。讓委員會知道，在軍方與情報界的正確術語是「未公開特別許可項目」（Unacknowledged Special Access Project）。", "confidence": "high", "notes": ""}
@@ -190,7 +190,7 @@
 → {"text": "我將把它提供給委員會，其他國家也正在取得重大進展。", "confidence": "high", "notes": ""}
 
 64. Admiral Moran, who won the Ampere Prize in France and is an MD, as I am, and also a PhD physicist, and has been an advisor and was an advisor to President Sarkozy and others, has been meeting with us and we have been involved with projects in other countries to do this.
-→ {"text": "莫蘭上將（Admiral Moran）曾榮獲法國安培獎（Ampere Prize），他跟我一樣是醫學博士，同時也是物理學博士，曾擔任薩科齊總統（President Sarkozy）等人的顧問，他一直與我們會面，我們也參與了其他國家的相關計畫。", "confidence": "high", "notes": ""}
+→ {"text": "莫蘭上將（Admiral Moran）曾榮獲法國安培獎（Ampere Prize），他跟我一樣是醫學博士，同時也是物理學博士，曾擔任薩科齊總統（President Sarkozy）等人的顧問，他一直與我們會面，我們也參與了其他國家的相關計畫。", "confidence": "medium", "notes": "Admiral Moran 身份查證未果（法國海軍上將兼醫學、物理雙博士與安培獎得主的組合罕見），音譯保留待查"}
 
 65. I will tell you, however, that as they began to step into this, they were warned off by someone within the national security state saying, "Do not pursue this."
 → {"text": "然而我必須告訴你們，當他們開始涉足此事時，曾被國家安全體系內部的某人警告：「不要追查此事。」", "confidence": "high", "notes": ""}
@@ -223,13 +223,13 @@
 → {"text": "第二個原因是，這是美國國防工業與航太工業的皇冠明珠。", "confidence": "high", "notes": ""}
 
 75. My uncle was a senior project engineer at Grumman that became Northrop Grumman that put the first man on the moon with the lunar module.
-→ {"text": "我的叔叔是 Grumman（後來成為 Northrop Grumman）的資深項目工程師，該公司以登月艙將第一位人類送上月球。", "confidence": "high", "notes": ""}
+→ {"text": "我的叔叔是格魯曼公司（Grumman，後來成為諾斯羅普·格魯曼 Northrop Grumman）的資深專案工程師，該公司以登月艙將第一位人類送上月球。", "confidence": "high", "notes": ""}
 
 76. He worked on the lunar module, which is part of how I got involved with this.
 → {"text": "他參與了登月艙的工作，這也是我涉足此領域的部分原因。", "confidence": "high", "notes": ""}
 
 77. What I have found through my uncle and other contacts at Lockheed is that we have had since about the mid-1950s operational electromagnetic-gravitic devices, basically in parlance of the pop culture anti-gravity devices, that are deeply classified and are the next generation beyond rockets and jet aircraft.
-→ {"text": "透過我叔叔及 Lockheed 的其他聯絡人，我發現自 1950 年代中期左右，我們就已擁有可運作的電磁-重力裝置，用流行文化的說法就是反重力裝置，這些裝置被深度機密化，是超越火箭與噴射機的下一代技術。", "confidence": "high", "notes": ""}
+→ {"text": "透過我叔叔及洛克希德（Lockheed）的其他聯絡人，我發現自 1950 年代中期左右，我們就已擁有可運作的電磁-重力裝置，用流行文化的說法就是反重力裝置，這些裝置被深度機密化，是超越火箭與噴射機的下一代技術。", "confidence": "high", "notes": ""}
 
 78. These are fully operational and not experimental.
 → {"text": "這些裝置已完全可運作，並非實驗性質。", "confidence": "high", "notes": ""}
@@ -238,7 +238,7 @@
 → {"text": "這些裝置一直被極為謹慎地使用。", "confidence": "high", "notes": ""}
 
 80. We have an enormous amount of information on this, including a facility, Norton Air Force Base, where we had Frank Carlucci, the Secretary of Defense for Ronald Reagan, was ushered in there, and some people who were with him, such as Brad Sorensen, have given us information and actually have helped us provide schematics and drawings for these so-called alien reproduction vehicles, a bit of a misnomer because in reality advanced anti-gravity research began with T. Townsend Brown in 1929.
-→ {"text": "我們掌握了大量相關資訊，包括一處設施——諾頓空軍基地（Norton Air Force Base）——雷根總統的國防部長法蘭克·卡魯奇（Frank Carlucci）曾被帶至該處，與他同行的人士如 Brad Sorensen 向我們提供了資訊，並協助我們取得這些所謂「仿製外星載具」（alien reproduction vehicles）的原理圖與設計圖。這個名稱其實有些不當，因為先進反重力研究實際上始於托馬斯·湯森·布朗（T. Townsend Brown）在 1929 年的研究。", "confidence": "high", "notes": ""}
+→ {"text": "我們掌握了大量相關資訊，包括一處設施——諾頓空軍基地（Norton Air Force Base）——雷根總統的國防部長法蘭克·卡魯奇（Frank Carlucci）曾被帶至該處，與他同行的人士如布萊德·索倫森（Brad Sorensen）向我們提供了資訊，並協助我們取得這些所謂「仿製外星載具」（alien reproduction vehicles）的原理圖與設計圖。這個名稱其實有些不當，因為先進反重力研究實際上始於湯森·布朗（T. Townsend Brown）在 1929 年的研究。", "confidence": "high", "notes": "T. Townsend Brown 依主表譯為湯森·布朗（deprecated：托馬斯·湯森·布朗）"}
 
 81. We will get more into this on Friday.
 → {"text": "我們將在週五深入探討此事。", "confidence": "high", "notes": ""}

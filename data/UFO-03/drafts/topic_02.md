@@ -1,19 +1,19 @@
 ## Speaker Group 1
 
 85. Daniel.
-→ {"text": "Daniel。", "confidence": "high", "notes": ""}
+→ {"text": "丹尼爾。", "confidence": "high", "notes": ""}
 
 86. I'd like to address the issue from the point of view of a practicing attorney in these particular areas.
 → {"text": "我想從執業律師的角度來探討這些特定領域的議題。", "confidence": "high", "notes": ""}
 
 87. I just touched on it briefly earlier in the other panel that when I was at the Cahill Gordon law firm in New York, we were brought the Pentagon Papers at that time, and Jim Goodell, the chief counsel for the New York Times contacted us.
-→ {"text": "我在先前的小組中簡短提到過，當時我在紐約的 Cahill Gordon 律師事務所工作，五角大樓文件（Pentagon Papers）被送到我們手中，《紐約時報》首席法律顧問 Jim Goodell 與我們聯繫。", "confidence": "high", "notes": ""}
+→ {"text": "我在先前的小組中簡短提到過，當時我在紐約的 Cahill Gordon 律師事務所工作，五角大樓文件（Pentagon Papers）被送到我們手中，《紐約時報》首席法律顧問吉姆·古德爾（Jim Goodale）與我們聯繫。", "confidence": "high", "notes": "原文 Jim Goodell 應為 Jim Goodale（《紐約時報》五角大樓文件案法律顧問 James Goodale）；已補錄 topics.json potential_errors"}
 
 88. I had been working on the briefs for the New York Times because I happened to have initiated the case that established the right of journalists to protect their confidential news sources when I was at the Harvard Civil Rights Law Review.
 → {"text": "我當時正在為《紐約時報》撰寫訴訟摘要，因為我在哈佛民權法律評論（Harvard Civil Rights Law Review）任職期間，恰好發起了確立記者保護機密消息來源權利的案件。", "confidence": "high", "notes": ""}
 
 89. So I was at the firm and was working on the briefs, and Jim Goodell brought us the information that they had the Pentagon Papers, and so it was the first time that I found myself in a situation where I had to kind of try to put myself in the shoes of people that I had the luxury prior to that time of just saying, "We ought to get it all out.
-→ {"text": "所以我在事務所工作並撰寫訴訟摘要時，Jim Goodell 告知我們他們取得了五角大樓文件。這是我第一次發現自己身處這樣的處境：我必須設身處地為他人著想，而在此之前我一直享有輕鬆地說出「我們應該全部公開」的特權。", "confidence": "high", "notes": ""}
+→ {"text": "所以我在事務所工作並撰寫訴訟摘要時，吉姆·古德爾告知我們他們取得了五角大樓文件。這是我第一次發現自己身處這樣的處境：我必須設身處地為他人著想，而在此之前我一直享有輕鬆地說出「我們應該全部公開」的特權。", "confidence": "high", "notes": "原文 Jim Goodell 應為 Jim Goodale（同 seg 87）；已補錄 topics.json potential_errors"}
 
 90. We ought to just reveal everything.
 → {"text": "我們應該全部揭露。", "confidence": "high", "notes": ""}
@@ -31,7 +31,7 @@
 → {"text": "我們發現他們在東南亞走私鴉片以資助該計畫。", "confidence": "high", "notes": ""}
 
 95. We found out about the Nugan Hand Bank that was set up by Theodore Shackley, who was the CIA station chief in Saigon.
-→ {"text": "我們發現了紐根漢德銀行（Nugan Hand Bank），該銀行是由 CIA 西貢站長西奧多·謝克利（Theodore Shackley）設立的。", "confidence": "high", "notes": ""}
+→ {"text": "我們發現了紐根漢德銀行（Nugan Hand Bank），該銀行是由 CIA 西貢站長西奧多·沙克利（Theodore Shackley）設立的。", "confidence": "high", "notes": "Shackley 依主表譯為沙克利（deprecated：謝克利）"}
 
 96. All the things that we found out about in that particular instance I felt were criminal conduct, unlawful conduct.
 → {"text": "在那個案件中我們發現的所有事情，我認為都是犯罪行為、違法行為。", "confidence": "high", "notes": ""}
@@ -70,13 +70,13 @@
 → {"text": "所以我觸碰到了那條老禁忌（third rail）。", "confidence": "high", "notes": ""}
 
 108. There it was, and we went and we briefed Peter Stockton.
-→ {"text": "事實就在那裡，我們前往並向 Peter Stockton 簡報。", "confidence": "high", "notes": ""}
+→ {"text": "事實就在那裡，我們前往並向彼得·史塔克頓（Peter Stockton）簡報。", "confidence": "high", "notes": ""}
 
 109. He was the chief investigator for John Dingell.
-→ {"text": "他是 John Dingell 的首席調查員。", "confidence": "high", "notes": ""}
+→ {"text": "他是約翰·丁格爾（John Dingell）的首席調查員。", "confidence": "high", "notes": ""}
 
 110. John Dingell was chairing the House Subcommittee on Energy and the Environment, and because of the oversight of authority they had over nuclear facilities environmentally, we briefed them and told them all about this, and they actually set up a -- they tasked a real-time national security agency satellite to actually monitor the smuggling of these materials and actually track them onto being put on charter oil company ships and then boarded by Mossad and brought to Israel, and at that time they were under the condition that they had to share some of the special nuclear materials, 98 percent pure bomb-grade plutonium, that they had to share them with the Shah of Iran.
-→ {"text": "John Dingell 當時擔任眾議院能源與環境小組委員會主席，由於他們對核設施擁有環境監督權，我們向他們簡報並告知所有情況。他們實際上部署了國家安全局（National Security Agency）的即時衛星來監控這些材料的走私活動，並實際追蹤到這些材料被裝上租賃的石油公司船隻，然後由摩薩德（Mossad）接收並運往以色列。當時他們的條件是必須分享部分特殊核材料——98% 純度的武器級鈽——必須與伊朗國王（Shah of Iran）分享。", "confidence": "high", "notes": ""}
+→ {"text": "丁格爾當時擔任眾議院能源與環境小組委員會主席，由於他們對核設施擁有環境監督權，我們向他們簡報並告知所有情況。他們實際上部署了國家安全局的即時衛星來監控這些材料的走私活動，並實際追蹤到這些材料被裝上租賃的石油公司船隻，然後由摩薩德（Mossad）接收並運往以色列。當時他們的條件是必須分享部分特殊核材料——98% 純度的武器級鈽——必須與伊朗國王（Shah of Iran）分享。", "confidence": "high", "notes": "National Security Agency 全名依主表統一為「國家安全局」"}
 
 111. So that they actually were providing 98 percent pure bomb-grade plutonium, reprocessed plutonium to the Shah of Iran and to South Africa, the Afrikaner government.
 → {"text": "因此他們實際上向伊朗國王與南非的阿非利卡人（Afrikaner）政府提供了 98% 純度的武器級鈽、再處理鈽。", "confidence": "high", "notes": ""}
@@ -91,19 +91,19 @@
 → {"text": "我向他提供了備忘錄與宣誓書，說明整件事情。隔週一他聯繫我，表示中央情報局（Central Intelligence Agency）已與他聯繫，要求與他進行秘密單方會議（in-camera ex parte meeting）。他與他們會面後，立即駁回了我們案件中的一項指控——凱倫·絲克伍案（Karen Silkwood case）中關於她在公路上死亡的整個指控。", "confidence": "high", "notes": ""}
 
 115. The whole interfering with her right to travel on the highway, her First Amendment right to meet with the New York Times, because David Burnham was waiting for her at the Holiday Inn to receive the documents showing that these -- it was 40 pounds, 98 percent pure platinum grade plutonium was missing.
-→ {"text": "整個干涉她在公路上旅行的權利、她根據第一修正案（First Amendment）與《紐約時報》會面的權利——因為 David Burnham 正在 Holiday Inn 等她，準備接收顯示這些——40 磅 98% 純度鉑級鈽失蹤的文件。", "confidence": "high", "notes": ""}
+→ {"text": "整個干涉她在公路上旅行的權利、她根據第一修正案（First Amendment）與《紐約時報》會面的權利——因為大衛·伯納姆（David Burnham）正在假日飯店（Holiday Inn）等她，準備接收顯示這些——40 磅 98% 純度鉑級鈽失蹤的文件。", "confidence": "medium", "notes": "原文 platinum grade 疑為 bomb-grade（武器級）之口誤或誤聽，依規則保留原文「鉑級」並標註"}
 
 116. And when we gave that information to the congressman, nobody ever talked about it after that.
 → {"text": "當我們將該資訊提供給國會議員後，此後再也沒有人談論此事。", "confidence": "high", "notes": ""}
 
 117. They called Stansfield Turner in, they brought him downstairs, put him under oath, challenged him about this, and the only reason I knew about it was because Peter Stockton told us about it.
-→ {"text": "他們傳喚了斯坦斯菲爾德·特納（Stansfield Turner），將他帶到樓下，讓他宣誓，並就此事質問他。我之所以知道此事，唯一的原因是 Peter Stockton 告訴了我們。", "confidence": "high", "notes": ""}
+→ {"text": "他們傳喚了斯坦斯菲爾德·特納（Stansfield Turner），將他帶到樓下，讓他宣誓，並就此事質問他。我之所以知道此事，唯一的原因是彼得·史塔克頓告訴了我們。", "confidence": "high", "notes": ""}
 
 118. So it became obvious again to me at that point that there were secrets that virtually everybody agreed within the political circles had to be kept secret, and this supplying -- our supplying in complete violation of the Nuclear Nonproliferation Treaty, 98 percent bomb grade plutonium to Israel was one of those things.
 → {"text": "所以在那時我再次明顯意識到，存在著一些政治圈內幾乎所有人都同意必須保密的秘密，而我們完全違反《核武禁擴條約》向以色列提供 98% 武器級鈽，就是其中之一。", "confidence": "high", "notes": ""}
 
 119. And so I realized that at that time there were these -- there was this dimension, such as Dr. Greer has talked about, there are levels of classification that are way beyond people in the congress, way beyond us as civilians, but I spent a lot of time looking into this whole process.
-→ {"text": "因此我意識到，當時存在著這些——如 Dr. Greer 所談論的那樣——存在著遠遠超出國會人士、遠遠超出我們這些平民的機密等級。但我花了很多時間研究整個過程。", "confidence": "high", "notes": ""}
+→ {"text": "因此我意識到，當時存在著這些——如葛瑞爾博士所談論的那樣——存在著遠遠超出國會人士、遠遠超出我們這些平民的機密等級。但我花了很多時間研究整個過程。", "confidence": "high", "notes": ""}
 
 120. And as you know, I was the one that filed the original Iran-Contra case that got the special prosecutor appointed.
 → {"text": "如各位所知，我是提起原始伊朗門案件（Iran-Contra case）並促成特別檢察官任命的人。", "confidence": "high", "notes": ""}
@@ -115,13 +115,13 @@
 → {"text": "我清楚地意識到，所有人都知道這件事，各種各樣的人都知道這些事情正在發生，但公民不知道。", "confidence": "high", "notes": ""}
 
 123. And as I tried to bring information to some people in congress and the senate, et cetera, talked with Tip O'Neill about all of this, and we -- as I discovered all this stuff was going on, I was then later contacted by Dr. John Mack, as I told you, to represent him, and I was aware of the fact that there was this realm of ultimate secrecy that existed.
-→ {"text": "當我試圖將資訊帶給國會與參議院的一些人士，與 Tip O'Neill 討論所有這些事情時——當我發現所有這些事情正在發生時——如我所說，後來 Dr. John Mack 聯繫我代表他，而我意識到存在著終極保密領域（realm of ultimate secrecy）。", "confidence": "high", "notes": ""}
+→ {"text": "當我試圖將資訊帶給國會與參議院的一些人士，與提普·歐尼爾（Tip O'Neill）討論所有這些事情時——當我發現所有這些事情正在發生時——如我所說，後來約翰·麥克博士（Dr. John Mack）聯繫我代表他，而我意識到存在著終極保密領域（realm of ultimate secrecy）。", "confidence": "high", "notes": ""}
 
 124. But I realized that there was a classification above everything that I'd ever seen that was cosmic, a cosmic top secret.
 → {"text": "但我意識到，存在著一個高於我見過的一切的機密等級，那就是宇宙級的，宇宙最高機密（cosmic top secret）。", "confidence": "high", "notes": ""}
 
 125. There's a whole category of cosmic top secret that has to do with this particular category, and that there's information in there about contacts with these beings that were recovered from Roswell, a living being, one particular living being that they brought to Wright-Patterson, that they didn't know what to do with the being, they didn't know how to take care of the being, they had to keep the being isolated, but they were afraid of potential contamination.
-→ {"text": "有一整個宇宙最高機密類別與這個特定類別有關，其中包含關於與這些從羅斯威爾（Roswell）回收的存有（beings）接觸的資訊——一個活的存有，他們將其中一個特定的活體存有帶到萊特-帕特森（Wright-Patterson），他們不知道該如何處理這個存有，不知道如何照顧這個存有，他們必須將其隔離，但又害怕潛在的污染。", "confidence": "high", "notes": ""}
+→ {"text": "有一整個宇宙最高機密類別與這個特定類別有關，其中包含關於與這些從羅斯威爾回收的存有（beings）接觸的資訊——一個活的存有，他們將其中一個特定的活體存有帶到萊特-帕特森空軍基地（Wright-Patterson Air Force Base），他們不知道該如何處理這個存有，不知道如何照顧這個存有，他們必須將其隔離，但又害怕潛在的污染。", "confidence": "high", "notes": "Roswell 依規範全中譯不保留原文；Wright-Patterson 補全稱"}
 
 126. And I was challenged at that point to try to determine whether or not I would reveal these things to everyone.
 → {"text": "在那個時候，我面臨挑戰，必須決定是否要向所有人揭露這些事情。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "我一直試圖與情報界內部的人士聯繫，對他們說：聽著，如果你們認為有什麼我應該知道的事情，能夠說服我美國人民不應該知道這些，請告訴我好嗎？", "confidence": "high", "notes": ""}
 
 128. Because if you're not going to tell me about it, I can tell you I'm going after it, and I'm going to be going after it in a context that may make it automatically available to anybody once I get it.
-→ {"text": "因為如果你們不告訴我，我可以告訴你們我會追查下去，而且我會在一個可能使任何人一旦我取得它就能自動獲取的環境中追查。", "confidence": "high", "notes": ""}
+→ {"text": "因為如果你們不告訴我，我可以告訴你們我會追查下去，而且一旦我取得它，我可能會以一種讓任何人都能自動取得的方式來追查。", "confidence": "high", "notes": ""}
 
 129. And only a couple of times have I ever approached and said to stay away from these things.
 → {"text": "只有幾次有人接觸我並告訴我遠離這些事情。", "confidence": "high", "notes": ""}
@@ -139,10 +139,10 @@
 → {"text": "嗯，那不是答案，只是要我遠離而已。", "confidence": "high", "notes": ""}
 
 131. And so what I've done is I'm just coming to you today to tell you that with my experience directly as one of the attorneys in the Pentagon Papers case, I was in F. Lee Bailey's office when we did the Watergate burglary.
-→ {"text": "所以我今天來到這裡，是要告訴你們，憑藉我作為五角大樓文件案（Pentagon Papers case）律師之一的直接經驗——我在處理水門案竊案時身處 F. Lee Bailey 的辦公室。", "confidence": "high", "notes": ""}
+→ {"text": "所以我今天來到這裡，是要告訴你們，憑藉我作為五角大樓文件案（Pentagon Papers case）律師之一的直接經驗——我在處理水門案竊案時身處 F·李·貝利（F. Lee Bailey）的辦公室。", "confidence": "high", "notes": ""}
 
 132. It was our office that got McCord to write the letter to Judge Sirica, blowing the whistle on the Watergate plumbers, the Karen Silkwood case with the smuggling of the plutonium, the Iran-Contra case with all of the smuggling of cocaine that was going on.
-→ {"text": "正是我們的辦公室讓 McCord 寫信給 Sirica 法官，揭發水門竊聽者（Watergate plumbers）；凱倫·絲克伍案（Karen Silkwood case）涉及鈽走私；伊朗門案（Iran-Contra case）涉及所有正在進行的古柯鹼走私。", "confidence": "high", "notes": ""}
+→ {"text": "正是我們的辦公室讓麥科德（McCord）寫信給西里卡法官（Judge Sirica），揭發水門「水管工」（Watergate plumbers）；凱倫·絲克伍案（Karen Silkwood case）涉及鈽走私；伊朗門案（Iran-Contra case）涉及所有正在進行的古柯鹼走私。", "confidence": "high", "notes": "Watergate plumbers 為白宮秘密單位綽號「水管工」，原譯「竊聽者」已修正"}
 
 133. But nothing matches this issue.
 → {"text": "但沒有什麼能與這個議題相提並論。", "confidence": "high", "notes": ""}
@@ -178,4 +178,4 @@
 → {"text": "我相信，這就是你們將會查明真相的方式。", "confidence": "high", "notes": ""}
 
 144. Mr. Cameron.
-→ {"text": "Cameron 先生。", "confidence": "high", "notes": ""}
+→ {"text": "卡麥隆先生。", "confidence": "high", "notes": ""}

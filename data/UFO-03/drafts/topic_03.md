@@ -25,7 +25,7 @@
 → {"text": "例如，我曾向柯林頓總統圖書館提交了一份資訊自由法申請。", "confidence": "high", "notes": "原文為 FOIAA，應為 FOIA 之轉錄錯誤"}
 
 153. I received about 1,000 pages of UFO documents, which included an awful lot of material that Stephen Greer had said to the President.
-→ {"text": "我收到了約 1,000 頁的不明飛行物文件，其中包含大量 Stephen Greer 向總統提供的資料。", "confidence": "high", "notes": ""}
+→ {"text": "我收到了約 1,000 頁的不明飛行物文件，其中包含大量史蒂芬·葛瑞爾（Stephen Greer）向總統提供的資料。", "confidence": "high", "notes": ""}
 
 154. The 1,000 pages that I'm going to talk about right now were not part of the disclosure, and both maintain that they don't have them.
 → {"text": "我現在要談的這 1,000 頁文件並不在那次公開範圍內，兩個機構都聲稱沒有這些文件。", "confidence": "high", "notes": ""}
@@ -94,13 +94,13 @@
 → {"text": "與此同時，白宮正批准重新調查羅斯威爾事件。", "confidence": "high", "notes": ""}
 
 176. The Government Accountability Office was also doing a reinvestigation of the Roswell crash.
-→ {"text": "美國政府問責署也在重新調查羅斯威爾墜毀事件。", "confidence": "high", "notes": ""}
+→ {"text": "美國審計總署（GAO）也在重新調查羅斯威爾墜毀事件。", "confidence": "high", "notes": "GAO 依主表譯為美國審計總署（1995 年當時全名為 General Accounting Office）"}
 
 177. That investigation was initiated by New Mexico Congressman Steven Schiff, who ordered the GAO investigation after his requests for information were stonewalled by Clinton's first Secretary of Defense, Les Aspin.
-→ {"text": "該調查由新墨西哥州眾議員史蒂文·希夫（Congressman Steven Schiff）發起，他在柯林頓首任國防部長萊斯·阿斯平（Les Aspin）阻撓其資訊請求後，下令政府問責署進行調查。", "confidence": "high", "notes": ""}
+→ {"text": "該調查由新墨西哥州史蒂芬·希夫眾議員（Steven Schiff）發起，他在柯林頓首任國防部長萊斯·阿斯平（Les Aspin）阻撓其資訊請求後，下令 GAO 進行調查。", "confidence": "high", "notes": "Schiff 依主表譯為史蒂芬·希夫（deprecated：史蒂文·希夫）"}
 
 178. The GAO study, however, was quite limited; only FOIA replies on the Roswell crash were used.
-→ {"text": "然而，政府問責署的研究相當有限，僅使用了關於羅斯威爾墜毀事件的資訊自由法回覆。", "confidence": "high", "notes": ""}
+→ {"text": "然而，GAO 的研究相當有限，僅使用了關於羅斯威爾墜毀事件的資訊自由法回覆。", "confidence": "high", "notes": ""}
 
 179. Nothing was found except that a bunch of key Roswell documents from the time of the crash that would have indicated what had happened were missing.
 → {"text": "除了發現一批本應顯示事件真相的羅斯威爾墜毀時期關鍵文件已經消失之外，並未發現任何東西。", "confidence": "high", "notes": ""}
@@ -115,10 +115,10 @@
 → {"text": "他們只是發布了一份最終報告，聲稱整個 1947 年墜毀事件是由用於監測蘇聯可能進行核試驗的莫古爾計畫氣球（mogul balloon）發射所造成。", "confidence": "high", "notes": ""}
 
 183. In 1995, in Belfast, Northern Ireland, President Clinton challenged the official U.S. Air Force Roswell report, which had no discussion of the reported alien bodies.
-→ {"text": "1995 年，柯林頓總統在北愛爾蘭貝爾法斯特（Belfast， Northern Ireland）質疑美國空軍官方羅斯威爾報告，因為該報告完全沒有討論被報導的外星存有屍體。", "confidence": "high", "notes": ""}
+→ {"text": "1995 年，柯林頓總統在北愛爾蘭貝爾法斯特（Belfast, Northern Ireland）質疑美國空軍官方羅斯威爾報告，因為該報告完全沒有討論被報導的外星存有遺體。", "confidence": "high", "notes": ""}
 
 184. In a speech that he gave, he stated, "As far as I know, an alien spacecraft did not crash in Roswell, New Mexico, but if the United States Air Force did recover alien bodies, they didn't tell me about it either, and I want to know."
-→ {"text": "他在演講中表示：「就我所知，外星飛行器並未在新墨西哥州羅斯威爾墜毀，但如果美國空軍確實回收了外星存有屍體，他們也沒有告訴我，而我想知道真相。」", "confidence": "high", "notes": ""}
+→ {"text": "他在演講中表示：「就我所知，外星飛行器並未在新墨西哥州羅斯威爾墜毀，但如果美國空軍確實回收了外星存有遺體，他們也沒有告訴我，而我想知道真相。」", "confidence": "high", "notes": ""}
 
 185. This open challenge in Northern Ireland forced the U.S. Air Force to do a second Roswell crash report.
 → {"text": "這個在北愛爾蘭的公開質疑迫使美國空軍製作第二份羅斯威爾墜毀報告。", "confidence": "high", "notes": ""}
@@ -127,10 +127,10 @@
 → {"text": "美國空軍在一屋子哄堂大笑的記者面前發布了這份報告，他們描述 1953 年穿著空軍制服的六英呎高木製假人如何能夠解釋人們在 1947 年所描述的四英呎高灰色小生物，其中還包括一個仍然存活的外星存有。", "confidence": "high", "notes": ""}
 
 187. The report was the Air Force's lame attempt intended to answer Clinton's challenge about the alien bodies mentioned in Belfast.
-→ {"text": "這份報告是空軍對柯林頓在貝爾法斯特提到的外星存有屍體質疑所做的蹩腳回應。", "confidence": "high", "notes": ""}
+→ {"text": "這份報告是空軍對柯林頓在貝爾法斯特提到的外星存有遺體質疑所做的蹩腳回應。", "confidence": "high", "notes": ""}
 
 188. Without any official record of the event, Lawrence Rockefeller did sit down with Bill and Hillary Clinton, and most of those documents were provided by Stephen Greer, who provided them to Lawrence Rockefeller.
-→ {"text": "儘管沒有此事件的官方記錄，勞倫斯·洛克菲勒確實與比爾·柯林頓（Bill Clinton）和希拉蕊·柯林頓（Hillary Clinton）會面，而大部分文件是由 Stephen Greer 提供給勞倫斯·洛克菲勒的。", "confidence": "high", "notes": ""}
+→ {"text": "儘管沒有此事件的官方記錄，勞倫斯·洛克菲勒確實與比爾·柯林頓（Bill Clinton）和希拉蕊·柯林頓（Hillary Clinton）會面，而大部分文件是由史蒂芬·葛瑞爾提供給勞倫斯·洛克菲勒的。", "confidence": "high", "notes": ""}
 
 189. They met at the Wyoming JY Ranch, which was controlled by the Rockefellers.
 → {"text": "他們在懷俄明州的 JY 牧場（Wyoming JY Ranch）會面，該牧場由洛克菲勒家族控制。", "confidence": "high", "notes": ""}

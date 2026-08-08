@@ -67,7 +67,7 @@
 → {"text": "這成為後來所知的「洛克菲勒不明飛行物倡議」（Rockefeller UFO Initiative），一項多管齊下的運動，旨在促使美國政府公開不明飛行物與外星智慧的敏感資訊。", "confidence": "high", "notes": ""}
 
 221. The initiative is documented in hundreds of pages of correspondence, released a few years ago by the White House Office of Science and Technology Policy, or STP, under the Freedom of Information Act.
-→ {"text": "該倡議記錄於數百頁的通信文件中，幾年前由白宮科學技術政策辦公室（White House Office of Science and Technology Policy，或稱 OSTP）根據《資訊自由法》（Freedom of Information Act）公開。", "confidence": "high", "notes": ""}
+→ {"text": "該倡議記錄於數百頁的通信文件中，幾年前由白宮科學技術政策辦公室（White House Office of Science and Technology Policy，或稱 OSTP）根據《資訊自由法》（Freedom of Information Act）公開。", "confidence": "high", "notes": "原文 'or STP' 應為 'or OSTP'；已補錄 topics.json potential_errors"}
 
 222. These documents can be accessed at the Paradigm Research Group website, and also, of course, Grant Cameron has obtained lots of additional documents.
 → {"text": "這些文件可於範式研究組織（Paradigm Research Group）網站查閱，當然，格蘭特·卡麥隆（Grant Cameron）也取得了大量額外文件。", "confidence": "high", "notes": ""}
@@ -88,13 +88,13 @@
 → {"text": "勞倫斯·洛克菲勒（Lawrence Rockefeller）首次涉足不明飛行物學（ufology）始於 80 年代末期，透過塞西爾·B·史考特-瓊斯博士（Dr. Cecil B. Scott-Jones），他是一位超心理學家與前美國海軍指揮官，曾擔任駐亞洲海軍武官，並於海軍科學與技術情報中心（Naval Scientific and Technical Intelligence Center）工作。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'topology' 應為 'ufology'"}
 
 228. Between 1985 and 1991, Jones was special assistant to Senator Claiborne Pell, the powerful Rhode Island Democrat chairman of the Senate Foreign Relations Committee, who was deeply interested in parapsychology and who probably many of you met personally.
-→ {"text": "在 1985 年至 1991 年間，Jones 擔任克萊伯恩·佩爾參議員（Senator Claiborne Pell）的特別助理，這位羅德島州民主黨籍的有力人士擔任參議院外交關係委員會（Senate Foreign Relations Committee）主席，對超心理學深感興趣，各位許多人可能親自見過他。", "confidence": "high", "notes": ""}
+→ {"text": "在 1985 年至 1991 年間，瓊斯擔任克萊伯恩·佩爾參議員（Senator Claiborne Pell）的特別助理，這位羅德島州民主黨籍的有力人士擔任參議院外交關係委員會（Senate Foreign Relations Committee）主席，對超心理學深感興趣，各位許多人可能親自見過他。", "confidence": "high", "notes": ""}
 
 229. Senator Pell was also friends with Lawrence Rockefeller and both served on the board of the Human Potential Foundation, a small think tank launched in 1989 in Vienna, Virginia by Jones to conduct "research into all conditions of humankind, physiological, psychological, and spiritual."
-→ {"text": "佩爾參議員（Senator Pell）也是勞倫斯·洛克菲勒（Lawrence Rockefeller）的朋友，兩人均擔任人類潛能基金會（Human Potential Foundation）的董事會成員。這是一個小型智庫，由 Jones 於 1989 年在維吉尼亞州維也納（Vienna， Virginia）創立，旨在進行「人類所有狀態的研究，包括生理、心理與精神層面」。", "confidence": "high", "notes": ""}
+→ {"text": "佩爾參議員（Senator Pell）也是勞倫斯·洛克菲勒（Lawrence Rockefeller）的朋友，兩人均擔任人類潛能基金會（Human Potential Foundation）的董事會成員。這是一個小型智庫，由瓊斯於 1989 年在維吉尼亞州維也納（Vienna, Virginia）創立，旨在進行「人類所有狀態的研究，包括生理、心理與精神層面」。", "confidence": "high", "notes": ""}
 
 230. Many of the papers released by the White House OSTP come from Scott-Jones, who knew Dr. John Gibbons, a physicist who worked for many years as director of the Office of Technology Assessment for the U.S. Congress and was appointed in 1993 by the Clinton administration to direct the OSTP.
-→ {"text": "白宮科學技術政策辦公室（White House OSTP）公開的許多文件來自 Scott-Jones，他認識約翰·吉本斯博士（Dr. John Gibbons），一位物理學家，多年來擔任美國國會技術評估辦公室（Office of Technology Assessment）主任，並於 1993 年由柯林頓政府任命主管科學技術政策辦公室。", "confidence": "high", "notes": ""}
+→ {"text": "白宮科學技術政策辦公室（White House OSTP）公開的許多文件來自史考特-瓊斯，他認識約翰·吉本斯博士（Dr. John Gibbons），一位物理學家，多年來擔任美國國會技術評估辦公室（Office of Technology Assessment）主任，並於 1993 年由柯林頓政府任命主管科學技術政策辦公室。", "confidence": "high", "notes": "John Gibbons 即 topic_03 的 Jack Gibbons（Jack 為 John 的暱稱），同一人"}
 
 231. What was the exact turning point of Lawrence Rockefeller's evolution from a general interest in consciousness studies into the specific area of UFOs and extraterrestrial intelligence is still unclear, but the end of the Cold War and the arrival in Washington of a younger generation represented by Bill and Hillary Clinton are key factors.
 → {"text": "勞倫斯·洛克菲勒（Lawrence Rockefeller）從對意識研究的一般興趣演變至專注於不明飛行物與外星智慧此一特定領域的確切轉捩點尚不清楚，但冷戰結束，以及由比爾與希拉蕊·柯林頓（Bill and Hillary Clinton）所代表的新世代抵達華盛頓，都是關鍵因素。", "confidence": "high", "notes": ""}
@@ -118,7 +118,7 @@
 → {"text": "洛克菲勒在白宮的遊說工作細節，記載於我的文章中，也記載於範式研究組織（PRG）發布的文件本身。", "confidence": "high", "notes": ""}
 
 238. We know from the record that following the initial meeting with Gibbons and subsequent correspondence, the government decided to constrict the more general issue of UFOs into the specific and famous UFO crash of July 1947 in Roswell, New Mexico.
-→ {"text": "從記錄中我們得知，在與吉本斯（Gibbons）的初次會面與後續通信之後，政府決定將更廣泛的不明飛行物議題縮減至 1947 年 7 月發生於新墨西哥州羅斯威爾（Roswell， New Mexico）的特定且著名的不明飛行物墜毀事件。", "confidence": "high", "notes": ""}
+→ {"text": "從記錄中我們得知，在與吉本斯（Gibbons）的初次會面與後續通信之後，政府決定將更廣泛的不明飛行物議題縮減至 1947 年 7 月發生於新墨西哥州羅斯威爾的特定且著名的不明飛行物墜毀事件。", "confidence": "high", "notes": "Roswell 依規範全中譯不保留原文"}
 
 239. This incident will be discussed in detail at a later session during this hearing.
 → {"text": "此事件將在本聽證會稍後的會議中詳細討論。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "這在很大程度上阻礙了洛克菲勒在白宮的初步努力，但並未阻止他嘗試不同的方法。", "confidence": "high", "notes": ""}
 
 242. By 1995, Lawrence Rockefeller switched his UFO-related coordinator from Scott Jones to Marie Galbraith, the well-connected wife of investment banker Evan Galbraith, who was ambassador to France during the Reagan administration, Republican candidate for New York governor in 1994, and chairman of William Buckley's National Review, among other things.
-→ {"text": "到了 1995 年，勞倫斯·洛克菲勒（Lawrence Rockefeller）將其不明飛行物相關協調人從 Scott Jones 換成瑪莉·高布瑞斯（Marie Galbraith），她是人脈廣闊的投資銀行家伊凡·高布瑞斯（Evan Galbraith）的妻子。伊凡曾在雷根政府期間擔任駐法大使、1994 年紐約州州長的共和黨候選人，以及威廉·巴克利（William Buckley）《國家評論》（National Review）的主席等職務。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Goldbreath' 應為 'Galbraith'"}
+→ {"text": "到了 1995 年，勞倫斯·洛克菲勒（Lawrence Rockefeller）將其不明飛行物相關協調人從史考特·瓊斯換成瑪莉·高布瑞斯（Marie Galbraith），她是人脈廣闊的投資銀行家伊凡·高布瑞斯（Evan Galbraith）的妻子。伊凡曾在雷根政府期間擔任駐法大使、1994 年紐約州州長的共和黨候選人，以及威廉·巴克利（William Buckley）《國家評論》（National Review）的主席等職務。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Goldbreath' 應為 'Galbraith'"}
 
 243. Marie Galbraith and Sandra S. Wright, another well-connected high society lady who run the BSW Foundation, had come up with the idea of preparing a comprehensive UFO briefing document that could be sent to members of Congress and VIPs in general.
 → {"text": "瑪莉·高布瑞斯（Marie Galbraith）與桑德拉·S·萊特（Sandra S. Wright），另一位人脈廣闊的上流社會女士，經營著 BSW 基金會（BSW Foundation），提出了準備一份全面性 UFO 簡報文件的想法，可寄送給國會議員與一般重要人士。", "confidence": "high", "notes": ""}
@@ -142,7 +142,7 @@
 → {"text": "最終的簡報文件於 1995 年 12 月完成，但於 1996 年初才寄出。", "confidence": "high", "notes": ""}
 
 246. It was Rockefeller's and Goldbreath's idea to give the copyright to the UFO Research Coalition, a consortium of the three main American UFO organizations, MUFON, that is the Neutral UFO Network, CUFOS, Center for UFO Studies, and FUFOR, the Fund for UFO Research, whose directors endorsed the document.
-→ {"text": "將版權授予 UFO 研究聯盟（UFO Research Coalition）是洛克菲勒與高布瑞斯的主意，該聯盟由三大美國不明飛行物組織組成，分別是 MUFON（即 UFO 互動網絡，Mutual UFO Network）、CUFOS（UFO 研究中心，Center for UFO Studies）與 FUFOR（UFO 研究基金會，Fund for UFO Research），其董事會背書了該文件。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Goldbreath' 應為 'Galbraith'；'Neutral' 應為 'Mutual'"}
+→ {"text": "將版權授予 UFO 研究聯盟（UFO Research Coalition）是洛克菲勒與高布瑞斯的主意，該聯盟由三大美國不明飛行物組織組成，分別是 MUFON（即 UFO 互動網路，Mutual UFO Network）、CUFOS（UFO 研究中心，Center for UFO Studies）與 FUFOR（UFO 研究基金會，Fund for UFO Research），其董事會背書了該文件。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Goldbreath' 應為 'Galbraith'；'Neutral' 應為 'Mutual'；互動網絡→互動網路（台灣用語）"}
 
 247. Copies of the report were sent to Dr. Gibbons at the White House, some members of Congress and VIPs worldwide, but there was no well-connected effort to disseminate the document, and as a result, its political impact was limited.
 → {"text": "報告副本被送至白宮的吉本斯博士（Dr. Gibbons）、部分國會議員與全球重要人士，但沒有良好連結的散布努力，因此其政治影響力有限。", "confidence": "high", "notes": ""}
@@ -157,7 +157,7 @@
 → {"text": "事實上，我們收到了許多有趣的文件與報告，來自法國國家太空研究中心（National Center for Space Studies，CNES）的官方法國不明飛行物小組，該中心是法國的 NASA 對等機構，當時該小組稱為 SEPRA，現稱為 GEIPAN。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'CNS' 應為 'CNES'；'CEPRA' 應為 'SEPRA'；'J-PAN' 應為 'GEIPAN'"}
 
 251. And one of the briefings' case histories was the famous UFO landing case in Trans-en-Provence in 1981.
-→ {"text": "簡報中的案例歷史之一，是 1981 年發生於特朗桑普羅旺斯（Trans-en-Provence）的著名不明飛行物著陸案。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Transant Provence' 應為 'Trans-en-Provence'"}
+→ {"text": "簡報中的案例歷史之一，是 1981 年發生於特朗斯昂普羅旺斯（Trans-en-Provence）的著名不明飛行物著陸案。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Transant Provence' 應為 'Trans-en-Provence'；音譯隨正確拼寫調整"}
 
 252. I will have more to say about the French official UFO investigation at a later session in this hearing.
 → {"text": "我將在本聽證會稍後的會議中，更多談論法國官方的不明飛行物調查。", "confidence": "high", "notes": ""}
@@ -178,7 +178,7 @@
 → {"text": "到了 1997 年，勞倫斯·洛克菲勒（Lawrence Rockefeller）放棄了政治性的不明飛行物倡議，轉而專注於科學角度。", "confidence": "high", "notes": ""}
 
 258. A major meeting, close to both the public and the press, was held from September 29 to October 3, 1997, at the Pocantico Conference Center in Tarrytown, New York.
-→ {"text": "一場對公眾與媒體封閉的重要會議，於 1997 年 9 月 29 日至 10 月 3 日在紐約塔里敦（Tarrytown， New York）的波坎蒂科會議中心（Pocantico Conference Center）舉行。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Taritone' 應為 'Tarrytown'"}
+→ {"text": "一場對公眾與媒體封閉的重要會議，於 1997 年 9 月 29 日至 10 月 3 日在紐約塔里敦（Tarrytown, New York）的波坎蒂科會議中心（Pocantico Conference Center）舉行。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：原文 'Taritone' 應為 'Tarrytown'；'close to' 應為 'closed to'（會議不對外公開）；已補錄 topics.json potential_errors"}
 
 259. The chief coordinator and author of the final report was Dr. Peter A. Sturrock, an astrophysicist from Stanford University who also directed for many years the Society for Scientific Exploration, SSE.
 → {"text": "首席協調人與最終報告的作者是彼得·A·史特羅克博士（Dr. Peter A. Sturrock），史丹佛大學（Stanford University）的天體物理學家，他也擔任科學探索學會（Society for Scientific Exploration，SSE）主任多年。", "confidence": "high", "notes": ""}
@@ -187,7 +187,7 @@
 → {"text": "其構想是召集一群專業科學家，其中許多來自歐洲，並讓受過科學訓練的不明飛行物研究者向一個中立科學家小組呈現最佳證據。", "confidence": "high", "notes": ""}
 
 261. The presentations touched upon all the main scientific areas, photographic evidence, luminosity estimates, radar evidence, the Hess-Dowling Project.
-→ {"text": "簡報涵蓋了所有主要科學領域，包括攝影證據、亮度估算、雷達證據、赫斯達倫計畫（Hessdalen Project）。", "confidence": "high", "notes": ""}
+→ {"text": "簡報涵蓋了所有主要科學領域，包括攝影證據、亮度估算、雷達證據、赫斯達倫計畫（Hessdalen Project）。", "confidence": "high", "notes": "原文 'Hess-Dowling Project' 應為 'Hessdalen Project'（挪威赫斯達倫光現象研究計畫）；已補錄 topics.json potential_errors"}
 
 262. This is a place in Norway where unexplained lights have been recorded for many years.
 → {"text": "這是挪威的一個地方，多年來記錄到無法解釋的光現象。", "confidence": "high", "notes": ""}
@@ -202,7 +202,7 @@
 → {"text": "該報告於 1999 年由華納書局（Warner Books）出版，完整報告也可在科學探索學會（SSE）網站上取得，內含所有細節與數據。", "confidence": "high", "notes": ""}
 
 266. Rockefeller seemed very satisfied with the results of this event, and he even wrote the books forward, which became his only statement on UFOs written for publication.
-→ {"text": "洛克菲勒似乎對此次活動的成果非常滿意，他甚至撰寫了該書的前言，這成為他唯一一份為出版而撰寫的不明飛行物聲明。", "confidence": "high", "notes": ""}
+→ {"text": "洛克菲勒似乎對此次活動的成果非常滿意，他甚至撰寫了該書的前言，這成為他唯一一份為出版而撰寫的不明飛行物聲明。", "confidence": "high", "notes": "原文 'the books forward' 應為 'the book's foreword'；已補錄 topics.json potential_errors"}
 
 267. By 2000, Lawrence Rockefeller reached the age of 90 and was concentrated on his private family affairs.
 → {"text": "到了 2000 年，勞倫斯·洛克菲勒（Lawrence Rockefeller）已達 90 歲高齡，專注於他的私人家庭事務。", "confidence": "high", "notes": ""}

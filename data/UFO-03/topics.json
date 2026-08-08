@@ -46,6 +46,12 @@
           "error_text": "North of Grumman",
           "suggested_correction": "Northrop Grumman",
           "reasoning": "The correct name of the aerospace and defense company is Northrop Grumman."
+        },
+        {
+          "segment_id": 46,
+          "error_text": "Mr. DeMato, not the senator",
+          "suggested_correction": "Mr. D'Amato, not the senator",
+          "reasoning": "Richard D'Amato was chief counsel for the Senate Appropriations Committee; the speaker distinguishes him from Senator Al D'Amato. 'DeMato' is a phonetic misspelling of D'Amato. (Added during 2026-08 proofreading.)"
         }
       ]
     },
@@ -101,6 +107,18 @@
           "error_text": "Ron Contra case",
           "suggested_correction": "Iran-Contra case",
           "reasoning": "The speaker is referring to the Iran-Contra affair. 'Ron' is likely a mishearing of 'Iran'."
+        },
+        {
+          "segment_id": 87,
+          "error_text": "Jim Goodell",
+          "suggested_correction": "Jim Goodale",
+          "reasoning": "James C. Goodale was the New York Times general counsel during the Pentagon Papers case. 'Goodell' is a phonetic misspelling of Goodale. Repeated in segment 89. (Added during 2026-08 proofreading.)"
+        },
+        {
+          "segment_id": 89,
+          "error_text": "Jim Goodell",
+          "suggested_correction": "Jim Goodale",
+          "reasoning": "Same error as segment 87: James C. Goodale, NYT general counsel. (Added during 2026-08 proofreading.)"
         }
       ]
     },
@@ -213,6 +231,30 @@
           "error_text": "Taritone, New York",
           "suggested_correction": "Tarrytown, New York",
           "reasoning": "The Pocantico Conference Center is located in Tarrytown, New York."
+        },
+        {
+          "segment_id": 221,
+          "error_text": "or STP",
+          "suggested_correction": "or OSTP",
+          "reasoning": "The abbreviation for the White House Office of Science and Technology Policy is OSTP. 'STP' is a phonetic misspelling. (Added during 2026-08 proofreading.)"
+        },
+        {
+          "segment_id": 258,
+          "error_text": "close to both the public and the press",
+          "suggested_correction": "closed to both the public and the press",
+          "reasoning": "The 1997 Pocantico conference was closed to the public and the press. 'close to' is a transcription error for 'closed to'. (Added during 2026-08 proofreading.)"
+        },
+        {
+          "segment_id": 261,
+          "error_text": "the Hess-Dowling Project",
+          "suggested_correction": "the Hessdalen Project",
+          "reasoning": "The Hessdalen Project studies the unexplained lights recorded in Hessdalen, Norway (confirmed by the following segment 262). 'Hess-Dowling' is a phonetic mishearing. (Added during 2026-08 proofreading.)"
+        },
+        {
+          "segment_id": 266,
+          "error_text": "wrote the books forward",
+          "suggested_correction": "wrote the book's foreword",
+          "reasoning": "Rockefeller wrote the foreword to Sturrock's book 'The UFO Enigma'. 'forward' is a homophone error for 'foreword'. (Added during 2026-08 proofreading.)"
         }
       ]
     },

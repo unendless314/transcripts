@@ -13,13 +13,13 @@
 → {"text": "好的，我會追隨共同主席的腳步，將我的發言順序延後至最後。", "confidence": "high", "notes": ""}
 
 277. So Mr. Bartlett.
-→ {"text": "那麼，請 Bartlett 先生發言。", "confidence": "high", "notes": ""}
+→ {"text": "那麼，請巴特利特先生發言。", "confidence": "high", "notes": ""}
 
 278. Thank you very much.
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 279. Dr. Greer, you mentioned that there was a very large amount of money that could not be accounted for in the Pentagon.
-→ {"text": "Dr. Greer，您提到五角大樓有一筆非常龐大的款項無法交代其去向。", "confidence": "high", "notes": ""}
+→ {"text": "葛瑞爾博士，您提到五角大樓有一筆非常龐大的款項無法交代其去向。", "confidence": "high", "notes": ""}
 
 280. The Pentagon still cannot be audited.
 → {"text": "五角大樓至今仍無法被審計。", "confidence": "high", "notes": ""}
@@ -46,7 +46,7 @@
 → {"text": "我想更了解一些相關資訊。", "confidence": "high", "notes": ""}
 
 288. I know that this is one of the things that Stephen Hawking is trying to harmonize, relativity, gravity and so forth.
-→ {"text": "我知道這是 Stephen Hawking 正試圖統一的內容之一，相對論、重力等等。", "confidence": "high", "notes": ""}
+→ {"text": "我知道這是史蒂芬·霍金（Stephen Hawking）正試圖統一的內容之一，相對論、重力等等。", "confidence": "high", "notes": ""}
 
 289. Many people believe that he may be the best mind in a millennium, the Britisher who...
 → {"text": "許多人相信他可能是千年一遇的最佳頭腦，那位英國人……", "confidence": "high", "notes": ""}
@@ -67,31 +67,31 @@
 → {"text": "我可以向您保證，他們使用了極高電壓系統，以低功率輸入——也就是低總能量消耗——來創造所謂的坡印廷向量（Poynting vector）投射到太空中。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：'a pointy vector' → 'a Poynting vector'"}
 
 295. This is tapping what's called the zero point energy field, the renowned defense journalist Nick Cook wrote a book about this called The Hunt for Zero Point.
-→ {"text": "這是在汲取所謂的零點能量場（zero point energy field），知名國防記者 Nick Cook 寫了一本關於此主題的書，名為《追尋零點》（The Hunt for Zero Point）。", "confidence": "high", "notes": ""}
+→ {"text": "這是在汲取所謂的零點能量場（zero point energy field），知名國防記者尼克·庫克（Nick Cook）寫了一本關於此主題的書，名為《追尋零點》（The Hunt for Zero Point）。", "confidence": "high", "notes": ""}
 
 296. Without getting too much into the physics of this, I will just say that studies on this matter began actually in the 1920s with T. Townsend Brown, who later became key to the Rand Corporation.
-→ {"text": "在不過度深入物理學細節的情況下，我只想說，關於此事的研究實際上始於 1920 年代的托馬斯·湯森·布朗（T. Townsend Brown），他後來成為蘭德公司（Rand Corporation）的核心人物。", "confidence": "high", "notes": ""}
+→ {"text": "在不過度深入物理學細節的情況下，我只想說，關於此事的研究實際上始於 1920 年代的湯森·布朗（T. Townsend Brown），他後來成為蘭德公司（Rand Corporation）的核心人物。", "confidence": "high", "notes": "T. Townsend Brown 依主表譯為湯森·布朗（deprecated：托馬斯·湯森·布朗）"}
 
 297. But also, I should point out that in Germany, the Koloski-Frost experiment, which we'll go into on Friday, using crystalline structures, and now we're using nano-crystalline materials like you find in transformers to create a electromagnetic field, if you will, around an object that gives it lift.
-→ {"text": "此外，我應該指出，在德國進行的 Koloski-Frost 實驗——我們會在週五深入討論——使用結晶結構，而現在我們使用變壓器中會發現的奈米結晶材料，來在物體周圍創造電磁場，從而產生升力。", "confidence": "high", "notes": ""}
+→ {"text": "此外，我應該指出，在德國進行的考斯基-弗羅斯特實驗（Kowsky-Frost experiment）——我們會在週五深入討論——使用結晶結構，而現在我們使用變壓器中會發現的奈米結晶材料，來在物體周圍創造電磁場，從而產生升力。", "confidence": "high", "notes": "原文 'Koloski-Frost' 應為 'Kowsky-Frost'（1927 年石英晶體反重力實驗）；已補錄 topics.json potential_errors"}
 
 298. And there are classified aspects of some of our known aircraft, and I talked to Admiral Wilson about this, such as the B-2 Stealth, that involved this.
 → {"text": "而我們已知的某些飛行器具有機密方面，我與威爾森上將（Admiral Wilson）討論過此事，例如 B-2 隱形轟炸機（B-2 Stealth），就涉及這項技術。", "confidence": "high", "notes": ""}
 
 299. But the ones that look like they're circular, so-called flying saucers, there have been prototypes of this for a number of years, and about October 1954, from sources I have who have been in what's called the Vault at the National Security Agency and other facilities, we really figured out gravity control, which means that we can do lifter systems, such as the ones that people report in UFOs.
-→ {"text": "但那些看起來是圓形的，也就是所謂的飛碟（flying saucers），這種原型機已經存在多年。根據我在國家安全局（National Security Agency）所謂的「金庫」（Vault）及其他設施工作過的消息來源，大約在 1954 年 10 月，我們真正弄清楚了重力控制，這意味著我們可以製造升力系統，就像人們在不明飛行物（UFO）中報告的那樣。", "confidence": "high", "notes": ""}
+→ {"text": "但那些看起來是圓形的，也就是所謂的飛碟（flying saucers），這種原型機已經存在多年。根據我在國家安全局所謂的「金庫」（Vault）及其他設施工作過的消息來源，大約在 1954 年 10 月，我們真正弄清楚了重力控制，這意味著我們可以製造升力系統，就像人們在不明飛行物中報告的那樣。", "confidence": "high", "notes": "National Security Agency 全名依主表統一為「國家安全局」；「不明飛行物（UFO）」為 deprecated 寫法，已改為不明飛行物"}
 
 300. I'd like to reserve enough time to ask you about something else that you mentioned that really concerns me.
 → {"text": "我想保留足夠的時間來詢問您提到的另一件真正令我擔憂的事情。", "confidence": "high", "notes": ""}
 
 301. Mr. Sheehan mentioned necessary secrets, things that we keep from the American people.
-→ {"text": "Sheehan 先生提到了「必要的秘密」，那些我們對美國人民保密的事情。", "confidence": "high", "notes": ""}
+→ {"text": "希恩先生提到了「必要的秘密」，那些我們對美國人民保密的事情。", "confidence": "high", "notes": ""}
 
 302. I really am conflicted in this area.
 → {"text": "我在這個領域真的很矛盾。", "confidence": "high", "notes": ""}
 
 303. I will acknowledge that you may argue that there are necessary secrets, that there are black projects, you didn't characterize them that way, but some of these top, top secret things that you're talking about, above top secret, it's a black world, I've had several briefings and a special skiff on black projects.
-→ {"text": "我承認您可能會主張存在必要的秘密，存在黑預算項目（black projects），雖然您沒有這樣描述它們，但您所談論的這些最高、最高機密事項，超越最高機密（above top secret），這是一個黑色世界，我曾在特殊的保密設施（SKIF）中接受過幾次關於黑預算項目的簡報。", "confidence": "high", "notes": ""}
+→ {"text": "我承認您可能會主張存在必要的秘密，存在黑計畫（black projects），雖然您沒有這樣描述它們，但您所談論的這些最高、最高機密事項，超越最高機密（above top secret），這是一個黑色世界，我曾在特殊的 SCIF（敏感分隔資訊設施）中接受過幾次關於黑計畫的簡報。", "confidence": "high", "notes": "原文 'a special skiff' 應為 'a special SCIF'（Sensitive Compartmented Information Facility）；已補錄 topics.json potential_errors；black projects 統一譯為黑計畫（同 seg 46）"}
 
 304. If you can do this, then for the good of the American people, you can ignore the Constitution to do good things.
 → {"text": "如果您可以這樣做，那麼為了美國人民的利益，您就可以為了做好事而忽視憲法。", "confidence": "high", "notes": ""}
@@ -109,7 +109,7 @@
 → {"text": "我們為了進行所有醫療保健工作而忽視憲法。", "confidence": "high", "notes": ""}
 
 309. We're ignoring the Constitution to do all of the education that we do, because none of those three things, where we spend a huge amount of money, are specific enumerated powers in Article I, Section 8, and both the Ninth Amendment and the Tenth Amendment, pretty clearly say if you can't find it there, you can't do it.
-→ {"text": "我們為了進行所有教育工作而忽視憲法，因為我們花費巨額資金的這三項工作，沒有一項是第一條第八款（Article I， Section 8）中的具體列舉權力，而第九修正案（Ninth Amendment）與第十修正案（Tenth Amendment）都相當明確地表示，如果您在那裡找不到，就不能做。", "confidence": "high", "notes": ""}
+→ {"text": "我們為了進行所有教育工作而忽視憲法，因為我們花費巨額資金的這三項工作，沒有一項是第一條第八款（Article I, Section 8）中的具體列舉權力，而第九修正案（Ninth Amendment）與第十修正案（Tenth Amendment）都相當明確地表示，如果您在那裡找不到，就不能做。", "confidence": "high", "notes": ""}
 
 310. Now my conflict is that whereas I recognize that there may be necessary secrets, if you extrapolate from this, then you can ignore the Constitution to do good things.
 → {"text": "現在我的矛盾在於，雖然我承認可能存在必要的秘密，但如果從中推論，那麼您就可以為了做好事而忽視憲法。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "我與 CIA 局長伍爾西（CIA Director Woolsey）的會面中，他唯一想知道的是：「為什麼他們不告訴我這件事？」", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：'CIA Director Wolsey' → 'CIA Director Woolsey'"}
 
 316. And the same thing with Lord Hill Norton, the Minister of Defense of Great Britain, and I said, "Sir, the reason they don't is that you're good folk, and you would not go along with criminal secrecy, illegal secrecy, that is withholding science and technologies that would give us a civilization without oil."
-→ {"text": "英國國防大臣彼得·希爾-諾頓勳爵（Lord Hill Norton）也是如此，我對他說：「長官，他們不告訴您的原因是因為您是好人，您不會配合犯罪性的保密、非法的保密，這些保密隱瞞了能讓我們擁有無需石油文明的科學與技術。」", "confidence": "high", "notes": ""}
+→ {"text": "英國國防大臣希爾-諾頓勳爵（Lord Hill Norton）也是如此，我對他說：「長官，他們不告訴您的原因是因為您是好人，您不會配合犯罪性的保密、非法的保密，這些保密隱瞞了能讓我們擁有無需石油文明的科學與技術。」", "confidence": "medium", "notes": "譯名依主表改為希爾-諾頓勳爵（deprecated：彼得·希爾-諾頓勳爵）；其實際職銜為英國國防參謀長（Chief of the Defence Staff），非國防大臣，保留講者原話並標註"}
 
 317. Now, but that's a multi-trillion dollar problem, and I think we've reached the point where the tail is wagging the dog.
 → {"text": "但這是一個數兆美元的問題，我認為我們已經到了尾巴搖狗的地步。", "confidence": "high", "notes": ""}
@@ -157,10 +157,10 @@
 → {"text": "我手上有一份美國科學家聯盟（Federation of American Scientists）兩年前發布的文件，顯示有 5,135 項專利已根據《國家安全法》（National Security Act）被扣押。", "confidence": "high", "notes": ""}
 
 325. Dr. Greer, we have to end your response, and it is Senator Gravel.
-→ {"text": "Dr. Greer，我們必須結束您的回答，現在輪到格拉維爾參議員（Senator Gravel）。", "confidence": "high", "notes": ""}
+→ {"text": "葛瑞爾博士，我們必須結束您的回答，現在輪到格拉維爾參議員（Senator Gravel）。", "confidence": "high", "notes": ""}
 
 326. I won't take my full time because some of these questions need to be elaborated like Dr. Greer was doing, but let me add, because of our view that we want to get the Congress to do something, there's a ruling of the Supreme Court, and my colleague will be interested in about the constitutionality of it.
-→ {"text": "我不會用完我的全部時間，因為其中一些問題需要像 Dr. Greer 那樣詳細闡述，但讓我補充一點，因為我們的觀點是希望國會採取行動，最高法院有一項裁決，我的同事會對其合憲性感興趣。", "confidence": "high", "notes": ""}
+→ {"text": "我不會用完我的全部時間，因為其中一些問題需要像葛瑞爾博士那樣詳細闡述，但讓我補充一點，因為我們的觀點是希望國會採取行動，最高法院有一項裁決，我的同事會對其合憲性感興趣。", "confidence": "high", "notes": ""}
 
 327. I was prosecuted by the Nixon administration, and my defense, which Daniel Sheehan is very knowledgeable about, was the speech and debate clause of the constitution.
 → {"text": "我曾被尼克森政府起訴，而我的辯護——丹尼爾·希恩（Daniel Sheehan）對此非常了解——是憲法的言論與辯論條款（speech and debate clause）。", "confidence": "high", "notes": "已修正 Whisper 轉錄錯誤：'Danny Sheen' → 'Daniel Sheehan'"}
@@ -172,7 +172,7 @@
 → {"text": "該裁決最終於 1972 年作出。", "confidence": "high", "notes": ""}
 
 330. It was a 9-4 that still left me exposed because I published the papers outside of the Senate in addition to releasing them in the Senate, but it was a unanimous decision that I had the right to reveal any secret that I had knowledge of to the public and could not be questioned in any other domain of the government.
-→ {"text": "那是 9 比 4 的裁決，仍然讓我面臨風險，因為除了在參議院發布這些文件外，我還在參議院外出版了這些文件，但這是一項一致的決議，即我有權向公眾揭露我所知道的任何秘密，並且不能在政府的任何其他領域受到質疑。", "confidence": "high", "notes": ""}
+→ {"text": "那是 9 比 4 的裁決，仍然讓我面臨風險，因為除了在參議院發布這些文件外，我還在參議院外出版了這些文件，但這是一項一致的決議，即我有權向公眾揭露我所知道的任何秘密，並且不能在政府的任何其他領域受到質疑。", "confidence": "medium", "notes": "Gravel v. United States (1972) 實際裁決為 5 比 4；依規則保留原文數字 9 比 4 並標註疑義"}
 
 331. That is the law of the land since 1972, and it hasn't been changed.
 → {"text": "這是自 1972 年以來的國土法律，而且沒有改變。", "confidence": "high", "notes": ""}
@@ -190,13 +190,13 @@
 → {"text": "您無法審計它，而您認為他們會達到那個目標是一廂情願的想法，因為不審計正在進行的事情是很方便的。", "confidence": "high", "notes": ""}
 
 336. The other is I want to add to Sheehan's comments, which of course was I'm sure a revelation to a lot of people, that here in Israel, we shipped this nuclear capability to Israel, and one of their tasks was to share it with the Shah.
-→ {"text": "另外，我想補充希恩（Sheehan）的評論，這當然對很多人來說是一個啟示，即我們在這裡向以色列運送了這種核能力，他們的任務之一就是與伊朗國王（Shah）分享。", "confidence": "high", "notes": ""}
+→ {"text": "另外，我想補充希恩（Sheehan）的評論，這當然對很多人來說是一個啟示，即我們向以色列運送了這種核能力，他們的任務之一就是與伊朗國王（Shah）分享。", "confidence": "high", "notes": "原文 'here in Israel' 句構破碎（Whisper 常見），譯文依語境補足"}
 
 337. Well, the adding to that is we gave the Shah an experimental nuclear reactor, which is in Tehran today, and the plan for that reactor was to be able to build bombs that would be under the control of the Shah or under the control of the United States.
 → {"text": "嗯，補充的是，我們給了伊朗國王一個實驗性核反應爐，現在還在德黑蘭，該反應爐的計畫是能夠製造由伊朗國王或美國控制的炸彈。", "confidence": "high", "notes": ""}
 
 338. What had happened after the revolution, and this is what most Americans don't know right now, is that it was the Ayatollah Khomeini who made the decision that that reactor would not be used for any nuclear devices, bomb-making devices.
-→ {"text": "革命後發生的事情，這是大多數美國人現在不知道的，是由阿亞圖拉·霍梅尼（Ayatollah Khomeini）做出了決定，該反應爐不會用於任何核裝置、製造炸彈的裝置。", "confidence": "high", "notes": ""}
+→ {"text": "革命後發生的事情，這是大多數美國人現在不知道的，是由霍梅尼（Ayatollah Khomeini）做出了決定，該反應爐不會用於任何核裝置、製造炸彈的裝置。", "confidence": "high", "notes": "Khomeini 依本集術語表譯為霍梅尼"}
 
 339. It was an internal decision by the supreme, the imam, that they would not do that because the Quran did not sanction weapons of mass destruction.
 → {"text": "這是最高領袖、伊瑪目的內部決定，他們不會這樣做，因為《古蘭經》不認可大規模殺傷性武器。", "confidence": "high", "notes": ""}
@@ -223,7 +223,7 @@
 → {"text": "很好。", "confidence": "high", "notes": ""}
 
 347. Congresswoman Kilpatrick.
-→ {"text": "基爾派屈克女眾議員（Congresswoman Kilpatrick）。", "confidence": "high", "notes": ""}
+→ {"text": "基爾派翠克眾議員（Congresswoman Kilpatrick）。", "confidence": "high", "notes": "Kilpatrick 依主表譯為基爾派翠克"}
 
 348. Thank you very much, and again, thank you for your testimony.
 → {"text": "非常感謝，再次感謝您的證詞。", "confidence": "high", "notes": ""}
@@ -241,7 +241,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 353. Going back to the millions of dollars that are missing, or inaudible, or missing, in the defensive budget over several years, 2.3, Dr. Greer, I think was the number you gave, 2.3 trillion, 2.3 trillion, and that's over several years.
-→ {"text": "回到國防預算中失蹤的數百萬美元，或者說無法審計的，或者說失蹤的，在幾年間，Dr. Greer，我想您提到的數字是 2.3——2.3 兆美元，2.3 兆美元，而且這是幾年累積的。", "confidence": "high", "notes": ""}
+→ {"text": "回到國防預算中失蹤的數百萬美元，或者說無法審計的，或者說失蹤的，在幾年間，葛瑞爾博士，我想您提到的數字是 2.3——2.3 兆美元，2.3 兆美元，而且這是幾年累積的。", "confidence": "high", "notes": "原文 'or inaudible' 依語境理解為 'unauditable'（無法審計）"}
 
 354. I know most of you know at the table that we have also passed an intelligence budget in the Congress.
 → {"text": "我知道在座的大多數人都知道，我們在國會還通過了一項情報預算。", "confidence": "high", "notes": ""}
