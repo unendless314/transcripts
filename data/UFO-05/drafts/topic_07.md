@@ -115,13 +115,13 @@
 → {"text": "我們在追蹤某些人時遇到困難，但我相信他目前仍然在世。", "confidence": "high", "notes": ""}
 
 231. I'm particularly interested in this classified record system of the Veterans Affairs Administration, because I can tell you, our staff, during my tenure in the Congress, spent a great deal of time with the Veterans Affairs Administration, and I have never heard of a classified section within Veterans Affairs. Could you tell me, as much as you know, in that short period of time here, in about one minute . . .
-→ {"text": "我對退伍軍人事務管理局的這個機密記錄系統特別感興趣，因為我可以告訴你，在我國會任期內，我們的幕僚與退伍軍人事務管理局打了許多交道，我從未聽說過退伍軍人事務管理局內有機密部門。你能告訴我，就你所知，在這短暫的時間裡，大約一分鐘⋯⋯", "confidence": "high", "notes": "Veterans Affairs Administration 依照 terminology.yaml 翻譯為「退伍軍人事務管理局」"}
+→ {"text": "我對退伍軍人事務管理局的這個機密檔案區特別感興趣，因為我可以告訴你，在我國會任期內，我們的幕僚與退伍軍人事務管理局打了許多交道，我從未聽說過退伍軍人事務管理局內有機密檔案區。你能告訴我，就你所知，在這短暫的時間裡，大約一分鐘⋯⋯", "confidence": "high", "notes": "Veterans Affairs Administration 依照 terminology.yaml 翻譯為「退伍軍人事務管理局」"}
 
 232. Yes, sir.
 → {"text": "是的，先生。", "confidence": "high", "notes": ""}
 
 233. What is a classified record section, and how many classified records do you believe are in there after your experience in dealing with them?
-→ {"text": "什麼是機密記錄部門，根據你與他們打交道的經驗，你認為裡面有多少機密記錄？", "confidence": "high", "notes": ""}
+→ {"text": "什麼是機密檔案區，根據你與他們打交道的經驗，你認為裡面有多少機密記錄？", "confidence": "high", "notes": ""}
 
 234. Okay. What was summarized, not only in the letter from Senator Cowell's office, which says once your claim is being processed and is determined that needed records are classified, the request for those records can be made. What the staffer told me was that the VA has a section that they maintain records for certain operations, and didn't necessarily mean rentals from any type of military operations as classified, and it's up to the gaining command, Army, Air Force, or whatever, whether or not they will allow those records to be released to the VA so you can receive treatment. She said she came across this recently in the past two or three years when she was the same way, was being stymied on certain cases involving PTSD and Agent Orange, and that she made this available to us. Not only that, but the VA volunteered it again to her, saying that they would not even let her know if my records
 → {"text": "好的。凱爾參議員辦公室的信件中總結了這一點，信中說一旦你的申請被處理，並且確定所需記錄被列為機密，就可以提出這些記錄的申請。幕僚告訴我，退伍軍人事務部有一個部門，他們為某些行動保存記錄，這不一定意味著任何類型的軍事行動的記錄都被列為機密，而是由相關指揮單位——陸軍、空軍或其他單位——決定是否允許這些記錄釋出給退伍軍人事務部，以便你能接受治療。她說她在過去兩三年中最近遇到這種情況，她也同樣在涉及創傷後壓力症候群和橙劑的某些案件上受阻，她向我們提供了這些資訊。不僅如此，退伍軍人事務部還主動告訴她，他們甚至不會讓她知道我的記錄", "confidence": "high", "notes": "Senator Cowell 應為 Senator Kyl（凱爾參議員）；PTSD 依照 terminology.yaml 翻譯為「創傷後壓力症候群」；Agent Orange 為「橙劑」"}
@@ -130,10 +130,10 @@
 → {"text": "是否被列為機密，直到我提出殘障申請。", "confidence": "high", "notes": ""}
 
 236. In this question, I have no way in excusing a classified records section, especially with regards to medical records. I can't understand that when, as you say very correctly, Sergeant Burroughs, you are the owner of those medical records under the law of the United States.
-→ {"text": "在這個問題上，我無法為機密記錄部門找藉口，特別是涉及醫療記錄的部分。我無法理解，如你所說得非常正確，巴勒斯軍士，根據美國法律，你是這些醫療記錄的所有人。", "confidence": "high", "notes": ""}
+→ {"text": "在這個問題上，我無法為機密檔案區的存在找藉口，特別是涉及醫療記錄的部分。我無法理解，如你所說得非常正確，巴勒斯軍士，根據美國法律，你是這些醫療記錄的所有人。", "confidence": "high", "notes": ""}
 
 237. Even military laws, I understand it, and I'm not an expert on that, but that's the way I understand it. But as you found out about classified records sections, it's not just for people that have said, I mean people that are in classified sections aren't just for members of the, the veterans that have maybe made statements, as you've made, about things you've seen that relate to an identified flying object. Am I correct?
-→ {"text": "即使是軍事法律，我也是這樣理解的，我不是這方面的專家，但我是這樣理解的。但如你所發現的機密記錄部門，它不僅僅是為那些曾經說過⋯⋯我是說，機密部門中的記錄不僅僅是為那些退伍軍人⋯⋯那些可能像你一樣，對所見的與不明飛行物相關的事物發表過聲明的人。我說的對嗎？", "confidence": "medium", "notes": "這段話有些語句不完整，但盡量根據上下文翻譯；unidentified flying object 依照 terminology.yaml 翻譯為「不明飛行物」"}
+→ {"text": "即使是軍事法律，我也是這樣理解的，我不是這方面的專家，但我是這樣理解的。但如你所發現的機密檔案區，它不僅僅是為那些曾經說過⋯⋯我是說，機密檔案區中的記錄不僅僅是為那些退伍軍人⋯⋯那些可能像你一樣，對所見的與不明飛行物相關的事物發表過聲明的人。我說的對嗎？", "confidence": "medium", "notes": "原文語句不完整，依上下文翻譯；原文 an identified flying object 應為 unidentified flying object，譯文逕採正確語意"}
 
 
 ## Speaker Group 24
@@ -166,7 +166,7 @@
 ## Speaker Group 28
 
 243. Well, the conditions that were, that I explained to the doctors at the time, I think will verify that. But I think Colonel Hall has also done that by issuing that letter to the VA. Yeah, I think that's what.
-→ {"text": "嗯，我當時向醫生解釋的那些狀況，我認為會證實這一點。但我認為霍爾特上校也透過向退伍軍人事務部發出那封信做到了這一點。是的，我認為就是這樣。", "confidence": "high", "notes": "Colonel Hall 應為 Colonel Halt（霍爾特上校），Whisper 轉錄錯誤"}
+→ {"text": "嗯，我當時向醫生解釋的那些狀況，我認為會證實這一點。但我認為哈爾特上校也透過向退伍軍人事務部發出那封信做到了這一點。是的，我認為就是這樣。", "confidence": "high", "notes": "原文 Colonel Hall 應為 Colonel Halt（哈爾特上校），Whisper 轉錄錯誤"}
 
 
 ## Speaker Group 29
@@ -178,7 +178,7 @@
 ## Speaker Group 30
 
 245. There would be showing treatment for vision problems, which were related to my heart, and he had no, he could not figure out why I was having the vision problems I have. This was a full-blown specialist down at Wilford Hall where they ended up sending me, and he did look at me at one point and say, "Were you ever exposed to radiation?"
-→ {"text": "會有視力問題的治療記錄，這與我的心臟有關，他無法⋯⋯他無法弄清楚為什麼我會有這些視力問題。這是在威爾福德醫院的一位專科醫生，他們最後把我送到那裡，他確實曾經看著我說：「你曾經暴露於輻射中嗎？」", "confidence": "high", "notes": "Wilford Hall 是美國空軍醫療中心"}
+→ {"text": "會有視力問題的治療記錄，這與我的心臟有關，他無法⋯⋯他無法弄清楚為什麼我會有這些視力問題。這是在威爾福德廳的一位專科醫生，他們最後把我送到那裡，他確實曾經看著我說：「你曾經暴露於輻射中嗎？」", "confidence": "high", "notes": "Wilford Hall 是美國空軍醫療中心"}
 
 
 ## Speaker Group 31
@@ -310,7 +310,7 @@
 ## Speaker Group 52
 
 267. Okay. And besides the two Arizona senators that have been talked about, McCain and Kyle, I'd like to ask you about Senator James Exon, who was a member of the Senate Armed Services Committee. I understand he said that he had spent more time looking into this particular incident than any other case in his quote. I think I've got this right. Since I've been a U.S. Senator, while he's said that additional information like a seven interagency memorandum is on file, he says that he feels there's been no cover-up. Now, why did he say that?
-→ {"text": "好的。除了已經提到的兩位亞利桑那州參議員，馬侃和凱爾，我想問你關於詹姆斯·埃克森參議員的事，他是參議院軍事委員會成員。我了解他說他花在調查這起特定事件的時間比他引述中的任何其他案件都多。我想我沒記錯。自從他成為美國參議員以來，雖然他說像七個跨部門備忘錄之類的額外資訊有存檔，但他說他認為沒有真相掩蓋。那麼，他為什麼這麼說？", "confidence": "high", "notes": "Senator McCain 依照 terminology.yaml 翻譯為「馬侃參議員」；Senator Kyl（Kyle 是拼寫錯誤）翻譯為「凱爾參議員」；Senator James Exon 依照 terminology.yaml 翻譯為「詹姆斯·埃克森參議員」"}
+→ {"text": "好的。除了已經提到的兩位亞利桑那州參議員，麥凱恩和凱爾，我想問你關於詹姆斯·埃克森參議員的事，他是參議院軍事委員會成員。我了解他說他花在調查這起特定事件的時間比他引述中的任何其他案件都多。我想我沒記錯。自從他成為美國參議員以來，雖然他說像七個跨部門備忘錄之類的額外資訊有存檔，但他說他認為沒有真相掩蓋。那麼，他為什麼這麼說？", "confidence": "high", "notes": "Senator McCain 譯「麥凱恩」；Senator Kyl（原文 Kyle 為拼寫錯誤）譯「凱爾參議員」；Senator James Exon 譯「詹姆斯·埃克森參議員」"}
 
 268. In your opinions, or the opinion of the attorney, or anybody else that-
 → {"text": "根據你們的意見，或律師的意見，或其他任何人——", "confidence": "high", "notes": ""}
@@ -358,7 +358,7 @@
 → {"text": "尼克，請說。", "confidence": "high", "notes": ""}
 
 280. Yes. Colonel Holt investigated the landing site from the first night shortly before he had his own encounter, and the disaster preparedness officer, Sergeant Monroe Nevels, noticed that not only were there indentations in the ground where this thing had apparently landed, three indentations forming essentially a triangular shape, but the inside, this was in a clearing, the insides of the trees seemed to him to have been scorched and burned somewhat. Again, the document, the February 23rd Ministry of Defense document that you have is from the scientific and technical intelligence part of the defense intelligence staff. I'm not a scientist myself, so I can't speak to the technicalities of it, but clearly a number of people who looked at the landing site after Jim and John's account certainly got close to all this. This is again one of the reasons why this is of some concern. A number of these
-→ {"text": "是的。霍爾特上校在他自己遭遇之前不久調查了第一晚的降落地點，災難準備官員蒙羅·內維爾斯軍士注意到，不僅地面上有這個物體顯然降落的凹痕，三個凹痕基本上形成了一個三角形，而且在這片空地內部，樹木的內側在他看來似乎有些燒焦和燒灼。再次強調，你們擁有的 2 月 23 日英國國防部文件來自國防情報人員的科學與技術情報部門。我本人不是科學家，所以我無法談論技術細節，但顯然在吉姆和約翰的敘述之後查看降落地點的許多人確實接近了這一切。這再次是令人關切的原因之一。這些人中有一些", "confidence": "high", "notes": "Colonel Holt 應為 Colonel Halt（霍爾特上校）；Jim 指 James Penniston，John 指 John Burroughs"}
+→ {"text": "是的。哈爾特上校在他自己遭遇之前不久調查了第一晚的降落地點，災難準備官員蒙羅·內維爾斯軍士注意到，不僅地面上有這個物體顯然降落的凹痕，三個凹痕基本上形成了一個三角形，而且在這片空地內部，樹木的內側在他看來似乎有些燒焦和燒灼。再次強調，你們擁有的 2 月 23 日英國國防部文件來自國防情報人員的科學與技術情報部門。我本人不是科學家，所以我無法談論技術細節，但顯然在吉姆和約翰的敘述之後查看降落地點的許多人確實接近了這一切。這再次是令人關切的原因之一。這些人中有一些", "confidence": "high", "notes": "原文 Colonel Holt 應為 Colonel Halt（哈爾特上校），Whisper 反覆誤轉；Jim 指 James Penniston，John 指 John Burroughs"}
 
 281. people have gone on the record, but a number have not and may not even be aware that there are potential health care issues arising from the radiation.
 → {"text": "人已經公開作證，但許多人尚未公開，甚至可能不知道輻射可能產生潛在的健康問題。", "confidence": "high", "notes": ""}
@@ -454,7 +454,7 @@
 → {"text": "你提到有另一位軍事人員，女性人員，她開車過來，她的車或車輛被關閉了，不是她關的，那她怎麼出來的？她因此遭受任何殘疾嗎？", "confidence": "high", "notes": ""}
 
 312. Two things that stand out with that. Now, at one point, her vehicle was shut down. She was relieved of duty, and in fact, she should have been the on-duty shift commander on the night of Colonel Hall's incident. She wasn't present. At our level, we would not have been briefed on what treatment she received or what the final outcome was, but not only was her vehicle shut down, but on the third night, the light-offs and radios were malfunctioning.
-→ {"text": "關於這點有兩件事很突出。在某個時間點，她的車輛被關閉了。她被解除職務，事實上，她本應是霍爾特上校事件當晚的值勤指揮官。但她不在場。在我們的層級，我們不會被告知她接受了什麼治療或最終結果是什麼，但不僅她的車輛被關閉了，而且在第三晚，燈光和無線電都發生故障。", "confidence": "high", "notes": "Colonel Hall 應為 Colonel Halt（霍爾特上校）"}
+→ {"text": "關於這點有兩件事很突出。在某個時間點，她的車輛被關閉了。她被解除職務，事實上，她本應是哈爾特上校事件當晚的值勤指揮官。但她不在場。在我們的層級，我們不會被告知她接受了什麼治療或最終結果是什麼，但不僅她的車輛被關閉了，而且在第三晚，燈光和無線電都發生故障。", "confidence": "high", "notes": "原文 Colonel Hall 應為 Colonel Halt（哈爾特上校），Whisper 轉錄錯誤"}
 
 313. They couldn't even get the lights to come on out in the fields, which clearly points towards there was some kind of electrical interference.
 → {"text": "他們甚至無法讓田野裡的燈亮起來，這清楚地指向存在某種電力干擾。", "confidence": "high", "notes": ""}
@@ -463,7 +463,7 @@
 → {"text": "這已經被報告了。波普先生，這是記錄的一部分嗎，在這段時間內發生了電力服務或能源服務的全面關閉？", "confidence": "high", "notes": ""}
 
 315. I can't recall, sir, whether the documents say that, but Colonel Holt and a number of the other people, but particularly Holt, because he was the deputy base commander, has gone on the record and confirmed that. Yes, sir.
-→ {"text": "我記不起來，先生，文件是否有這樣說，但霍爾特上校和其他一些人，特別是霍爾特，因為他是副基地指揮官，已經公開記錄並確認了這一點。是的，先生。", "confidence": "high", "notes": "Colonel Holt 應為 Colonel Halt（霍爾特上校）"}
+→ {"text": "我記不起來，先生，文件是否有這樣說，但哈爾特上校和其他一些人，特別是哈爾特，因為他是副基地指揮官，已經公開記錄並確認了這一點。是的，先生。", "confidence": "high", "notes": "原文 Colonel Holt 應為 Colonel Halt（哈爾特上校），Whisper 反覆誤轉"}
 
 316. Good. Thank you, Madam Chairman.
 → {"text": "很好。謝謝您，主席女士。", "confidence": "high", "notes": ""}

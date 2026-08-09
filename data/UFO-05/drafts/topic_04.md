@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 44. Thank you madam. My name is Tech Sergeant John Burroughs, United States retired. In December 1980 I was assigned to the 81st Tactical Fighter Wing at RAF Bentwaters which at the time was the largest tech fighter wing in the United States Air Force. During the opening day of testimony you were exposed to the history of UFOs and the cover up that's taking place.
-→ {"text": "謝謝您，女士。我是技術軍士約翰·巴勒斯，美國空軍退役。1980 年 12 月，我被派駐至 RAF Bentwaters 的第 81 戰術戰鬥機聯隊，該聯隊當時是美國空軍規模最大的戰術戰鬥機聯隊。在聽證會開幕日的證詞中，您已經了解到不明飛行物的歷史以及正在進行的真相掩蓋。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝您，女士。我是技術軍士約翰·巴勒斯，美國空軍退役。1980 年 12 月，我被派駐至皇家空軍本特沃特斯基地（RAF Bentwaters）的第 81 戰術戰鬥機聯隊，該聯隊當時是美國空軍規模最大的戰術戰鬥機聯隊。在聽證會開幕日的證詞中，您已經了解到不明飛行物的歷史以及正在進行的真相掩蓋。", "confidence": "high", "notes": ""}
 
 45. Today you will be hearing from military personnel who are involved in some of these incidents.
 → {"text": "今天，您將聽取參與這些事件的軍事人員的證詞。", "confidence": "high", "notes": ""}
@@ -10,16 +10,16 @@
 → {"text": "我認為一個被忽視的因素是這些事件對相關證人造成的人力代價。我們的職責是調查並回報所觀察到的情況。我們沒有準備好的是事後發生在我們身上的事情。在我們的案例中，不僅指揮鏈讓我們失望，而且有證據顯示我們被空軍特別調查辦公室（OSI）和其他機構帶去審訊。您即將聽到的是我們在森林中的經歷、隨後進行的調查，以及證據顯示我們的事件在 32 年後仍被列為機密。謝謝。除了你們兩位之外，還有其他人目擊這架飛行器嗎？有的，第一夜有安全巡邏組正在值勤，還有執法巡邏組也在值勤，總共大約有 40 到 60 人，分散在不同位置。當時正值", "confidence": "high", "notes": ""}
 
 47. Christmas holidays plus we had a number of civilian witnesses that came forward later on. Were there any but you two who were close to the craft and saw it on the ground or do the others simply see it leaving and coming? On Bentwaters, the bases are two bases that are geographically separated by three miles of Rendlesham Forest. The main operating base is on Bentwaters. That's where all the control centers are. Now the security forces working that night that were on Bentwaters, I think it was about 13 of them seen at land.
-→ {"text": "聖誕假期，而且我們還有一些平民目擊者後來挺身作證。除了你們兩位之外，還有其他人靠近飛行器並看到它在地面上嗎？還是其他人只是看到它離開和到來？在班特沃特斯，這兩座基地在地理上被三英里的藍道申森林分隔開。主要作戰基地在班特沃特斯，所有的控制中心都在那裡。當晚在班特沃特斯值勤的安全部隊，我記得大約有 13 人看到它著陸。", "confidence": "high", "notes": ""}
+→ {"text": "聖誕假期，而且我們還有一些平民目擊者後來挺身作證。除了你們兩位之外，還有其他人靠近飛行器並看到它在地面上嗎？還是其他人只是看到它離開和到來？在本特沃特斯，這兩座基地在地理上被三英里的藍道申森林分隔開。主要作戰基地在本特沃特斯，所有的控制中心都在那裡。當晚在本特沃特斯值勤的安全部隊，我記得大約有 13 人看到它著陸。", "confidence": "high", "notes": ""}
 
 48. Then everybody else that was working our restrict areas on Woodbridge at Charlie and Delta area, they seen the object in the woods but it was mostly a dome of light that was over the woods and as far as getting direct contact with the vehicle itself was John and I and Kabancik.
 → {"text": "而在伍德布里奇基地查理區和德爾塔區的管制區工作的其他人員，他們在樹林中看到了那個物體，但主要是樹林上方的一個光穹。至於直接接觸飛行器本身的，只有約翰、我和卡班希克。", "confidence": "high", "notes": ""}
 
 49. But everybody that was working on Woodbridge base that night and Bentwaters base that night seen it take off. That was observed by everybody. When it landed, I gather that it was not detailed enough so there was some concern that it might be a crash of one of our aircraft? Well, when I approached the craft itself, we were familiar with all types of aircraft and silhouettes.
-→ {"text": "但是那晚在伍德布里奇基地和班特沃特斯基地工作的所有人都看到它起飛。每個人都目擊了這一幕。當它著陸時，我理解資訊不夠詳細，所以有人擔心可能是我們的飛機墜毀？嗯，當我接近飛行器本身時，我們對所有類型的飛機和輪廓都很熟悉。", "confidence": "high", "notes": ""}
+→ {"text": "但是那晚在伍德布里奇基地和本特沃特斯基地工作的所有人都看到它起飛。每個人都目擊了這一幕。當它著陸時，我理解資訊不夠詳細，所以有人擔心可能是我們的飛機墜毀？嗯，當我接近飛行器本身時，我們對所有類型的飛機和輪廓都很熟悉。", "confidence": "high", "notes": ""}
 
 50. We practiced routinely. We could tell by looking at the silhouettes what kind of aircraft they were Warsaw Pact or if they were Chinese or ours. But the craft itself was void of things that aircraft need to fly. I mean, it did not have a crew compartment that I could see, did not have exhaust, did not have intake. I did not know what the front was. So it was pretty void of all those things. And aerodynamically, well, it was a brick. I mean, there's no way that thing could fly. And my mindset at the time was that was not going anywhere. It was just going to stay there. So I had all the time in the world.
-→ {"text": "我們經常進行演練。我們可以通過觀察輪廓辨別飛機的種類——是華沙公約國家的、中國的還是我們自己的。但這架飛行器缺少飛機飛行所需的一切。我是說，我看不到它有機組艙室，沒有排氣口，沒有進氣口。我不知道哪邊是前方。所以它完全缺少所有這些東西。而且從空氣動力學角度來看，它就是一塊磚頭。我是說，那東西根本不可能飛行。我當時的想法是它哪裡也去不了，就會待在那裡。所以我有的是時間。", "confidence": "high", "notes": ""}
+→ {"text": "我們經常進行演練。我們可以透過觀察輪廓辨別飛機的種類——是華沙公約國家的、中國的還是我們自己的。但這架飛行器缺少飛機飛行所需的一切。我是說，我看不到它有機組艙室，沒有排氣口，沒有進氣口。我不知道哪邊是前方。所以它完全缺少所有這些東西。而且從空氣動力學角度來看，它就是一塊磚頭。我是說，那東西根本不可能飛行。我當時的想法是它哪裡也去不了，就會待在那裡。所以我有的是時間。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 2
@@ -31,13 +31,13 @@
 → {"text": "它在著陸前被雷達捕捉到了？是的，我們得到的資訊是東部雷達站和我們的本地雷達都在伍德布里奇機場空域外的森林區域上空的雷達上捕捉到某物。好的。這個飛行器的大致尺寸是多少？嗯，我必須用步伐來測量。我跨大步測量，所以測得它大約是九英呎乘九英呎乘九英呎。我身高六英呎二英吋，所以我估算它高度約六英呎半到七英呎。森林中有土堤，所以該區域有些不平坦。這實際上是一架非常小的飛行器，這也是令人困惑的部分之一——依我看來，它太小了，不可能有人駕駛。著陸地點有進行任何調查嗎？現場有被封鎖嗎？有專家來查看可能留下的", "confidence": "high", "notes": ""}
 
 53. left there? >> Yes, well, the security forces did, besides obviously us two, did an investigation the following morning, which included several security personnel, and then also about a week later, a little less, Colonel Halt informed us that a team from Langley came in, and they cordoned the whole area off on the east end of adjacent to the east gate where the area was, and they provided their own entry control, and they wouldn't allow us in the area. They were there a few days, and then left, packed up and left. >> The documentation relative to this, is it now existing, or has it been lost, destroyed? >> May I take that, please?
-→ {"text": "物件嗎？是的，嗯，除了我們兩人之外，安全部隊在隔天早上進行了調查，包括數名安全人員參與，然後大約一週後，稍微不到一週，霍爾特中校告訴我們，一支來自蘭利基地的團隊來了，他們在東端靠近東門的區域把整個區域封鎖起來，他們自己設置出入管制，不允許我們進入該區域。他們在那裡待了幾天，然後打包離開了。與此相關的文件記錄，現在還存在嗎？還是已經遺失或被銷毀了？我可以回答這個問題嗎？", "confidence": "high", "notes": ""}
+→ {"text": "物件嗎？是的，嗯，除了我們兩人之外，安全部隊在隔天早上進行了調查，包括數名安全人員參與，然後大約一週後，稍微不到一週，哈爾特中校告訴我們，一支來自蘭利基地的團隊來了，他們在東端靠近東門的區域把整個區域封鎖起來，他們自己設置出入管制，不允許我們進入該區域。他們在那裡待了幾天，然後打包離開了。與此相關的文件記錄，現在還存在嗎？還是已經遺失或被銷毀了？我可以回答這個問題嗎？", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 3
 
 54. Yes, sir. >> Yes, the British government's file on this incident has been declassified and released under the UK Freedom of Information Act, and you should all have in front of you Colonel Halt's initial memo to the Ministry of Defence, which certainly mentions the radiation readings that were taken at the landing site by a number of people, including the disaster preparedness officer, Monroe Nevels, who did the assessment.
-→ {"text": "是的，先生。是的，英國政府關於此事件的檔案已根據英國資訊自由法解密並公開，您們面前應該都有霍爾特中校致英國國防部的最初備忘錄，其中確實提到了在著陸地點由多人測得的輻射讀數，包括災害應變官員門羅·內維爾斯進行的評估。", "confidence": "high", "notes": ""}
+→ {"text": "是的，先生。是的，英國政府關於此事件的檔案已根據英國資訊自由法解密並公開，您們面前應該都有哈爾特中校致英國國防部的最初備忘錄，其中確實提到了在著陸地點由多人測得的輻射讀數，包括災害應變官員門羅·內維爾斯進行的評估。", "confidence": "high", "notes": ""}
 
 55. You should also have in your pack a British government document, again released under the Freedom of Information Act in the UK, which is the defence intelligence staff assessment of those radiation levels that were reported to us, and you'll see that that document suggests that the readings were about seven times higher. >> One more, please. Thank you. Continue.
 → {"text": "您們的資料包中還應該有一份英國政府文件，同樣根據英國資訊自由法公開，那是國防情報人員對向我們報告的輻射水平所做的評估，您們會看到該文件顯示讀數大約高出七倍。再一個問題，請。謝謝。請繼續。", "confidence": "high", "notes": ""}
@@ -46,7 +46,7 @@
 ## Speaker Group 4
 
 56. Those who debunk the whole UFO thing, what do they do with this incident? How do they explain it away? I mean, it was real, you saw it, it was tracked on radar. How do they explain it away? >> We believe the cover-up started within 24 hours after the incident. There was an individual sat downtown and made contact with some of the local, what they call reporters and investigators that were involved in UFOs, and it was spread around that there was some kind of alien contact in the forest. Also what went on after that was there was a debunker that came forward and tried to explain it away as either Colonel Halt, who was a combat controller prior to becoming command officer, that he was either fooled by stars, planets, or the local lighthouse. >> Well, how did they explain the radar track?
-→ {"text": "那些駁斥整個不明飛行物現象的人，他們如何處理這起事件？他們如何解釋它？我是說，它是真實的，你們看到了，雷達也追蹤到了。他們如何解釋它？我們相信真相掩蓋在事件發生後 24 小時內就開始了。有個人坐在市區，與一些當地的、他們所謂的參與不明飛行物調查的記者和調查員取得聯繫，散播說森林中發生了某種外星接觸。在那之後發生的事情是，有個駁斥者站出來，試圖將其解釋為霍爾特中校（他在成為指揮官之前是戰鬥管制員）被星星、行星或當地的燈塔所愚弄。那麼，他們如何解釋雷達追蹤？", "confidence": "high", "notes": ""}
+→ {"text": "那些駁斥整個不明飛行物現象的人，他們如何處理這起事件？他們如何解釋它？我是說，它是真實的，你們看到了，雷達也追蹤到了。他們如何解釋它？我們相信真相掩蓋在事件發生後 24 小時內就開始了。有個人坐在市區，與一些當地的、他們所謂的參與不明飛行物調查的記者和調查員取得聯繫，散播說森林中發生了某種外星接觸。在那之後發生的事情是，有個駁斥者站出來，試圖將其解釋為哈爾特中校（他在成為指揮官之前是戰鬥管制員）被星星、行星或當地的燈塔所愚弄。那麼，他們如何解釋雷達追蹤？", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 5

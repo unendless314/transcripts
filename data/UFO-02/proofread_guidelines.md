@@ -128,3 +128,10 @@
 - GAO 統一「美國審計總署」；Uniting for Peace Resolution → 聯合一致促進和平決議
 - Whisper 斷句造成的跨段語意（如段落 67/68 的 for the past 37 years）：以字幕流暢為優先併入前段，notes 標註
 - 講者自述的 Whisper 誤聽採正確義直接入譯並註記：artful lawyer→liar、were observed→absurd、pie ball→pibal、osteopithecus→australopithecus、drugged→dragged、magic→Majic、McCord→McChord、Marsha→Marcia
+
+### 交接待辦：補上原文括註（2026-08-09 人工登記，由後續校稿者處理）
+- **背景**：2026-08-09 人工裁決**譯文應保留「中譯（English）」全形括註**，`configs/proofread_guidelines_template.md` 已明訂此規則；格式可參考 UFO-05 定稿
+- **git 查證結果**：經比對校稿前版本（`git show 7ccea6b:data/UFO-02/drafts/`），本集草稿於翻譯階段括註極少（全 2 檔僅 3 處），故本任務為**新增**而非還原；若對個別段落有疑慮，可用 `git log -p -- data/UFO-02/drafts/<file>` 追查該行歷史
+- **任務**：於 `data/UFO-02/drafts/` 各檔的定譯中，為重要人名／地名／專有名詞補上原文括註（例：多蘭（Richard Dolan））。僅補重要專有名詞的**首次出現**，無需重複
+- **格式**：全形括號；括註內純英文內容用半形標點；只改 `→` 行，JSON 保持單行且合法；編號行與 Speaker Group 標題不動
+- **驗證與收尾**：完成後以 `python` 逐行 `json.loads` 驗證並回報人工；若本集尚未回填，括註隨正常收尾流程生效；若已回填／匯出，是否重跑 backfill/export 由人工決定

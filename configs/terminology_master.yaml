@@ -20,7 +20,7 @@
 #   - 縮寫標註格式：中文（縮寫），如 資訊自由法（FOIA）、國家安全局（NSA）；CIA 除外，直接用 CIA
 #
 # 產生方式：PYTHONPATH=. python3 tools/build_terminology_master.py --force
-# 最後更新：2026-08-08（依 20 集 terminology.yaml 校稿後版本自動產生）
+# 最後更新：2026-08-10（依 20 集 terminology.yaml 校稿後版本自動產生）
 terms:
 - term: A Strange Harvest
   senses:
@@ -1357,17 +1357,18 @@ terms:
   senses:
   - id: penniston_airman
     definition: 美國空軍軍人，Rendlesham Forest 事件關鍵證人
-    preferred_translation: 吉姆·佩尼斯頓
+    preferred_translation: 吉姆·潘尼斯頓
     episodes:
     - UFO-20
   - id: penniston_witness
     definition: 美國空軍警察中士，倫德沙姆森林事件主要證人之一
-    preferred_translation: 吉姆·佩尼斯頓
+    preferred_translation: 吉姆·潘尼斯頓
     episodes:
     - UFO-06
   episodes:
   - UFO-06
   - UFO-20
+  notes: 廢棄譯名（校稿時發現請改正）：吉姆·佩尼斯頓、佩尼斯頓
 - term: John Burroughs
   senses:
   - id: burroughs_witness

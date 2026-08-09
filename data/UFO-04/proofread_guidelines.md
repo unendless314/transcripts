@@ -159,3 +159,9 @@
    - seg 222「as Steve calls it」依語境譯為格里爾（truth embargo 為其創用語），已加註記
    - ~~seg 389「palette」~~ **已決（2026-08-08）**：人工覆聽並比對 YouTube 字幕，確認原音確為 palette，乃證人姓名；譯文改音譯「帕萊特」，confidence 維持 medium（身分待查證），topics.json 佔位條目已移除
 7. **本次校稿異動尚未 commit**：5 個草稿、topics.json、本檔、UFO-04 terminology.yaml（Greer 主表對齊）、configs/terminology_master.yaml＋rules（Greer 收錄 167 詞）、tools/fix_transcription_errors.py（bug 修復）、UFO-03/17 詞彙表與 UFO-03 草稿（葛瑞爾→格里爾 11 處）皆為未提交修改
+8. **交接待辦：補上原文括註**（2026-08-09 人工登記，由後續校稿者處理）：
+   - 背景：2026-08-09 人工裁決**譯文應保留「中譯（English）」全形括註**，`configs/proofread_guidelines_template.md` 已明訂此規則；格式可參考 UFO-05 定稿
+   - git 查證結果：經比對校稿前版本（`git show 7ccea6b:data/UFO-04/drafts/`），本集草稿於翻譯階段本無括註（全 5 檔皆 0），故本任務為**新增**而非還原；若對個別段落有疑慮，可用 `git log -p -- data/UFO-04/drafts/<file>` 追查該行歷史
+   - 任務：於 `data/UFO-04/drafts/` 各檔的定譯中，為重要人名／地名／專有名詞補上原文括註（例：史蒂芬·格里爾博士（Dr. Steven Greer））。僅補重要專有名詞的**首次出現**，無需重複
+   - 格式：全形括號；括註內純英文內容用半形標點；只改 `→` 行，JSON 保持單行且合法；編號行與 Speaker Group 標題不動
+   - 驗證與收尾：完成後以 `python` 逐行 `json.loads` 驗證並回報人工；本集收尾尚未執行，括註可隨正常收尾流程生效；若屆時已回填／匯出，是否重跑 backfill/export 由人工決定

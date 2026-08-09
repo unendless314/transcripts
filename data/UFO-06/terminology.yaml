@@ -79,7 +79,7 @@ terms:
     senses:
       - id: penniston_witness
         definition: 美國空軍警察中士，倫德沙姆森林事件主要證人之一
-        preferred_translation: 吉姆·佩尼斯頓
+        preferred_translation: 吉姆·潘尼斯頓
         segments: []
         notes: 近距離接觸飛行器並觸摸其表面的證人，保留了原始警察筆記本
 
@@ -396,7 +396,7 @@ terms:
     senses:
       - id: penniston_notebook_evidence
         definition: Jim Penniston的空軍警察筆記本，記錄事件當時的原始筆記與草圖
-        preferred_translation: 吉姆·佩尼斯頓的警察筆記本
+        preferred_translation: 吉姆·潘尼斯頓的警察筆記本
         segments: [11]
         notes: 關鍵物證，包含飛行器草圖、符號記錄和二進位代碼
 

@@ -37,7 +37,7 @@ terms:
   senses:
   - id: bentwaters_incident
     definition: Rendlesham Forest incident 的另一稱呼，以基地名稱命名
-    preferred_translation: 班特沃特斯事件
+    preferred_translation: 本特沃特斯事件
     segments:
     - 11
     notes: 與 Rendlesham Forest incident 為同一事件的不同名稱
@@ -283,7 +283,7 @@ terms:
     segments:
     - 26
     - 27
-    notes: 第一夜事件的核心證人，曾觸摸不明飛行器並拍照記錄
+    notes: 第一夜事件的核心證人，曾觸摸不明飛行器並拍照記錄；原文作 Jim Penniston 時譯「吉姆·潘尼斯頓」（2026-08-09 人工裁決，網路流通優先）
 - term: John Burroughs
   senses:
   - id: burroughs_witness
@@ -308,7 +308,7 @@ terms:
   senses:
   - id: halt_officer
     definition: 美國空軍中校，RAF Bentwaters 副基地指揮官
-    preferred_translation: 查爾斯·霍爾特中校
+    preferred_translation: 查爾斯·哈爾特中校
     segments:
     - 11
     notes: 第三夜事件的主要證人，錄製了著名的 17 分鐘現場錄音
@@ -535,7 +535,7 @@ terms:
   senses:
   - id: mccain_senator
     definition: 美國參議員（亞利桑那州）
-    preferred_translation: 約翰·馬侃參議員
+    preferred_translation: 約翰·麥凱恩參議員
     segments:
     - 92
     - 93

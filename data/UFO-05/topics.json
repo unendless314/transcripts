@@ -79,7 +79,20 @@
         "Freedom of Information Act",
         "Veterans Administration"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 34,
+          "error_text": "Kubancik",
+          "suggested_correction": "Kabancik",
+          "reasoning": "Airman Ed Kabancik's name was introduced correctly in segment 28; 'Kubancik' is a spelling variant/error for the same person."
+        },
+        {
+          "segment_id": 43,
+          "error_text": "Mr. Pennington",
+          "suggested_correction": "Mr. Penniston",
+          "reasoning": "The witness being called to testify is James Penniston, introduced in segment 26. 'Pennington' is a phonetic transcription error."
+        }
+      ]
     },
     {
       "topic_id": "topic_04",
@@ -166,6 +179,30 @@
           "error_text": "rendition case",
           "suggested_correction": "Rendlesham case",
           "reasoning": "The context is clearly about the Rendlesham Forest incident. 'Rendition' is a similar-sounding but incorrect word."
+        },
+        {
+          "segment_id": 91,
+          "error_text": "Mr. Frisco",
+          "suggested_correction": "Mr. Frescona",
+          "reasoning": "The attorney introduced himself as Patrick Frescona in segment 25. 'Frisco' is a phonetic transcription error."
+        },
+        {
+          "segment_id": 94,
+          "error_text": "Senator Kyle",
+          "suggested_correction": "Senator Kyl",
+          "reasoning": "The senator is Jon Kyl (K-Y-L), as established in segment 91. 'Kyle' is a spelling error."
+        },
+        {
+          "segment_id": 96,
+          "error_text": "Mr. Penness",
+          "suggested_correction": "Mr. Penniston",
+          "reasoning": "The witness being addressed is James Penniston. 'Penness' is a phonetic transcription error."
+        },
+        {
+          "segment_id": 100,
+          "error_text": "those boroughs",
+          "suggested_correction": "that Burroughs",
+          "reasoning": "The context refers to witness John Burroughs. 'boroughs' is a phonetic transcription error for Burroughs."
         }
       ]
     },
@@ -186,7 +223,26 @@
         "personal reliability program",
         "PRP"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 119,
+          "error_text": "Mr. Friscona",
+          "suggested_correction": "Mr. Frescona",
+          "reasoning": "The attorney introduced himself as Patrick Frescona in segment 25. 'Friscona' is a spelling variant/transcription error."
+        },
+        {
+          "segment_id": 145,
+          "error_text": "Nassau",
+          "suggested_correction": "NASA",
+          "reasoning": "The witness expected a manufacturer marking on the craft (USAF or NASA). 'Nassau' makes no sense in this context and is a mishearing of NASA."
+        },
+        {
+          "segment_id": 171,
+          "error_text": "Charles Holt",
+          "suggested_correction": "Charles Halt",
+          "reasoning": "The deputy base commander is Charles Halt, author of the Halt Memo. 'Holt' is a recurring transcription error (also occurred in segment 11)."
+        }
+      ]
     },
     {
       "topic_id": "topic_07",
@@ -224,6 +280,48 @@
           "error_text": "Glomar Challenger",
           "suggested_correction": "Glomar Explorer",
           "reasoning": "The 'Glomar response' legal precedent originates from the CIA's use of the ship Hughes Glomar Explorer, not the Challenger."
+        },
+        {
+          "segment_id": 219,
+          "error_text": "the very first siding",
+          "suggested_correction": "the very first sighting",
+          "reasoning": "Context is about the first sighting of the lights. 'siding' is a phonetic error for 'sighting'."
+        },
+        {
+          "segment_id": 219,
+          "error_text": "Stephens",
+          "suggested_correction": "Steffens",
+          "reasoning": "The witness is Staff Sergeant Bud Steffens, introduced in segment 27. Whisper repeatedly transcribes the name as 'Stephens' in segments 219-228; replace all occurrences."
+        },
+        {
+          "segment_id": 220,
+          "error_text": "going on in the force",
+          "suggested_correction": "going on in the forest",
+          "reasoning": "The patrol observed lights in Rendlesham Forest. 'force' is a mishearing of 'forest'."
+        },
+        {
+          "segment_id": 234,
+          "error_text": "Senator Cowell",
+          "suggested_correction": "Senator Kyl",
+          "reasoning": "The senator handling Burroughs' case is Jon Kyl, established in segment 91. 'Cowell' is a phonetic transcription error."
+        },
+        {
+          "segment_id": 237,
+          "error_text": "an identified flying object",
+          "suggested_correction": "an unidentified flying object",
+          "reasoning": "The context clearly refers to an unidentified flying object (UFO); 'identified' is missing the prefix un-."
+        },
+        {
+          "segment_id": 243,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "The officer is Charles Halt. 'Hall' is a phonetic transcription error (occurs in segments 243 and 312); replace all occurrences."
+        },
+        {
+          "segment_id": 280,
+          "error_text": "Colonel Holt",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "The officer is Charles Halt. 'Holt' is a recurring transcription error (segments 280 and 315); replace all occurrences."
         }
       ]
     }

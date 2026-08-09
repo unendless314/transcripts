@@ -10,16 +10,19 @@
 
 校稿時可參考的文件，衝突時依下列優先序裁決：
 
-1. `configs/terminology_master.yaml` — 跨集術語主表（**最終基準**，人名譯名先查這裡）
-2. `configs/terminology_master_rules.yaml` — 主表編輯規則（ deprecated 形式、情境例外）
-3. `data/<episode>/terminology.yaml` — 本集術語表
-4. `data/<episode>/topics.json` — 各 topic 摘要與 `potential_errors`（轉錄錯誤紀錄）
-5. 本檔與 `data/<episode>/proofread_guidelines.md`
+1. **網路流通慣用譯名** — 人名／地名／專有名詞先查網路流通譯名（維基百科 zh-tw、主流媒體等）；有流通者從流通譯法
+2. `configs/terminology_master.yaml` — 跨集術語主表（預設參考；網路無流通資訊時以主表確保跨集一致性）
+3. `configs/terminology_master_rules.yaml` — 主表編輯規則（ deprecated 形式、情境例外）
+4. `data/<episode>/terminology.yaml` — 本集術語表
+5. `data/<episode>/topics.json` — 各 topic 摘要與 `potential_errors`（轉錄錯誤紀錄）
+6. 本檔與 `data/<episode>/proofread_guidelines.md`
+
+⚠️ **主表並非絕對權威**：主表由各集詞彙表自動彙整生成，部分集數詞彙表未經校稿，詞條可能與網路流通慣用不合（實例：2026-08 UFO-05 校稿發現主表 Jim Penniston 譯「吉姆·佩尼斯頓」，網路流通實為「潘尼斯頓」，經人工裁決修正）。發現主表與網路流通衝突時，**不得盲從主表，也不得逕自改用其他譯名**，應暫停回報人工裁決；裁決後回寫 `terminology_master_rules.yaml` 與相關各集詞彙表，並以 `build_terminology_master.py --force` 重建主表。
 
 ## 二、術語與專有名詞原則
 
 ### 1. 人名：全部統一中譯
-- 主表已收錄者從主表；未收錄者用台灣標準音譯
+- 譯名先查網路流通慣用（見第一節優先序）；主表已收錄且與流通一致者從主表；網路無流通者用台灣標準音譯
 - 同句重複出現時，第二次可簡稱姓氏
 - 全名與簡稱形式（例：多蘭先生/多蘭）須跨 topic 保持一致
 - 注意中譯同音歧義：如「喬治說」聽感近似「教智說」，必要時改用姓氏或調整句式
@@ -64,7 +67,8 @@
 - **數字千分位用半形逗號**：`4,000`、`10,000`、`1,000 萬`
   - 歷史背景：`fix_chinese_punctuation.py` 舊版會把數字內半形逗號轉成全形（「4，000」），已於 2026-08-07 修正工具並清理全專案既有污染；校稿時仍可用 `\d，\d` 模式抽查確認
 - 中文譯文用中文標點（，。：「」）；引號用「」『』
-- 括號原文註釋用半形括號（既有格式，例：藍皮書計畫 (Project Blue Book)），保留不動
+- **保留全形括註「中譯（English）」**（2026-08-09 人工裁決）：草稿中人名／地名／專有名詞的原文括註**不得刪除**，校稿僅可修正括註內的錯字或標點；重要專有名詞首次出現若無括註可補上。括註內若為純英文內容，其標點用半形（例：（Ramstein, Germany））
+- 既有半形括號的原文註釋（例：藍皮書計畫 (Project Blue Book)）保留原樣，無需強改全形
 - 中英混排空格慣例：UFO 前後空格、數字與中文之間空格
 - 討論外文發音的段落（如姓氏發音）可保留原文並括註中譯
 
@@ -87,6 +91,7 @@
 
 1. 閱讀順序：本集 `proofread_guidelines.md` → `terminology.yaml` → `topics.json` → 前一個 topic 的定譯（保持一致）
 2. 大檔（>50KB）分段讀取、分段審訂
+   - 有疑慮時可比對 git 歷史：本專案全程以 git 追蹤，校稿前的草稿版本可用 `git log -p -- data/<episode>/drafts/<file>` 或 `git show <commit>:<path>` 查閱；需要還原被改動的內容（如括註、譯名）時，以 git 歷史為準，勿憑記憶補寫
 3. 每修完一檔立即驗證：
    - 全部 `→` 行 JSON 合法（可用 python 逐行 `json.loads`）
    - Grep 掃殘留：`\d，\d`（千分位污染）、原文人名、`網絡|絕密|核子物理|通過`
