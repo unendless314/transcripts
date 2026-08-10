@@ -27,7 +27,31 @@
           "segment_id": 13,
           "error_text": "Mr. Pendleton",
           "suggested_correction": "Mr. Penniston",
-          "reasoning": "The witness's name is consistently referred to as Penniston throughout the hearing. 'Pendleton' is a transcription error."
+          "reasoning": "The witness's name is consistently referred to as Penniston throughout the hearing. 'Pendleton' is a transcription error. (Note: main.yaml seg 13 already corrected pre-translation; actual residual occurrence is seg 63, see below.)"
+        },
+        {
+          "segment_id": 63,
+          "error_text": "Mr. Pendleton",
+          "suggested_correction": "Mr. Penniston",
+          "reasoning": "Same 'Pendleton' transcription error; residual occurrence confirmed in main.yaml seg 63. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 5,
+          "error_text": "USAAF",
+          "suggested_correction": "USAFE",
+          "reasoning": "Context is the General's headquarters at Ramstein, which is USAFE (United States Air Forces in Europe) HQ. USAAF ceased to exist in 1947. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 11,
+          "error_text": "Jim Peniston's",
+          "suggested_correction": "Jim Penniston's",
+          "reasoning": "Misspelling of the witness's name Penniston. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 30,
+          "error_text": "for prosperity",
+          "suggested_correction": "for posterity",
+          "reasoning": "The idiom is 'for posterity' (for future generations); 'prosperity' is a homophone transcription error. (2026-08-10 proofreading)"
         }
       ]
     },
@@ -70,13 +94,25 @@
           "segment_id": 177,
           "error_text": "Sergeant Pennison",
           "suggested_correction": "Sergeant Penniston",
-          "reasoning": "Consistent with the correct spelling of the witness's name used elsewhere."
+          "reasoning": "Consistent with the correct spelling of the witness's name used elsewhere. (Note: main.yaml seg 177 already corrected; residual occurrence is seg 368 in topic_05.)"
         },
         {
           "segment_id": 235,
           "error_text": "sodium penethol",
           "suggested_correction": "sodium pentothal",
-          "reasoning": "This is a common misspelling of the drug used as a 'truth serum'."
+          "reasoning": "This is a common misspelling of the drug used as a 'truth serum'. (Note: main.yaml already corrected pre-translation; will be skipped at wrap-up.)"
+        },
+        {
+          "segment_id": 166,
+          "error_text": "cordoned the force off",
+          "suggested_correction": "cordoned the forest off",
+          "reasoning": "Context is cordoning off Rendlesham Forest; 'force' is a mishearing of 'forest'. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 204,
+          "error_text": "Charles Holt",
+          "suggested_correction": "Charles Halt",
+          "reasoning": "The deputy base commander is Charles Halt; 'Holt' is a recurring Whisper mishearing. (2026-08-10 proofreading)"
         }
       ]
     },
@@ -166,6 +202,36 @@
           "error_text": "Mr. Frasconga",
           "suggested_correction": "Mr. Frascogna",
           "reasoning": "The attorney for the witnesses is Pat Frascogna. 'Frasconga' is a likely transcription error."
+        },
+        {
+          "segment_id": 368,
+          "error_text": "Sergeant Pennison",
+          "suggested_correction": "Sergeant Penniston",
+          "reasoning": "Recurring misspelling of the witness's name; residual occurrence confirmed in main.yaml seg 368. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 409,
+          "error_text": "deceiving the copyright",
+          "suggested_correction": "deceiving the public",
+          "reasoning": "Context is deceiving the public; 'copyright' is a mishearing. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 422,
+          "error_text": "top-seeker plans",
+          "suggested_correction": "top-secret plans",
+          "reasoning": "Military planning context; 'top-seeker' is a mishearing of 'top-secret'. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 466,
+          "error_text": "Mr. Polk",
+          "suggested_correction": "Mr. Pope",
+          "reasoning": "The only 'Mr. P' on the panel is Nick Pope; 'Polk' is a mishearing. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 479,
+          "error_text": "talk mono-amano",
+          "suggested_correction": "talk man to man",
+          "reasoning": "Context is frank talk; 'mono-amano' is a garbled mishearing of 'man to man'. (2026-08-10 proofreading)"
         }
       ]
     },
@@ -193,31 +259,121 @@
           "segment_id": 690,
           "error_text": "Governor Simonton",
           "suggested_correction": "Governor Symington",
-          "reasoning": "Refers to Fife Symington, former governor of Arizona and a famous witness to the Phoenix Lights, who has spoken on this topic with Penniston."
+          "reasoning": "Refers to Fife Symington, former governor of Arizona and a famous witness to the Phoenix Lights, who has spoken on this topic with Penniston. (Note: main.yaml already corrected pre-translation; will be skipped at wrap-up.)"
         },
         {
           "segment_id": 718,
           "error_text": "Sergeant Paniston's medical records",
           "suggested_correction": "Sergeant Penniston's medical records",
-          "reasoning": "A misspelling of the witness's name."
+          "reasoning": "A misspelling of the witness's name. (Note: main.yaml already corrected pre-translation; will be skipped at wrap-up.)"
         },
         {
           "segment_id": 732,
           "error_text": "Rheinstein, Germany",
           "suggested_correction": "Ramstein, Germany",
-          "reasoning": "The location of USAFE headquarters is Ramstein Air Base. 'Rheinstein' is incorrect."
+          "reasoning": "The location of USAFE headquarters is Ramstein Air Base. 'Rheinstein' is incorrect. (Note: main.yaml already corrected pre-translation; will be skipped at wrap-up.)"
         },
         {
           "segment_id": 865,
           "error_text": "U-Safie area",
           "suggested_correction": "USAFE area",
-          "reasoning": "USAFE is the acronym for United States Air Forces in Europe."
+          "reasoning": "USAFE is the acronym for United States Air Forces in Europe. (Note: main.yaml already corrected pre-translation; will be skipped at wrap-up.)"
         },
         {
           "segment_id": 868,
           "error_text": "General Basely",
           "suggested_correction": "General Bazley",
-          "reasoning": "The Third Air Force commander at the time was General Robert Bazley."
+          "reasoning": "The Third Air Force commander at the time was General Robert Bazley. (Residual also at seg 873, see added record.)"
+        },
+        {
+          "segment_id": 873,
+          "error_text": "General Basely",
+          "suggested_correction": "General Bazley",
+          "reasoning": "Second occurrence of the Basely/Bazley mishearing. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 708,
+          "error_text": "Sergeant Pennington",
+          "suggested_correction": "Sergeant Penniston",
+          "reasoning": "Recurring misspelling of the witness's name. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 754,
+          "error_text": "Sergeant Peniston",
+          "suggested_correction": "Sergeant Penniston",
+          "reasoning": "Recurring misspelling of the witness's name. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 888,
+          "error_text": "Carlson Bartlett",
+          "suggested_correction": "Congressman Bartlett",
+          "reasoning": "Context is Roscoe Bartlett, panel congressman; 'Carlson' is a mishearing of 'Congressman'. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 652,
+          "error_text": "the DLD",
+          "suggested_correction": "the DOD",
+          "reasoning": "Context is the Department of Defense; 'DLD' is a mishearing. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 608,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt; occurs at seg 608, 826, 834, 841, 845, 854, 856, 870, 873, 877 (only seg 608 record needed; tool matches by segment). (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 826,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 834,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 841,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 845,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 854,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 856,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 870,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 873,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 877,
+          "error_text": "Colonel Hall",
+          "suggested_correction": "Colonel Halt",
+          "reasoning": "Recurring Whisper mishearing of Charles Halt. (2026-08-10 proofreading)"
         }
       ]
     },
@@ -236,7 +392,20 @@
         "Phoenix Light",
         "War of the Worlds"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 897,
+          "error_text": "medical activity",
+          "suggested_correction": "sexual activity",
+          "reasoning": "The paper discussed physiological effects of coitus; 'medical activity' is a mishearing of 'sexual activity'. (2026-08-10 proofreading)"
+        },
+        {
+          "segment_id": 908,
+          "error_text": "Councilwoman Wolsey",
+          "suggested_correction": "Congresswoman Woolsey",
+          "reasoning": "The chair calls on former Congresswoman Lynn Woolsey; both title and spelling misheard. (2026-08-10 proofreading)"
+        }
+      ]
     }
   ],
   "episode_id": "UFO-06"

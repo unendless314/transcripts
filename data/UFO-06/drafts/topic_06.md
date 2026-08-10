@@ -34,7 +34,7 @@
 → {"text": "有一位平民，他已經公開作證了。", "confidence": "high", "notes": ""}
 
 553. His name is Jerry Harris.
-→ {"text": "他的名字是 Jerry Harris。", "confidence": "high", "notes": ""}
+→ {"text": "他的名字是傑瑞·哈里斯。", "confidence": "high", "notes": ""}
 
 554. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -55,7 +55,7 @@
 → {"text": "他說：「然後我看到所有這些活動。」", "confidence": "high", "notes": ""}
 
 560. I think they were talking about the third night with John, I'm not sure.
-→ {"text": "我想他們談論的是跟 John 一起經歷的第三晚，我不確定。", "confidence": "high", "notes": ""}
+→ {"text": "我想他們談論的是跟約翰一起經歷的第三晚，我不確定。", "confidence": "high", "notes": ""}
 
 561. And he says, "It was all unusual stuff," he says.
 → {"text": "他說：「那些都是不尋常的東西。」他說。", "confidence": "high", "notes": ""}
@@ -199,7 +199,7 @@
 → {"text": "好的，女士，有趣的是這三個晚上發生的事，只有五份陳述浮出水面。", "confidence": "high", "notes": ""}
 
 608. The first night there were three of us in one out there, the second night you had the shift commander and the on-duty flight chief, on the third night Colonel Hall took a team out there and there was also other personnel in the woods and different people saw different things, so that's one of the reasons why we come forward besides our health issues is I feel it's necessary that anyone that was even out in that area should have the opportunity to be checked out medically and be told what they were exposed to, especially something that's over 30 years old.
-→ {"text": "第一晚我們有三個人在那裡，第二晚有輪班指揮官和值班飛行長，第三晚 Colonel Hall 帶了一支隊伍去那裡，還有其他人員在樹林裡，不同的人看到不同的東西，所以這就是我們挺身而出的原因之一，除了我們的健康問題之外，我覺得任何曾經在那個區域的人都應該有機會接受醫療檢查，並被告知他們接觸了什麼，尤其是超過 30 年的事情。", "confidence": "high", "notes": "Colonel Hall 即 Halt 上校"}
+→ {"text": "第一晚我們有三個人在那裡，第二晚有輪班指揮官和值班飛行長，第三晚哈爾特上校帶了一支隊伍去那裡，還有其他人員在樹林裡，不同的人看到不同的東西，所以這就是我們挺身而出的原因之一，除了我們的健康問題之外，我覺得任何曾經在那個區域的人都應該有機會接受醫療檢查，並被告知他們接觸了什麼，尤其是超過 30 年的事情。", "confidence": "high", "notes": "原文 Colonel Hall 應為 Colonel Halt（哈爾特上校），Whisper 反覆誤轉，譯文逕採正確拼寫"}
 
 609. That's one of the questions he asked me first up, he goes, what the heck was going on out there that would draw this much attention from the agencies involved to this day?
 → {"text": "這是他最先問我的問題之一，他說，那裡到底發生了什麼事，會引來相關機構到今天還如此關注？", "confidence": "high", "notes": ""}
@@ -211,10 +211,10 @@
 → {"text": "我們在那個時期開發的幾乎所有我們知道的武器都已經曝光了，然而今天這仍然是機密，我們甚至無法為此接受醫療治療。", "confidence": "high", "notes": "Classified 根據 terminology.yaml 翻譯為「機密」"}
 
 612. Should we tell them about what happened with OSI?
-→ {"text": "我們應該告訴他們特別調查處發生的事嗎？", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「特別調查處」"}
+→ {"text": "我們應該告訴他們空軍特別調查辦公室發生的事嗎？", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「空軍特別調查辦公室」"}
 
 613. Oh, yes, one other thing that happened that when we sent our FOIA request, OSI blew their time limit and after we made certain announcements, yes, they blew it by ear, but our attorney can go into detail the contact we had in a make-up form they asked us to sign implying that we could be perjuring ourselves.
-→ {"text": "噢，是的，還有一件事發生了，當我們提交《資訊自由法》申請時，特別調查處違反了他們的時限，而在我們發表某些聲明之後，是的，他們嚴重違反了，但我們的律師可以詳細說明我們收到的接觸，他們要求我們簽署一份捏造的表格，暗示我們可能在作偽證。", "confidence": "high", "notes": "FOIA request 根據 terminology.yaml 翻譯為《資訊自由法》申請；OSI 翻譯為「特別調查處」"}
+→ {"text": "噢，是的，還有一件事發生了，當我們提交《資訊自由法》申請時，空軍特別調查辦公室違反了他們的時限，而在我們發表某些聲明之後，是的，他們嚴重違反了，但我們的律師可以詳細說明我們收到的接觸，他們要求我們簽署一份捏造的表格，暗示我們可能在作偽證。", "confidence": "high", "notes": "FOIA request 根據 terminology.yaml 翻譯為《資訊自由法》申請；OSI 翻譯為「空軍特別調查辦公室」"}
 
 614. So they're trying to throw intimidation 32 years later?
 → {"text": "所以他們在 32 年後試圖恐嚇你們？", "confidence": "high", "notes": ""}
@@ -292,7 +292,7 @@
 → {"text": "這是過程中的一步，而這還沒結束。", "confidence": "high", "notes": ""}
 
 639. This is not over for John and I.
-→ {"text": "對 John 和我來說，這還沒結束。", "confidence": "high", "notes": ""}
+→ {"text": "對約翰和我來說，這還沒結束。", "confidence": "high", "notes": ""}
 
 640. I mean, we're going to continue to do that.
 → {"text": "我是說，我們會繼續這樣做。", "confidence": "high", "notes": ""}
@@ -331,7 +331,7 @@
 → {"text": "我不認為⋯⋯我認為這樣⋯⋯讓我改變一下我對這件事的想法。", "confidence": "high", "notes": ""}
 
 652. If you look at the-- take a look at the Bentwaters incident, the Reynolds and Forest incident, not as a UFO incident, but as an incident that is going to cause, apparently, the DLD and other federal agencies grief if any of that information got out.
-→ {"text": "如果你看看⋯⋯看看本特沃特斯事件、倫德沙姆森林事件，不是作為不明飛行物事件，而是作為一個顯然會給國防部和其他聯邦機構帶來麻煩的事件，如果任何資訊洩露出去的話。", "confidence": "high", "notes": "Bentwaters 即 RAF Bentwaters；DLD 應為 DOD（國防部）的誤聽"}
+→ {"text": "如果你看看⋯⋯看看本特沃特斯事件、藍道申森林事件，不是作為不明飛行物事件，而是作為一個顯然會給國防部和其他聯邦機構帶來麻煩的事件，如果任何資訊洩露出去的話。", "confidence": "high", "notes": "Bentwaters 即 RAF Bentwaters；DLD 應為 DOD（國防部）的誤聽"}
 
 653. Why is there so much grief involved for them?
 → {"text": "為什麼對他們來說涉及這麼多麻煩？", "confidence": "high", "notes": ""}
@@ -475,10 +475,10 @@
 → {"text": "我要跟你們分享一段有趣的對話。", "confidence": "high", "notes": ""}
 
 690. We were coming back from a Larry King show in 2007, and Governor Symington was in there, and he was, I guess, friends with President Clinton, or still is, or some kind of situation with their friends.
-→ {"text": "我們在 2007 年從 Larry King 的節目回來，賽明頓州長在那裡，我想他跟柯林頓總統是朋友，或者仍然是，或者他們有某種朋友關係。", "confidence": "high", "notes": "原文錯誤：Governor Simonton 應為 Governor Symington（賽明頓州長，亞利桑那州前州長，鳳凰城光點事件目擊者）；President Clinton 根據 terminology.yaml 翻譯為「柯林頓總統」"}
+→ {"text": "我們在 2007 年從賴瑞金（Larry King）的節目回來，費伏·森明頓州長在那裡，我想他跟柯林頓總統是朋友，或者仍然是，或者他們有某種朋友關係。", "confidence": "high", "notes": "原文 Governor Simonton 應為 Governor Symington（費伏·森明頓州長，亞利桑那州前州長，鳳凰城光點事件目擊者），Whisper 誤轉，譯文逕採正確拼寫；President Clinton 根據 terminology.yaml 翻譯為「柯林頓總統」"}
 
 691. So we got done with the show, and then the president had called Fife and was talking to him, and of course he's on speaker, but he didn't know.
-→ {"text": "所以我們錄完節目，然後總統打電話給 Fife 跟他說話，當然是開擴音，但他不知道。", "confidence": "high", "notes": "Fife 即 Fife Symington（賽明頓州長）"}
+→ {"text": "所以我們錄完節目，然後總統打電話給森明頓跟他說話，當然是開擴音，但他不知道。", "confidence": "high", "notes": "Fife 即 Fife Symington（費伏·森明頓州長）"}
 
 692. He brought the conversation about the two questions that he asked when he was president.
 → {"text": "他提起當他當總統時問過的兩個問題。", "confidence": "high", "notes": ""}
@@ -553,7 +553,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 708. One thing you said, Sergeant Pennington, in that last-- and the more you talk, the more information we get by the way.
-→ {"text": "你說的一件事，Penniston 中士，在剛才⋯⋯順帶一提，你說得越多，我們得到的資訊就越多。", "confidence": "high", "notes": "原文錯誤：Sergeant Pennington 應為 Sergeant Penniston"}
+→ {"text": "你說的一件事，潘尼斯頓中士，在剛才⋯⋯順帶一提，你說得越多，我們得到的資訊就越多。", "confidence": "high", "notes": "原文 Sergeant Pennington 應為 Sergeant Penniston（潘尼斯頓），Whisper 誤轉，譯文逕採正確拼寫"}
 
 709. But you did say something, if you take UFOs out of it, that is the issue, UFOs out of it.
 → {"text": "但你確實說了一件事，如果你把不明飛行物拿掉，那就是問題所在，把不明飛行物拿掉。", "confidence": "high", "notes": ""}
@@ -568,7 +568,7 @@
 → {"text": "下一位。", "confidence": "high", "notes": ""}
 
 713. Congressman Cook.
-→ {"text": "Cook 眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "庫克眾議員。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 34
@@ -586,13 +586,13 @@
 → {"text": "我想你們已經有三位非常強勢的美國參議員在跟退伍軍人事務部抗爭了。", "confidence": "high", "notes": "Veterans Administration 根據 terminology.yaml 翻譯為「退伍軍人事務部」"}
 
 718. I think it's time to ask President Obama himself in the letter, maybe we'll initially send it to Veterans with a copy to him, and then we'll send it to the President, I hope, or something, to ask for something very simple here, something that may not sound very dramatic to anybody, and that's Sergeant Burroughs and Sergeant Penniston's medical records, because I submit, if we see in those white gums, if we see in those heart problems at a young age of a recent Air Force person that served in England, if we find some of the other, and I can't remember, I wrote them all down, and I may have to talk to you again to get this letter, but I submit that if we find those kinds of evidences, and what there's no legal reason, I've even chatted with an attorney during the break to withhold a medical record, and I'm sure your attorneys probably would confirm what my attorney just told me.
-→ {"text": "我認為是時候在信中請歐巴馬總統本人，也許我們一開始會寄給退伍軍人事務部並副本給他，然後我們會寄給總統，我希望，或者類似的，在這裡要求一件非常簡單的事，一件對任何人來說可能聽起來都不太戲劇性的事，那就是巴勒斯中士和佩尼斯頓中士的醫療紀錄，因為我認為，如果我們在那些白色牙齦中看到，如果我們看到那些在英國服役的年輕空軍人員的心臟問題，如果我們發現其他一些，我記不得了，我把它們都寫下來了，我可能得再跟你談談才能寫這封信，但我認為如果我們發現那些證據，而且沒有法律理由，我甚至在休息時跟一位律師聊過關於隱瞞醫療紀錄的事，我確信你們的律師可能會證實我的律師剛才告訴我的話。", "confidence": "high", "notes": "原文錯誤：Sergeant Paniston 應為 Sergeant Penniston（佩尼斯頓中士）；Veterans Administration 根據 terminology.yaml 翻譯為「退伍軍人事務部」"}
+→ {"text": "我認為是時候在信中請歐巴馬總統本人，也許我們一開始會寄給退伍軍人事務部並副本給他，然後我們會寄給總統，我希望，或者類似的，在這裡要求一件非常簡單的事，一件對任何人來說可能聽起來都不太戲劇性的事，那就是巴勒斯中士和潘尼斯頓中士的醫療紀錄，因為我認為，如果我們在那些白色牙齦中看到，如果我們看到那些在英國服役的年輕空軍人員的心臟問題，如果我們發現其他一些，我記不得了，我把它們都寫下來了，我可能得再跟你談談才能寫這封信，但我認為如果我們發現那些證據，而且沒有法律理由，我甚至在休息時跟一位律師聊過關於隱瞞醫療紀錄的事，我確信你們的律師可能會證實我的律師剛才告訴我的話。", "confidence": "high", "notes": "原文 Sergeant Paniston 應為 Sergeant Penniston（潘尼斯頓中士），Whisper 誤轉，譯文逕採正確拼寫；Veterans Administration 根據 terminology.yaml 翻譯為「退伍軍人事務部」"}
 
 719. I think this could be the start of that brick taking down process at least, so we'll know.
 → {"text": "我認為這至少可以是那個拆除過程的開始，這樣我們就會知道。", "confidence": "high", "notes": ""}
 
 720. Now getting back to the incident, Bentwaters and Woodbridge, and I'd like to first focus this on Nick Pope.
-→ {"text": "現在回到事件本身，本特沃特斯和伍德布里奇，我想首先把焦點放在 Nick Pope 身上。", "confidence": "high", "notes": "Bentwaters 即 RAF Bentwaters；Woodbridge 即 RAF Woodbridge"}
+→ {"text": "現在回到事件本身，本特沃特斯和伍德布里奇，我想首先把焦點放在尼克·波普身上。", "confidence": "high", "notes": "Bentwaters 即 RAF Bentwaters；Woodbridge 即 RAF Woodbridge"}
 
 721. Now they're in Suffolk County, excuse my lack of geography of your country, but Ipswich, is that close?
 → {"text": "現在它們在薩福克郡，抱歉我對你們國家的地理不熟，但伊普斯威奇，那很近嗎？", "confidence": "high", "notes": ""}
@@ -619,16 +619,16 @@
 → {"text": "是的，先生。", "confidence": "high", "notes": ""}
 
 729. Okay, now this can explain maybe General Gabriel coming in there and just taking charge and upsetting the Minister of Defense at the time.
-→ {"text": "好的，現在這也許可以解釋加百列將軍進來並接管，讓當時的國防部長不高興。", "confidence": "high", "notes": "General Gabriel 根據 terminology.yaml 翻譯為「加百列將軍」；Minister of Defense 即 Ministry of Defence"}
+→ {"text": "好的，現在這也許可以解釋蓋博將軍進來並接管，讓當時的英國國防部長不高興。", "confidence": "high", "notes": "General Gabriel 依定譯為「蓋博將軍」；Minister of Defense 指英國國防部長"}
 
 730. Again, yes, sir.
 → {"text": "是的，先生。", "confidence": "high", "notes": ""}
 
 731. Because I'm going to ask Nick Pope this question directly.
-→ {"text": "因為我要直接問 Nick Pope 這個問題。", "confidence": "high", "notes": ""}
+→ {"text": "因為我要直接問尼克·波普這個問題。", "confidence": "high", "notes": ""}
 
 732. If Gabriel hadn't been taking evidence the way it's outlined in your statement at the time, and taking it back to what Ramstein, Germany, or whatever it was, you said the Minister of Defense was upset.
-→ {"text": "如果加百列沒有像你當時陳述中概述的那樣收集證據，並將其帶回德國拉姆施泰因，或不管是哪裡，你說國防部長很不高興。", "confidence": "high", "notes": "原文錯誤：Rheinstein 應為 Ramstein（拉姆施泰因空軍基地）；Ramstein 根據 terminology.yaml 翻譯為「拉姆施泰因空軍基地」"}
+→ {"text": "如果蓋博沒有像你當時陳述中概述的那樣收集證據，並將其帶回德國拉姆施泰因，或不管是哪裡，你說國防部長很不高興。", "confidence": "high", "notes": "原文錯誤：Rheinstein 應為 Ramstein（拉姆施泰因空軍基地）；Ramstein 根據 terminology.yaml 翻譯為「拉姆施泰因空軍基地」"}
 
 733. This was in the early stages of the Thatcher, the Iron Lady.
 → {"text": "這是在柴契爾夫人、鐵娘子的早期階段。", "confidence": "high", "notes": ""}
@@ -655,7 +655,7 @@
 → {"text": "因為顯然已經有很多關於輻射的證據，某種奇怪的東西必須立即被制止並立即被掩蓋。", "confidence": "high", "notes": ""}
 
 741. Doesn't necessarily mean UFO, as Mr. Penniston has absolutely told us.
-→ {"text": "這不一定意味著不明飛行物，正如 Penniston 先生明確告訴我們的。", "confidence": "high", "notes": ""}
+→ {"text": "這不一定意味著不明飛行物，正如潘尼斯頓先生明確告訴我們的。", "confidence": "high", "notes": ""}
 
 742. But give us just a little more detail, so that we can get a sense of why so quickly?
 → {"text": "但請給我們多一點細節，這樣我們就能了解為什麼這麼快？", "confidence": "high", "notes": ""}
@@ -673,7 +673,7 @@
 → {"text": "首先，如果我在這一點上無意中誤導了任何人，我道歉。", "confidence": "high", "notes": ""}
 
 747. I meant to say that the Ministry of Defense was corporately upset about this, not the minister, personally.
-→ {"text": "我想說的是國防部整體對此感到不滿，而不是部長個人。", "confidence": "high", "notes": "Ministry of Defense 根據 terminology.yaml 翻譯為「國防部」"}
+→ {"text": "我想說的是英國國防部整體對此感到不滿，而不是部長個人。", "confidence": "high", "notes": "Ministry of Defense 指英國國防部（Nick Pope 任職單位）"}
 
 748. But to just expand on that point, clearly America was always regarded by us in the Ministry of Defense as the senior partner within NATO.
 → {"text": "但進一步說明這一點，很明顯，美國一直被我們國防部視為北約的資深夥伴。", "confidence": "high", "notes": ""}
@@ -694,7 +694,7 @@
 → {"text": "但我們不知道。", "confidence": "high", "notes": ""}
 
 754. The question I have for Sergeant Peniston here, these two submittals to us today, my understanding is you drew this.
-→ {"text": "我對 Penniston 中士的問題是，今天提交給我們的這兩份資料，我的理解是你畫了這個。", "confidence": "high", "notes": "原文錯誤：Sergeant Peniston 應為 Sergeant Penniston"}
+→ {"text": "我對潘尼斯頓中士的問題是，今天提交給我們的這兩份資料，我的理解是你畫了這個。", "confidence": "high", "notes": "原文 Sergeant Peniston 應為 Sergeant Penniston（潘尼斯頓），Whisper 誤轉，譯文逕採正確拼寫"}
 
 755. Yes, sir.
 → {"text": "是的，先生。", "confidence": "high", "notes": ""}
@@ -778,10 +778,10 @@
 → {"text": "你第一次提交這些是什麼時候？", "confidence": "high", "notes": ""}
 
 782. The drawing, the rough drawing of the craft was done for OSI.
-→ {"text": "這幅畫，飛行器的草圖是為特別調查處畫的。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「特別調查處」"}
+→ {"text": "這幅畫，飛行器的草圖是為空軍特別調查辦公室畫的。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「空軍特別調查辦公室」"}
 
 783. It says right on there, OSI.
-→ {"text": "上面就寫著，特別調查處。", "confidence": "high", "notes": ""}
+→ {"text": "上面就寫著，空軍特別調查辦公室。", "confidence": "high", "notes": ""}
 
 784. Oh, okay.
 → {"text": "噢，好的。", "confidence": "high", "notes": ""}
@@ -835,7 +835,7 @@
 → {"text": "你記得是誰或你提交給的那個人的職稱是什麼，他們的反應如何？", "confidence": "high", "notes": ""}
 
 801. OSI does not wear uniforms.
-→ {"text": "特別調查處不穿制服。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「特別調查處」"}
+→ {"text": "空軍特別調查辦公室不穿制服。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「空軍特別調查辦公室」"}
 
 802. Their ranks are restricted.
 → {"text": "他們的軍銜是受限的。", "confidence": "high", "notes": ""}
@@ -850,7 +850,7 @@
 → {"text": "不是。", "confidence": "high", "notes": ""}
 
 806. At that ... OSI doesn't work for the Wing Commander or Air Force or anything like that over there.
-→ {"text": "在那時⋯⋯特別調查處不為聯隊指揮官或空軍或那邊任何類似的單位工作。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「特別調查處」；Wing Commander 翻譯為「聯隊指揮官」"}
+→ {"text": "在那時⋯⋯空軍特別調查辦公室不為聯隊指揮官或空軍或那邊任何類似的單位工作。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「空軍特別調查辦公室」；Wing Commander 翻譯為「聯隊指揮官」"}
 
 807. Yeah.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -862,13 +862,13 @@
 → {"text": "那就是他們⋯⋯所以這就是為什麼你說國務院在你說出來或你第一次向你自己的⋯⋯之後幾天內就完全知道你在說什麼⋯⋯對。", "confidence": "high", "notes": "State Department 根據 terminology.yaml 翻譯為「國務院」"}
 
 810. And also with Mr. Pope, there's backup on how fast the MOD started investigating it too.
-→ {"text": "而且從 Pope 先生那裡也有佐證，國防部開始調查的速度有多快。", "confidence": "high", "notes": "MOD 即 Ministry of Defence，根據 terminology.yaml 翻譯為「國防部」"}
+→ {"text": "而且從波普先生那裡也有佐證，國防部開始調查的速度有多快。", "confidence": "high", "notes": "MOD 即 Ministry of Defence，指英國國防部"}
 
 811. That with other people coming out there ... I mean, in a matter of days, there's people out there investigating it.
 → {"text": "還有其他人去那裡⋯⋯我是說，在幾天之內，就有人在那裡調查了。", "confidence": "high", "notes": ""}
 
 812. And if Mr. Pope could just quickly add anything there on that.
-→ {"text": "如果 Pope 先生可以快速補充關於那件事的任何內容。", "confidence": "high", "notes": ""}
+→ {"text": "如果波普先生可以快速補充關於那件事的任何內容。", "confidence": "high", "notes": ""}
 
 813. My understanding is that certain people came out to check potential nuclear, chemical, biological, or radiological hazard.
 → {"text": "我的理解是，某些人出來檢查潛在的核、化學、生物或輻射危害。", "confidence": "high", "notes": ""}
@@ -892,7 +892,7 @@
 → {"text": "我的理解，再次，如我所說，是潛在危害引起了興趣，確實是潛在的核生化危害。", "confidence": "high", "notes": "NBC 即核生化（Nuclear, Biological, Chemical）"}
 
 820. And Sergeant Burroughs, I wanted to ask you, were you aware at the time that Sergeant Penniston was sending this to the OSI folks or not?
-→ {"text": "還有巴勒斯中士，我想問你，你當時知道佩尼斯頓中士正在將此提交給特別調查處的人嗎？", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「特別調查處」"}
+→ {"text": "還有巴勒斯中士，我想問你，你當時知道潘尼斯頓中士正在將此提交給空軍特別調查辦公室的人嗎？", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「空軍特別調查辦公室」"}
 
 821. No, sir.
 → {"text": "不知道，先生。", "confidence": "high", "notes": ""}
@@ -901,7 +901,7 @@
 → {"text": "你不知道。", "confidence": "high", "notes": ""}
 
 823. When did you learn about Sergeant Penniston's submittals?
-→ {"text": "你什麼時候知道佩尼斯頓中士的提交？", "confidence": "high", "notes": ""}
+→ {"text": "你什麼時候知道潘尼斯頓中士的提交？", "confidence": "high", "notes": ""}
 
 824. I can't give you the exact date.
 → {"text": "我無法給你確切的日期。", "confidence": "high", "notes": ""}
@@ -910,7 +910,7 @@
 → {"text": "大約？", "confidence": "high", "notes": ""}
 
 826. It was in the early '90s when Colonel Hall released the three statements.
-→ {"text": "是在 1990 年代初，當 Halt 上校釋出三份陳述的時候。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "是在 1990 年代初，當 哈爾特上校釋出三份陳述的時候。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 827. And there was more information coming out.
 → {"text": "而且有更多資訊流出。", "confidence": "high", "notes": ""}
@@ -925,7 +925,7 @@
 → {"text": "再告訴我一下，這裡快速說一下那些日期，這些不同的釋出何時發生。", "confidence": "high", "notes": ""}
 
 831. Memo came out, I believe, in '83, right, Nick, when News of the World took it?
-→ {"text": "備忘錄出來了，我相信是 1983 年，對吧，Nick，當《世界新聞報》拿到它的時候？", "confidence": "high", "notes": "News of the World 根據 terminology.yaml 翻譯為《世界新聞報》"}
+→ {"text": "備忘錄出來了，我相信是 1983 年，對吧，尼克，當《世界新聞報》拿到它的時候？", "confidence": "high", "notes": "News of the World 根據 terminology.yaml 翻譯為《世界新聞報》"}
 
 832. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -934,7 +934,7 @@
 → {"text": "1983 年，備忘錄透過《資訊自由法》釋出給大眾，不久之後錄音帶被釋出並在各處播放。", "confidence": "high", "notes": "Freedom of Information Act 即 FOIA，根據 terminology.yaml 翻譯為《資訊自由法》"}
 
 834. And last but not least, our statements were released in the early '90s by Colonel Hall.
-→ {"text": "最後但同樣重要的是，我們的陳述在 1990 年代初被 Halt 上校釋出。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "最後但同樣重要的是，我們的陳述在 1990 年代初被 哈爾特上校釋出。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 835. And one thing I'd like to add, this is my take personally from talking to the Colonel.
 → {"text": "我想補充一件事，這是我個人與上校談話後的理解。", "confidence": "high", "notes": ""}
@@ -949,13 +949,13 @@
 → {"text": "讓我確認我理解了。", "confidence": "high", "notes": ""}
 
 839. Is this the same Colonel that worked for Gabriel at the time?
-→ {"text": "這是當時為加百列工作的同一位上校嗎？", "confidence": "high", "notes": ""}
+→ {"text": "這是當時為蓋博工作的同一位上校嗎？", "confidence": "high", "notes": ""}
 
 840. No.
 → {"text": "不是。", "confidence": "high", "notes": ""}
 
 841. Colonel Hall was the deputy base commander.
-→ {"text": "Halt 上校是基地副指揮官。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "哈爾特上校是基地副指揮官。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 842. Oh, okay.
 → {"text": "噢，好的。", "confidence": "high", "notes": ""}
@@ -967,13 +967,13 @@
 → {"text": "對。", "confidence": "high", "notes": ""}
 
 845. Colonel Hall, I believe, would come forward and he's made statements to the fact that he would be willing to testify everything he knew in front of Congress.
-→ {"text": "我相信 Halt 上校會挺身而出，他已經發表聲明，表示他願意在國會面前作證他所知道的一切。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "我相信 哈爾特上校會挺身而出，他已經發表聲明，表示他願意在國會面前作證他所知道的一切。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 846. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 847. Well, let me just ask you then if Nick, you know, or if Sergeant Penniston, you know, or anybody else that might know, within a day or two of the December 26th -- or first sighting, let's say, the memo clearly showed some indents in the part of the forest where you described the craft as being.
-→ {"text": "那麼讓我問你，如果 Nick，你知道，或如果 Penniston 中士，你知道，或任何其他可能知道的人，在 12 月 26 日⋯⋯或者說第一次目擊後的一兩天內，備忘錄清楚地顯示了森林中你描述飛行器所在部分的一些壓痕。", "confidence": "high", "notes": ""}
+→ {"text": "那麼讓我問你，如果尼克，你知道，或如果潘尼斯頓中士，你知道，或任何其他可能知道的人，在 12 月 26 日⋯⋯或者說第一次目擊後的一兩天內，備忘錄清楚地顯示了森林中你描述飛行器所在部分的一些壓痕。", "confidence": "high", "notes": ""}
 
 848. Am I right about that?
 → {"text": "我說得對嗎？", "confidence": "high", "notes": ""}
@@ -988,19 +988,19 @@
 → {"text": "完全沒有。", "confidence": "high", "notes": ""}
 
 852. And he wrote that memo, the Colonel that was assigned to General Gabriel that did get released from -- that was the one letter or the one memo we have was -- I'm just trying to make sure I got this right.
-→ {"text": "他寫了那份備忘錄，被指派給加百列將軍的那位上校，後來被釋出⋯⋯那是我們擁有的那封信或那份備忘錄⋯⋯我只是想確保我理解對了。", "confidence": "high", "notes": ""}
+→ {"text": "他寫了那份備忘錄，被指派給蓋博將軍的那位上校，後來被釋出⋯⋯那是我們擁有的那封信或那份備忘錄⋯⋯我只是想確保我理解對了。", "confidence": "high", "notes": ""}
 
 853. I'm not sure where he's going with this.
 → {"text": "我不確定他想往哪裡說。", "confidence": "high", "notes": ""}
 
 854. I'm not -- Colonel Hall -- I'm not going anywhere.
-→ {"text": "我不是⋯⋯Halt 上校⋯⋯我沒有要往哪裡說。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "我不是⋯⋯哈爾特上校⋯⋯我沒有要往哪裡說。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 855. I'm just trying to gather data.
 → {"text": "我只是想收集資料。", "confidence": "high", "notes": ""}
 
 856. Colonel Hall -- Excuse me, just one moment.
-→ {"text": "Halt 上校⋯⋯抱歉，請稍等。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "哈爾特上校⋯⋯抱歉，請稍等。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 857. The general in time has expired.
 → {"text": "先生的時間已到。", "confidence": "high", "notes": ""}
@@ -1027,7 +1027,7 @@
 → {"text": "是的，請說。", "confidence": "high", "notes": ""}
 
 865. General Gabriel was in charge of the entire USAFE area.
-→ {"text": "加百列將軍負責整個美國駐歐空軍地區。", "confidence": "high", "notes": "原文錯誤：U-Safie area 應為 USAFE area（美國駐歐空軍）；General Gabriel 根據 terminology.yaml 翻譯為「加百列將軍」；USAFE 翻譯為「美國駐歐空軍」"}
+→ {"text": "蓋博將軍負責整個美國駐歐空軍地區。", "confidence": "high", "notes": "原文錯誤：U-Safie area 應為 USAFE area（美國駐歐空軍）；General Gabriel 依定譯為「蓋博將軍」；USAFE 翻譯為「美國駐歐空軍」"}
 
 866. Right.
 → {"text": "對。", "confidence": "high", "notes": ""}
@@ -1042,7 +1042,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 870. Colonel Hall would have worked for Colonel Conrad and General Williams.
-→ {"text": "Halt 上校為康拉德上校和威廉斯將軍工作。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）；Colonel Conrad 根據 terminology.yaml 翻譯為「康拉德上校」；General Williams 即威廉斯將軍"}
+→ {"text": "哈爾特上校為康拉德上校和威廉斯將軍工作。", "confidence": "high", "notes": "Colonel Hall 即 Colonel Halt（哈爾特上校）；Colonel Conrad 根據 terminology.yaml 翻譯為「康拉德上校」；General Williams 即威廉斯將軍"}
 
 871. So he wrote the memo -- Okay.
 → {"text": "所以他寫了備忘錄⋯⋯好的。", "confidence": "high", "notes": ""}
@@ -1051,7 +1051,7 @@
 → {"text": "對。", "confidence": "high", "notes": ""}
 
 873. And what he did was he was told to, after General Williams took the tape to General Basely, and they came back -- this was the exact words of Colonel Hall -- the staff got together, reviewed the tape, and they said, "We don't want to touch this.
-→ {"text": "他所做的是他被告知，在威廉斯將軍把錄音帶拿給貝茲利將軍之後，他們回來了⋯⋯這是 Halt 上校的原話⋯⋯幕僚們聚在一起，審查了錄音帶，他們說：「我們不想碰這個。", "confidence": "high", "notes": "General Williams 即威廉斯將軍；General Basely 應為 General Bazley（貝茲利將軍）；Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "他所做的是他被告知，在威廉斯將軍把錄音帶拿給貝茲利將軍之後，他們回來了⋯⋯這是 哈爾特上校的原話⋯⋯幕僚們聚在一起，審查了錄音帶，他們說：「我們不想碰這個。", "confidence": "high", "notes": "General Williams 即威廉斯將軍；General Basely 應為 General Bazley（貝茲利將軍）；Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 874. This is a British problem.
 → {"text": "這是英國人的問題。", "confidence": "high", "notes": ""}
@@ -1063,7 +1063,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 877. General Williams came back to Colonel Hall and said, "Go ahead and write up a brief memo and brief the British on what happened."
-→ {"text": "威廉斯將軍回到 Halt 上校那裡說：「去寫一份簡短的備忘錄，向英國人簡報發生了什麼。」", "confidence": "high", "notes": "General Williams 即威廉斯將軍；Colonel Hall 即 Colonel Halt（哈爾特上校）"}
+→ {"text": "威廉斯將軍回到 哈爾特上校那裡說：「去寫一份簡短的備忘錄，向英國人簡報發生了什麼。」", "confidence": "high", "notes": "General Williams 即威廉斯將軍；Colonel Hall 即 Colonel Halt（哈爾特上校）"}
 
 878. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -1096,4 +1096,4 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 888. But Carlson Bartlett would like to ask an additional question.
-→ {"text": "但 Carlson Bartlett 想問一個額外的問題。", "confidence": "high", "notes": ""}
+→ {"text": "但巴特利特眾議員想問一個額外的問題。", "confidence": "high", "notes": "原文 Carlson Bartlett 應為 Congressman Bartlett（巴特利特眾議員），Whisper 誤轉，譯文逕採正確語意"}

@@ -25,7 +25,7 @@
 → {"text": "因此我學會尊重證人證詞的價值，就像我相信各位今天透過這樣的聽證會也會有同樣的體會——來自同胞的證詞，在很多時候與書面證據同樣有力，甚至更有說服力。", "confidence": "high", "notes": ""}
 
 57. In this particular case, I have had the privilege of being privy to some conversations that John and Jim have had with some of the folks, rather, we've spoken about today, some of those rather high-ranking people, and nobody's telling or describing the sight of the smoking gun to this, but just by what they say and how they react to certain questions and what they might add to an answer at the very end that they give it some thought tends to point in a certain direction.
-→ {"text": "在這個案件中，我有幸得以參與 John 和 Jim 與我們今天談到的一些人士——其中一些是相當高階的人物——的部分對話。雖然沒有人直接告訴我們或描述確鿿的證據，但僅從他們的言談、他們對某些問題的反應方式，以及他們在深思熟慮後可能在回答最後補充的內容，都指向某個特定的方向。", "confidence": "high", "notes": ""}
+→ {"text": "在這個案件中，我有幸得以參與約翰和吉姆與我們今天談到的一些人士——其中一些是相當高階的人物——的部分對話。雖然沒有人直接告訴我們或描述確鑿的證據，但僅從他們的言談、他們對某些問題的反應方式，以及他們在深思熟慮後可能在回答最後補充的內容，都指向某個特定的方向。", "confidence": "high", "notes": ""}
 
 58. All the arrows point in one direction, and that's not necessarily ET or Black Ops Project, but it points to something very strange, and I've seen that a number of times.
 → {"text": "所有的線索都指向同一個方向，而那不一定是外星人或黑色行動專案，但確實指向某種非常奇異的事物，我已經多次看到這種情況。", "confidence": "high", "notes": "Black Ops Project 根據 terminology.yaml 翻譯為「黑色行動專案」"}
@@ -43,7 +43,7 @@
 → {"text": "公設辯護人在我們社會中扮演重要角色，當您對他們懷有我所感受到的那種熱情時，當事人就能獲得良好的法律代理，非常感謝您。", "confidence": "high", "notes": ""}
 
 63. Mr. Pendleton, would you like to add anything else before I go to my members here?
-→ {"text": "Penniston 先生，在我讓其他委員發言之前，您還有什麼要補充的嗎？", "confidence": "high", "notes": "原文誤拼為Pendleton，實為Penniston"}
+→ {"text": "潘尼斯頓先生，在我讓其他委員發言之前，您還有什麼要補充的嗎？", "confidence": "high", "notes": "原文 Mr. Pendleton 應為 Mr. Penniston（潘尼斯頓），Whisper 誤轉，譯文逕採正確拼寫"}
 
 
 ## Speaker Group 2
@@ -88,7 +88,7 @@
 → {"text": "這對你的職業生涯來說就是不明智的。", "confidence": "high", "notes": ""}
 
 73. So when John and I left that for us that night, we were discussing, well, how far do we go with this?
-→ {"text": "所以當 John 和我那晚離開現場時，我們在討論，我們該把這件事說到什麼程度？", "confidence": "high", "notes": ""}
+→ {"text": "所以當約翰和我那晚離開現場時，我們在討論，我們該把這件事說到什麼程度？", "confidence": "high", "notes": ""}
 
 74. And tell them everything?
 → {"text": "要把一切都告訴他們嗎？", "confidence": "high", "notes": ""}
@@ -109,7 +109,7 @@
 → {"text": "他說：「我認為我們應該放下這件事——你知道，就讓它過去吧。」", "confidence": "high", "notes": ""}
 
 80. So when I was taken down to OSI, I called on the OSI to make my report, I went in there, and the thoughts of preserving my career were -- they went away, because I was scared to death of the OSI.
-→ {"text": "所以當我被帶到特別調查處，我被叫去特別調查處做報告時，我進去那裡，保住職業生涯的念頭——那些念頭都消失了，因為我對特別調查處感到非常害怕。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「特別調查處」"}
+→ {"text": "所以當我被帶到空軍特別調查辦公室，我被叫去空軍特別調查辦公室做報告時，我進去那裡，保住職業生涯的念頭——那些念頭都消失了，因為我對空軍特別調查辦公室感到非常害怕。", "confidence": "high", "notes": "OSI 即 Air Force Office of Special Investigations（空軍特別調查辦公室）"}
 
 81. They were just threatening me down there.
 → {"text": "他們在那裡威脅我。", "confidence": "high", "notes": ""}
@@ -160,7 +160,7 @@
 → {"text": "它說那是一個金屬物體，而且非常、非常、非常籠統。", "confidence": "high", "notes": ""}
 
 95. And the agent says -- and I'm not sure if these are OSI agents, but I was in the OSI building.
-→ {"text": "然後那個特工說——我不確定這些人是不是特別調查處的特工，但我是在特別調查處的建築裡。", "confidence": "high", "notes": ""}
+→ {"text": "然後那個特工說——我不確定這些人是不是空軍特別調查辦公室的特工，但我是在空軍特別調查辦公室的建築裡。", "confidence": "high", "notes": ""}
 
 96. Let me clarify that too.
 → {"text": "讓我也澄清這一點。", "confidence": "high", "notes": ""}
@@ -190,7 +190,7 @@
 → {"text": "我說：「好的。」", "confidence": "high", "notes": ""}
 
 105. And he said, "This is the official statement that you're going to give your command element or anybody else from this point on that asks about it, because this is a classified investigation, and OSI can operate outside the chain of command.
-→ {"text": "他說：「從現在開始，這就是你要向你的指揮系統或任何其他詢問此事的人所提供的官方陳述，因為這是機密調查，而特別調查處可以在指揮鏈之外運作。", "confidence": "high", "notes": "Classified 根據 terminology.yaml 翻譯為「機密」"}
+→ {"text": "他說：「從現在開始，這就是你要向你的指揮系統或任何其他詢問此事的人所提供的官方陳述，因為這是機密調查，而空軍特別調查辦公室可以在指揮鏈之外運作。", "confidence": "high", "notes": "Classified 根據 terminology.yaml 翻譯為「機密」"}
 
 106. They do it over in England.
 → {"text": "他們在英國就是這樣運作的。", "confidence": "high", "notes": ""}
@@ -205,28 +205,28 @@
 → {"text": "沒問題。」", "confidence": "high", "notes": ""}
 
 110. General orders by -- because it's an active investigation by whoever those are -- people in front of me.
-→ {"text": "將軍的命令——因為這是由我面前這些人——不管他們是誰——進行的積極調查。", "confidence": "high", "notes": ""}
+→ {"text": "這是一體適用的命令——因為這是由我面前這些人——不管他們是誰——正在進行的調查。", "confidence": "medium", "notes": "原文 General orders 非指將軍，應為「通則命令」；原文句構破碎，按語境補譯"}
 
 111. And so that's why I report to the Wing Commander.
 → {"text": "所以這就是為什麼我向聯隊指揮官報告。", "confidence": "high", "notes": "Wing Commander 根據 terminology.yaml 翻譯為「聯隊指揮官」"}
 
 112. He doesn't even blink an eye when General Williams does it.
-→ {"text": "當 Williams 將軍這樣做時，他甚至眼睛都不眨一下。", "confidence": "high", "notes": ""}
+→ {"text": "當威廉斯將軍這樣做時，他甚至眼睛都不眨一下。", "confidence": "high", "notes": ""}
 
 113. He said, "Listen --" General Williams is the Wing Commander at that point.
-→ {"text": "他說：「聽著——」Williams 將軍當時是聯隊指揮官。", "confidence": "high", "notes": ""}
+→ {"text": "他說：「聽著——」威廉斯將軍當時是聯隊指揮官。", "confidence": "high", "notes": ""}
 
 114. General -- Major General Williams, that's what he -- at the time he was Colonel Williams.
-→ {"text": "將軍——Williams 少將，那是他——當時他是 Williams 上校。", "confidence": "high", "notes": "根據 terminology.yaml，Colonel Williams 後來晉升為 Major General Williams"}
+→ {"text": "將軍——威廉斯少將，那是他——當時他是威廉斯上校。", "confidence": "high", "notes": "根據 terminology.yaml，威廉斯上校（Colonel Williams）後來晉升為威廉斯少將（Major General Williams）"}
 
 115. You retired a Major General.
 → {"text": "您是以少將軍階退伍的。", "confidence": "high", "notes": ""}
 
 116. And when we reported into Colonel Halt's office, I briefly talked to Colonel Conrad, who was the base commander at the time -- Colonel Halt worked for him.
-→ {"text": "當我們向 Halt 上校的辦公室報告時，我簡短地與 Conrad 上校交談，他當時是基地指揮官——Halt 上校在他手下工作。", "confidence": "high", "notes": "根據 terminology.yaml，Colonel Halt 是副基地指揮官，Colonel Conrad 是基地指揮官"}
+→ {"text": "當我們向哈爾特上校的辦公室報告時，我簡短地與康拉德上校交談，他當時是基地指揮官——哈爾特上校在他手下工作。", "confidence": "high", "notes": "根據 terminology.yaml，哈爾特上校（Colonel Halt）是副基地指揮官，康拉德上校（Colonel Conrad）是基地指揮官"}
 
 117. And then John and I met up there, and then we went in and talked to the Wing Commander -- reported into the Wing Commander -- and explained the -- I gave him the OSI statement.
-→ {"text": "然後 John 和我在那裡會合，接著我們進去與聯隊指揮官交談——向聯隊指揮官報告——並解釋——我給了他特別調查處的陳述。", "confidence": "high", "notes": ""}
+→ {"text": "然後約翰和我在那裡會合，接著我們進去與聯隊指揮官交談——向聯隊指揮官報告——並解釋——我給了他空軍特別調查辦公室的陳述。", "confidence": "high", "notes": ""}
 
 118. I mean, I told him that's what happened.
 → {"text": "我的意思是，我告訴他那就是發生的事。", "confidence": "high", "notes": ""}
@@ -241,7 +241,7 @@
 → {"text": "所以真相掩蓋可能就是從那裡開始的。", "confidence": "high", "notes": ""}
 
 122. It started by the issuance of that statement from OSI.
-→ {"text": "它始於特別調查處發布的那份陳述。", "confidence": "high", "notes": ""}
+→ {"text": "它始於空軍特別調查辦公室發布的那份陳述。", "confidence": "high", "notes": ""}
 
 123. You submitted -- Sergeant, you submitted that statement, so it really kind of started as you were writing the statement and submitting it.
 → {"text": "您提交了——中士，您提交了那份陳述，所以它實際上是在您撰寫和提交陳述時就開始了。", "confidence": "high", "notes": ""}
@@ -277,13 +277,13 @@
 → {"text": "這些都包括在內。", "confidence": "high", "notes": ""}
 
 134. I didn't have my notebook there, but all that stuff was included, including the binary code, which I called ones and zeros in because I'm not a math person.
-→ {"text": "我當時沒帶筆記本，但所有那些東西都包括在內，包括二進位代碼，我把它稱為一和零，因為我不是數學人。", "confidence": "high", "notes": "binary code 根據 terminology.yaml 翻譯為「二進位代碼」"}
+→ {"text": "我當時沒帶筆記本，但所有那些東西都包括在內，包括二進位代碼，我把它稱為一和零，因為我不擅長數學。", "confidence": "high", "notes": "binary code 根據 terminology.yaml 翻譯為「二進位代碼」"}
 
 135. And at that time -- And did you give that to the wing commander?
 → {"text": "而在那時——您把那個給聯隊指揮官了嗎？", "confidence": "high", "notes": ""}
 
 136. I gave that to the OSI building.
-→ {"text": "我把那個交給了特別調查處大樓。", "confidence": "high", "notes": ""}
+→ {"text": "我把那個交給了空軍特別調查辦公室大樓。", "confidence": "high", "notes": ""}
 
 137. Did you give that to the wing commander?
 → {"text": "您把那個給聯隊指揮官了嗎？", "confidence": "high", "notes": ""}
@@ -295,13 +295,13 @@
 → {"text": "沒有，女士。", "confidence": "high", "notes": ""}
 
 140. What I gave to the wing commander was the OSI sanitized statement and the one that I was supposed to give them.
-→ {"text": "我給聯隊指揮官的是特別調查處刪減過的陳述，也就是我應該給他們的那份。", "confidence": "high", "notes": ""}
+→ {"text": "我給聯隊指揮官的是空軍特別調查辦公室刪減過的陳述，也就是我應該給他們的那份。", "confidence": "high", "notes": ""}
 
 141. And why did you not give that one to the wing commander?
 → {"text": "那您為什麼沒把那份給聯隊指揮官？", "confidence": "high", "notes": ""}
 
 142. Because I was under orders from -- because OSI said it was an ongoing investigation and they can work outside the realm of the base commander, wing commander and everything else like that.
-→ {"text": "因為我接到命令——因為特別調查處說這是正在進行的調查，他們可以在基地指揮官、聯隊指揮官以及其他所有人的權限之外運作。", "confidence": "high", "notes": ""}
+→ {"text": "因為我接到命令——因為空軍特別調查辦公室說這是正在進行的調查，他們可以在基地指揮官、聯隊指揮官以及其他所有人的權限之外運作。", "confidence": "high", "notes": ""}
 
 143. And my position is, new with this and all that, that might have been the beginning of the cover-up.
 → {"text": "我的看法是，對這一切還很陌生的我，那可能就是真相掩蓋的開端。", "confidence": "high", "notes": ""}
@@ -331,7 +331,7 @@
 → {"text": "那是 1980 年，現在是 2013 年。", "confidence": "high", "notes": ""}
 
 152. That's 23, 33 years ago, so no.
-→ {"text": "那是 23、33 年前，所以不。", "confidence": "high", "notes": ""}
+→ {"text": "那是 23——33 年前的事了，所以並沒有。", "confidence": "medium", "notes": "講者口誤自我修正（1980 至 2013 年應為 33 年）；so no 語意破碎，按語境補譯"}
 
 153. That you're still standing in relatively good health, thank God for that and we'll see what we can do with you.
 → {"text": "您仍然站在這裡，健康狀況相對良好，感謝上帝，我們會看看能為您做些什麼。", "confidence": "high", "notes": ""}

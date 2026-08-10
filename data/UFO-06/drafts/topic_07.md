@@ -40,7 +40,7 @@
 → {"text": "我對我們的公民自由和未來有一些真正的擔憂，這就是為什麼我隨身攜帶一份憲法副本。", "confidence": "high", "notes": "civil liberties 根據 terminology.yaml 翻譯為「公民自由」；Constitution 翻譯為「憲法」"}
 
 902. I have no idea if there is anything in your breast that you need to clear, but if there is, I just think that there are enough people watching this, there is enough press out there with all of their liabilities.
-→ {"text": "我不知道你們心中是否有什麼需要釋懷的事情，但如果有的話，我認為有足夠多的人在觀看這場聽證會，外面有足夠多的媒體儘管他們有各種責任。", "confidence": "high", "notes": ""}
+→ {"text": "我不知道你們心中是否有什麼需要釋懷的事情，但如果有的話，我認為有足夠多的人在觀看這場聽證會，外面有足夠多的媒體儘管他們有各種責任。", "confidence": "medium", "notes": "原文句尾 with all of their liabilities 語意破碎，按語境保留直譯"}
 
 903. I think that the press will not stand by if there are any repercussions from this.
 → {"text": "我認為如果因此產生任何後果，媒體不會袖手旁觀。", "confidence": "high", "notes": ""}
@@ -58,7 +58,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 908. Councilwoman Wolsey?
-→ {"text": "伍爾西眾議員（Councilwoman Wolsey）？", "confidence": "high", "notes": "應為 Congresswoman Woolsey，但按原文翻譯"}
+→ {"text": "伍爾西眾議員？", "confidence": "high", "notes": "原文 Councilwoman Wolsey 應為 Congresswoman Woolsey（琳恩·伍爾西），Whisper 誤轉職稱與拼寫，譯文逕採正確形式"}
 
 909. Well, I just have a very quick question and to each of you up there, what is -- and this is opinion I'm asking -- what is your opinion on the containment or the cover-up?
 → {"text": "好的，我有一個很簡短的問題要問在座的各位，什麼是——我問的是你們的意見——你們對這種壓制或真相掩蓋的看法是什麼？", "confidence": "high", "notes": "cover-up 根據 terminology.yaml 翻譯為「真相掩蓋」"}

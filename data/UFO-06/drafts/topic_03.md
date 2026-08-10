@@ -1,7 +1,7 @@
 ## Speaker Group 8
 
 156. Mr. Burroughs.
-→ {"text": "Burroughs 先生。", "confidence": "high", "notes": "稱呼證人"}
+→ {"text": "巴勒斯先生。", "confidence": "high", "notes": ""}
 
 157. Yes, ma'am.
 → {"text": "是的，女士。", "confidence": "high", "notes": "正式回應"}
@@ -10,7 +10,7 @@
 → {"text": "對我來說最突出的事實是，這起事件發生在三個連續的夜晚，地點是當時空軍最大的戰術戰鬥機聯隊。", "confidence": "high", "notes": "attack fighter wing 根據 terminology.yaml 翻譯為「戰術戰鬥機聯隊」"}
 
 159. You had over three flights involved and probably well over 150 personnel that were aware of something going on, whether they were listening to it on the radio, whether they were observing something from their location or were actually up close and personal with whatever was out there.
-→ {"text": "涉及超過三個飛行中隊，可能有超過 150 名人員意識到有事情正在發生，無論他們是透過無線電收聽、從自己的位置觀察到某些東西，還是實際近距離接觸到那裡的任何事物。", "confidence": "high", "notes": "flights 在軍事語境中指飛行中隊"}
+→ {"text": "涉及超過三個分隊，可能有超過 150 名人員意識到有事情正在發生，無論他們是透過無線電收聽、從自己的位置觀察到某些東西，還是實際近距離接觸到那裡的任何事物。", "confidence": "high", "notes": "flights 為空軍中隊（squadron）以下的編制單位，此處指值班分隊"}
 
 160. How many times has something come back three nights in a row?
 → {"text": "有多少次某個東西會連續三個晚上回來？", "confidence": "high", "notes": ""}
@@ -31,7 +31,7 @@
 → {"text": "據報導，來自蘭利空軍基地的一個小組，他們配備了自己的直升機、自己的車輛和自己的安全人員。", "confidence": "high", "notes": "Langley Air Force Base 根據 terminology.yaml 翻譯為「蘭利空軍基地」"}
 
 166. They cordoned the force off.
-→ {"text": "他們封鎖了森林。", "confidence": "high", "notes": "forest 在此語境中應為 forest，指 Rendlesham Forest"}
+→ {"text": "他們封鎖了森林。", "confidence": "high", "notes": "原文 the force 應為 the forest，指藍道申森林，Whisper 誤轉，譯文逕採正確語意"}
 
 167. I was posted on the gate on Monday, Tuesday and Wednesday and my orders were, because I was already involved in the incident, that you'd be aware that some strange things could possibly be going on.
 → {"text": "週一、週二和週三我被派駐在大門，我接到的命令是，因為我已經涉入這起事件，我應該意識到可能會有一些奇怪的事情發生。", "confidence": "high", "notes": ""}
@@ -64,7 +64,7 @@
 → {"text": "此後，在調查小組完成調查並離開之後，出現了各種關於發生了什麼事的謠言。", "confidence": "high", "notes": ""}
 
 177. What Sergeant Penniston and I did, what we were told to do, is to remain quiet.
-→ {"text": "Penniston 中士和我所做的，也就是我們被要求做的，就是保持沉默。", "confidence": "high", "notes": "Penniston 在 segment 177 正確拼寫"}
+→ {"text": "潘尼斯頓中士和我所做的，也就是我們被要求做的，就是保持沉默。", "confidence": "high", "notes": ""}
 
 178. But over the years, different personnel have come forward and been interviewed about what took place.
 → {"text": "但多年來，不同的人員挺身而出，接受了關於所發生事件的訪談。", "confidence": "high", "notes": ""}
@@ -124,7 +124,7 @@
 → {"text": "非常感謝您。", "confidence": "high", "notes": ""}
 
 197. Congressman Bartlett, please.
-→ {"text": "Bartlett 眾議員，請。", "confidence": "high", "notes": ""}
+→ {"text": "巴特利特眾議員，請。", "confidence": "high", "notes": ""}
 
 198. There had to be an official investigation of this.
 → {"text": "此事必定進行過正式調查。", "confidence": "high", "notes": ""}
@@ -133,7 +133,7 @@
 → {"text": "我們知道這些記錄在哪裡嗎？", "confidence": "high", "notes": ""}
 
 200. My best assessment, sir, is that the start point was General Gabriel, commander in chief United States Air Force in Europe, but whether his staff after his visit conducted the investigation or whether his staff then handed off the investigation to somebody else.
-→ {"text": "先生，我最好的評估是，起點是 Gabriel 將軍，美國駐歐空軍總司令，但在他訪問之後，是他的幕僚進行了調查，還是他的幕僚將調查移交給其他人。", "confidence": "high", "notes": "General Gabriel 根據 terminology.yaml 翻譯為「加百列將軍」，commander in chief United States Air Force in Europe 翻譯為「美國駐歐空軍總司令」"}
+→ {"text": "先生，我最好的評估是，起點是蓋博將軍，美國駐歐空軍總司令，但在他訪問之後，是他的幕僚進行了調查，還是他的幕僚將調查移交給其他人。", "confidence": "high", "notes": "General Gabriel 依定譯為「蓋博將軍」；commander in chief United States Air Force in Europe 翻譯為「美國駐歐空軍總司令」"}
 
 201. I don't know that, sir, but at least having the start point, it should enable Freedom of Information Act requests to say if you don't have those records, who does?
 → {"text": "先生，我不知道這個，但至少有了起點，應該能透過資訊自由法申請來詢問，如果你們沒有這些記錄，那誰有？", "confidence": "high", "notes": "Freedom of Information Act 根據 terminology.yaml 翻譯為「資訊自由法」"}
@@ -145,7 +145,7 @@
 → {"text": "是的，先生。", "confidence": "high", "notes": ""}
 
 204. It was the custom and practice of the deputy base commander, Charles Holt, to take with him a handheld cassette recorder on which he documented his thoughts and observations.
-→ {"text": "副基地指揮官 Charles Halt 的習慣做法是隨身攜帶一台手持卡式錄音機，用來記錄他的想法和觀察。", "confidence": "high", "notes": "Charles Holt 即 Colonel Halt"}
+→ {"text": "副基地指揮官查爾斯·哈爾特的習慣做法是隨身攜帶一台手持卡式錄音機，用來記錄他的想法和觀察。", "confidence": "high", "notes": "原文 Charles Holt 應為 Charles Halt（查爾斯·哈爾特），Whisper 誤轉，譯文逕採正確拼寫"}
 
 205. It's that tape recording, which is now in the public domain, that is referred to in the document has been taken back to Ramstein.
 → {"text": "文件中提到的那份錄音帶，現在已經公開，據說被帶回了拉姆施泰因空軍基地。", "confidence": "high", "notes": "Ramstein 根據 terminology.yaml 翻譯為「拉姆施泰因空軍基地」"}
@@ -241,10 +241,10 @@
 → {"text": "這很有趣。", "confidence": "high", "notes": ""}
 
 233. The first, the only time I remember, consciously remember being interviewed, that's a nice way to put it, by, at the OSI building was on, I believe it was the Monday, Monday after the incident.
-→ {"text": "第一次，也是我唯一記得的，有意識地記得被訪談，這是一種委婉的說法，在特別調查處的建築裡，我相信是在事件發生後的那個週一。", "confidence": "high", "notes": "OSI 根據 terminology.yaml 翻譯為「特別調查處」"}
+→ {"text": "第一次，也是我唯一記得的，有意識地記得被訪談，這是一種委婉的說法，在空軍特別調查辦公室的建築裡，我相信是在事件發生後的那個週一。", "confidence": "high", "notes": "OSI 即 Air Force Office of Special Investigations（空軍特別調查辦公室）"}
 
 234. The incident happened on a weekend and I believe it was Monday or Tuesday when I was called in there.
 → {"text": "事件發生在週末，我相信是週一或週二我被叫到那裡。", "confidence": "high", "notes": ""}
 
 235. So that, and that's right now my statement and all that, but under hypnosis in 1994, it's apparently around February 1st of that year it was noted in the hypnosis that I was taken back into the OSI building or it could have been the Wing Intel, I'm not sure, and also interrogated at that point again and that one was where I was administered sodium pentothal which is a very graphic thing to watch on film and additional questions were asked and additional discoveries were made.
-→ {"text": "所以那個，那就是我現在的陳述等等，但在 1994 年的催眠中，顯然是在那年的 2 月 1 日左右，催眠中記錄到我被帶回特別調查處的建築，或者可能是聯隊情報處，我不確定，並在那時再次被訊問，而那次就是我被施用硫噴妥鈉的時候，這在影片中看起來非常生動，還被問了更多問題，並有了更多發現。", "confidence": "high", "notes": "sodium pentothal 根據 terminology.yaml 翻譯為「硫噴妥鈉」，Wing Intel 指聯隊情報處"}
+→ {"text": "所以那個，那就是我現在的陳述等等，但在 1994 年的催眠中，顯然是在那年的 2 月 1 日左右，催眠中記錄到我被帶回空軍特別調查辦公室的建築，或者可能是聯隊情報處，我不確定，並在那時再次被訊問，而那次就是我被施用硫噴妥鈉的時候，這在影片中看起來非常生動，還被問了更多問題，並有了更多發現。", "confidence": "high", "notes": "sodium pentothal 根據 terminology.yaml 翻譯為「硫噴妥鈉」，Wing Intel 指聯隊情報處"}

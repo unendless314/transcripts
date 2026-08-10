@@ -4,7 +4,7 @@
 → {"text": "伍爾西眾議員，請。", "confidence": "high", "notes": ""}
 
 368. Well, Sergeant Pennison, I'll leave you more time for your cover-up if you want.
-→ {"text": "好的，佩尼斯頓中士，如果您想繼續談真相掩蓋的話題，我可以給您更多時間。", "confidence": "high", "notes": "cover-up 根據 terminology.yaml 翻譯為「真相掩蓋」"}
+→ {"text": "好的，潘尼斯頓中士，如果您想繼續談真相掩蓋的話題，我可以給您更多時間。", "confidence": "high", "notes": "原文 Sergeant Pennison 應為 Sergeant Penniston（潘尼斯頓），Whisper 誤轉，譯文逕採正確拼寫"}
 
 369. I mean, it doesn't sound like you feel like you're finished, but I did have a question.
 → {"text": "我的意思是，聽起來您似乎還沒說完，但我確實有個問題。", "confidence": "high", "notes": ""}
@@ -16,7 +16,7 @@
 → {"text": "是的，女士。", "confidence": "high", "notes": ""}
 
 372. Was that administered during your VA as part of the hypnosis or during the intelligence control or the OSI?
-→ {"text": "那是在您退伍軍人事務部接受催眠治療時施用的，還是在情報管控或特別調查處審訊時？", "confidence": "high", "notes": "VA = Veterans Administration（退伍軍人事務部），OSI = Office of Special Investigations（特別調查處）"}
+→ {"text": "那是在您退伍軍人事務部接受催眠治療時施用的，還是在情報管控或空軍特別調查辦公室審訊時？", "confidence": "high", "notes": "VA = Veterans Administration（退伍軍人事務部），OSI = Office of Special Investigations（空軍特別調查辦公室）"}
 
 373. In 1994, when I was out of the service, retired, I went to a therapist and she put me under that.
 → {"text": "1994年，當我退伍之後，我去找了一位治療師，她對我進行了催眠。", "confidence": "high", "notes": ""}
@@ -46,13 +46,13 @@
 → {"text": "1994年的催眠顯示，施用藥物的時間是在1981年2月1日左右，前後差幾天。", "confidence": "high", "notes": ""}
 
 382. During the OSI interrogation?
-→ {"text": "在特別調查處的審訊期間？", "confidence": "high", "notes": ""}
+→ {"text": "在空軍特別調查辦公室的審訊期間？", "confidence": "high", "notes": ""}
 
 383. Yes, but I knew all the OSI agents.
-→ {"text": "是的，但我認識所有的特別調查處探員。", "confidence": "high", "notes": ""}
+→ {"text": "是的，但我認識所有的空軍特別調查辦公室探員。", "confidence": "high", "notes": ""}
 
 384. These individuals were not OSI.
-→ {"text": "這些人不是特別調查處的。", "confidence": "high", "notes": ""}
+→ {"text": "這些人不是空軍特別調查辦公室的。", "confidence": "high", "notes": ""}
 
 385. They were American.
 → {"text": "他們是美國人。", "confidence": "high", "notes": ""}
@@ -127,7 +127,7 @@
 → {"text": "但他們大致知道這種情況已經持續了一段時間，而且一直有協同一致的努力在欺騙大眾。", "confidence": "high", "notes": ""}
 
 409. And do you want to offer any more on that subject of deceiving the copyright?
-→ {"text": "您還想就欺騙公眾這個主題多說些什麼嗎？", "confidence": "medium", "notes": "原文 'copyright' 應為 'public' 的口誤"}
+→ {"text": "您還想就欺騙公眾這個主題多說些什麼嗎？", "confidence": "medium", "notes": "原文 copyright 應為 the public，Whisper 誤轉，譯文逕採正確語意"}
 
 410. Well, I'm not sure who was actually in charge pulling the strings on this.
 → {"text": "嗯，我不確定究竟是誰在背後主導這件事。", "confidence": "high", "notes": ""}
@@ -136,10 +136,10 @@
 → {"text": "我不知道是不是國家安全局。", "confidence": "high", "notes": "NSA 根據 terminology.yaml 翻譯為「國家安全局」"}
 
 412. I don't know if it was DIS, Defense Intelligence Service.
-→ {"text": "我不知道是不是國防情報局（DIS）。", "confidence": "high", "notes": ""}
+→ {"text": "我不知道是不是國防情報局（DIS）。", "confidence": "high", "notes": "美國國防情報機構正式名稱為 DIA（Defense Intelligence Agency，國防情報局）；原文 DIS 為講者口語形式或誤轉，中譯不變"}
 
 413. They were down at Chicksands, which is 50 miles away.
-→ {"text": "他們在Chicksands，離這裡50英里遠。", "confidence": "high", "notes": "RAF Chicksands 是英國的信號情報基地，原文已修正為 Chicksands"}
+→ {"text": "他們在奇克桑茲（Chicksands），離這裡 50 英里遠。", "confidence": "high", "notes": "RAF Chicksands 是英國的信號情報基地，原文 Chick-Sans 已於翻譯前修正為 Chicksands"}
 
 414. So I'm not exactly sure who they were.
 → {"text": "所以我不太確定他們是誰。", "confidence": "high", "notes": ""}
@@ -211,7 +211,7 @@
 → {"text": "這麼做就表明這涉及國際事件，否則為何要向國務院簡報？", "confidence": "high", "notes": "Department of State 根據 terminology.yaml 翻譯為「國務院」"}
 
 437. The OSI oversees reports to the Department of State.
-→ {"text": "特別調查處負責向國務院報告。", "confidence": "high", "notes": ""}
+→ {"text": "空軍特別調查辦公室負責向國務院報告。", "confidence": "high", "notes": ""}
 
 438. They don't report to local authorities.
 → {"text": "他們不向地方當局報告。", "confidence": "high", "notes": ""}
@@ -295,22 +295,22 @@
 → {"text": "這已經過了很多年了。", "confidence": "high", "notes": ""}
 
 465. And just so you're comfortable, I was in the CIC in the Army, which is the equivalent of your OSI, and we interfaced with them greatly.
-→ {"text": "為了讓你放心，我曾在陸軍的反情報隊（CIC）工作，相當於你們的特別調查處，我們與他們有大量合作。", "confidence": "high", "notes": "CIC 根據 terminology.yaml 翻譯為「反情報隊」"}
+→ {"text": "為了讓你放心，我曾在陸軍的反情報隊（CIC）工作，相當於你們的空軍特別調查辦公室，我們與他們有大量合作。", "confidence": "high", "notes": "CIC 根據 terminology.yaml 翻譯為「反情報隊」"}
 
 466. So my question again is that you have knowledge that there was any storage area, and maybe Mr. Polk can elaborate upon it, that there may have been a conflict.
-→ {"text": "所以我再問一次，你是否知道有任何儲存區域，也許波普先生可以詳細說明，可能存在衝突。", "confidence": "medium", "notes": "原文 'Mr. Polk' 應指 Nick Pope"}
+→ {"text": "所以我再問一次，你是否知道有任何儲存區域，也許波普先生可以詳細說明，可能存在衝突。", "confidence": "medium", "notes": "原文 Mr. Polk 應為 Mr. Pope（波普），Whisper 誤轉，譯文逕採正確人名"}
 
 467. You're not going to get any answers on me, so you better...
 → {"text": "你從我這裡得不到任何答案，所以你最好……", "confidence": "high", "notes": ""}
 
 468. Go ahead, Nick.
-→ {"text": "繼續，Nick。", "confidence": "high", "notes": ""}
+→ {"text": "繼續，尼克。", "confidence": "high", "notes": ""}
 
 469. You can explain.
 → {"text": "你可以解釋。", "confidence": "high", "notes": ""}
 
 470. Nick, you step forward.
-→ {"text": "Nick，你向前一步。", "confidence": "high", "notes": ""}
+→ {"text": "尼克，你向前一步。", "confidence": "high", "notes": ""}
 
 471. You're a foreigner.
 → {"text": "你是外國人。", "confidence": "high", "notes": ""}
@@ -322,7 +322,7 @@
 → {"text": "核武器儲存以及儲存了什麼是否存在問題？", "confidence": "high", "notes": ""}
 
 474. Well, sir, I checked the position with the Ministry of Defense Press Office, because this is a question that comes up from time to time.
-→ {"text": "好的，先生，我向國防部新聞辦公室確認了立場，因為這是一個時不時會被提出的問題。", "confidence": "high", "notes": "Ministry of Defense 根據 terminology.yaml 翻譯為「國防部」"}
+→ {"text": "好的，先生，我向英國國防部新聞辦公室確認了立場，因為這是一個時不時會被提出的問題。", "confidence": "high", "notes": "Ministry of Defense 指英國國防部（Nick Pope 任職單位）"}
 
 475. And I was told that if that question is asked, even about a historical incident, the British government's line on that is still, "Neither confirm nor deny the presence of nuclear weapons."
 → {"text": "我被告知，如果有人問這個問題，即使是關於歷史事件，英國政府的立場仍然是：「既不證實也不否認核武器的存在。」", "confidence": "high", "notes": ""}
@@ -337,7 +337,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 479. Let's put the crap aside now and talk mono-amano.
-→ {"text": "現在讓我們把那些廢話放一邊，坦誠相談。", "confidence": "high", "notes": ""}
+→ {"text": "現在讓我們把那些廢話放一邊，坦誠相談。", "confidence": "medium", "notes": "原文 mono-amano 應為 man to man（坦誠相談），Whisper 誤轉，譯文逕採正確語意"}
 
 480. While I can't answer that question, I would refer you to, again, what Lord Hill Norton as the former Chief of the Defense Staff, which is the UK equivalent of the Chairman of the Joint Chiefs...
 → {"text": "雖然我無法回答這個問題，但我要再次提到希爾-諾頓勳爵作為前國防參謀長——相當於英國的參謀長聯席會議主席——所說的話……", "confidence": "high", "notes": "Lord Hill Norton 根據 terminology.yaml 翻譯為「希爾-諾頓勳爵」"}
@@ -505,7 +505,7 @@
 → {"text": "我認為，超出可能受到國會議員保護的範圍，對你們確實存在一些危險，你知道，從我們作為前國會議員甚至現任國會議員的立場來看，你們可能沒有那些相同的保護。", "confidence": "high", "notes": ""}
 
 535. So I advise you to listen to Mr. Frascogna on these kinds of questions rather than any one of us who are not experts on this.
-→ {"text": "所以我建議你們在這類問題上聽從弗拉斯科納先生的意見，而不是我們這些在這方面不是專家的人。", "confidence": "high", "notes": "原文已修正為 Frascogna"}
+→ {"text": "所以我建議你們在這類問題上聽從弗雷斯科納先生的意見，而不是我們這些在這方面不是專家的人。", "confidence": "high", "notes": "原文 Mr. Frasconga 應為 Mr. Frascogna（弗雷斯科納），已於翻譯前修正"}
 
 536. But you don't, I mean, you guys still have oaths of office.
 → {"text": "但你們不是，我的意思是，你們仍然有就職誓言。", "confidence": "high", "notes": ""}

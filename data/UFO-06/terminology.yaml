@@ -48,7 +48,7 @@ terms:
         definition: Office of Special Investigations，美國空軍特別調查處，負責反情報與刑事調查
         preferred_translation: 空軍特別調查辦公室（OSI）
         segments: []
-        notes: 在事件中扮演威脅訊問、強制淨化證詞的關鍵角色，首次出現時使用「特別調查處（OSI）」
+        notes: 在事件中扮演威脅訊問、強制淨化證詞的關鍵角色；統一譯「空軍特別調查辦公室」（與 UFO-05 定稿一致），不用「特別調查處」
 
   - term: USAFE
     senses:
@@ -78,7 +78,7 @@ terms:
   - term: Jim Penniston
     senses:
       - id: penniston_witness
-        definition: 美國空軍警察中士，倫德沙姆森林事件主要證人之一
+        definition: 美國空軍警察中士，藍道申森林事件主要證人之一
         preferred_translation: 吉姆·潘尼斯頓
         segments: []
         notes: 近距離接觸飛行器並觸摸其表面的證人，保留了原始警察筆記本
@@ -86,7 +86,7 @@ terms:
   - term: John Burroughs
     senses:
       - id: burroughs_witness
-        definition: 美國空軍中士，倫德沙姆森林事件主要證人之一
+        definition: 美國空軍中士，藍道申森林事件主要證人之一
         preferred_translation: 約翰·巴勒斯
         segments: []
         notes: 與Penniston一同經歷事件，後續出現嚴重健康問題需要植入心律調節器
@@ -95,7 +95,7 @@ terms:
     senses:
       - id: frascogna_attorney
         definition: 證人的辯護律師
-        preferred_translation: 派特·弗拉斯科納
+        preferred_translation: 派翠克·弗雷斯科納
         segments: []
         notes: 前公設辯護人，強調人證的法律效力
 
@@ -167,7 +167,7 @@ terms:
     senses:
       - id: symington_arizona_governor
         definition: Fife Symington，亞利桑那州前州長，鳳凰城光點事件證人
-        preferred_translation: 賽明頓州長
+        preferred_translation: 費伏·森明頓州長
         segments: []
         notes: 親眼目擊鳳凰城光點事件，後公開承認，與Penniston曾討論
 
@@ -202,7 +202,7 @@ terms:
         definition: 英國皇家空軍本特沃特斯基地，美軍租用的戰術戰鬥機聯隊基地
         preferred_translation: 皇家空軍本特沃特斯基地
         segments: []
-        notes: 倫德沙姆森林事件的主要發生地之一，當時是美國空軍最大的戰術戰鬥機聯隊所在地，疑似核武基地
+        notes: 藍道申森林事件的主要發生地之一，當時是美國空軍最大的戰術戰鬥機聯隊所在地，疑似核武基地
 
   - term: RAF Woodbridge
     senses:
@@ -210,7 +210,7 @@ terms:
         definition: 英國皇家空軍伍德布里奇基地，與RAF Bentwaters相鄰的基地
         preferred_translation: 皇家空軍伍德布里奇基地
         segments: []
-        notes: 倫德沙姆森林事件發生的另一個主要地點
+        notes: 藍道申森林事件發生的另一個主要地點
 
   - term: Marlesham Heath
     senses:
@@ -497,7 +497,7 @@ terms:
         definition: 1947年新墨西哥州羅斯威爾的疑似UFO墜毀事件
         preferred_translation: 羅斯威爾事件
         segments: [356]
-        notes: 證人表示倫德沙姆事件的重要性超越羅斯威爾
+        notes: 證人表示藍道申事件的重要性超越羅斯威爾
 
   - term: Sighting
     senses:

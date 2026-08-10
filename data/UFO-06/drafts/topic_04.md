@@ -7,13 +7,13 @@
 ## Speaker Group 13
 
 237. Well there's, I think, John alluded to it a little bit earlier, I think part of the problem there was, they were drawn into the area, this object was drawn there because there was interest in the area and the interest has to do with a top secret facility which I later wrote security plans for and stuff at that base which was Marlesham Heath, it was a C3 facility, communications, and it had a building there that at the time had a retinal eye scanner, in 1980 that's like high tech stuff and you don't really waste your money, the government's money on those kind of things over there like that but that was the unusual part of it so there was operations within there and they were civilian by the way, none of those people were wearing uniforms and then just down the street from that another mile and a half or two was MI6, British intelligence that operated out of there and then of course
-→ {"text": "嗯，我想 John 稍早有提到一點，我認為部分問題在於，它們被吸引到這個區域，這個物體被吸引到那裡是因為該區域有值得關注的設施，而這個關注點與一個最高機密設施有關，我後來為該基地的這個設施撰寫過安全計畫，那就是馬勒沙姆希斯（Marlesham Heath），它是一個 C3 設施，指揮、控制與通訊設施，那裡有一棟建築物在當時配備了視網膜掃描器，在 1980 年那可是高科技設備，政府不會在那種地方浪費錢在這類東西上，但那正是不尋常之處，所以那裡有一些行動在進行，而且順帶一提，他們都是平民，那些人都沒穿制服，然後就在那條街下去大約一英里半到兩英里的地方是軍情六處（MI6），英國情報機構在那裡運作，然後當然", "confidence": "high", "notes": "原文Marvisham Heath為轉錄錯誤，已修正為Marlesham Heath；terminology.yaml：C3 facility→C3設施，retinal eye scanner→視網膜掃描器，MI6→軍情六處，top secret→最高機密"}
+→ {"text": "嗯，我想約翰稍早有提到一點，我認為部分問題在於，它們被吸引到這個區域，這個物體被吸引到那裡是因為該區域有值得關注的設施，而這個關注點與一個最高機密設施有關，我後來為該基地的這個設施撰寫過安全計畫，那就是馬勒沙姆希斯（Marlesham Heath），它是一個 C3 設施，指揮、控制與通訊設施，那裡有一棟建築物在當時配備了視網膜掃描器，在 1980 年那可是高科技設備，政府不會在那種地方浪費錢在這類東西上，但那正是不尋常之處，所以那裡有一些行動在進行，而且順帶一提，他們都是平民，那些人都沒穿制服，然後就在那條街下去大約一英里半到兩英里的地方是軍情六處（MI6），英國情報機構在那裡運作，然後當然", "confidence": "high", "notes": "原文Marvisham Heath為轉錄錯誤，已修正為Marlesham Heath；terminology.yaml：C3 facility→C3設施，retinal eye scanner→視網膜掃描器，MI6→軍情六處，top secret→最高機密"}
 
 238. we had the control towers that were strategically placed around the base too that operated radar systems and the communications.
 → {"text": "我們還有策略性地分布在基地周圍的管制塔，負責運作雷達系統和通訊系統。", "confidence": "high", "notes": ""}
 
 239. It's also a part, and I think John should talk a little bit about, if you don't mind talking a little bit about Cobra Mist, do you want to talk about that?
-→ {"text": "這也是其中一部分，我想 John 應該談談，如果你不介意談談眼鏡蛇迷霧計畫（Cobra Mist），你想談這個嗎？", "confidence": "high", "notes": "Cobra Mist根據terminology.yaml翻譯為「眼鏡蛇迷霧計畫」"}
+→ {"text": "這也是其中一部分，我想約翰應該談談，如果你不介意談談眼鏡蛇迷霧計畫（Cobra Mist），你想談這個嗎？", "confidence": "high", "notes": "Cobra Mist根據terminology.yaml翻譯為「眼鏡蛇迷霧計畫」"}
 
 
 ## Speaker Group 14
@@ -169,7 +169,7 @@
 → {"text": "我們被告知閉嘴照做。", "confidence": "high", "notes": "美軍俚語「shut up and color」意指「閉嘴聽命行事」"}
 
 289. Some of the other evidence that was taken, I would assume would be taken by General Gabriel, because in the Wing Command Post, it's a hardened shelter on Bentwaters, our control center for up-channeling, helping hands cover wagons, these are code words for security reports, down-channel reports, you know, DEFCON 3s, those kind of things.
-→ {"text": "其他一些被拿走的證據，我猜測應該是被加百列將軍（General Gabriel）拿走的，因為在聯隊指揮所，那是本特沃特斯（Bentwaters）的一個加固掩體，是我們向上呈報的控制中心，helping hands、cover wagons，這些是安全報告的代號，向下傳達的報告，你知道，DEFCON 3 之類的東西。", "confidence": "high", "notes": "原文Bantwaters為轉錄錯誤，已修正為Bentwaters；General Gabriel根據terminology.yaml翻譯為「加百列將軍」"}
+→ {"text": "其他一些被拿走的證據，我猜測應該是被蓋博將軍（General Gabriel）拿走的，因為在聯隊指揮所，那是本特沃特斯（Bentwaters）的一個加固掩體，是我們向上呈報的控制中心，helping hands、cover wagons，這些是安全報告的代號，向下傳達的報告，你知道，DEFCON 3 之類的東西。", "confidence": "high", "notes": "原文Bantwaters為轉錄錯誤，已修正為Bentwaters；General Gabriel 依定譯為「蓋博將軍」"}
 
 290. They have a, at the time, a reel-to-reel, and they would record all of the radio transmissions on our four channels, I believe we had four, a command net and I think an LA net and a couple others, and they would record all that.
 → {"text": "他們當時有一個盤式錄音機，他們會記錄我們所有四個頻道的無線電傳輸，我相信我們有四個，一個指揮網和我想是一個 LA 網以及其他幾個，他們會記錄所有這些。", "confidence": "high", "notes": ""}
@@ -331,10 +331,10 @@
 → {"text": "我有義務永遠保護他們，遵循他們的命令，不告訴他們任何不真實的事情。", "confidence": "high", "notes": ""}
 
 343. And here I have orders at the OSI building saying, "You're going to go ahead and give this statement to your command element or anybody else ask about it."
-→ {"text": "而在特別調查處大樓我接到命令說：「你要繼續把這份陳述交給你的指揮系統或任何詢問此事的人。」", "confidence": "high", "notes": "OSI根據terminology.yaml翻譯為「特別調查處」"}
+→ {"text": "而在空軍特別調查辦公室大樓我接到命令說：「你要繼續把這份陳述交給你的指揮系統或任何詢問此事的人。」", "confidence": "high", "notes": "OSI 即 Air Force Office of Special Investigations（空軍特別調查辦公室）"}
 
 344. I lived with that for about 31 years, and I had the opportunity to talk to Major General Williams, Gordon Williams, and that was one of the things I brought up.
-→ {"text": "我帶著這件事生活了大約 31 年，後來我有機會與威廉斯少將（Major General Williams），戈登·威廉斯（Gordon Williams）交談，這是我提起的事情之一。", "confidence": "high", "notes": "Major General Williams根據terminology.yaml翻譯為「威廉斯少將」"}
+→ {"text": "我帶著這件事生活了大約 31 年，後來我有機會與威廉斯少將（Major General Williams），也就是戈登·威廉斯交談，這是我提起的事情之一。", "confidence": "high", "notes": "Major General Williams根據terminology.yaml翻譯為「威廉斯少將」"}
 
 345. And he says, "Don't worry about it.
 → {"text": "他說：「不要擔心這個。", "confidence": "high", "notes": ""}
