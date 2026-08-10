@@ -7,7 +7,7 @@
 → {"text": "我在愛達荷州博伊西長大，我的父親切特·莫爾頓是航空局局長。", "confidence": "high", "notes": ""}
 
 337. One of his friends was Kenneth Arnold, who reported the unidentified flying objects over Mount Rainier in June of 1947.
-→ {"text": "他的一位朋友是肯尼斯·阿諾德，他在 1947 年 6 月報告了雷尼爾山上空的不明飛行物。", "confidence": "high", "notes": ""}
+→ {"text": "他的一位朋友是肯尼斯·阿諾德（Kenneth Arnold），他在 1947 年 6 月報告了雷尼爾山（Mount Rainier）上空的不明飛行物。", "confidence": "high", "notes": ""}
 
 338. And a local reporter then coined the phrase UFO, unidentified flying objects.
 → {"text": "一位當地記者隨後創造了 UFO 這個詞，即不明飛行物。", "confidence": "high", "notes": ""}
@@ -73,19 +73,19 @@
 → {"text": "這些動物被發現時，四周的細土就像撲粉一樣，無論是重達 2,000 磅或 1,800 磅的動物，屍體周圍都沒有任何足跡，而牠們的耳朵、眼睛、舌頭、下顎肌肉、生殖器和直腸都已被移除，且沒有留下任何血跡。", "confidence": "high", "notes": ""}
 
 359. The documentary that I produced, A Strange Harvest, was awarded a regional Emmy.
-→ {"text": "我製作的紀錄片《詭異收穫》獲得了地區艾美獎。", "confidence": "high", "notes": ""}
+→ {"text": "我製作的紀錄片《詭異收穫》（A Strange Harvest）獲得了地區艾美獎。", "confidence": "high", "notes": ""}
 
 360. Home Box Office in New York City later contacted me to follow up on A Strange Harvest with an hour special for HBO with a working title, UFOs, the ET Factor.
 → {"text": "後來紐約市的 Home Box Office 聯繫我，要我跟進《詭異收穫》，為 HBO 製作一小時特別節目，工作標題為《UFO：外星因素》。", "confidence": "high", "notes": ""}
 
 361. A contract was signed and New York attorney Peter Gerstin, who filed the first freedom of information request back at the end of the 1970s for information about UFOs and his filing went to the CIA, the NSA, the DIA, the NRO, and other military offices.
-→ {"text": "合約簽署後，紐約律師彼得·格斯汀——他在 1970 年代末首次提出關於 UFO 資訊的資訊自由法申請，對象包括 CIA、NSA、DIA、NRO 以及其他軍事機構。", "confidence": "high", "notes": ""}
+→ {"text": "合約簽署後，紐約律師彼得·格斯汀（Peter Gersten）——他在 1970 年代末首次提出關於 UFO 資訊的資訊自由法申請，對象包括 CIA、NSA、DIA、NRO 以及其他軍事機構。", "confidence": "high", "notes": "原文 Peter Gerstin 應為 Peter Gersten"}
 
 362. He arranged for me to have a meeting at Kirtland Air Force Base in Albuquerque.
-→ {"text": "他為我安排了在阿布奎基柯特蘭空軍基地的會面。", "confidence": "high", "notes": "原文誤為 Curlin，已修正為 Kirtland"}
+→ {"text": "他為我安排了在阿布奎基（Albuquerque）柯特蘭空軍基地（Kirtland Air Force Base）的會面。", "confidence": "high", "notes": "原文誤為 Curlin，已修正為 Kirtland"}
 
 363. Mr. Gerstin had received correspondence from an agent at the U.S. Air Force Office of Special Investigations about a dramatic landing of a disk and humanoid entities at Ellsworth Air Force Base in South Dakota.
-→ {"text": "格斯汀先生收到了來自美國空軍特別調查辦公室一名探員的信件，內容關於南達科他州埃爾斯沃思空軍基地發生的戲劇性碟形飛行器與類人實體降落事件。", "confidence": "high", "notes": ""}
+→ {"text": "格斯汀先生收到了來自美國空軍特別調查辦公室（AFOSI）一名探員的信件，內容關於南達科他州埃爾斯沃思空軍基地（Ellsworth Air Force Base）發生的戲劇性碟形飛行器與類人實體降落事件。", "confidence": "high", "notes": ""}
 
 364. I was to go to a meeting at Curlin Air Force Base and get the names, addresses, and phone numbers of some of the eyewitnesses of an exchange between our military security and something from this landed disk.
 → {"text": "我要前往柯特蘭空軍基地開會，並獲取一些目擊者的姓名、地址和電話號碼，他們見證了我方軍事安全人員與這個降落碟形飛行器上的某些存在之間的交流。", "confidence": "high", "notes": "原文誤為 Curlin，已修正為 Kirtland"}
@@ -115,7 +115,7 @@
 → {"text": "該文件記載了美國政府回收墜毀或降落飛行器的歷史，地點包括新墨西哥州的羅斯威爾、阿茲特克和馬格達萊納，亞利桑那州北部，以及德州拉雷多以南的墨西哥北部，還有 1949 年在羅斯威爾地區發生的第二輪一次或多次墜毀事件。", "confidence": "high", "notes": ""}
 
 373. The alleged presidential briefing paper also described information from a live extraterrestrial biological entity.
-→ {"text": "這份據稱的總統簡報文件還描述了來自一個活體外星生物實體的資訊。", "confidence": "high", "notes": ""}
+→ {"text": "這份據稱的總統簡報文件還描述了來自一個活體外星生物實體（EBE）的資訊。", "confidence": "high", "notes": ""}
 
 374. The acronym is EBE, E-B-E, taken from a crash site near Roswell, New Mexico in 1949, two years after the historically famous 1947 July crashes of not disks, but my understanding is wedge-shaped craft that contained small humanoid bodies, both dead and alive.
 → {"text": "這個縮寫是 EBE，E-B-E，取自 1949 年新墨西哥州羅斯威爾附近墜毀現場，這是在歷史上著名的 1947 年 7 月墜毀事件兩年之後，墜毀的不是碟形飛行器，而據我理解是楔形飛行器，裡面有小型類人身軀，既有死亡的也有活著的。", "confidence": "high", "notes": "原文誤為 EBA，已修正為 EBE"}

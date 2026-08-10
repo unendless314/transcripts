@@ -4,7 +4,7 @@
 → {"text": "我想先說明，我們目前晚了大約 13 分鐘。", "confidence": "high", "notes": ""}
 
 68. If we could have Ms. Howe, Mr. Dolan, Mr. Friedman, and Mr. Cameron come forward.
-→ {"text": "請豪女士、多蘭先生、弗里德曼先生以及卡麥隆先生上前。", "confidence": "high", "notes": ""}
+→ {"text": "請豪女士（Linda Moulton Howe）、多蘭先生（Richard Dolan）、弗里德曼先生（Stanton Friedman）以及卡麥隆先生（Grant Cameron）上前。", "confidence": "high", "notes": ""}
 
 69. And in a moment I have the distinct honor of administering the oath.
 → {"text": "稍後我將有幸為各位主持宣誓。", "confidence": "high", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "然而，軍方和其他政府部門編造了一個只說給公眾聽的虛構說法，聲稱 UFO 問題不值得關注，當然也不是小綠人所為。", "confidence": "high", "notes": ""}
 
 93. We are fortunate that starting in the 1970s, the US Freedom of Information Act began to help researchers learn some of the truth that lay behind the facade of propaganda.
-→ {"text": "幸運的是，從 1970 年代開始，美國資訊自由法開始幫助研究人員了解隱藏在宣傳表象背後的部分真相。", "confidence": "high", "notes": ""}
+→ {"text": "幸運的是，從 1970 年代開始，美國資訊自由法（FOIA）開始幫助研究人員了解隱藏在宣傳表象背後的部分真相。", "confidence": "high", "notes": ""}
 
 94. We learned, for example, that some US military analysts initially feared that the Soviet Union might be behind the flying saucer wave of the 1940s and '50s.
 → {"text": "例如，我們得知一些美國軍事分析師最初擔心蘇聯可能是 1940 和 50 年代飛碟潮背後的幕後黑手。", "confidence": "high", "notes": ""}
@@ -112,7 +112,7 @@
 → {"text": "要麼這是真實且外星的東西，要麼是某種常規事物，但尚未知曉或無法解釋。", "confidence": "high", "notes": ""}
 
 99. Already by the end of 1947, a contingent of analysts at the Air Technical Intelligence Center, ATIC, at Wright-Patterson Air Force Base, believed that UFOs were extraterrestrial.
-→ {"text": "早在 1947 年底，萊特-帕特森空軍基地空軍技術情報中心（ATIC）的一批分析師就相信 UFO 具有外星起源。", "confidence": "high", "notes": ""}
+→ {"text": "早在 1947 年底，萊特-帕特森空軍基地（Wright-Patterson Air Force Base）空軍技術情報中心（ATIC）的一批分析師就相信 UFO 具有外星起源。", "confidence": "high", "notes": ""}
 
 100. And by the summer of 1948, that team prepared what they called an estimate of the situation, stating the extraterrestrial hypothesis.
 → {"text": "到了 1948 年夏天，該團隊準備了一份他們稱為「情勢評估」的報告，陳述外星假說。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "但其中幾個可能能讓您了解我的意思。", "confidence": "high", "notes": ""}
 
 105. Here is one from General Robert B. Landry, Air Force aide to President Harry S. Truman.
-→ {"text": "這裡有一個來自羅伯特·B·蘭德里將軍的聲明，他是杜魯門總統的空軍助理。", "confidence": "high", "notes": ""}
+→ {"text": "這裡有一個來自羅伯特·B·蘭德里將軍（General Robert B. Landry）的聲明，他是杜魯門總統（President Truman）的空軍助理。", "confidence": "high", "notes": ""}
 
 106. Landry says in an oral history interview given about 40 years ago, "I was called one afternoon in 1948 to come to the Oval Office.
 → {"text": "蘭德里在大約 40 年前的口述歷史訪談中說：「1948 年的一個下午，我被叫到橢圓形辦公室。", "confidence": "high", "notes": ""}
@@ -163,7 +163,7 @@
 → {"text": "「被描述為頂部和底部平坦，從正面看具有圓邊並略微斜角，」這裡有相當多的細節，「沒有蒸氣軌跡或排氣或可見的推進方式，被描述為以極快速度行進。」", "confidence": "high", "notes": ""}
 
 116. And one more quote from the early years, this one from a former head of the CIA, Roscoe Hillencutter, speaking in 1960, "Behind the scenes, high ranking Air Force officers are soberly concerned about UFOs, but through official secrecy and ridicule, many citizens are led to believe the unknown flying objects are nonsense."
-→ {"text": "還有一段早期的引文，這段來自 CIA 前局長羅斯科·希倫科特，他在 1960 年說：「在幕後，高階空軍軍官嚴肅地關注 UFO，但透過官方保密與嘲笑，許多公民被引導相信這些不明飛行物體是無稽之談。」", "confidence": "high", "notes": "原文 Roscoe Hillencutter 為 Hillenkoetter 之誤拼（首任 CIA 局長），譯名以正確拼寫為準"}
+→ {"text": "還有一段早期的引文，這段來自 CIA 前局長羅斯科·希倫科特（Roscoe Hillenkoetter），他在 1960 年說：「在幕後，高階空軍軍官嚴肅地關注 UFO，但透過官方保密與嘲笑，許多公民被引導相信這些不明飛行物體是無稽之談。」", "confidence": "high", "notes": "原文 Roscoe Hillencutter 為 Hillenkoetter 之誤拼（首任 CIA 局長），譯名以正確拼寫為準"}
 
 117. Now how much clearer a statement should responsible citizens, academicians, media, and political leadership require before demanding to get some reasonable answers as to what is going on behind the scenes in relation to the phenomenon of UFOs?
 → {"text": "那麼，負責任的公民、學者、媒體和政治領導人還需要多清楚的聲明，才會要求就 UFO 現象幕後發生的事情獲得一些合理的答案？", "confidence": "high", "notes": ""}
@@ -172,7 +172,7 @@
 → {"text": "因為這個問題絕對沒有在 1960、1970 或 1980 年代結束，而是持續至今。", "confidence": "high", "notes": ""}
 
 119. During the summer of 2002, just outside this city, over the town of Waldorf of Maryland, dozens of witnesses reported an incredible scene.
-→ {"text": "2002 年夏天，就在這座城市外，在馬里蘭州沃爾多夫鎮上空，數十名目擊者報告了一個令人難以置信的景象。", "confidence": "high", "notes": ""}
+→ {"text": "2002 年夏天，就在這座城市外，在馬里蘭州沃爾多夫鎮（Waldorf, Maryland）上空，數十名目擊者報告了一個令人難以置信的景象。", "confidence": "high", "notes": ""}
 
 120. Multiple jet fighters chasing multiple large unknown objects that were of blue and orange coloration.
 → {"text": "多架噴射戰鬥機追逐多個大型未知物體，這些物體呈現藍色和橙色。", "confidence": "high", "notes": ""}
@@ -199,7 +199,7 @@
 → {"text": "這可能是一個值得思考的有趣問題。", "confidence": "high", "notes": ""}
 
 128. Over Chicago, O'Hare Airport.
-→ {"text": "在芝加哥歐海爾機場上空。", "confidence": "high", "notes": ""}
+→ {"text": "在芝加哥歐海爾機場（O'Hare Airport）上空。", "confidence": "high", "notes": ""}
 
 129. In November 2006, same kind of situation.
 → {"text": "2006 年 11 月，同樣的情況。", "confidence": "high", "notes": ""}
@@ -226,7 +226,7 @@
 → {"text": "事實上，還有壓倒性數量的案例。", "confidence": "high", "notes": ""}
 
 137. The two largest websites for collecting North American UFO reports, the National UFO Reporting Center and the Mutual UFO Network, have a combined total of well over 10,000 reports every year.
-→ {"text": "收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心和 UFO 互動網路（MUFON），每年合計收到遠超過 10,000 份報告。", "confidence": "high", "notes": ""}
+→ {"text": "收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心（National UFO Reporting Center）和 UFO 互動網路（MUFON），每年合計收到遠超過 10,000 份報告。", "confidence": "high", "notes": ""}
 
 138. Every year.
 → {"text": "每年。", "confidence": "high", "notes": ""}

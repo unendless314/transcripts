@@ -121,7 +121,7 @@
 → {"text": "他們認識了所有的將軍，並被告知了關於飛行器在 51 區的故事，這一切都是真的。", "confidence": "high", "notes": ""}
 
 424. One of the key witnesses is a guy by the name of Alfred O'Donnell who the Appropriations Committee at Congress actually tried to talk to this guy.
-→ {"text": "其中一位關鍵證人是一個叫阿爾弗雷德·歐唐納的人，國會撥款委員會實際上曾試圖與這個人談話。", "confidence": "high", "notes": ""}
+→ {"text": "其中一位關鍵證人是一個叫阿爾弗雷德·歐唐納（Alfred O'Donnell）的人，國會撥款委員會實際上曾試圖與這個人談話。", "confidence": "high", "notes": ""}
 
 425. He was one of the highest ranking people at Area 51.
 → {"text": "他是 51 區級別最高的人員之一。", "confidence": "high", "notes": ""}
@@ -652,7 +652,7 @@
 → {"text": "例如，有一位曾在萊特-帕特森空軍基地醫療部門工作的人的證詞告訴我，據我所知這是歷史事實，1947 年羅斯威爾事件墜毀案中進行的第一批解剖之一，而那還不是開始。", "confidence": "high", "notes": ""}
 
 560. We had been retrieving craft and bodies from at least 1941 in Cape Girardeau, Missouri.
-→ {"text": "我們至少從 1941 年起就在密蘇里州開普吉拉多回收飛行器和遺體。", "confidence": "high", "notes": ""}
+→ {"text": "我們至少從 1941 年起就在密蘇里州開普吉拉多（Cape Girardeau, Missouri）回收飛行器和遺體。", "confidence": "high", "notes": ""}
 
 561. But in terms of Roswell, one of the bodies, when the surgeon took a scalpel to start a T or a Y section on the autopsy, the report was this is not tissue.
 → {"text": "但就羅斯威爾而言，其中一具遺體，當外科醫生拿起手術刀開始在解剖時做 T 型或 Y 型切口時，報告說這不是組織。", "confidence": "high", "notes": ""}
@@ -673,7 +673,7 @@
 → {"text": "然後你將這一點與我在柯特蘭空軍基地空軍特別調查辦公室看到的那份所謂簡報文件中讀到的一句話結合起來，那句引文從未離開過我的腦海。", "confidence": "high", "notes": "原文誤為 Curlin，已修正為 Kirtland"}
 
 567. These extraterrestrial biological entities manipulated DNA and already evolving primates to create Homo sapien, close quote.
-→ {"text": "「這些外星生物實體操縱了 DNA 和已經在進化的靈長類動物，以創造現代智人」，引文結束。", "confidence": "high", "notes": ""}
+→ {"text": "「這些外星生物實體操縱了 DNA 和已經在進化的靈長類動物，以創造現代智人（Homo sapiens）」，引文結束。", "confidence": "high", "notes": ""}
 
 568. Then that suggests that the relationship between what is in the skies, on the ground, underground and interacting with humans and animals and plant life on this planet, as one man working for the DIA in retirement told me, Linda, we are convinced that the intelligence interacting with this planet has been here for more than 270 million years predating the dinosaurs.
 → {"text": "那麼這表明，天空中、地面上、地下以及與這個星球上的人類、動物和植物生命互動的事物之間的關係，正如一位為 DIA 工作的退休人員告訴我的，琳達，我們確信與這個星球互動的智慧已經在這裡超過 2 億 7 千萬年，早於恐龍。", "confidence": "high", "notes": ""}

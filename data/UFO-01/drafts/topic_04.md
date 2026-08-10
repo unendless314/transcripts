@@ -133,7 +133,7 @@
 → {"text": "順帶一提，這些聽證會記錄至今仍可在線上取得。", "confidence": "high", "notes": ""}
 
 250. One of the contributors was Dr. J. Allen Hynek, chairman of the astronomy department at Northwestern University, and for 20 years, United States Air Force scientific consultant to Project Blue Book.
-→ {"text": "其中一位參與者是 J·艾倫·海尼克博士，他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。", "confidence": "high", "notes": ""}
+→ {"text": "其中一位參與者是 J·艾倫·海尼克博士（Dr. J. Allen Hynek），他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。", "confidence": "high", "notes": ""}
 
 251. His book, The UFO Experience, a Scientific Inquiry, should be required reading by anybody who's going to talk about flying saucers, especially negatively.
 → {"text": "他的書《The UFO Experience， a Scientific Inquiry》應該是任何要談論飛碟的人——特別是持負面態度的人——的必讀讀物。", "confidence": "high", "notes": ""}
@@ -277,7 +277,7 @@
 → {"text": "進步來自於用不同的方式做事。", "confidence": "high", "notes": ""}
 
 298. A second problem I have found, I worked under security for 14 years for major companies like GE, GM, Westinghouse, McDonald Douglas, TRW systems, Aerojet-General Nucleonics, I set a record for working on cancelled government sponsored research and development programs.
-→ {"text": "我發現的第二個問題是，我曾在保密條件下為 GE、GM、西屋、麥克唐納-道格拉斯、TRW 系統、航空噴射通用核子等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。", "confidence": "high", "notes": "原文 aerogenerals, nucleonics 應為 Aerojet-General Nucleonics；McDonald Douglas 應為 McDonnell Douglas"}
+→ {"text": "我發現的第二個問題是，我曾在保密條件下為 GE、GM、西屋（Westinghouse）、麥克唐納-道格拉斯（McDonnell Douglas）、TRW 系統、航空噴射通用核子（Aerojet-General Nucleonics）等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。", "confidence": "high", "notes": "原文 aerogenerals, nucleonics 應為 Aerojet-General Nucleonics；McDonald Douglas 應為 McDonnell Douglas"}
 
 299. Not intentionally, you understand.
 → {"text": "你要理解，這不是故意的。", "confidence": "high", "notes": ""}
@@ -295,7 +295,7 @@
 → {"text": "他沒有提到 CIA、DIA、NRO、NSA 以及所有那些字母縮寫的情報機構。", "confidence": "high", "notes": ""}
 
 304. Another great astronomer, Dr. Neil deGrasse Tyson, head of Hayden Planetarium, he said the proof that governments can't keep secrets is shown by how much we know about President Clinton's genitalia.
-→ {"text": "另一位偉大的天文學家，海頓天象館館長尼爾·德格拉斯·泰森博士，他說政府無法保守秘密的證據是我們對柯林頓總統生殖器的了解程度。", "confidence": "high", "notes": ""}
+→ {"text": "另一位偉大的天文學家，海頓天象館館長尼爾·德格拉斯·泰森博士，他說政府無法保守秘密的證據是我們對柯林頓總統（President Clinton）生殖器的了解程度。", "confidence": "high", "notes": ""}
 
 305. Now if you can figure that one out you're better than I am.
 → {"text": "如果你能理解那個邏輯，你比我強。", "confidence": "high", "notes": ""}

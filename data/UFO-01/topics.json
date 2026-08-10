@@ -214,10 +214,22 @@
           "reasoning": "The witnesses describe round, glowing objects. 'Rounder' is a comparative adjective that does not fit the context and is likely a mishearing of 'round'."
         },
         {
+          "segment_id": 361,
+          "error_text": "Peter Gerstin",
+          "suggested_correction": "Peter Gersten",
+          "reasoning": "The New York attorney who filed the first UFO FOIA requests against the CIA, NSA, DIA and NRO in the late 1970s is Peter Gersten. 'Gerstin' is a Whisper mishearing; identified during the 2026-08 annotation pass."
+        },
+        {
           "segment_id": 362,
           "error_text": "Curlin Air Force Base",
           "suggested_correction": "Kirtland Air Force Base",
           "reasoning": "The correct name of the base in Albuquerque is Kirtland. The speaker says Kirtland elsewhere, making 'Curlin' a clear mishearing."
+        },
+        {
+          "segment_id": 363,
+          "error_text": "Mr. Gerstin",
+          "suggested_correction": "Mr. Gersten",
+          "reasoning": "Same repeated mishearing of Gersten as in segment 361. The attorney's name is spelled Peter Gersten."
         },
         {
           "segment_id": 364,

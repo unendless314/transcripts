@@ -4,13 +4,13 @@
 → {"text": "這肯定會是充滿學習的一週。", "confidence": "high", "notes": ""}
 
 2. And we are, as Chairman Bartlett said, we're going to be sitting like we are in committee, and we're going to pattern what we're doing today after a formal congressional hearing.
-→ {"text": "如同巴特利特主席所言，我們將以委員會的形式就座，今天的活動將仿照正式的國會聽證會進行。", "confidence": "high", "notes": ""}
+→ {"text": "如同巴特利特主席（Roscoe Bartlett）所言，我們將以委員會的形式就座，今天的活動將仿照正式的國會聽證會進行。", "confidence": "high", "notes": ""}
 
 3. And first of all, we have with us Congresswoman Darlene Hooley, and we have Senator Gravel, Mike Gravel.
-→ {"text": "首先，我們有胡利眾議員，以及麥克·格拉維爾參議員。", "confidence": "high", "notes": ""}
+→ {"text": "首先，我們有胡利眾議員（Darlene Hooley），以及麥克·格拉維爾參議員（Mike Gravel）。", "confidence": "high", "notes": ""}
 
 4. We have Congresswoman Carolyn Kilpatrick, and we have Congressman Merrill Cook.
-→ {"text": "我們有卡蘿琳·基爾派翠克眾議員，以及梅里爾·庫克眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "我們有卡蘿琳·基爾派翠克眾議員（Carolyn Kilpatrick），以及梅里爾·庫克眾議員（Merrill Cook）。", "confidence": "high", "notes": ""}
 
 5. And we are all retired.
 → {"text": "我們都已退休。", "confidence": "high", "notes": ""}
@@ -37,7 +37,7 @@
 → {"text": "現在，我們要請首批兩位證人宣誓。", "confidence": "high", "notes": ""}
 
 13. And initially, I think, Dr. Edgar Mitchell will be brought in on Skype.
-→ {"text": "首先，我認為，艾德加·米切爾博士將透過 Skype 加入。", "confidence": "high", "notes": ""}
+→ {"text": "首先，我認為，艾德加·米切爾博士（Dr. Edgar Mitchell）將透過 Skype 加入。", "confidence": "high", "notes": ""}
 
 14. Good morning, Dr. Mitchell.
 → {"text": "早安，米切爾博士。", "confidence": "high", "notes": ""}
@@ -46,10 +46,10 @@
 → {"text": "早安。", "confidence": "high", "notes": ""}
 
 16. I am a former astronaut, flew to the moon on Apollo 14.
-→ {"text": "我是前太空人，曾搭乘阿波羅 14 號登月。", "confidence": "high", "notes": ""}
+→ {"text": "我是前太空人，曾搭乘阿波羅 14 號（Apollo 14）登月。", "confidence": "high", "notes": ""}
 
 17. And so I have a little bit of out-of-the-earth experience, but also I grew up near Roswell, New Mexico on a ranch, and the so-called Roswell incident of 1947 occurred when I was a senior in high school and getting ready to go off to college in the East.
-→ {"text": "因此我有一些離開地球的經驗，但我也在新墨西哥州羅斯威爾附近的牧場長大，1947 年所謂的羅斯威爾事件發生時，我正就讀高中最後一年，準備前往東部上大學。", "confidence": "high", "notes": ""}
+→ {"text": "因此我有一些離開地球的經驗，但我也在新墨西哥州羅斯威爾（Roswell）附近的牧場長大，1947 年所謂的羅斯威爾事件發生時，我正就讀高中最後一年，準備前往東部上大學。", "confidence": "high", "notes": ""}
 
 18. So and I have been interested in this subject for many years, but let me set up the basic credentials-- for the first time in our human history, our technology is showing us how huge our universe-- well, let's just call it a multiverse-- is with billions and billions of galaxies and galactic clusters and stars, and many of them-- and we identified a few-- many of them so far that possibly could have living systems on them, living beings.
 → {"text": "我對這個主題感興趣已有多年，但讓我先建立基本背景——在人類歷史上第一次，我們的技術向我們展示了宇宙的浩瀚——不如就稱之為多重宇宙——擁有數十億個星系、星系團和恆星，其中許多——我們已經識別出一些——目前發現的許多星球可能擁有生命系統，存在生命存有。", "confidence": "high", "notes": ""}
@@ -115,7 +115,7 @@
 → {"text": "早安。", "confidence": "high", "notes": ""}
 
 38. I'm Paul Hellyer, former Minister of Defense of Canada.
-→ {"text": "我是保羅·赫勒，加拿大前國防部長。", "confidence": "high", "notes": ""}
+→ {"text": "我是保羅·赫勒（Paul Hellyer），加拿大前國防部長。", "confidence": "high", "notes": ""}
 
 39. And a long-time participant in politics and governance.
 → {"text": "我長期參與政治與治理工作。", "confidence": "high", "notes": ""}
