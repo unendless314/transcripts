@@ -22,7 +22,7 @@
 → {"text": "自1990年以來，我為廣播節目製作了一千多個新聞片段。", "confidence": "high", "notes": ""}
 
 300. My four books include An Alien Harvest, 1989, Glimpses of Other Realities, Volume One, Facts and Eyewitnesses, 1993, Glimpses of Other Realities, Volume Two, High Strangeness, 1998, Mysterious Lights, and Crop Circle, Second Edition, 2002.
-→ {"text": "我的四本著作包括1989年的《外星收穫》（An Alien Harvest）、1993年的《其他現實的一瞥，第一卷：事實與目擊者》（Glimpses of Other Realities， Volume One， Facts and Eyewitnesses）、1998年的《其他現實的一瞥，第二卷：高度怪異》（Glimpses of Other Realities， Volume Two， High Strangeness）、以及2002年的《神秘光點與麥田圈，第二版》（Mysterious Lights， and Crop Circle， Second Edition）。", "confidence": "high", "notes": ""}
+→ {"text": "我的四本著作包括1989年的《外星收穫》（An Alien Harvest）、1993年的《其他現實的一瞥，第一卷：事實與目擊者》（Glimpses of Other Realities, Volume One, Facts and Eyewitnesses）、1998年的《其他現實的一瞥，第二卷：高度怪異》（Glimpses of Other Realities, Volume Two, High Strangeness）、以及2002年的《神秘光點與麥田圈，第二版》（Mysterious Lights, and Crop Circle, Second Edition）。", "confidence": "high", "notes": ""}
 
 301. I have been asked to speak around the world as an investigative reporter at national and international conferences and symposiums, including NASA's Goddard Space Flight Center.
 → {"text": "我曾受邀以調查記者的身分在全球各地的國家和國際會議及研討會上演講，包括NASA的戈達德太空飛行中心（Goddard Space Flight Center）。", "confidence": "high", "notes": ""}
@@ -49,7 +49,7 @@
 → {"text": "但在一百多英呎外有一圈馬蹄印，彷彿這匹馬被困在某種東西裡，蹄子繞著圓圈走，然後在一百多英呎外發現了屍體。", "confidence": "high", "notes": ""}
 
 309. At that same time, and Jennifer, image 00, on July 15th, 1984, the Sunday Times in Australia headlined, quote, "Cover-up alleged over UFO-linked animal slaughter.
-→ {"text": "在同一時期，珍妮佛，投影片00,1984年7月15日，澳洲《星期日泰晤士報》的頭條寫道：「據稱存在與不明飛行物相關的動物屠殺真相掩蓋。", "confidence": "high", "notes": ""}
+→ {"text": "在同一時期，珍妮佛，投影片00，1984年7月15日，澳洲《星期日泰晤士報》的頭條寫道：「據稱存在與不明飛行物相關的動物屠殺真相掩蓋。", "confidence": "high", "notes": ""}
 
 310. Many reports of UFOs and strange lights in the sky," close quote, "Farmers in the Adelaide Hills have discovered mutilated animal corpses and burn marks on the ground.
 → {"text": "許多關於不明飛行物和天空中奇怪光點的報告，」引述結束，「阿得萊德山區（Adelaide Hills）的農民發現了肢解的動物屍體和地面上的燒焦痕跡。", "confidence": "high", "notes": ""}
@@ -187,7 +187,7 @@
 → {"text": "這張顯微照片顯示組織切緣處有深粉藍色的平行細胞束。", "confidence": "high", "notes": ""}
 
 355. These changes are referred to as the string beans signed by a pathologist indicating tissue exposure to high heat, as in laser or hot needle surgery, but again, there is no carbon residue.
-→ {"text": "病理學家將這些變化稱為「豌豆串」（string beans）徵象，表示組織暴露於高溫，如雷射或熱針手術，但同樣沒有碳殘留。", "confidence": "high", "notes": ""}
+→ {"text": "病理學家將這些變化稱為「四季豆」（string beans）徵象，表示組織暴露於高溫，如雷射或熱針手術，但同樣沒有碳殘留。", "confidence": "high", "notes": "原文 signed 應為 sign（徵象）；string beans 為四季豆，非豌豆"}
 
 356. Image 11.
 → {"text": "投影片11。", "confidence": "high", "notes": ""}
@@ -223,10 +223,10 @@
 → {"text": "如何切除大片組織並留下高溫證據，卻沒有碳殘留、沒有血跡、動物周圍沒有足跡，而且在兩分鐘或更短時間內完成？", "confidence": "high", "notes": ""}
 
 367. Len Lauber, head of animal mutilation investigations at the Royal Canadian Mounted Police in Calgary Alberta in 1980, where the local Canadian media were told by the RCMP that the cause of the mutilations there in the hundreds were satanic cults.
-→ {"text": "1980年在亞伯達省卡加利（Calgary Alberta）的加拿大皇家騎警動物肢解調查負責人蘭·勞伯（Len Lauber），當時加拿大皇家騎警告訴當地加拿大媒體，那裡數百起肢解案件的原因是邪教所為。", "confidence": "high", "notes": ""}
+→ {"text": "1980年在亞伯達省卡加利（Calgary Alberta）的加拿大皇家騎警動物肢解調查負責人連恩·勞伯（Len Lauber），當時加拿大皇家騎警告訴當地加拿大媒體，那裡數百起肢解案件的原因是邪教所為。", "confidence": "high", "notes": ""}
 
 368. But Lynn Lauber called me at KMGH TV in Denver after the broadcast of my TV documentary, A Strange Harvest, and he said that he had seen my documentary, and he was calling me because, and this is what he said to me, he knew that something from outer space was involved in the mutilations that the RCMP in Canada had investigated.
-→ {"text": "但蘭·勞伯在我的電視紀錄片《詭異收穫》播出後打電話到丹佛的KMGH電視台找我，他說他看了我的紀錄片，他打電話給我是因為——這是他對我說的——他知道加拿大皇家騎警調查的肢解案件涉及來自外太空的東西。", "confidence": "high", "notes": ""}
+→ {"text": "但連恩·勞伯在我的電視紀錄片《詭異收穫》播出後打電話到丹佛的KMGH電視台找我，他說他看了我的紀錄片，他打電話給我是因為——這是他對我說的——他知道加拿大皇家騎警調查的肢解案件涉及來自外太空的東西。", "confidence": "high", "notes": "原文 Lynn Lauber 應為 Len Lauber（同 seg 367）"}
 
 369. When I asked him why then have you told the media the perpetrators are satanic cults, he said the reason was that he felt the truth was too difficult to report publicly.
 → {"text": "當我問他那為什麼告訴媒體施暴者是邪教時，他說原因是他覺得真相太難以公開報導。", "confidence": "high", "notes": ""}
@@ -250,7 +250,7 @@
 → {"text": "有人看到發光的圓盤用光束將動物降下到牧場，然後動物就被肢解了。", "confidence": "high", "notes": ""}
 
 376. And to get those people, law enforcement or ranchers, to stand up in front of a camera and tell the world what they've seen with their own eyes is the biggest difficulty of my entire career because we are on a planet where humans are more afraid of humans and they're ridicule than they are of extraterrestrials.
-→ {"text": "要讓這些人，無論是執法人員還是牧場主，站在攝影機前告訴世界他們親眼所見，是我整個職業生涯中最大的困難，因為我們生活在一個人類更害怕人類和他們的嘲笑，勝過害怕外星人的星球上。", "confidence": "high", "notes": ""}
+→ {"text": "要讓這些人，無論是執法人員還是牧場主，站在攝影機前告訴世界他們親眼所見，是我整個職業生涯中最大的困難，因為我們生活在一個人類更害怕人類和他們的嘲笑，勝過害怕外星人的星球上。", "confidence": "high", "notes": "原文 they're 應為 their"}
 
 377. I am hoping that in this citizen hearing, a kind of exercise to what I hope will take place.
 → {"text": "我希望這次公民聽證會是一種演練，為我希望將會發生的事情做準備。", "confidence": "high", "notes": ""}
@@ -259,7 +259,7 @@
 → {"text": "所有這些都應該在正式的、行政的、官方的國會聽證會上提出，質問為什麼美國政府的機構——司法部、FBI、CIA、國安局（NSA）、國防情報局（DIA）、國家偵察局（NRO）——他們都一直在研究這個問題。", "confidence": "high", "notes": ""}
 
 379. They have more data than I do.
-→ {"text": "他們擁有比我更多的數據。", "confidence": "high", "notes": ""}
+→ {"text": "他們擁有比我更多的資料。", "confidence": "high", "notes": ""}
 
 380. Why shouldn't this country get back on the track of being of and by and for the people and that we should know exactly what those agencies know?
 → {"text": "為什麼這個國家不應該回到「民有、民治、民享」的軌道上，我們應該確切知道那些機構所知道的？", "confidence": "high", "notes": ""}

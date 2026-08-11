@@ -37,7 +37,7 @@
 → {"text": "我們都在進行非常深入的調查工作。", "confidence": "high", "notes": ""}
 
 228. For the last five years, I have worked with Colonel Charles Holt, the man who wrote the Holt memorandum, the deputy base commander, of what was absolutely a nuclear facility.
-→ {"text": "過去五年來，我一直與查爾斯·霍爾特上校合作，他就是撰寫霍爾特備忘錄的那位副基地指揮官，而那絕對是一座核武設施。", "confidence": "high", "notes": ""}
+→ {"text": "過去五年來，我一直與查爾斯·霍爾特上校合作，他就是撰寫霍爾特備忘錄的那位副基地指揮官，而那絕對是一座核武設施。", "confidence": "high", "notes": "原文 Charles Holt 應為 Charles Halt（霍爾特備忘錄作者）"}
 
 229. And let me back that up by saying that for three years of my six years in the Royal Air Force, between 1983 and 1989, I served on two nuclear bases doing exactly the same job as what those U.S. Air Force policemen did, and the base at Bentwater is identical to the base that I was in West Germany where I worked.
 → {"text": "讓我用我的親身經歷來佐證這一點：在我於英國皇家空軍服役的六年中，從1983年到1989年間，有三年時間我在兩個核武基地服役，做的工作與那些美國空軍警察完全相同，而且本特沃特（Bentwater）基地與我在西德工作過的基地完全一樣。", "confidence": "high", "notes": ""}
@@ -55,7 +55,7 @@
 → {"text": "回到我的警察背景，2002年1月，我創建了警察目擊不明飛行物報告資料庫（Police Reporting UFO Sightings Database）。", "confidence": "high", "notes": ""}
 
 234. It's commonly referred to as the Proof Force Police Database.
-→ {"text": "它通常被簡稱為PRUFOS資料庫。", "confidence": "high", "notes": ""}
+→ {"text": "它通常被簡稱為PRUFOS資料庫。", "confidence": "high", "notes": "原文 Proof Force Police Database 為轉錄錯誤，應為 PRUFOS（Police Reporting UFO Sightings）"}
 
 235. You have an information pack with that information.
 → {"text": "各位手上有相關的資料包。", "confidence": "high", "notes": ""}
@@ -91,7 +91,7 @@
 → {"text": "在一起特定案例中，超過24名警察在1993年3月30日至31日夜間，追蹤至少一個飛行物體橫越英國六個郡。", "confidence": "high", "notes": ""}
 
 246. This is referred to as the Cosford Incident.
-→ {"text": "這被稱為科斯福德事件。", "confidence": "high", "notes": ""}
+→ {"text": "這被稱為科斯福德事件（Cosford Incident）。", "confidence": "high", "notes": ""}
 
 247. Many police officers have observed structured craft of huge size and proportions in close proximity to their ground positions.
 → {"text": "許多警察在非常接近地面的位置觀察到巨大的結構化飛行器。", "confidence": "high", "notes": ""}
@@ -103,7 +103,7 @@
 → {"text": "我認為資料庫中的許多警察案例確實非常不尋常。", "confidence": "high", "notes": ""}
 
 250. For example, in October 1984 near RAF Northolt, Middlesex, a silent black triangular object was seen at low altitude by two uniformed police officers on mobile patrol wallet, which they described as being the size of three football fields.
-→ {"text": "例如，1984年10月在米德爾塞克斯郡RAF Northolt附近，兩名執行機動巡邏的制服警察在低空目擊一個無聲的黑色三角形物體，他們描述其大小相當於三個足球場。", "confidence": "high", "notes": ""}
+→ {"text": "例如，1984年10月在米德爾塞克斯郡（Middlesex）諾索爾皇家空軍基地（RAF Northolt）附近，兩名執行機動巡邏的制服警察在低空目擊一個無聲的黑色三角形物體，他們描述其大小相當於三個足球場。", "confidence": "high", "notes": "原文此段轉錄嚴重訛誤（Arief North Alton Middlesex），依史實更正為 RAF Northolt, Middlesex；句尾 wallet 疑為轉錄雜訊，未譯"}
 
 251. When I sought to clarify this description of size, they said when they saw it, it was above three football fields.
 → {"text": "當我試圖澄清這個大小描述時，他們說當他們看到它時，它就懸浮在三個足球場的上方。", "confidence": "high", "notes": ""}

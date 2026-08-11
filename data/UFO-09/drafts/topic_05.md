@@ -94,7 +94,7 @@
 → {"text": "所以我必須非常傲慢和自以為是，才會相信在這個廣闊的宇宙中沒有任何比我們更先進的文明。", "confidence": "high", "notes": ""}
 
 417. And I note that we still have these stupid wars and kill each other and there's got to be a civilization somewhere in this huge universe with a billion stars in our galaxy and a billion galaxies out there.
-→ {"text": "我注意到我們仍然在進行這些愚蠢的戰爭，互相殘殺，而在這個擁有數十億恆星的銀河系以及外面數十億個星系的巨大宇宙中，一定存在某個文明。", "confidence": "high", "notes": ""}
+→ {"text": "我注意到我們仍然在進行這些愚蠢的戰爭，互相殘殺，而在這個擁有十億顆恆星的銀河系以及外面十億個星系的巨大宇宙中，一定存在某個文明。", "confidence": "high", "notes": ""}
 
 418. The statistical probability that there is life somewhere else just has to be very, very high, doesn't it?
 → {"text": "某處存在生命的統計概率一定非常、非常高，不是嗎？", "confidence": "high", "notes": ""}
@@ -208,7 +208,7 @@
 → {"text": "這變成了參議院聽證會了，你知道，我們在那裡發表我們的觀點，當然，過去兩天我也犯了這個毛病。", "confidence": "high", "notes": ""}
 
 455. The next person to ask questions is Congresswoman Lynn Wolsey.
-→ {"text": "下一位提問的是林恩·沃爾西眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "下一位提問的是林恩·伍爾西（Lynn Woolsey）眾議員。", "confidence": "high", "notes": "原文 Wolsey 應為 Woolsey，網路流通譯名「伍爾西」"}
 
 456. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -247,7 +247,7 @@
 → {"text": "好的，那麼給我們一兩個例子，說明有人打電話報告什麼事情，實際上導致了令人難以置信的行動。", "confidence": "high", "notes": ""}
 
 468. Thank you for the question, Congresswoman Woolsey.
-→ {"text": "謝謝您的提問，沃爾西眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝您的提問，伍爾西眾議員。", "confidence": "high", "notes": ""}
 
 469. I would go right to the Phoenix Lights case in response to your question, the most dramatic case that I've handled in my roughly 50, 60 years of investigating the UFO phenomenon.
 → {"text": "針對您的問題，我會直接提到鳳凰城光點事件，這是我在大約50、60年的UFO現象調查中處理過的最戲劇性的案例。", "confidence": "high", "notes": ""}
@@ -370,7 +370,7 @@
 → {"text": "那麼現在，你的理解是這些技術不是常識嗎？", "confidence": "high", "notes": ""}
 
 509. Oh I think they're common knowledge in popular culture but the specifics of the dynamics of these machines and what they're capable of for most intelligent people would mimic a machine from another planet or something.
-→ {"text": "哦，我認為它們在流行文化中是常識，但對於大多數聰明人來說，這些機器的動力學細節以及它們的能力會模仿來自另一個星球的機器或類似的東西。", "confidence": "high", "notes": ""}
+→ {"text": "哦，我認為它們在流行文化中是常識，但對大多數聰明人來說，這些機器的動力學細節及其性能，看起來就如同來自另一個星球的機器。", "confidence": "high", "notes": ""}
 
 510. Also if you're predisposed to the subject or you're a believer or you're looking for these things, it can be a plane coming at a certain angle, it can under certain circumstances be a reflection from the ground, it can be a large assembly of balloons themselves that escape.
 → {"text": "另外，如果你對這個主題有先入為主的看法，或者你是信徒，或者你正在尋找這些東西，它可能是以某個角度飛來的飛機，在某些情況下可能是地面的反射，可能是一大群逃逸的氣球組合。", "confidence": "high", "notes": ""}
@@ -379,7 +379,7 @@
 → {"text": "有無數種可能性。", "confidence": "high", "notes": ""}
 
 512. The main thing is to paraphrase our friend and colleague Stanton Friedman, the question is not are UFOs per se machines of advanced technology from parts unknown.
-→ {"text": "主要的是，套用我們的朋友和同事斯坦頓·弗里德曼的話，問題不在於UFO本身是否是來自未知地方的先進技術機器。", "confidence": "high", "notes": ""}
+→ {"text": "主要的是，套用我們的朋友和同事斯坦頓·弗里德曼（Stanton Friedman）的話，問題不在於UFO本身是否是來自未知地方的先進技術機器。", "confidence": "high", "notes": ""}
 
 513. The question is has one ever been and for those of us that spend a good part of our lives looking into these questions, that answer is overwhelmingly yes.
 → {"text": "問題是是否曾經有過，對於我們這些花費大量生命時間研究這些問題的人來說，答案是壓倒性的肯定。", "confidence": "high", "notes": ""}
@@ -511,10 +511,10 @@
 → {"text": "不，我接受這點，但我們在這裡是要看證據的。", "confidence": "high", "notes": ""}
 
 556. But the evidence goes to implication and that's what you're asking about.
-→ {"text": "但證據涉及影響，這就是你在問的。", "confidence": "high", "notes": ""}
+→ {"text": "但證據指向的是其意涵，這正是你在問的。", "confidence": "high", "notes": ""}
 
 557. And the implication of all of this is most of the world is probably at the stage of pretty lights in the sky that form patterns or can be stationary and put beams down.
-→ {"text": "所有這一切的影響是，世界上大多數人可能還停留在天空中漂亮的光形成圖案或可以靜止並發射光束的階段。", "confidence": "high", "notes": ""}
+→ {"text": "所有這一切的意涵是，世界上大多數人可能還停留在天空中漂亮的光點形成圖案、或可以靜止並投射光束的階段。", "confidence": "high", "notes": ""}
 
 558. And what I just presented to you in a brief way was just a tiny, tiny scratch on the surface of 33 years of my trying to understand animal mutilations and why, which goes out to a thousand other branches.
 → {"text": "我剛才以簡短的方式向你們呈現的，只是我33年來試圖理解動物肢解及其原因的表面一點點，這延伸到其他一千個分支。", "confidence": "high", "notes": ""}
@@ -532,7 +532,7 @@
 → {"text": "為什麼以及達到什麼目的，是一個非常複雜的故事。", "confidence": "high", "notes": ""}
 
 563. And I think that what I had just realized and you're asking me the question which goes to implication is that the disconnect between the current world population of seven billion and what is actually happening on this planet in relationship to other intelligences, the gap is so great that to address the details that are known and what our government knows is so difficult that right now the inertia of silence on the part of government agencies who have a great deal of information, let me guarantee you, that they feel that this is a subject that cannot be presented.
-→ {"text": "我認為我剛剛意識到的，而你問我這個涉及影響的問題是，目前全球70億人口與這個星球上與其他智慧的關係中實際發生的事情之間的脫節，差距是如此之大，以至於要處理已知的細節和我們政府所知道的是如此困難，讓我向你保證，現在擁有大量資訊的政府機構的沉默慣性，他們認為這是一個無法呈現的主題。", "confidence": "high", "notes": ""}
+→ {"text": "我認為我剛剛意識到的，而你問我這個涉及意涵的問題是，目前全球70億人口與這個星球上與其他智慧的關係中實際發生的事情之間的脫節，差距是如此之大，以至於要處理已知的細節和我們政府所知道的是如此困難，讓我向你保證，現在擁有大量資訊的政府機構的沉默慣性，他們認為這是一個無法呈現的主題。", "confidence": "high", "notes": ""}
 
 564. And I do know that there was a high ranking naval officer who told one of his lower ranking officers who had seen a craft who was exposed to the photographs from Roswell of the bodies.
 → {"text": "我確實知道有一位高級海軍軍官告訴他的一位低階軍官，這位低階軍官看過一艘飛行器，接觸過羅斯威爾屍體的照片。", "confidence": "high", "notes": ""}
@@ -544,10 +544,10 @@
 → {"text": "答案是永遠不會。", "confidence": "high", "notes": ""}
 
 567. And the implication there politically is that we are now in the United States of America where there is an unstated policy of total complete silence for the foreseeable future because it is too difficult to change what has been known to something that might upend a lot of subjects.
-→ {"text": "而在政治上的影響是，我們現在在美國，在可預見的未來有一個未明說的完全徹底沉默的政策，因為改變已知的東西為可能顛覆許多主題的東西太困難了。", "confidence": "high", "notes": ""}
+→ {"text": "而在政治上的意涵是，我們現在在美國，在可預見的未來有一個未明說的完全徹底沉默的政策，因為把已知的事情改變為可能顛覆許多主題的東西太困難了。", "confidence": "high", "notes": ""}
 
 568. I would like to turn it now to Congressman Carolyn Kilpatrick, please.
-→ {"text": "現在我想請卡洛琳·基爾帕特里克眾議員發言。", "confidence": "high", "notes": ""}
+→ {"text": "現在我想請卡洛琳·基爾帕特里克（Carolyn Kilpatrick）眾議員發言。", "confidence": "high", "notes": "原文 Congressman 應為 Congresswoman，講者隨即更正（見下段）"}
 
 569. That will be Congresswoman, sir.
 → {"text": "那是眾議員女士，先生。", "confidence": "high", "notes": ""}
@@ -586,7 +586,7 @@
 → {"text": "很多筆記、很多工作，我的思緒被震撼了。", "confidence": "high", "notes": ""}
 
 581. I think I want to ask you first, Mr. Hazelton, Royal Air Force, security, police, hundreds of incidents yet today, what is the position of the British government on UFOs?
-→ {"text": "我想我要先問你，黑茲爾頓先生，英國皇家空軍、安全、警察，直到今天數百起事件，英國政府對UFO的立場是什麼？", "confidence": "medium", "notes": "轉錄中姓名誤拼為 Hazelton，實際應為 Heseltine（海絲汀）"}
+→ {"text": "我想我要先問你，海絲汀先生，英國皇家空軍、安全、警察，直到今天數百起事件，英國政府對UFO的立場是什麼？", "confidence": "high", "notes": "原文 Hazelton 應為 Heseltine"}
 
 582. And is it similar to US who are cousins or is it something different or do we do this in British?
 → {"text": "這與我們的表親美國相似嗎，還是有所不同，還是我們用英國的方式做這件事？", "confidence": "high", "notes": ""}
@@ -613,10 +613,10 @@
 → {"text": "然而，已發布的大部分文件都是非常低層次的，主要是通信，其中有一些非常好的案例。", "confidence": "high", "notes": ""}
 
 590. For example, a British case in 1957, Milton Torres, a pilot, US pilot flying over Ipswich in Suffolk, England and he was stationed there flying a super saber.
-→ {"text": "例如，1957年的一個英國案例，米爾頓·托雷斯，一名飛行員，美國飛行員在英格蘭薩福克郡伊普斯威奇上空飛行，他駐紮在那裡駕駛超級軍刀戰機。", "confidence": "high", "notes": ""}
+→ {"text": "例如，1957年的一個英國案例，米爾頓·托雷斯（Milton Torres），一名飛行員，美國飛行員在英格蘭薩福克郡伊普斯威奇上空飛行，他駐紮在那裡駕駛超級軍刀戰機。", "confidence": "high", "notes": "super saber 指 F-100 Super Sabre 超級軍刀戰機"}
 
 591. He was vectored towards a radar target and he was ordered to fire his missile at the target.
-→ {"text": "他被引導向一個雷達目標，他被命令向目標發射導彈。", "confidence": "high", "notes": ""}
+→ {"text": "他被引導向一個雷達目標，他被命令向目標發射飛彈。", "confidence": "high", "notes": ""}
 
 592. He actually got the launch codes when he went to launch, it jammed.
 → {"text": "當他準備發射時，他實際上得到了發射代碼，結果卡住了。", "confidence": "high", "notes": ""}
@@ -691,7 +691,7 @@
 → {"text": "沒有被建立在其上，沒有被內化。", "confidence": "high", "notes": ""}
 
 616. If I have my military who comes to me and tells me they've got data, experiences and other kinds of things that this is real, other countries I've been on elevator and in the hotels with others from Chile and Peru and everywhere else in the world or many places in the world, when we already acknowledge that whatever it is is more significant than what we have here and obviously in Britain and some of the other countries, the why of it, your scientific data is outstanding.
-→ {"text": "如果我的軍方來找我告訴我他們有數據、經驗和其他各種東西證明這是真實的，我在電梯裡和酒店裡遇到來自智利、秘魯和世界各地或世界許多地方的其他國家的人，當我們已經承認無論它是什麼，都比我們這裡擁有的更重要，顯然在英國和其他一些國家也是如此，它的原因，你們的科學數據是傑出的。", "confidence": "high", "notes": ""}
+→ {"text": "如果我的軍方來找我告訴我他們有資料、經驗和其他各種東西證明這是真實的，我在電梯裡和飯店裡遇到來自智利、秘魯和世界各地或世界許多地方的其他國家的人，當我們已經承認無論它是什麼，都比我們這裡擁有的更重要，顯然在英國和其他一些國家也是如此，它的原因，你們的科學資料是傑出的。", "confidence": "high", "notes": ""}
 
 617. I think the answer is probably in a coalition of nations and not in our governments.
 → {"text": "我認為答案可能在國家聯盟中，而不在我們的政府中。", "confidence": "high", "notes": ""}
@@ -706,7 +706,7 @@
 → {"text": "這是一個重大案例，涉及一個非常重要的基地上的數十名軍事人員。", "confidence": "high", "notes": ""}
 
 621. I for one at least have been exposed to information from two people that within 24 hours of the Jim Peniston, John Burroughs and Ed Kvansack encounter with the black glassy craft with the hieroglyphic symbols on it in the forest that within 24 hours in the UK, the National Security Agency of the United States took over everything that was happening at Van Water.
-→ {"text": "至少我個人從兩個人那裡接觸到資訊，在吉姆·彭尼斯頓、約翰·巴勒斯和艾德·克萬薩克在森林中遭遇那個帶有象形符號的黑色玻璃狀飛行器後的24小時內，在英國，美國國家安全局接管了蘭德沙姆森林發生的一切。", "confidence": "medium", "notes": "Van Water 應為 Rendlesham（蘭德沙姆森林）"}
+→ {"text": "至少我個人從兩個人那裡接觸到資訊，在吉姆·潘尼斯頓（Jim Penniston）、約翰·巴勒斯（John Burroughs）和艾德·克萬薩克（Ed Kvansack）在森林中遭遇那個帶有象形符號的黑色玻璃狀飛行器後的24小時內，在英國，美國國家安全局接管了蘭德沙姆森林發生的一切。", "confidence": "medium", "notes": "Van Water 應為 Rendlesham（蘭德沙姆森林）；潘尼斯頓譯名依主表（UFO-05 人工裁決網路流通譯法）"}
 
 622. They testified to that.
 → {"text": "他們作證證明了這一點。", "confidence": "high", "notes": ""}
@@ -973,7 +973,7 @@
 → {"text": "對我來說，我在20多年前就開始質疑這個問題。", "confidence": "high", "notes": ""}
 
 710. How is it that my saying to you, Congresswoman, I saw something in the sky the other day or the other night that I couldn't recognize or did something that I had never seen, case closed, why is it that in terms of 66 years of Western journalism, popular culture, attitudes and ideas about flying saucers and little green men that you hear me make a simple observation and you're wired to think, gee, I didn't know Peter had mental problems or maybe he's kind of gone mystical or he wants to feel special or he wants to perpetrate a hoax or he wants to be on the Oprah show or in the words of the late Dr. Wilhelm Reich, evasion of the obvious.
-→ {"text": "為什麼我對你說，眾議員女士，我前幾天或前幾晚在天空中看到了我無法辨認的東西，或者做了我從未見過的事情，案件結束，為什麼在66年的西方新聞業、流行文化、關於飛碟和小綠人的態度和想法方面，你聽到我做一個簡單的觀察，你就被設定成認為，哇，我不知道彼得有精神問題，或者也許他有點走向神秘主義，或者他想感覺特別，或者他想製造騙局，或者他想上歐普拉秀，或者用已故的威廉·萊希博士的話說，逃避明顯的事實。", "confidence": "high", "notes": ""}
+→ {"text": "為什麼我對你說，眾議員女士，我前幾天或前幾晚在天空中看到了我無法辨認的東西，或者做了我從未見過的事情，案件結束，為什麼在66年的西方新聞業、流行文化、關於飛碟和小綠人的態度和想法方面，你聽到我做一個簡單的觀察，你就被設定成認為，哇，我不知道彼得有精神問題，或者也許他有點走向神秘主義，或者他想感覺特別，或者他想製造騙局，或者他想上歐普拉秀，或者用已故的威廉·賴希（Wilhelm Reich）博士的話說，逃避明顯的事實。", "confidence": "high", "notes": ""}
 
 711. Why is it?
 → {"text": "為什麼會這樣？", "confidence": "high", "notes": ""}
@@ -1006,10 +1006,10 @@
 → {"text": "在印刷方面它仍然是。", "confidence": "high", "notes": ""}
 
 721. The influence the Times exerted over the other news syndicates was marked.
-→ {"text": "《泰晤士報》對其他新聞聯合組織施加的影響是顯著的。", "confidence": "high", "notes": ""}
+→ {"text": "《紐約時報》對其他新聞聯合組織施加的影響是顯著的。", "confidence": "high", "notes": "The Times 此處指 New York Times（承上文），非倫敦《泰晤士報》"}
 
 722. The Copley Syndicate, Hearst Papers, all of the major American papers followed the Times lead as a rule, and the Times hit the floor with all four wheels spinning.
-→ {"text": "科普利聯合組織、赫斯特報業，所有主要的美國報紙通常都追隨《泰晤士報》的領導，而《泰晤士報》全力以赴。", "confidence": "high", "notes": ""}
+→ {"text": "科普利聯合組織（Copley Syndicate）、赫斯特報業（Hearst Papers），所有主要的美國報紙通常都追隨《紐約時報》的領導，而《紐約時報》全力以赴。", "confidence": "high", "notes": "The Times 此處指 New York Times，非倫敦《泰晤士報》"}
 
 723. Every coverage, and I will be happy to send you an unpublished paper on this if you're curious.
 → {"text": "每一篇報導，如果你們好奇的話，我很樂意向你們發送一篇關於這個的未發表論文。", "confidence": "high", "notes": ""}
@@ -1051,7 +1051,7 @@
 → {"text": "正如彼得所說，地方媒體幾乎總是有好奇的心態，並且獨立行動，實際上尋找資訊。", "confidence": "high", "notes": ""}
 
 736. I cannot prove, I couldn't offer you a shred of real evidence of why I think this is and how it happened, but deductive reasoning, a lot of study and common sense suggest to me that a number of key individuals in the Truman administration, either with the understanding of the president or not to preserve plausible liability, either with the coordination of the study group that had formed around the president in 1947 or not, went to New York, to Boston, to Los Angeles to meet with people like David Sarnoff of NBC, the owners of The Times, the Hearst people, and one of several things passed.
-→ {"text": "我無法證明，我無法為你提供任何真實證據來說明我為什麼這樣認為以及它是如何發生的，但演繹推理、大量研究和常識向我表明，杜魯門政府中的一些關鍵人物，無論是在總統的理解下還是為了保留合理的責任，無論是否與1947年在總統周圍形成的研究小組協調，都去了紐約、波士頓、洛杉磯，與NBC的大衛·薩諾夫、《泰晤士報》的所有者、赫斯特人等人會面，並傳達了幾件事情之一。", "confidence": "high", "notes": ""}
+→ {"text": "我無法證明，我無法為你提供任何真實證據來說明我為什麼這樣認為以及它是如何發生的，但演繹推理、大量研究和常識向我表明，杜魯門政府中的一些關鍵人物，無論是否在總統的諒解下，為了保留合理的免責空間，無論是否與1947年在總統周圍形成的研究小組協調，都去了紐約、波士頓、洛杉磯，與NBC的大衛·薩諾夫（David Sarnoff）、《紐約時報》的所有者、赫斯特報業的人會面，並傳達了幾件事情之一。", "confidence": "high", "notes": "The Times 此處指 New York Times，非倫敦《泰晤士報》；原文 plausible liability 應為 plausible deniability（合理的可推諉性）"}
 
 737. They basically said we're a little concerned based on that old bugaboo of Orson Welles in 1938, mass panic, you know everybody's worried about the Russians right now.
 → {"text": "他們基本上說，基於1938年奧森·威爾斯的那個老問題，大規模恐慌，你知道現在每個人都在擔心俄羅斯人，我們有點擔心。", "confidence": "high", "notes": ""}
@@ -1126,7 +1126,7 @@
 → {"text": "據我們所能了解的，法明頓報紙的編輯當時確實收到了來自五角大廈某人的要求，要求不要報導發生的事情，對當地編輯施加了明顯的壓力。", "confidence": "high", "notes": ""}
 
 761. And I believe that that is the way that the Defense Department and local media, that was shortly after World War II, and so the population was less and the local media were much, much more inclined to take some requests by the Pentagon.
-→ {"text": "我相信這就是國防部和地方媒體的方式，那是在第二次世界大戰後不久，所以人口較少，地方媒體更更傾向於接受五角大廈的一些要求。", "confidence": "high", "notes": ""}
+→ {"text": "我相信這就是國防部和地方媒體的方式，那是在第二次世界大戰後不久，所以人口較少，地方媒體更加傾向於接受五角大廈的一些要求。", "confidence": "high", "notes": ""}
 
 762. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -1264,25 +1264,25 @@
 → {"text": "我想請蓋瑞·海絲汀發言，我必須說我對你的目擊清單特別印象深刻，我印象深刻的原因是因為它們都來自警察，每一個都是。", "confidence": "high", "notes": ""}
 
 807. This is a pretty thick list, a lot of them, so I imagine the credibility on your list you would rank as certainly higher than what many people that collect data would indicate.
-→ {"text": "這是一份相當厚的清單，有很多，所以我想像你清單上的可信度你會評為肯定比許多收集數據的人所表示的要高。", "confidence": "high", "notes": ""}
+→ {"text": "這是一份相當厚的清單，有很多，所以我想你清單上的可信度，你會評為肯定比許多收集資料的人所表示的要高。", "confidence": "high", "notes": ""}
 
 808. I don't want to put any words in your mouth.
 → {"text": "我不想把話塞進你嘴裡。", "confidence": "high", "notes": ""}
 
 809. No, you've actually highlighted something that I hope to be able to answer, and I think the real answer is that when I said to you before that the accepted figure is three percent after investigation, well that's not really the end of it because I would argue that in the high caliber witness categories, high caliber I would mean astronauts, cosmonauts, pilots, military and commercial, radar operators, sonar operators, in these very high caliber witness categories, the percentage after investigation would be much, much higher than that three percent.
-→ {"text": "不，你實際上突顯了我希望能夠回答的東西，我認為真正的答案是，當我之前對你說調查後公認的數字是3%時，嗯，這並不是真正的終點，因為我會爭辯說，在高水準證人類別中，高水準我指的是太空人、宇航員、飛行員、軍事和商業、雷達操作員、聲納操作員，在這些非常高水準的證人類別中，調查後的百分比會比那3%高得多。", "confidence": "high", "notes": ""}
+→ {"text": "不，你實際上突顯了我希望能夠回答的東西，我認為真正的答案是，當我之前對你說調查後公認的數字是3%時，嗯，這並不是真正的終點，因為我會爭辯說，在高水準證人類別中，高水準我指的是太空人（astronauts）、俄國太空人（cosmonauts）、飛行員、軍用和民航、雷達操作員、聲納操作員，在這些非常高水準的證人類別中，調查後的百分比會比那3%高得多。", "confidence": "high", "notes": ""}
 
 810. I would hazard a guess that if you looked at military pilots with millions of dollars spent on their training, the percentage of error would be much reduced, and I would hazard a guess that it would be something in the region of 80 percent plus were accurate.
 → {"text": "我大膽猜測，如果你看看在訓練上花費數百萬美元的軍事飛行員，錯誤率會大大降低，我大膽猜測，大約80%以上是準確的。", "confidence": "high", "notes": ""}
 
 811. Okay, then I'm going to quickly ask you, well I'm not going to ask you because I only have a minute left, but I'm going to say certainly credibility of people like Captain Solace who's sitting here in the front row, that probably caused the United States Air Force to come up with filters over their ICBM silos is certainly going to be a credible experience in the UFO.
-→ {"text": "好的，那麼我要快速問你，嗯我不會問你因為我只剩一分鐘了，但我要說的是，像坐在前排的索拉斯上尉這樣的人的可信度，這可能導致美國空軍在他們的ICBM發射井上安裝過濾器，這肯定會是UFO方面的可信經驗。", "confidence": "high", "notes": ""}
+→ {"text": "好的，那麼我要快速問你，嗯我不會問你因為我只剩一分鐘了，但我要說的是，像坐在前排的薩拉斯上尉（Captain Salas）這樣的人的可信度，這可能導致美國空軍在他們的洲際彈道飛彈（ICBM）發射井上加裝濾鏡，這肯定會是UFO方面的可信經驗。", "confidence": "high", "notes": "原文 Solace 應為 Salas（與 UFO-07/08 薩拉斯上尉同一人）；filters 指飛彈發射井的光學／觀測濾鏡"}
 
 812. Well, I think that's where we need to look at when we look at collective evidence.
 → {"text": "嗯，我認為這就是我們看集體證據時需要關注的地方。", "confidence": "high", "notes": ""}
 
 813. I'm sorry to catch you, but I know that we're trying, I'm going to ask Ms. Howe, very interesting slides, very interesting, Nevada Proving Ground, Dagway, Utah, I'm from Utah, talk about secrets, let's talk about nuclear testing secrets, could nuclear testing have a lot to do with these animal carcasses and the bloodless?
-→ {"text": "對不起打斷你，但我知道我們正在努力，我要問豪女士，非常有趣的幻燈片，非常有趣，內華達試驗場、猶他州達格威，我來自猶他州，談談秘密，讓我們談談核試驗秘密，核試驗是否與這些動物屍體和失血有很大關係？", "confidence": "high", "notes": ""}
+→ {"text": "對不起打斷你，但我知道我們正在努力，我要問豪女士，非常有趣的投影片，非常有趣，內華達試驗場（Nevada Proving Ground）、猶他州達格威（Dugway），我來自猶他州，談談秘密，讓我們談談核試驗秘密，核試驗是否與這些動物屍體和無血現象有很大關係？", "confidence": "high", "notes": "原文 Dagway 應為 Dugway（Dugway Proving Ground，猶他州生化武器試驗場）"}
 
 814. Isn't that a...
 → {"text": "這不是一個…", "confidence": "high", "notes": ""}
@@ -1336,7 +1336,7 @@
 → {"text": "嗯，我很感激你告訴我這對我很有趣，但你不允許任何迴旋餘地，例如達文波特先生似乎在最終結論方面允許的，這當然是你的權利，因為你看過這些東西比我多得多。", "confidence": "high", "notes": ""}
 
 831. I want to get the best information I can, as credibly put together as I can, to help, as I said, break down the truth embargo.
-→ {"text": "我想獲得我能獲得的最好資訊，盡可能可信地組合在一起，以幫助，正如我所說的，打破真相禁運。", "confidence": "high", "notes": ""}
+→ {"text": "我想獲得我能獲得的最好資訊，盡可能可信地組合在一起，以幫助，正如我所說的，打破真相封鎖。", "confidence": "high", "notes": ""}
 
 832. That's what we need to do first, and maybe we have to do it a brick at a time.
 → {"text": "這是我們首先需要做的，也許我們必須一磚一瓦地做。", "confidence": "high", "notes": ""}

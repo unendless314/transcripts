@@ -148,7 +148,7 @@
 → {"text": "本委員會曾提出問題並評論，UFO會墜毀嗎？", "confidence": "high", "notes": ""}
 
 50. They have malfunctions.
-→ {"text": "它們會故障嗎。", "confidence": "high", "notes": ""}
+→ {"text": "它們會故障。", "confidence": "high", "notes": ""}
 
 51. On the 7th of January, 1995, precisely that seems to have occurred over the city of McMinnville, Tennessee.
 → {"text": "1995年1月7日，正是這樣的情況似乎發生在田納西州麥克明維爾市上空。", "confidence": "high", "notes": ""}
@@ -175,7 +175,7 @@
 → {"text": "今晚我將呈報證據，說明為何我們相信情況如此，以及我們如何計算它們的大小。", "confidence": "high", "notes": ""}
 
 59. Next case, Longview, Washington, an elk, an adult female elk lifted out of the forest of the state of Washington before 14 witnesses at about one minute before noon.
-→ {"text": "下一個案例，華盛頓州朗維尤（Longview），一頭麋鹿，一頭成年母麋鹿在14名目擊者面前，於近中午前一分鐘被從華盛頓州的森林中抬起。", "confidence": "high", "notes": ""}
+→ {"text": "下一個案例，華盛頓州朗維尤（Longview），一頭加拿大馬鹿，一頭成年母加拿大馬鹿在14名目擊者面前，於近中午前一分鐘被從華盛頓州的森林中抬起。", "confidence": "high", "notes": "北美 elk（wapiti）應譯「加拿大馬鹿」，非麋鹿"}
 
 60. We have reported that.
 → {"text": "我們已報告此案。", "confidence": "high", "notes": ""}
@@ -235,10 +235,10 @@
 → {"text": "幾秒鐘內，它們可能已在東方70或80英里處，有數百人報告目擊。", "confidence": "high", "notes": ""}
 
 79. Moving down further on page four, the location, Andrews Air Force Base, Waldorf, Maryland, Mr. Richard Dolan first alluded to this case on the morning of Monday this week.
-→ {"text": "繼續往第四頁下方看，地點是馬里蘭州沃爾多夫（Waldorf）的安德魯斯空軍基地（Andrews Air Force Base），理查德·多蘭先生（Richard Dolan）本週一上午首次提到這個案例。", "confidence": "high", "notes": ""}
+→ {"text": "繼續往第四頁下方看，地點是安德魯斯空軍基地（Andrews Air Force Base）一帶，馬里蘭州沃爾多夫（Waldorf），理查德·多蘭先生（Richard Dolan）本週一上午首次提到這個案例。", "confidence": "high", "notes": "目擊地點為沃爾多夫，鄰近安德魯斯空軍基地"}
 
 80. A blue object, there's an error in the citation, I think Mr. Dolan reported it accurately however, a blue object seen streaking over Waldorf, Maryland on that date, July 26, the year 2002, being pursued by two F-16 fighters.
-→ {"text": "一個藍色物體，引用中有錯誤，不過我認為多蘭先生報告得很準確，那天，也就是2002年7月26日，一個藍色物體被看到快速飛越馬里蘭州沃爾多夫，並被兩架F-16戰機追逐。", "confidence": "high", "notes": ""}
+→ {"text": "一個藍色物體，引用中有錯誤，不過我認為多蘭先生報告得很準確，那天，也就是2002年7月26日，一個藍色物體被看到快速飛越馬里蘭州沃爾多夫，並被兩架 F-16 戰機追逐。", "confidence": "high", "notes": ""}
 
 81. Just later it was seen returning the opposite direction, also pursued by those same fighters, a very, very interesting case.
 → {"text": "不久後，它被看到朝相反方向返回，同樣被那些戰機追逐，這是一個非常、非常有趣的案例。", "confidence": "high", "notes": ""}
@@ -280,7 +280,7 @@
 → {"text": "該案例已在我們網站上展示了13年。", "confidence": "high", "notes": ""}
 
 94. Going down to a case at the bottom of page five, the O'Hare Airport case of November 7, 2006, Mr. Dolan, Richard Dolan, alluded to this case earlier in the week's testimony, a very, very dramatic case, a disc estimated to be some 30 to 40 feet in diameter hovering above gate C-17 at O'Hare Airport, seen for perhaps as long as 10 minutes or even longer.
-→ {"text": "往下看第五頁底部的案例，2006年11月7日的歐海爾機場事件（O'Hare Airport case），多蘭先生，理查德·多蘭，本週早些時候的證詞中提到了這個案例，這是一個非常、非常戲劇性的案例，一個估計直徑約30到40英尺的碟狀物體懸停在歐海爾機場C-17登機門上方，被目擊了可能長達10分鐘甚至更久。", "confidence": "high", "notes": ""}
+→ {"text": "往下看第五頁底部的案例，2006年11月7日的歐海爾機場事件（O'Hare Airport case），多蘭先生，理查德·多蘭，本週早些時候的證詞中提到了這個案例，這是一個非常、非常戲劇性的案例，一個估計直徑約30到40英尺的碟狀物體懸停在歐海爾機場 C-17 登機門上方，被目擊了可能長達10分鐘甚至更久。", "confidence": "high", "notes": ""}
 
 95. I cite the case because of the drama surrounding it.
 → {"text": "我引用這個案例是因為圍繞它的戲劇性。", "confidence": "high", "notes": ""}
@@ -328,7 +328,7 @@
 → {"text": "我們在首頁上有幾份關於這個現象的聲明。", "confidence": "high", "notes": ""}
 
 110. It's very interesting, and in my opinion, it may represent the fact that we may have rounded the corner, so to speak, in the field of ufology when it comes to the dramatic nature of many of the reports that are coming to us.
-→ {"text": "這非常有趣，在我看來，這可能代表我們在UFO學領域已經，可以說，轉過了一個彎，就許多提交給我們的報告的戲劇性本質而言。", "confidence": "high", "notes": ""}
+→ {"text": "這非常有趣，在我看來，就提交給我們的許多報告的戲劇性而言，這可能代表UFO學領域可以說已經跨過了一個轉折點。", "confidence": "high", "notes": ""}
 
 111. What the cause of these sightings is, we have no idea.
 → {"text": "這些目擊的原因是什麼，我們毫無頭緒。", "confidence": "high", "notes": ""}
@@ -412,7 +412,7 @@
 → {"text": "他們許多人承認，他們接受這可能是一個非常真實的現象的事實。", "confidence": "high", "notes": ""}
 
 138. I've talked to military officers, senior officers, general or flagship officers, flag officers, who in quiet conversations have admitted to me that they are very interested in this phenomenon and in their opinion there is very real evidence in support of what this committee is addressing in these hearings this week.
-→ {"text": "我與軍官、高級軍官、將領或旗艦軍官、將級軍官交談過，他們在私下對話中向我承認，他們對這個現象非常感興趣，並且在他們看來，有非常真實的證據支持本委員會本週在這些聽證會中討論的內容。", "confidence": "high", "notes": ""}
+→ {"text": "我與軍官、高階軍官、將領或將級軍官（flag officers，講者先口誤為 flagship officers）交談過，他們在私下對話中向我承認，他們對這個現象非常感興趣，並且在他們看來，有非常真實的證據支持本委員會本週在這些聽證會中討論的內容。", "confidence": "high", "notes": "原文 flagship officers 為講者口誤，隨即自行更正為 flag officers"}
 
 139. It appears that we are being visited on a frequent basis.
 → {"text": "看來我們正頻繁地被造訪。", "confidence": "high", "notes": ""}

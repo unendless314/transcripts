@@ -61,7 +61,7 @@
 → {"text": "事實上，比第二次世界大戰結束以來這個國家面臨的任何其他事情都更嚴肅。", "confidence": "high", "notes": ""}
 
 182. Why then have the overwhelming majority and Mr. Davenport hit the nail on the head?
-→ {"text": "那麼為什麼絕大多數人，達文波特先生一針見血地指出了這點？", "confidence": "high", "notes": ""}
+→ {"text": "那麼，為什麼絕大多數（媒體）會這樣？達文波特先生一針見血地指出了這點。", "confidence": "medium", "notes": "原文句構破碎，語意依脈絡補足"}
 
 183. We divide the media's general relationship with the subject of UFOs into two areas.
 → {"text": "我們將媒體與UFO主題的整體關係分為兩個領域。", "confidence": "high", "notes": ""}
@@ -85,7 +85,7 @@
 → {"text": "我第一次聽說這些事件是在1983年秋天，就在這個故事在英國爆發後不久。", "confidence": "high", "notes": ""}
 
 190. The following year I met and chatted briefly with Larry Warren, the former United States Air Force security police officer, who had completely on his own, and to a degree at great risk, certainly to his peace of mind and character, become the whistleblower in this case, was directly responsible for the FOIA that resulted in the release of Colonel Halt's January 1981 report, which was then published in England in '83 and the story broke.
-→ {"text": "隔年我遇到並短暫交談了賴瑞·華倫（Larry Warren），這位前美國空軍安全警察，他完全憑一己之力，並在某種程度上冒著極大風險，當然是對他的內心平靜和品格的風險，成為此案的吹哨者，他直接促成了資訊自由法申請，導致霍爾特上校（Colonel Halt）1981年1月報告的公開，該報告隨後於1983年在英國發布，故事因此爆發。", "confidence": "high", "notes": ""}
+→ {"text": "隔年我遇到並短暫交談了賴瑞·華倫（Larry Warren），這位前美國空軍安全警察，他完全憑一己之力，並在某種程度上冒著極大風險，當然是對他的內心平靜和品格的風險，成為此案的吹哨者，他透過資訊自由法（FOIA）申請，促成了霍爾特上校（Colonel Halt）1981年1月報告的公開，該報告隨後於1983年在英國發布，故事因此爆發。", "confidence": "high", "notes": ""}
 
 191. Four years later we met again at a conference not far from here, at American University in Washington.
 → {"text": "四年後，我們在離這裡不遠的華盛頓美國大學（American University）的一場研討會上再次見面。", "confidence": "high", "notes": ""}
@@ -115,7 +115,7 @@
 → {"text": "我一直在尋找一個認真的專案來全力投入。", "confidence": "high", "notes": ""}
 
 200. I thought it might take a year or two, obviously result in a huge best seller movie deal, many checks to endorse, and women to fight off.
-→ {"text": "我以為這可能需要一、兩年，顯然會促成一筆巨大的暢銷書電影交易、許多支票要簽署，還有女人要擺脫。", "confidence": "high", "notes": ""}
+→ {"text": "我以為這可能需要一、兩年，顯然會促成暢銷書與電影版權的大交易、無數要背書的支票，還有應付不完的仰慕女性。", "confidence": "high", "notes": ""}
 
 201. Life does not always work out the way you think.
 → {"text": "生活並不總是按照你想的方式發展。", "confidence": "high", "notes": ""}
@@ -136,7 +136,7 @@
 → {"text": "我完全不知道我在做什麼，但當我們完成時，它在英國成為暢銷書。", "confidence": "high", "notes": ""}
 
 207. It was immediately in the library of the then new Prime Minister Tony Blair, one of our greatest champions in the United Kingdom, became former Admiral of the Fleet, former Chief of Staff of the Ministry of Defense, Lord Peter Hill Norton, who as an MP brought his hardcover copy onto the book of the floor of House of Lords and confronted the then Secretary for Defense with four questions taken right out of the book, all of which were demured, when my co-author lost his passport, the State Department refusing to renew it for "speaking out on sensitive defense issues in a public forum on foreign soil."
-→ {"text": "它立即被放入當時的新首相東尼·布萊爾（Tony Blair）的圖書館，我們在英國最偉大的支持者之一，成為前海軍元帥、前國防部參謀長彼得·希爾·諾頓勳爵（Lord Peter Hill Norton），他作為國會議員將精裝本帶到上議院議場，用書中直接摘錄的四個問題質問當時的國防大臣，所有問題都被迴避，當我的合著者失去護照時，國務院拒絕續發，理由是「在外國土地上的公共論壇上談論敏感的國防問題」。", "confidence": "high", "notes": ""}
+→ {"text": "它立即被放入當時新任首相東尼·布萊爾（Tony Blair）的藏書中。我們在英國最有力的支持者之一，是前海軍元帥、前國防參謀長彼得·希爾·諾頓勳爵（Lord Peter Hill Norton），他以貴族身分將精裝本帶進上議院議場，用直接摘自書中的四個問題質詢當時的國防大臣，全部遭到迴避。後來我的合著者失去了護照，國務院拒絕換發，理由是「在外國領土的公開場合談論敏感國防議題」。", "confidence": "medium", "notes": "原文句構嚴重破碎，語意依史實補足；希爾·諾頓為上議院貴族議員，原文 MP 為轉錄訛誤"}
 
 208. It was nobody less than former Attorney General Ramsey Clark, who pro bono helped us restore Larry's passport and continue our work.
 → {"text": "正是前司法部長拉姆齊·克拉克（Ramsey Clark），他無償協助我們恢復賴瑞的護照並繼續我們的工作。", "confidence": "high", "notes": ""}
@@ -145,7 +145,7 @@
 → {"text": "作為證人參與此事的那些人，昨天只是略微提到，他們經歷了絕對的地獄。", "confidence": "high", "notes": ""}
 
 210. Some of the things that were done to the more unconscionable as far as I'm concerned, and this is of more interest and focus for me than whatever the source of the intelligences behind the events of December 1980.
-→ {"text": "就我而言，對他們所做的一些事情更加不可理喻，這對我來說比1980年12月事件背後情報來源的任何事情都更令人關注和在意。", "confidence": "high", "notes": ""}
+→ {"text": "就我而言，對他們所做的一些事情更加不可理喻，這對我來說比1980年12月事件背後智慧體（intelligences）的來源究竟是甚麼更令人關注和在意。", "confidence": "medium", "notes": "原文句構破碎；intelligences 指非人類智慧體，非情報"}
 
 211. I applaud John and Jim for fighting for the truth to come out about this.
 → {"text": "我讚揚約翰（John）和吉姆（Jim）為這件事的真相浮出水面而奮鬥。", "confidence": "high", "notes": ""}

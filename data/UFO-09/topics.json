@@ -65,6 +65,18 @@
       ],
       "potential_errors": [
         {
+          "segment_id": 228,
+          "error_text": "Colonel Charles Holt",
+          "suggested_correction": "Colonel Charles Halt",
+          "reasoning": "霍爾特備忘錄作者為 Charles I. Halt Jr.，'Holt' 為 'Halt' 的同音誤拼（2026-08 校稿補錄）。"
+        },
+        {
+          "segment_id": 234,
+          "error_text": "Proof Force Police Database",
+          "suggested_correction": "PRUFOS Database",
+          "reasoning": "PRUFOS（Police Reporting UFO Sightings）資料庫的縮寫被 Whisper 誤聽為發音相近的 'Proof Force'（2026-08 校稿補錄）。"
+        },
+        {
           "segment_id": 250,
           "error_text": "Arief North Alton Middlesex",
           "suggested_correction": "RAF Northolt, Middlesex",
@@ -104,6 +116,12 @@
           "reasoning": "Historical records of the RCMP's investigation into animal mutilations in Alberta refer to Corporal Len Lauber. 'Lynn' is a likely transcription error."
         },
         {
+          "segment_id": 368,
+          "error_text": "Lynn Lauber",
+          "suggested_correction": "Len Lauber",
+          "reasoning": "同 seg 367，同一誤聽重複出現（2026-08 校稿補錄）。"
+        },
+        {
           "segment_id": 371,
           "error_text": "Sheriff Tech's graves",
           "suggested_correction": "Sheriff Tex Graves",
@@ -134,10 +152,34 @@
           "reasoning": "The speaker is addressing Gary Heseltine. 'Hickerton' is a clear mishearing of his name."
         },
         {
+          "segment_id": 455,
+          "error_text": "Lynn Wolsey",
+          "suggested_correction": "Lynn Woolsey",
+          "reasoning": "加州女眾議員 Lynn Woolsey，'Wolsey' 少一個 o（2026-08 校稿補錄）。"
+        },
+        {
           "segment_id": 468,
           "error_text": "Congresswoman Wilsey",
           "suggested_correction": "Congresswoman Woolsey",
           "reasoning": "The question is from Congresswoman Lynn Woolsey, her name was misheard."
+        },
+        {
+          "segment_id": 581,
+          "error_text": "Mr. Hazelton",
+          "suggested_correction": "Mr. Heseltine",
+          "reasoning": "講者呼叫 Gary Heseltine，'Hazelton' 為誤聽（2026-08 校稿補錄）。"
+        },
+        {
+          "segment_id": 619,
+          "error_text": "vent waters",
+          "suggested_correction": "Rendlesham Forest",
+          "reasoning": "上下文為蘭德沙姆森林事件的補充說明，'vent waters' 為 Rendlesham 的嚴重誤聽（2026-08 校稿補錄）。"
+        },
+        {
+          "segment_id": 621,
+          "error_text": "Van Water",
+          "suggested_correction": "Rendlesham Forest",
+          "reasoning": "同 seg 619，指蘭德沙姆森林事件現場（2026-08 校稿補錄）。"
         },
         {
           "segment_id": 661,
@@ -150,6 +192,18 @@
           "error_text": "Mr. Haysclan",
           "suggested_correction": "Mr. Heseltine",
           "reasoning": "The speaker is yielding time to Gary Heseltine. 'Haysclan' is a phonetic misinterpretation of his last name."
+        },
+        {
+          "segment_id": 811,
+          "error_text": "Captain Solace",
+          "suggested_correction": "Captain Salas",
+          "reasoning": "指 Robert Salas 上尉（馬姆斯特羅姆飛彈事件證人，UFO-07/08 已定譯薩拉斯），'Solace' 為誤聽（2026-08 校稿補錄）。"
+        },
+        {
+          "segment_id": 813,
+          "error_text": "Dagway",
+          "suggested_correction": "Dugway",
+          "reasoning": "猶他州 Dugway Proving Ground，'Dagway' 為拼寫誤聽（2026-08 校稿補錄）。"
         }
       ]
     }
