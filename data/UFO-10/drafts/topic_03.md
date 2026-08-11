@@ -1,10 +1,10 @@
 ## Speaker Group 1
 
 100. You have made your point very well and I would like to go on to the next witness. Our Canadian friends, Dr. Friedman, yours.
-→ {"text": "您的觀點闡述得非常清楚，我想繼續下一位證人的證詞。我們的加拿大朋友，佛烈德曼博士，輪到您了。", "confidence": "high", "notes": ""}
+→ {"text": "您的觀點闡述得非常清楚，我想繼續下一位證人的證詞。我們的加拿大朋友，弗里德曼博士（Stanton Friedman），輪到您了。", "confidence": "high", "notes": ""}
 
 101. Mr. Friedman and I am a Canadian and an American. I am a bifurcated. It is a privilege to be here representing both countries if you will. I found the proceedings fascinating. I would like to throw in a comment that isn't in the written piece that I submitted.
-→ {"text": "我是佛烈德曼先生，我既是加拿大人也是美國人。我具有雙重身份。能在此代表兩國發言是我的榮幸。我發現這場聽證會相當引人入勝。我想補充一點我書面陳述中沒有提到的意見。", "confidence": "high", "notes": ""}
+→ {"text": "我是弗里德曼先生，我既是加拿大人也是美國人。我具有雙重身份。能在此代表兩國發言是我的榮幸。我發現這場聽證會相當引人入勝。我想補充一點我書面陳述中沒有提到的意見。", "confidence": "high", "notes": ""}
 
 102. Within two weeks of the start of World War II, a person was appointed to be the chief censor of the United States to make sure that material that might be of assistance to the enemy not be released.
 → {"text": "二戰開始後兩週內，美國任命了一位首席審查官，以確保任何可能對敵方有利的資訊都不會被公開。", "confidence": "high", "notes": ""}
@@ -34,7 +34,7 @@
 → {"text": "我必須承認我是個文件狂，曾造訪 20 個不同的檔案館，包括多次前往杜魯門、艾森豪、甘迺迪、雷根總統檔案館、美國國家檔案館、美國國會圖書館手稿部門。", "confidence": "high", "notes": "總統檔案館名稱依 terminology.yaml 翻譯"}
 
 111. There have been special sites such as the Harvard Archives, papers of Donald Menzel, the Princeton Archives, papers of James Forrestal, MIT Archives, papers of Vannevar Bush, the American Philosophical Society Library, which has papers of Edward Condon, Donald Menzel, Philip Class, Boston University Archives, John Fuller, Ben Simon. There have been surprises and I've seen many phony documents, not at archives.
-→ {"text": "還有一些特殊場所，例如哈佛檔案館的唐納德·孟澤爾博士文件、普林斯頓檔案館的詹姆斯·福萊斯特文件、MIT 檔案館的萬尼瓦爾·布什博士文件、美國哲學學會圖書館收藏的愛德華·康登、唐納德·孟澤爾博士、菲利普·克拉斯的文件，以及波士頓大學檔案館的約翰·富勒、班·西蒙文件。我發現了一些驚人的內容，也見過許多偽造文件，不過不是在檔案館。", "confidence": "high", "notes": "人名依 terminology.yaml 翻譯"}
+→ {"text": "還有一些特殊場所，例如哈佛檔案館的唐納德·孟澤爾博士文件、普林斯頓檔案館的詹姆斯·福萊斯特文件、MIT 檔案館的萬尼瓦爾·布希博士文件、美國哲學學會圖書館收藏的愛德華·康登、唐納德·孟澤爾博士、菲利普·克拉斯的文件，以及波士頓大學檔案館的約翰·富勒、班·西蒙文件。我發現了一些驚人的內容，也見過許多偽造文件，不過不是在檔案館。", "confidence": "high", "notes": "人名依 terminology.yaml 翻譯"}
 
 112. Especially ones supposedly dealing with the Majestic 12 Group that you've already heard about. And I note with interest that all the copies of my book Top Secret Magic are gone.
 → {"text": "特別是那些聲稱與你們已經聽說過的 Majestic 12 小組有關的文件。我很有興趣地注意到，我的書《最高機密 Magic》的所有副本都已經售罄。", "confidence": "high", "notes": "Majestic 12 Group 依 terminology.yaml 譯為「Majestic 12 小組」"}
@@ -55,10 +55,10 @@
 → {"text": "這根本不是事實。這種情況有時會發生，但不是規定。（b）從事機密計畫（例如 Majestic 12）的人當然會向配偶談論他們在做什麼。", "confidence": "high", "notes": ""}
 
 118. I had a clearance for 14 years, never talked to my wife about classified work. Dr. Vannevar Bush's secretary told me she worried about saying something classified in her sleep because her husband did not have a clearance. c) Having a certain level of clearance, such as top secret, gives one access to all top secret documents. This is false. One needs a need to know. I couldn't get access to nuclear submarine radiation shielding information, though I had the appropriate security clearance.
-→ {"text": "我擁有許可 14 年，從未向妻子談論機密工作。萬尼瓦爾·布什博士的秘書告訴我，她擔心自己會在睡夢中說出機密內容，因為她丈夫沒有安全許可。（c）擁有某個等級的安全許可，例如最高機密，就能接觸所有最高機密文件。這是錯的。你需要有知密權。儘管我擁有適當的安全許可，但我無法取得核子潛艇輻射屏蔽的資訊。", "confidence": "high", "notes": "Top Secret 譯為「最高機密」，need to know 譯為「知密權」（核心術語）"}
+→ {"text": "我擁有許可 14 年，從未向妻子談論機密工作。萬尼瓦爾·布希博士的秘書告訴我，她擔心自己會在睡夢中說出機密內容，因為她丈夫沒有安全許可。（c）擁有某個等級的安全許可，例如最高機密，就能接觸所有最高機密文件。這是錯的。你需要有需知權限。儘管我擁有適當的安全許可，但我無法取得核子潛艇輻射屏蔽的資訊。", "confidence": "high", "notes": "Top Secret 譯為「最高機密」；need to know 依主表定譯「需知」（知密權為 deprecated 形式，UFO-03 已標記）"}
 
 119. But I couldn't get a need to know from Admiral Rickover for my aircraft nuclear propulsion radiation shielding work. The clearance wasn't the problem, the need to know was the problem.
-→ {"text": "但我無法從里科弗上將那裡取得我的飛機核動力輻射屏蔽工作的知密權。安全許可不是問題，知密權才是問題。", "confidence": "high", "notes": "再次強調 need to know = 知密權的核心概念"}
+→ {"text": "但我無法從里科弗上將（Admiral Rickover）那裡取得我的飛機核動力輻射屏蔽工作的需知權限。安全許可不是問題，需知權限才是問題。", "confidence": "high", "notes": "再次強調 need to know = 需知權限的核心概念"}
 
 120. And I must say, there are people in Washington who think because there are big shots in Washington, if something were going on about this, they would know about it, even though they don't know about it.
 → {"text": "我必須說，華盛頓有些人認為，既然他們是華盛頓的大人物，如果這方面有什麼進展，他們一定會知道，儘管他們實際上並不知道。", "confidence": "high", "notes": ""}
@@ -73,13 +73,13 @@
 → {"text": "我也希望是這樣。有太多文件尚未掃描且無法取得，特別是在檔案館裡。", "confidence": "high", "notes": ""}
 
 124. It would make life a lot simpler. There are some special archives where you can get that done. In 1970, when I worked for Bob briefly at McDonnell Douglas, I had a search done of government contract reports using the key word, one key word, magneto aerodynamics. 900 documents were found, of which 90% were classified. I suspect some were for black projects and maybe even dealing with plasmas and UFOs, which is an area I'm particularly intrigued with.
-→ {"text": "那會讓生活簡單得多。有些特殊檔案館可以做到這一點。1970 年，我在麥克唐納-道格拉斯公司短暫為鮑勃工作時，我用一個關鍵詞「磁氣動力學」搜尋政府合約報告。找到了 900 份文件，其中 90% 是機密的。我懷疑其中一些是黑計畫，甚至可能涉及電漿和不明飛行物，這是我特別感興趣的領域。", "confidence": "high", "notes": "McDonnell Douglas 依 terminology.yaml 譯為「麥克唐納-道格拉斯公司」"}
+→ {"text": "那會讓生活簡單得多。有些特殊檔案館可以做到這一點。1970 年，我在麥克唐納-道格拉斯公司短暫為鮑勃工作時，我用一個關鍵詞「磁空氣動力學」（magneto aerodynamics）搜尋政府合約報告。找到了 900 份文件，其中 90% 是機密的。我懷疑其中一些是黑計畫，甚至可能涉及電漿和不明飛行物，這是我特別感興趣的領域。", "confidence": "high", "notes": "McDonnell Douglas 依 terminology.yaml 譯為「麥克唐納-道格拉斯公司」"}
 
 125. I've spent a great deal of effort on the question of legitimacy of the Majestic 12 documents and reported my findings in my book, Top Secret Magic, in an update chapter in my book, Flying Saucers in Science, and my final report on Operation Majestic 12.
 → {"text": "我在 Majestic 12 文件的真實性問題上投入了大量精力，並在我的書《最高機密 Magic》、我的書《科學中的飛碟》的更新章節，以及我關於 Majestic 12 行動的最終報告中報告了我的發現。", "confidence": "high", "notes": "Flying Saucers 依 terminology.yaml 譯為「飛碟」"}
 
 126. I believe I have dealt with all the anti-arguments about the Eisenhower briefing document, the Truman-Forestall memo, the Cutler-Twining memo. All three stand up to the attacks.
-→ {"text": "我相信我已經處理了所有針對艾森豪簡報文件、杜魯門-福萊斯特備忘錄、卡特勒-特溫寧備忘錄的反駁論點。這三份文件都經得起攻擊。", "confidence": "high", "notes": "Cutler-Twining memo 依 terminology.yaml 譯為「卡特勒-特溫寧備忘錄」"}
+→ {"text": "我相信我已經處理了所有針對艾森豪簡報文件、杜魯門-福萊斯特備忘錄、卡特勒-特溫寧備忘錄的反駁論點。這三份文件都經得起攻擊。", "confidence": "high", "notes": "原文 Truman-Forestall 為 Whisper 拼寫錯誤，應為 Truman-Forrestal（詹姆斯·V·福萊斯特）；譯文逕用正確譯名，已補錄 topics.json potential_errors"}
 
 127. For example, this includes proving that Dr. Donald Menzel, supposedly a skeptic, did loads of very classified work, though unknown to the outside world.
 → {"text": "例如，這包括證明唐納德·孟澤爾博士——據稱是懷疑論者——從事了大量高度機密的工作，儘管外界並不知情。", "confidence": "high", "notes": "Donald Menzel 依 terminology.yaml 譯為「唐納德·孟澤爾博士」"}
@@ -88,7 +88,7 @@
 → {"text": "在我於哈佛檔案館發現的一封致約翰·F·甘迺迪的信中，孟澤爾博士告訴甘迺迪，截至 1960 年，他與國家安全局及其前身海軍單位的持續合作超過 30 年，比國內任何人都長。", "confidence": "high", "notes": ""}
 
 129. When we are properly cleared to each other, I can tell you more. And yet, there is no indication in two issues of Sky and Telescope magazine dedicated to Dr. Menzel in which his post-World War II intense involvement with all kinds of classified activities was even mentioned.
-→ {"text": "當我們彼此獲得適當的許可時，我可以告訴你更多。然而，在兩期獻給孟澤爾博士的《天空與望遠鏡》雜誌中，完全沒有提到他在二戰後深度參與各種機密活動。", "confidence": "high", "notes": ""}
+→ {"text": "當我們彼此獲得適當的許可時，我可以告訴你更多。然而，在兩期獻給孟澤爾博士的《天空與望遠鏡》（Sky and Telescope）雜誌中，完全沒有提到他在二戰後深度參與各種機密活動。", "confidence": "high", "notes": ""}
 
 130. One was on the time of his death. One was the 100th anniversary of his birth. But nobody knew about this stuff until I, to my shock, found this out.
 → {"text": "一期是在他去世時，一期是在他誕辰 100 週年。但直到我震驚地發現這些內容之前，沒有人知道這些事。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "順帶一提，關於克拉斯，他的許多文件在費城的美國哲學學會圖書館。", "confidence": "high", "notes": ""}
 
 143. There was no Friedman fight. We corresponded for 20 years. I don't think he wanted anybody to know that he paid me.
-→ {"text": "沒有所謂的佛烈德曼之爭。我們通信了 20 年。我認為他不想讓任何人知道他付了我錢。", "confidence": "high", "notes": ""}
+→ {"text": "沒有所謂的弗里德曼之爭。我們通信了 20 年。我認為他不想讓任何人知道他付了我錢。", "confidence": "high", "notes": ""}
 
 144. That's why I was so mad that I published a copy of his check.
 → {"text": "這就是為什麼我如此生氣，以至於公布了他的支票副本。", "confidence": "high", "notes": ""}
@@ -142,7 +142,7 @@
 → {"text": "例如，特溫寧將軍寫了一封信給相當多的人，他在信中表達了一個願望：「如果我們有飛碟碎片，那該多好？」人們將此解讀為當時並沒有這樣的碎片。", "confidence": "high", "notes": ""}
 
 147. A lot of the people that were getting this memo didn't have a need to know for this stuff, so he had a lie. That's the way it goes.
-→ {"text": "很多收到這份備忘錄的人並沒有知密權，所以他撒了謊。事情就是這樣。", "confidence": "high", "notes": "need to know 依 terminology.yaml 譯為「知密權」，這是整個證詞的核心論點"}
+→ {"text": "很多收到這份備忘錄的人並沒有需知權限，所以他撒了謊。事情就是這樣。", "confidence": "high", "notes": "need to know 依主表定譯「需知權限」，這是整個證詞的核心論點"}
 
 148. Thank you. It's a fascinating area.
 → {"text": "謝謝。這是個引人入勝的領域。", "confidence": "high", "notes": ""}

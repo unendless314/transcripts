@@ -79,7 +79,14 @@
         "need to know",
         "Cutler-Twining memo"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 126,
+          "error_text": "Truman-Forestall",
+          "suggested_correction": "Truman-Forrestal",
+          "reasoning": "The memo refers to Secretary of Defense James V. Forrestal. 'Forestall' is a Whisper misspelling of 'Forrestal'."
+        }
+      ]
     },
     {
       "topic_id": "topic_04",
@@ -116,6 +123,54 @@
           "error_text": "Staten Friedman",
           "suggested_correction": "Stanton Friedman",
           "reasoning": "This is another misspelling of the witness's name. The correct spelling is Stanton Friedman."
+        },
+        {
+          "segment_id": 172,
+          "error_text": "Mr. Graval",
+          "suggested_correction": "Mr. Gravel",
+          "reasoning": "Same misspelling of Senator Gravel's name as in segment 166; the correct spelling is Gravel."
+        },
+        {
+          "segment_id": 206,
+          "error_text": "Stanton Freeman",
+          "suggested_correction": "Stanton Friedman",
+          "reasoning": "Same mishearing as segment 197; the physicist's name is Stanton Friedman."
+        },
+        {
+          "segment_id": 227,
+          "error_text": "Wilbur Smith",
+          "suggested_correction": "Wilbert Smith",
+          "reasoning": "The Canadian engineer is Wilbert B. Smith (see segment 211); 'Wilbur' is a Whisper mishearing."
+        },
+        {
+          "segment_id": 229,
+          "error_text": "Wilbur Smith",
+          "suggested_correction": "Wilbert Smith",
+          "reasoning": "Same mishearing as segment 227; the correct name is Wilbert Smith."
+        },
+        {
+          "segment_id": 181,
+          "error_text": "siting files",
+          "suggested_correction": "sighting files",
+          "reasoning": "Context is UFO sighting records released by governments; 'siting' is a Whisper truncation of 'sighting'."
+        },
+        {
+          "segment_id": 182,
+          "error_text": "siting files",
+          "suggested_correction": "sighting files",
+          "reasoning": "Same truncation as segment 181."
+        },
+        {
+          "segment_id": 183,
+          "error_text": "siting files",
+          "suggested_correction": "sighting files",
+          "reasoning": "Same truncation as segment 181."
+        },
+        {
+          "segment_id": 185,
+          "error_text": "siting files",
+          "suggested_correction": "sighting files",
+          "reasoning": "Same truncation as segment 181."
         }
       ]
     },
@@ -154,6 +209,30 @@
           "error_text": "Congressman Hoolie",
           "suggested_correction": "Congresswoman Hooley",
           "reasoning": "The speaker is referring to Congresswoman Darlene Hooley. This is a gender and spelling error."
+        },
+        {
+          "segment_id": 373,
+          "error_text": "Wilbur Smith",
+          "suggested_correction": "Wilbert Smith",
+          "reasoning": "Same mishearing as topic_04 segments 227/229; the Canadian engineer is Wilbert B. Smith."
+        },
+        {
+          "segment_id": 385,
+          "error_text": "Wilbur",
+          "suggested_correction": "Wilbert",
+          "reasoning": "Same mishearing as segment 373; referring to Wilbert B. Smith."
+        },
+        {
+          "segment_id": 499,
+          "error_text": "Dr. Freeman",
+          "suggested_correction": "Dr. Friedman",
+          "reasoning": "The chair addresses Stanton Friedman; 'Freeman' is a Whisper mishearing of 'Friedman'."
+        },
+        {
+          "segment_id": 614,
+          "error_text": "siting files",
+          "suggested_correction": "sighting files",
+          "reasoning": "Same truncation as topic_04 segments 181-185; context is UFO sighting records."
         }
       ]
     }

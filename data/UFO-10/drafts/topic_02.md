@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 64. Now, please, we've heard from you before, if you could limit as best you can so we can make up some time, please. Thank you, Senator Gravel.
-→ {"text": "現在，我們之前已經聽過您的證詞了，如果可以的話，請盡量精簡發言，以便我們能趕上進度。謝謝您，Gravel 參議員。", "confidence": "high", "notes": ""}
+→ {"text": "現在，我們之前已經聽過您的證詞了，如果可以的話，請盡量精簡發言，以便我們能趕上進度。謝謝您，格拉維爾參議員（Mike Gravel）。", "confidence": "high", "notes": ""}
 
 65. To compliment what Dr. Wood has presented, I thought that I would try to acquaint you with some of the text, and if we could have the image number one. The title is Extraterrestrial Entities in Technology Recovery and Disposal.
 → {"text": "為補充伍德博士所呈現的內容，我想向各位介紹文件中的部分文字。請看第一張圖片。標題是《外星實體與科技回收處置》。", "confidence": "high", "notes": "文件標題依照 terminology.yaml，首次出現使用完整譯名"}
@@ -16,7 +16,7 @@
 → {"text": "以便能更專業地處理不明飛行物、外星科技與外星實體，並提升未來行動的效率。第三張圖片。", "confidence": "high", "notes": ""}
 
 69. Operation Majestic 12 was established by special classified presidential order on September 24, 1947, at the recommendation of Secretary of Defense James V. Forrestal and Dr. Vannevar Bush, Chairman of the Joint Research and Development Board.
-→ {"text": "Majestic 12 行動於 1947 年 9 月 24 日依據總統特別機密命令成立，由國防部長詹姆斯·V·福萊斯特與聯合研究與發展委員會主席萬尼瓦爾·布什博士共同建議設立。", "confidence": "high", "notes": "人名依照 terminology.yaml 標準譯名"}
+→ {"text": "Majestic 12 行動於 1947 年 9 月 24 日依據總統特別機密命令成立，由國防部長詹姆斯·V·福萊斯特（James V. Forrestal）與聯合研究與發展委員會主席萬尼瓦爾·布希博士（Dr. Vannevar Bush）共同建議設立。", "confidence": "high", "notes": "人名依照 terminology.yaml 標準譯名"}
 
 70. Operations are carried out under a top secret research and development intelligence group, directly responsible only to the President of the United States.
 → {"text": "行動由一個最高機密的研究、發展與情報小組執行，該小組僅直接向美國總統負責。", "confidence": "high", "notes": "Top Secret 依照術語表譯為「最高機密」"}
@@ -55,7 +55,7 @@
 → {"text": "任何被認為是外星製造或起源之飛行器的殘骸。此類殘骸可能是事故或軍事行動的結果。展現不尋常或非凡特性、與當前科技或科學知識不符的材料。", "confidence": "high", "notes": ""}
 
 82. Extraterrestrial biological entities, acronym all caps E-B-E-S, are described as responsible for their development, are demonstrably different from those postulated or observed in Homo sapiens.
-→ {"text": "外星生物實體，縮寫為全大寫 E-B-E-S，被描述為負責這些科技發展的存有，其與智人（Homo sapiens）中假設或觀察到的生物明顯不同。", "confidence": "high", "notes": "依照 topics.json 的 potential_errors 修正：Homo sapien → Homo sapiens"}
+→ {"text": "外星生物實體，縮寫為全大寫 E-B-E-S，被描述為負責這些科技發展的存有，其與智人（Homo sapiens）中假設或觀察到的生物明顯不同。", "confidence": "high", "notes": "topics.json 原有 Homo sapien→Homo sapiens 的 potential_errors 紀錄，經查 main.yaml 原文早已是 Homo sapiens，屬失效紀錄"}
 
 83. Next slide. Description of craft. Documented extraterrestrial craft, UFOBs, are classified in one of four categories based on general shape as follows. Elliptical or disc shape. This type of craft is of a metallic construction and dull aluminum in color.
 → {"text": "下一張投影片。飛行器描述：已記錄的外星飛行器（UFOBs）根據總體形狀分為以下四類。橢圓形或碟形：此類飛行器為金屬結構，呈暗鋁色。", "confidence": "high", "notes": ""}
@@ -76,10 +76,10 @@
 → {"text": "完全伸展時，起落架將主體在最低點支撐於地面上方 2 至 3 英呎。碟形飛行器的赤道線或下表面有一個長方形艙門。", "confidence": "high", "notes": ""}
 
 89. There are fuselage or cigar shapes. Documented reports of this type of craft are extremely rare. Air Force radar reports indicate they are approximately 2000 feet long and 95 feet thick and apparently they do not operate in the lower atmosphere.
-→ {"text": "機身形或雪茄形：關於此類飛行器的記錄報告極為罕見。空軍雷達報告顯示它們長約 2000 英呎、厚約 95 英呎，且顯然不在低層大氣中運作。", "confidence": "high", "notes": ""}
+→ {"text": "機身形或雪茄形：關於此類飛行器的記錄報告極為罕見。空軍雷達報告顯示它們長約 2,000 英呎、厚約 95 英呎，且顯然不在低層大氣中運作。", "confidence": "high", "notes": ""}
 
 90. Very little information is available on the performance of these craft, but radar reports have indicated speeds in excess of 7000 miles per hour. They do not appear to engage in the violent and erratic maneuvers associated with the smaller types of craft.
-→ {"text": "關於此類飛行器性能的資訊極少，但雷達報告顯示速度超過每小時 7000 英哩。它們似乎不會進行與較小型飛行器相關的劇烈和不規則機動。", "confidence": "high", "notes": ""}
+→ {"text": "關於此類飛行器性能的資訊極少，但雷達報告顯示速度超過每小時 7,000 英哩。它們似乎不會進行與較小型飛行器相關的劇烈和不規則機動。", "confidence": "high", "notes": ""}
 
 91. There are ovoid or circular shapes. This type of craft is described as being shaped like an ice cream cone being rounded at the large end and tapering to a near point at the other end.
 → {"text": "卵形或圓錐形：此類飛行器被描述為形似冰淇淋甜筒，大端呈圓形，另一端則逐漸變細至近乎尖端。", "confidence": "high", "notes": ""}

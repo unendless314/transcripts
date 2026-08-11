@@ -49,10 +49,10 @@
 → {"text": "可以把它放到螢幕上嗎？", "confidence": "high", "notes": ""}
 
 166. Based on Senator Gravel's statement yesterday that we should be a little more aggressive in what we do, I've taken his advice.
-→ {"text": "根據 Gravel 參議員昨天的聲明，認為我們在行動上應該更積極一些，我接受了他的建議。", "confidence": "high", "notes": "Whisper 轉錄錯誤已修正：原文 'Senator Graval's' 應為 'Senator Gravel's'"}
+→ {"text": "根據格拉維爾參議員昨天的聲明，認為我們在行動上應該更積極一些，我接受了他的建議。", "confidence": "high", "notes": "topics.json 原有 Graval→Gravel 的 potential_errors 紀錄，經查 main.yaml 原文早已是 Gravel's，屬失效紀錄"}
 
 167. These are the famous Rockefeller initiative documents, the 1,000 pages of documents that were released to me by the Clinton Library, and they have gone missing.
-→ {"text": "這些就是著名的洛克菲勒倡議文件，共 1,000 頁的文件，是柯林頓總統圖書館釋出給我的，而它們已經不見了。", "confidence": "high", "notes": ""}
+→ {"text": "這些就是著名的洛克菲勒倡議（Rockefeller Initiative）文件，共 1,000 頁的文件，是柯林頓總統圖書館（Clinton Library）釋出給我的，而它們已經不見了。", "confidence": "high", "notes": ""}
 
 168. The Clinton say they don't have them.
 → {"text": "柯林頓圖書館聲稱他們沒有這些文件。", "confidence": "high", "notes": ""}
@@ -67,13 +67,13 @@
 → {"text": "他們駁回了申訴。", "confidence": "high", "notes": ""}
 
 172. So what I've done, based on what Mr. Graval said yesterday, I intend to send them back to the Clinton Library, and it's going to be kind of embarrassing that they're going to get it from a foreign citizen, but we'll see what they do, whether they put this back in the presidential record.
-→ {"text": "所以我決定，根據 Gravel 先生昨天所說的，我打算把這些文件寄回柯林頓總統圖書館，雖然他們從一位外國公民那裡收到這些文件會有點尷尬，但我們將會看到他們會怎麼做，是否會把這些文件重新放回總統檔案紀錄中。", "confidence": "high", "notes": ""}
+→ {"text": "所以我決定，根據格拉維爾先生昨天所說的，我打算把這些文件寄回柯林頓總統圖書館，雖然他們從一位外國公民那裡收到這些文件會有點尷尬，但我們將會看到他們會怎麼做，是否會把這些文件重新放回總統檔案紀錄中。", "confidence": "high", "notes": ""}
 
 173. These are 1,000 pages of documents that the Clinton say they no longer have.
 → {"text": "這些是柯林頓圖書館聲稱他們不再擁有的 1,000 頁文件。", "confidence": "high", "notes": ""}
 
 174. Now, as to the documents, the document I'm going to talk quickly about is the Top Secret Memo.
-→ {"text": "現在，關於這些文件，我要簡要討論的是那份最高機密備忘錄。", "confidence": "high", "notes": ""}
+→ {"text": "現在，關於這些文件，我要簡要討論的是那份最高機密備忘錄（Top Secret Memo）。", "confidence": "high", "notes": ""}
 
 175. It's a 1950 document from Canada, but I want to sort of go around the documents that talk about why this is so important.
 → {"text": "這是一份 1950 年來自加拿大的文件，但我想先從其他文件來說明為什麼這份文件如此重要。", "confidence": "high", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "加拿大人，無論任何人想說什麼，都在玩與美國人相同的遊戲。", "confidence": "high", "notes": ""}
 
 181. In the late 1960s, they shut down their UFO program, and they released all the siting files, which is what all the governments are doing.
-→ {"text": "在 1960 年代後期，他們關閉了不明飛行物計畫，並釋出了所有的目擊檔案，這正是所有政府都在做的事情。", "confidence": "high", "notes": ""}
+→ {"text": "在 1960 年代後期，他們關閉了不明飛行物計畫，並釋出了所有的目擊檔案，這正是所有政府都在做的事情。", "confidence": "high", "notes": "原文 siting files 為 Whisper 漏字，應為 sighting files（seg 181/182/183/185 皆同）；譯文已正確作目擊檔案，已補錄 topics.json"}
 
 182. They're just releasing their siting files.
 → {"text": "他們只是釋出目擊檔案。", "confidence": "high", "notes": ""}
@@ -142,7 +142,7 @@
 → {"text": "所以他們的意圖是，磁鐵計劃、磁鐵計劃背後的資料、關於正在發生什麼事的討論，都應該被銷毀。", "confidence": "high", "notes": ""}
 
 197. Thanks to Stanton Friedman, who's sitting beside me.
-→ {"text": "多虧了坐在我旁邊的史丹頓·佛烈德曼。", "confidence": "high", "notes": "Whisper 轉錄錯誤已修正：原文 'Stanton Freeman' 應為 'Stanton Friedman'"}
+→ {"text": "多虧了坐在我旁邊的史丹頓·弗里德曼。", "confidence": "high", "notes": "topics.json 原有 Stanton Freeman→Stanton Friedman 的 potential_errors 紀錄，經查 main.yaml 原文早已是 Friedman，屬失效紀錄"}
 
 198. A lot of that material did come out in the late 1970s.
 → {"text": "這些資料中的很大一部分確實在 1970 年代後期公開了。", "confidence": "high", "notes": ""}
@@ -169,7 +169,7 @@
 → {"text": "讓我們來看最高機密文件第一號。", "confidence": "high", "notes": ""}
 
 206. This is the famous top secret memo that Stanton Freeman helped force out in 1978.
-→ {"text": "這就是著名的最高機密備忘錄，史丹頓·佛烈德曼在 1978 年協助促使其公開。", "confidence": "high", "notes": "Stanton Freeman 應為 Stanton Friedman"}
+→ {"text": "這就是著名的最高機密備忘錄，史丹頓·弗里德曼在 1978 年協助促使其公開。", "confidence": "high", "notes": "原文 Stanton Freeman 為 Whisper 轉錄錯誤，應為 Stanton Friedman；譯文逕用正確譯名，已補錄 topics.json potential_errors"}
 
 207. It was written in 1950, but it did not get declassified until 1978.
 → {"text": "它撰寫於 1950 年，但直到 1978 年才解密。", "confidence": "high", "notes": ""}
@@ -205,13 +205,13 @@
 → {"text": "飛碟存在。", "confidence": "high", "notes": ""}
 
 218. Their modus operandi is unknown, but there's a small group headed by Dr. Vannevar Bush, who is the science advisor to Roosevelt, that he's in charge of the program.
-→ {"text": "它們的運作方式未知，但有一個由萬尼瓦爾·布什博士領導的小組，他是羅斯福總統的科學顧問，負責這個計畫。", "confidence": "high", "notes": ""}
+→ {"text": "它們的運作方式未知，但有一個由萬尼瓦爾·布希博士領導的小組，他是羅斯福總統的科學顧問，負責這個計畫。", "confidence": "high", "notes": ""}
 
 219. And the fourth thing was the entire matter is considered to be of tremendous significance.
 → {"text": "第四點是，整件事被認為具有極大的重要性。", "confidence": "high", "notes": ""}
 
 220. And then the fifth point that he mentions, and this goes to Mr. Bartlett's question about how did they get here from 37 light years away.
-→ {"text": "然後他提到的第五點，這回應了 Bartlett 先生的問題，關於它們如何從 37 光年外來到這裡。", "confidence": "high", "notes": ""}
+→ {"text": "然後他提到的第五點，這回應了巴特利特先生（Roscoe Bartlett）的問題，關於它們如何從 37 光年外來到這裡。", "confidence": "high", "notes": ""}
 
 221. He said, "I was further informed that mental phenomena may be associated with the flying saucers and that the Americans aren't doing very well because they've asked that if we're doing anything in Canada, they're willing to exchange credentials and talk to us about it."
 → {"text": "他說：「我進一步得知，心靈現象可能與飛碟有關，而且美國人在這方面進展不順利，因為他們詢問如果我們在加拿大有任何研究，他們願意交換證書並與我們討論此事。」", "confidence": "high", "notes": ""}
@@ -232,13 +232,13 @@
 → {"text": "這是加拿大政府銷毀的部分文件。", "confidence": "high", "notes": ""}
 
 227. It was recovered because Wilbur Smith had it in his personal files.
-→ {"text": "它被保存下來，是因為威爾伯·史密斯將它保存在他的個人檔案中。", "confidence": "high", "notes": ""}
+→ {"text": "它被保存下來，是因為威爾伯特·史密斯將它保存在他的個人檔案中。", "confidence": "high", "notes": "原文 Wilbur Smith 為 Whisper 誤拼，應為 Wilbert Smith（同 seg 211 的 Wilbert B. Smith）；已補錄 topics.json potential_errors"}
 
 228. And I'll just read to you here.
 → {"text": "我在這裡讀給你們聽。", "confidence": "high", "notes": ""}
 
 229. This is the third secretary at the Canadian embassy writing to Wilbur Smith back in Canada.
-→ {"text": "這是加拿大大使館的三等秘書寫給在加拿大的威爾伯·史密斯的信。", "confidence": "high", "notes": ""}
+→ {"text": "這是加拿大大使館的三等秘書寫給在加拿大的威爾伯特·史密斯的信。", "confidence": "high", "notes": "原文 Wilbur Smith 為 Whisper 誤拼，應為 Wilbert Smith；已補錄 topics.json potential_errors"}
 
 230. He said, "We are, of course, have our eyes and ears open and if anything significant should happen, you'll hear it through the right salient channel."
 → {"text": "他說：「我們當然會睜大眼睛、豎起耳朵，如果發生任何重要的事情，你會透過適當的重要管道得知。」", "confidence": "high", "notes": ""}
@@ -247,7 +247,7 @@
 → {"text": "這些是軍事聯絡人員。", "confidence": "high", "notes": ""}
 
 232. "At the instructions of the ambassador in the embassy, apart from Wright and myself, nobody is to discuss the matter with anybody."
-→ {"text": "「根據大使館大使的指示，除了 Wright 和我之外，任何人都不得與任何人討論此事。」", "confidence": "high", "notes": ""}
+→ {"text": "「根據大使館大使的指示，除了賴特（Wright）和我之外，任何人都不得與任何人討論此事。」", "confidence": "high", "notes": ""}
 
 233. So the Canadians have been told.
 → {"text": "所以加拿大人已經被告知了。", "confidence": "high", "notes": ""}

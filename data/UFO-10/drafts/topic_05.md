@@ -7,7 +7,7 @@
 → {"text": "您顯然是一位非常聰明的人，不容易被愚弄。", "confidence": "high", "notes": ""}
 
 245. There's no doubt in your mind that the documents that you've helped with, Mr. Friedman, there's just no question.
-→ {"text": "您心中對於這些您協助驗證的文件毫無疑問，佛烈德曼先生也是，完全沒有質疑。", "confidence": "high", "notes": ""}
+→ {"text": "您心中對於這些您協助驗證的文件毫無疑問，弗里德曼先生也是，完全沒有質疑。", "confidence": "high", "notes": ""}
 
 246. And you've, I think, written a very credible statement here that these are authentic.
 → {"text": "而且我認為您在這裡撰寫了一份非常可信的聲明，證明這些文件是真實的。", "confidence": "high", "notes": ""}
@@ -55,7 +55,7 @@
 → {"text": "這是否意味著美國政府當時認為，在截至那時已被明確觀察到的不明飛行物現象中，存在著外星參與的高度可能性？", "confidence": "high", "notes": ""}
 
 261. We've got evidence of 36 and earlier and others, and Roswell materials and so forth that were recovered and something unidentified, unexplained?
-→ {"text": "我們有 1936 年及更早的證據，還有羅斯威爾事件的材料等等被回收的東西，一些未被識別、未被解釋的東西？", "confidence": "high", "notes": ""}
+→ {"text": "我們有 1936 年及更早的證據，還有羅斯威爾事件的材料等等被回收的東西，一些未被識別、未被解釋的東西？", "confidence": "medium", "notes": "原文 evidence of 36 語意不明，可能指 1936 年或 36 起案例，譯文暫從年份解"}
 
 262. Let me finish my question, if I could, Dr. Wood. Is that proof that the government at that time thought there was a high probability of extraterrestrial life involved, or is that an indication that the government thought it was an absolute reality that extraterrestrial was involved?
 → {"text": "請讓我把問題說完，伍德博士。這是否證明政府當時認為有外星生命參與的高度可能性，還是這表明政府認為外星參與是絕對的現實？", "confidence": "high", "notes": ""}
@@ -70,7 +70,7 @@
 → {"text": "我在問伍德博士，我等一下會請教您。我看得出您很想說些什麼。請說。", "confidence": "high", "notes": ""}
 
 266. Well, I think the important point is that of the documents that I have, three of them basically cite crashes associated with the so-called Battle of LA in February 1942, where one was recovered in the San Bernardino Mountains and one was salvaged by the Navy at sea. In addition to that, there was a crash.
-→ {"text": "嗯，我認為重點是，在我擁有的文件中，有三份基本上引述了與 1942 年 2 月所謂的洛杉磯之戰相關的墜毀事件，其中一架在聖貝納迪諾山脈被回收，另一架由海軍在海上打撈。除此之外，還有一次墜毀。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，我認為重點是，在我擁有的文件中，有三份基本上引述了與 1942 年 2 月所謂的洛杉磯之戰（Battle of LA）相關的墜毀事件，其中一架在聖貝納迪諾山脈被回收，另一架由海軍在海上打撈。除此之外，還有一次墜毀。", "confidence": "high", "notes": ""}
 
 267. They were wondering about the probability, weren't they, of whether it was ET, not the reality, that they had already come to that conclusion?
 → {"text": "他們當時在思考可能性，不是嗎？思考是否為外星的可能性，而不是現實，也就是說他們還沒有得出那個結論？", "confidence": "high", "notes": ""}
@@ -112,7 +112,7 @@
 → {"text": "這就是我要問您的。", "confidence": "high", "notes": ""}
 
 280. Well, they initiated a study called the Interplanetary Phenomenon Unit that had a classification of top secret.
-→ {"text": "嗯，他們啟動了一項名為跨行星現象研究小組的研究，其機密等級為最高機密。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，他們啟動了一項名為跨行星現象研究小組（Interplanetary Phenomenon Unit）的研究，其機密等級為最高機密。", "confidence": "high", "notes": ""}
 
 281. So, in my judgment, these early crashes were what triggered a process that is described in the 1954 document as to how we would be able to go and retrieve crashed or shot down flying saucers and be able to study them.
 → {"text": "因此，我認為這些早期墜毀事件觸發了 1954 年文件中描述的流程，說明我們如何能夠前往回收墜毀或被擊落的飛碟並加以研究。", "confidence": "high", "notes": ""}
@@ -235,7 +235,7 @@
 → {"text": "而且是機密的。", "confidence": "high", "notes": ""}
 
 321. This document was forced out by Stanton Friedman in 1978.
-→ {"text": "這份文件是史丹頓·佛烈德曼在 1978 年迫使公開的。", "confidence": "high", "notes": ""}
+→ {"text": "這份文件是史丹頓·弗里德曼在 1978 年迫使公開的。", "confidence": "high", "notes": "topics.json（topic_04 條目）原有 seg 321 Staten Friedman→Stanton Friedman 紀錄，經查 main.yaml 原文早已正確，屬失效紀錄"}
 
 322. No, I understand.
 → {"text": "不，我理解。", "confidence": "high", "notes": ""}
@@ -334,7 +334,7 @@
 → {"text": "我們無法取得那些。", "confidence": "high", "notes": ""}
 
 354. I don't have a need to know for any of that stuff.
-→ {"text": "對於那些東西，我沒有知密權。", "confidence": "high", "notes": ""}
+→ {"text": "對於那些東西，我沒有需知權限。", "confidence": "high", "notes": ""}
 
 355. People say, what was the analysis of the material at Roswell?
 → {"text": "人們問，羅斯威爾事件材料的分析結果是什麼？", "confidence": "high", "notes": ""}
@@ -361,7 +361,7 @@
 → {"text": "所以我們會談到那個。", "confidence": "high", "notes": ""}
 
 363. And one postscript, this is not about a probability, sir, this is how the government wanted the collection teams, which had names and numbers, to be how they would go out to retrieve craft, how they would go out and retrieve bodies dead and alive.
-→ {"text": "還有一個附註，先生，這不是關於可能性，這是政府希望那些有名稱和編號的回收小組如何外出回收飛行器、如何外出回收死亡和活著的遺體的方式。", "confidence": "high", "notes": ""}
+→ {"text": "還有一個附註，先生，這不是關於可能性，這是政府希望那些有名稱和編號的回收小組行動的方式：如何外出回收飛行器、如何外出回收死亡或仍存活的實體。", "confidence": "high", "notes": "原文 bodies dead and alive 包含存活者，故不譯「遺體」，改譯實體"}
 
 364. The whole procedure of how to deal with it was written and published in this 1954.
 → {"text": "如何處理它的整個程序都在這份 1954 年的文件中撰寫和發布了。", "confidence": "high", "notes": ""}
@@ -391,7 +391,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 373. What Wilbur Smith said, the Canadian guy, he states quite openly in his writings that he handled a piece that was shot off a flying saucer in 1952 over Washington by the Navy.
-→ {"text": "威爾伯·史密斯說的，那位加拿大人，他在著作中相當公開地表示，他處理過一塊在 1952 年華盛頓上空被海軍從飛碟上擊落的碎片。", "confidence": "high", "notes": ""}
+→ {"text": "威爾伯特·史密斯說的，那位加拿大人，他在著作中相當公開地表示，他處理過一塊在 1952 年華盛頓上空被海軍從飛碟上擊落的碎片。", "confidence": "high", "notes": "原文 Wilbur Smith 為 Whisper 誤拼，應為 Wilbert Smith；已補錄 topics.json potential_errors"}
 
 374. He maintained that.
 → {"text": "他堅持這一點。", "confidence": "high", "notes": ""}
@@ -418,7 +418,7 @@
 → {"text": "所以他在向人們暗示這是真實的。", "confidence": "high", "notes": ""}
 
 382. His son testified, he will testify, he's talked to me, he's talked to numerous people, that his father told him shortly before his death that he did see a flying saucer and the bodies outside of Washington, DC.
-→ {"text": "他的兒子作證，他會作證，他跟我說過，他跟許多人說過，他父親在去世前不久告訴他，他確實在華盛頓特區外看到了飛碟和遺體。", "confidence": "high", "notes": ""}
+→ {"text": "他的兒子作證，他會作證，他跟我說過，他跟許多人說過，他父親在去世前不久告訴他，他確實在華盛頓特區外看到了飛碟和實體。", "confidence": "high", "notes": "bodies 指外星實體，與 seg 363 譯法一致"}
 
 383. And one of his associates also saw it.
 → {"text": "他的一位同事也看到了。", "confidence": "high", "notes": ""}
@@ -427,7 +427,7 @@
 → {"text": "我跟他的首席冶金學家談過，因為很多這種材料被送到加拿大進行分析。", "confidence": "high", "notes": ""}
 
 385. I talked to his metallurgist and I said, how much material did you and Wilbur handle?
-→ {"text": "我問他的冶金學家，我說，你和威爾伯處理了多少材料？", "confidence": "high", "notes": ""}
+→ {"text": "我問他的冶金學家，我說，你和威爾伯特處理了多少材料？", "confidence": "high", "notes": "原文 Wilbur 為 Whisper 誤拼，應為 Wilbert；已補錄 topics.json potential_errors"}
 
 386. He said, tons of it.
 → {"text": "他說，數噸。", "confidence": "high", "notes": ""}
@@ -454,10 +454,10 @@
 → {"text": "他們通常會轉交給美國。", "confidence": "high", "notes": ""}
 
 394. There was a crash in Varginha, Brazil, which the word is that Americans took the wreckage and the bodies.
-→ {"text": "在巴西瓦爾吉尼亞發生了一起墜毀事件，據說美國人拿走了殘骸和遺體。", "confidence": "high", "notes": ""}
+→ {"text": "在巴西瓦爾吉尼亞（Varginha, Brazil）發生了一起墜毀事件，據說美國人拿走了殘骸和遺體。", "confidence": "high", "notes": ""}
 
 395. Yeah, the Secretary of State was there, Warren Christopher went there, and the deal supposedly was that they were going to put a Brazilian on the space shuttle, and that's happened shortly after they negotiated, supposedly, for the bodies and the craft.
-→ {"text": "是的，國務卿去了那裡，華倫·克里斯多福去了那裡，據說協議是他們會讓一名巴西人登上太空梭，而這在他們據稱為遺體和飛行器進行談判後不久就發生了。", "confidence": "high", "notes": ""}
+→ {"text": "是的，國務卿去了那裡，華倫·克里斯多福（Warren Christopher）去了那裡，據說協議是他們會讓一名巴西人登上太空梭，而這在他們據稱為遺體和飛行器進行談判後不久就發生了。", "confidence": "high", "notes": ""}
 
 396. Carrot and stick.
 → {"text": "胡蘿蔔加大棒。", "confidence": "high", "notes": ""}
@@ -634,7 +634,7 @@
 → {"text": "謝謝您，眾議員女士。", "confidence": "high", "notes": ""}
 
 454. Congresswoman Kilpatrick, please.
-→ {"text": "Kilpatrick 眾議員，請。", "confidence": "high", "notes": "Whisper 轉錄錯誤修正：原文為 Kayle Patrick，正確為 Kilpatrick"}
+→ {"text": "基爾派翠克眾議員（Carolyn Cheeks Kilpatrick），請。", "confidence": "high", "notes": "topics.json 原有 Kayle Patrick→Kilpatrick 的 potential_errors 紀錄，經查 main.yaml 原文早已是 Kilpatrick，屬失效紀錄"}
 
 455. Thank you very much.
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
@@ -769,7 +769,7 @@
 → {"text": "這需要一個國際性的答案。", "confidence": "high", "notes": ""}
 
 499. And, Dr. Freeman, you were saying that all the other countries give their stuff to the U.S.
-→ {"text": "而且，弗里曼博士，您說所有其他國家都把他們的東西交給美國。", "confidence": "high", "notes": ""}
+→ {"text": "而且，弗里德曼博士，您說所有其他國家都把他們的東西交給美國。", "confidence": "high", "notes": "原文 Dr. Freeman 為 Whisper 誤聽，應為 Dr. Friedman；譯文逕用正確譯名，已補錄 topics.json potential_errors"}
 
 500. Well, give, maybe they sell might be better.
 → {"text": "嗯，交給，也許說他們賣可能更好。", "confidence": "high", "notes": ""}
@@ -898,7 +898,7 @@
 → {"text": "根據我所看到的，美利堅合眾國會阻止任何此類行動。", "confidence": "high", "notes": ""}
 
 542. They already, as an example, the United Nations under Eric Gairy from Grenada tried to get a UN group to look at UFOs.
-→ {"text": "他們已經，舉個例子，在格瑞那達的艾瑞克·蓋里領導下，聯合國曾試圖成立一個聯合國小組來研究不明飛行物。", "confidence": "high", "notes": "Whisper 轉錄錯誤修正：原文為 Eric Gehry，正確為 Eric Gairy（格瑞那達總理）"}
+→ {"text": "他們已經，舉個例子，在格瑞那達的艾瑞克·蓋里領導下，聯合國曾試圖成立一個聯合國小組來研究不明飛行物。", "confidence": "high", "notes": "topics.json 原有 Eric Gehry→Eric Gairy 的 potential_errors 紀錄，經查 main.yaml 原文早已是 Eric Gairy（格瑞那達總理），屬失效紀錄"}
 
 543. And the evidence is pretty substantial that the Americans did everything they could to stonewall that.
 → {"text": "而且有相當充分的證據表明，美國人竭盡所能地阻撓這件事。", "confidence": "high", "notes": ""}
@@ -1003,7 +1003,7 @@
 → {"text": "可能是真的。", "confidence": "high", "notes": ""}
 
 577. But that doesn't move us to plan B. That's all I'm saying.
-→ {"text": "但這不會讓我們轉向 B 計劃。這就是我要說的全部。", "confidence": "high", "notes": ""}
+→ {"text": "但這不會讓我們轉向 B 計畫。這就是我要說的全部。", "confidence": "high", "notes": ""}
 
 578. I think the whole thing is I'm feeling in the room and I love the people who follow this and have for many years because you have the scientific data.
 → {"text": "我認為整個事情是我在房間裡的感受，我喜愛那些多年來追隨這個議題的人，因為你們有科學數據。", "confidence": "high", "notes": ""}
@@ -1114,7 +1114,7 @@
 → {"text": "那是他們將奮戰到死也要讓公眾無法看到的東西。", "confidence": "high", "notes": ""}
 
 614. They will give you the siting files because who cares?
-→ {"text": "他們會給你目擊檔案，因為誰在乎呢？", "confidence": "high", "notes": ""}
+→ {"text": "他們會給你目擊檔案，因為誰在乎呢？", "confidence": "high", "notes": "原文 siting files 為 Whisper 漏字，應為 sighting files；譯文已正確作目擊檔案，已補錄 topics.json potential_errors"}
 
 615. Someone saw something in the sky.
 → {"text": "有人在天空中看到了什麼。", "confidence": "high", "notes": ""}
@@ -1330,7 +1330,7 @@
 → {"text": "但我想讓自己與伍爾西眾議員的發言聯繫起來。", "confidence": "high", "notes": ""}
 
 686. And I know that Congresswoman Hooley and I had a private discussion on the same subject, and the Congressman here has just touched upon it.
-→ {"text": "我知道 Hooley 眾議員和我就同一主題進行了私下討論，這裡的眾議員剛剛也觸及了這個話題。", "confidence": "high", "notes": "Whisper 轉錄錯誤修正：原文為 Congressman Hoolie，正確為 Congresswoman Hooley（女性眾議員）"}
+→ {"text": "我知道胡利眾議員和我就同一主題進行了私下討論，這裡的眾議員剛剛也觸及了這個話題。", "confidence": "high", "notes": "topics.json 原有 Congressman Hoolie→Congresswoman Hooley 的 potential_errors 紀錄，經查 main.yaml 原文早已正確，屬失效紀錄"}
 
 687. What is the next step?
 → {"text": "下一步是什麼？", "confidence": "high", "notes": ""}
