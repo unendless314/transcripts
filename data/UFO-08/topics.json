@@ -22,9 +22,9 @@
       "potential_errors": [
         {
           "segment_id": 50,
-          "error_text": "Mrs. Hollis",
-          "suggested_correction": "Mr. Salas",
-          "reasoning": "The witness discussing missile shutdowns is Captain Robert Salas. 'Mrs. Hollis' appears to be a transcription error for 'Mr. Salas'."
+          "error_text": "Mr. Dole",
+          "suggested_correction": "Mr. Dolan",
+          "reasoning": "The panelist addressed is historian Richard Dolan. The originally recorded error 'Mrs. Hollis' was already pre-corrected to 'Mr. Salas' in main.yaml; 'Mr. Dole' is the remaining mishearing in the same segment."
         },
         {
           "segment_id": 62,
@@ -66,6 +66,24 @@
         "Air Force Project Blue Book"
       ],
       "potential_errors": [
+        {
+          "segment_id": 95,
+          "error_text": "Sculley",
+          "suggested_correction": "Scully",
+          "reasoning": "The X-Files character is Dana Scully; 'Sculley' (appears twice in the segment) is a Whisper misspelling. Added during proofreading."
+        },
+        {
+          "segment_id": 103,
+          "error_text": "Johnson Island",
+          "suggested_correction": "Johnston Island",
+          "reasoning": "The 1962 Starfish Prime high-altitude nuclear test took place at Johnston Island (Johnston Atoll) in the Pacific; 'Johnson Island' is a mishearing. Added during proofreading."
+        },
+        {
+          "segment_id": 104,
+          "error_text": "John Kyle",
+          "suggested_correction": "Jon Kyl",
+          "reasoning": "The statement on EMP as an existential threat was made by Senator Jon Kyl; 'John Kyle' is a Whisper mishearing. Confirmed by human ruling 2026-08-11."
+        },
         {
           "segment_id": 115,
           "error_text": "Congresswoman Woesey",
@@ -116,9 +134,9 @@
         },
         {
           "segment_id": 171,
-          "error_text": "Conant investigation",
-          "suggested_correction": "Condon investigation",
-          "reasoning": "The witness is almost certainly referring to the 'Condon Committee' or 'Condon Report,' a famous USAF-sponsored study of UFOs led by physicist Edward Condon."
+          "error_text": "Conant investigator",
+          "suggested_correction": "Condon investigator",
+          "reasoning": "The witness is referring to the Condon Committee investigator. 'Conant' is a Whisper mishearing of 'Condon' (the USAF-sponsored UFO study led by physicist Edward Condon). Entry updated during proofreading to match the remaining text in main.yaml."
         },
         {
           "segment_id": 186,
@@ -156,6 +174,12 @@
         "Roswell"
       ],
       "potential_errors": [
+        {
+          "segment_id": 247,
+          "error_text": "Centres",
+          "suggested_correction": "Senator",
+          "reasoning": "The chair is announcing that the Senator (Mike Gravel) wants to make a final comment; 'Centres' is a Whisper mishearing of 'Senator'. Added during proofreading."
+        },
         {
           "segment_id": 285,
           "error_text": "bent waters",

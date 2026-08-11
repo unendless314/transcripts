@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 164. Thank you, Congresswoman -- Congressman Cook.
-→ {"text": "謝謝您，女眾議員——Cook 眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝您，眾議員——庫克眾議員。", "confidence": "high", "notes": "指梅里爾·庫克（Merrill Cook，前猶他州眾議員），沿用 UFO-03 定譯；主持人先口誤女眾議員後改口"}
 
 165. Thank you. From the things that you've described today, you all must have done what Captain Fenstermacher just indicated he has done. That's think about these things a lot during the times when you didn't say too much -- anything publicly, and after you've come out and started speaking, which, again, I congratulate the two of you that have done that today, for I understand the first time. So I think -- I've got to say, I think your speculations are a lot more informed than what our speculations might be on this. So I'd like to start with Captain Salas. And each of you have also said, I think, if I'm wrong on this, correct me, but that you've -- that you all complied, as you were asked to do and required to do, with the nondisclosure statements, short -- almost immediately after you described to your seniors in the military what you had just witnessed. Am I correct on that?
 → {"text": "謝謝。從你們今天所描述的事情來看，你們所有人一定都做了芬斯特馬赫上尉剛才所說的事情，也就是在你們沒有公開說太多——或任何話的那段時間裡，大量思考這些事情，以及在你們出來開始發聲之後。我再次恭喜你們兩位今天這樣做，我理解這是第一次。所以我認為——我不得不說，我認為你們的推測比我們在這方面的推測要有根據得多。所以我想從薩拉斯上尉開始。你們每個人也都說過，我想，如果我錯了請糾正我，但你們——你們都遵守了要求你們做的事情，簽署了保密聲明，幾乎就在你們向軍中上級描述了你們剛剛目擊的事情之後。我說的對嗎？", "confidence": "high", "notes": ""}
@@ -10,7 +10,7 @@
 → {"text": "是的，先生。您沒有嗎？", "confidence": "high", "notes": ""}
 
 167. See, I was involved in three sightings, three different bases, and not one time did I have to sign anything away. Okay, Sergeant Scott, I appreciate that clarification.
-→ {"text": "您看，我參與過三次目擊事件，在三個不同的基地，沒有一次我需要簽署任何東西。好的，Scott 中士，我感謝您的澄清。", "confidence": "high", "notes": ""}
+→ {"text": "您看，我參與過三次目擊事件，在三個不同的基地，沒有一次我需要簽署任何東西。好的，斯科特中士，我感謝您的澄清。", "confidence": "high", "notes": ""}
 
 168. But I'm right, for example -- let's start with Captain Salas. You signed those -- Absolutely, sir.
 → {"text": "但我說的對，比如——讓我們從薩拉斯上尉開始。您簽署了那些——絕對是的，先生。", "confidence": "high", "notes": ""}
@@ -22,7 +22,7 @@
 → {"text": "絕對是的。我認為你們的推測——或者說你們可能向這個委員會、這個小組提出的理由，關於空軍當時可能要求你們這樣做的正當理由，以及他們可能要求你們這樣做的不正當理由。你們多年來或當時一定在思考這些。你們必定——你們必定對此有一些想法，為什麼他們讓你們立刻進來簽署那份文件？我是說，為什麼他們當時——為什麼你們當時——整個文化就是，不要談論它，否則你就會有麻煩。這樣做的正當理由是什麼，如果有的話——如果有的話，或者不正當理由是什麼，如果有的話？", "confidence": "high", "notes": ""}
 
 171. I think I discovered the main reason, and that is -- is this on? Okay. That the Condon investigation was ongoing at the time, and the idea of the Condon investigation basically was to give the Air Force a way out of investigating UFOs. And if they had allowed me to speak to the Conant investigator about my incident, and Mr. Fiegel, and Mr. Mywald, and Mr. Carlson, they would have discovered that this was really a serious problem. And so that, I think, was the primary reason they were so anxious to get us to sign these nondisclosure statements at the time.
-→ {"text": "我認為我發現了主要原因，那就是——這個開著嗎？好的。當時康登調查正在進行中，而康登調查的目的基本上是為空軍提供一個退出調查 UFO 的途徑。如果他們允許我向康登調查員談論我的事件，以及 Fiegel 先生、Mywald 先生和 Carlson 先生的事件，他們就會發現這確實是一個嚴重的問題。所以我認為，這就是他們當時如此急於讓我們簽署這些保密聲明的主要原因。", "confidence": "high", "notes": "Conant investigation 應為 Condon investigation（康登調查），已按正確名稱翻譯"}
+→ {"text": "我認為我發現了主要原因，那就是——這個開著嗎？好的。當時康登調查正在進行中，而康登調查的目的基本上是為空軍提供一個退出調查不明飛行物的途徑。如果他們允許我向康登調查員談論我的事件，以及菲格爾先生、邁沃爾德先生和卡爾森先生的事件，他們就會發現這確實是一個嚴重的問題。所以我認為，這就是他們當時如此急於讓我們簽署這些保密聲明的主要原因。", "confidence": "high", "notes": "原文 Conant investigation 應為 Condon investigation（康登調查）；Fiegel＝Figel 菲格爾（沿用 UFO-07 裁決）；Mywald 統一邁沃爾德（UFO-07）；Carlson 音譯卡爾森，身分待查證"}
 
 172. But that can also be very illegitimate, am I right? I'm talking about from the Air Force standpoint.
 → {"text": "但這也可能非常不正當，我說的對嗎？我是從空軍的立場來說的。", "confidence": "high", "notes": ""}
@@ -64,13 +64,13 @@
 → {"text": "控制這件事的男人，控制這件事的男人和女人，我認為主要動機是權力和貪婪。", "confidence": "high", "notes": ""}
 
 185. Captain, Professor Markham, we're going to ask you this then. You made the comments about the filters, and I don't know all the technical terms, but I was quite interested. The timing of those filters coming on to protect nuclear installations, and that was in the '70s, you say? '74, '75.
-→ {"text": "上尉，Markham 教授，那麼我們要問你這個問題。你對過濾器發表了評論，我不知道所有的技術術語，但我非常感興趣。那些用於保護核設施的過濾器出現的時機，你說那是在 70 年代嗎？74 年、75 年。", "confidence": "high", "notes": ""}
+→ {"text": "上尉，馬卡姆教授（Professor Markham），那麼我們要問你這個問題。你對過濾器發表了評論，我不知道所有的技術術語，但我非常感興趣。那些用於保護核設施的過濾器出現的時機，你說那是在 70 年代嗎？74 年、75 年。", "confidence": "high", "notes": "Markham 教授身分待查證（全案僅此一次出現），採台灣音譯"}
 
 186. Well, I would ask Captain Schindele and Captain Salas, isn't it likely or not that what you said to them, they believed you, because they started building technologies to protect against the very thing you were witnessing about? Am I right on that?
-→ {"text": "嗯，我想問 Schindele 上尉和薩拉斯上尉，你們對他們說的話，他們相信了你們，是不是很有可能，因為他們開始建造技術來防禦你們所目擊的那件事？我說的對嗎？", "confidence": "high", "notes": ""}
+→ {"text": "嗯，我想問辛德利上尉和薩拉斯上尉，你們對他們說的話，他們相信了你們，是不是很有可能，因為他們開始建造技術來防禦你們所目擊的那件事？我說的對嗎？", "confidence": "high", "notes": ""}
 
 187. Well, sir, as Mr. Bartlett pointed out, it was well known that nuclear explosions produce electromagnetic pulse.
-→ {"text": "嗯，先生，正如 Bartlett 先生指出的，眾所周知核爆炸會產生電磁脈衝。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，先生，正如巴特利特先生指出的，眾所周知核爆炸會產生電磁脈衝。", "confidence": "high", "notes": ""}
 
 188. But they don't just appear to the point where you need filters for the silos. Well, go ahead.
 → {"text": "但它們不會只是出現到你需要為發射井安裝過濾器的程度。嗯，請繼續。", "confidence": "high", "notes": ""}
@@ -79,7 +79,7 @@
 → {"text": "對不起，我不是故意的。", "confidence": "high", "notes": ""}
 
 190. There was a bench test done at Boeing on the logic coupler, and it was shown in this bench test that at a certain frequency of EMP injected into the logic coupler that the coupler would be disabled. So they had that evidence. And so there's no doubt in my mind that one reason they tried to protect the missiles from EMP was nuclear explosions, but the other was as a result of the incident that I just described to help protect against UFO disabling the missiles.
-→ {"text": "波音公司對邏輯耦合器進行了台架測試，這個台架測試顯示，在特定頻率的電磁脈衝注入邏輯耦合器時，耦合器會失效。所以他們有這個證據。所以我毫不懷疑，他們試圖保護飛彈免受電磁脈衝影響的一個原因是核爆炸，但另一個原因是我剛才描述的事件的結果，以幫助防禦 UFO 關閉飛彈。", "confidence": "high", "notes": ""}
+→ {"text": "波音公司對邏輯耦合器進行了台架測試，這個台架測試顯示，在特定頻率的電磁脈衝注入邏輯耦合器時，耦合器會失效。所以他們有這個證據。所以我毫不懷疑，他們試圖保護飛彈免受電磁脈衝影響的一個原因是核爆炸，但另一個原因是我剛才描述的事件的結果，以幫助防禦不明飛行物關閉飛彈。", "confidence": "high", "notes": ""}
 
 191. Of course, they knew that.
 → {"text": "當然，他們知道那個。", "confidence": "high", "notes": ""}
@@ -91,7 +91,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 194. General, would you yield for just a moment?
-→ {"text": "將軍，您能讓一下嗎？", "confidence": "high", "notes": ""}
+→ {"text": "將軍，能請您稍微讓出發言權嗎？", "confidence": "high", "notes": "yield 為議事用語（讓出發言權）"}
 
 195. Certainly.
 → {"text": "當然。", "confidence": "high", "notes": ""}
@@ -106,7 +106,7 @@
 → {"text": "所以有那個大問題，我們就是這樣留下它的。他們不太確定它們會起作用。我們也不是完全確定它們會起作用，但如果對它們是否會起作用有任何疑問，互相保證毀滅哲學仍然有效，不是嗎？", "confidence": "high", "notes": ""}
 
 199. Okay. I appreciate that. And also just wanted to quickly ask, and so it's a little bit unclear in your mind, Captain Salas, Captain Schindele, that these filters that came in the '70s that were described here today, that they could have been brought forth by the Air Force because they were finally getting to something they felt had occurred as early as the 19--or that they knew about as early as the 1950s or something they might have experienced from the testimony.
-→ {"text": "好的。我感謝這一點。我也只是想快速問一下，所以在你們心中有點不清楚，薩拉斯上尉、Schindele 上尉，今天在這裡描述的這些在 70 年代出現的過濾器，它們可能是空軍提出的，因為他們終於開始處理他們認為早在 19——或者他們早在 1950 年代就知道的事情，或者從證詞中可能經歷過的事情。", "confidence": "high", "notes": ""}
+→ {"text": "好的。我感謝這一點。我也只是想快速問一下，所以在你們心中有點不清楚，薩拉斯上尉、辛德利上尉，今天在這裡描述的這些在 70 年代出現的過濾器，它們可能是空軍提出的，因為他們終於開始處理他們認為早在 19——或者他們早在 1950 年代就知道的事情，或者從證詞中可能經歷過的事情。", "confidence": "high", "notes": ""}
 
 200. Because they've also been what you had told them, either one maybe. Or is that-- Well, I know I'm kind of into the weeds on this a little bit, and I apologize for that, but I just wanted to know whether--I mean, it really struck me when I heard Captain Fenstermacher the shields and the filters, that they had to have believed your testimonies and what you said you saw that day. They had to know that something was definitely happening, and then to keep this silent for 46 years as we've talked about.
 → {"text": "因為它們也是你們告訴他們的東西，可能是其中之一。或者那是——嗯，我知道我在這方面有點陷入細節了，我為此道歉，但我只是想知道是否——我是說，當我聽到芬斯特馬赫上尉談到屏蔽和過濾器時，我真的感到震驚，他們必須相信你們的證詞以及你們說你們那天看到的東西。他們必須知道確實有事情發生，然後像我們談到的那樣，將此保持沉默 46 年。", "confidence": "high", "notes": ""}
@@ -115,10 +115,10 @@
 → {"text": "你知道，即使在幾天前，我對這整個真相禁運還不確定，但這個真相禁運確實需要開始瓦解。", "confidence": "high", "notes": ""}
 
 202. The document that Bob Salas had released was very lengthy, really, with three sub-documents, and I spent a lot of time scanning it. And in fact, there was a little piece about UFOs.
-→ {"text": "Bob Salas 公布的文件確實非常冗長，有三個子文件，我花了很多時間掃描它。事實上，裡面有一小段關於 UFO 的內容。", "confidence": "high", "notes": ""}
+→ {"text": "鮑勃·薩拉斯公布的文件確實非常冗長，有三個子文件，我花了很多時間掃描它。事實上，裡面有一小段關於不明飛行物的內容。", "confidence": "high", "notes": ""}
 
 203. What it was was a technical explanation of all the echo sites and what happened at each of the sites in the first document. And there was a little piece about UFOs, and it said, "The rumor of any UFO creating this is disproved, just disowned." Disowned, I think, wasn't it?
-→ {"text": "它是對所有回音站點以及第一份文件中每個站點發生的事情的技術解釋。有一小段關於 UFO 的內容，它說：「任何 UFO 造成這件事的謠言都被證偽了，只是被否認了。」是否認，我想，不是嗎？", "confidence": "high", "notes": ""}
+→ {"text": "它是對回音（Echo）飛行分隊所有站點以及第一份文件中每個站點發生的事情的技術解釋。有一小段關於不明飛行物的內容，它說：「任何不明飛行物造成這件事的謠言都被證偽了，只是被否認了。」是否認，我想，不是嗎？", "confidence": "high", "notes": "echo 指 Echo 飛行分隊（沿用 UFO-07 飛行分隊編制譯法）"}
 
 204. It was disproven.
 → {"text": "是被證偽。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "但在最後的文件中，那是一份 68 年的文件，他們談到他們擔心電磁力如何影響它，波音公司將要處理電磁力問題。", "confidence": "high", "notes": ""}
 
 207. And I think what we installed was the result of his echo and Oscar flight and not his testimony, because it didn't happen.
-→ {"text": "我認為我們安裝的東西是他的回音和 Oscar 飛行的結果，而不是他的證詞，因為它沒有發生。", "confidence": "high", "notes": ""}
+→ {"text": "我認為我們安裝的東西是他的回音（Echo）與奧斯卡（Oscar）飛行分隊事件的結果，而不是他的證詞，因為它沒有發生。", "confidence": "high", "notes": "flight 譯「飛行分隊」（沿用 UFO-06/07 裁決）"}
 
 208. They didn't believe him.
 → {"text": "他們不相信他。", "confidence": "high", "notes": ""}
@@ -139,7 +139,7 @@
 → {"text": "僅僅因為他們說他們不相信他，並不意味著他們不相信他。", "confidence": "high", "notes": ""}
 
 210. Yeah, but the technical aspects, they couldn't say it didn't happen, because the flight had all these errors, and this is what happened.
-→ {"text": "是的，但從技術方面來說，他們無法說它沒有發生，因為飛行出現了所有這些錯誤，這就是發生的事情。", "confidence": "high", "notes": ""}
+→ {"text": "是的，但從技術方面來說，他們無法說它沒有發生，因為該飛行分隊（紀錄）出現了所有這些錯誤，這就是發生的事情。", "confidence": "high", "notes": "flight 指飛行分隊事件紀錄"}
 
 211. I think you're being very humble, Mr. Captain, and all of you, because you probably create a lot more technology than you believe, or that you even are willing to talk about.
 → {"text": "我認為你們非常謙虛，上尉先生，以及你們所有人，因為你們可能創造的技術比你們相信的，或者甚至願意談論的要多得多。", "confidence": "high", "notes": ""}

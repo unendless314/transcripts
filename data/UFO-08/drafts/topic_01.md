@@ -115,7 +115,7 @@
 → {"text": "那他們為什麼不想讓公眾知道我們不清楚那裡有什麼，或者它們可能比我們優越？", "confidence": "high", "notes": ""}
 
 39. Mr. Scott?
-→ {"text": "Scott 先生？", "confidence": "high", "notes": ""}
+→ {"text": "斯科特先生？", "confidence": "high", "notes": ""}
 
 40. They're afraid that we would panic.
 → {"text": "他們害怕我們會恐慌。", "confidence": "high", "notes": ""}
@@ -148,7 +148,7 @@
 → {"text": "兩個論點都是。", "confidence": "high", "notes": ""}
 
 50. I'm going to let Mr. Salas and I'm going to come to Mr. Dole.
-→ {"text": "我要請 Salas 先生發言，然後我會請 Dole 先生發言。", "confidence": "high", "notes": "terminology.yaml: Robert Salas 上尉"}
+→ {"text": "我要請薩拉斯先生發言，然後我會請多蘭先生發言。", "confidence": "high", "notes": "原文 Mr. Dole 應為 Mr. Dolan（Whisper 誤轉，指 Richard Dolan）"}
 
 51. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -184,28 +184,28 @@
 → {"text": "上尉。", "confidence": "high", "notes": ""}
 
 62. Well, they could shut our missiles down until we put EMF filters on our missiles in the early '70s, and by '76, they couldn't shut them down, because in my opinion of the EMF filters and some of the documentation that Robert Salas got unsealed, I looked at and found, in fact, in '68, after studying his shutdowns, they were looking at EMF as a problem.
-→ {"text": "嗯，它們能夠關閉我們的飛彈，直到我們在 1970 年代初期在飛彈上安裝了 EMF 過濾器，到了 1976 年，它們就無法關閉飛彈了，因為根據我對 EMF 過濾器的了解，以及 Robert Salas 設法解密的一些文件，我查閱後發現，事實上在 1968 年，在研究他遭遇的飛彈關閉事件後，他們就將 EMF 視為一個問題。", "confidence": "high", "notes": "terminology.yaml: EMF filters, Robert Salas"}
+→ {"text": "嗯，它們能夠關閉我們的飛彈，直到我們在 1970 年代初期在飛彈上安裝了 EMF 過濾器，到了 1976 年，它們就無法關閉飛彈了，因為根據我對 EMF 過濾器的了解，以及羅伯特·薩拉斯（Robert Salas）設法解密的一些文件，我查閱後發現，事實上在 1968 年，在研究他遭遇的飛彈關閉事件後，他們就將 EMF 視為一個問題。", "confidence": "high", "notes": "terminology.yaml: EMF filters, Robert Salas"}
 
 63. And I do distinctly remember our missiles being pulled offline one at a time before our incident happened and asked one of the members of the security maintenance teams, and they let it out of the bag that it was an EMF filter, and then they got shushed for it.
 → {"text": "我確實清楚記得在我們的事件發生前，我們的飛彈被逐一下線，我詢問了其中一名安全維護小組成員，他們不小心洩漏說那是 EMF 過濾器，然後他們就被要求噤聲了。", "confidence": "high", "notes": ""}
 
 64. And I also accompanied a nuclear warhead or crew duty.
-→ {"text": "我也曾執行核彈頭護送任務或機組值勤。", "confidence": "medium", "notes": "語句稍微不完整，可能是口語表達"}
+→ {"text": "我也曾隨行押運核彈頭，或執行相關值勤任務。", "confidence": "medium", "notes": "原文語句不完整（疑 Whisper 轉錄殘缺），下段補充說明為護送車隊任務"}
 
 65. Additional duty would be to do that on a convoy where we took a nuclear warhead out to a missile site to be replaced, to swap it out.
 → {"text": "額外的任務就是在護送車隊中執行，我們將核彈頭運送到飛彈基地進行更換。", "confidence": "high", "notes": ""}
 
 66. So in my opinion, the EMF filters caused a problem to these entities until they worked around that by the time in 2010.
-→ {"text": "所以我認為，EMF 過濾器對這些實體造成了問題，直到它們在 2010 年前找到了解決辦法。", "confidence": "high", "notes": ""}
+→ {"text": "所以我認為，EMF 過濾器對這些實體造成了問題，直到它們到 2010 年時找到了破解辦法。", "confidence": "high", "notes": ""}
 
 67. I don't want to disagree with Mr. Fenstermacher, but I would like to point out that about the incident that I just mentioned in 2010, the jury's still out as to whether or not that was a UFO incident where 50 nuclear missiles were shut down while objects were seen overhead.
-→ {"text": "我不想與 Fenstermacher 先生意見相左，但我想指出，關於我剛才提到的 2010 年事件，這是否是一起在有物體被目擊於上空時 50 枚核飛彈被關閉的不明飛行物事件，目前仍無定論。", "confidence": "high", "notes": "terminology.yaml: Captain Fenstermacher"}
+→ {"text": "我不想與芬斯特馬赫先生意見相左，但我想指出，關於我剛才提到的 2010 年事件，這是否是一起在有物體被目擊於上空時 50 枚核飛彈被關閉的不明飛行物事件，目前仍無定論。", "confidence": "high", "notes": "terminology.yaml: Captain Fenstermacher"}
 
 68. But I certainly agree that after our incident in the early days, electromagnetic pulse or electromagnetic force was considered a possible cause for the shutdowns, and the Air Force did have an active program to improve the EMP protection.
 → {"text": "但我確實同意，在我們早期的事件之後，電磁脈衝或電磁力被認為是飛彈關閉的可能原因，而且空軍確實有一個積極的計畫來改進電磁脈衝防護。", "confidence": "high", "notes": "terminology.yaml: electromagnetic pulse, EMP"}
 
 69. Mr. Dolan?
-→ {"text": "Dolan 先生？", "confidence": "high", "notes": "terminology.yaml: Richard Dolan, UFO researcher"}
+→ {"text": "多蘭先生？", "confidence": "high", "notes": "terminology.yaml: Richard Dolan, UFO researcher"}
 
 70. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -220,13 +220,13 @@
 → {"text": "所以要確保做到這一點的唯一方法就是否認這種現象的存在。", "confidence": "high", "notes": ""}
 
 74. But we actually know from the declassified literature that even as early as 1947, there were wind tunnel tests of disk-shaped airframes that were being conducted at Wright Field in Dayton, Ohio, and these were explicitly based on UFO sightings.
-→ {"text": "但我們實際上從解密的文獻中得知，早在 1947 年，俄亥俄州代頓的萊特機場就進行了碟形機身的風洞測試，而這些測試明確是基於不明飛行物的目擊事件。", "confidence": "high", "notes": "terminology.yaml: Wright Field"}
+→ {"text": "但我們實際上從解密的文獻中得知，早在 1947 年，俄亥俄州代頓的萊特機場（Wright Field）就進行了碟形機身的風洞測試，而這些測試明確是基於不明飛行物的目擊事件。", "confidence": "high", "notes": "terminology.yaml: Wright Field"}
 
 75. We have a document from October 1947 authored by Colonel Wentworth, I believe, in which he references this.
-→ {"text": "我們有一份我相信是溫特沃斯上校撰寫的 1947 年 10 月文件，其中提到了這件事。", "confidence": "high", "notes": "terminology.yaml: Colonel Wentworth"}
+→ {"text": "我們有一份我相信是溫特沃斯上校（Colonel Wentworth）撰寫的 1947 年 10 月文件，其中提到了這件事。", "confidence": "high", "notes": "terminology.yaml: Colonel Wentworth"}
 
 76. So the obvious connection between UFO sightings alone and technological development is right there from the beginning.
-→ {"text": "所以僅從不明飛行物目擊事件與技術發展之間的明顯聯繫，從一開始就存在。", "confidence": "high", "notes": ""}
+→ {"text": "所以光是從不明飛行物的目擊事件與技術發展之間的明顯聯繫，便可看出這條脈絡從一開始就存在。", "confidence": "high", "notes": ""}
 
 77. But the idea of panic is the worst, because what we find in many cases is that panic can escalate very quickly. 30 years ago in the lower New York state, Hudson Valley, for about three, four years there were a series of unbelievably incredible sightings by thousands of people.
 → {"text": "但恐慌這個理由是最糟糕的，因為我們在許多案例中發現恐慌可以迅速升級。三十年前在紐約州下部的哈德遜谷，大約有三、四年的時間，數千人目擊了一系列令人難以置信的驚人景象。", "confidence": "high", "notes": "terminology.yaml: Hudson Valley"}
@@ -235,7 +235,7 @@
 → {"text": "到了 1984 年，這件事很快引起了全國媒體的關注。", "confidence": "high", "notes": ""}
 
 79. The FAA quickly and clearly had, what could they literally say to the world?
-→ {"text": "聯邦航空總署迅速且清楚地面臨，他們實際上能對世界說什麼呢？", "confidence": "medium", "notes": "句子稍微不完整，口語表達"}
+→ {"text": "聯邦航空總署（FAA）迅速且清楚地面臨一個問題：他們實際上能對世界說什麼呢？", "confidence": "medium", "notes": "句子稍微不完整，口語表達"}
 
 80. "Yes, there's these enormous boomerang-shaped objects flying over the Taconic Parkway.
 → {"text": "「是的，有這些巨大的回旋鏢形物體在塔科尼克公園大道上空飛行。", "confidence": "high", "notes": "terminology.yaml: Taconic Parkway"}

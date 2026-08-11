@@ -147,7 +147,7 @@ terms:
         definition: 國會 EMP 委員會，研究電磁脈衝威脅的專家小組
         preferred_translation: EMP 委員會
         segments: [103]
-        notes: 運作八年，由雷根總統科學顧問 Bill Graham 主持，Johnny Foster 等核武專家參與
+        notes: 運作八年，由雷根總統科學顧問 Bill Graham 主持；委員含 John S. Foster Jr.、Lowell L. Wood Jr.（2026-08-11 人工查證）；原文 Joan Woodard 查無其人，疑為連讀混音轉錄亂碼
 
   - term: Extraterrestrial
     senses:
@@ -185,13 +185,13 @@ terms:
         notes: 討論阿拉斯加部署的洲際彈道飛彈
 
   # ===== J =====
-  - term: Johnson Island
+  - term: Johnston Island
     senses:
-      - id: johnson_island_test_site
-        definition: 約翰遜島（Johnston Island），太平洋核試驗場
-        preferred_translation: 約翰遜島
+      - id: johnston_island_test_site
+        definition: 約翰斯頓島（Johnston Island，原文誤轉為 Johnson Island），太平洋核試驗場
+        preferred_translation: 約翰斯頓島
         segments: [103]
-        notes: 1962 年 Starfish Prime 核試驗地點，EMP 影響 800 英里外夏威夷的電力設備
+        notes: 1962 年星魚主（Starfish Prime）核試驗地點，EMP 影響 800 英里外夏威夷的電力設備；校稿查證改譯（舊譯約翰遜島不合網路流通）
 
   - term: Joint Chiefs of Staff
     senses:
@@ -370,10 +370,10 @@ terms:
   - term: Starfish Prime
     senses:
       - id: starfish_prime_nuclear_test
-        definition: 海星計畫（Starfish Prime），1962 年強生島高空核試驗
-        preferred_translation: 海星計畫
+        definition: 星魚主（Starfish Prime），1962 年約翰斯頓島高空核試驗
+        preferred_translation: 星魚主
         segments: [103]
-        notes: 證實 EMP 威脅非理論性，800 英里外夏威夷電力設備受損
+        notes: 證實 EMP 威脅非理論性，800 英里外夏威夷電力設備受損；網路流通譯名「星魚主」（維基百科條目名），校稿查證改譯（舊譯海星計畫不合流通）
 
   # ===== T =====
   - term: Taconic Parkway

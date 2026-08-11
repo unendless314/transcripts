@@ -10,7 +10,7 @@
 → {"text": "是的，非常感謝。", "confidence": "high", "notes": ""}
 
 216. I wanted to make a comment about the ballistic missile defense that Senator Gravell was talking about.
-→ {"text": "我想針對格拉韋爾參議員所談論的彈道飛彈防禦系統發表一些評論。", "confidence": "high", "notes": "terminology.yaml: Senator Gravel (Gravell 為誤拼), ballistic missile defense"}
+→ {"text": "我想針對格拉維爾參議員所談論的彈道飛彈防禦系統發表一些評論。", "confidence": "high", "notes": "主表定譯格拉維爾參議員（格拉韋爾為 deprecated）；原文 Gravell 為 Whisper 誤拼"}
 
 217. He's correct.
 → {"text": "他說得對。", "confidence": "high", "notes": ""}
@@ -103,7 +103,7 @@
 → {"text": "讓我站起來。", "confidence": "high", "notes": ""}
 
 247. Sir, Centres also want to make a final comment.
-→ {"text": "先生，參議員也想做最後評論。", "confidence": "medium", "notes": "Centres 疑似 Senator 的誤聽"}
+→ {"text": "先生，參議員也想做最後評論。", "confidence": "medium", "notes": "原文 Centres 應為 Senator（Whisper 誤聽，語境為格拉維爾參議員接續發言），已補錄 topics.json"}
 
 248. Oh, no.
 → {"text": "哦，不。", "confidence": "high", "notes": ""}
@@ -139,7 +139,7 @@
 → {"text": "您認為阿拉斯加所有這些洲際彈道飛彈武器是為了什麼？", "confidence": "high", "notes": "terminology.yaml: ICBMs"}
 
 259. Do you think they're about Korea?
-→ {"text": "您認為它們是針對朝鮮的嗎？", "confidence": "high", "notes": ""}
+→ {"text": "您認為它們是針對北韓的嗎？", "confidence": "high", "notes": "Korea 此語境指北韓（與本集 seg 224 一致）"}
 
 260. He's mentioned possibly Russia.
 → {"text": "他提到可能是俄羅斯。", "confidence": "high", "notes": ""}
@@ -160,10 +160,10 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 266. Do you recall that six months later, the Chinese did the same thing to tell us tit for tat, you can do it, we can do it too?
-→ {"text": "您記得六個月後，中國人做了同樣的事來告訴我們以牙還牙，你們能做到，我們也能做到嗎？", "confidence": "high", "notes": ""}
+→ {"text": "您記得六個月後，中國人做了同樣的事來告訴我們以牙還牙，你們能做到，我們也能做到嗎？", "confidence": "high", "notes": "查證：中國反衛星試驗（2007-01）實早於美國擊落 USA-193（2008-02），講者時序顛倒，依規則不擅改原文"}
 
 267. And what country, and of course, the amount of money we're spending to weaponize outer space is, is a supreme idiocy of the American government, because we, well, we are the most vulnerable.
-→ {"text": "而哪個國家，當然，我們花在太空武器化上的資金，是美國政府至高無上的愚蠢行為，因為我們，嗯，我們是最脆弱的。", "confidence": "medium", "notes": "語句稍顯口語化"}
+→ {"text": "而哪個國家，當然，我們花在太空武器化上的資金，是美國政府極大的愚蠢行為，因為我們，嗯，我們是最脆弱的。", "confidence": "medium", "notes": "語句稍顯口語化"}
 
 268. If you talk to any scientist, any explosion in outer space, who's got the most satellites?
 → {"text": "如果您問任何科學家，在外太空發生任何爆炸，誰擁有最多的人造衛星？", "confidence": "high", "notes": "terminology.yaml: satellites"}
