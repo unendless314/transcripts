@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 78. Mr. Friedman, you're an old witness here, so you know the rules.
-→ {"text": "佛烈德曼先生，您是這裡的老證人了，所以您知道規矩。", "confidence": "high", "notes": ""}
+→ {"text": "弗里德曼先生，您是這裡的老證人了，所以您知道規矩。", "confidence": "high", "notes": ""}
 
 79. I am the oldest witness here.
 → {"text": "我是這裡最年長的證人。", "confidence": "high", "notes": ""}
@@ -37,7 +37,7 @@
 → {"text": "他只不過是空軍藍皮書計畫的顧問長達 20 年，以及西北大學天文系主任而已。", "confidence": "high", "notes": ""}
 
 90. You'd think when astronomers take wax at UFOs, they would at least look at Allen's book, but they don't.
-→ {"text": "你會以為當天文學家對不明飛行物大放厥詞時，他們至少會看看艾倫的書，但他們沒有。", "confidence": "high", "notes": ""}
+→ {"text": "你會以為當天文學家對不明飛行物大肆批評時，他們至少會看看艾倫的書，但他們沒有。", "confidence": "medium", "notes": "原文 take wax at UFOs 應為 take a whack at UFOs（轉錄錯誤，已補錄 topics.json），依語境譯出"}
 
 91. The next one, there's the University of Colorado study, 965 pages, $539,000 it cost us.
 → {"text": "下一張，這是科羅拉多大學研究報告，965 頁，花費了我們 53 萬 9 千美元。", "confidence": "high", "notes": ""}
@@ -70,13 +70,13 @@
 → {"text": "這意味著要密切關注鄰近地區那些顯示出有能力造成麻煩的原始社會。", "confidence": "high", "notes": ""}
 
 101. By July 1947, it was clear to any aliens in the neighborhood that we have a primitive society whose major activity is tribal warfare and that soon, less than 100 years, which is nothing on a cosmic time scale, we would be able to visit aliens out there taking our brand of friendship, everybody else calls it hostility, the facts that demonstrate that our nuclear weapons, powerful rockets, and radar, the beginning of advanced electronics.
-→ {"text": "到了 1947 年 7 月，對於鄰近地區的任何外星人來說都很明顯，我們是一個主要活動是部落戰爭的原始社會，而且很快——不到 100 年，這在宇宙時間尺度上微不足道——我們就能夠前往外太空拜訪外星人，帶著我們的友誼方式，其他人都稱之為敵意，這些事實證明了我們擁有核武器、強大的火箭和雷達，這是先進電子技術的開端。", "confidence": "high", "notes": ""}
+→ {"text": "到了 1947 年 7 月，對於鄰近地區的任何外星人來說都很明顯，我們是一個主要活動是部落戰爭的原始社會，而且很快——不到 100 年，這在宇宙時間尺度上微不足道——我們就能夠前往外太空拜訪外星人，帶著我們的友誼方式，其他人都稱之為敵意，這些事實證明了我們擁有核武、強大的火箭和雷達，這是先進電子技術的開端。", "confidence": "high", "notes": ""}
 
 102. Isn't it amazing that the only place in the world at that time where you could study all three of these was southeastern New Mexico, our first nuclear weapon was detonated at Trinity site, White Sands Missile Range, July 16th, 1945.
-→ {"text": "令人驚訝的是，當時世界上唯一能夠研究這三項技術的地方就是新墨西哥州東南部，我們的第一枚核武器於 1945 年 7 月 16 日在白沙導彈靶場的三位一體核試驗場引爆。", "confidence": "high", "notes": ""}
+→ {"text": "令人驚訝的是，當時世界上唯一能夠研究這三項技術的地方就是新墨西哥州東南部，我們的第一枚核武於 1945 年 7 月 16 日在白沙飛彈靶場（White Sands Missile Range）的三位一體核試驗場（Trinity site）引爆。", "confidence": "high", "notes": "白沙飛彈靶場：UFO-10 裁決導彈→飛彈，zh 維基 zh-tw 同採飛彈"}
 
 103. White Sands is where we're testing captured German V2 rockets and some of our own.
-→ {"text": "白沙導彈靶場是我們測試繳獲的德國 V2 火箭以及我們自己的火箭的地方。", "confidence": "high", "notes": ""}
+→ {"text": "白沙飛彈靶場是我們測試繳獲的德國 V2 火箭以及我們自己的火箭的地方。", "confidence": "high", "notes": ""}
 
 104. And that's where we had our best radar to track the rockets.
 → {"text": "那裡也是我們擁有最佳雷達來追蹤火箭的地方。", "confidence": "high", "notes": ""}
@@ -88,19 +88,19 @@
 → {"text": "當然，事實證明，新墨西哥州至少有三起飛碟墜毀事件。", "confidence": "high", "notes": ""}
 
 107. In early July 1947, there was a crash near the small town of Corona, less than 80 miles from Roswell Army Airfield and nearby Roswell. 100 miles west, there was an unpublicized crash at about the same time, the Plains of San Agustin, new book coming out this year about that, not by me.
-→ {"text": "1947 年 7 月初，在 Corona 小鎮附近發生了一起墜毀事件，距離 Roswell 陸軍機場和附近的 Roswell 不到 80 英里。在西邊 100 英里處，大約同時發生了一起未公開的墜毀事件，在聖奧古斯丁平原，今年將有一本關於此事的新書問世，不是我寫的。", "confidence": "high", "notes": ""}
+→ {"text": "1947 年 7 月初，在科羅納（Corona）小鎮附近發生了一起墜毀事件，距離羅斯威爾陸軍航空基地和附近的羅斯威爾不到 80 英里。在西邊 100 英里處，大約同時發生了一起未公開的墜毀事件，在聖奧古斯丁平原，今年將有一本關於此事的新書問世，不是我寫的。", "confidence": "high", "notes": ""}
 
 108. Book by Arthur Campbell.
-→ {"text": "這本書是 Arthur Campbell 寫的。", "confidence": "high", "notes": ""}
+→ {"text": "這本書是亞瑟·坎貝爾（Arthur Campbell）寫的。", "confidence": "high", "notes": ""}
 
 109. And there was a crash retrieval operation in Aztec, New Mexico in the Four Corners area March 1948.
-→ {"text": "1948 年 3 月，在新墨西哥州 Aztec 的四角地區有一次墜毀回收行動。", "confidence": "high", "notes": ""}
+→ {"text": "1948 年 3 月，在新墨西哥州阿茲特克（Aztec）的四角地區有一次墜毀回收行動。", "confidence": "high", "notes": ""}
 
 110. New book is available.
 → {"text": "新書已經出版。", "confidence": "high", "notes": ""}
 
 111. I was the first to hear about the Corona crash, as discussed in my book, "Crash at Corona" with Don Berliner.
-→ {"text": "我是第一個聽說 Corona 墜毀事件的人，正如我與 Don Berliner 合著的《科羅納墜毀事件》一書中所討論的。", "confidence": "high", "notes": ""}
+→ {"text": "我是第一個聽說科羅納墜毀事件的人，正如我與唐·伯林納（Don Berliner）合著的《科羅納墜毀事件》（Crash at Corona）一書中所討論的。", "confidence": "high", "notes": ""}
 
 112. Simple story.
 → {"text": "故事很簡單。", "confidence": "high", "notes": ""}
@@ -127,7 +127,7 @@
 → {"text": "他很尷尬，但他想讓我留下來進行第三次訪談。", "confidence": "high", "notes": ""}
 
 120. Out of the blue, he said, "The guy you really ought to talk to is Jesse Marcel."
-→ {"text": "他突然說：「你真正應該去找的人是傑西·馬塞爾。」", "confidence": "high", "notes": ""}
+→ {"text": "他突然說：「你真正應該去找的人是傑西·馬塞爾（Jesse Marcel）。」", "confidence": "high", "notes": ""}
 
 121. He handled the wreckage of one of those saucers when he was in the military and practically dropped my teeth.
 → {"text": "「他在軍中時處理過其中一架飛碟的殘骸。」我簡直驚掉下巴。", "confidence": "high", "notes": ""}
@@ -136,10 +136,10 @@
 → {"text": "您對他了解多少？", "confidence": "high", "notes": ""}
 
 123. He lives in Houma.
-→ {"text": "他住在 Houma。", "confidence": "high", "notes": ""}
+→ {"text": "他住在霍馬（Houma）。", "confidence": "high", "notes": ""}
 
 124. That didn't tell me anything, because I didn't know where Houma was.
-→ {"text": "這對我沒什麼幫助，因為我不知道 Houma 在哪裡。", "confidence": "high", "notes": ""}
+→ {"text": "這對我沒什麼幫助，因為我不知道霍馬在哪裡。", "confidence": "high", "notes": ""}
 
 125. It's a big city in Louisiana.
 → {"text": "這是路易斯安那州的一個大城市。", "confidence": "high", "notes": ""}
@@ -154,7 +154,7 @@
 → {"text": "「你應該去找他談談。」", "confidence": "high", "notes": ""}
 
 129. Okay, the third reporter, I've heard lots of stories, and you've sort of put it in your gray basket.
-→ {"text": "好的，第三位記者，我聽過很多故事，你會把它放在灰色地帶。", "confidence": "medium", "notes": "gray basket 意指未決定的事項，可能需要審校"}
+→ {"text": "好的，說到第三位記者，我聽過很多故事，你大概會把它們歸入灰色地帶（存疑待定）。", "confidence": "medium", "notes": "gray basket 為講者自創比喻，指存疑未決之事，依語境補譯"}
 
 130. We'll see what we can do.
 → {"text": "我們看看能做些什麼。", "confidence": "high", "notes": ""}
@@ -181,16 +181,16 @@
 → {"text": "他必須跟某人談談，因為這是公開記錄，他無法對此撒謊。", "confidence": "high", "notes": ""}
 
 138. Soon thereafter, I heard about the Plains of San Agustin crash, after a lecture in Bemidji, Minnesota.
-→ {"text": "不久之後，在明尼蘇達州 Bemidji 的一次演講後，我聽說了聖奧古斯丁平原的墜毀事件。", "confidence": "high", "notes": ""}
+→ {"text": "不久之後，在明尼蘇達州貝米吉（Bemidji）的一次演講後，我聽說了聖奧古斯丁平原的墜毀事件。", "confidence": "high", "notes": ""}
 
 139. I shared both stories with an old colleague from Pittsburgh, Bill Moore, who lived in Minnesota.
-→ {"text": "我與一位來自匹茲堡的老同事 Bill Moore 分享了這兩個故事，他住在明尼蘇達州。", "confidence": "high", "notes": ""}
+→ {"text": "我與一位來自匹茲堡的老同事比爾·摩爾（Bill Moore）分享了這兩個故事，他住在明尼蘇達州。", "confidence": "high", "notes": ""}
 
 140. He had a third story, from the Flying Saucer Review in the UK, which is still being published, which is rather amazing, that it's gone on this long.
 → {"text": "他有第三個故事，來自英國的《飛碟評論》，該雜誌至今仍在出版，這相當驚人，竟然持續了這麼久。", "confidence": "high", "notes": ""}
 
 141. An English actor named Huey Green had noted that he heard about a crash saucer in New Mexico, when driving from Los Angeles to Philadelphia.
-→ {"text": "一位名叫 Huey Green 的英國演員提到，他在從洛杉磯開車到費城的途中，聽說了新墨西哥州的飛碟墜毀事件。", "confidence": "high", "notes": ""}
+→ {"text": "一位名叫休伊·格林（Huey Green）的英國演員提到，他在從洛杉磯開車到費城的途中，聽說了新墨西哥州的飛碟墜毀事件。", "confidence": "high", "notes": ""}
 
 142. The date was recalled as early July, 1947.
 → {"text": "日期被回憶為 1947 年 7 月初。", "confidence": "high", "notes": ""}
@@ -202,7 +202,7 @@
 → {"text": "你可以想像當時的道路是什麼樣子。", "confidence": "high", "notes": ""}
 
 145. Bill went to the University of Minnesota library, looked at the newspaper department, found the story, verifying what I'd been told, giving us new names.
-→ {"text": "Bill 去了明尼蘇達大學圖書館，查看報紙部門，找到了這個故事，證實了我所聽到的，並給了我們新的名字。", "confidence": "high", "notes": ""}
+→ {"text": "比爾去了明尼蘇達大學圖書館，查看報紙部門，找到了這個故事，證實了我所聽到的，並給了我們新的名字。", "confidence": "high", "notes": ""}
 
 146. The next year and a half, we found 62 people, in conjunction with that case.
 → {"text": "接下來的一年半，我們找到了 62 個與該案件相關的人。", "confidence": "high", "notes": ""}
@@ -220,10 +220,10 @@
 → {"text": "我很幸運。", "confidence": "high", "notes": ""}
 
 151. I called the Roswell Daily Record, which I hadn't known existed before that, looked in Editor and Publisher.
-→ {"text": "我打電話給《羅斯威爾每日記錄報》，在那之前我不知道它的存在，我在《編輯與出版人》雜誌上查到的。", "confidence": "high", "notes": ""}
+→ {"text": "我打電話給《羅斯威爾每日記錄報》，在那之前我不知道它的存在，我在《編輯與出版人》（Editor & Publisher）雜誌上查到的。", "confidence": "high", "notes": ""}
 
 152. I mentioned that I had some articles noting a crash of a saucer, as reported by a Walter Haut, it's spelled four different ways.
-→ {"text": "我提到我有一些文章記載了飛碟墜毀事件，是由 Walter Haut 報告的，這個名字有四種不同的拼法。", "confidence": "high", "notes": ""}
+→ {"text": "我提到我有一些文章記載了飛碟墜毀事件，是由華特·豪特（Walter Haut）報告的，這個名字有四種不同的拼法。", "confidence": "high", "notes": ""}
 
 153. I was shocked to be told, before I could finish the sentence, "Oh, his wife works here."
 → {"text": "在我還沒說完這句話之前，就被告知：「哦，他妻子在這裡工作。」我感到震驚。", "confidence": "high", "notes": ""}
@@ -235,7 +235,7 @@
 → {"text": "還能有多幸運？", "confidence": "high", "notes": ""}
 
 156. I talked to the wife, talked to Walter.
-→ {"text": "我與他妻子談過，也與 Walter 談過。", "confidence": "high", "notes": ""}
+→ {"text": "我與他妻子談過，也與華特談過。", "confidence": "high", "notes": ""}
 
 157. He was a big help to all of us in our research on Roswell, well thought of throughout the Roswell community.
 → {"text": "他對我們所有人在羅斯威爾的研究都有很大幫助，在羅斯威爾社區中備受推崇。", "confidence": "high", "notes": ""}
@@ -247,7 +247,7 @@
 → {"text": "那時候的電話接線員很友善。", "confidence": "high", "notes": ""}
 
 160. I said, "I'd like to find anybody named Brazel."
-→ {"text": "我說：「我想找任何姓 Brazel 的人。」", "confidence": "high", "notes": ""}
+→ {"text": "我說：「我想找任何姓布拉澤爾（Brazel）的人。」", "confidence": "high", "notes": ""}
 
 161. What city?
 → {"text": "「哪個城市？」", "confidence": "high", "notes": ""}
@@ -259,7 +259,7 @@
 → {"text": "「新墨西哥州東南部。」", "confidence": "high", "notes": ""}
 
 164. She said, "Oh, I've got a William Brazel in Carrizozo."
-→ {"text": "她說：「哦，我有一個在 Carrizozo 的 William Brazel。」", "confidence": "high", "notes": ""}
+→ {"text": "她說：「哦，我這裡有一位在卡里索索（Carrizozo）的威廉·布拉澤爾（William Brazel）。」", "confidence": "high", "notes": ""}
 
 165. Is that in Southeastern New Mexico?
 → {"text": "「那在新墨西哥州東南部嗎？」", "confidence": "high", "notes": ""}
@@ -274,7 +274,7 @@
 → {"text": "我想，還能有多幸運？", "confidence": "high", "notes": ""}
 
 169. One I planned, one of the people that shows up in a key picture that got very wide distribution is at that time Colonel Thomas Jefferson Dubose, Chief of Staff to General Roger Raimi, head of the Eighth Air Force, which is where the 509th was.
-→ {"text": "我計劃要找的人之一，是出現在一張廣泛流傳的關鍵照片中的人物，當時的托馬斯·傑佛遜·杜博斯上校，他是第八航空軍司令官羅傑·雷米將軍的參謀長，509 轟炸大隊就隸屬於第八航空軍。", "confidence": "high", "notes": ""}
+→ {"text": "我計劃要找的人之一，是出現在一張廣泛流傳的關鍵照片中的人物，當時的托馬斯·傑佛遜·杜博斯上校（Colonel Thomas Jefferson Dubose），他是第八航空軍司令官羅傑·雷米將軍（General Roger Ramey）的參謀長，509 轟炸大隊就隸屬於第八航空軍。", "confidence": "high", "notes": "原文 Raimi 應為 Ramey（轉錄錯誤，已補錄 topics.json）"}
 
 170. This is in Fort Worth, Texas.
 → {"text": "這是在德州沃斯堡。", "confidence": "high", "notes": ""}
@@ -286,7 +286,7 @@
 → {"text": "他已經 80 多歲了。", "confidence": "high", "notes": ""}
 
 173. He was very forthcoming when I went to visit him, and Don and I went down there and we have it on tape.
-→ {"text": "當我去拜訪他時，他非常坦誠，我和 Don 去了那裡，我們有錄音。", "confidence": "high", "notes": ""}
+→ {"text": "當我去拜訪他時，他非常坦誠，我和唐去了那裡，我們有錄音。", "confidence": "high", "notes": ""}
 
 174. I've got a DVD out there, our interview with General, retired General Dubose.
 → {"text": "我有一張 DVD，是我們與杜博斯將軍——退役將軍的訪談。", "confidence": "high", "notes": ""}
@@ -307,7 +307,7 @@
 → {"text": "你打電話查詢，希望他們知道些什麼，諸如此類。", "confidence": "high", "notes": ""}
 
 180. You're very lucky that today a key witness is right here, Colonel Jesse A. Marcel Jr., a medical doctor, called back in the Army at age 68 to fight in Iraq, flew over 200 combat hours as a flight surgeon in helicopters.
-→ {"text": "你們非常幸運，今天一位關鍵證人就在這裡，傑西·A·馬塞爾中校，一位醫生，68 歲時被召回軍隊前往伊拉克作戰，作為飛行外科醫生在直升機上飛行了超過 200 小時的戰鬥任務。", "confidence": "high", "notes": ""}
+→ {"text": "你們非常幸運，今天一位關鍵證人就在這裡，傑西·A·馬塞爾二世（Colonel Jesse A. Marcel Jr.）上校，一位醫生，68 歲時被召回軍隊前往伊拉克作戰，作為飛行外科醫生在直升機上飛行了超過 200 小時的戰鬥任務。", "confidence": "high", "notes": "原文為 Colonel，原譯誤作中校，改上校"}
 
 181. His father was Major Jesse Marcel, and he also handled wreckage in 1947.
 → {"text": "他的父親是傑西·馬塞爾少校，他在 1947 年也處理過殘骸。", "confidence": "high", "notes": ""}

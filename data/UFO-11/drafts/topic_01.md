@@ -64,7 +64,7 @@
 → {"text": "但接著在新墨西哥州的高地沙漠中發生了某件事，這將改變歷史進程。", "confidence": "high", "notes": ""}
 
 22. Ironically, the first atomic bomb wing, the 509th Bomb Group, was stationed at Roswell in 1947.
-→ {"text": "諷刺的是，第一支原子彈部隊——509 轟炸大隊——在 1947 年駐紮於 Roswell。", "confidence": "high", "notes": ""}
+→ {"text": "諷刺的是，第一支原子彈部隊——509 轟炸大隊——在 1947 年駐紮於羅斯威爾。", "confidence": "high", "notes": ""}
 
 23. This was a composite group assigned in the final months of the war, comprised of the best officers, pilots and their crews, doctors, nurses, all in one unit, all with top security clearances, the elite within the United States military, their mission to drop one, and if necessary, additional atomic bombs on Japan.
 → {"text": "這是一支在戰爭最後幾個月組建的混合大隊，由最優秀的軍官、飛行員及其機組人員、醫生、護士組成，全部集中在一個單位，全部擁有最高安全許可，是美國軍方的精銳部隊，他們的任務是在日本投下一枚原子彈，必要時再投下更多枚。", "confidence": "high", "notes": ""}
@@ -106,7 +106,7 @@
 → {"text": "不用舉手。", "confidence": "high", "notes": ""}
 
 36. As a continuing insult to the integrity and intelligence of the very personnel who were in charge of the atomic bomb at Roswell, officialdom, after 65 years of ridicule and defamation of eyewitnesses, insists that this elite military squadron would all raise their hands.
-→ {"text": "作為對 Roswell 負責原子彈任務的這些人員的誠信與智慧的持續侮辱，官方在 65 年來對目擊者的嘲笑與誹謗之後，堅持認為這支精銳軍事部隊的所有人都會舉手。", "confidence": "high", "notes": ""}
+→ {"text": "作為對羅斯威爾負責原子彈任務的這些人員的誠信與智慧的持續侮辱，官方在 65 年來對目擊者的嘲笑與誹謗之後，堅持認為這支精銳軍事部隊的所有人都會舉手。", "confidence": "high", "notes": ""}
 
 37. The balloon that was assembled and launched daily by these same personnel somehow morphed into wreckage that even by today's standards defied conventional explanation.
 → {"text": "由這些相同人員每日組裝和發射的氣球，不知何故變形成即使以今日標準也無法用常規方式解釋的殘骸。", "confidence": "high", "notes": ""}
@@ -118,19 +118,19 @@
 → {"text": "然而，你可以把它揉成一團、壓成球狀，然後鬆開手，它會展開並像水一樣在你手中流動。", "confidence": "high", "notes": ""}
 
 40. Was the balloon not a single witness to that alternative explanation?
-→ {"text": "難道沒有任何一位證人支持那種氣象氣球的替代解釋嗎？", "confidence": "medium", "notes": "此句語意略有反諷意味，可能需要審校"}
+→ {"text": "難道沒有任何一位證人支持那種氣象氣球的替代解釋嗎？", "confidence": "medium", "notes": "原文句構破碎（Whisper），依語境補足為反問句；語帶反諷"}
 
 41. Since that time, due to eyewitness pressure, along with the assistance of one of your esteemed colleagues, the late Congressman Stephen Schiff of New Mexico, it caused the Pentagon to issue two additional solutions to what was recovered back in 1947.
-→ {"text": "自那時起，由於目擊者的壓力，加上各位尊敬的同僚之一——已故的新墨西哥州眾議員史蒂芬·希夫——的協助，導致五角大廈對 1947 年回收的物體提出了兩個額外的解釋。", "confidence": "high", "notes": ""}
+→ {"text": "自那時起，由於目擊者的壓力，加上各位尊敬的同僚之一——已故的新墨西哥州眾議員史蒂芬·希夫（Stephen Schiff）——的協助，導致五角大廈對 1947 年回收的物體提出了兩個額外的解釋。", "confidence": "high", "notes": ""}
 
 42. The third being Project Mogul, which was the exact same balloon contraption with the inclusion of an acoustic device.
 → {"text": "第三個解釋是莫古爾計畫，也就是完全相同的氣球裝置，只是加入了一個聲學設備。", "confidence": "high", "notes": ""}
 
 43. The fourth and most baseless of all, time-traveling wooden crash dummies parachuted five years later in 1952.
-→ {"text": "第四個也是最毫無根據的解釋，是 1952 年——五年後——空投的時空穿越木製墜落假人。", "confidence": "high", "notes": ""}
+→ {"text": "第四個也是最毫無根據的解釋，是 1952 年——五年後——空投的時空穿越木製碰撞測試假人。", "confidence": "high", "notes": "crash dummies 通行譯名「碰撞測試假人」"}
 
 44. Even Jay Leno made jest about such fodder after the Pentagon disclosed its fourth version.
-→ {"text": "甚至連傑·雷諾在五角大廈披露第四個版本後都拿這種素材開玩笑。", "confidence": "high", "notes": ""}
+→ {"text": "甚至連傑·雷諾（Jay Leno）在五角大廈披露第四個版本後都拿這種素材開玩笑。", "confidence": "high", "notes": ""}
 
 45. Editorial writers and newspaper cartoonists lampooned the very suggestion and indicated proponents, indicted proponents as the real dummies.
 → {"text": "社論作者和報紙漫畫家嘲諷這種說法，並指責提出這種說法的人才是真正的假人。", "confidence": "high", "notes": ""}
@@ -139,7 +139,7 @@
 → {"text": "想想看，我們現在對一個歷史事件有四個官方版本。", "confidence": "high", "notes": ""}
 
 47. Even politicians can't get away with that.
-→ {"text": "連政客都做不到這一點。", "confidence": "high", "notes": ""}
+→ {"text": "這種事就連政客都矇混不過去。", "confidence": "high", "notes": ""}
 
 48. However, which is the consensus of the eyewitnesses?
 → {"text": "然而，證人們的共識是什麼？", "confidence": "high", "notes": ""}
@@ -148,7 +148,7 @@
 → {"text": "這四個版本中哪一個能在任何法庭上提供充分的證據，儘管是間接證據？", "confidence": "high", "notes": ""}
 
 50. Former U.S. Attorney General Joseph DeGenova has stated, "Circumstantial evidence is often stronger than eyewitness testimony because it's based on the facts.
-→ {"text": "前美國司法部長約瑟夫·德傑諾瓦曾表示：「間接證據往往比目擊證詞更有力，因為它基於事實。」", "confidence": "high", "notes": ""}
+→ {"text": "前美國司法部長約瑟夫·德傑諾瓦（Joseph DeGenova）曾表示：「間接證據往往比目擊證詞更有力，因為它基於事實。」", "confidence": "high", "notes": ""}
 
 51. When you have footprints in the snow, it proves someone was there."
 → {"text": "「當雪地上有腳印時，就證明有人曾在那裡。」", "confidence": "high", "notes": ""}
@@ -184,7 +184,7 @@
 → {"text": "若不這麼做而持續忽視有史以來最重大的發現之一，可能會成為人類歷史上最大的錯誤之一。", "confidence": "high", "notes": ""}
 
 62. To paraphrase Shakespeare's Hamlet, there are more things in heaven and earth, Horatio, than are in your dreams.
-→ {"text": "套用莎士比亞《哈姆雷特》的話：「天地之間有更多事物，賀拉修，是你夢想不到的。」", "confidence": "high", "notes": ""}
+→ {"text": "套用莎士比亞《哈姆雷特》的話：「天地之間有更多事物，霍拉旭，是你夢想不到的。」", "confidence": "high", "notes": "Horatio 中文通行譯名「霍拉旭」（朱生豪譯本）"}
 
 63. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -199,7 +199,7 @@
 → {"text": "我的背景是，我在美國郵政服務工作了大約 25 年，並以優異成績畢業於威斯康辛協和大學。", "confidence": "high", "notes": ""}
 
 67. I was a special investigator for the late Dr. J. Allen Heineck of the Center for UFO Studies in Chicago.
-→ {"text": "我曾是已故 J·艾倫·海尼克博士的特別調查員，他在芝加哥的 UFO 研究中心工作。", "confidence": "high", "notes": ""}
+→ {"text": "我曾是已故的 J·艾倫·海尼克博士（Dr. J. Allen Hynek）的特別調查員，隸屬於芝加哥的 UFO 研究中心（Center for UFO Studies）。", "confidence": "high", "notes": "原文 Heineck 應為 Hynek（轉錄錯誤，已補錄 topics.json）"}
 
 68. I would become the center's director of special investigations for 10 years.
 → {"text": "我後來擔任該中心的特別調查主任長達 10 年。", "confidence": "high", "notes": ""}
@@ -211,7 +211,7 @@
 → {"text": "迄今為止，我們訪問了超過 600 位直接或間接涉及此事的證人，這讓我們有機會撰寫了四本關於羅斯威爾事件的暢銷書。", "confidence": "high", "notes": ""}
 
 71. The Roswell movie, which starred Kyle MacLachlan, Martin Sheen, Dwight Yoakam, was based on our first book, UFO Crash at Roswell.
-→ {"text": "由凱爾·麥克拉克蘭、馬丁·辛、德懷特·尤肯主演的羅斯威爾電影，就是根據我們的第一本書《羅斯威爾 UFO 墜毀事件》改編的。", "confidence": "high", "notes": ""}
+→ {"text": "由凱爾·麥克拉克倫（Kyle MacLachlan）、馬丁·辛（Martin Sheen）、德懷特·尤卡姆（Dwight Yoakam）主演的羅斯威爾電影，就是根據我們的第一本書《羅斯威爾 UFO 墜毀事件》（UFO Crash at Roswell）改編的。", "confidence": "high", "notes": "麥克拉克倫依 zh 維基流通譯名；Dwight Yoakam 網路流通譯名不一（約坎姆／尤卡姆），暫採尤卡姆"}
 
 72. It's been quite an adventure, but I need emphasize to the panel that I was a complete skeptic.
 → {"text": "這是一段相當精彩的歷程，但我必須向小組強調，我當初是個徹底的懷疑論者。", "confidence": "high", "notes": ""}

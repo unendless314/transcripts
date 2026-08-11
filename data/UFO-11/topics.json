@@ -37,6 +37,12 @@
           "error_text": "Cama Glocklin",
           "suggested_correction": "Kyle MacLachlan",
           "reasoning": "Kyle MacLachlan is the well-known actor who starred in the 1994 movie 'Roswell'. 'Cama Glocklin' is a clear mishearing of his name."
+        },
+        {
+          "segment_id": 67,
+          "error_text": "Dr. J. Allen Heineck",
+          "suggested_correction": "Dr. J. Allen Hynek",
+          "reasoning": "J. Allen Hynek was the astronomer and founder of the Center for UFO Studies; 'Heineck' is a mishearing of his name. Added during 2026-08-12 proofreading."
         }
       ]
     },
@@ -79,6 +85,18 @@
           "error_text": "Walter Holt, Hout",
           "suggested_correction": "Walter Haut",
           "reasoning": "Walter Haut was the Public Information Officer at Roswell Army Air Field. The speaker notes the name is spelled different ways, but 'Haut' is the correct spelling."
+        },
+        {
+          "segment_id": 90,
+          "error_text": "take wax at UFOs",
+          "suggested_correction": "take a whack at UFOs",
+          "reasoning": "'Take a whack at' means to criticize or attempt; 'wax' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 169,
+          "error_text": "General Roger Raimi",
+          "suggested_correction": "General Roger Ramey",
+          "reasoning": "Roger Ramey was the Eighth Air Force commander; 'Raimi' is a mishearing. Added during 2026-08-12 proofreading."
         }
       ]
     },
@@ -121,6 +139,36 @@
           "error_text": "aid to camp",
           "suggested_correction": "aide-de-camp",
           "reasoning": "'Aide-de-camp' is the correct military term for a personal assistant to a senior officer."
+        },
+        {
+          "segment_id": 261,
+          "error_text": "Hott said that",
+          "suggested_correction": "Haut said that",
+          "reasoning": "Refers to Walter Haut; 'Hott' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 262,
+          "error_text": "about Hott's statement",
+          "suggested_correction": "about Haut's statement",
+          "reasoning": "Refers to Walter Haut; 'Hott' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 275,
+          "error_text": "and Haught asked him",
+          "suggested_correction": "and Haut asked him",
+          "reasoning": "Refers to Walter Haut; 'Haught' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 279,
+          "error_text": "Walter Haught",
+          "suggested_correction": "Walter Haut",
+          "reasoning": "Refers to Walter Haut; appears twice in this segment. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 216,
+          "error_text": "in Carrizoza, New Mexico",
+          "suggested_correction": "in Carrizozo, New Mexico",
+          "reasoning": "Carrizozo is the correct town name. Added during 2026-08-12 proofreading."
         }
       ]
     },
@@ -173,6 +221,24 @@
           "error_text": "weather or a blue night",
           "suggested_correction": "weather or a Mogul balloon",
           "reasoning": "'A blue night' makes no sense. 'Mogul balloon' refers to the official explanation for the Roswell incident and fits the context of the sentence perfectly."
+        },
+        {
+          "segment_id": 413,
+          "error_text": "rousal as a new type of conversation",
+          "suggested_correction": "Roswell as a new type of conversation",
+          "reasoning": "'rousal' is a mishearing of 'Roswell'. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 447,
+          "error_text": "on the eye beam",
+          "suggested_correction": "on the I-beam",
+          "reasoning": "'eye beam' is a mishearing of 'I-beam', the girder-like debris described by the Marcel family. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 449,
+          "error_text": "grabbing the eye beam",
+          "suggested_correction": "grabbing the I-beam",
+          "reasoning": "'eye beam' is a mishearing of 'I-beam'. Added during 2026-08-12 proofreading."
         }
       ]
     },
@@ -238,6 +304,66 @@
           "error_text": "went to McNeil",
           "suggested_correction": "went to MacDill",
           "reasoning": "MacDill Air Force Base had an aerospace medical facility and is a more plausible destination for analysis than 'McNeil'."
+        },
+        {
+          "segment_id": 490,
+          "error_text": "W.W. Mack Brazzo, Bill Brazzo Jr.",
+          "suggested_correction": "W.W. Mack Brazel, Bill Brazel Jr.",
+          "reasoning": "Refers to rancher Mack Brazel and his son; 'Brazzo' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 492,
+          "error_text": "the Brazzo family",
+          "suggested_correction": "the Brazel family",
+          "reasoning": "Refers to the Brazel family; 'Brazzo' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 625,
+          "error_text": "the Kenneth Arnold signing",
+          "suggested_correction": "the Kenneth Arnold sighting",
+          "reasoning": "Refers to the June 24, 1947 Kenneth Arnold UFO sighting; 'signing' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 671,
+          "error_text": "around other store systems",
+          "suggested_correction": "around other solar systems",
+          "reasoning": "'store systems' is a mishearing of 'solar systems'. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 708,
+          "error_text": "Walter Haught",
+          "suggested_correction": "Walter Haut",
+          "reasoning": "Refers to Roswell PIO Walter Haut; 'Haught' is a mishearing. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 711,
+          "error_text": "working with Walter Haught",
+          "suggested_correction": "working with Walter Haut",
+          "reasoning": "Refers to Walter Haut. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 727,
+          "error_text": "eyewitness testimony right field in Dayton",
+          "suggested_correction": "eyewitness testimony Wright Field in Dayton",
+          "reasoning": "'right field' is a mishearing of 'Wright Field'. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 776,
+          "error_text": "first discovered the briefing",
+          "suggested_correction": "first discovered the debris",
+          "reasoning": "'briefing' is a mishearing of 'debris'. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 856,
+          "error_text": "send it to right field",
+          "suggested_correction": "send it to Wright Field",
+          "reasoning": "'right field' is a mishearing of 'Wright Field'. Added during 2026-08-12 proofreading."
+        },
+        {
+          "segment_id": 502,
+          "error_text": "get Project Blue Book out of A-Tech",
+          "suggested_correction": "get Project Blue Book out of ATIC",
+          "reasoning": "ATIC is the Air Technical Intelligence Center at Wright-Patterson, predecessor home of Project Blue Book. Confirmed by human audio review on 2026-08-12."
         }
       ]
     }

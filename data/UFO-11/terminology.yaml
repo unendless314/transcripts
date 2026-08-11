@@ -404,10 +404,10 @@ terms:
   - term: White Sands Missile Range
     senses:
       - id: white_sands_range
-        definition: 新墨西哥州白沙導彈靶場
-        preferred_translation: 白沙導彈靶場
+        definition: 新墨西哥州白沙飛彈靶場
+        preferred_translation: 白沙飛彈靶場
         segments: [102]
-        notes: 三位一體核試驗場所在地,戰後測試德國 V2 火箭的地點
+        notes: 三位一體核試驗場所在地,戰後測試德國 V2 火箭的地點；2026-08-12 校稿裁決導彈→飛彈（沿用 UFO-07～10 裁決，zh 維基 zh-tw 同採飛彈）
 
   - term: Witness
     senses:

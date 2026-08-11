@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 470. I just want to say that the Marcel family has a very close friend and his name is Richard O'Connor.
-→ {"text": "我只想說，馬塞爾家族有一位非常親密的朋友，他的名字是 Richard O'Connor。", "confidence": "high", "notes": ""}
+→ {"text": "我只想說，馬塞爾家族有一位非常親密的朋友，他的名字是理查·歐康納（Richard O'Connor）。", "confidence": "high", "notes": ""}
 
 471. I don't know if you've seen what he's put forward to support you.
 → {"text": "我不知道你們是否看過他為支持你們所提出的內容。", "confidence": "high", "notes": ""}
@@ -13,7 +13,7 @@
 → {"text": "我現在想轉向，為了委員們的緣故，我們有七分鐘時間可以深入探討這些證人的證詞。", "confidence": "high", "notes": ""}
 
 474. And I'll first turn to Merrill Cook to start the process.
-→ {"text": "我首先請 Merrill Cook 開始提問。", "confidence": "high", "notes": ""}
+→ {"text": "我首先請梅里爾·庫克（Merrill Cook）開始提問。", "confidence": "high", "notes": ""}
 
 475. Yes, that's right.
 → {"text": "是的，沒錯。", "confidence": "high", "notes": ""}
@@ -22,7 +22,7 @@
 → {"text": "謝謝主席。", "confidence": "high", "notes": ""}
 
 477. Donald Schmidt, I'd like to start with you.
-→ {"text": "Donald Schmidt，我想先從你開始。", "confidence": "high", "notes": ""}
+→ {"text": "唐納德·施密特，我想先從你開始。", "confidence": "high", "notes": "Donald 為 Don（唐）的全名形式"}
 
 478. You said that you went down to New Mexico with an idea of doing something in the fiction area.
 → {"text": "你說你前往新墨西哥州時，原本打算做一些小說創作方面的事情。", "confidence": "high", "notes": ""}
@@ -40,7 +40,7 @@
 → {"text": "但這改變了你的想法。", "confidence": "high", "notes": ""}
 
 483. That was Kevin Randall and myself, correct.
-→ {"text": "是的，那是 Kevin Randall 和我。", "confidence": "high", "notes": ""}
+→ {"text": "是的，那是凱文·蘭德爾和我。", "confidence": "high", "notes": ""}
 
 484. And what changed your mind is you said you met with first-hand witnesses.
 → {"text": "而改變你想法的是，你說你遇到了第一手證人。", "confidence": "high", "notes": ""}
@@ -61,7 +61,7 @@
 → {"text": "你能告訴我你遇到的那些第一手證人是誰嗎？", "confidence": "high", "notes": ""}
 
 490. Dr. Randall had mentioned specifically it was the son of W.W. Mack Brazzo, Bill Brazzo Jr., and we could also add his wife, Shirley, who were both first-hand witnesses to the material.
-→ {"text": "Randall 博士特別提到，是 W.W. 麥克·布拉澤爾的兒子比爾·布拉澤爾二世，我們還可以加上他的妻子 Shirley，他們都是親眼見過殘骸材料的第一手證人。", "confidence": "high", "notes": "Mack Brazel 翻譯為麥克·布拉澤爾，Bill Brazel Jr. 翻譯為比爾·布拉澤爾二世"}
+→ {"text": "蘭德爾博士特別提到，是 W·W·麥克·布拉澤爾的兒子小比爾·布拉澤爾，我們還可以加上他的妻子雪莉，他們都是親眼見過殘骸材料的第一手證人。", "confidence": "high", "notes": "原文 Brazzo 應為 Brazel（轉錄錯誤，已補錄 topics.json）；W.W. 為牧場主全名 William Ware Brazel 縮寫"}
 
 491. So you talked to them on that occasion.
 → {"text": "所以你在那個時候與他們交談過。", "confidence": "high", "notes": ""}
@@ -94,13 +94,13 @@
 → {"text": "我們還有很多證人在這裡真的很想有機會發言。", "confidence": "high", "notes": ""}
 
 501. Lieutenant Colonel Randall, you had talked about work you've done to show why Air Force Project Blue Book was, you used some rather negative language about it, and why it was just, a cover-up is what you said?
-→ {"text": "中校 Randall，你談到你所做的工作，展示空軍藍皮書計畫為何⋯⋯你用了一些相當負面的措辭來形容它，你說那只是一個真相掩蓋行動，對嗎？", "confidence": "high", "notes": ""}
+→ {"text": "蘭德爾中校，你談到你所做的工作，展示空軍藍皮書計畫為何⋯⋯你用了一些相當負面的措辭來形容它，你說那只是一個真相掩蓋行動，對嗎？", "confidence": "high", "notes": ""}
 
 502. What happened in, all during the 1960s, there is a series of letters you see in the Project Blue Book files where they're requesting to get Project Blue Book out of A-Tech into the Secretary of the Air Force's Office of Information to de-emphasize the importance of Project Blue Book.
-→ {"text": "在整個 1960 年代發生的事情是，在藍皮書計畫檔案中可以看到一系列信件，要求將藍皮書計畫從 A-Tech 轉移到空軍部長的資訊辦公室，以降低藍皮書計畫的重要性。", "confidence": "high", "notes": ""}
+→ {"text": "在整個 1960 年代發生的事情是，在藍皮書計畫檔案中可以看到一系列信件，要求將藍皮書計畫從空軍技術情報中心（ATIC）轉移到空軍部長的資訊辦公室，以降低藍皮書計畫的重要性。", "confidence": "high", "notes": "原文 A-Tech 應為 ATIC（人工聽音確認，已補錄 topics.json）"}
 
 503. Okay, now de-emphasizing the importance of Project Blue Book, that's not exactly the same thing, and that's, when I look at, I'm not trying to put any words in your mouth, but I've got to focus in on a question here, and that's when the University of Colorado was asked to help him make a decision about Project Blue Book, let's put it that way, and when the University of Colorado wrote a report, I think you're all correct in saying that what the report said wasn't exactly the way it was characterized even by the, certainly by the government, and even by, well, and by the media as well, but isn't it true that it didn't say anything about it all being nonsense, it just said we don't want to fund additional work on collection, collecting this data, that we are publishing to the world, I mean, there are 101 incidents published that we can read about from Project Blue Book,
-→ {"text": "好的，現在降低藍皮書計畫的重要性，這並不完全是同一件事，我看到的是，我不是要替你說話，但我必須聚焦在一個問題上，那就是當科羅拉多大學被要求協助他們對藍皮書計畫做出決定時，這麼說吧，當科羅拉多大學撰寫報告時，我認為你們所有人都正確地指出，報告所說的內容並不完全是政府甚至媒體所描述的那樣，但事實難道不是報告並沒有說這一切都是胡說八道，它只是說我們不想再資助收集這些數據的額外工作，我們向世界公布的這些數據，我的意思是，藍皮書計畫公布了 101 個我們可以閱讀的事件，", "confidence": "medium", "notes": "這是一個很長的複雜句子，包含多個子句"}
+→ {"text": "好的，現在降低藍皮書計畫的重要性，這並不完全是同一件事，我看到的是，我不是要替你說話，但我必須聚焦在一個問題上，那就是當科羅拉多大學被要求協助他們對藍皮書計畫做出決定時，這麼說吧，當科羅拉多大學撰寫報告時，我認為你們所有人都正確地指出，報告所說的內容並不完全是政府甚至媒體所描述的那樣，但事實難道不是報告並沒有說這一切都是胡說八道，它只是說我們不想再資助收集這些數據的額外工作，我們向世界公布的這些數據，我的意思是，藍皮書計畫公布了 101 個我們可以閱讀的事件，", "confidence": "medium", "notes": "原文為超長口語句（未收尾，接續 seg 504），保留結構"}
 
 504. am I correct?
 → {"text": "我說得對嗎？", "confidence": "high", "notes": ""}
@@ -112,7 +112,7 @@
 → {"text": "我要說的是，這項科學調查的結果是預先確定的。", "confidence": "high", "notes": ""}
 
 507. There's a letter from Lieutenant Colonel Quintanilla to committee members at the Condon Committee at the University of Colorado saying, this is what we want you to find.
-→ {"text": "有一封中校 Quintanilla 寫給科羅拉多大學康登委員會委員的信，上面說，這就是我們希望你們發現的結論。", "confidence": "high", "notes": "Quintanilla 是藍皮書計畫最後一任負責人"}
+→ {"text": "有一封金塔尼拉中校（Lieutenant Colonel Quintanilla）寫給科羅拉多大學康登委員會委員的信，上面說，這就是我們希望你們發現的結論。", "confidence": "high", "notes": "金塔尼拉為藍皮書計畫最後一任負責人；topics.json 原紀錄（Hippler→Quintanilla）失效，main.yaml 原文早已正確"}
 
 508. They haven't investigated a case, they haven't looked at anything, but here's what we want you to find.
 → {"text": "他們還沒有調查任何案件，他們什麼都沒看，但這就是我們希望你們發現的。", "confidence": "high", "notes": ""}
@@ -121,7 +121,7 @@
 → {"text": "你們必須對空軍調查說些好話，你們必須說它不影響國家安全，讓我們可以關閉它，因為如果你們不這樣做，我們就會被這件事纏住另外 20 年。", "confidence": "high", "notes": ""}
 
 510. So the University of Colorado pulled the wool over the National Science Foundation, folks, is that what you're telling us?
-→ {"text": "所以科羅拉多大學欺騙了國家科學基金會，各位，你是這麼告訴我們的嗎？", "confidence": "high", "notes": "pull the wool over 意思是欺騙、蒙蔽"}
+→ {"text": "所以科羅拉多大學欺騙了國家科學基金會，各位，你是這麼告訴我們的嗎？", "confidence": "high", "notes": ""}
 
 511. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -151,16 +151,16 @@
 → {"text": "康登委員會的調查就是打個電話到加拿大，然後說，哦，只是幾個青少年看到了奇怪的東西，我們不會為此費心。", "confidence": "high", "notes": ""}
 
 520. And I appreciate your answer, I'm going to move on, not because I don't want you to have more opportunity, but I'm so particularly interested in what Colonel Marcel, Dr. Colonel, and boy, you should be proud of these children and grandchildren of Jenny, Jesse Senior.
-→ {"text": "我感謝你的回答，我要繼續下去了，不是因為我不想給你更多機會，而是因為我特別感興趣的是 Marcel 上校，博士上校，天啊，你應該為 Jesse 老先生的這些子孫感到驕傲。", "confidence": "medium", "notes": "Jenny 可能是 Jesse 的筆誤或口誤"}
+→ {"text": "我感謝你的回答，我要繼續下去了，不是因為我不想給你更多機會，而是因為我特別感興趣的是馬塞爾上校——博士上校——天啊，你應該為傑西老先生的這些子孫感到驕傲。", "confidence": "medium", "notes": "原文 Jenny 應為 Jesse 之口誤；整句句構破碎，依語境補譯"}
 
 521. You have done a wonderful job in establishing, you know, just that story about the fishing pole.
 → {"text": "你們做得非常好，你知道，就那個釣魚竿的故事。", "confidence": "high", "notes": ""}
 
 522. And you're talking about an honest grandfather, I mean, you didn't have to even use that word, the way you described that, and to you too, Denise.
-→ {"text": "你描述的是一位誠實的祖父，我的意思是，你甚至不需要用那個詞，從你描述的方式就能看出來，還有你，Denise。", "confidence": "high", "notes": ""}
+→ {"text": "你描述的是一位誠實的祖父，我的意思是，你甚至不需要用那個詞，從你描述的方式就能看出來，還有你，丹妮絲。", "confidence": "high", "notes": ""}
 
 523. And I'm very impressed with you, Jesse Marcel Jr., I mean, you're one of the very few witnesses that have actually held or seen or accompanied your father with something in your hand that came from this incident or an incident that, let me put it this way, somebody that's a friend of mine, somebody that I've listened to, somebody I already said I had respect for, a different party, but former Governor Bill Richardson has said to me and others with us in a discussion we had with him that everything you have said is honest.
-→ {"text": "我對你印象非常深刻，Jesse Marcel Jr.，我的意思是，你是極少數實際拿過或見過或陪同你父親，手中握著來自這起事件的東西的證人之一，讓我這麼說吧，我的一位朋友，一個我聽過發言的人，一個我已經說過我尊重的人，雖然立場不同，但前州長比爾·理查森曾在我們與他的討論中對我和其他人說，你所說的一切都是誠實的。", "confidence": "high", "notes": ""}
+→ {"text": "我對你印象非常深刻，傑西·馬塞爾二世（Jesse Marcel Jr.），我的意思是，你是極少數實際拿過或見過或陪同你父親，手中握著來自這起事件的東西的證人之一，讓我這麼說吧，我的一位朋友，一個我聽過發言的人，一個我已經說過我尊重的人，雖然立場不同，但前州長比爾·理查森曾在我們與他的討論中對我和其他人說，你所說的一切都是誠實的。", "confidence": "high", "notes": ""}
 
 524. There's no question in his mind that that debris is there, it happened, and what you've said about your father and doing all that is absolutely true.
 → {"text": "在他心中毫無疑問，那些殘骸確實存在，事情確實發生了，你所說的關於你父親和所做的一切都是絕對真實的。", "confidence": "high", "notes": ""}
@@ -184,7 +184,7 @@
 → {"text": "但我只想聽到你對我提出的問題的回答。", "confidence": "high", "notes": ""}
 
 531. Years ago I was called to Washington, I was going to a meeting, and there was a gentleman by the name of Dick D'Amato who wanted to interview me when I got to Washington.
-→ {"text": "幾年前我被召喚到華盛頓，我要去參加一個會議，有一位名叫 Dick D'Amato 的先生想在我到達華盛頓時採訪我。", "confidence": "high", "notes": ""}
+→ {"text": "幾年前我被召喚到華盛頓，我要去參加一個會議，有一位名叫迪克·達馬托（Dick D'Amato）的先生想在我到達華盛頓時採訪我。", "confidence": "high", "notes": "topics.json 原紀錄（DiMatto→D'Amato）失效，main.yaml 原文早已正確"}
 
 532. And he was in the Capitol building, Senate room 228 I believe if I remember right.
 → {"text": "他在國會大廈，如果我沒記錯的話，是參議院 228 室。", "confidence": "high", "notes": ""}
@@ -220,10 +220,10 @@
 → {"text": "他有一本法律用筆記本來做記錄。", "confidence": "high", "notes": ""}
 
 543. And there was a book on the table too, it was called Majestic.
-→ {"text": "桌上還有一本書，叫做《絕密計畫》。", "confidence": "high", "notes": ""}
+→ {"text": "桌上還有一本書，叫做《絕密計畫》（Majestic）。", "confidence": "high", "notes": ""}
 
 544. It was a book by Whitley Strieber, which actually is a fictional account of an established fact there.
-→ {"text": "那是 Whitley Strieber 寫的一本書，實際上是對一個既定事實的虛構敘述。", "confidence": "high", "notes": ""}
+→ {"text": "那是惠特利·史崔伯（Whitley Strieber）寫的一本書，實際上是對一個既定事實的虛構敘述。", "confidence": "high", "notes": ""}
 
 545. And he said, this is not fiction.
 → {"text": "他說，這不是虛構的。", "confidence": "high", "notes": ""}
@@ -304,19 +304,19 @@
 → {"text": "我的意思是，我只是試著回想幾年前，因為最近報紙上沒有報導，你知道，但那是我對那起事件的回憶，有足夠的證據讓我們知道那是來自美國以外的東西。", "confidence": "high", "notes": ""}
 
 571. Yeah, Donald?
-→ {"text": "是的，Donald？", "confidence": "high", "notes": ""}
+→ {"text": "好的，唐納德？", "confidence": "high", "notes": ""}
 
 572. As I'd mentioned in my opening statement, I'd like to emphasize that we had the good fortune of working with and having enlisted the late Congressman Steven Schiff of New Mexico who pushed for congressional hearings on this very matter through the early 90s.
 → {"text": "正如我在開場陳述中提到的，我想強調我們有幸與已故的新墨西哥州眾議員史蒂芬·希夫合作，並得到他的支持，他在 90 年代初期就這個問題推動國會聽證會。", "confidence": "high", "notes": ""}
 
 573. And so much so that he had sent three separate letters to then Secretary of Defense Les Aspin, which all went unanswered, which only intrigued him and raised his curiosity all the more as far as, well, what are they hiding?
-→ {"text": "他甚至向當時的國防部長 Les Aspin 發送了三封單獨的信件，全都沒有得到回應，這只是更加激起了他的興趣，更加提高了他的好奇心，嗯，他們到底在隱瞞什麼？", "confidence": "high", "notes": ""}
+→ {"text": "他甚至向當時的國防部長萊斯·阿斯平（Les Aspin）發送了三封單獨的信件，全都沒有得到回應，這只是更加激起了他的興趣，更加提高了他的好奇心，嗯，他們到底在隱瞞什麼？", "confidence": "high", "notes": ""}
 
 574. I'm just asking, as the late Senator Barry Goldwater and even his request to General Curtis LeMay, can I at least see the file to which LeMay said, "Hell, no, and don't ever ask me again."
-→ {"text": "我只是問，就像已故參議員 Barry Goldwater 甚至向柯蒂斯·李梅將軍提出請求，我至少可以看看檔案嗎？李梅說：「絕對不行，以後也別再問我。」", "confidence": "high", "notes": ""}
+→ {"text": "我只是問，就像已故的巴里·戈德華特參議員（Barry Goldwater）甚至向柯蒂斯·李梅將軍提出請求，我至少可以看看檔案嗎？李梅說：「絕對不行，以後也別再問我。」", "confidence": "high", "notes": ""}
 
 575. So we're in good company, whether we're talking about Goldwater or Schiff or even former Presidents Bill Clinton or Carter, who also would lament the fact that they could not get the truth about Roswell.
-→ {"text": "所以我們有很好的同伴，無論我們談論的是 Goldwater 還是 Schiff，甚至前總統比爾·克林頓或卡特，他們也都感嘆無法得到羅斯威爾的真相。", "confidence": "high", "notes": ""}
+→ {"text": "所以我們有很好的同伴，無論我們談論的是戈德華特還是希夫，甚至前總統比爾·柯林頓或卡特，他們也都感嘆無法得到羅斯威爾的真相。", "confidence": "high", "notes": "柯林頓：UFO-10 已用此譯（柯林頓總統圖書館）"}
 
 576. But getting back to Congressman Schiff, in his failed efforts, as the press itself became more interested as to who would win this tug of war, because he was being stonewalled not only by the Secretary of Defense, but also the White House, and then the branches of the military.
 → {"text": "但回到希夫眾議員，在他失敗的努力中，隨著媒體本身對誰會贏得這場拉鋸戰更感興趣，因為他不僅被國防部長阻撓，還被白宮以及軍方各部門阻撓。", "confidence": "high", "notes": ""}
@@ -325,13 +325,13 @@
 → {"text": "他得到了保證，特別是來自空軍的保證，如果他們在檔案中發現任何東西，他會是第一個知道的人。", "confidence": "high", "notes": ""}
 
 578. Well, as Newsweek magazine very aptly put it, as though a preemptive strike, they called a press conference here at the Pentagon, and Colonel Richard Weaver, as Colonel Randall mentioned, in putting out the Project Mogul theory, same balloon, it was just a redesign of the same balloon explanation.
-→ {"text": "嗯，正如《新聞週刊》雜誌非常恰當地表達的，就像先發制人的打擊，他們在五角大廈召開了新聞發布會，Richard Weaver 上校，正如 Randall 上校提到的，提出了莫古爾計畫理論，同樣的氣球，只是重新設計了同樣的氣球解釋。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，正如《新聞週刊》雜誌非常恰當地表達的，就像先發制人的打擊，他們在五角大廈召開了新聞發布會，理查·韋弗上校（Colonel Richard Weaver），正如蘭德爾中校提到的，提出了莫古爾計畫理論，同樣的氣球，只是重新設計了同樣的氣球解釋。", "confidence": "high", "notes": ""}
 
 579. Now I'll never forget how I called up Congressman Schiff here in his office in Washington, thinking that, well, that would end that relationship, because he would have to accept that new explanation, that new solution to the Roswell mystery.
 → {"text": "現在我永遠不會忘記我如何在華盛頓他的辦公室打電話給希夫眾議員，心想，嗯，那會結束那種關係，因為他必須接受那個新解釋，羅斯威爾之謎的新解決方案。", "confidence": "high", "notes": ""}
 
 580. And his immediate words, immediate response to me was, "Don, they're a bunch of damn liars."
-→ {"text": "他的即時反應，對我的即時回應是：「Don，他們是一群該死的騙子。」", "confidence": "high", "notes": ""}
+→ {"text": "他的即時反應，對我的即時回應是：「唐，他們是一群該死的騙子。」", "confidence": "high", "notes": ""}
 
 581. And he had assured us, and you know the history, he assured us that with his re-election coming up, that we would then resume the effort.
 → {"text": "他向我們保證，你知道歷史，他向我們保證，隨著他即將連任，我們將恢復這項努力。", "confidence": "high", "notes": ""}
@@ -373,7 +373,7 @@
 → {"text": "從那裡去了哪裡，是否去了 51 區，或者誰知道什麼，我們不知道。", "confidence": "high", "notes": ""}
 
 594. The security curtain slammed down very quickly.
-→ {"text": "安全幕幕很快就拉下了。", "confidence": "high", "notes": ""}
+→ {"text": "安全帷幕很快就拉下了。", "confidence": "high", "notes": ""}
 
 595. How quickly afterwards?
 → {"text": "之後多快？", "confidence": "high", "notes": ""}
@@ -391,7 +391,7 @@
 → {"text": "從實際宣布回收飛碟開始，正如我提到的，在五個小時內演變成氣象氣球。", "confidence": "high", "notes": ""}
 
 600. In fact, as Stanton mentioned, and we have Brigadier General Thomas DeBose, who is even in two of the pictures with the substituted weather balloon.
-→ {"text": "事實上，正如 Stanton 提到的，我們有准將 Thomas DeBose，他甚至出現在兩張與替換氣象氣球的照片中。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，正如史丹頓提到的，我們有托馬斯·杜博斯准將（Brigadier General Thomas DuBose），他甚至出現在兩張與替換氣象氣球的照片中。", "confidence": "high", "notes": "原文 DeBose 為 DuBose 之異拼"}
 
 601. He stated that the balloon was a hoax, that part of it.
 → {"text": "他聲明氣球是一個騙局，那部分是騙局。", "confidence": "high", "notes": ""}
@@ -409,7 +409,7 @@
 → {"text": "這也是我們在羅斯威爾事件調查的最初構想中遇到的困境，事實是，嗯，為什麼證人不挺身而出？", "confidence": "high", "notes": ""}
 
 606. Because just as Jesse's father, just imagine, at that time, he was a lieutenant colonel.
-→ {"text": "因為就像 Jesse 的父親，想像一下，那時他是一位中校。", "confidence": "high", "notes": ""}
+→ {"text": "因為就像傑西的父親，想像一下，那時他是一位中校。", "confidence": "high", "notes": ""}
 
 607. He was the head of intelligence of the 509th Bomb Group.
 → {"text": "他是 509 轟炸大隊的情報主管。", "confidence": "high", "notes": ""}
@@ -445,7 +445,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 618. I'm going to ask Colonel Randall.
-→ {"text": "我要問蘭德爾上校。", "confidence": "high", "notes": ""}
+→ {"text": "我要問蘭德爾中校。", "confidence": "high", "notes": ""}
 
 619. What is the significance of the July 1947 Roswell incident in that we also had a significant one in July of 1945?
 → {"text": "1947 年 7 月的羅斯威爾事件有什麼重要意義，因為我們在 1945 年 7 月也有一個重大事件？", "confidence": "high", "notes": ""}
@@ -466,7 +466,7 @@
 → {"text": "掩蓋外星人來訪。", "confidence": "high", "notes": ""}
 
 625. What we look at is, after the Kenneth Arnold signing on June 24, 1947, there was an awful lot of stories in the newspapers about flying saucers.
-→ {"text": "我們看到的是，在 1947 年 6 月 24 日 Kenneth Arnold 目擊事件之後，報紙上出現了大量關於飛碟的報導。", "confidence": "high", "notes": ""}
+→ {"text": "我們看到的是，在 1947 年 6 月 24 日肯尼斯·阿諾德（Kenneth Arnold）目擊事件之後，報紙上出現了大量關於飛碟的報導。", "confidence": "high", "notes": "原文 signing 應為 sighting（轉錄錯誤，已補錄 topics.json）"}
 
 626. There was all kinds of discussion about what they were.
 → {"text": "關於它們是什麼有各種各樣的討論。", "confidence": "high", "notes": ""}
@@ -553,7 +553,7 @@
 → {"text": "說得很好。", "confidence": "high", "notes": ""}
 
 654. Now you guys who know these people, you don't get to be a major in any of our militaries unless you're a well-respected, highly decorated individual about our nation, our family, and who we are, and that with your father, sir.
-→ {"text": "現在你們這些認識這些人的人，在我們的任何軍隊中，除非你是一個備受尊敬、高度獲獎的個人，對我們的國家、我們的家庭和我們是誰有深刻認識，否則你不會成為少校，而這正是您父親的情況，先生。", "confidence": "medium", "notes": "句子結構較複雜，可能需要審校"}
+→ {"text": "現在你們這些認識這些人的人，在我們的任何軍隊中，除非你是一個備受尊敬、高度獲獎的個人，對我們的國家、我們的家庭和我們是誰有深刻認識，否則你不會成為少校，而這正是您父親的情況，先生。", "confidence": "medium", "notes": "原文句構破碎（口語），依語境補譯"}
 
 655. Congratulations on that.
 → {"text": "為此恭喜您。", "confidence": "high", "notes": ""}
@@ -583,7 +583,7 @@
 → {"text": "您有一位功勳卓著的父親，您現在是一位上校、一位醫生，而羅斯威爾事件對某些人來說仍然是個謎，對許多人來說則是事實。", "confidence": "high", "notes": ""}
 
 664. You had firsthand information and now your children who have lived with a grandfather and a father they've respected of high decorated ability and consequence and served in our military.
-→ {"text": "您擁有第一手資訊，而現在您的孩子們，他們與一位祖父和一位父親一起生活，他們尊敬這位具有高度功勳、影響力和曾在我們軍隊服役的人。", "confidence": "medium", "notes": "句子結構較複雜"}
+→ {"text": "您擁有第一手資訊，而現在您的孩子們，他們與一位祖父和一位父親一起生活，他們尊敬這位具有高度功勳、影響力和曾在我們軍隊服役的人。", "confidence": "medium", "notes": "原文句構破碎（口語），依語境補譯"}
 
 665. Military has a special emphasis in most countries and certainly in ours.
 → {"text": "軍隊在大多數國家都有特殊的重要性，在我們國家當然也是如此。", "confidence": "high", "notes": ""}
@@ -604,7 +604,7 @@
 → {"text": "嗯，我認為它告訴我們的是，我們在宇宙中並不孤單。", "confidence": "high", "notes": ""}
 
 671. As a matter of fact, there's other civilizations out there and they're finding Earth-like planets around other store systems every day.
-→ {"text": "事實上，宇宙中還有其他文明，而且他們每天都在其他恆星系統周圍發現類地行星。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，宇宙中還有其他文明，而且他們每天都在其他恆星系統周圍發現類地行星。", "confidence": "high", "notes": "原文 store systems 應為 solar systems（轉錄錯誤，已補錄 topics.json）"}
 
 672. That means that we are probably just beginners, new kids on the block, so to speak.
 → {"text": "這意味著我們可能只是初學者，可以說是新來的菜鳥。", "confidence": "high", "notes": ""}
@@ -715,7 +715,7 @@
 → {"text": "難道沒有一個實際的人——不是人——生命體，某種活著的東西，作為那次墜毀的一部分，在你們說有人被允許進去看，你知道的，某種遺體之前？", "confidence": "medium", "notes": ""}
 
 708. The story was, Walter Haught, as the public information officer, had issued the press release saying that he had retrieved a crash-flying saucer.
-→ {"text": "故事是這樣的，Walter Haught 作為公共資訊官，發布了新聞稿，說他已經取得了一個墜毀的飛碟。", "confidence": "high", "notes": ""}
+→ {"text": "故事是這樣的，華特·豪特作為公共資訊官，發布了新聞稿，說他已經取得了一個墜毀的飛碟。", "confidence": "high", "notes": "原文 Haught 應為 Haut（轉錄錯誤，已補錄 topics.json）"}
 
 709. In the years that followed, he just said, "All I did was write the press release."
 → {"text": "在隨後的幾年裡，他只是說：「我所做的只是寫新聞稿。」", "confidence": "high", "notes": ""}
@@ -724,10 +724,10 @@
 → {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 711. Upon his, Don Schmidt and Tom Carey put together, working with Walter Haught and his family, put together an affidavit to be released after he passed away, giving much more information, and he talked about having actually seen the bodies of the aliens and more about that.
-→ {"text": "在他過世後，Don Schmidt 和 Tom Carey 與 Walter Haught 及其家人合作，整理了一份宣誓書，提供了更多資訊，他談到實際上見過外星人的遺體以及更多相關細節。", "confidence": "high", "notes": ""}
+→ {"text": "在他過世後，唐·施密特和湯姆·凱里（Tom Carey）與華特·豪特及其家人合作，整理了一份宣誓書，提供了更多資訊，他談到實際上見過外星人的遺體以及更多相關細節。", "confidence": "high", "notes": "原文 Walter Haught 應為 Walter Haut（轉錄錯誤，已補錄 topics.json）"}
 
 712. The important thing was this Richard Harris, who was a financial officer at Roswell in 1947, told me long before Walter admitted to that, that Walter had taken—or seen him in a hangar and said, "If you want to see something really incredible, it's beyond that door," and Harris didn't want to go in there and see the bodies, but it was the body of the alien craft.
-→ {"text": "重要的是，Richard Harris 在 1947 年是羅斯威爾的財務官，早在 Walter 承認之前就告訴我，Walter 曾帶他——或者在機庫裡見到他，說：「如果你想看到真正令人難以置信的東西，就在那扇門後面。」Harris 不想進去看遺體，但那是外星飛行器的主體。", "confidence": "medium", "notes": ""}
+→ {"text": "重要的是，理查·哈里斯在 1947 年是羅斯威爾的財務官，早在豪特承認之前就告訴我，豪特曾帶他——或者在機庫裡見到他，說：「如果你想看到真正令人難以置信的東西，就在那扇門後面。」哈里斯不想進去看遺體，但那是外星飛行器的主體。", "confidence": "medium", "notes": "原文句構破碎（口語），依語境補譯"}
 
 713. The other part of the question is, did one survive the crash?
 → {"text": "問題的另一部分是，有一個生還墜毀嗎？", "confidence": "high", "notes": ""}
@@ -772,10 +772,10 @@
 → {"text": "運到哪裡？", "confidence": "high", "notes": ""}
 
 727. Well, we have the documentation, again, and we have the eyewitness testimony right field in Dayton, Ohio.
-→ {"text": "嗯，我們再次擁有文件記錄，以及俄亥俄州代頓萊特機場的目擊證詞。", "confidence": "medium", "notes": ""}
+→ {"text": "嗯，我們再次擁有文件記錄，以及俄亥俄州代頓萊特機場的目擊證詞。", "confidence": "medium", "notes": "原文 right field 應為 Wright Field（轉錄錯誤，已補錄 topics.json）"}
 
 728. We have the late Brigadier General Arthur Exon, who was with Foreign Technology Division, which did the testing, the reverse engineering of captured weaponry and armory from World War II.
-→ {"text": "我們有已故的准將 Arthur Exon，他曾在外國技術部門工作，該部門負責測試、逆向工程二戰中繳獲的武器和軍械。", "confidence": "high", "notes": ""}
+→ {"text": "我們有已故的亞瑟·艾克森准將（Brigadier General Arthur Exon），他曾在外國技術部門（Foreign Technology Division）工作，該部門負責測試、逆向工程二戰中繳獲的武器和軍械。", "confidence": "high", "notes": ""}
 
 729. So it made perfect sense that you had something crash of either foreign or something beyond that design.
 → {"text": "所以很合理的是，如果有什麼東西墜毀，無論是外國的還是超越那種設計的東西。", "confidence": "high", "notes": ""}
@@ -784,7 +784,7 @@
 → {"text": "它會被送到外國技術部門。", "confidence": "high", "notes": ""}
 
 731. And Exon described, not firsthand, but that he was aware of the fact that when the materials from Roswell arrived, when they came in, it was the first impression, because no one was able to recognize this wreckage, that it most likely was Soviet.
-→ {"text": "Exon 描述說，雖然不是第一手資料，但他知道當羅斯威爾的材料抵達時，第一印象是，因為沒有人能辨認出這個殘骸，最有可能是蘇聯的。", "confidence": "high", "notes": ""}
+→ {"text": "艾克森描述說，雖然不是第一手資料，但他知道當羅斯威爾的材料抵達時，第一印象是，因為沒有人能辨認出這個殘骸，最有可能是蘇聯的。", "confidence": "high", "notes": ""}
 
 732. But after it was tested, he described that there was a unanimous consensus that the materials had to be from space.
 → {"text": "但在測試後，他描述說達成了一致共識，認為這些材料必定來自太空。", "confidence": "high", "notes": ""}
@@ -808,7 +808,7 @@
 → {"text": "距離羅斯威爾西北方約 65 英里。", "confidence": "high", "notes": ""}
 
 739. This is where the rancher first reported the find and then led the two intelligence officers, Major Marcel and the head of counterintelligence, Captain Sheridan Cavitt.
-→ {"text": "這就是牧場主人首次報告發現的地方，然後帶領兩位情報官——Marcel 少校和反情報部隊負責人 Sheridan Cavitt 上尉前往。", "confidence": "high", "notes": ""}
+→ {"text": "這就是牧場主人首次報告發現的地方，然後帶領兩位情報官——馬塞爾少校和反情報部隊負責人薛瑞登·卡維特（Sheridan Cavitt）上尉前往。", "confidence": "high", "notes": "topics.json 原紀錄（Cavett→Cavitt）失效，main.yaml 原文早已正確"}
 
 740. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -865,7 +865,7 @@
 → {"text": "我試圖理解事件的順序，這裡發生了什麼。", "confidence": "high", "notes": ""}
 
 758. You mentioned, Mr. Smith, that they sent two officers there when ordinarily they would have sent some lower level people to investigate.
-→ {"text": "Schmidt 先生，您提到他們派了兩名軍官到那裡，而通常他們會派一些低階人員去調查。", "confidence": "high", "notes": ""}
+→ {"text": "施密特先生，您提到他們派了兩名軍官到那裡，而通常他們會派一些低階人員去調查。", "confidence": "high", "notes": "原文 Smith 應為 Schmidt（主席口誤）"}
 
 759. What was unusual, when they simply got the word from the rancher that something had crashed, why would they think that was unusual enough to send officers?
 → {"text": "有什麼不尋常的地方，當他們只是從牧場主人那裡得知有東西墜毀時，為什麼他們會認為這不尋常到需要派遣軍官？", "confidence": "high", "notes": ""}
@@ -886,31 +886,31 @@
 → {"text": "現在請記住，牧場主人沒有去找軍方。", "confidence": "high", "notes": ""}
 
 765. He reported this to the sheriff, Sheriff George Wilcox of Chavez County, headquartered in Roswell.
-→ {"text": "他向警長報告了這件事，即 Chavez 郡警長喬治·威爾考克斯，總部設在羅斯威爾。", "confidence": "high", "notes": ""}
+→ {"text": "他向警長報告了這件事，即查維斯郡警長喬治·威爾考克斯，總部設在羅斯威爾。", "confidence": "high", "notes": ""}
 
 766. And it was only due to the fact that it was a reporter by the name of Frank Joyce from radio station KGFL, who suggested, "This sounds like a military matter.
-→ {"text": "而且只是因為電台 KGFL 的一位名叫 Frank Joyce 的記者建議說：「這聽起來像軍事事件。", "confidence": "high", "notes": ""}
+→ {"text": "而且只是因為電台 KGFL 的一位名叫法蘭克·喬伊斯的記者建議說：「這聽起來像軍事事件。", "confidence": "high", "notes": ""}
 
 767. You should report this to the 509th."
 → {"text": "你應該向 509 轟炸大隊報告這件事。」", "confidence": "high", "notes": ""}
 
 768. And they, in turn, the sheriff contacts the base, personally speaks to Major Marcel, who was at the PX having a sandwich.
-→ {"text": "然後，警長聯繫了基地，親自與 Marcel 少校通話，他當時正在軍中福利社吃三明治。", "confidence": "high", "notes": ""}
+→ {"text": "然後，警長聯繫了基地，親自與馬塞爾少校通話，他當時正在軍中福利社吃三明治。", "confidence": "high", "notes": ""}
 
 769. And it's important enough, again, Fourth of July weekend, that he alerts the very base commander, Colonel William Blanchard.
-→ {"text": "這件事足夠重要，再次強調，是在 7 月 4 日週末，以至於他通知了基地指揮官 William Blanchard 上校本人。", "confidence": "high", "notes": ""}
+→ {"text": "這件事足夠重要，再次強調，是在 7 月 4 日週末，以至於他通知了基地指揮官威廉·布蘭查德（William Blanchard）上校本人。", "confidence": "high", "notes": ""}
 
 770. And after examining the material, if it was nothing more mundane than a weather balloon, or even an aircraft, a rocket, an errant rocket.
 → {"text": "在檢查材料後，如果它只不過是氣象氣球，甚至是飛機、火箭、失控的火箭。", "confidence": "high", "notes": ""}
 
 771. We were testing German V-2 rockets over at White Sands at that time.
-→ {"text": "我們當時正在白沙導彈靶場測試德國 V-2 火箭。", "confidence": "high", "notes": ""}
+→ {"text": "我們當時正在白沙飛彈靶場測試德國 V-2 火箭。", "confidence": "high", "notes": ""}
 
 772. It was still unusual enough that he would dispatch the two head of intelligence.
 → {"text": "但它仍然足夠不尋常，以至於他會派遣兩位情報部門負責人。", "confidence": "high", "notes": ""}
 
 773. And we believe the reason he also sent the head of counterintelligence, Plainclothes, Captain Sheridan Cavitt, was in the event it was something foreign, that he would be the most capable of identifying it if it was something foreign.
-→ {"text": "我們相信他還派遣了反情報部隊負責人、便衣 Sheridan Cavitt 上尉的原因是，萬一它是外國的東西，他將是最有能力辨認的人，如果它確實是外國的。", "confidence": "high", "notes": ""}
+→ {"text": "我們相信他還派遣了反情報部隊負責人、便衣薛瑞登·卡維特上尉的原因是，萬一它是外國的東西，他將是最有能力辨認的人，如果它確實是外國的。", "confidence": "high", "notes": "topics.json 原紀錄（Plane Close/Cabot→Plainclothes/Cavitt）失效，main.yaml 原文早已正確"}
 
 774. Did the rancher go to the site before the military?
 → {"text": "牧場主人在軍方之前去過現場嗎？", "confidence": "high", "notes": ""}
@@ -919,7 +919,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 776. He was the one who first discovered the briefing.
-→ {"text": "他是第一個發現殘骸的人。", "confidence": "medium", "notes": ""}
+→ {"text": "他是第一個發現殘骸的人。", "confidence": "medium", "notes": "原文 briefing 應為 debris（轉錄錯誤，已補錄 topics.json）"}
 
 777. But we don't know specifically what the rancher reported.
 → {"text": "但我們不確切知道牧場主人報告了什麼。", "confidence": "high", "notes": ""}
@@ -937,7 +937,7 @@
 → {"text": "好的，好的。", "confidence": "high", "notes": ""}
 
 782. He drove into the sheriff's office, the sheriff calls the base, Major Marcel goes and checks it out, and as he told me, there wasn't anything conventional there.
-→ {"text": "他開車到警長辦公室，警長打電話給基地，Marcel 少校前去查看，正如他告訴我的，那裡沒有任何常規的東西。", "confidence": "high", "notes": ""}
+→ {"text": "他開車到警長辦公室，警長打電話給基地，馬塞爾少校前去查看，正如他告訴我的，那裡沒有任何常規的東西。", "confidence": "high", "notes": ""}
 
 783. But the rancher also stressed that there's a huge amount of this stuff out at the ranch.
 → {"text": "但牧場主人也強調，牧場那裡有大量這種東西。", "confidence": "high", "notes": ""}
@@ -985,7 +985,7 @@
 → {"text": "我們知道嗎，牧場主人？", "confidence": "high", "notes": ""}
 
 798. Two years later when his son, Bill Jr., had recovered enough pieces to fill up a cigar box, and his wife Shirley even described how he'd come home for dinner after working the ranch and he kept this one piece in his leather chaps, and she would describe how he would take this piece out, and she'd watch as he'd try to whittle on it and poke through it, and then he would crumble it up, crease it, fold it, and every time you'd lay it down it would just smooth right out.
-→ {"text": "兩年後，當他的兒子小比爾收集了足夠的碎片裝滿一個雪茄盒時，他的妻子 Shirley 甚至描述了他如何在牧場工作後回家吃晚飯，他把其中一塊放在皮製護腿褲裡，她會描述他如何拿出這塊東西，她看著他試圖削它、戳穿它，然後他會把它揉皺、壓折、摺疊，但每次你放下它，它就會自動恢復平整。", "confidence": "high", "notes": ""}
+→ {"text": "兩年後，當他的兒子小比爾收集了足夠的碎片裝滿一個雪茄盒時，他的妻子雪莉甚至描述了他如何在牧場工作後回家吃晚飯，他把其中一塊放在皮製護腿褲裡，她會描述他如何拿出這塊東西，她看著他試圖削它、戳穿它，然後他會把它揉皺、壓折、摺疊，但每次你放下它，它就會自動恢復平整。", "confidence": "high", "notes": ""}
 
 799. Two years later, there's a knock on his door, and there was a military captain and three non-commissioned officers.
 → {"text": "兩年後，有人敲他的門，是一名軍官上尉和三名士官。", "confidence": "high", "notes": ""}
@@ -1024,7 +1024,7 @@
 → {"text": "孫女是一名教師，他們，我該怎麼說呢，是在威脅。", "confidence": "high", "notes": ""}
 
 811. Could the gentleman from Maryland yield just 30 seconds to clear up one question that's, and anybody that can answer this, can anybody here give us the name of any person that would have been at least the age of 18 or older in 1947 who at the time, in a similar way to how Jesse Marcel Sr. said he had received these kinds of materials and they had these certain property trades, which he said almost immediately to people.
-→ {"text": "馬里蘭州的先生能否讓出 30 秒來澄清一個問題，任何能回答這個問題的人，你們能否給我們任何在 1947 年至少 18 歲或以上的人的名字，他們當時以類似 Jesse Marcel Sr. 所說的方式，說他收到了這些材料，而且它們具有某些特性，他幾乎立即告訴了人們。", "confidence": "medium", "notes": ""}
+→ {"text": "馬里蘭州的先生能否讓出 30 秒來澄清一個問題，任何能回答這個問題的人，你們能否給我們任何在 1947 年至少 18 歲或以上的人的名字，他們當時以類似傑西·馬塞爾一世所說的方式，說他收到了這些材料，而且它們具有某些特性，他幾乎立即告訴了人們。", "confidence": "medium", "notes": "原文句構破碎（口語），依語境補譯"}
 
 812. Is there anybody other than, or even the child, or who, can you give us the name of anybody who said they saw a body, they saw bodies back in 1947 in the name of any person that you've got in, you know, you've written, or you've studied this?
 → {"text": "除此之外還有誰，甚至是孩子，或者誰，你能給我們任何人的名字嗎，他們說在 1947 年看到了遺體，看到了遺體，你知道的，你們寫過或研究過的任何人的名字？", "confidence": "medium", "notes": ""}
@@ -1033,7 +1033,7 @@
 → {"text": "我們應該提到這一點。", "confidence": "high", "notes": ""}
 
 814. We talked about, you know, and I know that Mr. Marcel said that he knew people that had seen the bodies, but he never said he had seen a body.
-→ {"text": "我們談到了，你知道的，而且我知道 Marcel 先生說他認識看過遺體的人，但他從未說過他本人看到過遺體。", "confidence": "high", "notes": ""}
+→ {"text": "我們談到了，你知道的，而且我知道馬塞爾先生說他認識看過遺體的人，但他從未說過他本人看到過遺體。", "confidence": "high", "notes": ""}
 
 815. I just want to make sure that we have a witness if we do or if we don't.
 → {"text": "我只想確定我們是否有證人。", "confidence": "high", "notes": ""}
@@ -1048,7 +1048,7 @@
 → {"text": "如果您想要 1947 年在那裡看到遺體的人的名字，那麼我們有很多名字。", "confidence": "high", "notes": ""}
 
 819. Even Easley, the provost marshal, mentioned to his family that he had seen the bodies.
-→ {"text": "甚至憲兵司令 Easley 也向家人提到他看到過遺體。", "confidence": "high", "notes": ""}
+→ {"text": "甚至憲兵司令伊斯利也向家人提到他看到過遺體。", "confidence": "high", "notes": ""}
 
 820. He mentioned that they quizzed him about it when he was very gravely ill with cancer, about that, and he said, "Oh, the creatures to them."
 → {"text": "他提到當他身患癌症病情極為嚴重時，他們詢問他這件事，關於那個，他說：「哦，對他們來說是那些生物。」", "confidence": "medium", "notes": ""}
@@ -1060,7 +1060,7 @@
 → {"text": "1947 年沒有人問這些問題。", "confidence": "high", "notes": ""}
 
 823. Yeah, but nobody was asking about debris either until Mr. Marcel said, "I've seen this debris."
-→ {"text": "是的，但在 Marcel 先生說「我看到了這些殘骸」之前，也沒有人問關於殘骸的事。", "confidence": "high", "notes": ""}
+→ {"text": "是的，但在馬塞爾先生說「我看到了這些殘骸」之前，也沒有人問關於殘骸的事。", "confidence": "high", "notes": ""}
 
 824. Precisely.
 → {"text": "正是如此。", "confidence": "high", "notes": ""}
@@ -1084,10 +1084,10 @@
 → {"text": "我對這個問題有點困惑，我的意思是——你必須理解的是，在報紙報導這個故事後，軍方把所有人都趕出了城。", "confidence": "high", "notes": ""}
 
 831. Marcel is not ... If you're a reporter and you're looking for Major Marcel, you can't find him.
-→ {"text": "Marcel 不在……如果你是記者，你要找 Marcel 少校，你找不到他。", "confidence": "high", "notes": ""}
+→ {"text": "馬塞爾不在……如果你是記者，你要找馬塞爾少校，你找不到他。", "confidence": "high", "notes": ""}
 
 832. If you want to talk to Mac Brazel, you can't find him.
-→ {"text": "如果你想和 Mack Brazel 談話，你也找不到他。", "confidence": "high", "notes": ""}
+→ {"text": "如果你想和麥克·布拉澤爾談話，你也找不到他。", "confidence": "high", "notes": ""}
 
 833. If I could just recline my question, just so I make sure I'm clear here, what I'm trying to ask.
 → {"text": "如果我可以重新陳述我的問題，只是為了確保我在這裡說清楚了，我想問的是什麼。", "confidence": "high", "notes": ""}
@@ -1159,7 +1159,7 @@
 → {"text": "對此感到好奇，這告訴我，即使我什麼都不知道，也從未見過你們任何人，空軍也沒有說實話。", "confidence": "high", "notes": ""}
 
 856. One is, if this was indeed a balloon, there was no darned reason to send it to right field.
-→ {"text": "第一，如果這確實是一個氣球，根本沒有理由把它送到萊特機場。", "confidence": "high", "notes": ""}
+→ {"text": "第一，如果這確實是一個氣球，根本沒有理由把它送到萊特機場。", "confidence": "high", "notes": "原文 right field 應為 Wright Field（轉錄錯誤，已補錄 topics.json）"}
 
 857. Everybody would have recognized the balloon, so the very fact that they sent the material there tells me that they're not telling the truth.
 → {"text": "每個人都會認出氣球，所以他們把材料送到那裡這個事實本身就告訴我，他們沒有說實話。", "confidence": "high", "notes": ""}
@@ -1219,7 +1219,7 @@
 → {"text": "它可能去了 51 區。", "confidence": "high", "notes": ""}
 
 876. We've been told that one of the bodies went to MacDill, which was an aerospace medical facility.
-→ {"text": "我們被告知其中一具遺體被送到了 MacDill，那是一個航空醫學設施。", "confidence": "high", "notes": ""}
+→ {"text": "我們被告知其中一具遺體被送到了麥克迪爾（MacDill），那是一個航空醫學設施。", "confidence": "high", "notes": "topics.json 原紀錄（McNeil→MacDill）失效，main.yaml 原文早已正確"}
 
 877. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -1243,7 +1243,7 @@
 → {"text": "反情報部隊內部有任何關於前往墜毀現場報告的文件記錄嗎？", "confidence": "high", "notes": ""}
 
 884. What was especially interesting to us was after Major Marcel was sent directly, and as Kevin had mentioned, how they took all the key players immediately out of the picture, that anybody who had information on this was immediately either sent away or went on leave or in the case of Colonel Blanchard, he set up an operation at the crash site.
-→ {"text": "特別有趣的是，在 Marcel 少校被直接派遣之後，正如 Kevin 所提到的，他們如何立即將所有關鍵人物排除在外，任何擁有這方面資訊的人要麼立即被送走，要麼休假，或者像布蘭查德上校的情況，他在墜毀現場設立了一個行動。", "confidence": "high", "notes": ""}
+→ {"text": "特別有趣的是，在馬塞爾少校被直接派遣之後，正如凱文所提到的，他們如何立即將所有關鍵人物排除在外，任何擁有這方面資訊的人要麼立即被送走，要麼休假，或者像布蘭查德上校的情況，他在墜毀現場設立了一個行動。", "confidence": "high", "notes": ""}
 
 885. They were unavailable to the press, and yet there was still a lot of rumor throughout the area.
 → {"text": "他們對新聞界不可接觸，然而整個地區仍然有很多謠言。", "confidence": "high", "notes": ""}
@@ -1252,7 +1252,7 @@
 → {"text": "事實上，在與羅斯威爾地區倖存的人們交談時，有很多關於遺體的談論，很多關於回收遺體的謠言，很多關於在城鎮北部回收小人的談論。", "confidence": "high", "notes": ""}
 
 887. As far as the counterintelligence officer, when Major Marcel was sent for the balloon press conference in Fort Worth with General Ramey, he was kept overnight, and then when he returned late afternoon the next day, July 9th, on the very flight that we're convinced transported a crate of material which was hidden in bomb pit number one, and it wasn't an atomic bomb.
-→ {"text": "至於反情報部隊軍官，當 Marcel 少校被派往沃斯堡與雷米將軍參加氣球新聞發布會時，他被留宿了一夜，然後第二天 7 月 9 日下午晚些時候回來，就在我們確信運送了一箱材料的那架飛機上，這箱材料被藏在一號炸彈坑中，而且它不是原子彈。", "confidence": "high", "notes": ""}
+→ {"text": "至於反情報部隊軍官，當馬塞爾少校被派往沃斯堡與雷米將軍參加氣球新聞發布會時，他被留宿了一夜，然後第二天 7 月 9 日下午晚些時候回來，就在我們確信運送了一箱材料的那架飛機上，這箱材料被藏在一號炸彈坑中，而且它不是原子彈。", "confidence": "high", "notes": ""}
 
 888. We have first-hand testimony to that fact, we even have a copy of the manifest.
 → {"text": "我們有關於這一事實的第一手證詞，我們甚至有一份貨物清單的副本。", "confidence": "high", "notes": ""}
@@ -1261,7 +1261,7 @@
 → {"text": "這是一架非計劃航班，在 7 月 9 日星期三下午 4 點起飛。", "confidence": "high", "notes": ""}
 
 890. Well, Marcel, the next morning, the morning of July 10th, he immediately confronted Cavett.
-→ {"text": "嗯，Marcel 在第二天早上，7 月 10 日早上，立即質問 Cavett。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，馬塞爾在第二天早上，7 月 10 日早上，立即質問卡維特。", "confidence": "high", "notes": ""}
 
 891. He wanted to see the report.
 → {"text": "他想看報告。", "confidence": "high", "notes": ""}
@@ -1270,10 +1270,10 @@
 → {"text": "他想知道在他被留在沃斯堡期間，在他缺席時發生了什麼。", "confidence": "high", "notes": ""}
 
 893. What did Cavett say?
-→ {"text": "Cavett 說了什麼？", "confidence": "high", "notes": ""}
+→ {"text": "卡維特說了什麼？", "confidence": "high", "notes": ""}
 
 894. And Cavett kept responding, and this was also in the presence of counterintelligence non-commissioned officer Louis Rickett, who we also interviewed quite extensively, that Cavett kept telling him or kept responding, "What are you talking about?
-→ {"text": "Cavett 不斷回應，而且這也是在反情報部隊士官 Louis Rickett 在場的情況下，我們也對他進行了相當廣泛的採訪，Cavett 不斷告訴他或不斷回應：「你在說什麼？", "confidence": "high", "notes": ""}
+→ {"text": "卡維特不斷回應，而且這也是在反情報部隊士官路易斯·里基特（Louis Rickett）在場的情況下，我們也對他進行了相當廣泛的採訪，卡維特不斷告訴他或不斷回應：「你在說什麼？", "confidence": "high", "notes": ""}
 
 895. What are you talking about?
 → {"text": "你在說什麼？", "confidence": "high", "notes": ""}
@@ -1282,7 +1282,7 @@
 → {"text": "什麼都沒發生。」", "confidence": "high", "notes": ""}
 
 897. And Marcel finally reminded him, "I outrank you," to which Cavett responded, "It's out of my hands.
-→ {"text": "Marcel 最後提醒他：「我的軍階比你高。」Cavett 回應說：「這不是我能管的。", "confidence": "high", "notes": ""}
+→ {"text": "馬塞爾最後提醒他：「我的軍階比你高。」卡維特回應說：「這不是我能管的。", "confidence": "high", "notes": ""}
 
 898. Take it up with Washington.
 → {"text": "去找華盛頓談。", "confidence": "high", "notes": ""}
@@ -1321,7 +1321,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 910. Did your dad come back in his vehicle, was Captain Cavett with him or was your dad alone?
-→ {"text": "你父親開他的車回來時，Cavett 上尉跟他在一起嗎，還是你父親一個人？", "confidence": "high", "notes": ""}
+→ {"text": "你父親開他的車回來時，卡維特上尉跟他在一起嗎，還是你父親一個人？", "confidence": "high", "notes": ""}
 
 911. He was alone.
 → {"text": "他一個人。", "confidence": "high", "notes": ""}
@@ -1498,10 +1498,10 @@
 → {"text": "我們要進行一個環節。", "confidence": "high", "notes": ""}
 
 969. Carolyn has a question.
-→ {"text": "Carolyn 有一個問題。", "confidence": "high", "notes": ""}
+→ {"text": "卡蘿琳有一個問題。", "confidence": "high", "notes": ""}
 
 970. Carolyn, please.
-→ {"text": "Carolyn，請說。", "confidence": "high", "notes": ""}
+→ {"text": "卡蘿琳，請說。", "confidence": "high", "notes": ""}
 
 971. I heard you were about to close it, and I just wanted to ask.
 → {"text": "我聽說你們要結束了，我只是想問一下。", "confidence": "high", "notes": ""}
@@ -1606,7 +1606,7 @@
 → {"text": "這是一個非常特殊的事件。", "confidence": "high", "notes": ""}
 
 1005. He wanted my mother and myself to be first-hand witnesses to this thing, but when he came back from Fort Worth after General Ramey, then he said, "No more."
-→ {"text": "他希望我母親和我成為這件事的第一手證人，但當他從沃斯堡回來，在雷米將軍之後，他說：「不要再提了。」", "confidence": "high", "notes": ""}
+→ {"text": "他希望我母親和我成為這件事的第一手證人，但當他見過雷米將軍、從沃斯堡回來之後，他說：「不要再提了。」", "confidence": "high", "notes": ""}
 
 1006. It didn't happen.
 → {"text": "這件事沒發生過。", "confidence": "high", "notes": ""}

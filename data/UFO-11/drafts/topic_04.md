@@ -4,16 +4,16 @@
 → {"text": "感謝各位目前為止簡潔的陳述。", "confidence": "high", "notes": ""}
 
 304. I want to clear up something, because we've got three Marcells there, and we're talking about your father, who was a major intelligence officer, is that correct?
-→ {"text": "我想先釐清一件事，因為這裡有三位 Marcel，我們在討論的是您的父親，他是一位少校情報官，對嗎？", "confidence": "high", "notes": ""}
+→ {"text": "我想先釐清一件事，因為這裡有三位馬塞爾，我們在討論的是您的父親，他是一位少校情報官，對嗎？", "confidence": "high", "notes": ""}
 
 305. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 306. You're a colonel in the Army, that was a medical doctor in addition to that, and then you've got your son, you would be Marcell number two, he's Marcell number three, okay?
-→ {"text": "您是陸軍中校，同時也是一位醫生，然後這是您的兒子，您是第二代 Marcel，他是第三代 Marcel，對嗎？", "confidence": "high", "notes": ""}
+→ {"text": "您是陸軍上校，同時也是一位醫生，然後這是您的兒子，您是第二代馬塞爾，他是第三代馬塞爾，對嗎？", "confidence": "high", "notes": "原文為 colonel，原譯誤作中校，改上校"}
 
 307. And your position at this point, and then we've got Denise, who I presume is your wife?
-→ {"text": "還有您目前的職位，然後我們這裡還有 Denise，我猜是您的妻子？", "confidence": "high", "notes": ""}
+→ {"text": "還有您目前的職位，然後我們這裡還有丹妮絲，我猜是您的妻子？", "confidence": "high", "notes": ""}
 
 308. Sister.
 → {"text": "是妹妹。", "confidence": "high", "notes": ""}
@@ -22,16 +22,16 @@
 → {"text": "妹妹，好的，所以我們這裡有整個家族，我們將聽取你們所有人的證詞。", "confidence": "high", "notes": ""}
 
 310. We appreciate that, and so Colonel, please proceed.
-→ {"text": "我們非常感激，那麼中校，請開始。", "confidence": "high", "notes": ""}
+→ {"text": "我們非常感激，那麼上校，請開始。", "confidence": "high", "notes": ""}
 
 311. Yes, sir.
 → {"text": "是的，長官。", "confidence": "high", "notes": ""}
 
 312. I'm the son of Major Jesse Marcell, who was the intelligence officer for the 509th Composite Bomb Group based out of Roswell Army Airfield in 1947.
-→ {"text": "我是 Jesse Marcel 少校的兒子，他是 1947 年駐紮於羅斯威爾陸軍航空基地的 509 混合轟炸大隊情報官。", "confidence": "high", "notes": ""}
+→ {"text": "我是傑西·馬塞爾少校的兒子，他是 1947 年駐紮於羅斯威爾陸軍航空基地的 509 混合轟炸大隊情報官。", "confidence": "high", "notes": ""}
 
 313. The 509th, as you may recall, was the squadron who entered the war with the atomic bombing of Hiroshima and Nagasaki.
-→ {"text": "各位可能還記得，509 大隊是執行廣島和長崎原子彈轟炸任務而結束戰爭的中隊。", "confidence": "high", "notes": ""}
+→ {"text": "各位可能還記得，509 大隊是執行廣島和長崎原子彈轟炸任務而結束戰爭的大隊。", "confidence": "high", "notes": ""}
 
 314. My dad's credentials obviously were very impressive.
 → {"text": "我父親的資歷顯然非常出色。", "confidence": "high", "notes": ""}
@@ -43,10 +43,10 @@
 → {"text": "雷達學校訓練很重要，因為他會非常熟悉各種氣象氣球、雷達目標以及與這類裝置相關的所有器材，無論是氣象氣球或莫古爾氣球，但氣球終究是氣球，都是現成的材料。", "confidence": "high", "notes": ""}
 
 317. I myself followed a career in medicine, graduating from the LSU School of Medicine in 1961, and I joined the military shortly after my graduation and internship.
-→ {"text": "我本人則從事醫學生涯，於 1961 年畢業於 LSU 醫學院，畢業和完成實習後不久便加入軍隊。", "confidence": "high", "notes": ""}
+→ {"text": "我本人則從事醫學生涯，於 1961 年畢業於路易斯安那州立大學醫學院（LSU School of Medicine），畢業和完成實習後不久便加入軍隊。", "confidence": "high", "notes": ""}
 
 318. My first taste of the military was being stationed aboard the USS Renville, which is a troop transport ship destined for Cuba.
-→ {"text": "我初次體驗軍旅生涯是被派駐在 USS Renville 號上，那是一艘開往古巴的部隊運輸艦。", "confidence": "high", "notes": ""}
+→ {"text": "我初次體驗軍旅生涯是被派駐在倫維爾號（USS Renville）上，那是一艘開往古巴的部隊運輸艦。", "confidence": "high", "notes": ""}
 
 319. We spent several weeks sitting around in circles south of Cuba in preparation for the invasion, which fortunately never happened, or else I wouldn't be here.
 → {"text": "我們在古巴南方海域繞圈待了好幾個星期，準備進行入侵行動，幸運的是入侵從未發生，否則我今天就不會在這裡了。", "confidence": "high", "notes": ""}
@@ -55,7 +55,7 @@
 → {"text": "確實如此。", "confidence": "high", "notes": ""}
 
 321. And I ended my career as an Army colonel in December 2005 after a 13-month tour in Iraq where I gained 200 hours of combat flying and, you know, things like that, just having fun out there really.
-→ {"text": "我於 2005 年 12 月以陸軍中校身份結束職業生涯，在伊拉克服役 13 個月期間累積了 200 小時的戰鬥飛行時數，諸如此類的經歷，真的很充實。", "confidence": "high", "notes": ""}
+→ {"text": "我於 2005 年 12 月以陸軍上校身份結束職業生涯，在伊拉克服役 13 個月期間累積了 200 小時的戰鬥飛行時數，諸如此類的經歷，真的很充實。", "confidence": "high", "notes": "原文為 colonel，原譯誤作中校，改上校"}
 
 322. I did not come home entirely unscathed, however, I got severe PTSD from all the rigor, and also I developed a weakness in my legs that they think is related to some sort of toxic contamination that I became exposed to in Iraq, but that's neither here nor there.
 → {"text": "然而，我並非毫髮無傷地回國，我因為種種艱苦而患上嚴重的創傷後壓力症候群，腿部也出現無力症狀，他們認為可能與我在伊拉克接觸到的某種有毒污染物有關，但這些都不是重點。", "confidence": "high", "notes": ""}
@@ -64,10 +64,10 @@
 → {"text": "我關於羅斯威爾事件的故事始於 1947 年 7 月的凌晨時分，當時我被父親叫醒，他剛從羅斯威爾郊外的一座牧場執行任務歸來，收集了來源不明的殘骸。", "confidence": "high", "notes": ""}
 
 324. This is the Foster Ranch and this is the debris that Mack Brazel had run across.
-→ {"text": "這就是 Foster 牧場，這些就是麥克·布拉澤爾所發現的殘骸。", "confidence": "high", "notes": ""}
+→ {"text": "這就是福斯特牧場（Foster Ranch），這些就是麥克·布拉澤爾所發現的殘骸。", "confidence": "high", "notes": ""}
 
 325. Apparently the rancher, by the name of Mack Brazel, notified the local sheriff of Chavez County of the downing of some sort of aircraft on his land.
-→ {"text": "顯然這位名叫麥克·布拉澤爾的牧場主人向 Chavez 郡當地警長報告，有某種飛行器墜毀在他的土地上。", "confidence": "high", "notes": ""}
+→ {"text": "顯然這位名叫麥克·布拉澤爾的牧場主人向查維斯郡（Chavez County）當地警長報告，有某種飛行器墜毀在他的土地上。", "confidence": "high", "notes": ""}
 
 326. He was not quite sure what the nature of this was.
 → {"text": "他不太確定這是什麼性質的東西。", "confidence": "high", "notes": ""}
@@ -76,10 +76,10 @@
 → {"text": "他以前在那裡見過墜落的氣象氣球，所以他也不確定是不是氣象氣球，但這是非常不同的東西。", "confidence": "high", "notes": ""}
 
 328. The sheriff in Chavez County contacted Colonel Blanchard, who was the commander of the Air Force Base in Roswell.
-→ {"text": "Chavez 郡的警長聯繫了布蘭查德上校，他是羅斯威爾空軍基地的指揮官。", "confidence": "high", "notes": ""}
+→ {"text": "查維斯郡的警長聯繫了布蘭查德上校，他是羅斯威爾空軍基地的指揮官。", "confidence": "high", "notes": ""}
 
 329. Now Colonel Blanchard knew my dad was the intelligence officer, so he dispatched my dad and a CIC agent, Sheridan Cavill, to investigate what this was, whether it was one of our planes or just whatever, just an unknown crash site.
-→ {"text": "布蘭查德上校知道我父親是情報官，所以他派遣我父親和一名反情報部隊幹員 Sheridan Cavitt 前往調查這是什麼，是否是我們的飛機或其他什麼東西，總之是一個不明墜毀現場。", "confidence": "high", "notes": ""}
+→ {"text": "布蘭查德上校知道我父親是情報官，所以他派遣我父親和一名反情報部隊幹員薛瑞登·卡維特（Sheridan Cavitt）前往調查這是什麼，是否是我們的飛機或其他什麼東西，總之是一個不明墜毀現場。", "confidence": "high", "notes": ""}
 
 330. So it was their job to go ahead and ascertain what was out there and bring representative portions of this back to the base so they could study it to determine, make a final determination of this.
 → {"text": "所以他們的任務是前往現場確認那裡有什麼，並將代表性的部分帶回基地，以便研究並做出最終判斷。", "confidence": "high", "notes": ""}
@@ -154,7 +154,7 @@
 → {"text": "沒錯。", "confidence": "high", "notes": ""}
 
 354. But anyway, my dad drove the debris into the base that night, I think it was that night or maybe early next morning, where he was assigned by Colonel Blanchard to fly the material to General Ramey's office in Fort Worth.
-→ {"text": "但無論如何，我父親當晚將殘骸運回基地，我想是當晚或隔天清晨，布蘭查德上校指派他將材料空運到 Fort Worth 的雷米將軍辦公室。", "confidence": "high", "notes": ""}
+→ {"text": "但無論如何，我父親當晚將殘骸運回基地，我想是當晚或隔天清晨，布蘭查德上校指派他將材料空運到沃斯堡的雷米將軍辦公室。", "confidence": "high", "notes": ""}
 
 355. This was flown in the belly of a B-29 under armed guard.
 → {"text": "這些材料被放在 B-29 轟炸機的腹部，由武裝警衛看守運送。", "confidence": "high", "notes": ""}
@@ -184,7 +184,7 @@
 → {"text": "是的，長官，我通常是個調皮的孩子，但這次我遵守了命令。", "confidence": "high", "notes": ""}
 
 364. So I never discussed this with my friends or anybody else until after Stan Friedman interviewed my dad in 1978.
-→ {"text": "所以我從未與朋友或任何人討論過這件事，直到 1978 年史丹·佛烈德曼訪問我父親之後。", "confidence": "high", "notes": ""}
+→ {"text": "所以我從未與朋友或任何人討論過這件事，直到 1978 年史丹·弗里德曼訪問我父親之後。", "confidence": "high", "notes": ""}
 
 365. Great.
 → {"text": "很好。", "confidence": "high", "notes": ""}
@@ -199,25 +199,25 @@
 → {"text": "是憲法。", "confidence": "high", "notes": ""}
 
 369. We move now to your son, Jesse, the third.
-→ {"text": "現在我們請您的兒子，Jesse 三世。", "confidence": "high", "notes": ""}
+→ {"text": "現在我們請您的兒子，傑西三世。", "confidence": "high", "notes": ""}
 
 370. The third, yep.
 → {"text": "是的，三世。", "confidence": "high", "notes": ""}
 
 371. Marcel.
-→ {"text": "Marcel。", "confidence": "high", "notes": ""}
+→ {"text": "馬塞爾（Marcel）。", "confidence": "high", "notes": ""}
 
 372. Marcel is a French name?
-→ {"text": "Marcel 是法國名字嗎？", "confidence": "high", "notes": ""}
+→ {"text": "馬塞爾（Marcel）是法國名字嗎？", "confidence": "high", "notes": "此段討論姓氏來源，保留原文並補中譯"}
 
 373. Marcel?
-→ {"text": "Marcel？", "confidence": "high", "notes": ""}
+→ {"text": "馬塞爾？", "confidence": "high", "notes": ""}
 
 374. Thank you to the distinguished members of the committee.
 → {"text": "感謝委員會的各位尊敬委員。", "confidence": "high", "notes": ""}
 
 375. I am here today not to speak as an expert witness to what I have heard and researched about Roswell, but simply to help you get to know two great men, my grandfather, Major Jesse Marcel Sr., and my father, Dr. Jesse Marcel.
-→ {"text": "我今天來到這裡，不是作為專家證人談論我所聽聞和研究的羅斯威爾事件，而是單純想幫助各位認識兩位偉大的人，我的祖父 Jesse Marcel 少校，以及我的父親 Jesse Marcel 博士。", "confidence": "high", "notes": ""}
+→ {"text": "我今天來到這裡，不是作為專家證人談論我所聽聞和研究的羅斯威爾事件，而是單純想幫助各位認識兩位偉大的人，我的祖父傑西·馬塞爾一世（Major Jesse Marcel Sr.）少校，以及我的父親傑西·馬塞爾二世（Dr. Jesse Marcel Jr.）博士。", "confidence": "high", "notes": ""}
 
 376. My grandfather was a simple man who just wanted to lead a simple life.
 → {"text": "我的祖父是個單純的人，只想過簡單的生活。", "confidence": "high", "notes": ""}
@@ -268,10 +268,10 @@
 → {"text": "數十年後，我的父親追隨祖父的腳步成為軍人，在海軍服役並接受醫生訓練。", "confidence": "high", "notes": ""}
 
 392. Soon after, he would settle down in Clancy, Montana to raise a family and continue in the reserves to become a helicopter pilot.
-→ {"text": "不久之後，他在蒙大拿州 Clancy 安頓下來成家，並繼續在預備役中成為直升機飛行員。", "confidence": "high", "notes": ""}
+→ {"text": "不久之後，他在蒙大拿州克蘭西（Clancy）安頓下來成家，並繼續在預備役中成為直升機飛行員。", "confidence": "high", "notes": ""}
 
 393. As an ENT, I remember as a child going with my father on his rounds, not the ones at the hospital, but the ones where he would visit his parents in their homes.
-→ {"text": "身為耳鼻喉科醫生，我記得小時候跟著父親出診，不是在醫院，而是他到病人家中看診的那些時候。", "confidence": "high", "notes": ""}
+→ {"text": "我父親是耳鼻喉科醫生，我記得小時候跟著他出診，不是在醫院，而是他到病人家中看診的那些時候。", "confidence": "medium", "notes": "原文句構破碎，ENT 指其父馬塞爾二世（耳鼻喉科醫師），依語境補足主語"}
 
 394. He would carry in his little black bag and take care of his patients in the same caring way he would take care of the rest of us.
 → {"text": "他會帶著他的小黑包，以同樣關懷的方式照顧他的病人，就像照顧我們其他人一樣。", "confidence": "high", "notes": ""}
@@ -286,10 +286,10 @@
 → {"text": "他會花無數小時纏繞小型綠色玻璃開關，這些最終會成為電腦的大腦。", "confidence": "high", "notes": ""}
 
 398. In the summer, we would all pile into a van, RV or whatever form of transportation that we'd have available to us and head to Houma, Louisiana, where my grandparents had lived or had returned to live out the rest of their lives.
-→ {"text": "夏天時，我們全家會擠進廂型車、露營車或任何我們能用的交通工具，前往路易斯安那州的 Houma，我的祖父母在那裡度過他們的餘生。", "confidence": "high", "notes": ""}
+→ {"text": "夏天時，我們全家會擠進廂型車、露營車或任何我們能用的交通工具，前往路易斯安那州的霍馬，我的祖父母在那裡度過他們的餘生。", "confidence": "high", "notes": ""}
 
 399. I remember so clearly driving down a shell-covered road leading out to their house with the most notable feature being a huge greenhouse that easily equaled the size of their residence that my grandfather lovingly built for his wife, Vio.
-→ {"text": "我清楚記得開車沿著鋪滿貝殼的道路前往他們家，最顯著的特徵是一座巨大的溫室，大小幾乎等同於他們的住宅，那是我祖父充滿愛心地為妻子 Vio 建造的。", "confidence": "high", "notes": ""}
+→ {"text": "我清楚記得開車沿著鋪滿貝殼的道路前往他們家，最顯著的特徵是一座巨大的溫室，大小幾乎等同於他們的住宅，那是我祖父充滿愛心地為妻子薇歐（Vio）建造的。", "confidence": "high", "notes": ""}
 
 400. My grandmother had a green thumb like no other.
 → {"text": "我的祖母有著無人能比的園藝天賦。", "confidence": "high", "notes": ""}
@@ -325,7 +325,7 @@
 → {"text": "我祖父的另一個熱愛是運動。", "confidence": "high", "notes": ""}
 
 411. LSU provided the teams that he most favored and occupied his weekend TV viewing hours.
-→ {"text": "LSU 提供了他最喜愛的球隊，佔據了他週末的電視觀賞時間。", "confidence": "high", "notes": ""}
+→ {"text": "路易斯安那州立大學提供了他最喜愛的球隊，佔據了他週末的電視觀賞時間。", "confidence": "high", "notes": ""}
 
 412. I'll always remember grandpa as a gentle giant who somehow lived the life of a southern gentleman who would be at least partially responsible for change in the way people of our world would look into the night skies, and think to themselves, "Maybe, just maybe, somebody was looking back."
 → {"text": "我會永遠記得祖父是一位溫柔的巨人，他過著南方紳士的生活，在某種程度上改變了世人仰望夜空的方式，讓他們心想：「也許，也許真有人正在回望著我們。」", "confidence": "high", "notes": ""}
@@ -349,13 +349,13 @@
 → {"text": "首先，我也想感謝委員會撥冗聆聽我們家族的歷史。", "confidence": "high", "notes": ""}
 
 419. My name is Denise Marcel.
-→ {"text": "我的名字是 Denise Marcel。", "confidence": "high", "notes": ""}
+→ {"text": "我的名字是丹妮絲·馬塞爾（Denise Marcel）。", "confidence": "high", "notes": ""}
 
 420. I am the granddaughter of Major Jesse Marcel, Sr., and the daughter of retired Colonel Dr.
-→ {"text": "我是 Jesse Marcel 少校的孫女，也是退役中校 Jesse Marcel 博士的女兒。", "confidence": "high", "notes": ""}
+→ {"text": "我是傑西·馬塞爾一世（Major Jesse Marcel Sr.）少校的孫女，也是退役上校", "confidence": "high", "notes": "本段與次段（seg 421）為同一句，原文於 Dr. 處斷段"}
 
 421. Marcel, Jr.
-→ {"text": "Marcel 中校。", "confidence": "high", "notes": ""}
+→ {"text": "傑西·馬塞爾二世（Dr. Marcel Jr.）博士的女兒。", "confidence": "high", "notes": "承上段（seg 420）同一句"}
 
 422. My grandfather was the first military officer at a UFO crash site in Roswell, New Mexico.
 → {"text": "我的祖父是第一位抵達新墨西哥州羅斯威爾不明飛行物墜毀現場的軍官。", "confidence": "high", "notes": ""}
@@ -370,7 +370,7 @@
 → {"text": "無論他們看到的是什麼，對我們家族產生了巨大的影響。", "confidence": "high", "notes": ""}
 
 426. When we moved to Clancy, Montana in the early '70s, my father built a telescope in our backyard.
-→ {"text": "70 年代初期我們搬到蒙大拿州 Clancy 時，我父親在我們的後院建造了一座望遠鏡。", "confidence": "high", "notes": ""}
+→ {"text": "70 年代初期我們搬到蒙大拿州克蘭西時，我父親在我們的後院建造了一座望遠鏡。", "confidence": "high", "notes": ""}
 
 427. Now, this wasn't one of your average, ordinary telescopes.
 → {"text": "這可不是一般普通的望遠鏡。", "confidence": "high", "notes": ""}
@@ -385,7 +385,7 @@
 → {"text": "然後，他開始建造望遠鏡，包括建造一個旋轉圓頂。", "confidence": "high", "notes": ""}
 
 431. This was a telescope that was later loaned to the Helena Astronomy Association.
-→ {"text": "這座望遠鏡後來借給了 Helena 天文協會。", "confidence": "high", "notes": ""}
+→ {"text": "這座望遠鏡後來借給了海倫娜天文協會（Helena Astronomy Association）。", "confidence": "high", "notes": ""}
 
 432. And he had built this from top to bottom.
 → {"text": "他從頭到尾親手建造了這一切。", "confidence": "high", "notes": ""}
@@ -409,7 +409,7 @@
 → {"text": "我不認為我的父母會在我們這麼小的年紀就讓我們相信不明飛行物的存在，除非我父親和祖父真的目睹了某些非凡的事物。", "confidence": "high", "notes": ""}
 
 439. In January of 1997, I accompanied my father and Kent Jeffreys to Washington, D.C. for a hypnosis session that Dr. Neil Hibbler would conduct over the course of three days.
-→ {"text": "1997 年 1 月，我陪同父親和 Kent Jeffreys 前往華盛頓特區，接受尼爾·希伯勒博士進行為期三天的催眠治療。", "confidence": "high", "notes": ""}
+→ {"text": "1997 年 1 月，我陪同父親和肯特·傑弗里斯（Kent Jeffreys）前往華盛頓特區，接受尼爾·希伯勒博士進行為期三天的催眠治療。", "confidence": "high", "notes": ""}
 
 440. Dr. Hibbler was one of the world's leading experts who used hypnotic regressions for forensic purposes.
 → {"text": "希伯勒博士是世界上將催眠回溯用於法醫目的的頂尖專家之一。", "confidence": "high", "notes": ""}
@@ -433,13 +433,13 @@
 → {"text": "當被問及材料時，我父親的描述與他多年來一直描述的沒有任何差異。", "confidence": "high", "notes": ""}
 
 447. One of the more interesting facets of the debris descriptions are the symbols or hieroglyphics that my father had seen on the eye beam.
-→ {"text": "殘骸描述中較有趣的一個面向是我父親在 I 型樑上看到的符號或象形文字。", "confidence": "high", "notes": ""}
+→ {"text": "殘骸描述中較有趣的一個面向是我父親在 I 型樑上看到的符號或象形文字。", "confidence": "high", "notes": "原文 eye beam 應為 I-beam（轉錄錯誤，已補錄 topics.json）"}
 
 448. While under hypnosis, the facts remain the same.
 → {"text": "在催眠狀態下，事實保持不變。", "confidence": "high", "notes": ""}
 
 449. Just like when he was a child, he motioned grabbing the eye beam and holding it above his head to get a better look at the purple reflecting symbols.
-→ {"text": "就像他小時候一樣，他做出抓住 I 型樑並舉過頭頂的動作，以便更清楚地看到那些反射紫光的符號。", "confidence": "high", "notes": ""}
+→ {"text": "就像他小時候一樣，他做出抓住 I 型樑並舉過頭頂的動作，以便更清楚地看到那些反射紫光的符號。", "confidence": "high", "notes": "原文 eye beam 應為 I-beam（轉錄錯誤，已補錄 topics.json）"}
 
 450. The military claimed that these symbols were merely Christmas-wrapped tape, but it is very unlikely and does not seem possible that three people did not recognize simple holiday decorations on some Scotch tape.
 → {"text": "軍方聲稱這些符號只是聖誕包裝膠帶，但三個人都認不出膠帶上簡單的節日裝飾圖案，這非常不可能也不合理。", "confidence": "high", "notes": ""}
@@ -466,13 +466,13 @@
 → {"text": "我的祖父和父親都是非常盡職的軍人，總是徹底執行命令。", "confidence": "high", "notes": ""}
 
 458. They both remained silent to the public about the incident until my grandfather had been approached by Stanton Friedman nearly 30 years after the event.
-→ {"text": "他們兩人對公眾保持沉默，直到事件發生近 30 年後，我祖父被 Stanton Friedman 找上門。", "confidence": "high", "notes": ""}
+→ {"text": "他們兩人對公眾保持沉默，直到事件發生近 30 年後，我祖父被史丹頓·弗里德曼（Stanton Friedman）找上門。", "confidence": "high", "notes": ""}
 
 459. During interviews my grandfather was asked about the materials and he would say, "It was not anything from this earth that I am quite sure of."
 → {"text": "在訪談中，當被問及那些材料時，我祖父會說：「我非常確定那不是來自地球的任何東西。」", "confidence": "high", "notes": ""}
 
 460. These words would change the course of the Marcel family.
-→ {"text": "這些話改變了 Marcel 家族的命運。", "confidence": "high", "notes": ""}
+→ {"text": "這些話改變了馬塞爾家族的命運。", "confidence": "high", "notes": ""}
 
 461. The reason he was ordered to go to the site was because he was an intelligence officer familiar with most all of the materials used in aircraft and travel.
 → {"text": "他被命令前往現場的原因是，他是一名情報官，熟悉飛機和交通工具所使用的幾乎所有材料。", "confidence": "high", "notes": ""}
@@ -481,7 +481,7 @@
 → {"text": "他非常有資格評估墜毀現場的殘骸。", "confidence": "high", "notes": ""}
 
 463. And for the record, my grandfather had nothing to gain when he spoke to Stanton Friedman.
-→ {"text": "而且要說明的是，我祖父與 Stanton Friedman 交談時沒有任何利益可圖。", "confidence": "high", "notes": ""}
+→ {"text": "而且要說明的是，我祖父與史丹頓·弗里德曼交談時沒有任何利益可圖。", "confidence": "high", "notes": ""}
 
 464. He just felt the same way that I do, that the world should know the truth.
 → {"text": "他的感受和我一樣，認為世界應該知道真相。", "confidence": "high", "notes": ""}
