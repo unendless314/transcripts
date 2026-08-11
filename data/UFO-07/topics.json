@@ -48,16 +48,34 @@
           "reasoning": "The name is spelled 'Mywald' in all subsequent mentions (e.g., 42, 46, 48, 118), indicating 'Mywold' is likely a typo."
         },
         {
+          "segment_id": 48,
+          "error_text": "the conversation I had with Colonel Mywald",
+          "suggested_correction": "the conversation I had with Colonel Figel",
+          "reasoning": "The first audio played is the 1996 phone call with Colonel Walter Figel (Echo Flight deputy crew commander), confirmed by human audio restoration 2026-08-11; Whisper misattributed it to Mywald."
+        },
+        {
+          "segment_id": 51,
+          "error_text": "a conversation with Colonel Mywald",
+          "suggested_correction": "a conversation with Colonel Figel",
+          "reasoning": "Same first-audio attribution error as seg 48 (Colonel Walter Figel, not Mywald)."
+        },
+        {
           "segment_id": 150,
           "error_text": "M91 missile",
           "suggested_correction": "Minuteman missile",
           "reasoning": "The witness is discussing the Minuteman missile system. 'M91' is not a known designation for this system and is likely a transcription error for 'Minuteman'."
         },
         {
-          "segment_id": 168,
+          "segment_id": 165,
+          "error_text": "Chase hinted, I had exchanged",
+          "suggested_correction": "Chase and I had exchanged",
+          "reasoning": "Quotation from the Condon report narrative; 'hinted' is a mistranscription of 'and I' (Colonel Chase and I had exchanged pleasantries)."
+        },
+        {
+          "segment_id": 169,
           "error_text": "deputy accountant",
           "suggested_correction": "project coordinator",
-          "reasoning": "Dr. Robert Low was the Project Coordinator for the Condon study, not an accountant. This is a common transcription error due to the similar sound."
+          "reasoning": "Dr. Robert Low (spelled Lowe in transcript) was the Project Coordinator for the Condon study, not an accountant; 'deputy accountant' is a phonetic mistranscription. (Originally logged against seg 168; the error text occurs in seg 169.)"
         },
         {
           "segment_id": 172,
@@ -105,6 +123,24 @@
           "error_text": "Wigan headquarters",
           "suggested_correction": "Wing headquarters",
           "reasoning": "The context is a military missile wing; 'Wigan' is a clear transcription error."
+        },
+        {
+          "segment_id": 194,
+          "error_text": "west of Mole Hall",
+          "suggested_correction": "west of Mohall",
+          "reasoning": "Same Mohall misspelling as seg 193; the seg 193 source was pre-corrected but this occurrence in seg 194 remains."
+        },
+        {
+          "segment_id": 231,
+          "error_text": "we arrived Hopside",
+          "suggested_correction": "we arrived topside",
+          "reasoning": "'Topside' (the surface building above the capsule) is the consistent term in these testimonies; 'Hopside' is a mistranscription."
+        },
+        {
+          "segment_id": 253,
+          "error_text": "Heineck stated in the article",
+          "suggested_correction": "Hynek stated in the article",
+          "reasoning": "Residual of the Dr. J. Allen Hynek misspelling corrected in seg 252; 'Heineck' remains here."
         },
         {
           "segment_id": 251,
@@ -173,6 +209,12 @@
           "reasoning": "The command post would be for Strategic Air Command (SAC), not the Security Alert Team (SAT). This is confirmed in segment 345."
         },
         {
+          "segment_id": 351,
+          "error_text": "return to LFE Warren",
+          "suggested_correction": "return to F.E. Warren",
+          "reasoning": "'LFE Warren' is a garbled transcription of 'F.E. Warren', the base discussed throughout this testimony."
+        },
+        {
           "segment_id": 379,
           "error_text": "Mine, all Air Force-based, not if you are.",
           "suggested_correction": "Malmstrom Air Force Base, not F.E. Warren.",
@@ -211,6 +253,12 @@
           "error_text": "Media rights were also ruled out",
           "suggested_correction": "Meteorites were also ruled out",
           "reasoning": "The context is ruling out natural phenomena as explanations for the sightings. 'Meteorites' fits the context perfectly; 'Media rights' is nonsensical and a likely phonetic error."
+        },
+        {
+          "segment_id": 481,
+          "error_text": "Atomic Energy Commission plan",
+          "suggested_correction": "Atomic Energy Commission plant",
+          "reasoning": "Referring to the Hanford AEC plant quoted in seg 480; 'plan' is a typo for 'plant'."
         }
       ]
     },
@@ -258,6 +306,48 @@
           "error_text": "Mr. Victor Bigliani of Zeeland Communications",
           "suggested_correction": "Mr. Victor Viggiani of ZlandCommunications",
           "reasoning": "The individual being referred to is likely Victor Viggiani, a Canadian researcher who runs a media outlet called ZlandCommunications. Both the name and company name are phonetically misspelled."
+        },
+        {
+          "segment_id": 507,
+          "error_text": "Mr. Dole, what was the reference",
+          "suggested_correction": "Mr. Dolan, what was the reference",
+          "reasoning": "The chair addresses researcher Richard Dolan (confirmed by context); 'Dole' is a mistranscription of 'Dolan'."
+        },
+        {
+          "segment_id": 573,
+          "error_text": "Kasputin Yar",
+          "suggested_correction": "Kapustin Yar",
+          "reasoning": "Standard spelling of the Russian missile test and launch site."
+        },
+        {
+          "segment_id": 592,
+          "error_text": "Timothy Goode",
+          "suggested_correction": "Timothy Good",
+          "reasoning": "Author of 'Above Top Secret' is Timothy Good; extra 'e' is a transcription error."
+        },
+        {
+          "segment_id": 593,
+          "error_text": "Malsom Air Force Base",
+          "suggested_correction": "Malmstrom Air Force Base",
+          "reasoning": "Same base misspelling pattern as elsewhere in this episode."
+        },
+        {
+          "segment_id": 603,
+          "error_text": "Fred Mywall",
+          "suggested_correction": "Fred Mywald",
+          "reasoning": "Salas's commander is consistently Mywald elsewhere in this episode."
+        },
+        {
+          "segment_id": 647,
+          "error_text": "the ear of your",
+          "suggested_correction": "the year of your",
+          "reasoning": "The chair asks for the year of the sighting ('Seventy-six' follows); 'ear' is a mistranscription of 'year'."
+        },
+        {
+          "segment_id": 664,
+          "error_text": "the Conant investigator",
+          "suggested_correction": "the Condon investigator",
+          "reasoning": "Refers to the Condon committee investigator (Dr. Roy Craig); 'Conant' is a phonetic error."
         }
       ]
     }

@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 504. We're now going to open it to our members, and we're going to start with Congressman Bartlett.
-→ {"text": "我們現在將開放給委員會成員提問，我們將從巴特利特眾議員 (Congressman Bartlett) 開始。", "confidence": "high", "notes": ""}
+→ {"text": "我們現在將開放給委員會成員提問，我們將從巴特利特眾議員（Congressman Bartlett） 開始。", "confidence": "high", "notes": ""}
 
 505. As I've sat and listened to this testimony, I was asking myself a question. If for my good, there is a cover-up of these sightings, then what else might the government do for my good?
 → {"text": "當我坐在這裡聆聽這些證詞時，我在問自己一個問題。如果為了我好，政府掩蓋這些目擊事件，那麼政府還可能為了我好而做什麼其他事情？", "confidence": "high", "notes": ""}
@@ -10,7 +10,7 @@
 → {"text": "這有點像歐威爾小說《1984》的極權監控。", "confidence": "high", "notes": "參考 terminology.yaml 中 Orwellian, 1984 條目"}
 
 507. Mr. Dole, what was the reference for size, because the description of one of these is different than the description of others.
-→ {"text": "多蘭先生 (Mr. Dolan)，尺寸的參考依據是什麼，因為其中一個的描述與其他描述不同。", "confidence": "high", "notes": "可能為 Dolan 的口誤，context 確認為 Richard Dolan"}
+→ {"text": "多蘭先生（Mr. Dolan），尺寸的參考依據是什麼，因為其中一個的描述與其他描述不同。", "confidence": "high", "notes": "可能為 Dolan 的口誤，context 確認為 Richard Dolan"}
 
 508. It was enormous in size.
 → {"text": "它的尺寸非常巨大。", "confidence": "high", "notes": ""}
@@ -61,10 +61,10 @@
 → {"text": "最近發生了什麼？", "confidence": "high", "notes": ""}
 
 524. Well, I don't want to jump if you had to say something, Robert.
-→ {"text": "嗯，如果 Robert 有話要說，我不想搶先。", "confidence": "high", "notes": "可能指 Captain Salas"}
+→ {"text": "嗯，如果 羅伯特 有話要說，我不想搶先。", "confidence": "high", "notes": "可能指 Captain Salas"}
 
 525. Recently, let's say 2010, there was a shutdown of 50 missiles at Francis E. Warren Air Force Base.
-→ {"text": "最近，比如說 2010 年，F.E. Warren 空軍基地 (Francis E. Warren Air Force Base) 發生了 50 枚導彈關閉事件。", "confidence": "high", "notes": ""}
+→ {"text": "最近，比如說 2010 年，F.E. Warren 空軍基地（Francis E. Warren Air Force Base） 發生了 50 枚飛彈關閉事件。", "confidence": "high", "notes": ""}
 
 526. This was announced by the Air Force.
 → {"text": "這是空軍宣布的。", "confidence": "high", "notes": ""}
@@ -76,7 +76,7 @@
 → {"text": "現在，我對此非常謹慎。", "confidence": "high", "notes": ""}
 
 529. I'm not sure I believe that, but we do have witnesses that have come forward, both civilian and Air Force, that said they saw an object in the sky at the time of these shutdowns.
-→ {"text": "我不確定我是否相信，但我們確實有證人站出來，包括平民和空軍人員，他們說在這些導彈關閉時看到天空中有物體。", "confidence": "high", "notes": ""}
+→ {"text": "我不確定我是否相信，但我們確實有證人站出來，包括平民和空軍人員，他們說在這些飛彈關閉時看到天空中有物體。", "confidence": "high", "notes": ""}
 
 530. This is still being investigated, but these incidents are still going on.
 → {"text": "這仍在調查中，但這些事件仍在繼續發生。", "confidence": "high", "notes": ""}
@@ -100,7 +100,7 @@
 → {"text": "嗯，關於這一點，我想提一些事情。", "confidence": "high", "notes": ""}
 
 537. It was mentioned previously in the Bentwaters panel.
-→ {"text": "在之前的 Bentwaters 證人小組中曾提到過。", "confidence": "high", "notes": ""}
+→ {"text": "在之前的本特沃特斯場次中曾提到過。", "confidence": "high", "notes": "Bentwaters 場次指藍道申森林事件證詞（UFO-05/06），基地名定譯本特沃特斯"}
 
 538. They talked about personnel reliability reporting, where they keep tabs on people involved with nuclear weapons and make sure they stay reliable.
 → {"text": "他們談到人員可靠性報告，也就是對涉及核武器的人員進行監控，確保他們保持可靠。", "confidence": "high", "notes": ""}
@@ -109,19 +109,19 @@
 → {"text": "這是空軍施加壓力不讓報告這些事情的一種方式，但我們當然從不時收到的報告中知道這些事件仍在繼續。", "confidence": "high", "notes": ""}
 
 540. But that's one of the reasons I think Mr. Fenstermacher noted that some of their people were very reluctant to report what they saw, and I'm sure that had to do with the PRP program.
-→ {"text": "但這就是我認為芬斯特馬赫先生 (Mr. Fenstermacher) 指出的原因之一，他們的一些人非常不願意報告他們所看到的，我確信這與 PRP（人員可靠性計畫）有關。", "confidence": "high", "notes": "PRP = Personnel Reliability Program"}
+→ {"text": "但這就是我認為芬斯特馬赫先生（Mr. Fenstermacher） 指出的原因之一，他們的一些人非常不願意報告他們所看到的，我確信這與 PRP（人員可靠性計畫）有關。", "confidence": "high", "notes": "PRP = Personnel Reliability Program"}
 
 541. Two points. Since all of you have followed this activity, you know, we're not the only country that has Minutemen missiles in holes in the ground pointed at somebody.
-→ {"text": "兩點。既然你們所有人都一直關注這項活動，你們知道，我們不是唯一一個在地下洞穴中擁有民兵導彈瞄準某人的國家。", "confidence": "high", "notes": ""}
+→ {"text": "兩點。既然你們所有人都一直關注這項活動，你們知道，我們不是唯一一個在地下洞穴中擁有民兵飛彈瞄準某人的國家。", "confidence": "high", "notes": ""}
 
 542. It's the somebody that we're pointing at.
 → {"text": "就是我們瞄準的那個對象。", "confidence": "high", "notes": "指蘇聯"}
 
 543. Did they have any, as a result of the implosion of the Soviet Union, the data that came forward and a lot of their files, do you have any knowledge as to whether or not the Russians or the Soviets had a similar experience with their missiles?
-→ {"text": "由於蘇聯的解體，湧現出的數據和大量檔案，你們是否了解俄羅斯人或蘇聯人是否對他們的導彈有過類似的經歷？", "confidence": "high", "notes": ""}
+→ {"text": "由於蘇聯的解體，湧現出的資料和大量檔案，你們是否了解俄羅斯人或蘇聯人是否對他們的飛彈有過類似的經歷？", "confidence": "high", "notes": ""}
 
 544. Anyone that wants to answer that? We'll start with Captain Scott.
-→ {"text": "誰想回答這個問題？我們從斯科特上尉 (Captain Scott) 開始。", "confidence": "medium", "notes": "委員會主席提問，但 Scott 是技術士官非上尉，可能口誤"}
+→ {"text": "誰想回答這個問題？我們從斯科特士官開始。", "confidence": "high", "notes": "原文 Captain Scott 為主持人對軍銜的口誤（Scott 實為技術士官），中譯逕改士官（2026-08-11 人工裁決）"}
 
 545. I'll start with one that I think is in my book that I've given you a copy of.
 → {"text": "我先從一個我認為在我給過各位副本的書中的案例開始。", "confidence": "high", "notes": "Captain Salas 回答"}
@@ -136,7 +136,7 @@
 → {"text": "事實上，我認為 ABC 電視台有一個關於這起特定事件的專題節目。", "confidence": "high", "notes": ""}
 
 549. But as I recall, UFO came over and actually started their missile on the launch sequence.
-→ {"text": "但據我回憶，不明飛行物飛過來，實際上啟動了他們導彈的發射序列。", "confidence": "high", "notes": ""}
+→ {"text": "但據我回憶，不明飛行物飛過來，實際上啟動了他們飛彈的發射序列。", "confidence": "high", "notes": ""}
 
 550. And thankfully, it was shut down from that launch sequence.
 → {"text": "幸運的是，它從該發射序列中被關閉了。", "confidence": "high", "notes": ""}
@@ -145,19 +145,19 @@
 → {"text": "但確實有過，肯定有過蘇聯基地上空的目擊事件。", "confidence": "high", "notes": ""}
 
 552. There's a large, large quantity there also of incidents where UFOs were seen over missile bases.
-→ {"text": "在那裡也有大量的事件，UFO 被看到在導彈基地上空。", "confidence": "high", "notes": ""}
+→ {"text": "在那裡也有大量的事件，UFO 被看到在飛彈基地上空。", "confidence": "high", "notes": ""}
 
 553. Did they have the same effect that is stopping the ability of the missile to work through whatever device?
-→ {"text": "他們是否有相同的效果，也就是透過某種裝置阻止導彈工作的能力？", "confidence": "high", "notes": "委員追問"}
+→ {"text": "他們是否有相同的效果，也就是透過某種裝置阻止飛彈工作的能力？", "confidence": "high", "notes": "委員追問"}
 
 554. I'm not familiar with any specific case like that.
 → {"text": "我不熟悉任何那樣的具體案例。", "confidence": "high", "notes": ""}
 
 555. Okay. And Captain Fenstermacher, did you nod at your head like you had some knowledge in that?
-→ {"text": "好的。芬斯特馬赫上尉 (Captain Fenstermacher)，您點頭了，是不是對此有所了解？", "confidence": "high", "notes": ""}
+→ {"text": "好的。芬斯特馬赫上尉（Captain Fenstermacher），您點頭了，是不是對此有所了解？", "confidence": "high", "notes": ""}
 
 556. I saw the same report that Bob Salas had. I saw it on ABC.
-→ {"text": "我看到了 Bob Salas 看到的同一份報告。我在 ABC 上看到的。", "confidence": "high", "notes": "已修正 Salwas 拼寫錯誤"}
+→ {"text": "我看到了 勃·薩拉斯 看到的同一份報告。我在 ABC 上看到的。", "confidence": "high", "notes": "已修正 Salwas 拼寫錯誤"}
 
 557. And I've read other reports, but nothing quantifiable, you know.
 → {"text": "我讀過其他報告，但都沒有可量化的內容，你知道的。", "confidence": "high", "notes": ""}
@@ -190,10 +190,10 @@
 → {"text": "但顯然，是控制機制，你仍然可以啟動發射序列，但控制機制是被當時生效的任何力量中斷的部分。", "confidence": "medium", "notes": "句子結構較複雜"}
 
 567. So I was just curious that, you know, if there was a focus of attention on U.S. ICBMs, obviously extraterrestrial would have an interest in the Soviet ICBMs and also would have interest in ICBMs in the world today, not by other countries.
-→ {"text": "所以我只是好奇，你知道，如果關注焦點在美國洲際彈道導彈上，顯然外星的存在會對蘇聯洲際彈道導彈感興趣，也會對當今世界其他國家的洲際彈道導彈感興趣。", "confidence": "high", "notes": "extraterrestrial 用作形容詞"}
+→ {"text": "所以我只是好奇，你知道，如果關注焦點在美國的洲際彈道飛彈上，顯然外星生命也會對蘇聯的洲際彈道飛彈感興趣，也會對當今世界上其他國家的洲際彈道飛彈感興趣。", "confidence": "high", "notes": "原文 \"not by other countries\" 疑為 Whisper 誤轉，依語境理解為其他國家"}
 
 568. At the very end of the Soviet -- Richard, I was going to just come to you.
-→ {"text": "在蘇聯末期——Richard，我正要問你。", "confidence": "high", "notes": "委員轉向 Richard Dolan"}
+→ {"text": "在蘇聯末期——理查德，我正要問你。", "confidence": "high", "notes": "委員轉向 Richard Dolan"}
 
 569. Oh, I'm so sorry.
 → {"text": "哦，非常抱歉。", "confidence": "high", "notes": ""}
@@ -208,7 +208,7 @@
 → {"text": "這就像一個機會之窗，正如當時人們常說的那樣。", "confidence": "high", "notes": ""}
 
 573. And there were a number of cases, one at Kasputin Yar in 1989.
-→ {"text": "有許多案例，其中一個是 1989 年在 Kasputin Yar 的案例。", "confidence": "high", "notes": ""}
+→ {"text": "有許多案例，其中一個是 1989 年在卡普斯京亞爾（Kapustin Yar）的案例。", "confidence": "high", "notes": "原文拼寫 Kasputin Yar，標準拼寫 Kapustin Yar，蘇聯飛彈試驗場"}
 
 574. I don't think that involved nuclear, but that was a rocket launch facility.
 → {"text": "我不認為那涉及核武，但那是一個火箭發射設施。", "confidence": "high", "notes": ""}
@@ -244,13 +244,13 @@
 → {"text": "謝謝。我的時間到了。", "confidence": "high", "notes": ""}
 
 585. Thank you. Congresswoman Hooley.
-→ {"text": "謝謝。胡利女議員 (Congresswoman Hooley)。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝。胡利眾議員（Congresswoman Hooley）。", "confidence": "high", "notes": ""}
 
 586. Thank you, Madam Chair.
 → {"text": "謝謝，主席女士。", "confidence": "high", "notes": ""}
 
 587. I have some questions just in general, and maybe we'll start with Captain Salas.
-→ {"text": "我有一些一般性的問題，也許我們從薩拉斯上尉 (Captain Salas) 開始。", "confidence": "high", "notes": ""}
+→ {"text": "我有一些一般性的問題，也許我們從薩拉斯上尉（Captain Salas） 開始。", "confidence": "high", "notes": ""}
 
 588. These were all classified, and you took the oath that you wouldn't tell.
 → {"text": "這些都是機密的，你宣過誓不會說出去。", "confidence": "high", "notes": ""}
@@ -265,22 +265,22 @@
 → {"text": "我近 30 年沒有談論這件事。我遵守了我的誓言。", "confidence": "high", "notes": ""}
 
 592. In 1994, I happened to pick up a book called "Above Top Secret" by Timothy Goode.
-→ {"text": "1994 年，我碰巧拿起一本名為《絕密之上》(Above Top Secret) 的書，作者是 Timothy Goode。", "confidence": "high", "notes": ""}
+→ {"text": "1994 年，我碰巧拿起一本名為《Above Top Secret》的書，作者是提摩西·古德（Timothy Good）。", "confidence": "high", "notes": "書名無通行中譯，保留原文（意為「最高機密之上」）；原文 Timothy Goode 應為 Timothy Good（Whisper 誤轉）"}
 
 593. On page 301 of that book, it stated in a very short paragraph that missiles were shut down in Malsom Air Force Base during UFO sighting in 1967.
-→ {"text": "在那本書的第 301 頁，有一個非常簡短的段落指出，1967 年在 Malmstrom 空軍基地 UFO 目擊期間導彈被關閉了。", "confidence": "high", "notes": "Malsom 可能為轉錄錯誤"}
+→ {"text": "在那本書的第 301 頁，有一個非常簡短的段落指出，1967 年在 Malmstrom 空軍基地 UFO 目擊期間飛彈被關閉了。", "confidence": "high", "notes": "原文 Malsom 應為 Malmstrom（Whisper 誤轉）"}
 
 594. I immediately thought that that was my incident because it described it fairly well, and I decided to go ahead and request, under the Freedom of Information Act, information about that specific incident.
 → {"text": "我立即認為那是我的事件，因為它描述得相當好，我決定根據《資訊自由法》(Freedom of Information Act) 要求關於那起特定事件的資訊。", "confidence": "high", "notes": ""}
 
 595. They were talking about the echo flight shutdown because I thought that was my incident.
-→ {"text": "他們談論的是 Echo 飛行中隊關閉事件，因為我以為那是我的事件。", "confidence": "high", "notes": ""}
+→ {"text": "他們談論的是 Echo 飛行分隊關閉事件，因為我以為那是我的事件。", "confidence": "high", "notes": ""}
 
 596. So I didn't mention anything about UFOs when we sent the inquiry.
 → {"text": "所以當我們發送詢問時，我沒有提到任何關於 UFO 的事情。", "confidence": "high", "notes": ""}
 
 597. I just asked for, well, actually my researcher, James Klotz, who was with MUFON at the time, requested this information under FOIA.
-→ {"text": "我只是要求，嗯，實際上是我的研究員 James Klotz，當時在 MUFON（UFO 互動網絡）工作，根據 FOIA 要求這些資訊。", "confidence": "high", "notes": ""}
+→ {"text": "我只是要求，嗯，實際上是我的研究員詹姆斯·克洛茨（James Klotz），當時在 MUFON（UFO 互動網路）工作，根據 FOIA 要求這些資訊。", "confidence": "high", "notes": ""}
 
 598. The Air Force wrote back and said, you know, this incident is classified.
 → {"text": "空軍回信說，你知道，這起事件是機密的。", "confidence": "high", "notes": ""}
@@ -298,7 +298,7 @@
 → {"text": "我知道我不在與 Echo 同一個中隊，但我確實知道有時當他們人手不足時我們會幫忙。", "confidence": "high", "notes": ""}
 
 603. It wasn't until 1996 when I contacted my commander, Fred Mywall, that I realized I was at Oscar flight.
-→ {"text": "直到 1996 年，當我聯繫我的指揮官 Fred Mywald 時，我才意識到我在 Oscar 飛行中隊。", "confidence": "high", "notes": "Mywall 可能為 Mywald 的轉錄錯誤"}
+→ {"text": "直到 1996 年，當我聯繫我的指揮官弗雷德·邁沃爾德（Fred Mywald）時，我才意識到我在 Oscar 飛行分隊。", "confidence": "high", "notes": "原文 Mywall 應為 Mywald（Whisper 誤轉）"}
 
 604. And then I realized I'd been speaking out of turn, so to speak, because I had violated my oath by not speaking about my specific incident.
 → {"text": "然後我意識到我說錯了話，可以這麼說，因為我沒有談論我的特定事件而違反了我的誓言。", "confidence": "medium", "notes": "意思是他誤以為在談論已解密的 Echo 事件，實際上是在談論仍機密的 Oscar 事件"}
@@ -340,7 +340,7 @@
 → {"text": "也有其他人確實懷疑蘇聯。", "confidence": "high", "notes": ""}
 
 617. In fact, during the incident over Los Alamos that I mentioned earlier, there was speculation, wondering, could this have been a Soviet type of technology?
-→ {"text": "事實上，在我之前提到的洛斯阿拉莫斯 (Los Alamos) 上空的事件期間，有人推測，想知道這會不會是蘇聯類型的技術？", "confidence": "high", "notes": ""}
+→ {"text": "事實上，在我之前提到的洛斯阿拉莫斯（Los Alamos） 上空的事件期間，有人推測，想知道這會不會是蘇聯類型的技術？", "confidence": "high", "notes": ""}
 
 618. There's just no evidence for that.
 → {"text": "只是沒有證據支持這一點。", "confidence": "high", "notes": ""}
@@ -382,10 +382,10 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 631. Thank you, Congresswoman.
-→ {"text": "謝謝，女議員。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝，眾議員。", "confidence": "high", "notes": ""}
 
 632. Congressman Cook, please.
-→ {"text": "庫克眾議員 (Congressman Cook)，請。", "confidence": "high", "notes": ""}
+→ {"text": "庫克眾議員（Congressman Cook），請。", "confidence": "high", "notes": ""}
 
 633. Congressman Fenstermacher, unlike some of the other testimony here today, you said that you didn't wait too long before you started talking about it.
 → {"text": "芬斯特馬赫上尉，與今天在這裡的其他一些證詞不同，你說你沒有等太久就開始談論它。", "confidence": "high", "notes": "委員口誤稱 Congressman 應為 Captain"}
@@ -394,7 +394,7 @@
 → {"text": "我這樣理解對嗎？", "confidence": "high", "notes": ""}
 
 635. I just came forward after I saw Bob Salas.
-→ {"text": "我只是在看到 Bob Salas 之後才站出來。", "confidence": "high", "notes": "已修正 Salazar 拼寫錯誤"}
+→ {"text": "我只是在看到 勃·薩拉斯 之後才站出來。", "confidence": "high", "notes": "已修正 Salazar 拼寫錯誤"}
 
 636. Oh, excuse me.
 → {"text": "哦，對不起。", "confidence": "high", "notes": ""}
@@ -412,7 +412,7 @@
 → {"text": "但你有沒有——我以為我聽到了什麼，顯然我聽錯了。", "confidence": "high", "notes": ""}
 
 641. But the reason I'm asking this is because I want to ask you all each about the Air Force Project Blue Book.
-→ {"text": "但我問這個的原因是因為我想問你們每個人關於空軍藍皮書計畫 (Project Blue Book) 的事情。", "confidence": "high", "notes": ""}
+→ {"text": "但我問這個的原因是因為我想問你們每個人關於空軍藍皮書計畫（Project Blue Book） 的事情。", "confidence": "high", "notes": ""}
 
 642. Blue Book was being done -- you know, there's a lot of money spent on Project Blue Book by the Air Force during, what, the '47 to '69 period.
 → {"text": "藍皮書計畫正在進行——你知道，空軍在藍皮書計畫上花了很多錢，在什麼，1947 到 1969 年期間。", "confidence": "high", "notes": ""}
@@ -430,7 +430,7 @@
 → {"text": "讓我確認一下我理解了。", "confidence": "high", "notes": ""}
 
 647. I think the ear of your -- what you saw witnessed -- Seventy-six.
-→ {"text": "我想你們的——你們所看到目擊的年份——76 年。", "confidence": "medium", "notes": "ear 可能為 year 的轉錄錯誤"}
+→ {"text": "我想你們的——你們所看到目擊的年份——76 年。", "confidence": "medium", "notes": "原文 ear 應為 year（Whisper 誤轉）"}
 
 648. Seventy-six.
 → {"text": "76 年。", "confidence": "high", "notes": "Fenstermacher 確認"}
@@ -481,13 +481,13 @@
 → {"text": "所以再次，我有證據證明這一點。", "confidence": "high", "notes": ""}
 
 664. So no, when the Conant investigator came to Malmstrom Air Force Base to talk to our deputy base commander, Colonel Chase, Colonel Chase said this was a classified incident, you could not review the report.
-→ {"text": "所以不，當康登調查員 (Condon investigator) 來到 Malmstrom 空軍基地與我們的副基地指揮官蔡斯上校 (Colonel Chase) 交談時，蔡斯上校說這是一起機密事件，你不能查閱報告。", "confidence": "high", "notes": "Conant 可能為 Condon 的轉錄錯誤"}
+→ {"text": "所以不，當康登調查員（Condon investigator） 來到 Malmstrom 空軍基地與我們的副基地指揮官蔡斯上校（Colonel Chase） 交談時，蔡斯上校說這是一起機密事件，你不能查閱報告。", "confidence": "high", "notes": "原文 Conant 應為 Condon（Whisper 誤轉）"}
 
 665. So they put it in a classified Blue Book file at the time.
 → {"text": "所以他們當時把它放在機密的藍皮書計畫檔案中。", "confidence": "high", "notes": ""}
 
 666. And do you have any feeling on the same question, Captain Scindelli?
-→ {"text": "辛德利上尉 (Captain Scindelli)，你對同一個問題有什麼看法？", "confidence": "high", "notes": "已修正 Schindl 拼寫錯誤"}
+→ {"text": "辛德利上尉（Captain Scindelli），你對同一個問題有什麼看法？", "confidence": "high", "notes": "已修正 Schindl 拼寫錯誤"}
 
 667. At the time I knew nothing about Blue Book per se.
 → {"text": "當時我對藍皮書計畫本身一無所知。", "confidence": "high", "notes": ""}
@@ -502,7 +502,7 @@
 → {"text": "然後我了解了藍皮書計畫，然後我發現了《週六晚郵報》(Saturday Evening Post) 上的這篇文章。", "confidence": "high", "notes": ""}
 
 671. And I find out about Val Smith, who's in my squadron.
-→ {"text": "我發現了 Val Smith，他在我的中隊。", "confidence": "high", "notes": ""}
+→ {"text": "我發現了瓦爾·史密斯（Val Smith），他在我的中隊。", "confidence": "high", "notes": ""}
 
 672. And then I find out about released documents from the Air Force that mention his name.
 → {"text": "然後我發現空軍公佈的文件中提到了他的名字。", "confidence": "high", "notes": ""}
@@ -541,22 +541,22 @@
 → {"text": "或者你們有沒有，可以給我們你們的意見，完全是意見，為什麼藍皮書計畫被停止了？", "confidence": "high", "notes": ""}
 
 684. Yes, Mr. Cook.
-→ {"text": "是的，庫克先生 (Mr. Cook)。", "confidence": "high", "notes": "Salas 回答"}
+→ {"text": "是的，庫克先生（Mr. Cook）。", "confidence": "high", "notes": "Salas 回答"}
 
 685. I alluded to it in my statement.
 → {"text": "我在我的陳述中提到了這一點。", "confidence": "high", "notes": ""}
 
 686. The Condon investigation, which was supposed to look into the UFO question for the Air Force, was a whitewash.
-→ {"text": "康登調查 (Condon investigation)，本應為空軍調查 UFO 問題，是一次粉飾。", "confidence": "high", "notes": ""}
+→ {"text": "康登調查（Condon investigation），本應為空軍調查 UFO 問題，是一次粉飾。", "confidence": "high", "notes": ""}
 
 687. It was intended to allow the Air Force to wash its hands of the UFO question.
 → {"text": "它旨在讓空軍擺脫 UFO 問題。", "confidence": "high", "notes": ""}
 
 688. And I have evidence of that. The evidence that I have is the fact that Dr. Craig, who was the chief investigator for Condon, was given information about the Echo and Oscar flight shutdowns. He was given names and dates, et cetera.
-→ {"text": "我有證據證明這一點。我擁有的證據是克雷格博士 (Dr. Craig)，康登調查的首席調查員，被給予了關於 Echo 和 Oscar 飛行中隊關閉的資訊。他被給予了姓名和日期等等。", "confidence": "high", "notes": ""}
+→ {"text": "我有證據證明這一點。我擁有的證據是克雷格博士（Dr. Craig），康登調查的首席調查員，被給予了關於 Echo 和 Oscar 飛行分隊關閉的資訊。他被給予了姓名和日期等等。", "confidence": "high", "notes": ""}
 
 689. And never followed up on it. The Condon investigators never followed up on it. Robert Lowe never followed up on it. It was never mentioned. And that's because it was classified.
-→ {"text": "但從未跟進。康登調查員從未跟進。Robert Low 從未跟進。它從未被提及。那是因為它是機密的。", "confidence": "high", "notes": "Robert Lowe 可能為 Low 的拼寫錯誤"}
+→ {"text": "但從未跟進。康登調查員從未跟進。羅伯特·洛從未跟進。它從未被提及。那是因為它是機密的。", "confidence": "high", "notes": "原文 Robert Lowe，歷史人物實為 Robert Low"}
 
 690. I would like to just answer your question very quickly. I can give you the quick lowdown on Blue Book.
 → {"text": "我想很快回答您的問題。我可以給您藍皮書計畫的快速概述。", "confidence": "high", "notes": "Dolan 回答"}
@@ -571,7 +571,7 @@
 → {"text": "那一年他們的未知案例百分比相當高。幾乎達到 25%。", "confidence": "high", "notes": ""}
 
 694. The order came down after the CIA sponsored Robertson Panel, which was at the very end of the Truman administration, to say, that's too high.
-→ {"text": "在 CIA 贊助的羅伯森調查小組 (Robertson Panel) 之後，也就是在杜魯門政府的最後期間，命令下來說，這太高了。", "confidence": "high", "notes": ""}
+→ {"text": "在 CIA 贊助的羅伯森調查小組（Robertson Panel） 之後，也就是在杜魯門政府的最後期間，命令下來說，這太高了。", "confidence": "high", "notes": ""}
 
 695. That this problem is too big and we need to knock UFOs out of the public mind. And Blue Book was then gutted and stripped of really all capabilities. And for the rest of its existence, it had no more than a staff of about four or five people with no capability and on strict orders.
 → {"text": "這個問題太大了，我們需要把 UFO 從公眾的腦海中剔除。然後藍皮書計畫被掏空並被剝奪了真正所有的能力。在它存在的其餘時間裡，它只有大約四五個人的工作人員，沒有能力並且受到嚴格命令。", "confidence": "high", "notes": ""}
@@ -586,13 +586,13 @@
 → {"text": "主席，一個快速的後續問題，只需要十秒鐘回答。", "confidence": "high", "notes": "委員請求"}
 
 699. Is your opinion then, Mr. Dolan, that the Air Force is more reluctant even today than they were during that period of '52 to '67 to even talk about or discuss or take information from captains and sergeants and colonels and even generals, any kind of pilots and so on, than they were then?
-→ {"text": "那麼，多蘭先生 (Mr. Dolan)，你的意見是，空軍今天甚至比他們在 1952 到 1967 年期間更不願意談論或討論或從上尉、士官、上校甚至將軍、任何類型的飛行員等那裡獲取資訊嗎？", "confidence": "high", "notes": ""}
+→ {"text": "那麼，多蘭先生（Mr. Dolan），你的意見是，空軍今天甚至比他們在 1952 到 1967 年期間更不願意談論或討論或從上尉、士官、上校甚至將軍、任何類型的飛行員等那裡獲取資訊嗎？", "confidence": "high", "notes": ""}
 
 700. Absolutely, I believe that. This is a complete nightmare for them to deal with.
 → {"text": "絕對的，我相信。這對他們來說是一場完全的噩夢。", "confidence": "high", "notes": ""}
 
 701. Our final presenter before our break, our ten minute break or so, will be Congresswoman Wolsey. Well, I was sitting here, thank you, all five of you, and Steve who was there before you, getting really uncomfortable about the position this has put you in all these years.
-→ {"text": "我們休息前的最後一位發言人，我們的十分鐘左右的休息，將是伍爾西女議員 (Congresswoman Woolsey)。嗯，我坐在這裡，謝謝你們五位，以及在你們之前的 Steve，對這些年來這讓你們處於的位置感到非常不舒服。", "confidence": "high", "notes": "Wolsey 可能拼寫為 Woolsey"}
+→ {"text": "我們休息前的最後一位發言人，我們的十分鐘左右的休息，將是伍爾西眾議員（Congresswoman Woolsey）。嗯，我坐在這裡，謝謝你們五位，以及在你們之前的 Steve，對這些年來這讓你們處於的位置感到非常不舒服。", "confidence": "high", "notes": "Wolsey 可能拼寫為 Woolsey"}
 
 702. And honoring you in my heart for getting past that and getting here today and knowing that was not an easy thing to do.
 → {"text": "我在心中向你們致敬，因為你們克服了這一點並來到這裡，知道這不是一件容易的事。", "confidence": "high", "notes": ""}
@@ -601,7 +601,7 @@
 → {"text": "但我想回顧一下為什麼是這個小組，為什麼我們都是退休的國會議員？", "confidence": "high", "notes": ""}
 
 704. Well, you know what? We don't have a lot to lose. But it would be, this would be one of the issues that a sitting member would risk losing an election over. 60 second, I mean, ad. And clearance, yeah, to find out data that you have to have clearance for.
-→ {"text": "嗯，你知道嗎？我們沒有太多可失去的。但這將是，這將是現任議員可能會因此失去選舉的問題之一。60 秒，我的意思是，廣告。還有許可，是的，要找出你必須有許可才能知道的數據。", "confidence": "medium", "notes": "句子結構較鬆散，口語化"}
+→ {"text": "嗯，你知道嗎？我們沒有太多可失去的。但這將是，這將是現任議員可能會因此失去選舉的問題之一。60 秒，我的意思是，廣告。還有許可，是的，要找出你必須有許可才能知道的資料。", "confidence": "medium", "notes": "句子結構較鬆散，口語化"}
 
 705. And but then that was the third piece of this is to me and I feel maybe I'm being too optimistic. I think this week is going to change the feeling and respect that the common constituent, the regular member of our country, the population, the populace.
 → {"text": "但那是這個的第三部分，對我來說，我覺得也許我太樂觀了。我認為這一周將改變普通選民、我國的普通成員、人口、民眾的感受和尊重。", "confidence": "medium", "notes": "句子結構較鬆散"}
@@ -619,13 +619,13 @@
 → {"text": "我會說，嗯，不管是不是，我會去找出為什麼我們無法找出答案。他們可以指望，你知道，我會這樣做。但我不確定如果我是現任議員我會這樣做。我必須對你們誠實。", "confidence": "high", "notes": ""}
 
 710. Ms. Woolsey, may I make a comment? For the last year, we have been sending documents, myself and Mr. Victor Viggiani of ZlandCommunications have been sending documents to Representative Peter King of New York.
-→ {"text": "伍爾西女士 (Ms. Woolsey)，我可以發表評論嗎？在過去的一年裡，我們一直在發送文件，我和 ZlandCommunications 的 Victor Viggiani 先生一直在向紐約州眾議員 Peter King 發送文件。", "confidence": "high", "notes": "已修正 Bigliani/Zeeland 拼寫錯誤"}
+→ {"text": "伍爾西女士，我可以發表評論嗎？在過去的一年裡，我們一直在發送文件，我和 ZlandCommunications 的維克多·維吉亞尼（Victor Viggiani）先生一直在向紐約州眾議員彼得·金（Peter King）發送文件。", "confidence": "high", "notes": "已修正 Bigliani/Zeeland 拼寫錯誤"}
 
 711. He's got all the documents. He's got my book. He knows my story, but he has not acted on it.
 → {"text": "他有所有文件。他有我的書。他知道我的故事，但他沒有採取行動。", "confidence": "high", "notes": ""}
 
 712. I've also briefed Congressman Rohrabacher, a congressman from California. I think he's still in Congress.
-→ {"text": "我還向加州眾議員羅拉巴克 (Congressman Rohrabacher) 作了簡報。我想他還在國會。", "confidence": "high", "notes": ""}
+→ {"text": "我還向加州眾議員羅拉巴克（Congressman Rohrabacher） 作了簡報。我想他還在國會。", "confidence": "high", "notes": ""}
 
 713. Yes, he is.
 → {"text": "是的，他是。", "confidence": "high", "notes": ""}

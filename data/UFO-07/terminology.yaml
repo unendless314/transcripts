@@ -181,6 +181,25 @@ terms:
     segments:
     - 8
     notes: Oscar Launch Control Center事件主要證人，揭露空軍刻意隱瞞資訊不讓Condon委員會知情
+- term: Colonel Walter Figel
+  senses:
+  - id: figel_echo_commander
+    definition: Echo Flight前副飛彈組指揮官，1967年3月16日飛彈關閉事件當事人，退役上校
+    preferred_translation: 沃爾特·菲格爾上校
+    segments:
+    - 48
+    - 51
+    - 75
+    - 96
+    notes: 2026-08-11 人工還原音訊確認：聽證會播放的第一段 1996 年電話錄音為 Figel 上校（Whisper 原稿誤歸為 Mywald）。譯名無網路流通，採台灣音譯（人工裁決）
+- term: Ms. Solis
+  senses:
+  - id: solis_committee
+    definition: 聽證會委員會成員，錄音播放後向 Salas 提問
+    preferred_translation: 索利斯女士
+    segments:
+    - 94
+    notes: 2026-08-11 人工還原音訊中出現
 - term: Malmstrom Air Force Base
   senses:
   - id: malmstrom_afb
@@ -218,7 +237,7 @@ terms:
   senses:
   - id: echo_flight_incident
     definition: 1967年3月16日Malmstrom空軍基地Echo Flight的十枚飛彈關閉事件
-    preferred_translation: Echo飛行中隊事件
+    preferred_translation: Echo飛行分隊事件
     segments:
     - 47
     - 134
@@ -293,8 +312,8 @@ terms:
 - term: November Flight
   senses:
   - id: november_flight
-    definition: Minot空軍基地November飛行中隊
-    preferred_translation: November飛行中隊
+    definition: Minot空軍基地November飛行分隊
+    preferred_translation: November飛行分隊
     segments:
     - 194
     - 196

@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 387. So, some things they just don't know, but we're going to take it to them. Okay? [applause] Mr. Dolan. Thank you, Madam Chair and committee.
-→ {"text": "所以，有些事情他們就是不知道，但我們會把真相告訴他們。好嗎？[掌聲] Dolan 先生。謝謝主席女士與各位委員。", "confidence": "high", "notes": "已修正 Whisper 錯誤（原為 Mr. Doley）"}
+→ {"text": "所以，有些事情他們就是不知道，但我們會把真相告訴他們。好嗎？[掌聲] 多蘭先生（Mr. Dolan）。謝謝主席女士與各位委員。", "confidence": "high", "notes": "已修正 Whisper 錯誤（原為 Mr. Doley）"}
 
 388. I am not a former member of the United States military, but I have devoted my life to researching the matter of UFOs and national security.
 → {"text": "我不是美國軍方的前成員，但我一生都致力於研究不明飛行物與國家安全的議題。", "confidence": "high", "notes": ""}
@@ -13,7 +13,7 @@
 → {"text": "它們顯然對此感興趣，即使不總是干預，但絕對是感興趣的。", "confidence": "high", "notes": ""}
 
 391. We're fortunate in having obtained a few items of interest through the Freedom of Information Act.
-→ {"text": "我們很幸運透過資訊自由法 (Freedom of Information Act) 取得了一些有趣的資料。", "confidence": "high", "notes": ""}
+→ {"text": "我們很幸運透過資訊自由法（Freedom of Information Act） 取得了一些有趣的資料。", "confidence": "high", "notes": ""}
 
 392. It's obvious that much remains beyond our reach, but what we have is definitely of interest.
 → {"text": "顯然還有許多資料仍然無法取得，但我們所擁有的絕對值得關注。", "confidence": "high", "notes": ""}
@@ -25,25 +25,25 @@
 → {"text": "這是一份來自可信證人的書面記錄，確實相當引人入勝。", "confidence": "high", "notes": ""}
 
 395. This is from a U.S. Navy officer named Byron D. Varner, who wrote a privately published book.
-→ {"text": "這來自一位名叫 Byron D. Varner 的美國海軍軍官，他撰寫了一本私人出版的書籍。", "confidence": "high", "notes": ""}
+→ {"text": "這來自一位名叫拜倫·D·瓦爾納（Byron D. Varner）的美國海軍軍官，他撰寫了一本私人出版的書籍。", "confidence": "high", "notes": ""}
 
 396. It's called "Living on the Edge--An American War Hero's Daring Feats as a Navy Fighter Pilot, Civilian Test Pilot, and CIA Mercenary."
-→ {"text": "書名是《生活在邊緣——一位美國戰爭英雄作為海軍戰鬥機飛行員、民間試飛員與 CIA 傭兵的大膽事蹟》。", "confidence": "high", "notes": ""}
+→ {"text": "書名是《Living on the Edge——An American War Hero's Daring Feats as a Navy Fighter Pilot, Civilian Test Pilot, and CIA Mercenary》。", "confidence": "high", "notes": "書名無通行中譯，依準則保留原文；原譯「生活在邊緣——一位美國戰爭英雄作為海軍戰鬥機飛行員、民間試飛員與 CIA 傭兵的大膽事蹟」"}
 
 397. There's an interesting title for you.
 → {"text": "這對各位來說是個有趣的書名。", "confidence": "high", "notes": ""}
 
 398. The book includes a UFO encounter by another Navy pilot, a man named Roland Powell.
-→ {"text": "書中記載了另一位海軍飛行員遭遇 UFO 的經歷，這位飛行員名叫 Roland Powell。", "confidence": "high", "notes": ""}
+→ {"text": "書中記載了另一位海軍飛行員遭遇 UFO 的經歷，這位飛行員名叫羅蘭·鮑威爾（Roland Powell）。", "confidence": "high", "notes": ""}
 
 399. Both of these gentlemen were interviewed at length by the then head of the Mutual UFO Network, Mr. Walter Andrus.
-→ {"text": "這兩位先生都曾接受當時 UFO 互動網絡 (Mutual UFO Network) 負責人 Walter Andrus 先生的詳細訪談。", "confidence": "high", "notes": ""}
+→ {"text": "這兩位先生都曾接受當時 UFO 互動網路（Mutual UFO Network）負責人沃爾特·安德魯斯先生（Walter Andrus）的詳細訪談。", "confidence": "high", "notes": ""}
 
 400. Mutual UFO Network, or MUFON, is the largest civilian UFO organization in the U.S., has been for years.
-→ {"text": "UFO 互動網絡，簡稱 MUFON，多年來一直是美國最大的民間 UFO 組織。", "confidence": "high", "notes": ""}
+→ {"text": "UFO 互動網路，簡稱 MUFON，多年來一直是美國最大的民間 UFO 組織。", "confidence": "high", "notes": ""}
 
 401. So here's what happened. In July 1945, near the close of the Pacific War, the Hanford Atomic Facility, located in the state of Washington, one of the key elements of America's new nuclear infrastructure was there.
-→ {"text": "事情是這樣的。1945 年 7 月，接近太平洋戰爭尾聲時，位於華盛頓州的漢福德原子設施 (Hanford Atomic Facility)，美國新核武基礎設施的關鍵要素之一就在那裡。", "confidence": "high", "notes": ""}
+→ {"text": "事情是這樣的。1945 年 7 月，接近太平洋戰爭尾聲時，位於華盛頓州的漢福德原子設施（Hanford Atomic Facility），美國新核武基礎設施的關鍵要素之一就在那裡。", "confidence": "high", "notes": ""}
 
 402. Now, although at this time no one was expecting a Japanese threat to it as the end of the war was near, but there were still standby aircraft armed and ready at all times just in case anything were to happen.
 → {"text": "當時，儘管由於戰爭即將結束，沒有人預期會有日本的威脅，但仍然有待命飛機隨時武裝就緒，以防萬一發生任何狀況。", "confidence": "high", "notes": ""}
@@ -58,7 +58,7 @@
 → {"text": "它的高度非常高。起初沒有人能用肉眼看見它，只能在雷達上看到。", "confidence": "high", "notes": ""}
 
 406. Six pilots flying Grumman F6F Hellcats were sent up. Finally, they saw it, and they flew to intercept it.
-→ {"text": "六名駕駛格魯曼 F6F 地獄貓戰鬥機 (Grumman F6F Hellcats) 的飛行員被派遣升空。最後，他們看到了它，並飛去攔截。", "confidence": "high", "notes": ""}
+→ {"text": "六名駕駛格魯曼 F6F 地獄貓戰鬥機（Grumman F6F Hellcats） 的飛行員被派遣升空。最後，他們看到了它，並飛去攔截。", "confidence": "high", "notes": ""}
 
 407. It was estimated to be about 65,000 feet, very, very high up.
 → {"text": "估計它的高度約為 65,000 英呎，非常非常高。", "confidence": "high", "notes": ""}
@@ -67,7 +67,7 @@
 → {"text": "沒有人能辨認出它是什麼。根據書中描述，它具有「類似碟形的外觀，明亮、速度非常快、高度非常高」。", "confidence": "high", "notes": ""}
 
 409. The pilot, Roland Powell, later described this object to be as large as "three aircraft carriers, side-by-side, oval-shaped, very streamlined, like a stretched-out egg, and pinkish in color."
-→ {"text": "飛行員 Roland Powell 後來描述這個物體的大小如同「三艘航空母艦並排放置，橢圓形，非常流線型，像一顆拉長的蛋，顏色呈粉紅色」。", "confidence": "high", "notes": ""}
+→ {"text": "飛行員 鮑威爾 後來描述這個物體的大小如同「三艘航空母艦並排放置，橢圓形，非常流線型，像一顆拉長的蛋，顏色呈粉紅色」。", "confidence": "high", "notes": ""}
 
 410. He said it gave out a kind of vapor around the outside edges, he believed, from portholes or vents, and he speculated that the vapor was being discharged to form a cloud as a disguise.
 → {"text": "他說它在外緣周圍散發出一種蒸氣，他相信是從舷窗或通風口排出，他推測這些蒸氣被排放出來形成雲層作為偽裝。", "confidence": "high", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "飛行員們對它的懸停能力感到相當驚訝。", "confidence": "high", "notes": ""}
 
 418. Finally, some engines, according to Roland Powell, did begin to fail.
-→ {"text": "根據 Roland Powell 的說法，最後有些引擎確實開始故障。", "confidence": "high", "notes": ""}
+→ {"text": "根據 鮑威爾 的說法，最後有些引擎確實開始故障。", "confidence": "high", "notes": ""}
 
 419. Fuel consumption got critical, and the planes returned to base.
 → {"text": "燃料消耗達到臨界狀態，飛機返回基地。", "confidence": "high", "notes": ""}
@@ -115,7 +115,7 @@
 → {"text": "然而，我們確實擁有許多解密的政府文件，描述在早期原子時代於美國核設施上空目擊 UFO 的事件。", "confidence": "high", "notes": ""}
 
 425. Several from the FBI describe a series of events over and near Los Alamos.
-→ {"text": "其中幾份來自 FBI 的文件描述了在洛斯阿拉莫斯 (Los Alamos) 上空及附近發生的一系列事件。", "confidence": "high", "notes": ""}
+→ {"text": "其中幾份來自 FBI 的文件描述了在洛斯阿拉莫斯（Los Alamos） 上空及附近發生的一系列事件。", "confidence": "high", "notes": ""}
 
 426. This is, again, another central component of America's nuclear program.
 → {"text": "這同樣是美國核武計畫的另一個核心組成部分。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "在那個月，事件發生在 5 日、6 日、7 日、8 日、11 日、13 日、14 日、20 日和 28 日。", "confidence": "high", "notes": ""}
 
 430. The witnesses were all very high caliber. We're talking special agents of OSI, airline pilots, military pilots, Los Alamos security inspectors.
-→ {"text": "證人的可信度都非常高。我們談的是特別調查處 (OSI) 的特別探員、航空公司飛行員、軍方飛行員、洛斯阿拉莫斯安全檢查員。", "confidence": "high", "notes": ""}
+→ {"text": "證人的可信度都非常高。我們談的是空軍特別調查辦公室（OSI）的特別探員、航空公司飛行員、軍方飛行員、洛斯阿拉莫斯安全檢查員。", "confidence": "high", "notes": ""}
 
 431. There was some speculation that these objects might have been Soviet, but there were no reasons offered, no evidence offered.
 → {"text": "有人推測這些物體可能是蘇聯的，但沒有提供任何理由，也沒有提供任何證據。", "confidence": "high", "notes": ""}
@@ -169,10 +169,10 @@
 → {"text": "直到今天，我們仍不知道這些物體是什麼。", "confidence": "high", "notes": ""}
 
 443. Another key place where the U.S. developed its atomic technologies was at Oak Ridge, Tennessee.
-→ {"text": "美國發展原子技術的另一個關鍵地點是田納西州橡樹嶺 (Oak Ridge， Tennessee)。", "confidence": "high", "notes": ""}
+→ {"text": "美國發展原子技術的另一個關鍵地點是田納西州橡樹嶺（Oak Ridge， Tennessee）。", "confidence": "high", "notes": ""}
 
 444. Here's where the Manhattan Project had established a pilot plant to produce plutonium.
-→ {"text": "曼哈頓計畫 (Manhattan Project) 就是在這裡建立了生產鈽的試驗工廠。", "confidence": "high", "notes": ""}
+→ {"text": "曼哈頓計畫（Manhattan Project） 就是在這裡建立了生產鈽的試驗工廠。", "confidence": "high", "notes": ""}
 
 445. UFOs were reported there as well.
 → {"text": "那裡也有 UFO 的報告。", "confidence": "high", "notes": ""}
@@ -280,10 +280,10 @@
 → {"text": "讓我讀一下這段簡短的聲明。", "confidence": "high", "notes": ""}
 
 480. "Since 30 July 1950, objects round in form have been sighted over the Hanford AEC plant."
-→ {"text": "「自 1950 年 7 月 30 日以來，在漢福德原子能委員會 (AEC) 工廠上空目擊到圓形物體。」", "confidence": "high", "notes": ""}
+→ {"text": "「自 1950 年 7 月 30 日以來，在漢福德原子能委員會（AEC） 工廠上空目擊到圓形物體。」", "confidence": "high", "notes": ""}
 
 481. That's Atomic Energy Commission plan.
-→ {"text": "那就是原子能委員會工廠。", "confidence": "high", "notes": ""}
+→ {"text": "那就是原子能委員會工廠。", "confidence": "high", "notes": "原文 plan 應為 plant（Whisper 誤轉）"}
 
 482. "Air Force jets attempted interception with negative results.
 → {"text": "「空軍噴射機嘗試攔截，結果無功而返。", "confidence": "high", "notes": ""}

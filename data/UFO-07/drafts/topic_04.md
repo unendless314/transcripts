@@ -1,10 +1,10 @@
 ## Speaker Group 1
 
 301. Fenstermacher.
-→ {"text": "Fenstermacher。", "confidence": "high", "notes": ""}
+→ {"text": "芬斯特馬赫。（Fenstermacher）", "confidence": "high", "notes": ""}
 
 302. Fenstermacher.
-→ {"text": "Fenstermacher。", "confidence": "high", "notes": ""}
+→ {"text": "芬斯特馬赫。（Fenstermacher）", "confidence": "high", "notes": ""}
 
 303. You're on, Captain. Thank you for coming.
 → {"text": "上尉，請開始。感謝您的到來。", "confidence": "high", "notes": ""}
@@ -34,7 +34,7 @@
 → {"text": "1976 年秋天，我的副手和我在 Romeo 發射設施（LCF）值勤。", "confidence": "high", "notes": ""}
 
 312. The LCF was the part of Romeo that was above the ground, as we saw with David Scindelli, and the launch control capsule was the one that we took an elevator down to.
-→ {"text": "發射設施是 Romeo 的地面部分，就像我們剛才在 David Scindelli 那裡看到的，而發射控制艙室則是我們搭電梯下去的地方。", "confidence": "high", "notes": "已修正 Whisper 錯誤 Schindley 改為 Scindelli"}
+→ {"text": "發射設施是 Romeo 的地面部分，就像我們剛才在大衛·辛德利（David Scindelli）那裡看到的，而發射控制艙室則是我們搭電梯下去的地方。", "confidence": "high", "notes": "已修正 Whisper 錯誤 Schindley 改為 Scindelli"}
 
 313. It was located 60 feet below the ground and behind an 8-ton door, so we were pretty secure in there.
 → {"text": "它位於地下 60 英呎，在一扇 8 噸重的門後面，所以我們在裡面相當安全。", "confidence": "high", "notes": ""}
@@ -43,7 +43,7 @@
 → {"text": "為了保持清醒，我的副手和我監聽著我們的安全警戒小組的甚高頻無線電通訊，我們親切地稱他們為「警察」（COPS）。", "confidence": "high", "notes": ""}
 
 315. David was one of them, David Scott, and between our flight security controller, FSC, our topside NCO.
-→ {"text": "David 是其中之一，David Scott，以及我們的飛行安全管制員（FSC），我們的地面士官。", "confidence": "high", "notes": ""}
+→ {"text": "大衛是其中之一，大衛·斯科特，以及我們的飛行安全管制員（FSC），我們的地面士官。", "confidence": "high", "notes": ""}
 
 316. The SAT team was out doing their regular routine checks. I think they were responding to one of those jackrabbits at one of our launch facilities.
 → {"text": "安全警戒小組（SAT）正在外面進行例行檢查。我想他們正在回應我們某個發射設施的野兔警報之類的。", "confidence": "high", "notes": "野兔常觸發感應器造成誤報"}
@@ -115,10 +115,10 @@
 → {"text": "除了在正式日誌中記錄一切之外，我的副手和我（我們都有服役經歷，意思是在成為軍官之前曾是士兵）開始做個人筆記。除了正式記錄，我們想記錄發生的一切。", "confidence": "high", "notes": ""}
 
 339. At our next hourly 400th SMS crew check for the flights Papa, Quebec, Romeo, Sierra, and Tango, we told the other crew members what our object had done and received laughter and an attitude of general disbelief.
-→ {"text": "在我們下一次第 400 戰略飛彈中隊的每小時組員檢查時，針對 Papa、Quebec、Romeo、Sierra 和 Tango 飛行中隊，我們告訴其他組員我們看到的物體做了什麼，卻收到嘲笑和普遍的不相信態度。", "confidence": "high", "notes": ""}
+→ {"text": "在我們下一次第 400 戰略飛彈中隊的每小時組員檢查時，針對 Papa、Quebec、Romeo、Sierra 和 Tango 飛行分隊，我們告訴其他組員我們看到的物體做了什麼，卻收到嘲笑和普遍的不相信態度。", "confidence": "high", "notes": ""}
 
 340. What are you guys crazy? Right after the group communication, the crew from Quebec called.
-→ {"text": "你們瘋了嗎？就在集體通訊結束後，Quebec 飛行中隊的組員打來電話。", "confidence": "high", "notes": ""}
+→ {"text": "你們瘋了嗎？就在集體通訊結束後，Quebec 飛行分隊的組員打來電話。", "confidence": "high", "notes": ""}
 
 341. They were the team we had dropped off on the way to Romeo and said that earlier that morning they had a similar object above a couple of their launch facilities.
 → {"text": "他們是我們在前往 Romeo 途中送達的組員，他們說當天早上稍早時在他們的幾個發射設施上方看到了類似的物體。", "confidence": "high", "notes": ""}
@@ -130,7 +130,7 @@
 → {"text": "我們問他們報告時發生了什麼，他們說：「你瘋了嗎？我們沒有報告。我們會被嘲笑的。」", "confidence": "high", "notes": ""}
 
 344. Well, he was right about that. They also mentioned that the SAT team that they had sent to one of the LFs had had an accident leaving the LF, and the Quebec crew seemed to find humor in that sad accident, and that's important for what happens a few years later.
-→ {"text": "嗯，他說得對。他們還提到他們派往其中一個發射設施的安全警戒小組在離開發射設施時發生了事故，Quebec 飛行中隊的組員似乎對那起悲傷的事故感到有趣，這對幾年後發生的事情很重要。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，他說得對。他們還提到他們派往其中一個發射設施的安全警戒小組在離開發射設施時發生了事故，Quebec 飛行分隊的組員似乎對那起悲傷的事故感到有趣，這對幾年後發生的事情很重要。", "confidence": "high", "notes": ""}
 
 345. We contacted the FE Warren SAC command post again several times and reported, "Have you logged this yet?"
 → {"text": "我們多次再度聯繫 F.E. Warren 的戰略空軍司令部指揮所並報告：「你們記錄這件事了嗎？」", "confidence": "high", "notes": ""}
@@ -148,10 +148,10 @@
 → {"text": "我們的飛行安全管制員持續向我們更新每次移動的情況，並報告說大約在凌晨四點，它迅速移動變成星星大小的物體，然後消失了。", "confidence": "high", "notes": ""}
 
 350. At no time did our missiles go offline, though. At no time did our missiles go offline, and I now understand why. Only recent information came out for that.
-→ {"text": "不過，我們的導彈從未失效。我們的導彈從未失效，我現在明白為什麼了。只是最近才有相關資訊出現。", "confidence": "high", "notes": ""}
+→ {"text": "不過，我們的飛彈從未失效。我們的飛彈從未失效，我現在明白為什麼了。只是最近才有相關資訊出現。", "confidence": "high", "notes": ""}
 
 351. Meanwhile, back in 1976, the next morning, we were relieved by another crew for a normal return to LFE Warren, and when we went topside, we found the FSC curled up in a chair in kind of a fetal position.
-→ {"text": "與此同時，回到 1976 年，隔天早上，我們被另一組人員接班，正常返回 F.E. Warren，當我們回到地面時，我們發現飛行安全管制員蜷縮在椅子上，呈現胎兒姿勢。", "confidence": "high", "notes": ""}
+→ {"text": "與此同時，回到 1976 年，隔天早上，我們被另一組人員接班，正常返回 F.E. Warren，當我們回到地面時，我們發現飛行安全管制員蜷縮在椅子上，呈現胎兒姿勢。", "confidence": "high", "notes": "原文 LFE Warren 應為 F.E. Warren（Whisper 誤轉）"}
 
 352. He had been relieved by the day FSC, but was not able to sleep and obviously was very distressed.
 → {"text": "他已經被日班飛行安全管制員接班，但無法入睡，顯然非常痛苦。", "confidence": "high", "notes": ""}
@@ -190,7 +190,7 @@
 → {"text": "它是機密的，還是它從未發生？", "confidence": "high", "notes": ""}
 
 364. After a press conference in September 2010, I was given a name of a former Quebec SAT team that wanted to talk to me.
-→ {"text": "在 2010 年 9 月的一次新聞發布會後，我得到了一位前 Quebec 安全警戒小組成員的名字，他想和我談談。", "confidence": "high", "notes": ""}
+→ {"text": "在 2010 年 9 月的一次新聞發布會後，我得到了一位前 Quebec 分隊安全警戒小組成員的名字，他想和我談談。", "confidence": "high", "notes": ""}
 
 365. I contacted and heard a story, and I'm confident he was one of the SAT members on duty that night at our incident Romeo.
 → {"text": "我聯繫了他並聽到了一個故事，我確信他是當晚在我們 Romeo 事件中值勤的安全警戒小組成員之一。", "confidence": "high", "notes": ""}
@@ -205,7 +205,7 @@
 → {"text": "在嘗試完成他們眾多檢查清單之一時（安全警戒小組以檢查清單聞名），他實際上伸手進入光束。這嚇壞了兩名安全警戒小組成員，他們跳上卡車，當他們快速逃離時，發生了事故，卡車受損。", "confidence": "high", "notes": ""}
 
 369. That tied into me that that, in fact, was the Quebec team that was on duty that night when my Quebec commanders told me that their SAT team had an accident, so I was confident they were them.
-→ {"text": "這讓我確信，事實上，這就是當晚值勤的 Quebec 小組，因為我的 Quebec 指揮官告訴我他們的安全警戒小組發生了事故，所以我確信就是他們。", "confidence": "high", "notes": ""}
+→ {"text": "這讓我確信，事實上，這就是當晚值勤的 Quebec 小組，因為我的 Quebec 分隊指揮官告訴我他們的安全警戒小組發生了事故，所以我確信就是他們。", "confidence": "high", "notes": ""}
 
 370. I asked, you know, when they got back to F.E. Warren, they were ridiculed by the fellow SAT members.
 → {"text": "我問他，你知道，當他們回到 F.E. Warren 時，他們被其他安全警戒小組成員嘲笑。", "confidence": "high", "notes": ""}
@@ -229,7 +229,7 @@
 → {"text": "我沒有看到片段的開頭，我想我說過了。", "confidence": "high", "notes": ""}
 
 377. This guy's name was Bob Salas, and I thought he was one of the crew members from Quebec.
-→ {"text": "這個人的名字是 Bob Salas，我以為他是 Quebec 飛行中隊的組員之一。", "confidence": "high", "notes": ""}
+→ {"text": "這個人的名字是 勃·薩拉斯，我以為他是 Quebec 飛行分隊的組員之一。", "confidence": "high", "notes": ""}
 
 378. He was describing my incident, you know, and then I found out, in fact, his happened in 1967.
 → {"text": "你知道，他在描述我的事件，然後我發現，事實上，他的事件發生在 1967 年。", "confidence": "high", "notes": ""}
@@ -238,7 +238,7 @@
 → {"text": "馬姆斯特羅姆空軍基地（Malmstrom Air Force Base），不是 F.E. Warren。", "confidence": "high", "notes": "已修正 Whisper 錯誤的轉錄"}
 
 380. A skeptic on that show did not believe Mr. Salas' story and seemed to doubt his credibility, his honesty, and his sanity.
-→ {"text": "節目上的一位懷疑論者不相信 Salas 先生的故事，似乎懷疑他的可信度、誠實和理智。", "confidence": "high", "notes": ""}
+→ {"text": "節目上的一位懷疑論者不相信 薩拉斯先生的故事，似乎懷疑他的可信度、誠實和理智。", "confidence": "high", "notes": ""}
 
 381. After much thought, much later, I contacted one of the guests on the show, Robert Hastings, and over time, it took me like four months to get up the information, and I slowly came out first anonymously, came forward first anonymously, first with my first name, and then I said, "What the heck? If they come after me, they come after me."
 → {"text": "經過深思熟慮，很久之後，我聯繫了節目中的一位嘉賓羅伯特·黑斯廷斯（Robert Hastings），隨著時間推移，我花了大約四個月的時間來提供資訊，我慢慢地先以匿名方式出現，首先只透露我的名字，然後我說：「管他的，如果他們要來找我，就來吧。」", "confidence": "high", "notes": ""}

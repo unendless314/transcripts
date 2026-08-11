@@ -864,10 +864,10 @@ segments:
   source_text: Right now, I'd like you to hear the portion of the conversation I had
     with Colonel Mywald, who retired as a full colonel.
   translation:
-    text: 現在，我想讓各位聽一段我與 Mywald 上校的對話錄音，他以上校軍銜退役。
+    text: "現在，我想讓各位聽一段我與菲格爾上校的對話錄音，他以上校軍銜退役。"
     status: completed
     confidence: high
-    notes: null
+    notes: "原文 Colonel Mywald 應為 Colonel Figel（第一段錄音實為 Figel 上校，2026-08-11 人工還原音訊確認）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -918,10 +918,10 @@ segments:
     cans or something, and I had a conversation with Colonel Mywald and he said, "You
     know what, I'm going to tell you something.
   translation:
-    text: 因為當時他們正在維修，我不確定，可能是導引艙之類的東西，我與 Mywald 上校進行了一次對話，他說：「你知道嗎，我要告訴你一些事情。
+    text: "因為當時他們正在維修，我不確定，可能是導引艙之類的東西，我與菲格爾上校進行了一次對話，他說：「你知道嗎，我要告訴你一些事情。」"
     status: completed
     confidence: medium
-    notes: 錄音內容開始，句子未完整結束
+    notes: "原文 Colonel Mywald 應為 Colonel Figel（Whisper 誤轉；錄音內容開始，句子未完整結束）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -935,13 +935,12 @@ segments:
   timecode:
     start: 00:06:12,900
     end: 00:06:15,900
-  source_text: This is the first time that I've ever heard of this, and I've never
-    heard of it before.
+  source_text: "Figel: \"...and maintenance crews were saying, 'Hey, there was security and maintenance on-site, on both... on two of the tent sites.'\""
   translation:
-    text: 這是我第一次聽說這件事，我以前從未聽說過。
+    text: "菲格爾：「……維修人員在說：『嘿，兩個——兩個分隊站點上都有安全人員和維修人員在場。』」"
     status: completed
-    confidence: medium
-    notes: 錄音內容，此後 segments 53-110 為相同句子的重複（Whisper 轉錄錯誤）
+    confidence: high
+    notes: "Figel 錄音開始（接續 seg 51 末）。52–64 為 Salas 與 Figel 上校 1996 年電話錄音（人工聽音訊還原，2026-08-11）；原文 tent sites 疑為 flight sites；seg 53–54 此時間點無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -955,10 +954,10 @@ segments:
     end: 00:06:16,900
   source_text: I've never heard of it before.
   translation:
-    text: 我以前從未聽說過。
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -972,10 +971,10 @@ segments:
     end: 00:06:17,900
   source_text: I've never heard of it before."
   translation:
-    text: 我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -987,12 +986,12 @@ segments:
   timecode:
     start: 00:06:17,900
     end: 00:06:18,900
-  source_text: He said, "I've never heard of it before."
+  source_text: "Figel: \"And when the first one went down, I talked to the security out there, they had reported this UFO hovering over the site.\""
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: "菲格爾：「當第一個站點失效時，我和在場的安全人員通話，他們報告有一個 UFO 懸停在站點上空。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1004,12 +1003,12 @@ segments:
   timecode:
     start: 00:06:18,900
     end: 00:06:19,900
-  source_text: I said, "I've never heard of it before."
+  source_text: "Figel: \"And I said, 'Yeah, right, what are you guys drinking out there?'\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "菲格爾：「我說：『是喔，你們在那邊到底喝了什麼啊？』」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1021,12 +1020,12 @@ segments:
   timecode:
     start: 00:06:19,900
     end: 00:06:20,900
-  source_text: He said, "I've never heard of it before."
+  source_text: "Figel: \"And we sent strike teams to both of the sites that had been occupied.\""
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: "菲格爾：「我們派了應變小組前往那兩個有狀況的站點。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1040,10 +1039,10 @@ segments:
     end: 00:06:21,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1057,10 +1056,10 @@ segments:
     end: 00:06:22,900
   source_text: He said, "I've never heard of it before."
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1074,10 +1073,10 @@ segments:
     end: 00:06:23,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1091,10 +1090,10 @@ segments:
     end: 00:06:24,900
   source_text: He said, "I've never heard of it before."
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1108,10 +1107,10 @@ segments:
     end: 00:06:25,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1125,10 +1124,10 @@ segments:
     end: 00:06:26,900
   source_text: He said, "I've never heard of it before."
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1142,10 +1141,10 @@ segments:
     end: 00:06:27,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1157,12 +1156,12 @@ segments:
   timecode:
     start: 00:06:27,900
     end: 00:06:31,900
-  source_text: He said, "I've never heard of it before."
+  source_text: "Salas: \"Mm-hmm.\""
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: "薩拉斯：「嗯。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1174,12 +1173,12 @@ segments:
   timecode:
     start: 00:06:31,900
     end: 00:06:32,900
-  source_text: He said, "I've never heard of it before."
+  source_text: "Figel: \"And the strike teams -- I didn't tell them what we had heard, you know, via the LF radio.\""
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: "菲格爾：「至於應變小組——我沒有把我們透過發射設施無線電聽到的情況告訴他們。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1191,12 +1190,12 @@ segments:
   timecode:
     start: 00:06:32,900
     end: 00:06:33,900
-  source_text: I said, "I've never heard of it before."
+  source_text: "Figel: \"And I told them to get within a mile of the site and call back in on the VHF.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "菲格爾：「我要他們推進到距站點一英里以內，然後用甚高頻無線電回報。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1208,12 +1207,12 @@ segments:
   timecode:
     start: 00:06:33,900
     end: 00:06:34,900
-  source_text: He said, "I've never heard of it before."
+  source_text: "Figel: \"And they both had reported it, too. So we had two maintenance crews, two security troops on-site, and two strike teams all reporting it.\""
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: "菲格爾：「他們兩組也都回報看到了。所以我們有兩組維修人員、兩組在場的安全人員，外加兩支應變小組，全都回報了。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1227,10 +1226,10 @@ segments:
     end: 00:06:35,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1242,12 +1241,12 @@ segments:
   timecode:
     start: 00:06:35,900
     end: 00:06:36,900
-  source_text: He said, "I've never heard of it before."
+  source_text: "Salas: \"Is that right? Do you remember any of the names of those guys?\" Figel: \"No, I don't.\""
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: "薩拉斯：「真的嗎？你還記得那些人的名字嗎？」菲格爾：「不記得了。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1261,10 +1260,10 @@ segments:
     end: 00:06:37,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1278,10 +1277,10 @@ segments:
     end: 00:06:38,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1295,10 +1294,10 @@ segments:
     end: 00:06:39,900
   source_text: He said, "I've never heard of it before."
   translation:
-    text: 他說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1312,10 +1311,10 @@ segments:
     end: 00:06:40,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（錄音間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1327,12 +1326,12 @@ segments:
   timecode:
     start: 00:06:40,900
     end: 00:06:41,900
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"Uh, sorry, there was a little mix-up there. That was Colonel Walter Figel, who was the Deputy Missile Crew Commander at Echo Flight.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「抱歉，剛才有點混亂。剛才那位是沃爾特·菲格爾上校（Colonel Walter Figel），他當時是 Echo 飛行分隊的副飛彈組指揮官。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "錄音中提及之人名依裁決保留"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1344,12 +1343,12 @@ segments:
   timecode:
     start: 00:06:41,900
     end: 00:06:42,900
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"Uh, can we have the Mywald audio, please?\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「可以播放 Mywald 的錄音嗎？」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "Whisper 原稿此區塊誤轉為「I've never heard of it before.」重複幻覺，已依人工還原音訊改正"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1363,10 +1362,10 @@ segments:
     end: 00:06:43,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "Mywald 錄音尚未開始（間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1380,10 +1379,10 @@ segments:
     end: 00:06:44,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1397,10 +1396,10 @@ segments:
     end: 00:06:45,900
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1412,12 +1411,12 @@ segments:
   timecode:
     start: 00:06:45,900
     end: 00:07:06,660
-  source_text: I said, "I've never heard of it before."
+  source_text: "Mywald: \"...reports from the field about UFOs. So, I remember that two guards that had gone out to one of the sites, uh, they finally got back, scared to death. We had to relieve them of duty.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "邁沃爾德：「……關於現場傳來 UFO 的報告。我記得有兩名警衛被派到其中一個站點，他們最後回來了，嚇得半死。我們不得不把他們換下崗位。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "Mywald 錄音（1996 年電話）；原文拼寫 Maywald 依全案統一作 Mywald"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1429,12 +1428,12 @@ segments:
   timecode:
     start: 00:07:06,660
     end: 00:07:25,660
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"Yeah. Oh, you mean our guards?\" Mywald: \"Yeah.\" Salas: \"Oh, I didn't know that.\" Mywald: \"Yeah, roving patrol type.\" Salas: \"Oh, I see.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「是啊。喔，你是說我們的警衛？」邁沃爾德：「對。」薩拉斯：「喔，我都不知道。」邁沃爾德：「對，是巡邏班那類的。」薩拉斯：「喔，我明白了。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1446,12 +1445,12 @@ segments:
   timecode:
     start: 00:07:25,660
     end: 00:07:42,500
-  source_text: I said, "I've never heard of it before."
+  source_text: "Mywald: \"They'd gone out to one of the sites... uh, one of the LFs, and on the way back, they lost radio contact, and we ended up having to send them back to base early, and... I'm not sure what happened. I don't think they ever returned to, uh, guard duty.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "邁沃爾德：「他們去了其中一個站點——其中一個發射設施，在回來的路上失去了無線電聯繫，我們只好提前把他們送回基地……我不確定後來怎樣了。我想他們再也沒有回去執行警衛勤務。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1463,12 +1462,12 @@ segments:
   timecode:
     start: 00:07:42,500
     end: 00:07:59,940
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"And what were they scared about?\" Mywald: \"Well, they'd seen these crazy things, and then...\" Salas: \"Oh, they did?\" Mywald: \"Yeah.\" Salas: \"Did they report that to you, or...\" Mywald: \"They reported it to the topside guy.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「他們在怕什麼？」邁沃爾德：「嗯，他們看到了那些怪東西，然後……」薩拉斯：「喔，他們看到了？」邁沃爾德：「對。」薩拉斯：「他們有向你報告嗎，還是……」邁沃爾德：「他們向地面的人員報告了。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1480,12 +1479,12 @@ segments:
   timecode:
     start: 00:07:59,940
     end: 00:08:00,940
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"Oh, the topside guy. That's right, okay. Okay. Okay, well... interesting, thanks.\" Mywald: \"Yeah.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「喔，地面的人員。對，好，好的。嗯……有意思，謝謝。」邁沃爾德：「嗯。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "Mywald 錄音結束"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1499,10 +1498,10 @@ segments:
     end: 00:08:01,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（換帶間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1516,10 +1515,10 @@ segments:
     end: 00:08:02,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1533,10 +1532,10 @@ segments:
     end: 00:08:03,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1550,10 +1549,10 @@ segments:
     end: 00:08:04,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1567,10 +1566,10 @@ segments:
     end: 00:08:05,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1584,10 +1583,10 @@ segments:
     end: 00:08:06,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1601,10 +1600,10 @@ segments:
     end: 00:08:07,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1618,10 +1617,10 @@ segments:
     end: 00:08:08,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1635,10 +1634,10 @@ segments:
     end: 00:08:09,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1650,12 +1649,12 @@ segments:
   timecode:
     start: 00:08:09,940
     end: 00:08:10,940
-  source_text: I said, "I've never heard of it before."
+  source_text: "Ms. Solis: \"Mr. Salas?\" Salas: \"Yes.\" Ms. Solis: \"In a couple sentences, would you tell us what we just heard? The conversation...\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "索利斯女士：「Salas 先生？」薩拉斯：「是的。」索利斯女士：「可以用幾句話告訴我們剛才聽到的是什麼嗎？那段對話……」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "委員會成員 Ms. Solis 發問"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1667,12 +1666,12 @@ segments:
   timecode:
     start: 00:08:10,940
     end: 00:08:11,940
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"Yeah, sorry, it was a little confusing.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「好的，抱歉，剛才聽起來可能有點混亂。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1684,12 +1683,12 @@ segments:
   timecode:
     start: 00:08:11,940
     end: 00:08:12,940
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"The first conversation you heard was, uh, Colonel Walter Figel, now retired. As far as I know, he's still alive.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「各位聽到的第一段對話，是沃爾特·菲格爾上校（Colonel Walter Figel），他現已退役。據我所知，他仍然在世。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1703,10 +1702,10 @@ segments:
     end: 00:08:13,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（語句間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1718,12 +1717,12 @@ segments:
   timecode:
     start: 00:08:13,940
     end: 00:08:14,940
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"Uh, he's authorized me to use that audio, by the way. It was a recording of a telephone conversation I had with him in 1996.\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「順帶一提，他已授權我使用那段錄音。那是 1996 年我與他通電話的錄音。」"
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1737,10 +1736,10 @@ segments:
     end: 00:08:15,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容（語句間隔）"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1754,10 +1753,10 @@ segments:
     end: 00:08:16,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1771,10 +1770,10 @@ segments:
     end: 00:08:17,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1788,10 +1787,10 @@ segments:
     end: 00:08:18,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1805,10 +1804,10 @@ segments:
     end: 00:08:19,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1822,10 +1821,10 @@ segments:
     end: 00:08:20,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1839,10 +1838,10 @@ segments:
     end: 00:08:21,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1856,10 +1855,10 @@ segments:
     end: 00:08:22,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1873,10 +1872,10 @@ segments:
     end: 00:08:23,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1890,10 +1889,10 @@ segments:
     end: 00:08:24,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1907,10 +1906,10 @@ segments:
     end: 00:08:25,940
   source_text: I said, "I've never heard of it before."
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: null
     status: completed
-    confidence: medium
-    notes: 錄音內容重複
+    confidence: high
+    notes: "無內容"
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1922,12 +1921,12 @@ segments:
   timecode:
     start: 00:08:25,940
     end: 00:08:26,940
-  source_text: I said, "I've never heard of it before."
+  source_text: "Salas: \"Uh, and he described, uh, the fact that...\""
   translation:
-    text: 我說：「我以前從未聽說過。」
+    text: "薩拉斯：「他描述了……這樣的事實——」"
     status: completed
     confidence: medium
-    notes: 錄音內容重複
+    notes: "語句未完，接續 seg 111"
   metadata:
     topic_id: topic_01
     speaker_hint: null
