@@ -159,9 +159,19 @@
    - seg 222「as Steve calls it」依語境譯為格里爾（truth embargo 為其創用語），已加註記
    - ~~seg 389「palette」~~ **已決（2026-08-08）**：人工覆聽並比對 YouTube 字幕，確認原音確為 palette，乃證人姓名；譯文改音譯「帕萊特」，confidence 維持 medium（身分待查證），topics.json 佔位條目已移除
 7. **本次校稿異動尚未 commit**：5 個草稿、topics.json、本檔、UFO-04 terminology.yaml（Greer 主表對齊）、configs/terminology_master.yaml＋rules（Greer 收錄 167 詞）、tools/fix_transcription_errors.py（bug 修復）、UFO-03/17 詞彙表與 UFO-03 草稿（葛瑞爾→格里爾 11 處）皆為未提交修改
-8. **交接待辦：補上原文括註**（2026-08-09 人工登記，由後續校稿者處理）：
+8. ~~**交接待辦：補上原文括註**~~ **已完成（2026-08-14）**：
    - 背景：2026-08-09 人工裁決**譯文應保留「中譯（English）」全形括註**，`configs/proofread_guidelines_template.md` 已明訂此規則；格式可參考 UFO-05 定稿
    - git 查證結果：經比對校稿前版本（`git show 7ccea6b:data/UFO-04/drafts/`），本集草稿於翻譯階段本無括註（全 5 檔皆 0），故本任務為**新增**而非還原；若對個別段落有疑慮，可用 `git log -p -- data/UFO-04/drafts/<file>` 追查該行歷史
    - 任務：於 `data/UFO-04/drafts/` 各檔的定譯中，為重要人名／地名／專有名詞補上原文括註（例：史蒂芬·格里爾博士（Dr. Steven Greer））。僅補重要專有名詞的**首次出現**，無需重複
    - 格式：全形括號；括註內純英文內容用半形標點；只改 `→` 行，JSON 保持單行且合法；編號行與 Speaker Group 標題不動
    - 驗證與收尾：完成後以 `python` 逐行 `json.loads` 驗證並回報人工；本集收尾尚未執行，括註可隨正常收尾流程生效；若屆時已回填／匯出，是否重跑 backfill/export 由人工決定
+
+### 原文括註補登完工紀錄（2026-08-14，依 ANNOTATION_HANDOFF.md SOP 執行）
+- **補登 56 處全形括註**（53 組精確替換，腳本逐一斷言唯一匹配後一次性寫入）：topic_01 17 處、topic_02 8 處、topic_03 8 處、topic_04 15 處、topic_05 8 處；密度＝全集首次出現一次，短形式先現者（卡麥隆先生 seg 12、豪女士 seg 81、洛克菲勒先生 seg 82）依 UFO-01 先例於短形式處加全名括註；柯林頓依 UFO-02 裁決在首次以人身份出現處（seg 47）加註，seg 45「柯林頓政府」非人形式不加
+- 補充掃描新抓到主 TERMS 遺漏 2 人：蔡斯·布蘭登（Chase Brandon，seg 244）、鮑伯·史瓦茲（Bob Schwartz，seg 176）；無新發現轉錄錯誤（兩者原文拼寫正確）
+- 邊界項目經人工批准加註：普羅旺斯（Provence，seg 206）、軍事情報委員會（Military Intelligence Committee，seg 327）、懷俄明牧場（Wyoming ranch，seg 82）；依常識級裁決不加：湯瑪斯·傑佛遜、哈佛／普林斯頓大學、《20/20》
+- **人工裁決（2026-08-14）**：洛克菲勒拼寫以查證為準用 **Laurance** Rockefeller（UFO-02 已裁決此拼寫）；UFO-04 terminology.yaml term 名稱已更正（Lawrence→Laurance），UFO-03 詞彙表 2 個 term 名稱同步更正（notes 保留 Whisper 拼法說明），主表以 build_terminology_master.py --force 重建，條目正確合併為 167 詞；UFO-13「Lawrence Rockefeller-sponsored UFO briefing document」為單集術語未更動
+- 主表重建附帶變更（非本次編輯）：Jim Penniston 詞條 definition 反映 UFO-06 詞彙表現況（倫德沙姆→藍道申）
+- 4 段原文拼寫錯誤補 notes 註記（seg 24 DiMatto→D'Amato、seg 245 Jesse Helms→Richard Helms、seg 361 Sheen→Sheehan、seg 379 Houli→Hooley；Woolsey/Pounce/COMETA/Jahn 校稿時已有 notes）
+- 驗證：421 行 → 行 JSON 全數合法；git diff 無非 → 行異動；括註計數 56＝新增數（基線 0）
+- 收尾狀態：fix_transcription_errors.py 待人工同意後執行；backfill/export/split 依全專案裁決待 20 集校稿完成後統一處理

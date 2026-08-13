@@ -16,13 +16,13 @@
 → {"text": "因此，我認為我們必須抱持一定程度的謙卑，認識到我們正在處理一個廣闊而無限的宇宙，僅在我們自己的銀河系中就有 1,000 億個恆星系統，有趣的是，這個數字與我們大腦中的神經元數量相同，我們正在處理的文明僅在我們自己的銀河系中就有數十億個，它們能夠穿越星際空間。", "confidence": "high", "notes": ""}
 
 121. Now I want to touch on this for a moment because it deals with a little bit that Linda referred to in terms of trans-dimensional or other dimensions and the technologies and the sciences dealing with this subject are what we have termed trans-dimensional interstellar, TDIs and this refers to very advanced sciences and technologies where there is a nexus between electromagnetism in the magnetic field, gravitational forces in three-dimensional space and time and what Dr. Jahn at Princeton in the engineering lab began to prove is the science of consciousness which was actually an issue that I did talk a fair amount with Lawrence Rockefeller about.
-→ {"text": "現在我想簡短談一下這個問題，因為這涉及琳達提到的跨維度或其他維度的部分，而處理這個主題的技術和科學就是我們所稱的跨維度星際，簡稱 TDI，這指的是非常先進的科學和技術，其中電磁學與磁場、三維空間與時間中的重力、以及普林斯頓大學工程實驗室的雅恩博士開始證明的意識科學之間存在一個連結點，而這實際上是我與勞倫斯·洛克菲勒談論相當多的一個議題。", "confidence": "high", "notes": "原文 Dr. John at Princeton 應為 Dr. Jahn（Robert G. Jahn，PEAR 實驗室創辦人）"}
+→ {"text": "現在我想簡短談一下這個問題，因為這涉及琳達提到的跨維度或其他維度的部分，而處理這個主題的技術和科學就是我們所稱的跨維度星際，簡稱 TDI，這指的是非常先進的科學和技術，其中電磁學與磁場、三維空間與時間中的重力、以及普林斯頓大學工程實驗室的雅恩博士（Dr. Robert Jahn）開始證明的意識科學之間存在一個連結點，而這實際上是我與勞倫斯·洛克菲勒談論相當多的一個議題。", "confidence": "high", "notes": "原文 Dr. John at Princeton 應為 Dr. Jahn（Robert G. Jahn，PEAR 實驗室創辦人）"}
 
 122. Now a lot of people say well this gets into the deep end of the pool very quickly and in fact it does but I think that it's important to understand that if you're dealing with civilizations that have gotten here and that's what we're dealing with, you're not dealing with something that can go just straight through space at the speed of light even because the speed of light is too slow.
 → {"text": "現在很多人說，嗯，這很快就進入深水區了，事實上確實如此，但我認為重要的是要理解，如果你正在處理已經到達這裡的文明——而這正是我們正在處理的——你處理的不是一種甚至可以僅以光速直線穿越空間的東西，因為光速太慢了。", "confidence": "high", "notes": ""}
 
 123. And I remember when I was having dinner with CIA Director Wolsey and his wife and actually the really most insightful question came from Dr. Wolsey who at the time was Chief Operating Officer of the National Academy of Sciences and she said what I want to know is how are these civilizations communicating across the vastness of space because your cell phone and radio waves are going at the speed of light and I said yes that's just too slow, speed of light is way too slow.
-→ {"text": "我記得當我與 CIA 局長伍爾西及其妻子共進晚餐時，實際上最具洞察力的問題來自伍爾西博士，她當時是美國國家科學院的營運長，她說她想知道的是這些文明如何跨越浩瀚的太空進行通訊，因為你的手機和無線電波都是以光速傳播的，我說是的，那太慢了，光速太慢了。", "confidence": "high", "notes": "原文 Wolsey 應為 Woolsey"}
+→ {"text": "我記得當我與 CIA 局長伍爾西（R. James Woolsey）及其妻子共進晚餐時，實際上最具洞察力的問題來自伍爾西博士，她當時是美國國家科學院（National Academy of Sciences）的營運長，她說她想知道的是這些文明如何跨越浩瀚的太空進行通訊，因為你的手機和無線電波都是以光速傳播的，我說是的，那太慢了，光速太慢了。", "confidence": "high", "notes": "原文 Wolsey 應為 Woolsey"}
 
 124. And I had to, I had a gut check, I said do I tell her the truth and lose all credibility as a scientist and a doctor or do I tell her something that sounds scientific but that's really not true and ever since then I have vowed that if someone is intelligent enough to ask the question I will provide the answers truthfully as I can so I turned to her and I said well Dr. Wolsey it's like this, it turns out thinking is the best way to travel and the speed of thought is not quantifiable.
 → {"text": "我必須做出直覺判斷，我問自己，我是要告訴她真相並失去作為科學家和醫生的所有可信度，還是告訴她一些聽起來科學但實際上不真實的東西，從那時起我就發誓，如果有人足夠聰明提出問題，我就會盡可能真實地提供答案，所以我轉向她說，嗯，伍爾西博士，是這樣的，事實證明思考是最佳旅行方式，而思維的速度是無法量化的。", "confidence": "high", "notes": ""}
@@ -31,7 +31,7 @@
 → {"text": "然而，當你開始進入已經完成的新物理學領域，其中你有能力瞬間傳送跨越遙遠距離，這已經在粒子上完成了，但我們談論的是能夠對整個太空船和乘員做到這一點的文明，你正在處理一個全新的物理學，但他們的通訊設備和他們自己的天生能力允許思維致動事件，我知道伍德博士可能會提到這一點，他在為老麥克唐納和麥克唐納-道格拉斯做一些工作時發現，他研究了一些案例，在一些與這些外星人的會議中涉及一個小盒子，有直接的思維通訊，但也透過電子設備促成，這是我們所稱的科技輔助意識與思維，這是一個非常特定的領域。", "confidence": "high", "notes": "原文 Old Mac McDonald 為講者對 McDonnell Douglas 的詼諧說法"}
 
 126. of study that I really devoted about 22 years to which may be beyond the scope of this hearing but I think that in terms of just bringing this issue around there are so many aspects of it that are very exciting from the point of view of science, technology and understanding the universe and ourselves and also who are we and where did we come from and how is it that we exist in this cosmos and I agree with Edgar Mitchell on this that is a conscious quantum hologram that is awake and that we are all part of and that mind itself is the ultimate final frontier not space but consciousness in mind.
-→ {"text": "我真正投入了大約 22 年的研究領域，這可能超出了本次聽證會的範圍，但我認為，就將這個議題帶回來而言，從科學、技術和理解宇宙與我們自己的角度來看，它有很多非常令人興奮的方面，還有我們是誰、我們從哪裡來、我們如何存在於這個宇宙中，我在這一點上同意埃德加·米切爾的觀點，這是一個有意識的量子全息，它是清醒的，我們都是其中的一部分，心智本身才是終極的最後邊疆，不是太空，而是意識與心智。", "confidence": "high", "notes": ""}
+→ {"text": "我真正投入了大約 22 年的研究領域，這可能超出了本次聽證會的範圍，但我認為，就將這個議題帶回來而言，從科學、技術和理解宇宙與我們自己的角度來看，它有很多非常令人興奮的方面，還有我們是誰、我們從哪裡來、我們如何存在於這個宇宙中，我在這一點上同意埃德加·米切爾（Edgar Mitchell）的觀點，這是一個有意識的量子全息，它是清醒的，我們都是其中的一部分，心智本身才是終極的最後邊疆，不是太空，而是意識與心智。", "confidence": "high", "notes": ""}
 
 127. Now I know that Lawrence Rockefeller was very interested in these things because I had conversations with him also but one of the things that I found when I was working with these folks is that there's a saying in American business everyone wants to be first to be second and so in this case there's so many people who have had an interest of this but they want to hold back and not speak the whole truth about it but I think we need to be able to liberate ourselves to speak the truth and it involves many, many complex issues part of which has been touched on in the last 15 or 20 minutes.
 → {"text": "現在我知道勞倫斯·洛克菲勒對這些事情非常感興趣，因為我也和他有過對話，但我在與這些人合作時發現的一件事是，美國商界有句話說每個人都想成為第二個第一，所以在這種情況下，有很多人對此感興趣，但他們想退縮，不願說出全部真相，但我認為我們需要能夠解放自己來說出真相，這涉及許多、許多複雜的議題，其中一部分在過去 15 或 20 分鐘內已經觸及。", "confidence": "high", "notes": ""}
@@ -46,7 +46,7 @@
 → {"text": "請非常仔細地思考這個問題。", "confidence": "high", "notes": ""}
 
 131. I remember doing a meeting with the Boutros Boutros-Ghali family, the UN Secretary General, his wife Leah Golly and we were talking about this and Leah Golly turned to me and she said, "Dr. Grier, we need you to do this now."
-→ {"text": "我記得與布特羅斯·布特羅斯-加利家族——聯合國秘書長、他的妻子利亞·加利——進行了一次會面，我們談論這個議題，利亞·加利轉向我說：「格里爾博士，我們需要你現在就做這件事。」", "confidence": "high", "notes": ""}
+→ {"text": "我記得與布特羅斯·布特羅斯-加利（Boutros Boutros-Ghali）家族——聯合國秘書長、他的妻子利亞·加利——進行了一次會面，我們談論這個議題，利亞·加利轉向我說：「格里爾博士，我們需要你現在就做這件事。」", "confidence": "high", "notes": ""}
 
 132. I said, "I'm a country doctor in North Carolina rattling around in an emergency department.
 → {"text": "我說：「我是北卡羅來納州的鄉村醫生，在急診室裡忙碌。", "confidence": "high", "notes": ""}
@@ -61,7 +61,7 @@
 → {"text": "這對布特羅斯來說太危險了。」", "confidence": "high", "notes": ""}
 
 136. I'm quoting and then I remember talking to this wonderful Senator Claiborne Pell who was mentioned earlier and I was speaking with him and I would never have gone to college if not for a Pell Grant because I was very, very, very poor.
-→ {"text": "我引用的是原話。然後我記得與前面提到的那位出色的克萊伯恩·佩爾參議員交談，如果不是裴爾助學金，我根本不可能上大學，因為我當時非常、非常、非常貧窮。", "confidence": "high", "notes": ""}
+→ {"text": "我引用的是原話。然後我記得與前面提到的那位出色的克萊伯恩·佩爾參議員（Senator Claiborne Pell）交談，如果不是裴爾助學金（Pell Grant），我根本不可能上大學，因為我當時非常、非常、非常貧窮。", "confidence": "high", "notes": ""}
 
 137. I grew up in North Carolina, I had no resources, put myself through the last years of high school and college and med school, but I mean really poor.
 → {"text": "我在北卡羅來納州長大，沒有任何資源，自己完成了高中最後幾年、大學和醫學院的學業，但我的意思是真的很窮。", "confidence": "high", "notes": ""}
@@ -73,7 +73,7 @@
 → {"text": "我說：「是的，先生。", "confidence": "high", "notes": ""}
 
 140. What a shame because you, the chairman of the Senate Foreign Relations Committee, have been denied the responsibility of dealing with the ultimate foreign relations issue."
-→ {"text": "真是遺憾，因為您身為美國參議院外交委員會主席，卻被剝奪了處理終極外交關係議題的責任。」", "confidence": "high", "notes": ""}
+→ {"text": "真是遺憾，因為您身為美國參議院外交委員會（Senate Foreign Relations Committee）主席，卻被剝奪了處理終極外交關係議題的責任。」", "confidence": "high", "notes": ""}
 
 141. And I pointed to the stars above our heads and he looked at me through those horn-rim glasses and said, "Well, you know, Dr. Grier, you may be right."
 → {"text": "我指著我們頭頂上的星空，他透過那副角框眼鏡看著我說：「嗯，你知道，格里爾博士，你可能是對的。」", "confidence": "high", "notes": ""}

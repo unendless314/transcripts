@@ -226,7 +226,7 @@ terms:
         notes: 傳聞曾表示「我們已經擁有星際旅行的技術」
 
   # ----- 洛克菲勒倡議相關人物 -----
-  - term: Lawrence Rockefeller
+  - term: Laurance Rockefeller
     senses:
       - id: rockefeller_philanthropist
         definition: 億萬富翁慈善家,1990年代資助UFO研究並遊說柯林頓政府
@@ -234,7 +234,7 @@ terms:
         segments: [155, 158, 166, 188, 193, 216, 219, 223, 227, 229, 231, 242, 254, 257, 267, 405]
         notes: UFO-03的核心人物,Whisper轉錄拼為Lawrence(較正式拼法為Laurance)
 
-  - term: Lawrence S. Rockefeller
+  - term: Laurance S. Rockefeller
     senses:
       - id: rockefeller_full_name
         definition: 勞倫斯·S·洛克菲勒(全名)

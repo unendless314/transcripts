@@ -1,16 +1,16 @@
 ## Speaker Group 14
 
 81. Ms. Howe.
-→ {"text": "豪女士。", "confidence": "high", "notes": ""}
+→ {"text": "豪女士（Linda Moulton Howe）。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 15
 
 82. I was invited by Mr. Rockefeller to the Wyoming Ranch along with some of the people here, Stephen Greer was there, others.
-→ {"text": "我受洛克菲勒先生邀請前往懷俄明牧場，在場還有這裡的一些人，史蒂芬·格里爾也在，還有其他人。", "confidence": "high", "notes": ""}
+→ {"text": "我受洛克菲勒先生（Laurance Rockefeller）邀請前往懷俄明牧場（Wyoming ranch），在場還有這裡的一些人，史蒂芬·格里爾也在，還有其他人。", "confidence": "high", "notes": ""}
 
 83. And what links in my mind was a discussion that I had with then John Mack, MD, psychiatrist from Harvard University who had taken a great interest in the abduction syndrome both as a psychiatrist and then as somebody who was trying to understand as I and others were.
-→ {"text": "我腦海中浮現的是我與約翰·麥克博士的討論，他是哈佛大學的精神科醫師，無論作為精神科醫師還是像我和其他人一樣試圖理解這個現象的研究者，他都對綁架現象有極大的興趣。", "confidence": "high", "notes": ""}
+→ {"text": "我腦海中浮現的是我與約翰·麥克博士（Dr. John Mack）的討論，他是哈佛大學的精神科醫師，無論作為精神科醫師還是像我和其他人一樣試圖理解這個現象的研究者，他都對綁架現象有極大的興趣。", "confidence": "high", "notes": ""}
 
 84. What is the true nature of an advanced intelligence that would be interacting with this planet and may not itself, the prime intelligence, be the actor here, but making various kinds of cloned entities that would interact on this particular planet in this particular atmosphere, this particular gravity and this particular solar system?
 → {"text": "一個與這顆星球互動的先進智慧，其真實本質是什麼？這個原始智慧本身可能不是直接行動者，而是製造各種複製生命體，讓它們在這個特定星球、這個特定大氣層、這個特定重力與這個特定太陽系中互動？", "confidence": "high", "notes": ""}
@@ -22,7 +22,7 @@
 → {"text": "這是他、我以及許多其他人都遇到過的現象。你越深入這個領域，就越會意識到我們的現實可以透過我們的心智被操控，而我們有時無法分辨其中的差異。", "confidence": "high", "notes": ""}
 
 87. And this led to a discussion which at the time I had only shared with Dr. Mack, God rest him wherever he is now, that very year I had a face to face with a man who was currently working in the United States military who had been aware of my work and by that '92, '93 time period I had produced the book in Alien Harvest as well as TV productions.
-→ {"text": "這引發了一場討論，當時我只與麥克博士分享過——願他安息。那一年我與一位當時在美國軍方任職的男子面對面交談，他知道我的工作。到了 1992、93 年那段時期，我已經出版了《異形收割》一書，也製作了電視節目。", "confidence": "high", "notes": ""}
+→ {"text": "這引發了一場討論，當時我只與麥克博士分享過——願他安息。那一年我與一位當時在美國軍方任職的男子面對面交談，他知道我的工作。到了 1992、93 年那段時期，我已經出版了《異形收割》（An Alien Harvest）一書，也製作了電視節目。", "confidence": "high", "notes": ""}
 
 88. And in the whole question of why would something advanced from someplace else in the universe be mutilating animals on this planet, this man was trying to tell me that there is a survival issue as well as a cloning issue in what we are dealing with and that genetic material has been harvested from this planet for a long time to create containers.
 → {"text": "關於為什麼來自宇宙其他地方的先進存在會在這個星球上肢解動物這個問題，這位男子試圖告訴我，我們面對的是生存問題以及複製問題，而且基因材料已經從這個星球採集了很長時間，用來製造容器。", "confidence": "high", "notes": ""}
@@ -34,7 +34,7 @@
 → {"text": "這位軍方人士描述了他 1978 年在亞利桑那州北部一個小鎮的親身經歷。", "confidence": "high", "notes": ""}
 
 91. He worked for a unit that would be comparable to what has been in some of the government documents called Moon Dust or Project Pounce.
-→ {"text": "他任職的單位相當於某些政府文件中提到的月塵計畫或突襲計畫。", "confidence": "high", "notes": "原文 Project Pounds 應為 Project Pounce"}
+→ {"text": "他任職的單位相當於某些政府文件中提到的月塵計畫（Project Moon Dust）或突襲計畫（Project Pounce）。", "confidence": "high", "notes": "原文 Project Pounds 應為 Project Pounce"}
 
 92. These are units that were put together at least as far back as right after Roswell.
 → {"text": "這些單位至少早在羅斯威爾事件之後就已經成立了。", "confidence": "high", "notes": ""}
@@ -58,7 +58,7 @@
 → {"text": "他被分配到一個小組，前往那裡試圖了解為什麼水會被某種非人類存在從水壩釋放到這個小鎮。", "confidence": "high", "notes": ""}
 
 99. And that his superior officer said we are going to communicate with and bring in one of the Eben's.
-→ {"text": "他的上級軍官說，我們將與一個外星生物實體溝通並將其帶來。", "confidence": "high", "notes": ""}
+→ {"text": "他的上級軍官說，我們將與一個外星生物實體（EBE）溝通並將其帶來。", "confidence": "high", "notes": ""}
 
 100. And I want you to have the experience of what a telepathic download upload is.
 → {"text": "「我希望你體驗一下什麼是心靈感應下載上傳。」", "confidence": "high", "notes": ""}
@@ -100,7 +100,7 @@
 → {"text": "他也曾在軍中擔任高階職位。", "confidence": "high", "notes": ""}
 
 113. Some people had sought me out because he wanted to ask me a question about some of my work and I will never forget he said, Linda this is all so strange and it has been so strange to all of us that have been exposed to it for so long that not any of us ever want to take it home to our spouses, our children or anyone we know, not because it's threatening necessarily but because nobody knows how to have the discussion and today we are meeting at the National Press Club in Washington where there have been various revolutions before and it seems to me no matter how strange it is, if we don't get past this point of having our government built on 60 years of lies to protect us,
-→ {"text": "有些人找到我，因為他想問我一些關於我工作的問題。我永遠不會忘記他說：「琳達，這一切都太奇怪了。對我們所有接觸這件事這麼久的人來說都太奇怪了，以至於我們沒有任何人想把它帶回家告訴我們的配偶、孩子或任何我們認識的人。不一定是因為它具有威脅性，而是因為沒有人知道如何進行這樣的討論。今天我們在華盛頓的國家新聞俱樂部開會，這裡以前曾發生過各種革命。在我看來，無論這有多奇怪，如果我們無法越過這個點——我們的政府建立在 60 年的謊言之上以保護我們——", "confidence": "high", "notes": ""}
+→ {"text": "有些人找到我，因為他想問我一些關於我工作的問題。我永遠不會忘記他說：「琳達，這一切都太奇怪了。對我們所有接觸這件事這麼久的人來說都太奇怪了，以至於我們沒有任何人想把它帶回家告訴我們的配偶、孩子或任何我們認識的人。不一定是因為它具有威脅性，而是因為沒有人知道如何進行這樣的討論。今天我們在華盛頓的國家新聞俱樂部（National Press Club）開會，這裡以前曾發生過各種革命。在我看來，無論這有多奇怪，如果我們無法越過這個點——我們的政府建立在 60 年的謊言之上以保護我們——", "confidence": "high", "notes": ""}
 
 114. the nation probably will implode and I think you know what I mean.
 → {"text": "這個國家可能會內爆，我想你明白我的意思。」", "confidence": "high", "notes": ""}

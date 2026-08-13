@@ -70,7 +70,7 @@
 ## Speaker Group 39
 
 270. Congresswoman Kilpatrick.
-→ {"text": "基爾派翠克眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "基爾派翠克眾議員（Carolyn Cheeks Kilpatrick）。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 40
@@ -244,7 +244,7 @@
 → {"text": "我認為這只需要一個國際聯盟來幫助——剛才有人說過——幫助我們到達我們想去的地方，做一些我們需要做的事情。", "confidence": "high", "notes": ""}
 
 327. And then, finally for me, the Military Intelligence Committee, we have to have that.
-→ {"text": "最後對我來說，軍事情報委員會，我們必須擁有它。", "confidence": "high", "notes": ""}
+→ {"text": "最後對我來說，軍事情報委員會（Military Intelligence Committee），我們必須擁有它。", "confidence": "high", "notes": ""}
 
 328. And it exists.
 → {"text": "它是存在的。", "confidence": "high", "notes": ""}
@@ -322,7 +322,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 353. [ Applause ] Congressman Cook.
-→ {"text": "【掌聲】庫克眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "【掌聲】庫克眾議員（Merrill Cook）。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 41
@@ -352,7 +352,7 @@
 ## Speaker Group 42
 
 361. Daniel Sheehan.
-→ {"text": "丹尼爾·希恩。", "confidence": "high", "notes": ""}
+→ {"text": "丹尼爾·希恩（Daniel Sheehan）。", "confidence": "high", "notes": "原文 Daniel Sheen 應為 Daniel Sheehan"}
 
 
 ## Speaker Group 43
@@ -373,7 +373,7 @@
 → {"text": "我們現在擁有一個可以串流的世界。", "confidence": "high", "notes": ""}
 
 366. The Huffington Post, okay, the Huffington Post did an article about the film Sirius that's just been released that's based on our work.
-→ {"text": "《赫芬頓郵報》，好的，《赫芬頓郵報》發表了一篇關於剛剛發布的電影《天狼星》的文章，該電影基於我們的工作。", "confidence": "high", "notes": ""}
+→ {"text": "《赫芬頓郵報》（Huffington Post），好的，《赫芬頓郵報》發表了一篇關於剛剛發布的電影《天狼星》（Sirius）的文章，該電影基於我們的工作。", "confidence": "high", "notes": ""}
 
 367. It had like 4 million people look at it.
 → {"text": "大約有 400 萬人觀看了它。", "confidence": "high", "notes": ""}
@@ -415,7 +415,7 @@
 ## Speaker Group 45
 
 379. Okay, our cleanup batter is Congresswoman Hooley.
-→ {"text": "好的，我們的最後一棒是胡利眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "好的，我們的最後一棒是胡利眾議員（Darlene Hooley）。", "confidence": "high", "notes": "原文 Houli 應為 Hooley"}
 
 
 ## Speaker Group 46
@@ -478,7 +478,7 @@
 → {"text": "這確實讓我深有感觸，大概是在 1985、1986 年左右。", "confidence": "high", "notes": ""}
 
 397. A security guard at Lockheed Martin in the facility in Denver had approached me because she had read my book, my first book, An Alien Harvest.
-→ {"text": "洛克希德·馬丁在丹佛設施的一名保安人員接近我，因為她讀過我的書，我的第一本書《異形收割》。", "confidence": "high", "notes": ""}
+→ {"text": "洛克希德·馬丁（Lockheed Martin）在丹佛設施的一名保安人員接近我，因為她讀過我的書，我的第一本書《異形收割》。", "confidence": "high", "notes": ""}
 
 398. And she had asked for an autograph at some place where I was speaking.
 → {"text": "她在我演講的某個地方要求簽名。", "confidence": "high", "notes": ""}

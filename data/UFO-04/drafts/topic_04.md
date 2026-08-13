@@ -85,22 +85,22 @@
 → {"text": "這意味著在某些議題上，絕對會有干預介入。", "confidence": "high", "notes": ""}
 
 175. And we saw this happen with the 2001 event at this national press club disclosure launch 12 years ago, almost today, on May 9th of 2001.
-→ {"text": "我們在 12 年前，也就是幾乎就是今天，2001 年 5 月 9 日在國家新聞俱樂部舉辦的揭露計畫記者會上目睹了這種情況。", "confidence": "high", "notes": ""}
+→ {"text": "我們在 12 年前，也就是幾乎就是今天，2001 年 5 月 9 日在國家新聞俱樂部舉辦的揭露計畫（Disclosure Project）記者會上目睹了這種情況。", "confidence": "high", "notes": ""}
 
 176. And one of the people I dealt with, Bob Schwartz, who was on the board of Time Life that later became AOL, Time Warner, and CNN, the whole conglomerate, he told me that he was very good friends with Mike Wallace.
-→ {"text": "我接觸過的一位人士鮑伯·史瓦茲，他是 Time Life 董事會成員，後來該公司成為 AOL、Time Warner 和 CNN 整個企業集團的一部分，他告訴我他與麥克·華萊士是非常好的朋友。", "confidence": "high", "notes": ""}
+→ {"text": "我接觸過的一位人士鮑伯·史瓦茲（Bob Schwartz），他是 Time Life 董事會成員，後來該公司成為 AOL、Time Warner 和 CNN 整個企業集團的一部分，他告訴我他與麥克·華萊士（Mike Wallace）是非常好的朋友。", "confidence": "high", "notes": ""}
 
 177. And he had given him a lot of these documents that we had.
 → {"text": "他給了華萊士許多我們擁有的這些文件。", "confidence": "high", "notes": ""}
 
 178. And Mike Wallace wanted to do the story at 60 Minutes.
-→ {"text": "麥克·華萊士想在《60 分鐘》上報導這個故事。", "confidence": "high", "notes": ""}
+→ {"text": "麥克·華萊士想在《60 分鐘》（60 Minutes）上報導這個故事。", "confidence": "high", "notes": ""}
 
 179. And the corporate CBS, and I think at the time it was controlled by Westinghouse, a big defense contractor, did not permit him to do the story.
-→ {"text": "但 CBS 企業層，我認為當時是由西屋電氣公司控制，一家大型國防承包商，不允許他報導這個故事。", "confidence": "high", "notes": ""}
+→ {"text": "但 CBS 企業層，我認為當時是由西屋電氣公司（Westinghouse）控制，一家大型國防承包商，不允許他報導這個故事。", "confidence": "high", "notes": ""}
 
 180. Ira Rosen, who was at ABC News executive producer for 2020 and Primetime Live, he came to my home in Virginia out near Thomas Jefferson's home, ironically.
-→ {"text": "艾拉·羅森，他是 ABC 新聞《20/20》和《黃金時間現場》的執行製作人，諷刺的是，他來到我位於維吉尼亞州的家，就在湯瑪斯·傑佛遜故居附近。", "confidence": "high", "notes": ""}
+→ {"text": "艾拉·羅森（Ira Rosen），他是 ABC 新聞《20/20》和《黃金時間現場》（Primetime Live）的執行製作人，諷刺的是，他來到我位於維吉尼亞州的家，就在湯瑪斯·傑佛遜故居附近。", "confidence": "high", "notes": ""}
 
 181. And I gave him 35 digital hours of top secret witness testimony and many documents.
 → {"text": "我給了他 35 小時數位化的最高機密證人證詞和許多文件。", "confidence": "high", "notes": ""}
@@ -157,7 +157,7 @@
 → {"text": "你知道，在《紐約時報》，如果你對一個有爭議的故事有三個已確認的消息來源，他們就可以刊登。", "confidence": "high", "notes": ""}
 
 199. Here, the Disclosure Project, which I founded some years ago, it was first Project Starlight when I began to work with Lawrence Rockefeller.
-→ {"text": "在這裡，揭露計畫，是我幾年前創立的，當我開始與勞倫斯·洛克菲勒合作時，最初叫星光計畫。", "confidence": "high", "notes": ""}
+→ {"text": "在這裡，揭露計畫，是我幾年前創立的，當我開始與勞倫斯·洛克菲勒合作時，最初叫星光計畫（Project Starlight）。", "confidence": "high", "notes": ""}
 
 200. We now have over 500.
 → {"text": "我們現在有超過 500 位證人。", "confidence": "high", "notes": ""}
@@ -178,7 +178,7 @@
 → {"text": "你知道，如果主流媒體不報導某件事，而有 50、60% 的公眾相信這是真的，並且有大量的數據，4,000 個降落案例。", "confidence": "high", "notes": ""}
 
 206. The COMETA Report, where they documented the landing in Provence of a craft, the Bentwaters case, where a craft landed at RAF Bentwaters and left physical trace that has been confirmed by the Ministry of Defense.
-→ {"text": "COMETA 報告記錄了在普羅旺斯的飛行器降落事件，還有本特沃特斯案例——飛行器降落在皇家空軍本特沃特斯基地並留下物理痕跡，已獲英國國防部證實。", "confidence": "high", "notes": "原文 Comita Report 應為 COMETA Report"}
+→ {"text": "COMETA 報告記錄了在普羅旺斯（Provence）的飛行器降落事件，還有本特沃特斯案例——飛行器降落在皇家空軍本特沃特斯基地（RAF Bentwaters）並留下物理痕跡，已獲英國國防部證實。", "confidence": "high", "notes": "原文 Comita Report 應為 COMETA Report"}
 
 207. We have all this hard data and information.
 → {"text": "我們擁有所有這些確鑿的數據和資訊。", "confidence": "high", "notes": ""}
@@ -217,7 +217,7 @@
 → {"text": "這是一份 CIA 文件，小綠人，哈哈哈哈哈。", "confidence": "high", "notes": ""}
 
 219. So that has worked, and there's an Air Force major, George Filer, who I know, he may be here, who said, "Look, the secrecy really has been created mainly through the force of just ridicule.
-→ {"text": "所以這招奏效了，有一位空軍少校喬治·法勒，我認識他，他可能在現場，他說：「聽著，保密制度主要確實是透過嘲笑的力量建立起來的。", "confidence": "high", "notes": ""}
+→ {"text": "所以這招奏效了，有一位空軍少校喬治·法勒（George Filer），我認識他，他可能在現場，他說：「聽著，保密制度主要確實是透過嘲笑的力量建立起來的。", "confidence": "high", "notes": ""}
 
 220. People don't want to be made a laughing stock."
 → {"text": "人們不想成為笑柄。」", "confidence": "high", "notes": ""}
@@ -286,7 +286,7 @@
 → {"text": "正如我在陳述中提到的，比爾·柯林頓要求韋伯斯特·哈貝爾去找出誰殺了甘迺迪的答案，如果你去查看已經找回的檔案，有大約 5,000 頁，幾乎 6,000 頁關於甘迺迪暗殺的資料是柯林頓夫婦確實挖掘出來的，而他要求他們調查甘迺迪和 UFO。", "confidence": "high", "notes": ""}
 
 236. When that book was released, "Friends in High Places" by Hubbell in 1997, that, of course, the very next day in the White House press briefing, his question was brought up, and it was Deborah Oren, who was no friend of the Clintons from "New York Post" who asked the question.
-→ {"text": "當哈貝爾的那本書《高層友人》在 1997 年發行時，當然，第二天在白宮記者會上，他的問題被提出來了，提問的是《紐約郵報》的黛博拉·奧倫，她並非柯林頓夫婦的朋友。", "confidence": "high", "notes": ""}
+→ {"text": "當哈貝爾的那本書《高層友人》在 1997 年發行時，當然，第二天在白宮記者會上，他的問題被提出來了，提問的是《紐約郵報》（New York Post）的黛博拉·奧倫（Deborah Oren），她並非柯林頓夫婦的朋友。", "confidence": "high", "notes": ""}
 
 237. She asked the president's press secretary, "Can you tell me did Webster Hubbell get the job to go out and look at UFOs?"
 → {"text": "她問總統新聞秘書：「你能告訴我韋伯斯特·哈貝爾是否接到了去調查 UFO 的任務？」", "confidence": "high", "notes": ""}
@@ -310,10 +310,10 @@
 → {"text": "你是一路努力爬上去的。", "confidence": "high", "notes": ""}
 
 244. So a lot of it does have to do with the ridicule, and a lot of it has to do with I mentioned Chase Brandon who was this 42-year CIA guy.
-→ {"text": "所以很大一部分確實與嘲笑有關，而且很大一部分與我提到的蔡斯·布蘭登有關，他是一位在 CIA 工作了 42 年的人。", "confidence": "high", "notes": ""}
+→ {"text": "所以很大一部分確實與嘲笑有關，而且很大一部分與我提到的蔡斯·布蘭登（Chase Brandon）有關，他是一位在 CIA 工作了 42 年的人。", "confidence": "high", "notes": ""}
 
 245. He writes a fictional book about Roswell, and there was one of the stories that we'd always tried to track in the UFO world, and that was by Richard Helms.
-→ {"text": "他寫了一本關於羅斯威爾事件的虛構小說，在 UFO 世界裡我們一直試圖追查的一個故事，那就是理查德·赫爾姆斯的說法。", "confidence": "high", "notes": ""}
+→ {"text": "他寫了一本關於羅斯威爾事件的虛構小說，在 UFO 世界裡我們一直試圖追查的一個故事，那就是理查德·赫爾姆斯（Richard Helms）的說法。", "confidence": "high", "notes": "原文 Jesse Helms 應為 Richard Helms"}
 
 246. It was a statement where Richard Helms says, "We control all the media of any consequence in America."
 → {"text": "那是一個聲明，理查德·赫爾姆斯說：「我們控制了美國所有重要的媒體。」", "confidence": "high", "notes": ""}
