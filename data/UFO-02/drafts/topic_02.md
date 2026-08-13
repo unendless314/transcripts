@@ -13,13 +13,13 @@
 → {"text": "一則是新墨西哥州上空有不明飛行物目擊事件，另一則是紐約市有兩起神秘死亡事件，可能是鸚鵡熱，如果是鸚鵡熱，可能來自乾燥的鴿子糞便，所以有人認真建議也許我們應該殺死紐約所有的鴿子。我聽著這兩則新聞播報，心想，天啊，如果這些飛碟是外星的，我想我會在上面多轉轉，再觀察一陣子才降落。正如我在開始時所說的，相信我們是宇宙中最先進的文明，實在是極度傲慢與自以為是。我們仍在進行愚蠢的戰爭並互相殘殺。一定有更好的方式，不是嗎。我會再次將我的問題保留到最後。我的副主席。", "confidence": "high", "notes": "原文 cyticosis 為 Whisper 殘詞，疑指鸚鵡熱或隱球菌病（皆與鴿糞有關）"}
 
 213. I wanted to mention one other thing. All of the time, and there's a period there that's about 12 years, but during that 12-year period my primary job as a member of the OSI was to debunk them. In other words, I'd come up with any kind of explanation. We'd say it was swamp gas or you name it, anything that we could come up with to apparently convince the general public and maintain the secrecy level on that. Some of my answers, I swear, were observed. The swamp gas, for instance, at that time there was an average of about three a week UFOs had descended into the Gulf Breeze, Florida area, if you know where that is. It's just where the panhandle is in Florida. Anyway, I went down there and we observed them just regularly, just sit there every evening with a cocktail and in they'd come.
-→ {"text": "我想提另一件事。一直以來，那段時期大約有 12 年，但在那 12 年期間，我作為 OSI 成員的主要工作就是揭穿它們。換句話說，我會想出任何解釋。我們會說那是沼氣或你說什麼都行，任何我們能想到的東西，顯然是為了說服一般大眾並維持保密層級。我發誓，我的一些答案真的很荒謬。例如沼氣，當時佛羅里達州微風灣地區平均每週有大約三次不明飛行物降落，如果你知道那裡在哪的話。就是佛羅里達州狹長地帶那裡。無論如何，我去了那裡，我們定期觀察它們，每天晚上就坐在那裡喝著雞尾酒，它們就進來了。", "confidence": "high", "notes": "原文 were observed 應為 absurd（荒謬）之誤聽"}
+→ {"text": "我想提另一件事。一直以來，那段時期大約有 12 年，但在那 12 年期間，我作為 OSI 成員的主要工作就是揭穿它們。換句話說，我會想出任何解釋。我們會說那是沼氣或你說什麼都行，任何我們能想到的東西，顯然是為了說服一般大眾並維持保密層級。我發誓，我的一些答案真的很荒謬。例如沼氣，當時佛羅里達州微風灣（Gulf Breeze）地區平均每週有大約三次不明飛行物降落，如果你知道那裡在哪的話。就是佛羅里達州狹長地帶那裡。無論如何，我去了那裡，我們定期觀察它們，每天晚上就坐在那裡喝著雞尾酒，它們就進來了。", "confidence": "high", "notes": "原文 were observed 應為 absurd（荒謬）之誤聽"}
 
 214. But what was it? It was swamp gas. That was my lie and I made good on it. But that was my actual job, to be the most artful lawyer on earth.
 → {"text": "但那是什麼？那是沼氣。那是我的謊言，而且我說得天衣無縫。但那就是我的實際工作，成為地球上最狡猾的說謊者。", "confidence": "high", "notes": "原文 lawyer 應為 liar（說謊者）之誤聽，脈絡為其自述揭穿工作的謊言"}
 
 215. So Colonel French, you did a good job of it, obviously.
-→ {"text": "所以法蘭奇中校，你顯然做得很好。", "confidence": "high", "notes": ""}
+→ {"text": "所以弗倫奇中校，你顯然做得很好。", "confidence": "high", "notes": ""}
 
 216. So for all four of you, it's just starting to weigh on me. If transparency would reveal that we really aren't in control, that there are actually as intelligent or more powerful than likely, more intelligent life form than humans, and that in so knowing and admitting would be dangerous, that's a closed circle, folks. So what do you recommend? How do you recommend we handle this? Let's start with the Colonel who won't tell us it's a gas form.
 → {"text": "所以對你們四位，這件事開始讓我感到沉重。如果透明化會揭示我們實際上沒有控制權，實際上有與人類一樣聰明或很可能更強大、更聰明的生命形式存在，而且知道並承認這一點會很危險，這是個封閉的循環，各位。那麼你們有什麼建議？你們建議我們如何處理這件事？讓我們從不會告訴我們那是氣體形式的中校開始。", "confidence": "high", "notes": ""}
@@ -196,7 +196,7 @@
 → {"text": "那份文件，我們這邊的人會深深感激你嗎？", "confidence": "high", "notes": ""}
 
 274. I could start that a little bit because there's a provision in the United Nations which is called Uniting for Peace Resolution. And Henry Kissinger told us about this in Gov 180 at Harvard College. And he said, "If the world population ever finds out about this, we're all in trouble," he said. I was kind of wondering who he meant by "we."
-→ {"text": "我可以稍微開始一下，因為聯合國有一個條款叫做聯合一致促進和平決議。亨利·季辛吉在哈佛大學政府 180 課程中告訴我們這個。他說：「如果世界人口發現這個，我們都會有麻煩。」他說。我當時有點想知道他所說的「我們」是指誰。", "confidence": "high", "notes": ""}
+→ {"text": "我可以稍微開始一下，因為聯合國有一個條款叫做聯合一致促進和平決議（Uniting for Peace Resolution）。亨利·季辛吉（Henry Kissinger）在哈佛大學政府 180 課程中告訴我們這個。他說：「如果世界人口發現這個，我們都會有麻煩。」他說。我當時有點想知道他所說的「我們」是指誰。", "confidence": "high", "notes": ""}
 
 275. And he's right.
 → {"text": "而且他是對的。", "confidence": "high", "notes": ""}
@@ -223,7 +223,7 @@
 → {"text": "我們很樂意。", "confidence": "high", "notes": ""}
 
 283. Now, the question I would ask, Mr. Dolan, you mentioned that the compendium of documents that you're aware of has come about through Freedom of Information Act, has come about by accident in many regards. Is there anything out there that document-wise backs up the Roswell incident, that is, the crash and the humanoids? Is there any document that we could put our hands on?
-→ {"text": "現在，我想問的問題是，多蘭先生，你提到你所知道的文件彙編是透過資訊自由法出現的，在許多方面是偶然出現的。就文件而言，有什麼能支持羅斯威爾事件的嗎，也就是墜毀和人形生物？有我們可以掌握的文件嗎？", "confidence": "high", "notes": ""}
+→ {"text": "現在，我想問的問題是，多蘭先生，你提到你所知道的文件彙編是透過資訊自由法出現的，在許多方面是偶然出現的。就文件而言，有什麼能支持羅斯威爾（Roswell）事件的嗎，也就是墜毀和人形生物？有我們可以掌握的文件嗎？", "confidence": "high", "notes": ""}
 
 284. Yes, sir. There are a few very interesting documents, even as early as July 1947, FBI, which was involved in investigating the so-called flying saucers very actively, had a memo indicating that the debris or whatever was recovered at Roswell was being transferred to Wright Field Dayton, Ohio, U.S. Air Force headquarters. I think that's rather interesting. Whatever this was, if it was some kind of balloon apparatus, I think we could ask why would that be transferred to Wright Field.
 → {"text": "是的，先生。有一些非常有趣的文件，早在 1947 年 7 月，非常積極調查所謂飛碟的聯邦調查局就有一份備忘錄，表明在羅斯威爾回收的殘骸或任何東西正被轉移到俄亥俄州代頓的萊特飛行場，美國空軍總部。我認為這相當有趣。無論這是什麼，如果它是某種氣球裝置，我想我們可以問為什麼要將它轉移到萊特飛行場。", "confidence": "high", "notes": ""}
@@ -232,10 +232,10 @@
 → {"text": "所以這很有趣。還有許多其他文件談到軍方內部討論的傳聞——是的，那不夠——對。不，不。——因為那是道聽塗說。", "confidence": "high", "notes": ""}
 
 286. But regarding Roswell, there was -- back in 1994, the General Accounting Office of Congress was tasked with looking into the Roswell incident. All right. And this was on the initiative of the late Representative Stephen Schiff of New Mexico, whose constituents asked him to do this, and he did. Schiff talked about this at length, about how the Air Force and the Pentagon just stonewalled him, gave him nothing, gave him a lot of expletives as well in the process. But what the GAO's investigation was that the relevant records at Roswell from the end of 1946 into, I think, 1948, 49 were gone. All of the records that they were looking for, that they expected to find, were, surprise, not there. And there was no explanation given.
-→ {"text": "但關於羅斯威爾，早在 1994 年，國會的美國審計總署被委任調查羅斯威爾事件。好的。這是應新墨西哥州已故眾議員史蒂文·席夫的倡議，他的選民要求他這樣做，他也照做了。席夫詳細談到了這件事，談到空軍和五角大廈如何對他設置障礙，什麼都不給他，在過程中也給了他很多髒話。但審計總署的調查發現，羅斯威爾從 1946 年底到，我想，1948 年、49 年的相關記錄都不見了。他們正在尋找的所有記錄，他們期望找到的，『驚喜地』，都不在那裡。而且沒有任何解釋。", "confidence": "high", "notes": "原文 surprise 為反諷語氣"}
+→ {"text": "但關於羅斯威爾，早在 1994 年，國會的美國審計總署（GAO）被委任調查羅斯威爾事件。好的。這是應新墨西哥州已故眾議員史蒂文·席夫（Steven Schiff）的倡議，他的選民要求他這樣做，他也照做了。席夫詳細談到了這件事，談到空軍和五角大廈（the Pentagon）如何對他設置障礙，什麼都不給他，在過程中也給了他很多髒話。但審計總署的調查發現，羅斯威爾從 1946 年底到，我想，1948 年、49 年的相關記錄都不見了。他們正在尋找的所有記錄，他們期望找到的，『驚喜地』，都不在那裡。而且沒有任何解釋。", "confidence": "high", "notes": "原文 surprise 為反諷語氣"}
 
 287. These were records, according to the GAO, that should not have been ever removed. They were permanent, but they were gone. And the Air Force, by the way, was very, very deft in their handling of this, because while the GAO investigation was going on, the United States Air Force took the initiative and did their own study, quote-unquote "study," in which they beat the GAO to the punch in terms of publicity, got their own thing out there and said, oh, yeah, it was a classified balloon project known as Mogul, which was designed to test to see whether the Soviets were detonating their own atomic devices. It's a big, big fat report. It looks very impressive. When you actually read it, it's a load of fluff, in my opinion. But that was their explanation. They beat the GAO to the punch and so they won the PR war.
-→ {"text": "根據審計總署的說法，這些記錄本來不應該被移除。它們是永久性的，但它們不見了。順便說一句，空軍在處理這件事上非常靈巧，因為在審計總署調查進行期間，美國空軍主動進行了他們自己的研究，所謂的「研究」，他們在宣傳方面搶在審計總署之前，發布了他們自己的東西並說，哦，是的，那是一個名為莫古爾的機密氣球計畫，設計用來測試蘇聯是否在引爆他們自己的原子裝置。這是一份又大又厚的報告。看起來非常令人印象深刻。但當你實際閱讀它時，依我之見，這是一堆廢話。但那就是他們的解釋。他們搶在審計總署之前，所以他們贏得了公關戰。", "confidence": "high", "notes": ""}
+→ {"text": "根據審計總署的說法，這些記錄本來不應該被移除。它們是永久性的，但它們不見了。順便說一句，空軍在處理這件事上非常靈巧，因為在審計總署調查進行期間，美國空軍主動進行了他們自己的研究，所謂的「研究」，他們在宣傳方面搶在審計總署之前，發布了他們自己的東西並說，哦，是的，那是一個名為莫古爾（Mogul）的機密氣球計畫，設計用來測試蘇聯是否在引爆他們自己的原子裝置。這是一份又大又厚的報告。看起來非常令人印象深刻。但當你實際閱讀它時，依我之見，這是一堆廢話。但那就是他們的解釋。他們搶在審計總署之前，所以他們贏得了公關戰。", "confidence": "high", "notes": ""}
 
 288. Thank you. Mr. Sheehan, would you address, briefly, what is the theological implication?
 → {"text": "謝謝。希恩先生，你能簡要地說明神學上的含義嗎？", "confidence": "high", "notes": ""}
@@ -259,10 +259,10 @@
 → {"text": "庫克眾議員。", "confidence": "high", "notes": ""}
 
 295. I would like to start by asking Colonel French, you were involved in the initiations of the Blue Book processes. Could you elaborate a little more on what you found out from that and especially, so I have a better understanding of how that got stopped or discarded or what exactly happened on the Blue Book and how long did that go on? I just need a better understanding.
-→ {"text": "我想先請教法蘭奇中校，您參與了藍皮書計畫的啟動過程。您能否詳細說明一下您從中發現了什麼，特別是讓我更了解它是如何被停止或廢棄的，或者藍皮書計畫到底發生了什麼，持續了多久？我只是需要更好的理解。", "confidence": "high", "notes": ""}
+→ {"text": "我想先請教弗倫奇中校，您參與了藍皮書計畫的啟動過程。您能否詳細說明一下您從中發現了什麼，特別是讓我更了解它是如何被停止或廢棄的，或者藍皮書計畫到底發生了什麼，持續了多久？我只是需要更好的理解。", "confidence": "high", "notes": ""}
 
 296. I'd like to start with a curve if you don't mind too much, but they ask about what happened to the results of the accident at Alamogordo. All of that was taken to what is called the Foreign Technology Division at Wright-Patterson Air Force Base. What was shipped, there was physical debris, actually parts of some kind of airplane. Another unusual aspect of it was though the metal wasn't any thicker than cellophane, but you put it in your hand and you crush it together and it flops right back into shape. Had it analyzed, it didn't come from Earth. There's no known, we have no known source of whatever that metal was.
-→ {"text": "如果你不太介意的話，我想先偏個題，他們問到阿拉莫戈多事故的結果發生了什麼。所有那些都被送到萊特-帕特森空軍基地所謂的外國技術部門。運送過去的是實體殘骸，實際上是某種飛行器的零件。另一個不尋常的方面是，儘管金屬不比玻璃紙厚，但你把它放在手中，把它壓在一起，它會立即彈回原來的形狀。經過分析，它不是來自地球。我們沒有已知的、我們對那種金屬的來源一無所知。", "confidence": "high", "notes": ""}
+→ {"text": "如果你不太介意的話，我想先偏個題，他們問到阿拉莫戈多事故的結果發生了什麼。所有那些都被送到萊特-帕特森空軍基地（Wright-Patterson Air Force Base）所謂的外國技術部門（Foreign Technology Division）。運送過去的是實體殘骸，實際上是某種飛行器的零件。另一個不尋常的方面是，儘管金屬不比玻璃紙厚，但你把它放在手中，把它壓在一起，它會立即彈回原來的形狀。經過分析，它不是來自地球。我們沒有已知的、我們對那種金屬的來源一無所知。", "confidence": "high", "notes": ""}
 
 297. You had that in your hands?
 → {"text": "您親手拿過那個？", "confidence": "high", "notes": ""}
@@ -277,7 +277,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 301. So has Marcel. Jesse Marcel did the same thing.
-→ {"text": "馬塞爾也是。傑西·馬塞爾也做了同樣的事。", "confidence": "high", "notes": ""}
+→ {"text": "馬塞爾也是。傑西·馬塞爾（Jesse Marcel）也做了同樣的事。", "confidence": "high", "notes": ""}
 
 302. I understand from the Roswell basically what's generally called the Roswell incident. I realize there were several different locations of materials gathered up. There were dozens and dozens of witnesses on the materials and you're clearly one of them. At least in terms of the analysis of the materials, not necessarily gathering them up. Tell us about were there witnesses of any, has been referred to as humanoid, because you don't hear nearly as much about that.
 → {"text": "我從羅斯威爾事件了解到，基本上就是通常所說的羅斯威爾事件。我知道有幾個不同地點收集了材料。對材料有數十名證人，而您顯然是其中之一。至少在材料分析方面，不一定是收集它們的人。請告訴我們，有沒有任何證人看到所謂的類人生物，因為你很少聽到這方面的消息。", "confidence": "high", "notes": ""}
@@ -313,10 +313,10 @@
 → {"text": "好的，那麼，好吧，我只是，我問了關於藍皮書的問題，你說它被關閉了，原因是什麼？", "confidence": "high", "notes": ""}
 
 313. The end of 1969. Well, what happened in the 1960s is that the United States had a big, big wave of UFO sightings, 1965, '66, made the news. Gerald Ford, congressman in Michigan, talked about it on the floor of Congress. His constituents had seen UFOs, and he was not satisfied with the answers that were coming from the Air Force, and the pressure was really on the United States Air Force to do something about this. It's hard to remember because it's so far back in time, but the Air Force was losing a lot of credibility on this. A lot of people were not believing the Air Force explanations, and swamp gas became a big national joke at that time, and so really all the Air Force wanted to do was just get rid of UFOs, and so what they ended up doing was they contracted with the University of Colorado to conduct what was to be the first true public scientific investigation of UFOs, and the whole attitude
-→ {"text": "1969 年底。嗯，1960 年代發生的事情是美國出現了一波非常非常大的不明飛行物目擊潮，1965 年、66 年，都上了新聞。密西根州眾議員傑拉爾德·福特在國會議場談論此事。他的選民看到了不明飛行物，他對空軍給出的答案不滿意，美國空軍真的承受著要對此採取行動的壓力。這很難記住，因為那是很久以前的事了，但空軍在這方面失去了很多可信度。很多人不相信空軍的解釋，沼氣在當時成為全國性的大笑話，所以空軍真正想做的就是擺脫不明飛行物，所以他們最終做的是與科羅拉多大學簽約，進行第一次真正的公開科學調查不明飛行物，整個態度是。", "confidence": "high", "notes": ""}
+→ {"text": "1969 年底。嗯，1960 年代發生的事情是美國出現了一波非常非常大的不明飛行物目擊潮，1965 年、66 年，都上了新聞。密西根州眾議員傑拉爾德·福特（Gerald Ford）在國會議場談論此事。他的選民看到了不明飛行物，他對空軍給出的答案不滿意，美國空軍真的承受著要對此採取行動的壓力。這很難記住，因為那是很久以前的事了，但空軍在這方面失去了很多可信度。很多人不相信空軍的解釋，沼氣在當時成為全國性的大笑話，所以空軍真正想做的就是擺脫不明飛行物，所以他們最終做的是與科羅拉多大學（University of Colorado）簽約，進行第一次真正的公開科學調查不明飛行物，整個態度是。", "confidence": "high", "notes": ""}
 
 314. was whatever Colorado comes up with, that's what we're going to conclude, and what that study did, that was a whole big mess, and half the scientists got fired midway through the project because they were believers. The man running it, Edward Condon, was absolutely dead set against any kind of pro-UFO, pro-ET. So based on that recommendation, the Air Force was able to wash their hands, say thank you very much, and they said we're out of the business, we're not doing this anymore.
-→ {"text": "無論科羅拉多大學得出什麼結論，那就是我們要得出的結論，而那項研究所做的，那是一團糟，一半的科學家在計畫中途被解僱，因為他們是信徒。負責這項研究的人，愛德華·康登，絕對堅決反對任何支持不明飛行物、支持外星人的立場。因此，基於那項建議，空軍能夠洗手不幹，說非常感謝，他們說我們退出這個業務，我們不再做這件事了。", "confidence": "high", "notes": ""}
+→ {"text": "無論科羅拉多大學得出什麼結論，那就是我們要得出的結論，而那項研究所做的，那是一團糟，一半的科學家在計畫中途被解僱，因為他們是信徒。負責這項研究的人，愛德華·康登（Edward Condon），絕對堅決反對任何支持不明飛行物、支持外星人的立場。因此，基於那項建議，空軍能夠洗手不幹，說非常感謝，他們說我們退出這個業務，我們不再做這件事了。", "confidence": "high", "notes": ""}
 
 315. And there's no way to retrieve any of the, I just got to make sure I understand this, and I appreciate it, because you've illuminated this greatly for me, but is there any way to find out exactly what was in the Blue Book at this point then? I'm looking for-- Yes, yes.
 → {"text": "而且沒有辦法取回任何，我只是要確保我理解這一點，我很感激，因為你為我大大闡明了這一點，但現在有沒有辦法準確找出藍皮書中有什麼？我在尋找——是的，是的。", "confidence": "high", "notes": ""}
@@ -340,10 +340,10 @@
 → {"text": "好的，現在我對這一切有了更好的理解。", "confidence": "high", "notes": ""}
 
 322. And in the prior panel, Stanton Friedman referred to a memo by General Carroll Bolender in which he stated, in closing Blue Book down in 1969, that UFO reports affecting national security were not part of the Blue Book system, so Blue Book-- I do remember him saying that.
-→ {"text": "在之前的小組中，斯坦頓·弗里德曼提到了卡羅爾·博倫德將軍的一份備忘錄，其中他在 1969 年關閉藍皮書計畫時表示，影響國家安全的不明飛行物報告不屬於藍皮書系統的一部分，所以藍皮書——我確實記得他這麼說。", "confidence": "high", "notes": ""}
+→ {"text": "在之前的小組中，史丹頓·弗里德曼提到了卡羅爾·博倫德將軍（Carroll Bolender）的一份備忘錄，其中他在 1969 年關閉藍皮書計畫時表示，影響國家安全的不明飛行物報告不屬於藍皮書系統的一部分，所以藍皮書——我確實記得他這麼說。", "confidence": "high", "notes": ""}
 
 323. If I could turn to Mr. Huneeus and to Mr. Sheehan, religion has been brought up and implied in terms of this whole thing several ways, and now you're not trying to say that just because Pat Robertson has a particular view or because popes in the past have said things that clearly don't agree with what you're saying as a Jesuit, that religion is somehow against the idea of extraterrestrial life?
-→ {"text": "如果我可以轉向胡尼烏斯先生和希恩先生，宗教以多種方式在這整件事中被提出和暗示，現在你們不是想說，僅僅因為帕特·羅伯遜有特定觀點，或者因為過去的教宗說過明顯與你作為耶穌會士所說的不一致的話，宗教就在某種程度上反對外星生命的想法？", "confidence": "high", "notes": ""}
+→ {"text": "如果我可以轉向胡尼烏斯先生和希恩先生，宗教以多種方式在這整件事中被提出和暗示，現在你們不是想說，僅僅因為帕特·羅伯遜（Pat Robertson）有特定觀點，或者因為過去的教宗說過明顯與你作為耶穌會士所說的不一致的話，宗教就在某種程度上反對外星生命的想法？", "confidence": "high", "notes": ""}
 
 324. No, in fact, it's quite the contrary, that, remember, religion, religiro, the Latin derivative of religiro is to relink.
 → {"text": "不，事實上恰恰相反，記住，宗教，religiro，religiro 的拉丁語衍生詞是重新連結。", "confidence": "high", "notes": ""}
@@ -427,7 +427,7 @@
 → {"text": "嗯，謝謝。", "confidence": "high", "notes": ""}
 
 351. Thank you very much, Congresswoman Hooley.
-→ {"text": "非常感謝，胡利眾議員。", "confidence": "high", "notes": ""}
+→ {"text": "非常感謝，胡利眾議員（Darlene Hooley）。", "confidence": "high", "notes": ""}
 
 352. What kind of, I mean, the reaction over the last 30, 40 years in the United States, what's the reaction, and what has happened in the rest of the world?
 → {"text": "什麼樣的，我是說，過去 30、40 年美國的反應，反應是什麼，世界其他地方發生了什麼？", "confidence": "high", "notes": ""}
@@ -529,7 +529,7 @@
 → {"text": "即使在蘇聯時期，也有委員會——實際上在 70 年代末和 80 年代有兩個委員會在運作。", "confidence": "high", "notes": ""}
 
 385. One was a public one through the Soviet Academy of Sciences, and the other one was a secret one by the KGB and the Ministry of Defense, the Soviet military.
-→ {"text": "一個是透過蘇聯科學院運作的公開委員會，另一個是由克格勃和國防部、蘇聯軍方主導的秘密委員會。", "confidence": "high", "notes": ""}
+→ {"text": "一個是透過蘇聯科學院（Soviet Academy of Sciences）運作的公開委員會，另一個是由克格勃和國防部、蘇聯軍方主導的秘密委員會。", "confidence": "high", "notes": ""}
 
 386. Nobody knew about that one publicly, but the scientific one was even officially revealed even in the controlled Soviet media.
 → {"text": "公眾沒有人知道那個秘密委員會，但科學委員會甚至在受控的蘇聯媒體中也被官方揭露。", "confidence": "high", "notes": ""}
@@ -592,7 +592,7 @@
 → {"text": "但我同意你的看法，在我們的公共論述中，這是一條高壓線，無論你是在主流媒體、政界還是學術界，在這方面他們都真的是一樣的。", "confidence": "high", "notes": ""}
 
 403. I had a professor at UCLA call me a number of years ago, a department chair said, well, I really just want to let you know I enjoy your books.
-→ {"text": "幾年前，加州大學洛杉磯分校的一位教授打電話給我，一位系主任說，嗯，我只是想讓你知道我喜歡你的書。", "confidence": "high", "notes": ""}
+→ {"text": "幾年前，加州大學洛杉磯分校（UCLA）的一位教授打電話給我，一位系主任說，嗯，我只是想讓你知道我喜歡你的書。", "confidence": "high", "notes": ""}
 
 404. I said, thank you.
 → {"text": "我說，謝謝。", "confidence": "high", "notes": ""}
@@ -610,7 +610,7 @@
 → {"text": "但我個人認為，你知道，基調是在 50 年代定下來的。", "confidence": "high", "notes": ""}
 
 409. And in fact, the top skeptic debunker in the U.S. at that time was a Harvard astronomer by the name of Donald Menzel.
-→ {"text": "事實上，當時美國頂級的懷疑論揭穿者是一位名叫唐納德·門澤爾的哈佛天文學家。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，當時美國頂級的懷疑論揭穿者是一位名叫唐納德·門澤爾（Donald Menzel）的哈佛天文學家。", "confidence": "high", "notes": ""}
 
 410. Menzel wrote a number of books.
 → {"text": "門澤爾寫了很多書。", "confidence": "high", "notes": ""}
@@ -637,7 +637,7 @@
 → {"text": "但這些事情——看起來就是這樣。", "confidence": "high", "notes": ""}
 
 418. Back in the late 1970s, journalist Carl Bernstein had the famous Rolling Stone article in which he said there are over 400 U.S. journalists that I have identified who had a covert relationship with the Central Intelligence Agency.
-→ {"text": "早在 1970 年代末，記者卡爾·伯恩斯坦在《滾石》雜誌上發表了著名文章，他在文中說，我已經確認有超過 400 名美國記者與中央情報局有秘密關係。", "confidence": "high", "notes": ""}
+→ {"text": "早在 1970 年代末，記者卡爾·伯恩斯坦（Carl Bernstein）在《滾石》（Rolling Stone）雜誌上發表了著名文章，他在文中說，我已經確認有超過 400 名美國記者與中央情報局有秘密關係。", "confidence": "high", "notes": ""}
 
 419. CIA promptly said, "Well, we don't do that anymore."
 → {"text": "中央情報局迅速表示，「嗯，我們不再那樣做了。」", "confidence": "high", "notes": ""}
@@ -679,7 +679,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 432. In the Robertson panel, which is a famous CIA symposium that took place in January of 1953, in fact, they used the word "debunk."
-→ {"text": "在羅伯森調查小組中，這是 1953 年 1 月舉行的著名中央情報局研討會，事實上，他們使用了「揭穿」這個詞。", "confidence": "high", "notes": ""}
+→ {"text": "在羅伯森調查小組（Robertson Panel）中，這是 1953 年 1 月舉行的著名中央情報局研討會，事實上，他們使用了「揭穿」這個詞。", "confidence": "high", "notes": ""}
 
 433. It's in the document itself.
 → {"text": "這在文件本身中就有。", "confidence": "high", "notes": ""}
@@ -802,13 +802,13 @@
 → {"text": "希恩先生，這不是屬於那個範圍嗎？", "confidence": "high", "notes": ""}
 
 473. Oh yes, there's no doubt about this, but the fact of the matter is in a national security state, from the passage of the National Security Act of 1947, there has been an entire caveat on the Constitution that things that fall under national security, when Oliver North can sit right in front of you and say, "Sure, I lied to you, the Congress, because this was a covert operation, that we're in charge, you're not in charge."
-→ {"text": "哦，是的，這毫無疑問，但事實是，在國安國家體制下，自從 1947 年國家安全法案通過以來，憲法上就一直存在一個巨大的保留：凡是屬於國家安全範疇的事——當奧利弗·諾斯可以坐在你面前說：『當然，我對你們、對國會撒了謊，因為這是秘密行動；掌權的是我們，不是你們。』", "confidence": "high", "notes": ""}
+→ {"text": "哦，是的，這毫無疑問，但事實是，在國安國家體制下，自從 1947 年國家安全法案（National Security Act of 1947）通過以來，憲法上就一直存在一個巨大的保留：凡是屬於國家安全範疇的事——當奧利弗·諾斯（Oliver North）可以坐在你面前說：『當然，我對你們、對國會撒了謊，因為這是秘密行動；掌權的是我們，不是你們。』", "confidence": "high", "notes": ""}
 
 474. There's an entire national security state kind of subculture that believes that they have the right, not only to hold information back from Congress, but to openly defy Congress.
 → {"text": "整個國家安全國家有一種次文化，他們相信他們有權不僅對國會隱瞞資訊，而且公開違抗國會。", "confidence": "high", "notes": ""}
 
 475. When you pass the Boland Amendment, prohibiting them from engaging in the covert operations against Nicaragua, they go ahead and do it anyhow.
-→ {"text": "當你們通過博蘭修正案，禁止他們參與針對尼加拉瓜的秘密行動時，他們還是照做不誤。", "confidence": "high", "notes": ""}
+→ {"text": "當你們通過博蘭修正案（Boland Amendment），禁止他們參與針對尼加拉瓜的秘密行動時，他們還是照做不誤。", "confidence": "high", "notes": ""}
 
 476. The danger as a national security state, and if it arose in the context of the Cold War with the Soviet Union, we should move very aggressively at the end of the Cold War to try to disassemble some of those structures of the national security state, not try to create a new one, so that they went searching very quickly for some ultimate other that they had to find, and they ended up having Afghanistan, or Iran, or Iraq.
 → {"text": "國家安全國家的危險，如果它是在與蘇聯冷戰的背景下產生的，我們應該在冷戰結束時非常積極地試圖拆除國家安全國家的一些結構，而不是試圖創造一個新的，結果他們很快就去尋找一些他們必須找到的終極他者，最終得到了阿富汗、伊朗或伊拉克。", "confidence": "high", "notes": ""}
@@ -826,7 +826,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 481. For 20 years in the Congress, I served on the Armed Services Committee, and I remembered Eisenhower's caution as he left office, that we should be concerned about the military-industrial complex.
-→ {"text": "我在國會服務了 20 年，在軍事委員會任職，我記得艾森豪離職時的警告，我們應該關注軍工複合體。", "confidence": "high", "notes": ""}
+→ {"text": "我在國會服務了 20 年，在軍事委員會任職，我記得艾森豪（Dwight D. Eisenhower）離職時的警告，我們應該關注軍工複合體。", "confidence": "high", "notes": ""}
 
 482. I understand that in the original draft, it was military-industrial-congressional complex, and he didn't want to be too political, so he took out the congressional.
 → {"text": "我理解在原稿中，它是軍事-工業-國會複合體，他不想太政治化，所以他刪掉了國會。", "confidence": "high", "notes": ""}

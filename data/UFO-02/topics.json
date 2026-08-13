@@ -87,6 +87,12 @@
           "reasoning": "The Washington state base is McChord Air Force Base (now Joint Base Lewis-McChord); 'McCord' is a misspelling."
         },
         {
+          "segment_id": 186,
+          "error_text": "Lawrence Rockefeller",
+          "suggested_correction": "Laurance Rockefeller",
+          "reasoning": "The person who funded UFO research presentations to the Harvard faculty is Laurance S. Rockefeller, whose first name has an unusual spelling; 'Lawrence' is a common misspelling/transcription error. (Registered during 2026-08-13 annotation task.)"
+        },
+        {
           "segment_id": 208,
           "error_text": "They drugged the Colorado River",
           "suggested_correction": "They dragged the Colorado River",

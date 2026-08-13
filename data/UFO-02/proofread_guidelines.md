@@ -135,3 +135,12 @@
 - **任務**：於 `data/UFO-02/drafts/` 各檔的定譯中，為重要人名／地名／專有名詞補上原文括註（例：多蘭（Richard Dolan））。僅補重要專有名詞的**首次出現**，無需重複
 - **格式**：全形括號；括註內純英文內容用半形標點；只改 `→` 行，JSON 保持單行且合法；編號行與 Speaker Group 標題不動
 - **驗證與收尾**：完成後以 `python` 逐行 `json.loads` 驗證並回報人工；若本集尚未回填，括註隨正常收尾流程生效；若已回填／匯出，是否重跑 backfill/export 由人工決定
+
+### 括註補登完工紀錄（2026-08-13）
+- **狀態：完成**（清單經人工過目後執行，68 項精確替換，全數唯一匹配斷言通過）
+- 新增全形原文括註 **78 處**（topic_01 51 處、topic_02 27 處）；既有括註 3 處保留（seg 19 FOIA、seg 92 UFO、seg 100 CUFOS），現全集共 81 處
+- **一併處理的譯名漂移**（人工裁決）：法蘭奇→弗倫奇 ×3（seg 203 及 topic_02 兩處，主表定譯）；國會研究處→國會研究服務處 ×6（本集術語表定譯）；seg 322 斯坦頓·弗里德曼→史丹頓·弗里德曼（已拍板定譯）
+- **人工裁決細節**：seg 100 Friedman 採重組句式「出席了公民聽證會的史丹頓·弗里德曼（Stanton Friedman）」；卡特僅在 seg 133 加註（Jimmy Carter）；常識級詞（聯合國、耶穌會、哈佛、水門事件、美國州名）與概念術語（軍工複合體、憲法第一修正案）不加註
+- **新轉錄錯誤**：seg 186 Lawrence Rockefeller 應為 **Laurance Rockefeller**（括註用正確拼寫＋notes 加註，已補錄 topics.json `potential_errors`）
+- **驗證結果**：510 個 `→` 行 JSON 全數 PASS；git diff 無非 `→` 行異動（57 行變更全為目標行）；漂移殘留 0
+- **待人工決定**：`fix_transcription_errors.py` 是否執行（topics.json 現有 22 筆 potential_errors）；`backfill_translations.py`／`export_srt.py` 依全 20 集統一收尾裁決，本集不執行

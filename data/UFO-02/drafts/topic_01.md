@@ -22,7 +22,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 8. We are for the second time this morning honored to begin with Mr. Dolan.
-→ {"text": "我們今早第二次深感榮幸，能邀請多蘭先生率先發言。", "confidence": "high", "notes": ""}
+→ {"text": "我們今早第二次深感榮幸，能邀請多蘭先生（Richard Dolan）率先發言。", "confidence": "high", "notes": ""}
 
 9. My goodness.
 → {"text": "天啊。", "confidence": "high", "notes": ""}
@@ -52,7 +52,7 @@
 → {"text": "但隨後越戰結束，當然還有水門事件。", "confidence": "high", "notes": ""}
 
 18. And this was a certain key moment in American history, a moment in which the United States Congress investigated the intelligence community, for example, and when it reopened the investigation of the assassination of President John F. Kennedy and Dr. Martin Luther King Jr. and others.
-→ {"text": "這是美國歷史上的關鍵時刻，在這一時期，美國國會調查了情報機構，並重啟了對約翰·F·甘迺迪總統與小馬丁·路德·金恩博士等人遇刺案的調查。", "confidence": "high", "notes": ""}
+→ {"text": "這是美國歷史上的關鍵時刻，在這一時期，美國國會調查了情報機構，並重啟了對約翰·F·甘迺迪總統（John F. Kennedy）與小馬丁·路德·金恩博士（Martin Luther King Jr.）等人遇刺案的調查。", "confidence": "high", "notes": ""}
 
 19. And it was a moment in which Congress dramatically strengthened the United States Freedom of Information Act, enabling U.S. citizens to petition their government for documents not merely relating to them personally but to the nation in terms of broad issues of public policy.
 → {"text": "也是在這個時期，國會大幅強化了美國資訊自由法（FOIA），使美國公民不僅能申請與個人相關的文件，也能申請涉及國家廣泛公共政策議題的文件。", "confidence": "high", "notes": ""}
@@ -64,7 +64,7 @@
 → {"text": "事實上，在 1970 年代後期，超過 10,000 頁與不明飛行物相關的文件被解密公開。", "confidence": "high", "notes": ""}
 
 22. The party lasted until about 1982 when a presidential order by Ronald Reagan made FOIA substantially less user friendly and did not require many agencies to reply in a timely manner at all.
-→ {"text": "這場盛宴持續到 1982 年左右，當時雷根總統的行政命令大幅降低了資訊自由法的友善程度，並且不再要求許多機構及時回應申請。", "confidence": "high", "notes": ""}
+→ {"text": "這場盛宴持續到 1982 年左右，當時雷根總統（Ronald Reagan）的行政命令大幅降低了資訊自由法的友善程度，並且不再要求許多機構及時回應申請。", "confidence": "high", "notes": ""}
 
 23. The result was a major ballooning in costs to those people making requests.
 → {"text": "結果導致申請者的成本大幅膨脹。", "confidence": "high", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "不明飛行物不僅是我國軍方與情報機構關注的主題，有時更是令他們憂慮甚至驚恐的對象。", "confidence": "high", "notes": ""}
 
 32. But how could it be otherwise when we have report after report of violations of sensitive airspace by objects that defy any logical or conventional explanation, whether the scene was Los Alamos during 1948 and 1949, or Oak Ridge Laboratories from 1948 through much of the 1950s, or the many military bases during the 50s, 60s, and 70s that reported such events.
-→ {"text": "當我們有一份又一份關於敏感空域遭不明物體侵犯的報告時，怎能不如此呢？這些物體違反任何邏輯或常規解釋，無論現場是 1948 至 1949 年的洛斯阿拉莫斯，1948 年至 1950 年代大部分時期的橡樹嶺實驗室，或是 1950、1960、1970 年代許多回報此類事件的軍事基地。", "confidence": "high", "notes": ""}
+→ {"text": "當我們有一份又一份關於敏感空域遭不明物體侵犯的報告時，怎能不如此呢？這些物體違反任何邏輯或常規解釋，無論現場是 1948 至 1949 年的洛斯阿拉莫斯（Los Alamos），1948 年至 1950 年代大部分時期的橡樹嶺實驗室（Oak Ridge Laboratories），或是 1950、1960、1970 年代許多回報此類事件的軍事基地。", "confidence": "high", "notes": ""}
 
 33. The question remains, how could this not be a matter of grave concern to those parties responsible for maintaining the integrity of their airspace?
 → {"text": "問題仍然存在：對於那些負責維護領空完整性的單位而言，這怎麼可能不是嚴重關切的事項？", "confidence": "high", "notes": ""}
@@ -109,7 +109,7 @@
 → {"text": "事實上，這些陳述是典型的寫法。", "confidence": "high", "notes": ""}
 
 37. And the situation became so stressful to the CIA and elsewhere that on December 2nd, 1952, this is right at the very end of the Truman presidency, the CIA's chief of scientific intelligence, H. Marshall Chadwell, wrote a classified memo to his boss, that was the director of the CIA, Walter Bedell Smith.
-→ {"text": "情勢變得如此緊迫，以至於 CIA 與其他單位備感壓力。1952 年 12 月 2 日，也就是杜魯門總統任期即將結束之際，CIA 科學情報部門主管 H·馬歇爾·查德威爾向他的上司——CIA 局長沃爾特·比德爾·史密斯——提交了一份機密備忘錄。", "confidence": "high", "notes": ""}
+→ {"text": "情勢變得如此緊迫，以至於 CIA 與其他單位備感壓力。1952 年 12 月 2 日，也就是杜魯門總統（Harry S. Truman）任期即將結束之際，CIA 科學情報部門主管 H·馬歇爾·查德威爾（H. Marshall Chadwell）向他的上司——CIA 局長沃爾特·比德爾·史密斯（Walter Bedell Smith）——提交了一份機密備忘錄。", "confidence": "high", "notes": ""}
 
 38. And a key paragraph in this memo is as follows.
 → {"text": "這份備忘錄中的關鍵段落如下。", "confidence": "high", "notes": ""}
@@ -199,7 +199,7 @@
 → {"text": "下午好，或早上好，尊敬的不明飛行物公民聽證會成員與小組成員。", "confidence": "high", "notes": ""}
 
 67. My name is Antonio Huneeus, and I'm a Chilean-American journalist who has been actively involved in covering the mystery of UFOs and its hypothesis of extraterrestrial ET origin.
-→ {"text": "我的名字是安東尼奧·胡尼烏斯，我是一名智利裔美國記者，在過去 37 年裡積極參與報導不明飛行物之謎及其外星起源假說。", "confidence": "high", "notes": "原文 for the past 37 years 因 Whisper 斷句落在下一段，譯文提前併入以求語意完整"}
+→ {"text": "我的名字是安東尼奧·胡尼烏斯（Antonio Huneeus），我是一名智利裔美國記者，在過去 37 年裡積極參與報導不明飛行物之謎及其外星起源假說。", "confidence": "high", "notes": "原文 for the past 37 years 因 Whisper 斷句落在下一段，譯文提前併入以求語意完整"}
 
 68. Other theories are also possible and should be considered for the past 37 years.
 → {"text": "其他理論也是可能的，也應該被考慮。", "confidence": "high", "notes": ""}
@@ -214,7 +214,7 @@
 → {"text": "我父親在聯合國成立初期的幾年間在該組織工作，我就是在那段時間——1950 年——於紐約出生。", "confidence": "high", "notes": ""}
 
 72. After graduating from high school in Santiago in 1969, I went to Europe and took a semester on French language and civilization at the Sorbonne University in Paris, and later studied journalism at the University of Chile in Santiago.
-→ {"text": "1969 年從聖地牙哥高中畢業後，我前往歐洲，在巴黎的索邦大學修讀了一學期的法語與文明課程，之後在聖地牙哥的智利大學攻讀新聞學。", "confidence": "high", "notes": ""}
+→ {"text": "1969 年從聖地牙哥高中畢業後，我前往歐洲，在巴黎的索邦大學（Sorbonne University）修讀了一學期的法語與文明課程，之後在聖地牙哥的智利大學（University of Chile）攻讀新聞學。", "confidence": "high", "notes": ""}
 
 73. I worked for a while as a science journalist for a weekly magazine in Santiago and also wrote regularly for a daily newspaper in the mid-70s, where I was one of the first journalists in Chile to cover ecological or green issues on a regular basis.
 → {"text": "我曾在聖地牙哥的一本週刊擔任科學記者，並在 1970 年代中期為一家日報定期撰稿，我是智利最早定期報導生態或環保議題的記者之一。", "confidence": "high", "notes": ""}
@@ -265,13 +265,13 @@
 → {"text": "我將簡要概述不明飛行物在聯合國的歷史，我對此議題有第一手的了解，因為我以記者身份親自出席了 1978 年 11 月 27 日聯合國特別政治委員會舉行的著名歷史性不明飛行物聽證會。", "confidence": "high", "notes": ""}
 
 89. This was the result of a two-year lobbying effort by Sir Eric Gairy, the Prime Minister of Grenada, a small Caribbean island which had gained independence from Great Britain in 1978.
-→ {"text": "這是格瑞納達總理埃里克·蓋里爵士經過兩年遊說努力的成果，格瑞納達是一個加勒比海小島，於 1978 年脫離英國獨立。", "confidence": "medium", "notes": "查證：格瑞納達實際於 1974 年 2 月 7 日獨立，原文 1978 疑為講者口誤或轉錄錯誤，保留原數字"}
+→ {"text": "這是格瑞納達（Grenada）總理埃里克·蓋里爵士（Sir Eric Gairy）經過兩年遊說努力的成果，格瑞納達是一個加勒比海小島，於 1978 年脫離英國獨立。", "confidence": "medium", "notes": "查證：格瑞納達實際於 1974 年 2 月 7 日獨立，原文 1978 疑為講者口誤或轉錄錯誤，保留原數字"}
 
 90. I'm submitting for the record a long article detailing the history of UFOs at the UN, which I published in the third issue of Open Minds Magazine in 2010.
 → {"text": "我在此提交一篇詳述聯合國不明飛行物歷史的長文供記錄留存，該文發表於 2010 年 Open Minds 雜誌第三期。", "confidence": "high", "notes": ""}
 
 91. Grenada's UFO proposal was first raised officially by Prime Minister Gairy and Grenada's UN Ambassador Wellington Friday at a meeting of the UN General Assembly Special Political Committee on November 28, 1977.
-→ {"text": "格瑞納達的不明飛行物提案首次由蓋里總理與格瑞納達駐聯合國大使弗萊戴於 1977 年 11 月 28 日在聯合國大會特別政治委員會會議上正式提出。", "confidence": "high", "notes": ""}
+→ {"text": "格瑞納達的不明飛行物提案首次由蓋里總理與格瑞納達駐聯合國大使弗萊戴（Wellington Friday）於 1977 年 11 月 28 日在聯合國大會特別政治委員會會議上正式提出。", "confidence": "high", "notes": ""}
 
 92. Grenada proposed the, quote, "establishment of an agency or a department of the United Nations for undertaking, coordinating, and disseminating the results of research into unidentified flying objects, UFOs, and related phenomena."
 → {"text": "格瑞納達提議，引述：「建立聯合國機構或部門，負責進行、協調並傳播關於不明飛行物（UFO）及相關現象的研究成果。」", "confidence": "high", "notes": ""}
@@ -286,22 +286,22 @@
 → {"text": "經過這些努力，1977 年 12 月 13 日，大會通過了第 32/424 號決議，承認了格瑞納達提交的決議草案。", "confidence": "high", "notes": ""}
 
 96. Secretary General Kurt Waldheim duly forwarded decision 32/424 to the member states by a note verbal on March 13, 1978.
-→ {"text": "秘書長庫爾特·瓦爾德海姆於 1978 年 3 月 13 日透過口頭照會正式將第 32/424 號決議轉交各會員國。", "confidence": "high", "notes": ""}
+→ {"text": "秘書長庫爾特·瓦爾德海姆（Kurt Waldheim）於 1978 年 3 月 13 日透過口頭照會正式將第 32/424 號決議轉交各會員國。", "confidence": "high", "notes": ""}
 
 97. However, only three governments responded, India, Luxembourg, and Seychelles, and only two specialized agencies, International Civil Aviation Organization and UNESCO, replied with a flat, "No comments to offer."
 → {"text": "然而，只有三個政府回應——印度、盧森堡與塞席爾，而且只有兩個專門機構——國際民航組織與聯合國教科文組織——以簡短的「無意見」回覆。", "confidence": "high", "notes": ""}
 
 98. On the 3rd, Grenada launched a new offensive in 1978 with the help of one of the original NASA astronauts, Gordon Cooper, among others.
-→ {"text": "1978 年，格瑞納達在原 NASA 太空人戈登·庫珀等人協助下發起了新一輪攻勢。", "confidence": "high", "notes": "原文開頭 On the 3rd 語意不明，疑為轉錄殘句，未譯"}
+→ {"text": "1978 年，格瑞納達在原 NASA 太空人戈登·庫珀（Gordon Cooper）等人協助下發起了新一輪攻勢。", "confidence": "high", "notes": "原文開頭 On the 3rd 語意不明，疑為轉錄殘句，未譯"}
 
 99. A group of recognized experts was assembled by Gairy to testify at a hearing before the Special Political Committee on November 27, 1978, which became the high point of the Grenada initiative.
 → {"text": "蓋里召集了一群公認的專家，於 1978 年 11 月 27 日在特別政治委員會聽證會上作證，這成為格瑞納達倡議的高峰。", "confidence": "high", "notes": ""}
 
 100. Besides Sir Eric Gairy and Ambassador Friday, who was now Grenada's Minister of Education, the hearing included testimony by astronomer Dr. J. Alan Hynek, the former scientific consultant for the U.S. Air Force Project Blue Book, who went on to found the Center for UFO Studies, CUFOS; Dr. Jacques Vallee, Stanton Friedman, who was present at the citizen hearing; and a firsthand witness account by Lieutenant Colonel Lawrence Coyne of the U.S.
-→ {"text": "除了埃里克·蓋里爵士與當時已擔任格瑞納達教育部長的弗萊戴大使，聽證會還包括天文學家 J·艾倫·海尼克博士的證詞——他曾是美國空軍藍皮書計畫的前科學顧問，後來創立了 UFO 研究中心（CUFOS）；還有雅克·瓦萊博士、史丹頓·弗里德曼（他出席了公民聽證會）；以及美國陸軍預備役中校勞倫斯·科恩的第一手目擊證詞。", "confidence": "high", "notes": ""}
+→ {"text": "除了埃里克·蓋里爵士與當時已擔任格瑞納達教育部長的弗萊戴大使，聽證會還包括天文學家 J·艾倫·海尼克博士（Dr. J. Alan Hynek）的證詞——他曾是美國空軍藍皮書計畫（Project Blue Book）的前科學顧問，後來創立了 UFO 研究中心（CUFOS）；還有雅克·瓦萊博士（Dr. Jacques Vallee）、出席了公民聽證會的史丹頓·弗里德曼（Stanton Friedman）；以及美國陸軍預備役中校勞倫斯·科恩（Lawrence Coyne）的第一手目擊證詞。", "confidence": "high", "notes": ""}
 
 101. Army Reserve on the famous October 18, 1973, UFO helicopter near collision in Ohio; a letter of endorsement by astronaut Gordon Cooper, who was then working for the Walt Disney Company as Vice President of Research and Development for Epcot, was read into the record.
-→ {"text": "他作證的是著名的 1973 年 10 月 18 日俄亥俄州 UFO 直升機險些碰撞事件；太空人庫珀的背書信函也被納入記錄，他當時在華特迪士尼公司擔任 Epcot 研發副總裁。", "confidence": "high", "notes": "本段接續上段，主詞為科恩中校"}
+→ {"text": "他作證的是著名的 1973 年 10 月 18 日俄亥俄州 UFO 直升機險些碰撞事件；太空人庫珀的背書信函也被納入記錄，他當時在華特迪士尼公司（Walt Disney Company）擔任 Epcot 研發副總裁。", "confidence": "high", "notes": "本段接續上段，主詞為科恩中校"}
 
 102. Besides mentioning his own sighting and views on UFOs, Cooper wrote that, "We need to have a top-level coordinated program to scientifically collect and analyze data from all over Earth concerning any type of encounter, and to determine how best to interface with these visitors in a friendly fashion."
 → {"text": "除了提及自己的目擊經歷與對不明飛行物的看法，庫珀寫道：「我們需要一個最高層級的協調計畫，以科學方式收集與分析來自全球各地關於任何類型接觸的數據，並確定如何以友好方式與這些訪客互動的最佳方式。」", "confidence": "high", "notes": ""}
@@ -310,7 +310,7 @@
 → {"text": "1978 年 12 月 18 日，聯合國大會會議通過了第 33/426 號決議，標題與先前的第 32/424 號決議相同：「建立聯合國機構或部門，負責進行、協調並傳播關於不明飛行物及相關現象的研究成果。」", "confidence": "high", "notes": ""}
 
 104. The Grenada Initiative was gradually opening the door to UFOs at the UN, but unfortunately the effort came to an abrupt halt when the Gairy government was overthrown by a Marxist revolution led by Maurice Bishop of the New Jewel movement in March 1979.
-→ {"text": "格瑞納達倡議逐漸為聯合國打開了不明飛行物議題的大門，但不幸的是，當蓋里政府於 1979 年 3 月被莫里斯·畢夏普領導的新寶石運動馬克思主義革命推翻時，這項努力突然中止了。", "confidence": "high", "notes": ""}
+→ {"text": "格瑞納達倡議逐漸為聯合國打開了不明飛行物議題的大門，但不幸的是，當蓋里政府於 1979 年 3 月被莫里斯·畢夏普（Maurice Bishop）領導的新寶石運動（New Jewel Movement）馬克思主義革命推翻時，這項努力突然中止了。", "confidence": "high", "notes": ""}
 
 105. Ironically, Gary was in New York to meet with Kurt Valheim regarding Decision 33/426 when the coup took place.
 → {"text": "諷刺的是，政變發生時，蓋里正在紐約與瓦爾德海姆會面討論第 33/426 號決議。", "confidence": "high", "notes": ""}
@@ -382,10 +382,10 @@
 → {"text": "早安。", "confidence": "high", "notes": ""}
 
 128. Good morning, congressmen and congressmen and Senator Gravel.
-→ {"text": "早安，各位國會議員以及格拉維爾參議員。", "confidence": "high", "notes": ""}
+→ {"text": "早安，各位國會議員以及格拉維爾參議員（Mike Gravel）。", "confidence": "high", "notes": ""}
 
 129. My name is Dan Sheehan.
-→ {"text": "我的名字是丹·希恩。", "confidence": "high", "notes": ""}
+→ {"text": "我的名字是丹·希恩（Dan Sheehan）。", "confidence": "high", "notes": ""}
 
 130. I am general counsel for the committee.
 → {"text": "我是委員會的總法律顧問。", "confidence": "high", "notes": ""}
@@ -397,10 +397,10 @@
 → {"text": "我也曾擔任我們 2001 年舉辦的首屆真相揭露會議的總法律顧問。", "confidence": "high", "notes": ""}
 
 133. So I've been around for a while on this particular area and it arose because I was chief counsel for the United States Jesuit headquarters in Washington, D.C. here back in 1976 when President Carter was elected president.
-→ {"text": "所以我在這個特定領域已經活躍了一段時間，這始於 1976 年卡特當選總統時，我擔任美國耶穌會總部在華盛頓特區的首席法律顧問。", "confidence": "high", "notes": ""}
+→ {"text": "所以我在這個特定領域已經活躍了一段時間，這始於 1976 年卡特（Jimmy Carter）當選總統時，我擔任美國耶穌會總部在華盛頓特區的首席法律顧問。", "confidence": "high", "notes": ""}
 
 134. And immediately after his election in November of 1976, President Carter called into his office the then central intelligence agency director, who was George H.W. Bush.
-→ {"text": "1976 年 11 月當選後不久，卡特總統召喚當時的中央情報局局長——喬治·H·W·布希——到他的辦公室。", "confidence": "high", "notes": ""}
+→ {"text": "1976 年 11 月當選後不久，卡特總統召喚當時的中央情報局局長——喬治·H·W·布希（George H.W. Bush）——到他的辦公室。", "confidence": "high", "notes": ""}
 
 135. And President Carter asked to be briefed by the director of central intelligence on the issue of UFOs.
 → {"text": "卡特總統要求中央情報局局長向他簡報關於不明飛行物的議題。", "confidence": "high", "notes": ""}
@@ -409,19 +409,19 @@
 → {"text": "在那次會議中，CIA 局長布希詢問當選總統，是否願意讓他繼續擔任中央情報局局長，他承諾如果卡特同意讓他留任 CIA 局長，他這輩子永遠不會競選政治職務。", "confidence": "high", "notes": ""}
 
 137. Bush wanted to, at that time, become more or less like J. Edgar Hoover had become at the FBI, that he would remain, that it would be above politics, that he would remain in that position.
-→ {"text": "布希當時想要或多或少像 J·埃德加·胡佛在 FBI 那樣，他會留任，超越政治，繼續擔任該職位。", "confidence": "high", "notes": ""}
+→ {"text": "布希當時想要或多或少像 J·埃德加·胡佛（J. Edgar Hoover）在 FBI 那樣，他會留任，超越政治，繼續擔任該職位。", "confidence": "high", "notes": ""}
 
 138. President Carter reiterated his request for the UFO information, saying that he had his own person in mind to be the director of the central intelligence agency, which happened to be Ted Sorensen at the time.
-→ {"text": "卡特總統重申了他對不明飛行物資訊的要求，表示他心中已有人選擔任中央情報局局長，當時那個人選是泰德·索倫森。", "confidence": "high", "notes": ""}
+→ {"text": "卡特總統重申了他對不明飛行物資訊的要求，表示他心中已有人選擔任中央情報局局長，當時那個人選是泰德·索倫森（Ted Sorensen）。", "confidence": "high", "notes": ""}
 
 139. And Bush at that time then refused to provide the information to him, saying that he did not have adequate clearances, he was not the president yet, and that he should ask his own central intelligence agency director for that.
 → {"text": "布希當時拒絕向他提供資訊，說他沒有足夠的安全許可，他還不是總統，應該向他自己的中央情報局局長索取資訊。", "confidence": "high", "notes": ""}
 
 140. But if he wanted to have the information ahead of time, that what he could do is he could contact the Science and Technology Committee of the House of Representatives, and they had an ongoing relationship with the Science and Technology Division of the Congressional Research Service that could go about getting things declassified to show him.
-→ {"text": "但如果他想提前獲得資訊，他可以聯繫眾議院科學技術委員會，該委員會與國會研究處科學技術部門有持續的合作關係，可以協助將資訊解密供他查閱。", "confidence": "high", "notes": ""}
+→ {"text": "但如果他想提前獲得資訊，他可以聯繫眾議院科學技術委員會，該委員會與國會研究服務處（Congressional Research Service）科學技術部門有持續的合作關係，可以協助將資訊解密供他查閱。", "confidence": "high", "notes": ""}
 
 141. That is what generated the request from the Congressional Research Service to me as the general counsel for the Jesuit headquarters in the United States, asking if I could gain access to the Vatican Library to obtain the information that the Vatican has in its library in its classified sections to deliver to the president for his review.
-→ {"text": "這就是為什麼國會研究處會向我提出請求，當時我是美國耶穌會總部的總法律顧問，他們詢問我能否進入梵蒂岡圖書館，取得梵蒂岡圖書館機密區段保存的資訊，以便交給總統審閱。", "confidence": "high", "notes": ""}
+→ {"text": "這就是為什麼國會研究服務處會向我提出請求，當時我是美國耶穌會總部的總法律顧問，他們詢問我能否進入梵蒂岡圖書館（Vatican Library），取得梵蒂岡圖書館機密區段保存的資訊，以便交給總統審閱。", "confidence": "high", "notes": ""}
 
 142. I did that.
 → {"text": "我這麼做了。", "confidence": "high", "notes": ""}
@@ -445,7 +445,7 @@
 → {"text": "他們仍然拒絕了。", "confidence": "high", "notes": ""}
 
 149. So I had to report that to Marcia Smith, who was the head of the Science and Technology Division of the Library of Congress Congressional Research Service, and she asked if I would be willing to become counsel, special counsel, to this investigation that was being conducted by the Science and Technology Committee.
-→ {"text": "所以我必須向瑪西婭·史密斯報告此事，她是國會圖書館國會研究處科學技術部門的主管，她問我是否願意擔任科學技術委員會正在進行的這項調查的特別法律顧問。", "confidence": "high", "notes": ""}
+→ {"text": "所以我必須向瑪西婭·史密斯（Marcia Smith）報告此事，她是國會圖書館國會研究服務處科學技術部門的主管，她問我是否願意擔任科學技術委員會正在進行的這項調查的特別法律顧問。", "confidence": "high", "notes": ""}
 
 150. I agreed to do this, and I told her that I would need to have access to certain kinds of information, that I would like to have declassified or get to see it.
 → {"text": "我同意了，並告訴她我需要取得某些類型的資訊，我希望能將其解密或得以查閱。", "confidence": "high", "notes": ""}
@@ -517,7 +517,7 @@
 → {"text": "我說：「哦，這是一本黃色便箋本。」他打開它翻閱所有頁面，什麼都沒有，因為我把它放在了紙板的內側。", "confidence": "high", "notes": ""}
 
 173. And so I took that back with me to Jesuit headquarters and I brought it to Father Bill Davis, who was my superior at the Jesuit headquarters, and we then agreed to go.
-→ {"text": "所以我把它帶回耶穌會總部，交給我在耶穌會總部的上司比爾·戴維斯神父，然後我們同意繼續推進。", "confidence": "high", "notes": ""}
+→ {"text": "所以我把它帶回耶穌會總部，交給我在耶穌會總部的上司比爾·戴維斯神父（Father Bill Davis），然後我們同意繼續推進。", "confidence": "high", "notes": ""}
 
 174. We gathered all 54 of the major religious denominations.
 → {"text": "我們召集了所有 54 個主要宗教派別。", "confidence": "high", "notes": ""}
@@ -541,13 +541,13 @@
 → {"text": "而不是那個。", "confidence": "high", "notes": ""}
 
 181. They didn't want to address that at that time, and what happened, I was contacted then by Marsha Smith, who was directing the investigation for President Carter at the Congressional Research Service, and she asked me if I would go to meet with the people at the Jet Propulsion Laboratory in California in the SETI Program, the Search for Extraterrestrial Intelligence, and give them a briefing on the theological implications of contact with extraterrestrial intelligence.
-→ {"text": "他們當時不想處理那件事，後來發生的是，我被在國會研究處為卡特總統主持調查的瑪西婭·史密斯聯繫，她詢問我是否願意前往加州噴射推進實驗室，與 SETI 計畫（尋找外星智慧計畫）的人員會面，並向他們簡報與外星智慧接觸的神學意涵。", "confidence": "high", "notes": "原文誤拼為 Marsha Smith，應為 Marcia Smith"}
+→ {"text": "他們當時不想處理那件事，後來發生的是，我被在國會研究服務處為卡特總統主持調查的瑪西婭·史密斯聯繫，她詢問我是否願意前往加州噴射推進實驗室（Jet Propulsion Laboratory），與 SETI 計畫（尋找外星智慧計畫）的人員會面，並向他們簡報與外星智慧接觸的神學意涵。", "confidence": "high", "notes": "原文誤拼為 Marsha Smith，應為 Marcia Smith"}
 
 182. I was privileged to deliver a three-hour seminar to the top 50 scientists in the SETI Program on the theological implications of contact with an extraterrestrial intelligence.
 → {"text": "我有幸為 SETI 計畫中排名前 50 的科學家舉辦了三小時的研討會，主題是與外星智慧接觸的神學意涵。", "confidence": "high", "notes": ""}
 
 183. Then in 1994, I was contacted by Dr. John Mack, who was the chairman of the Department of Clinical Psychiatry at Harvard Medical School, because I had graduated from Harvard College and graduated from Harvard Law School, where I was one of the founders of the Harvard Civil Rights Law Review, and I had gone on to Harvard Divinity School.
-→ {"text": "1994 年，我被約翰·麥克博士聯繫，他是哈佛醫學院臨床精神病學系主任，因為我畢業於哈佛學院，並從哈佛法學院畢業，我是《哈佛民權法律評論》的創辦人之一，後來我還進入哈佛神學院深造。", "confidence": "high", "notes": ""}
+→ {"text": "1994 年，我被約翰·麥克博士（Dr. John Mack）聯繫，他是哈佛醫學院臨床精神病學系主任，因為我畢業於哈佛學院，並從哈佛法學院畢業，我是《哈佛民權法律評論》的創辦人之一，後來我還進入哈佛神學院深造。", "confidence": "high", "notes": ""}
 
 184. He contacted me and asked me if I would represent him, because he had written a book based upon his clinical assistance to high-level military officials and others in the country who had been sent to have psychological background done on them, who had reported these direct contacts with extraterrestrial vehicles of this kind.
 → {"text": "他聯繫我並詢問我是否願意代表他，因為他根據對高階軍官與其他被送來接受心理背景調查的人士提供的臨床協助撰寫了一本書，這些人報告了與此類外星飛行器的直接接觸經歷。", "confidence": "high", "notes": ""}
@@ -556,7 +556,7 @@
 → {"text": "當我與他會面時，他已經寫完這本書，哈佛大學教師委員會召他與哈佛大學法律顧問及醫學院院長開會，準備因他撰寫這本書而挑戰他的終身教職，聲稱這本書正在破壞哈佛大學的世界觀。", "confidence": "high", "notes": ""}
 
 186. We met with Lawrence Rockefeller, and Lawrence Rockefeller agreed to fund what would really amount to grand rounds to present to the Harvard faculty all of the basic information that we had on the existence of UFOs.
-→ {"text": "我們與勞倫斯·洛克斐勒會面，他同意資助相當於大查房的活動，向哈佛教職員展示我們擁有的所有關於不明飛行物存在的基本資訊。", "confidence": "high", "notes": ""}
+→ {"text": "我們與勞倫斯·洛克斐勒（Laurance Rockefeller）會面，他同意資助相當於大查房的活動，向哈佛教職員展示我們擁有的所有關於不明飛行物存在的基本資訊。", "confidence": "high", "notes": "原文拼為 Lawrence Rockefeller，應為 Laurance Rockefeller"}
 
 187. They then dropped the hearings and said they didn't want to have these hearings turned into a circus.
 → {"text": "然後他們撤銷了聽證會，說他們不想讓這些聽證會變成馬戲團。", "confidence": "high", "notes": ""}
@@ -589,37 +589,37 @@
 → {"text": "他們意識到，隨著越來越多的接觸與發現這些額外的行星，在我們這一代人的有生之年，事實上高度技術發達的外星智慧確實存在，這一點將變得清楚。", "confidence": "high", "notes": ""}
 
 197. The findings of the Congressional Research Service that were delivered to President Carter is that based upon all of their analysis that they have come to the conclusion, this is an official conclusion of the Congressional Research Service, that they have come to a 95% probability projection that there are from 2 to 10 highly technologically developed extraterrestrial civilizations within our own galaxy.
-→ {"text": "向卡特總統提交的國會研究處調查結果顯示，根據他們的所有分析，他們得出結論——這是國會研究處的官方結論——他們得出 95% 的概率推測，在我們自己的銀河系中，有 2 到 10 個高度技術發達的外星文明。", "confidence": "high", "notes": ""}
+→ {"text": "向卡特總統提交的國會研究服務處調查結果顯示，根據他們的所有分析，他們得出結論——這是國會研究服務處的官方結論——他們得出 95% 的概率推測，在我們自己的銀河系中，有 2 到 10 個高度技術發達的外星文明。", "confidence": "high", "notes": ""}
 
 198. Now, remember in closing, there in our galaxy, the Milky Way galaxy, there are 50 billion star systems in our galaxy and there are 50 billion trillion galaxies that are now known.
 → {"text": "現在，請記住最後這一點，在我們的銀河系——銀河系中——有 500 億個恆星系統，而目前已知有 500 億兆個星系。", "confidence": "high", "notes": ""}
 
 199. The question and the abiding question and it's the one that you and I discussed last night, Congressman Bartlett, have these vehicles developed the capacity to transport vehicles beyond the speed of light?
-→ {"text": "問題，而且是持續存在的問題——這也是我們昨晚討論的問題，巴特利特國會議員——這些飛行器是否已經發展出超越光速運輸的能力？", "confidence": "high", "notes": ""}
+→ {"text": "問題，而且是持續存在的問題——這也是我們昨晚討論的問題，巴特利特國會議員（Roscoe Bartlett）——這些飛行器是否已經發展出超越光速運輸的能力？", "confidence": "high", "notes": ""}
 
 200. Because if they have, then all these questions now become focused, that that means that they would be able to be here, come here and go and if they have, then all of these sightings that we've talked about, all these hundreds of witnesses that we've talked about, then are talking about a very real phenomenon.
 → {"text": "因為如果他們有，那麼所有這些問題現在都變得聚焦，這意味著他們能夠來到這裡，來了又走，如果他們有，那麼我們談論的所有這些目擊事件，我們談論的所有這數百名證人，都在談論一個非常真實的現象。", "confidence": "high", "notes": ""}
 
 201. I'll close with this one observation, when I was legal counsel for the Iran-Contra investigations, that we were the ones that actually initially discovered the Iran-Contra weapons supply trafficking, and when I delivered this information to Peter Rodino, who was at the time the chair of the Judiciary Committee of the House, through Scott Armstrong, Scott Armstrong, as you'll recall, was the staff person on Rodino's staff of the Judiciary Committee during the Watergate investigations, who discovered the taping system in the White House that Alexander Butterfield revealed this to Scott.
-→ {"text": "我用這個觀察作結。當我擔任伊朗門調查的法律顧問時，我們是最初發現伊朗門武器供應走私的人。當我透過史考特·阿姆斯壯向當時的眾議院司法委員會主席彼得·羅迪諾提供這項資訊時——如您所記得的，阿姆斯壯是水門事件調查期間羅迪諾司法委員會的工作人員，正是他發現了白宮的錄音系統——亞歷山大·巴特菲爾德向阿姆斯壯透露了此事。", "confidence": "high", "notes": "原文句構破碎，譯文略作梳理"}
+→ {"text": "我用這個觀察作結。當我擔任伊朗門調查的法律顧問時，我們是最初發現伊朗門武器供應走私的人。當我透過史考特·阿姆斯壯（Scott Armstrong）向當時的眾議院司法委員會主席彼得·羅迪諾（Peter Rodino）提供這項資訊時——如您所記得的，阿姆斯壯是水門事件調查期間羅迪諾司法委員會的工作人員，正是他發現了白宮的錄音系統——亞歷山大·巴特菲爾德（Alexander Butterfield）向阿姆斯壯透露了此事。", "confidence": "high", "notes": "原文句構破碎，譯文略作梳理"}
 
 202. So I went and brought this information to him, and because of his close relationship with Peter Rodino, he delivered all of the information we had about the off-the-shelf enterprise, the involvement of Poindexter and everyone else, and the response of Peter Rodino was, he said, "Scott," he said, "my God," he said, "if what you're telling me is true about this off-the-shelf enterprise going on, delivering these weapons contrary to the orders of Congress, why then," he said, "I've been telling my constituencies that they didn't like the way that American policy was going, that they should write a letter to their congressperson, and if their congressperson didn't do what they wanted them to do, you should vote for someone else for Congress, but if what you're telling me is true, Scott, my God, we haven't even been in control.
 → {"text": "所以我去向他提供了這項資訊，由於他與彼得·羅迪諾關係密切，他轉達了我們掌握的所有關於這個帳外行動、波因德克斯特以及其他所有人參與其中的資訊。彼得·羅迪諾的回應是，他說：「史考特，」他說，「我的天，」他說，「如果你告訴我關於這個帳外行動的事是真的——他們違背國會命令運送這些武器——那麼，」他說，「我一直告訴我的選民，如果他們不喜歡美國政策的走向，就該寫信給他們的國會議員；如果議員沒有照他們的意願行事，就投票選別人進國會。但如果你告訴我的是真的，史考特，我的天，我們甚至根本沒在掌控之中。", "confidence": "high", "notes": "原文 off-the-shelf enterprise 疑為 off-the-books（帳外行動）之誤聽"}
 
 203. I'm not going to allow the Congress of the United States to investigate anything like that." And that's the issue that's before us now, because if, in fact, we're not in ultimate control, and there is an extraterrestrial intelligence of this type of sophistication that's been visiting our planet and entering our airspace and outmaneuvering our aircraft, it's perfectly clear that from a political consciousness that abides inside our executive branch and inside our legislature, that is not something that they want to share with the American people, because it would ultimately undermine the confidence of the governed in their governors. [applause] My name is Lieutenant Colonel Richard French. I am one of the writers of the original Air
-→ {"text": "我不會允許美國國會調查任何這樣的事情。」這就是我們現在面臨的問題，因為如果事實上我們沒有終極控制權，而有一個這種複雜程度的外星智慧一直在造訪我們的星球、進入我們的領空並超越我們的飛機機動能力，那麼非常清楚的是，從存在於我們行政部門與立法機構內部的政治意識來看，這不是他們想與美國人民分享的事，因為這最終會削弱被統治者對統治者的信心。（掌聲）我的名字是理查德·法蘭奇中校。我是原始空軍", "confidence": "high", "notes": ""}
+→ {"text": "我不會允許美國國會調查任何這樣的事情。」這就是我們現在面臨的問題，因為如果事實上我們沒有終極控制權，而有一個這種複雜程度的外星智慧一直在造訪我們的星球、進入我們的領空並超越我們的飛機機動能力，那麼非常清楚的是，從存在於我們行政部門與立法機構內部的政治意識來看，這不是他們想與美國人民分享的事，因為這最終會削弱被統治者對統治者的信心。（掌聲）我的名字是理查德·弗倫奇中校（Richard French）。我是原始空軍", "confidence": "high", "notes": ""}
 
 204. Force Blue Book. I was a student at Oregon State starting in 1947, and in my junior year I was asked what specialty I wanted to be assigned when I graduated. An advisor told me about the Office of Special Investigations. It sounded like an exciting and glamorous job, so I volunteered. Brigadier General Carroll, a former FBI director of the Washington District, was commissioned as an Air Force general and assumed command of the OSI.
-→ {"text": "藍皮書計畫的撰寫者之一。我從 1947 年開始在俄勒岡州立大學就讀，大三時被問到畢業後想被分配到什麼專業領域。一位顧問告訴我關於特別調查辦公室的事。聽起來是個令人興奮且迷人的工作，所以我自願加入。卡羅爾准將，華盛頓特區前 FBI 主管，被任命為空軍將官並接管了 OSI 的指揮權。", "confidence": "high", "notes": "查證：應為約瑟夫·F·卡羅爾（Joseph F. Carroll），OSI 首任指揮官（1948-1955），FBI 出身"}
+→ {"text": "藍皮書計畫的撰寫者之一。我從 1947 年開始在俄勒岡州立大學（Oregon State）就讀，大三時被問到畢業後想被分配到什麼專業領域。一位顧問告訴我關於特別調查辦公室（Office of Special Investigations, OSI）的事。聽起來是個令人興奮且迷人的工作，所以我自願加入。卡羅爾准將（Joseph F. Carroll），華盛頓特區前 FBI 主管，被任命為空軍將官並接管了 OSI 的指揮權。", "confidence": "high", "notes": "查證：應為約瑟夫·F·卡羅爾（Joseph F. Carroll），OSI 首任指揮官（1948-1955），FBI 出身"}
 
 205. The OSI of course was also given the added responsibility of investigating the phenomenon of unidentified flying objects. The OSI assignment required that I have final top secret clearance granted before I could even report for duty. That caused a delay in my reporting because I in fact am adopted and all of my medical and birth records and all that are sealed.
 → {"text": "當然，OSI 也被賦予調查不明飛行物現象的額外責任。OSI 的任務要求我在報到之前必須獲得最終的最高機密許可。這導致我的報到延遲，因為我實際上是被領養的，我所有的醫療與出生記錄等都被封存了。", "confidence": "high", "notes": ""}
 
 206. Every year they straighten out that mess, and I reported to DO-20 at McCord Air Force Base Washington. There my training officer was a special agent named John Drahos. Under his supervision I began investigating UFO reports and recording the incidents in the Air Force's Blue Book.
-→ {"text": "每年他們都要理清這團亂，我向華盛頓州麥科德空軍基地的 DO-20 報到。我的培訓官是一位名叫約翰·德拉霍斯的特別探員。在他的監督下，我開始調查不明飛行物報告，並將事件記錄在空軍的藍皮書中。", "confidence": "high", "notes": "原文 McCord 應為 McChord（麥科德空軍基地）"}
+→ {"text": "每年他們都要理清這團亂，我向華盛頓州麥科德空軍基地（McChord Air Force Base）的 DO-20 報到。我的培訓官是一位名叫約翰·德拉霍斯（John Drahos）的特別探員。在他的監督下，我開始調查不明飛行物報告，並將事件記錄在空軍的藍皮書中。", "confidence": "high", "notes": "原文 McCord 應為 McChord（麥科德空軍基地）"}
 
 207. The most controversial UFO incident that occurred in my early training deserves special mention because of its unique factor. An F-100D pilot, the Ds, they'd launch them normally just in twos rather than fours like tactical fighters. Anyway, he pulled up on this UFO and it was approximately 30 yards directly behind the thing. The F-86 today carries a total of 36 two and a half inch, or two and a half, let me get this straight, carries 36 of those two and a half inch rockets and they're carried in a pod that drops and it drops and automatically fires when it comes down. Well, he got the clearance to fire which kind of surprised everybody and he blew that UFO out of the sky, but the problem is that the recording of the incident, well, let me get this exactly right, the UFO intercept violated the prohibited zone at Hanford's Atomic Energy Facility. He was a wingman and pulled up straight ahead
-→ {"text": "在我早期培訓期間發生的最具爭議的不明飛行物事件因其獨特因素值得特別提及。一名 F-100D 飛行員——D 型機通常只成對起飛而不是像戰術戰鬥機那樣四架起飛。無論如何，他拉升接近這個不明飛行物，距離那東西大約 30 碼。F-86 今天攜帶總共 36 枚 2.5 英寸，或者說 2.5——讓我說清楚——攜帶 36 枚那些 2.5 英寸的火箭，它們裝在一個可投放的吊艙中，當它下降時會自動發射。嗯，他獲得了開火許可，這讓所有人都有點驚訝，他把那個不明飛行物從天空中擊落了，但問題是這次事件的記錄，嗯，讓我說得更確切一點，不明飛行物攔截侵犯了漢福德原子能設施的禁區。他是僚機並直接向前拉升", "confidence": "high", "notes": ""}
+→ {"text": "在我早期培訓期間發生的最具爭議的不明飛行物事件因其獨特因素值得特別提及。一名 F-100D 飛行員——D 型機通常只成對起飛而不是像戰術戰鬥機那樣四架起飛。無論如何，他拉升接近這個不明飛行物，距離那東西大約 30 碼。F-86 今天攜帶總共 36 枚 2.5 英寸，或者說 2.5——讓我說清楚——攜帶 36 枚那些 2.5 英寸的火箭，它們裝在一個可投放的吊艙中，當它下降時會自動發射。嗯，他獲得了開火許可，這讓所有人都有點驚訝，他把那個不明飛行物從天空中擊落了，但問題是這次事件的記錄，嗯，讓我說得更確切一點，不明飛行物攔截侵犯了漢福德原子能設施（Hanford Atomic Energy Facility）的禁區。他是僚機並直接向前拉升", "confidence": "high", "notes": ""}
 
 208. and it was given a clearance to fire. When the weapon fired, the pod dropped, but his airplane exploded. They drugged the Colorado River, I mean the Columbia River in a 60 mile area and they never found a piece or part or anything even pertaining to it. I mentioned that I had just a very fast look at the magic report. I hope you people are familiar with it, but if you're not, it is the original report that was prepared. President Truman was the chairman. The people who were on that committee and I just did just get a very quick look at it, but I could easily remember who they were because of who they were. They included the chiefs of the president of course and also the chiefs of staff of all of the armed forces, arms of the United States. In other words, the chief of naval operations and the head of the Coast Guard and on and on. That terminates my presentation.
-→ {"text": "並獲准開火。當武器發射時，吊艙投下，但他的飛機爆炸了。他們在科羅拉多河，我是說哥倫比亞河方圓 60 英里的區域進行拖撈搜尋，卻從未找到任何碎片或部件，甚至任何與之相關的東西。我提到我只是非常快速地看了一眼 Majic 報告。我希望你們熟悉它，但如果不熟悉，它是最初準備的那份報告。杜魯門總統是主席。委員會中的人員，我只是非常快速地看了一眼，但我能輕易記住他們是誰，因為他們的身份顯赫。當然包括總統的幕僚長，還有美國所有軍種的參謀長。換句話說，海軍作戰部長、海岸警衛隊司令等等。我的陳述到此結束。", "confidence": "high", "notes": "原文 drugged 應為 dragged（拖撈）；magic 報告應為 Majic 報告（MJ-12 相關文件）"}
+→ {"text": "並獲准開火。當武器發射時，吊艙投下，但他的飛機爆炸了。他們在科羅拉多河（Colorado River），我是說哥倫比亞河（Columbia River）方圓 60 英里的區域進行拖撈搜尋，卻從未找到任何碎片或部件，甚至任何與之相關的東西。我提到我只是非常快速地看了一眼 Majic 報告。我希望你們熟悉它，但如果不熟悉，它是最初準備的那份報告。杜魯門總統是主席。委員會中的人員，我只是非常快速地看了一眼，但我能輕易記住他們是誰，因為他們的身份顯赫。當然包括總統的幕僚長，還有美國所有軍種的參謀長。換句話說，海軍作戰部長、海岸警衛隊司令等等。我的陳述到此結束。", "confidence": "high", "notes": "原文 drugged 應為 dragged（拖撈）；magic 報告應為 Majic 報告（MJ-12 相關文件）"}
