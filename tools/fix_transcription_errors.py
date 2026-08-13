@@ -124,7 +124,7 @@ def apply_corrections(main_yaml_path: Path, error_map: dict, dry_run: bool = Fal
     # Save corrected main.yaml (unless dry-run)
     if not dry_run:
         with open(main_yaml_path, 'w', encoding='utf-8') as f:
-            yaml.dump(data, f, allow_unicode=True, sort_keys=False, width=120)
+            yaml.dump(data, f, allow_unicode=True, sort_keys=False, width=float('inf'))
         logging.info(f"Saved corrected main.yaml to {main_yaml_path}")
     else:
         logging.info("[DRY RUN] Would have saved corrections to main.yaml")

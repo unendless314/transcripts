@@ -325,7 +325,8 @@ class MainYamlUpdater:
                     f,
                     allow_unicode=True,
                     default_flow_style=False,
-                    sort_keys=False
+                    sort_keys=False,
+                    width=float('inf')
                 )
             logging.info(f"Saved updated main.yaml to {self.main_yaml_path}")
         except Exception as e:
