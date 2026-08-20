@@ -87,9 +87,9 @@ terms:
     senses:
       - id: kirkpatrick_panelist
         definition: 前美國眾議員，聽證會評審小組成員
-        preferred_translation: 卡蘿琳·柯派翠克
+        preferred_translation: 卡蘿琳·基爾派翠克
         segments: [123]
-        notes: 要求研究者提供羅斯威爾調查的科學理由
+        notes: 要求研究者提供羅斯威爾調查的科學理由。原文拼為 Kirkpatrick，譯名依主表與 UFO-01～10 定譯「基爾派翠克」（2026-08-20 人工裁決回寫）
 
   - term: Charles Moore
     senses:
@@ -127,9 +127,9 @@ terms:
     senses:
       - id: weaver_pentagon
         definition: 五角大廈上校，負責撰寫 Project Mogul 報告
-        preferred_translation: 理查德·韋弗上校
+        preferred_translation: 理查·韋弗上校
         segments: [117]
-        notes: 訪問 Sheridan Cavett 以支持 Project Mogul 解釋，但證詞矛盾
+        notes: 訪問 Sheridan Cavett 以支持 Project Mogul 解釋，但證詞矛盾。譯名依 UFO-11 定譯「理查·韋弗」（2026-08-20 回寫，原「理查德·韋弗」廢棄）
 
   - term: Congressman Schiff
     senses:
@@ -405,9 +405,9 @@ terms:
     senses:
       - id: marcel_intelligence_officer
         definition: 羅斯威爾基地情報官
-        preferred_translation: 馬瑟爾少校
+        preferred_translation: 馬塞爾少校
         segments: [118, 218]
-        notes: 負責調查殘骸，Cavett 應向他報告但未報告
+        notes: 負責調查殘骸，Cavett 應向他報告但未報告。譯名依 UFO-11 定譯「馬塞爾」（2026-08-20 回寫，原「馬瑟爾」廢棄）
 
   - term: Manhattan Project
     senses:

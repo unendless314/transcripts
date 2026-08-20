@@ -28,7 +28,7 @@
 → {"text": "它撞上了雷達束。", "confidence": "high", "notes": ""}
 
 420. I mean, that sounds a little strange, but we know that there was a launch scheduled for White Sands, and we know that they -- those were vacuum tube radars, so they were left on so they wouldn't have to warm up.
-→ {"text": "我的意思是，這聽起來有點奇怪，但我們知道 White Sands 當時安排了發射任務，而且我們知道他們——那些是真空管雷達，所以會保持開啟狀態以避免暖機時間。", "confidence": "high", "notes": "White Sands（白沙靶場）保留原文；vacuum tube radars（真空管雷達）為術語表中的專業術語"}
+→ {"text": "我的意思是，這聽起來有點奇怪，但我們知道白沙靶場當時安排了發射任務，而且我們知道他們——那些是真空管雷達，所以會保持開啟狀態以避免暖機時間。", "confidence": "high", "notes": ""}
 
 421. They were not transistorized or anything like that.
 → {"text": "它們不是電晶體化或類似的東西。", "confidence": "high", "notes": ""}
@@ -49,10 +49,10 @@
 → {"text": "所以這聽起來很蠢，如果你願意這麼說的話，不夠精密，但你必須預期會有意外。", "confidence": "high", "notes": ""}
 
 427. It's like drive through New Mexico and run into a hailstorm, and I got bumps all over my car.
-→ {"text": "就像開車穿越 New Mexico 遇到冰雹，我的車被砸得到處都是凹痕。", "confidence": "high", "notes": "New Mexico（新墨西哥州）保留原文"}
+→ {"text": "就像開車穿越新墨西哥州遇到冰雹，我的車被砸得到處都是凹痕。", "confidence": "high", "notes": ""}
 
 428. New Mexico?
-→ {"text": "New Mexico？", "confidence": "high", "notes": ""}
+→ {"text": "新墨西哥州？", "confidence": "high", "notes": ""}
 
 429. It's dry.
 → {"text": "那裡很乾燥。", "confidence": "high", "notes": ""}
@@ -67,7 +67,7 @@
 → {"text": "這裡還有另一個論點。", "confidence": "high", "notes": ""}
 
 433. General Groves, Manhattan Project Groves, as late as '48 was saying it would take the Russians eight years before they could build an atomic bomb, because they just don't have the industrial capacity that we do.
-→ {"text": "格羅夫斯將軍，曼哈頓計畫的格羅夫斯，直到一九四八年都還在說俄國人需要八年才能製造原子彈，因為他們根本沒有我們擁有的工業能力。", "confidence": "high", "notes": "General Groves、Manhattan Project 為術語表中的專有名詞"}
+→ {"text": "格羅夫斯將軍，曼哈頓計畫的格羅夫斯，直到 1948 年都還在說俄國人需要八年才能製造原子彈，因為他們根本沒有我們擁有的工業能力。", "confidence": "high", "notes": ""}
 
 434. It took one.
 → {"text": "結果只花了一年。", "confidence": "high", "notes": ""}
@@ -85,7 +85,7 @@
 → {"text": "所以他們說即使俄國人有了炸彈，他們也沒有投送手段，卻隨意地忽略了我們留下了一架 B-29，但他們後來仿製並建造了一批，當他們在莫斯科的例行展示會上展示這些飛機時，我們震驚了。", "confidence": "high", "notes": "B-29 為飛機型號保留原文；dog and pony show 為慣用語，指宣傳展示"}
 
 439. So the atomic bomb end of things was of great concern to the United States, because there was real concern that once we found out, and one of the scariest memos I've ever seen from all the archive research is a National Security Council memo in the early 1950 saying the Russians have made more progress in the past 18 months in the development of nuclear weapons and methods for delivering them that had been expected for five years.
-→ {"text": "所以原子彈這件事對美國來說是極大的擔憂，因為一旦我們發現真相，確實令人擔憂，而我在所有檔案研究中見過最可怕的備忘錄之一，是一份一九五零年代初期的國家安全委員會備忘錄，指出俄國人在過去十八個月內於核武器及其投送方法的發展上取得的進展，超過了原本預期的五年進度。", "confidence": "high", "notes": "National Security Council（國家安全委員會）為術語表中的專有名詞"}
+→ {"text": "所以原子彈這件事對美國來說是極大的擔憂，因為一旦我們發現真相，確實令人擔憂，而我在所有檔案研究中見過最可怕的備忘錄之一，是一份 1950 年代初期的國家安全會議備忘錄，指出俄國人在過去 18 個月內於核武器及其投送方法的發展上取得的進展，超過了原本預期的五年進度。", "confidence": "high", "notes": ""}
 
 440. They were concerned, and wouldn't you be under those conditions?
 → {"text": "他們很擔心，在那種情況下你不會擔心嗎？", "confidence": "high", "notes": ""}
@@ -106,7 +106,7 @@
 → {"text": "現在我們掌握了這個資訊。", "confidence": "high", "notes": ""}
 
 446. Their plan failed simply because they crashed at Roswell and the embargo on the news went down.
-→ {"text": "他們的計畫失敗了，僅僅是因為他們在羅斯威爾墜毀，而新聞封鎖生效了。", "confidence": "high", "notes": "Roswell（羅斯威爾）為術語表中的專有名詞"}
+→ {"text": "他們的計畫失敗了，僅僅是因為他們在羅斯威爾墜毀，而新聞封鎖生效了。", "confidence": "high", "notes": ""}
 
 447. But I've always liked that theory.
 → {"text": "但我一直喜歡那個理論。", "confidence": "high", "notes": ""}
@@ -157,13 +157,13 @@
 → {"text": "這些會議在籌備階段就獲得了難以置信的關注。", "confidence": "high", "notes": ""}
 
 463. So I would ask that you use your good offices and certainly we may try to approach this that we could go to the United Nations.
-→ {"text": "所以我想請求你們運用你們的職權影響力，當然我們可能會嘗試這個途徑，就是我們可以向聯合國提案。", "confidence": "high", "notes": "United Nations（聯合國）為術語表中的專有名詞"}
+→ {"text": "所以我想請求你們運用你們的職權影響力，當然我們可能會嘗試這個途徑，就是我們可以向聯合國提案。", "confidence": "high", "notes": ""}
 
 464. Now I don't think we'd have a prayer in the Security Council because it's controlled by us and that just wouldn't happen.
-→ {"text": "現在我認為我們在安理會沒有任何希望，因為它由我們控制，那根本不會發生。", "confidence": "high", "notes": "Security Council（聯合國安理會）為術語表中的專有名詞"}
+→ {"text": "現在我認為我們在安理會沒有任何希望，因為它由我們控制，那根本不會發生。", "confidence": "high", "notes": ""}
 
 465. But what would happen in the General Assembly if we were to introduce a resolution or if we can't do it as Americans we could do it maybe through the Brazilian government or the Canadian government, they would introduce a resolution and the General Assembly, I'll bet you it would pass, they would fund some part of it, the rest of the funding could come from private sources and we would have the most awe-inspiring world event on this subject within a couple, three years.
-→ {"text": "但如果我們在大會提出決議會發生什麼，或者如果我們作為美國人無法這麼做，我們可以透過巴西政府或加拿大政府來做，他們會提出決議，而在大會，我敢打賭它會通過，他們會資助一部分，其餘資金可以來自私人來源，我們將在兩三年內舉辦關於這個主題最令人敬畏的世界級活動。", "confidence": "high", "notes": "General Assembly（聯合國大會）為術語表中的專有名詞"}
+→ {"text": "但如果我們在聯合國大會提出決議會發生什麼，或者如果我們作為美國人無法這麼做，我們可以透過巴西政府或加拿大政府來做，他們會提出決議，而在大會，我敢打賭它會通過，他們會資助一部分，其餘資金可以來自私人來源，我們將在兩三年內舉辦關於這個主題最令人敬畏的世界級活動。", "confidence": "high", "notes": ""}
 
 466. And so I would ask you, I would suggest that you use your good offices to work with us as individuals or as a group to try to bring this about.
 → {"text": "所以我想請求你們，我建議你們運用職權影響力與我們合作，無論是以個人身份還是團體身份，來努力實現這個目標。", "confidence": "high", "notes": ""}

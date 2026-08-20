@@ -60,6 +60,12 @@
           "error_text": "Kathleen Martin",
           "suggested_correction": "Kathleen Marden",
           "reasoning": "Betty Hill's niece and co-author on the subject is Kathleen Marden, a prominent UFO researcher. 'Martin' is a common transcription error."
+        },
+        {
+          "segment_id": 85,
+          "error_text": "Mr. Freeman",
+          "suggested_correction": "Mr. Friedman",
+          "reasoning": "The chairman addresses Stanton Friedman; 'Freeman' is a Whisper mishearing (校稿補錄 2026-08-20)."
         }
       ]
     },
@@ -84,15 +90,21 @@
       "potential_errors": [
         {
           "segment_id": 94,
-          "error_text": "Sidney Jack Wright",
-          "suggested_correction": "Sidney 'Stinky' Wright",
-          "reasoning": "The witness known as 'Sidney Wright' in Roswell research is more commonly referred to by his nickname 'Stinky'. While 'Jack' could be his middle name, the more common identifier is his nickname."
-        },
-        {
-          "segment_id": 94,
           "error_text": "Frankie Row",
           "suggested_correction": "Frankie Rowe",
           "reasoning": "The full name of the witness, daughter of firefighter Dan Dwyer, is consistently spelled Frankie Rowe in UFO literature."
+        },
+        {
+          "segment_id": 90,
+          "error_text": "reported the fine",
+          "suggested_correction": "reported the find",
+          "reasoning": "The rancher reported his find (the debris) to the sheriff; 'fine' is a Whisper mishearing (校稿補錄 2026-08-20)."
+        },
+        {
+          "segment_id": 94,
+          "error_text": "Brazl",
+          "suggested_correction": "Brazel",
+          "reasoning": "Rancher Mack Brazel's surname misspelled 'Brazl' three times in this segment (校稿補錄 2026-08-20)."
         }
       ]
     },
@@ -137,6 +149,48 @@
           "error_text": "Colonel Kev",
           "suggested_correction": "Colonel Cavett",
           "reasoning": "The context is a direct quote from a conversation with Sheridan Cavett. 'Kev' is a transcription error for 'Cavett'."
+        },
+        {
+          "segment_id": 107,
+          "error_text": "Cavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
+        },
+        {
+          "segment_id": 109,
+          "error_text": "Cavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
+        },
+        {
+          "segment_id": 111,
+          "error_text": "Cavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
+        },
+        {
+          "segment_id": 114,
+          "error_text": "Cavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Two occurrences incl. 'Sheridan-Cavett'; normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
+        },
+        {
+          "segment_id": 117,
+          "error_text": "Cavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
+        },
+        {
+          "segment_id": 120,
+          "error_text": "Kavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Three occurrences of variant 'Kavett'; normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
+        },
+        {
+          "segment_id": 121,
+          "error_text": "Kavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
         }
       ]
     },
@@ -162,6 +216,12 @@
           "error_text": "Project Mobile",
           "suggested_correction": "Project Mogul",
           "reasoning": "The context of the discussion is the official Air Force explanation for Roswell. 'Project Mobile' is a clear transcription error for 'Project Mogul'."
+        },
+        {
+          "segment_id": 130,
+          "error_text": "Mr. Marcellus' father",
+          "suggested_correction": "Mr. Marcel's father",
+          "reasoning": "Refers to Colonel Jesse Marcel Jr.'s father, Major Jesse Marcel; 'Marcellus' is a Whisper mishearing (校稿補錄 2026-08-20)."
         }
       ]
     },
@@ -183,7 +243,14 @@
         "provost marshal",
         "Bill Brazel"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 223,
+          "error_text": "Cavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
+        }
+      ]
     },
     {
       "topic_id": "topic_07",
@@ -218,7 +285,25 @@
           "segment_id": 269,
           "error_text": "notum",
           "suggested_correction": "NOTAM",
-          "reasoning": "The correct term for an advisory filed with an aviation authority is a NOTAM (Notice to Airmen). 'Notum' is a phonetic error."
+          "reasoning": "The correct term for an advisory filed with an aviation authority is a NOTAM (Notice to Airmen). 'Notum' is a phonetic error. (校稿註 2026-08-20：seg 269 原文已正確，實際殘留錯誤在 seg 271，見下方紀錄)"
+        },
+        {
+          "segment_id": 271,
+          "error_text": "notum",
+          "suggested_correction": "NOTAM",
+          "reasoning": "Seg 271 still contains 'notums' and 'notum'; substring replacement yields NOTAMs/NOTAM (校稿補錄 2026-08-20)."
+        },
+        {
+          "segment_id": 272,
+          "error_text": "White Sand.",
+          "suggested_correction": "White Sands.",
+          "reasoning": "White Sands Missile Range; missing final 's' (校稿補錄 2026-08-20)."
+        },
+        {
+          "segment_id": 273,
+          "error_text": "White Sand's missile range",
+          "suggested_correction": "White Sands Missile Range",
+          "reasoning": "White Sands Missile Range; missing final 's' and casing (校稿補錄 2026-08-20)."
         },
         {
           "segment_id": 313,
@@ -230,7 +315,19 @@
           "segment_id": 353,
           "error_text": "General Raimi's",
           "suggested_correction": "General Ramey's",
-          "reasoning": "The general involved in the Roswell incident at Fort Worth was General Roger Ramey. 'Raimi' is a common spelling/transcription error."
+          "reasoning": "The general involved in the Roswell incident at Fort Worth was General Roger Ramey. 'Raimi' is a common spelling/transcription error. (校稿註 2026-08-20：seg 353 原文已正確，實際殘留錯誤在 seg 355，見下方紀錄)"
+        },
+        {
+          "segment_id": 355,
+          "error_text": "Raimi",
+          "suggested_correction": "Ramey",
+          "reasoning": "Seg 355 still reads 'Raimi had canceled the continuing flight'; General Roger Ramey (校稿補錄 2026-08-20)."
+        },
+        {
+          "segment_id": 282,
+          "error_text": "Cavett",
+          "suggested_correction": "Cavitt",
+          "reasoning": "Normalize to canonical spelling Cavitt per UFO-11 decision (校稿補錄 2026-08-21，人工裁決)."
         },
         {
           "segment_id": 375,

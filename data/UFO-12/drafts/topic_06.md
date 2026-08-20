@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 218. Somewhere in today's testimonies in the papers, was it Major Marcel that was put into, taken, put in a house where he was held kind of hostage?
-→ {"text": "在今天的證詞文件中，是不是馬瑟爾少校被帶到某個房子裡，某種程度上被扣為人質？", "confidence": "high", "notes": ""}
+→ {"text": "在今天的證詞文件中，是不是馬塞爾少校被帶到某個房子裡，某種程度上被扣為人質？", "confidence": "high", "notes": ""}
 
 219. Oh, that was Brazel.
 → {"text": "哦，那是布拉澤爾。", "confidence": "high", "notes": ""}
@@ -16,7 +16,7 @@
 → {"text": "事情經過是，布拉澤爾在星期天的時候來報告說他發現了這些殘骸。", "confidence": "high", "notes": ""}
 
 223. He then led Marcel and Cavett back out to the ranch.
-→ {"text": "然後他帶著馬瑟爾和卡維特回到牧場。", "confidence": "high", "notes": "Marcel 翻譯為馬瑟爾（參考 terminology.yaml）"}
+→ {"text": "然後他帶著馬塞爾和卡維特回到牧場。", "confidence": "high", "notes": ""}
 
 224. They brought the material back to Roswell.
 → {"text": "他們把材料帶回羅斯威爾。", "confidence": "high", "notes": ""}
@@ -46,13 +46,13 @@
 → {"text": "他們把他帶進，或者說帶他進入羅斯威爾的報社。", "confidence": "high", "notes": ""}
 
 233. He made the statement that appeared on July 9th about the harassed rancher who found the whole thing.
-→ {"text": "他發表了7月9日刊登的聲明，關於那位發現整個事件的『困擾的牧場主』。", "confidence": "high", "notes": ""}
+→ {"text": "他發表了 7 月 9 日刊登的聲明，關於那位發現整個事件的「困擾的牧場主」。", "confidence": "high", "notes": ""}
 
 234. According to what Brazel said to neighbors, Marion Strickland, the proctors, and people like this, he was held there for a number of days and was not allowed to leave so that the military had him in custody.
-→ {"text": "根據布拉澤爾對鄰居們所說的——瑪莉安·史崔克蘭、普羅克特家族以及其他人——他被拘留在那裡好幾天，不被允許離開，因此軍方對他實施了監管。", "confidence": "high", "notes": ""}
+→ {"text": "根據布拉澤爾對鄰居們所說的——瑪莉安·史崔克蘭（Marion Strickland）、普羅克特家族以及其他人——他被拘留在那裡好幾天，不被允許離開，因此軍方對他實施了監管。", "confidence": "high", "notes": ""}
 
 235. Edwin Easley, who was the provost marshal, was the one who told me that he was held in the guest house as opposed to another facility on the base.
-→ {"text": "憲兵司令艾德溫·伊斯利告訴我，他被拘留在基地賓館，而不是基地的其他設施。", "confidence": "high", "notes": ""}
+→ {"text": "憲兵司令艾德溫·伊斯利（Edwin Easley）告訴我，他被拘留在基地賓館，而不是基地的其他設施。", "confidence": "high", "notes": ""}
 
 236. He was held there for a number of days.
 → {"text": "他在那裡被拘留了好幾天。", "confidence": "high", "notes": ""}
@@ -73,7 +73,7 @@
 → {"text": "那時候他就不說話了嗎？", "confidence": "high", "notes": ""}
 
 242. He was told ... I always got the impression from talking to Bill Brazel that they merely said to him, "We would rather you kept this quiet."
-→ {"text": "他被告知……我與比爾·布拉澤爾交談時總是得到這樣的印象，他們只是對他說：『我們希望你對這件事保持安靜。』", "confidence": "high", "notes": ""}
+→ {"text": "他被告知……我與比爾·布拉澤爾交談時總是得到這樣的印象，他們只是對他說：「我們希望你對這件事保持安靜。」", "confidence": "high", "notes": ""}
 
 243. Bill said to us, and my father was such a man, that if you asked him to do something like that and he gave his word, then that was good enough and he wasn't going to talk about it.
 → {"text": "比爾對我們說，我父親就是這樣的人，如果你這樣要求他並且他給了承諾，那就足夠了，他不會再談論此事。", "confidence": "high", "notes": ""}
@@ -100,13 +100,13 @@
 → {"text": "這仍然回到一個問題：什麼資訊、他看到了什麼如此敏感的東西，以至於軍方認為最符合他們利益的做法是把他鎖起來，直到他們獲得他的配合，然後在釋放他時確信他不會再說任何關於此事的話。", "confidence": "high", "notes": ""}
 
 251. As his son Bill would say to us, "It's better you don't know.
-→ {"text": "正如他的兒子比爾會對我們說的：『你最好不要知道。』", "confidence": "high", "notes": ""}
+→ {"text": "正如他的兒子比爾會對我們說的：「你最好不要知道。", "confidence": "high", "notes": ""}
 
 252. Don't ask.
 → {"text": "不要問。", "confidence": "high", "notes": ""}
 
 253. It's better you don't know."
-→ {"text": "你最好不要知道。』", "confidence": "high", "notes": ""}
+→ {"text": "你最好不要知道。」", "confidence": "high", "notes": ""}
 
 254. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}

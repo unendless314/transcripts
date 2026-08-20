@@ -4,10 +4,10 @@
 → {"text": "那枚火箭裡並非動物遺骸。", "confidence": "high", "notes": ""}
 
 259. I can say that with some confidence because I was involved in the first suborbital primate flight in Pensacola, Florida and I went there in 1959.
-→ {"text": "我可以很有信心地說這點，因為我參與了佛羅里達州彭薩科拉的首次次軌道靈長類飛行，我於1959年前往該處。", "confidence": "high", "notes": ""}
+→ {"text": "我可以很有信心地說這點，因為我參與了佛羅里達州彭薩科拉的首次次軌道靈長類飛行，我於 1959 年前往該處。", "confidence": "high", "notes": ""}
 
 260. It was about 1960 that we did the first suborbital primate flight early, early in our space venture.
-→ {"text": "我們在1960年左右進行了首次次軌道靈長類飛行，那是我們太空探索非常早期的階段。", "confidence": "high", "notes": ""}
+→ {"text": "我們在 1960 年左右進行了首次次軌道靈長類飛行，那是我們太空探索非常早期的階段。", "confidence": "high", "notes": ""}
 
 261. Was there a mogul launch that could have been responsible for this?
 → {"text": "是否有莫古爾計畫的發射可能造成這起事件？", "confidence": "high", "notes": ""}
@@ -16,7 +16,7 @@
 → {"text": "已經提出的證據是艾伯特·克雷里博士的日記，該日記提供了我們資訊。", "confidence": "high", "notes": ""}
 
 263. The identified flight was supposedly flight number four on June 4th, 1947.
-→ {"text": "被指認的飛行據稱是1947年6月4日的四號飛行。", "confidence": "high", "notes": ""}
+→ {"text": "被指認的飛行據稱是 1947 年 6 月 4 日的四號飛行。", "confidence": "high", "notes": ""}
 
 264. According to Crary's diary, because of cloud cover, the missile launch had been canceled, so their flight was canceled.
 → {"text": "根據克雷里的日記，由於雲層覆蓋，飛彈發射被取消，因此他們的飛行也被取消了。", "confidence": "high", "notes": ""}
@@ -34,22 +34,22 @@
 → {"text": "在他們抵達新墨西哥州之前，已經在紐澤西州進行過三次飛行。", "confidence": "high", "notes": ""}
 
 269. The documentation is a little bit hinky on that, but according to what Charles Moore had said in a letter that he wrote in 1995, that they didn't file the NOTAM as they were required by the CAA at the time.
-→ {"text": "關於這點的文件紀錄有點可疑，但根據查爾斯·摩爾在1995年寫的一封信中所說，他們並未依照當時民航管理局的要求提交飛行通告。", "confidence": "high", "notes": "NOTAM = Notice to Airmen 飛行通告；CAA = Civil Aeronautics Administration 民航管理局"}
+→ {"text": "關於這點的文件紀錄有點可疑，但根據查爾斯·摩爾在 1995 年寫的一封信中所說，他們並未依照當時民航管理局（CAA）的要求提交飛行通告（NOTAM）。", "confidence": "high", "notes": ""}
 
 270. I'm sure he did this because we went through the archives.
 → {"text": "我確信他這麼做是因為我們查閱了檔案。", "confidence": "medium", "notes": "語境略微模糊"}
 
 271. I went to the archives looking for the notums because I'd like to see how they described the arrays and if there was a notum for the June 4th launch.
-→ {"text": "我前往檔案館尋找飛行通告，因為我想看看他們如何描述這些陣列，以及6月4日的發射是否有飛行通告。", "confidence": "high", "notes": ""}
+→ {"text": "我前往檔案館尋找飛行通告，因為我想看看他們如何描述這些陣列，以及 6 月 4 日的發射是否有飛行通告。", "confidence": "high", "notes": "原文 notums/notum 應為 NOTAMs/NOTAM（已補錄 topics.json）"}
 
 272. He said in a 1995 letter that they had not contacted the FAA because they didn't expect this mythical flight to get off the restricted area at White Sand.
-→ {"text": "他在1995年的信中表示，他們並未聯繫聯邦航空管理局，因為他們預期這次虛構的飛行不會離開白沙的限制區域。", "confidence": "high", "notes": ""}
+→ {"text": "他在 1995 年的信中表示，他們並未聯繫聯邦航空總署（FAA），因為他們預期這次虛構的飛行不會離開白沙的限制區域。", "confidence": "high", "notes": "原文 White Sand 應為 White Sands（已補錄 topics.json）"}
 
 273. Even if the flight was launched, it wasn't expected to reach any altitudes and it wasn't suspected to get off the White Sand's missile range, according to him.
-→ {"text": "根據他的說法，即使這次飛行被發射，也不預期達到任何高度，也不預期會離開白沙飛彈試驗場。", "confidence": "high", "notes": ""}
+→ {"text": "根據他的說法，即使這次飛行被發射，也不預期達到任何高度，也不預期會離開白沙飛彈靶場。", "confidence": "high", "notes": ""}
 
 274. I'm sure that he'd said that simply because that would explain why there was no FAA notification.
-→ {"text": "我確信他這麼說純粹是因為這樣可以解釋為何沒有聯邦航空管理局的通知。", "confidence": "high", "notes": ""}
+→ {"text": "我確信他這麼說純粹是因為這樣可以解釋為何沒有向 FAA 通報。", "confidence": "high", "notes": ""}
 
 275. There was no good documentation that flight number four ever was launched.
 → {"text": "沒有可靠的文件紀錄證明四號飛行曾經發射過。", "confidence": "high", "notes": ""}
@@ -67,10 +67,10 @@
 → {"text": "它們是氣象氣球。", "confidence": "high", "notes": ""}
 
 280. There was 15, 20 weather balloons strung together, but it's still weather balloons.
-→ {"text": "有15到20個氣象氣球串在一起，但它們依然是氣象氣球。", "confidence": "high", "notes": ""}
+→ {"text": "有 15 到 20 個氣象氣球串在一起，但它們依然是氣象氣球。", "confidence": "high", "notes": ""}
 
 281. Jesse Marcel would have recognized the weather balloons for what they were.
-→ {"text": "傑西·馬瑟爾會辨認出氣象氣球的真面目。", "confidence": "high", "notes": "Jesse Marcel 保留原文"}
+→ {"text": "傑西·馬塞爾會辨認出氣象氣球的真面目。", "confidence": "high", "notes": ""}
 
 282. Cavett obviously recognized the weather balloons, but the point is simply that had it been a Project Mogul flight, we would have been able to identify it specifically from the testimonies of the witnesses and the documentation available.
 → {"text": "卡維特顯然辨認出了氣象氣球，但重點在於，如果那是莫古爾計畫的飛行，我們應該能夠從證人的證詞和現有文件中明確辨識出來。", "confidence": "high", "notes": ""}
@@ -166,7 +166,7 @@
 → {"text": "但不一定如此。", "confidence": "high", "notes": ""}
 
 313. As Dr. Michael D. Swords, professor emeritus at the University of Michigan Kalamazoo, professor of natural history, biologists, has suggested, if we consider biological symmetry, that throughout the universe that there would be a common link, that there would potentially be a resemblance, that they would be humanoid.
-→ {"text": "正如密西根大學卡拉馬祖分校榮譽退休教授、自然史與生物學教授麥可·索茲博士所提出的，如果我們考慮生物對稱性，那麼整個宇宙中可能存在共同的聯繫，可能存在相似性，他們可能是類人生物。", "confidence": "high", "notes": "Dr. Michael D. Swords 保留原文"}
+→ {"text": "正如密西根大學卡拉馬祖分校榮譽退休教授、自然史與生物學教授麥可·索茲博士（Dr. Michael D. Swords）所提出的，如果我們考慮生物對稱性，那麼整個宇宙中可能存在共同的聯繫，可能存在相似性，他們可能是類人生物。", "confidence": "high", "notes": "講者所述校名有誤，索茲實際任教於西密西根大學（Western Michigan University，位於卡拉馬祖）"}
 
 314. That's conceivable.
 → {"text": "這是可以想像的。", "confidence": "high", "notes": ""}
@@ -217,7 +217,7 @@
 → {"text": "而在帕斯卡古拉，那裡的人描述的東西實際上並不太像類人生物，但模糊地類似人類。", "confidence": "high", "notes": ""}
 
 330. I knew Steve Schiff, by the way.
-→ {"text": "順帶一提，我認識史蒂夫·希夫。", "confidence": "high", "notes": "Steve Schiff 保留原文"}
+→ {"text": "順帶一提，我認識史蒂夫·希夫。", "confidence": "high", "notes": "即史蒂芬·希夫眾議員"}
 
 331. I was on the committee.
 → {"text": "我當時在委員會。", "confidence": "high", "notes": ""}
@@ -301,16 +301,16 @@
 ## Speaker Group 6
 
 353. There's the FBI telex from the FBI bureau in Dallas, Texas, that went out the very evening, 6/17 p.m., that the weather balloon explanation had just come out from General Ramey's press conference.
-→ {"text": "有一份來自德州達拉斯FBI分局的電報，發出時間是當天晚上下午6點17分，就在雷米將軍的記者會剛發布氣象氣球解釋之後。", "confidence": "high", "notes": "General Ramey 保留原文"}
+→ {"text": "有一份來自德州達拉斯 FBI 分局的電報，發出時間是當天晚上下午 6 點 17 分，就在雷米將軍的記者會剛發布氣象氣球解釋之後。", "confidence": "high", "notes": ""}
 
 354. And it refuted that.
 → {"text": "電報駁斥了那個說法。", "confidence": "high", "notes": ""}
 
 355. Raimi had canceled the continuing flight on to Wright Field.
-→ {"text": "雷米取消了繼續飛往Wright Field的航班。", "confidence": "high", "notes": "Raimi = Ramey 拼寫變體"}
+→ {"text": "雷米取消了繼續飛往萊特機場的航班。", "confidence": "high", "notes": "原文 Raimi 應為 Ramey（已補錄 topics.json）；Wright Field 沿用 UFO-11 定譯萊特機場"}
 
 356. And that stated that based on their telephonic conversation between Wright Field and their FBI office, that this belief was not borne out.
-→ {"text": "電報中陳述，根據Wright Field與FBI辦公室之間的電話交談，這個說法並未得到證實。", "confidence": "high", "notes": ""}
+→ {"text": "電報中陳述，根據萊特機場與 FBI 辦公室之間的電話交談，這個說法並未得到證實。", "confidence": "high", "notes": ""}
 
 357. In other words, the balloon explanation was not what they've been talking about, it's not what they were hearing.
 → {"text": "換句話說，氣球的解釋不是他們一直在談論的，也不是他們所聽到的。", "confidence": "high", "notes": ""}
@@ -325,7 +325,7 @@
 ## Speaker Group 8
 
 359. In 1994.
-→ {"text": "在1994年。", "confidence": "high", "notes": ""}
+→ {"text": "在 1994 年。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 9
@@ -388,7 +388,7 @@
 ## Speaker Group 18
 
 370. Standard weather balloons at 20-foot intervals by strength.
-→ {"text": "標準氣象氣球，以20英呎間隔用繩子串連。", "confidence": "high", "notes": ""}
+→ {"text": "標準氣象氣球，以 20 英呎間隔用繩子串連。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 19
@@ -412,7 +412,7 @@
 → {"text": "在新墨西哥州發射的莫古爾陣列上的所有東西都是現成的材料。", "confidence": "high", "notes": ""}
 
 375. There were weather balloons, there were what they called a Rawin radar target.
-→ {"text": "有氣象氣球，有他們稱為雷文雷達目標的東西。", "confidence": "high", "notes": "Rawin = radar wind sounding"}
+→ {"text": "有氣象氣球，還有他們所謂的雷文雷達標靶（Rawin radar target）。", "confidence": "high", "notes": "Rawin 為 RAdar WINd sounding（雷達測風）之縮寫"}
 
 
 ## Speaker Group 22
@@ -475,7 +475,7 @@
 ## Speaker Group 29
 
 388. Now, the project was so effective as it was designed to determine as far as from high altitude, should the Soviets detonate their first atomic bomb, we would pick up the shock wave from this acoustic listing device, this microphone, that when they did first detonate an atomic bomb in August of 1949, it wasn't mogul that picked it up.
-→ {"text": "現在，這個計畫的設計目的是從高空偵測，一旦蘇聯引爆第一顆原子彈，我們將從這個聲學偵聽裝置、這個麥克風中接收到衝擊波，但當他們在1949年8月首次引爆原子彈時，並不是莫古爾偵測到的，這顯示該計畫效能不彰。", "confidence": "high", "notes": ""}
+→ {"text": "現在，這個計畫的設計目的是從高空偵測，一旦蘇聯引爆第一顆原子彈，我們將從這個聲學偵聽裝置、這個麥克風中接收到衝擊波，但當他們在 1949 年 8 月首次引爆原子彈時，並不是莫古爾偵測到的，這顯示該計畫效能不彰。", "confidence": "high", "notes": ""}
 
 389. Mogul failed.
 → {"text": "莫古爾失敗了。", "confidence": "high", "notes": ""}
@@ -508,10 +508,10 @@
 → {"text": "為什麼應該如此？", "confidence": "high", "notes": ""}
 
 397. I was in the Congress for 20 years.
-→ {"text": "我在國會服務了20年。", "confidence": "high", "notes": ""}
+→ {"text": "我在國會服務了 20 年。", "confidence": "high", "notes": ""}
 
 398. I was on the Armed Services Committee for 20 years.
-→ {"text": "我在軍事委員會服務了20年。", "confidence": "high", "notes": ""}
+→ {"text": "我在軍事委員會服務了 20 年。", "confidence": "high", "notes": ""}
 
 399. I sat in a very large number of briefings.
 → {"text": "我參加了非常多的簡報會。", "confidence": "high", "notes": ""}
@@ -535,7 +535,7 @@
 ## Speaker Group 32
 
 405. I think in 1947 the thought process was that they didn't -- we didn't want the Soviets to know that we had the capability to spy on them to do that.
-→ {"text": "我認為1947年的思維是，他們不想——我們不想讓蘇聯知道我們有能力以那種方式監視他們。", "confidence": "high", "notes": ""}
+→ {"text": "我認為 1947 年的思維是，他們不想——我們不想讓蘇聯知道我們有能力以那種方式監視他們。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 33

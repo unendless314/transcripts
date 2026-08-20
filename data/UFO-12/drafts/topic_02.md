@@ -16,19 +16,19 @@
 → {"text": "那會讓我們進行到五點鐘。", "confidence": "high", "notes": ""}
 
 39. Colonel French, this is really something that you've just said here that's very important.
-→ {"text": "French 上校，您剛才所說的非常重要。", "confidence": "high", "notes": ""}
+→ {"text": "弗倫奇上校，您剛才所說的非常重要。", "confidence": "high", "notes": ""}
 
 40. It's highly significant. I hadn't known until I read this and listened to you just now exactly what you are saying. I'm going to ask you just some specific questions. I want to start by saying I commend you for all the service you've given our country in uniform and for the things you've done that way. This is such a significant statement that I'm going to ask some rather specific questions if that's all right. Can you remember about when in the late '60s this event occurred? As close as you can. I mean, that's fine. It was just late '60s. If you know something a little more I'd be most interested.
-→ {"text": "這極為重要。在我讀到這份資料並剛才聽您陳述之前，我並不知道您所說的具體內容。我將向您提出一些具體問題。首先我想說，我讚賞您對國家的軍旅貢獻以及您所做的一切。這是一份如此重要的陳述，我將提出一些相當具體的問題，如果可以的話。您能記得這件事發生在1960年代末期的大約什麼時候嗎？盡可能具體。我是說，那很好，就是1960年代末期。如果您知道更多細節，我會非常感興趣。", "confidence": "high", "notes": ""}
+→ {"text": "這極為重要。在我讀到這份資料並剛才聽您陳述之前，我並不知道您所說的具體內容。我將向您提出一些具體問題。首先我想說，我讚賞您對國家的軍旅貢獻以及您所做的一切。這是一份如此重要的陳述，我將提出一些相當具體的問題，如果可以的話。您能記得這件事發生在 1960 年代末期的大約什麼時候嗎？盡可能具體。我是說，那很好，就是 1960 年代末期。如果您知道更多細節，我會非常感興趣。", "confidence": "high", "notes": ""}
 
 41. Well about when was it that you said it had to do with training in the late '60s that you were sent to Alamogordo?
-→ {"text": "那麼，您說您是在1960年代末期為了受訓被派往 Alamogordo，大約是什麼時候？", "confidence": "high", "notes": ""}
+→ {"text": "那麼，您說您是在 1960 年代末期為了受訓被派往阿拉莫戈多，大約是什麼時候？", "confidence": "high", "notes": ""}
 
 42. Yeah.
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 43. Okay, that's good enough. You learned of the accident a few miles away from Alamogordo.
-→ {"text": "好的，這樣就夠了。您得知在距離 Alamogordo 幾英里外發生了一起事故。", "confidence": "high", "notes": ""}
+→ {"text": "好的，這樣就夠了。您得知在距離阿拉莫戈多幾英里外發生了一起事故。", "confidence": "high", "notes": ""}
 
 44. When did you learn of that accident? I mean, was it right at the time of the accident or was it later? Give me a little time frame here.
 → {"text": "您是什麼時候得知那起事故的？我是說，是在事故發生當時還是之後？請給我一個時間範圍。", "confidence": "high", "notes": ""}
@@ -55,7 +55,7 @@
 → {"text": "那些是別人告訴我的。", "confidence": "high", "notes": ""}
 
 52. Oh, just a minute. Well, this statement, it says a short time later, I witnessed -- no, no, no, excuse me. Afterwards, I was asked to review some of the items that were picked up from the crash site. There were an unknown number of humanoids, either killed or injured.
-→ {"text": "哦，等一下。嗯，這份陳述寫著「不久後，我目擊了」——不不不，抱歉。「事後，我被要求檢視從墜毀現場撿拾到的一些物品。有未知數量的類人生命體死亡或受傷。」", "confidence": "high", "notes": ""}
+→ {"text": "哦，等一下。嗯，這份陳述寫著「不久後，我目擊了」——不不不，抱歉。「事後，我被要求檢視從墜毀現場撿拾到的一些物品。有未知數量的類人生物死亡或受傷。」", "confidence": "high", "notes": ""}
 
 53. Did you see those?
 → {"text": "您看到那些了嗎？", "confidence": "high", "notes": ""}
@@ -79,7 +79,7 @@
 → {"text": "不，那不適用。", "confidence": "high", "notes": ""}
 
 60. Okay, you reviewed items. And what were the items that you reviewed that were picked up that made you believe -- well, explain then how -- well, how did you hear about the humanoids?
-→ {"text": "好的，您檢視了物品。那麼您檢視的物品是什麼，是什麼讓您相信——嗯，那麼請解釋——嗯，您是怎麼聽說類人生命體的？", "confidence": "high", "notes": ""}
+→ {"text": "好的，您檢視了物品。那麼您檢視的物品是什麼，是什麼讓您相信——嗯，那麼請解釋——嗯，您是怎麼聽說類人生物的？", "confidence": "high", "notes": ""}
 
 61. Let me ask it that way.
 → {"text": "讓我這樣問。", "confidence": "high", "notes": ""}
@@ -103,13 +103,13 @@
 → {"text": "哦，他們在撿拾——不，我不知道他們在做什麼，但我是說有——不用說，有很多流言蜚語和很多事情在進行，而我並未參與其中。", "confidence": "high", "notes": ""}
 
 68. Okay, so essentially you were told on that same day of the crash that there were an unknown number of humanoids either killed or injured?
-→ {"text": "好的，所以基本上您是在墜毀事件當天被告知有未知數量的類人生命體死亡或受傷？", "confidence": "high", "notes": ""}
+→ {"text": "好的，所以基本上您是在墜毀事件當天被告知有未知數量的類人生物死亡或受傷？", "confidence": "high", "notes": ""}
 
 69. Yeah.
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 70. Okay. Did you see or did somebody just tell you that the parts and casualties were taken to base operations?
-→ {"text": "好的。您是親眼看到，還是有人告訴您殘骸和遺體被送往基地作業中心？", "confidence": "high", "notes": ""}
+→ {"text": "好的。您是親眼看到，還是有人告訴您殘骸和遺體被送往基地指揮中心？", "confidence": "high", "notes": ""}
 
 71. I don't know. For instance, one of the people that I saw that I -- a certain would have seen it happened to be a nurse that was in uniform. It was in uniform at the time.
 → {"text": "我不知道。例如，我看到的其中一個人——我確定她一定看到了——碰巧是一位穿著制服的護士。她當時穿著制服。", "confidence": "medium", "notes": "原文語法略混亂，翻譯時理順語意"}
@@ -124,13 +124,13 @@
 → {"text": "哦，好的。嗯，您只有在有人告訴您或展示給您看時才能知道某些事——我自然對發生的事情感到好奇，但他們對一切都守口如瓶，非常保密。", "confidence": "high", "notes": ""}
 
 75. Okay. And you had learned that parts and casualties were transported to Wright-Patterson Air Force base. Again, I'd be most interested to know where you learned that or how you learned it or the circumstances of learning it.
-→ {"text": "好的。而且您得知殘骸和遺體被運往 Wright-Patterson 空軍基地。我同樣非常想知道您是從哪裡得知的，或者您是如何得知的，或者得知的具體情況。", "confidence": "high", "notes": ""}
+→ {"text": "好的。而且您得知殘骸和遺體被運往萊特-帕特森空軍基地。我同樣非常想知道您是從哪裡得知的，或者您是如何得知的，或者得知的具體情況。", "confidence": "high", "notes": ""}
 
 76. Well, later on, I had a very close friend who was a full colonel and who happened -- Paul Sleeper was a very good friend of his. And he and I discussed that a little bit, and he said, "Yes, that's where the parts went." He was a full colonel, Dr. George Kristof.
-→ {"text": "嗯，後來，我有一位非常親近的朋友，他是一位上校，碰巧 Paul Sleeper 是他的好友。他和我稍微討論了這件事，他說：「是的，殘骸就是被送到那裡。」他是上校，George Kristof 博士。", "confidence": "high", "notes": "full colonel = 上校"}
+→ {"text": "嗯，後來，我有一位非常親近的朋友，他是一位上校，碰巧保羅·斯利珀是他的好友。他和我稍微討論了這件事，他說：「是的，殘骸就是被送到那裡。」他是上校，喬治·克里斯托夫博士（Dr. George Kristof）。", "confidence": "high", "notes": ""}
 
 77. Dr. George Kristof told you that?
-→ {"text": "George Kristof 博士告訴您的？", "confidence": "high", "notes": ""}
+→ {"text": "克里斯托夫博士告訴您的？", "confidence": "high", "notes": ""}
 
 78. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -142,22 +142,22 @@
 → {"text": "嗯，是之後，但我不記得具體是多久之後。", "confidence": "high", "notes": ""}
 
 81. Okay. Maybe after he had been through with his whatever non-disclosure he had to take care of. Okay. Well, let me just turn back a little bit to Stanton Friedman and anybody that might want to answer any of these questions. What evidence do we have since '47, certainly in the '60s or at the time of this Alamogordo incident or anything of -- what is the evidence that we have that's as solid as we have? What is the most solid evidence of the humanoid parts and so on that somebody told Colonel French about? Can we get to a direct person that might have said something either to Colonel French or anybody else about Alamogordo or anything that has to do with humanoids? Let's get into that. I want to know the best evidence there is out there today.
-→ {"text": "好的。也許是在他處理完他必須遵守的保密協議之後。好的。那麼，讓我把話題轉回 Stanton Friedman 以及任何想回答這些問題的人。自1947年以來，當然在1960年代或這起 Alamogordo 事件發生時，或任何——我們擁有什麼證據是我們現有最可靠的？關於類人生命體遺骸等等，有人告訴 French 上校的，最可靠的證據是什麼？我們能找到直接向 French 上校或其他任何人談論過 Alamogordo 或任何與類人生命體有關事情的人嗎？讓我們深入這個問題。我想知道今天現有的最佳證據。", "confidence": "high", "notes": ""}
+→ {"text": "好的。也許是在他處理完他必須遵守的保密協議之後。好的。那麼，讓我把話題轉回史丹頓·弗里德曼（Stanton Friedman）以及任何想回答這些問題的人。自 1947 年以來，當然在 1960 年代或這起阿拉莫戈多事件發生時，或任何——我們擁有什麼證據是我們現有最可靠的？關於類人生物遺骸等等，有人告訴弗倫奇上校的，最可靠的證據是什麼？我們能找到直接向弗倫奇上校或其他任何人談論過阿拉莫戈多或任何與類人生物有關事情的人嗎？讓我們深入這個問題。我想知道今天現有的最佳證據。", "confidence": "high", "notes": ""}
 
 82. We've got lots of good abduction stories.
 → {"text": "我們有很多可靠的綁架案例。", "confidence": "high", "notes": "abduction stories 依 terminology.yaml 譯為「綁架案例」"}
 
 83. Now, you know, there might be things being withheld. That's not -- you know, and I understand all that. I just want to know -- and that might be the fault of the Army. That might be why we don't know. But I'm interested in what we absolutely do know about humanoids, even if -- Testimony from people who have been abducted is as close as you get. I mean -- Well, who's saying that? Okay. Well, give me the names.
-→ {"text": "現在，你知道，可能有些東西被隱瞞了。那不是——你知道，我理解這一切。我只是想知道——這可能是軍方的責任。這可能就是我們不知道的原因。但我感興趣的是我們絕對確知的關於類人生命體的事情，即使——被綁架者的證詞是您能得到的最接近的證據。我是說——嗯，誰這麼說的？好的。那麼，給我名字。", "confidence": "high", "notes": ""}
+→ {"text": "現在，你知道，可能有些東西被隱瞞了。那不是——你知道，我理解這一切。我只是想知道——這可能是軍方的責任。這可能就是我們不知道的原因。但我感興趣的是我們絕對確知的關於類人生物的事情，即使——被綁架者的證詞是您能得到的最接近的證據。我是說——嗯，誰這麼說的？好的。那麼，給我名字。", "confidence": "high", "notes": ""}
 
 84. There's a book out there captured, "The Betty and Barney Hill UFO Experience." It's about two people who were abducted. They were carefully investigated by Dr. Benjamin Simon, a psychiatrist who ran a hospital for 3,000 shell shock war veterans. He says the emotional upheaval in their voices as he had 10 sessions with each of them was as strong as that in any of the war veterans that he had dealt with with PTSD. He's in the Army movie about PTSD. He knows that field, doesn't know flying saucers. And they saw -- they were close, intimately close to humanoids, to occupants from a vehicle from up there.
-→ {"text": "有一本書叫做《貝蒂與巴尼·希爾的 UFO 體驗》。內容是關於兩個被綁架的人。他們接受了 Benjamin Simon 博士的仔細調查，他是一位精神科醫師，曾管理一家收治3000名砲彈休克症退伍軍人的醫院。他說，在他與他們每人進行10次療程時，他們聲音中的情緒波動與他處理過的任何 PTSD 退伍軍人一樣強烈。他出現在軍方關於 PTSD 的影片中。他了解那個領域，但不了解飛碟。而他們看到了——他們與類人生命體、與來自天上飛行器的乘員近距離接觸，非常親近的距離。", "confidence": "high", "notes": "PTSD 保留原文縮寫"}
+→ {"text": "有一本書叫做《貝蒂與巴尼·希爾的 UFO 體驗》。內容是關於兩個被綁架的人。他們接受了班傑明·賽門博士（Dr. Benjamin Simon）的仔細調查，他是一位精神科醫師，曾管理一家收治 3,000 名砲彈休克症退伍軍人的醫院。他說，在他與他們每人進行 10 次療程時，他們聲音中的情緒波動與他處理過的任何 PTSD 退伍軍人一樣強烈。他出現在軍方關於 PTSD 的影片中。他了解那個領域，但不了解飛碟。而他們看到了——他們與類人生物、與來自天上飛行器的乘員近距離接觸，非常親近的距離。", "confidence": "high", "notes": ""}
 
 85. Okay. Mr. Freeman, what are the names of those people that said they were abducted and then obviously came back to explain about that?
-→ {"text": "好的。Friedman 先生，那些聲稱被綁架然後顯然又回來說明此事的人叫什麼名字？", "confidence": "high", "notes": "原文誤稱 Freeman，應為 Friedman"}
+→ {"text": "好的。弗里德曼先生，那些聲稱被綁架然後顯然又回來說明此事的人叫什麼名字？", "confidence": "high", "notes": "原文誤稱 Freeman，應為 Friedman"}
 
 86. Betty -- their names were Betty and Barney Hill, a couple in New Hampshire. The book is captured, "The Betty and Barney Hill UFO Experience," by myself. And the woman who did most of the work was Kathleen Marden, who's Betty's niece. She has the hypnosis tapes. It's a long story, an involved story, but one of the best ones around in terms of the quality of the people. Betty was a social worker.
-→ {"text": "貝蒂——他們的名字是貝蒂與巴尼·希爾，新罕布夏州的一對夫婦。這本書叫做《貝蒂與巴尼·希爾的 UFO 體驗》，由我撰寫。而做了大部分工作的女士是 Kathleen Marden，她是貝蒂的姪女。她有催眠錄音帶。這是一個很長的故事，很複雜的故事，但就證人的品質而言，這是最好的案例之一。貝蒂是一名社工。", "confidence": "high", "notes": ""}
+→ {"text": "貝蒂——他們的名字是貝蒂與巴尼·希爾，新罕布夏州的一對夫婦。這本書叫做《貝蒂與巴尼·希爾的 UFO 體驗》，由我撰寫。而做了大部分工作的女士是凱薩琳·馬登（Kathleen Marden），她是貝蒂的姪女。她有催眠錄音帶。這是一個很長的故事，很複雜的故事，但就證人的品質而言，這是最好的案例之一。貝蒂是一名社工。", "confidence": "high", "notes": ""}
 
 87. Okay. And we can follow up and even read the book and so on. What other examples do we have?
 → {"text": "好的。我們可以跟進並閱讀這本書等等。我們還有什麼其他例子？", "confidence": "high", "notes": ""}
