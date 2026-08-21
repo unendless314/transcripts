@@ -184,7 +184,7 @@
 → {"text": "這就是他們的結論。", "confidence": "high", "notes": ""}
 
 140. Also, since you had asked about the near collision, I might as well add that that's, as I explained in this morning's testimony, that again was one of the main reasons of the Chilean committee, the CEFA, to ensure air safety operations.
-→ {"text": "另外，既然您問到了險些相撞的問題，我不妨補充一點，正如我在今天上午的證詞中所解釋的，這正是智利空中現象研究委員會（CEFA）成立的主要原因之一——確保航空安全作業。", "confidence": "high", "notes": "CEFA 依照 terminology.yaml 翻譯為「智利空中現象研究委員會（CEFA）」"}
+→ {"text": "另外，既然您問到了險些相撞的問題，我不妨補充一點，正如我在今天上午的證詞中所解釋的，這正是智利異常空中現象研究委員會（CEFAA）成立的主要原因之一——確保航空安全作業。", "confidence": "high", "notes": "原文 CEFA 應為 CEFAA（沿用 UFO-13 人工裁決）；本集校稿收尾時補錄 topics.json"}
 
 141. That's part of their mission.
 → {"text": "這是他們任務的一部分。", "confidence": "high", "notes": ""}

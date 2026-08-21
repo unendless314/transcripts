@@ -337,12 +337,12 @@ terms:
     segments:
     - 99
     - 100
-- term: CEFA
+- term: CEFAA
   senses:
   - id: cefa_chile
     definition: Comité de Estudios de Fenómenos Aéreos，智利空中現象研究委員會
-    preferred_translation: 異常空中現象研究委員會（CEFA）
-    notes: 智利空軍的官方UFO調查機構
+    preferred_translation: 異常空中現象研究委員會（CEFAA）
+    notes: 智利空軍的官方UFO調查機構；CEFAA 為正確縮寫（沿用 UFO-13 2026-08-21 人工裁決），本集 seg 140 原文 CEFA 為轉錄錯誤，校稿時補錄更正
     segments:
     - 140
 - term: Puerto Montt

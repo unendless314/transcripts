@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 203. General Ariel Sanchez, I think we might need our microphones on.
-→ {"text": "Ariel Sánchez 將軍，我想我們可能需要打開麥克風。", "confidence": "high", "notes": ""}
+→ {"text": "艾瑞爾·桑切斯（Ariel Sánchez）將軍，我想我們可能需要打開麥克風。", "confidence": "high", "notes": "講者稍後自述為退役上校（seg 207），主席此處稱將軍；人工裁決尊重講者自我表達，照原文翻譯"}
 
 204. Welcome.
 → {"text": "歡迎。", "confidence": "high", "notes": ""}
@@ -10,13 +10,13 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 206. Ladies and gentlemen, I am Ariel Sanchez Ruiz.
-→ {"text": "女士們、先生們，我是 Ariel Sánchez Ruiz。", "confidence": "high", "notes": ""}
+→ {"text": "女士們、先生們，我是艾瑞爾·桑切斯·魯伊斯（Ariel Sanchez Ruiz）。", "confidence": "high", "notes": ""}
 
 207. I'm a retired Uruguay Colonel of the Armed Forces and I belong to the reception and denouncements in Uruguay of UFOs that works together with the official Uruguay Air Force that takes care of all the citizens' reports of non-identified objects.
 → {"text": "我是烏拉圭武裝部隊退役上校，隸屬於烏拉圭不明飛行物接收與申報部門，該部門與官方烏拉圭空軍合作，負責處理所有公民關於不明物體的報告。", "confidence": "high", "notes": ""}
 
 208. I was a technical director and I have been 23 years researching this subject.
-→ {"text": "我曾擔任技術主任，研究這個主題已有23年。", "confidence": "high", "notes": ""}
+→ {"text": "我曾擔任技術主任，研究這個主題已有 23 年。", "confidence": "high", "notes": ""}
 
 209. I have retired from the Air Forces about nine months but I also worked as a specializing in air transit, specialization of air transit, and a professor of the School of Estado Mayor.
 → {"text": "我於約九個月前從空軍退役，但我同時也從事航空運輸專業工作，並擔任參謀學院（School of Estado Mayor）的教授。", "confidence": "medium", "notes": "Estado Mayor 為西班牙文，指參謀本部或參謀學院"}
@@ -25,13 +25,13 @@
 → {"text": "我同時也是當地不明飛行物非民間研究中心（Center for Exploration of Non-Civil Research of the UFO OVNI）的主任。", "confidence": "medium", "notes": "機構名稱直譯，原文較為拗口"}
 
 211. Uruguay in these groups of investigation has about 1,300 cases that have been investigated for a long 30 years with 3% of these cases that have non-conventional characteristics.
-→ {"text": "烏拉圭在這些調查組織中，約有1,300個案例經過長達30年的調查，其中3%的案例具有非常規特徵。", "confidence": "high", "notes": ""}
+→ {"text": "烏拉圭在這些調查組織中，約有 1,300 個案例經過長達 30 年的調查，其中 3% 的案例具有非常規特徵。", "confidence": "high", "notes": ""}
 
 212. Uruguay is a small country with only 3,250,000 inhabitants in a land of 176,215 square kilometers.
-→ {"text": "烏拉圭是一個小國，僅有325萬人口，國土面積為176,215平方公里。", "confidence": "high", "notes": "已依據 potential_errors 修正 square feet 為平方公里"}
+→ {"text": "烏拉圭是一個小國，僅有 325 萬人口，國土面積為 176,215 平方公里。", "confidence": "high", "notes": "topics.json 紀錄 square feet 應為 square kilometers，經查原文已正確，屬失效紀錄"}
 
 213. Its principal industry of Uruguay is cattle and raising and agriculture. 1979 was created an office for the citizens' reporting of unidentified objects, most reiterated based on the 1970s, but the first registers started up in 1942.
-→ {"text": "烏拉圭的主要產業是畜牧業和農業。1979年設立了公民不明物體通報辦公室，雖然在1970年代已有多次重申，但最早的記錄始於1942年。", "confidence": "high", "notes": ""}
+→ {"text": "烏拉圭的主要產業是畜牧業和農業。1979 年設立了公民不明物體通報辦公室，雖然在 1970 年代已有多次重申，但最早的記錄始於 1942 年。", "confidence": "high", "notes": ""}
 
 214. The Air Force is in charge of the safety of the country's air and the safety of the populace and also the passengers and airplanes.
 → {"text": "空軍負責國家領空安全、民眾安全，以及乘客和飛機的安全。", "confidence": "high", "notes": ""}
@@ -40,7 +40,7 @@
 → {"text": "它處理所有媒體報導中關於民眾通報不明飛行物的申報。", "confidence": "high", "notes": ""}
 
 216. Here in these 33 years of activity, the Uruguay command of the Air Force has given any information of the diffusion or stopped the reporting of all this information.
-→ {"text": "在這33年的運作期間，烏拉圭空軍指揮部從未隱瞞或阻止任何資訊的傳播與報導。", "confidence": "high", "notes": ""}
+→ {"text": "在這 33 年的運作期間，烏拉圭空軍指揮部從未隱瞞或阻止任何資訊的傳播與報導。", "confidence": "high", "notes": ""}
 
 217. Through this commission, we are not rejecting or hiding or changing the situations that have been lived or experienced by the citizens that are reporting.
 → {"text": "透過這個委員會，我們不會拒絕、隱瞞或改變通報民眾所經歷或體驗到的情況。", "confidence": "high", "notes": ""}
@@ -55,7 +55,7 @@
 → {"text": "我們對所有對此主題感興趣的人以及記者進行了大量訪談，本著研究和無偏見的精神，大家可以齊心協力，以最大化這些研究成果。", "confidence": "medium", "notes": ""}
 
 221. In 7 of August in 1979, three officers were nominated for all this recopilation and analysis and 20 civil researchers were also called in to the help.
-→ {"text": "1979年8月7日，三名軍官被任命負責所有資料的彙整與分析，同時也召集了20位民間研究人員協助。", "confidence": "high", "notes": ""}
+→ {"text": "1979 年 8 月 7 日，三名軍官被任命負責所有資料的彙整與分析，同時也召集了 20 位民間研究人員協助。", "confidence": "high", "notes": "recopilation 應為西班牙語 recopilación（彙整）"}
 
 222. CRIDOVNI is an organization that is a governmental institute, but it works as a public office for military and civil reports.
 → {"text": "CRIDOVNI 是一個政府機構，但它作為軍方和民間報告的公共辦公室運作。", "confidence": "high", "notes": "CRIDOVNI 為烏拉圭空軍不明飛行物調查委員會的縮寫，保留原文"}
@@ -64,10 +64,10 @@
 → {"text": "烏拉圭區域民間研究團體是一個非政府組織，其目標是彙整所有南美洲通報不明飛行物目擊的團體，並將所有細節彙編成資料庫。", "confidence": "high", "notes": ""}
 
 224. The results of this idea in 2012, two forces joined, Chile had been doing the first cooperation exchange with the international press with all this research.
-→ {"text": "這個構想的成果在2012年實現，兩個機構聯合起來，智利已經與國際媒體進行了首次合作交流，分享所有這些研究成果。", "confidence": "medium", "notes": ""}
+→ {"text": "這個構想的成果在 2012 年實現，兩個機構聯合起來，智利已經與國際媒體進行了首次合作交流，分享所有這些研究成果。", "confidence": "medium", "notes": ""}
 
 225. LACRI OVNI would like to use the same type of elements to review and incorporate all the research on these reports.
-→ {"text": "CRIDOVNI 希望使用相同類型的要素來審查並整合所有關於這些報告的研究。", "confidence": "high", "notes": "已依據 potential_errors 將 LACRI OVNI 修正為 CRIDOVNI"}
+→ {"text": "CRIDOVNI 希望使用相同類型的要素來審查並整合所有關於這些報告的研究。", "confidence": "high", "notes": "原文 LACRI OVNI 應為 CRIDOVNI（轉錄錯誤，topics.json 已紀錄）"}
 
 226. After a few different trials, we adapted all this research as a commission with a president and a vice president and a secretary and an operative direction and technical and also to achieve any statistics.
 → {"text": "經過幾次不同的嘗試後，我們將所有研究工作調整為一個委員會，設有主席、副主席、秘書、執行主任和技術部門，同時也負責統計工作。", "confidence": "high", "notes": ""}

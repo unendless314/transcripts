@@ -1,7 +1,7 @@
 # Terminology Master - UFO Citizen Hearing 全系列標準譯名表
 #
 # 收錄標準：出現於 >= 2 集的跨集術語（共 167 個）。
-# 單集專屬術語（僅出現 1 集，共 819 個）請見各集 data/UFO-XX/terminology.yaml。
+# 單集專屬術語（僅出現 1 集，共 818 個）請見各集 data/UFO-XX/terminology.yaml。
 #
 # 此表是全系列「標準譯名」的唯一權威來源：
 #   ✅ 校稿時字幕正文若與此表不符，以此表為準修正
@@ -20,7 +20,7 @@
 #   - 縮寫標註格式：中文（縮寫），如 資訊自由法（FOIA）、國家安全局（NSA）；CIA 除外，直接用 CIA
 #
 # 產生方式：PYTHONPATH=. python3 tools/build_terminology_master.py --force
-# 最後更新：2026-08-14（依 20 集 terminology.yaml 校稿後版本自動產生）
+# 最後更新：2026-08-21（依 20 集 terminology.yaml 校稿後版本自動產生）
 terms:
 - term: A Strange Harvest
   senses:
@@ -216,22 +216,27 @@ terms:
   episodes:
   - UFO-18
   - UFO-19
-- term: CEFA
+- term: CEFAA
   senses:
   - id: cefa_chile
     definition: Comité de Estudios de Fenómenos Aéreos，智利空中現象研究委員會
-    preferred_translation: 異常空中現象研究委員會（CEFA）
+    preferred_translation: 異常空中現象研究委員會（CEFAA）
     episodes:
     - UFO-16
+  - id: cefaa_chile
+    definition: 智利民航局下屬的異常空中現象調查委員會
+    preferred_translation: CEFAA（異常空中現象調查委員會）
+    episodes:
+    - UFO-14
   - id: organization
     definition: Committee for the Study of Anomalous Aerial Phenomena，智利民航局下屬 UFO 研究機構
-    preferred_translation: 異常空中現象研究委員會（CEFA）
+    preferred_translation: 異常空中現象研究委員會（CEFAA）
     episodes:
     - UFO-13
   episodes:
   - UFO-13
+  - UFO-14
   - UFO-16
-  notes: 廢棄譯名（校稿時發現請改正）：智利空中現象研究委員會（CEFA）
 - term: CEFORA
   senses:
   - id: cefora_argentina
@@ -243,7 +248,6 @@ terms:
   episodes:
   - UFO-13
   - UFO-14
-  notes: 廢棄譯名（校稿時發現請改正）：CEFORA
 - term: China UFO Research Institute
   senses:
   - id: china_ufo_institute

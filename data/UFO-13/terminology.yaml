@@ -212,12 +212,12 @@ terms:
   # Topic 03: Chile（智利）
   # ========================================
 
-  - term: CEFA
+  - term: CEFAA
     senses:
       - id: organization
         definition: Committee for the Study of Anomalous Aerial Phenomena，智利民航局下屬 UFO 研究機構
-        preferred_translation: 異常空中現象研究委員會（CEFA）
-        notes: Topic 03 核心組織；首次出現譯全稱加原文，後續簡稱 CEFA 或 CEFAA
+        preferred_translation: 異常空中現象研究委員會（CEFAA）
+        notes: Topic 03 核心組織；CEFAA 為正確縮寫（2026-08-21 人工裁決），原文 CEFA/CEFA-A/CFA 為轉錄變體，已補錄 topics.json
         segments: [139, 147, 148, 150, 151, 155, 156, 163, 164]
 
   - term: Civil Aviation Agency, DGAC

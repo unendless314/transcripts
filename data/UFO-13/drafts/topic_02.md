@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 79. I'd like to start out with Mr. Gevaerd.
-→ {"text": "首先請 Gevaerd 先生發言。", "confidence": "high", "notes": ""}
+→ {"text": "首先請熱瓦爾德先生發言。", "confidence": "high", "notes": ""}
 
 80. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -10,7 +10,7 @@
 → {"text": "謝謝您，主席女士。", "confidence": "high", "notes": ""}
 
 82. Thank you, Professor Wilson-Pickler.
-→ {"text": "謝謝 Wilson Pickler 教授。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝威爾遜·皮克勒教授。", "confidence": "high", "notes": ""}
 
 83. I must add that as when he gets back as a congressman in Brazilian Congress, he wants to do something like this inside the house, inside the Brazilian Congress, as an official part of its agenda.
 → {"text": "我必須補充一點，當他重返巴西國會擔任議員時，他希望能在國會內部進行類似的聽證會，作為國會議程的官方項目。", "confidence": "high", "notes": ""}
@@ -46,10 +46,10 @@
 → {"text": "那是一場歷史性的會議，我們受到世界上最大國家之一的國防部邀請，來處理不明飛行物這個議題。", "confidence": "high", "notes": ""}
 
 94. I would like to show you some pictures, please, Jennifer, of this meeting that took place on April 18th.
-→ {"text": "我想向各位展示一些照片，請 Jennifer 幫忙播放，這是 4 月 18 日舉行的那場會議。", "confidence": "high", "notes": ""}
+→ {"text": "我想向各位展示一些照片，請珍妮佛（Jennifer）幫忙播放，這是 4 月 18 日舉行的那場會議。", "confidence": "high", "notes": ""}
 
 95. This is our federal capital, this is Brasilia, it's a modern capital, please, the next one.
-→ {"text": "這是我們的聯邦首都，這是巴西利亞，是一座現代化的首都，請看下一张。", "confidence": "high", "notes": ""}
+→ {"text": "這是我們的聯邦首都，這是巴西利亞，是一座現代化的首都，請看下一張。", "confidence": "high", "notes": ""}
 
 96. We were received by officers of the Ministry of Defense of Brazil in the building of the Ministry of Defense, where we could meet not only this official, but also members of the Brazilian Air Force, Army, and Navy, as I showed.
 → {"text": "我們在巴西國防部大樓受到巴西國防部官員的接待，在那裡我們不僅見到了這位官員，還見到了巴西空軍、陸軍和海軍的成員，正如我所說的。", "confidence": "high", "notes": ""}
@@ -58,7 +58,7 @@
 → {"text": "請再播下一張照片。", "confidence": "high", "notes": ""}
 
 98. There you can see this meeting that was being conducted by the Secretary of the Minister, Ambassador Celso Amorim, next please.
-→ {"text": "各位可以看到這場會議是由部長的秘書 Celso Amorim 大使主持的，請看下一张。", "confidence": "high", "notes": ""}
+→ {"text": "各位可以看到這場會議是由部長的秘書塞爾索·阿莫里姆（Celso Amorim）大使主持的，請看下一張。", "confidence": "high", "notes": ""}
 
 99. This is the Brazilian Committee of UFO Researchers members, my fellow research colleagues in Brazil.
 → {"text": "這是巴西不明飛行物研究委員會的成員，也就是我在巴西的研究同事們。", "confidence": "high", "notes": ""}
@@ -100,7 +100,7 @@
 → {"text": "所有這些都由巴西空軍以官方方式記錄在案，時間從 1969 年到 1972 年。", "confidence": "high", "notes": ""}
 
 112. Now, a decade later, or two decades later, a decade later in 1977, we have had another very important program to investigate this phenomena in the Amazon, and in a particular area in the Amazon where the UFO phenomena was being observed by the inhabitants, especially of an island called Colares.
-→ {"text": "大約十年後，或者說二十年後，也就是 1977 年，我們有另一個非常重要的計畫來調查亞馬遜地區的這個現象，特別是亞馬遜的一個特定區域，當地居民觀察到 UFO 現象，尤其是科拉雷斯島（Colares）的居民。", "confidence": "high", "notes": "Colares 為巴西地名，音譯為科拉雷斯"}
+→ {"text": "大約十年後，或者說二十年後，也就是 1977 年，我們有另一個非常重要的計畫來調查亞馬遜地區的這個現象，特別是亞馬遜的一個特定區域，當地居民觀察到 UFO 現象，尤其是科拉雷斯島（Colares）的居民。", "confidence": "high", "notes": ""}
 
 113. The situation was so intense.
 → {"text": "當時的情況非常激烈。", "confidence": "high", "notes": ""}

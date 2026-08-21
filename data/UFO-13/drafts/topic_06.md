@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 313. And next we have Colonel Oscar Santamaria.
-→ {"text": "接下來有請 Oscar Santa María 上校。", "confidence": "high", "notes": ""}
+→ {"text": "接下來有請奧斯卡·聖瑪利亞（Oscar Santa María）上校。", "confidence": "high", "notes": ""}
 
 314. Welcome.
 → {"text": "歡迎。", "confidence": "high", "notes": ""}
@@ -13,10 +13,10 @@
 → {"text": "誠摯問候委員會，並感謝邀請我來此呈報這些資訊。", "confidence": "high", "notes": ""}
 
 317. I'm Oscar Santa María Huertas.
-→ {"text": "我是 Oscar Santa María Huertas。", "confidence": "high", "notes": "原文轉錄為 'I'm Mr. Huertas'，已根據 topics.json 修正為全名"}
+→ {"text": "我是奧斯卡·聖瑪利亞·韋爾塔斯（Oscar Santa María Huertas）。", "confidence": "high", "notes": "topics.json 紀錄 I'm Mr. Huertas 應為全名，經查原文已正確，屬失效紀錄"}
 
 318. I have been a combat pilot of Peru's Air Force, and I would like to present a document to the U.S. Department of Defense.
-→ {"text": "我曾是祕魯空軍的戰鬥機飛行員，現在想向美國國防部呈報一份文件。", "confidence": "high", "notes": ""}
+→ {"text": "我曾是祕魯空軍的戰鬥機飛行員，現在想呈報一份美國國防部的文件。", "confidence": "high", "notes": "原文發音經人工聽音確認確為 to；本段為同步口譯，推測口譯者文法有誤，依 seg 320 語境（該文件為美國 1982 年製作），講者原意應是向委員會呈報一份美國國防部的文件，譯文依語境補足語意"}
 
 319. Please, first image.
 → {"text": "請看第一張圖片。", "confidence": "high", "notes": ""}
@@ -25,7 +25,7 @@
 → {"text": "各位可以看到，這是美國於 1982 年製作的一份文件。", "confidence": "high", "notes": ""}
 
 321. Department of Defense informing in the near of the La Jolla, south of Peru base, there was several opportunities, a UFO reported first in the morning time, the second time in the times of the evening of the next day.
-→ {"text": "國防部文件中提到，在祕魯南部的拉霍亞基地（La Joya）附近，曾發生數次不明飛行物目擊事件，第一次是當天上午，第二次則是次日晚间。", "confidence": "high", "notes": "原文 'La Jolla' 為轉錄錯誤，已根據 topics.json 修正為 'La Joya'"}
+→ {"text": "國防部文件中提到，在祕魯南部的拉霍亞基地（La Joya）附近，曾發生數次不明飛行物目擊事件，第一次是當天上午，第二次則是次日晚间。", "confidence": "high", "notes": "topics.json 紀錄 La Jolla 應為 La Joya，經查原文已正確，屬失效紀錄"}
 
 322. The UFO that appeared in the morning, an airplane, SU-22, tried to intercept it and destroy it without being lucky in the objective.
 → {"text": "當天上午出現的不明飛行物，曾有一架蘇-22 戰鬥機試圖攔截並摧毀它，但未能成功。", "confidence": "high", "notes": ""}
@@ -61,7 +61,7 @@
 → {"text": "我首先接近該物體，我所駕駛的這架飛機配備了軍事武器。", "confidence": "high", "notes": ""}
 
 333. I did an ascent from the right to the 1,500 kilometers of height, and I initiated the attack procedures.
-→ {"text": "我從右側爬升至 1,500 公尺高度，並開始執行攻擊程序。", "confidence": "medium", "notes": "原文 '1,500 kilometers' 應為 '1,500 meters'（公尺），但依原文翻譯"}
+→ {"text": "我從右側爬升至 1,500 公尺高度，並開始執行攻擊程序。", "confidence": "medium", "notes": "原文 1,500 kilometers 應為 1,500 meters（口誤或轉錄錯誤），譯文逕採公尺；已補錄 topics.json"}
 
 334. When I was close to the object, I threw away a charge of missiles, but this globe never got any damages and started ascending and living in a very, very fast pace.
 → {"text": "當我接近該物體時，我發射了一連串飛彈，但這個氣球形飛行器毫髮無損，並開始以極快的速度爬升離開。", "confidence": "high", "notes": ""}
@@ -102,7 +102,7 @@
 346. Since I could no longer continue my attack, I approached it, got to a distance of about 100 meters, and I was able to see that this balloon was not a balloon.
 → {"text": "由於我無法繼續攻擊，我接近它，飛到約 100 公尺的距離，這時我才看清楚這根本不是氣球。", "confidence": "high", "notes": ""}
 
-347. It was about 10 meters in diameter, and on the top it had an enamelled, a non-metallic cream色的 enamelled dome, and that in its base it had a wide, silver, circular metallic surface.
+347. It was about 10 meters in diameter, and on the top it had an enamelled, a non-metallic cream-colored enamelled dome, and that in its base it had a wide, silver, circular metallic surface.
 → {"text": "它的直徑約 10 公尺，頂部是一個琺瑯質的、非金屬的乳白色圓頂，底部則是一個寬闊的銀色圓形金屬表面。", "confidence": "high", "notes": ""}
 
 348. It did not have any wings, jet propulsion, windows, antenna, anything like that.
@@ -133,7 +133,7 @@
 → {"text": "請看下一張投影片。", "confidence": "high", "notes": ""}
 
 357. This is a Sukhoi Su-22.
-→ {"text": "這是蘇霍伊 Su-22 戰鬥機。", "confidence": "high", "notes": "原文 'Sukui 22' 為轉錄錯誤，已根據 topics.json 修正為 'Sukhoi Su-22'"}
+→ {"text": "這是蘇霍伊 Su-22 戰鬥機。", "confidence": "high", "notes": "topics.json 紀錄 Sukui 22 應為 Sukhoi Su-22，經查原文已正確，屬失效紀錄"}
 
 358. Thank you very much.
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}

@@ -99,7 +99,37 @@
           "segment_id": 191,
           "error_text": "CFA and Kridovny",
           "suggested_correction": "CEFAA and CRIDOVNI",
-          "reasoning": "'CFA' is likely a shorthand for CEFAA. 'Kridovny' is a phonetic misspelling of CRIDOVNI, the official name of the Uruguayan Air Force's UFO agency."
+          "reasoning": "失效紀錄：經查 main.yaml seg 191 原文已是 CEFAA and CRIDOVNI。CFA 實際出現於 seg 185/186，另立紀錄。"
+        },
+        {
+          "segment_id": 139,
+          "error_text": "known as CEFA",
+          "suggested_correction": "known as CEFAA",
+          "reasoning": "智利機構實際縮寫為 CEFAA（seg 191 原文即作 CEFAA，UFO-14 同）"
+        },
+        {
+          "segment_id": 147,
+          "error_text": "Lawrence Rockefeller-sponsored; creation of CEFA-A",
+          "suggested_correction": "Laurance Rockefeller-sponsored; creation of CEFAA",
+          "reasoning": "依 UFO-03/04 人工裁決與主表，洛克菲勒名採 Laurance 拼寫；CEFA-A 應為 CEFAA"
+        },
+        {
+          "segment_id": 148,
+          "error_text": "CEFA-A",
+          "suggested_correction": "CEFAA",
+          "reasoning": "CEFA-A 為 Whisper 對 CEFAA 的連字號誤轉，同類錯誤亦見於 seg 150/151/155/156/163/164"
+        },
+        {
+          "segment_id": 185,
+          "error_text": "the methodology of CFA",
+          "suggested_correction": "the methodology of CEFAA",
+          "reasoning": "CFA 為 CEFAA 的誤轉（seg 186 同）"
+        },
+        {
+          "segment_id": 142,
+          "error_text": "Corporal Valdez",
+          "suggested_correction": "Corporal Valdés",
+          "reasoning": "1977 年普特雷時間扭曲案當事人網路流通拼寫為 Armando Valdés；2026-08-21 人工裁決原文拼寫依流通慣例更正，中譯「瓦爾德斯」不變"
         }
       ]
     },
@@ -123,13 +153,13 @@
           "segment_id": 212,
           "error_text": "176,215 square feet",
           "suggested_correction": "176,215 square kilometers",
-          "reasoning": "Uruguay's land area is approximately 176,000 square kilometers. 'Square feet' is contextually nonsensical for a country's size and is a translation or transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 212 原文已是 square kilometers。烏拉圭國土約 176,000 平方公里，square feet 於語境不通。"
         },
         {
-          "segment_id": 222,
+          "segment_id": 225,
           "error_text": "LACRI OVNI",
           "suggested_correction": "CRIDOVNI",
-          "reasoning": "The speaker is referring to the official Uruguayan Air Force commission, whose acronym is CRIDOVNI. 'LACRI OVNI' is likely a mishearing or confusion with another organization name."
+          "reasoning": "The speaker is referring to the official Uruguayan Air Force commission, whose acronym is CRIDOVNI. 'LACRI OVNI' is likely a mishearing or confusion with another organization name. 原紀錄 segment_id 誤載為 222（該段原文已是 CRIDOVNI），實際出現於 seg 225。"
         }
       ]
     },
@@ -155,7 +185,7 @@
           "segment_id": 268,
           "error_text": "Ivan Issa Nanfardo",
           "suggested_correction": "Iván Ascanio Fajardo",
-          "reasoning": "The cameraman who filmed the Chulucanas incident is known as Iván Ascanio Fajardo. The transcribed name is a likely mishearing."
+          "reasoning": "失效紀錄：經查 main.yaml seg 268 原文已是 Iván Ascanio Fajardo（丘盧卡納斯事件攝影師的通行拼寫）。"
         }
       ]
     },
@@ -179,19 +209,25 @@
           "segment_id": 317,
           "error_text": "I'm Mr. Huertas.",
           "suggested_correction": "I'm Oscar Santa María Huertas.",
-          "reasoning": "The speaker just introduced himself as Colonel Oscar Santamaria. Huertas is his maternal surname. He is likely stating his full name, not introducing himself as a different person."
+          "reasoning": "失效紀錄：經查 main.yaml seg 317 原文已是完整全名。"
+        },
+        {
+          "segment_id": 333,
+          "error_text": "1,500 kilometers of height",
+          "suggested_correction": "1,500 meters of height",
+          "reasoning": "Su-22 爬升攻擊高度不可能是 1,500 公里（已達外太空），且 seg 327 同場目擊高度為 1,500（公尺），應為講者口誤或轉錄錯誤；2026-08-21 校稿補錄"
         },
         {
           "segment_id": 327,
           "error_text": "La Jolla",
           "suggested_correction": "La Joya",
-          "reasoning": "The Peruvian Air Base is named La Joya. 'La Jolla' is a common phonetic spelling but incorrect."
+          "reasoning": "失效紀錄：經查 main.yaml seg 327 原文已是 La Joya（祕魯南部阿雷基帕省空軍基地）。"
         },
         {
           "segment_id": 357,
           "error_text": "Sukui 22",
           "suggested_correction": "Sukhoi Su-22",
-          "reasoning": "The aircraft is a Soviet-made Sukhoi Su-22 fighter-bomber. 'Sukui' is a phonetic misspelling."
+          "reasoning": "失效紀錄：經查 main.yaml seg 357 原文已是 Sukhoi Su-22（蘇霍伊 Su-22 戰鬥轟炸機）。"
         }
       ]
     },
@@ -217,37 +253,43 @@
           "segment_id": 361,
           "error_text": "Alejandro Chinoti",
           "suggested_correction": "Alejandro Chionetti",
-          "reasoning": "The speaker is Alejandro Chionetti, a known Argentinian UFO researcher and journalist. 'Chinoti' is a phonetic error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 361 原文已是 Alejandro Chionetti。"
         },
         {
           "segment_id": 371,
           "error_text": "Dr. Joseph Allen Heineck",
           "suggested_correction": "Dr. J. Allen Hynek",
-          "reasoning": "The famous astronomer and consultant for Project Blue Book was Dr. J. Allen Hynek. 'Heineck' is a common misspelling."
+          "reasoning": "失效紀錄：經查 main.yaml seg 371 原文已是 Dr. J. Allen Hynek。Heineck 誤轉實際見於 seg 372（譯文已逕採海尼克並加註）。"
         },
         {
           "segment_id": 389,
           "error_text": "Captain Omar Parani",
           "suggested_correction": "Captain Omar Pagani",
-          "reasoning": "The naval captain who led the early Argentinian UFO commission was Omar Pagani. 'Parani' is a likely mishearing."
+          "reasoning": "失效紀錄：經查 main.yaml seg 389 原文已是 Omar Pagani。"
         },
         {
           "segment_id": 405,
           "error_text": "El Huitorco",
           "suggested_correction": "Uritorco",
-          "reasoning": "He is referring to the famous Cerro Uritorco (Uritorco Hill), a well-known site for UFO sightings in Argentina. 'El Huitorco' is a mishearing."
+          "reasoning": "失效紀錄：經查 main.yaml seg 405 原文已是 Uritorco（阿根廷知名 UFO 目擊地點 Cerro Uritorco）。"
         },
         {
           "segment_id": 410,
-          "error_text": "CEFA",
+          "error_text": "CEFAEE",
           "suggested_correction": "CEFAE",
-          "reasoning": "The official acronym for the Argentinian Air Force commission is CEFAE (Comisión de Estudio de Fenómenos Aeroespaciales). The 'E' is missing."
+          "reasoning": "阿根廷空軍委員會官方縮寫為 CEFAE（Comisión de Estudio de Fenómenos Aeroespaciales），原文 CEFAEE 多一個 E。原紀錄誤載為 CEFA；2026-08-21 校稿更正。"
         },
         {
           "segment_id": 418,
           "error_text": "Sephora",
           "suggested_correction": "CEFORA",
-          "reasoning": "This is a recurring mishearing of CEFORA, the civilian Argentinian UFO research coalition, which was transcribed correctly in segment 408."
+          "reasoning": "segment_id 更正說明：seg 418 原文已是 CEFORA；Sephora 誤轉實際見於 seg 424、428、430（三段譯文皆已逕採 CEFORA 並加註）；2026-08-21 校稿核對。"
+        },
+        {
+          "segment_id": 411,
+          "error_text": "Captain Mariano Mohabt",
+          "suggested_correction": "Captain Mariano Mohaupt",
+          "reasoning": "Mariano Mohaupt 為阿根廷空軍新聞發言人、CEFAE 首任主任；原轉錄 Mohabt 拼寫錯誤；2026-08-21 人工查證確認補錄"
         }
       ]
     }

@@ -82,7 +82,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 28. Mr. Givard from Brazil.
-→ {"text": "來自巴西的 Gevaerd 先生。", "confidence": "high", "notes": "原文 Givard 為轉錄錯誤，根據 topics.json 應為 Gevaerd"}
+→ {"text": "來自巴西的熱瓦爾德（Gevaerd）先生。", "confidence": "high", "notes": "原文 Givard 為轉錄錯誤，應為 Gevaerd（依 topics.json）；網路無流通中譯，採葡語音譯"}
 
 29. Thank you very much.
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
@@ -112,7 +112,7 @@
 → {"text": "這位先生在我們巴西的多個項目中，為巴西 UFO 研究的發展提供了強而有力的支持。", "confidence": "high", "notes": ""}
 
 38. Now he has some views that he would like to share with us, with you, and I would like to ask permission to introduce Mr. Wilson Pickler.
-→ {"text": "現在他有一些觀點想與我們、與各位分享，我想請求允許我介紹 Wilson Pickler 先生。", "confidence": "high", "notes": ""}
+→ {"text": "現在他有一些觀點想與我們、與各位分享，我想請求允許我介紹威爾遜·皮克勒（Wilson Pickler）先生。", "confidence": "high", "notes": ""}
 
 39. I am absolutely delighted he's here.
 → {"text": "非常高興他能來到這裡。", "confidence": "high", "notes": ""}
@@ -169,7 +169,7 @@
 → {"text": "我昨天聽到這些資訊來準備這場演講。", "confidence": "high", "notes": ""}
 
 57. The power of the last detonation, which was by Russians, it is 3,333 times the power of Hiroshima bomb.
-→ {"text": "俄羅斯人上一次核爆的威力，是廣島原子彈的 3,333 倍。", "confidence": "high", "notes": ""}
+→ {"text": "俄羅斯人上一次核爆的威力，是廣島原子彈的 3,333 倍。", "confidence": "medium", "notes": "講者所指應為蘇聯 1961 年試爆的沙皇炸彈（Tsar Bomba，威力約為廣島原子彈三千倍上下）；原文 3,333 倍與實際略有出入，依規範保留講者原數字"}
 
 58. So do you know the name the Russians put in that artifact?
 → {"text": "那您知道俄羅斯人給那個武器取了什麼名字嗎？", "confidence": "high", "notes": ""}
@@ -184,10 +184,10 @@
 → {"text": "希望我們永遠不會用到它。」", "confidence": "high", "notes": ""}
 
 62. So just looking at the name of this artifact, like Hiroshima bomb, little boy.
-→ {"text": "所以光是看這個武器的名字，就像廣島原子彈叫『小男孩』。", "confidence": "high", "notes": ""}
+→ {"text": "所以光是看這個武器的名字，就像廣島原子彈叫「小男孩」（Little Boy）。", "confidence": "high", "notes": ""}
 
 63. The other one, fat man.
-→ {"text": "另一顆叫『胖子』。", "confidence": "high", "notes": "指長崎原子彈"}
+→ {"text": "另一顆叫「胖子」（Fat Man）。", "confidence": "high", "notes": "指長崎原子彈"}
 
 64. We can see what is the mentality of those people that are behind these weapons.
 → {"text": "我們可以看出這些武器背後的人是什麼樣的心態。", "confidence": "high", "notes": ""}
