@@ -25,25 +25,37 @@
           "segment_id": 14,
           "error_text": "create the Sephora, and Sephora had been unite",
           "suggested_correction": "created CEFORA, and CEFORA has united",
-          "reasoning": "CEFORA is the acronym for the 'Comisión de Estudio del Fenómeno OVNI de la República Argentina', a known Argentine UFO research commission. 'Sephora' is a phonetic mishearing."
+          "reasoning": "失效紀錄：經查 main.yaml seg 14 原文已是 created CEFORA, and CEFORA has united。"
         },
         {
           "segment_id": 60,
           "error_text": "Mr. Girard.",
           "suggested_correction": "Mr. Gevaerd.",
-          "reasoning": "The speaker is the Brazilian UFO researcher A.J. Gevaerd. 'Girard' is a transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 60 原文已是 Mr. Gevaerd。"
+        },
+        {
+          "segment_id": 27,
+          "error_text": "Linda Molton",
+          "suggested_correction": "Linda Moulton Howe",
+          "reasoning": "牲畜肢解（屠牛事件）研究的知名記者為 Linda Moulton Howe，語境完全吻合；Molton 為音近誤聽，講者略去了姓氏 Howe。"
         },
         {
           "segment_id": 87,
           "error_text": "Coronel Willem Jolanda",
           "suggested_correction": "Colonel Uyrangê Hollanda",
-          "reasoning": "The commander of Operation Saucer was Captain (later Colonel) Uyrangê Hollanda. 'Willem Jolanda' is a phonetic mis-transcription."
+          "reasoning": "失效紀錄：經查 main.yaml seg 87 原文已是 Colonel Uyrangê Hollanda。"
+        },
+        {
+          "segment_id": 96,
+          "error_text": "the dust phenomena",
+          "suggested_correction": "those phenomena",
+          "reasoning": "人工聽音確認（00:12:39–00:12:51）：講者口音結巴說 'tho...those phenomena'，Whisper 誤轉錄為 'the dust phenomena'。"
         },
         {
           "segment_id": 98,
           "error_text": "Mr. Junios",
           "suggested_correction": "Mr. Huneeus",
-          "reasoning": "The question is directed at the Chilean researcher, Antonio Huneeus. 'Junios' is a transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 98 原文已是 Mr. Huneeus。"
         }
       ]
     },
@@ -72,37 +84,55 @@
           "segment_id": 124,
           "error_text": "Mr. Trav",
           "suggested_correction": "Mr. Gevaerd",
-          "reasoning": "The question is directed at the Brazilian witness, A.J. Gevaerd. 'Trav' is a transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 124 原文已是 Mr. Gevaerd。"
         },
         {
           "segment_id": 159,
           "error_text": "La Jolla Air Force Base",
           "suggested_correction": "La Joya Air Force Base",
-          "reasoning": "The incident involving Colonel Santa Maria took place at La Joya Air Force Base in Peru."
+          "reasoning": "失效紀錄：經查 main.yaml seg 159 原文已是 La Joya Air Force Base。"
         },
         {
           "segment_id": 193,
           "error_text": "General Ben Mudez",
           "suggested_correction": "General Bermúdez",
-          "reasoning": "Referring to General Ricardo Bermúdez, head of Chile's CEFAA."
+          "reasoning": "失效紀錄：經查 main.yaml seg 193 原文已是 General Bermúdez。"
         },
         {
           "segment_id": 201,
+          "error_text": "Choi",
+          "suggested_correction": "Choy",
+          "reasoning": "The witness from Peru is Dr. Anthony Choy. 'Choi' is a common spelling variant but 'Choy' is his name. 校稿確認 main.yaml seg 201 原文為 'Doctor, I want to say Choi, is that right?'，仍為 Choi；同一誤聽亦見於 seg 225（Dr. Choi，另立紀錄）。"
+        },
+        {
+          "segment_id": 181,
+          "error_text": "Dr. Richard Haynes",
+          "suggested_correction": "Dr. Richard Haines",
+          "reasoning": "NARCAP 創辦人、前 NASA 科學家為 Richard Haines；Haynes 為音近誤聽。"
+        },
+        {
+          "segment_id": 205,
+          "error_text": "San Mateo de Huancho",
+          "suggested_correction": "San Mateo de Huanchor",
+          "reasoning": "祕魯利馬大區 Huarochirí 省地名 San Mateo de Huanchor；Huancho 為音近誤聽。"
+        },
+        {
+          "segment_id": 225,
           "error_text": "Dr. Choi",
           "suggested_correction": "Dr. Choy",
-          "reasoning": "The witness from Peru is Dr. Anthony Choy. 'Choi' is a common spelling variant but 'Choy' is his name."
+          "reasoning": "同 seg 201：祕魯證人 Anthony Choy 姓氏誤轉錄。"
         },
         {
           "segment_id": 206,
           "error_text": "Jonathan Wangan",
           "suggested_correction": "Jonathan Weygandt",
-          "reasoning": "The U.S. Sergeant who testified in the Disclosure Project about a crash in Peru was Jonathan Weygandt."
+          "reasoning": "失效紀錄：經查 main.yaml seg 206 原文已是 Jonathan Weygandt。"
         },
         {
           "segment_id": 212,
           "error_text": "Colonel Sandra Maria",
           "suggested_correction": "Colonel Santa Maria",
-          "reasoning": "This is a clear transcription error of Colonel Oscar Santa Maria's name."
+          "reasoning": "失效紀錄：經查 main.yaml seg 212 原文已是 Colonel Santa Maria。"
         }
       ]
     },
@@ -127,7 +157,19 @@
           "segment_id": 336,
           "error_text": "Mr. Troy, I'd like to hear Dr. Troy's",
           "suggested_correction": "Dr. Choy, I'd like to hear Dr. Choy's",
-          "reasoning": "The speaker is Dr. Anthony Choy from Peru. 'Troy' is a mis-transcription."
+          "reasoning": "失效紀錄：經查 main.yaml seg 336 原文已是 Please Dr. Choy, I'd like to hear Dr. Choy's。Dr. Troy 實際見於 seg 346，另立紀錄。"
+        },
+        {
+          "segment_id": 346,
+          "error_text": "Dr. Troy",
+          "suggested_correction": "Dr. Choy",
+          "reasoning": "同 seg 336 之誤聽：祕魯證人 Anthony Choy。"
+        },
+        {
+          "segment_id": 356,
+          "error_text": "Peru and Europe, they do have the same language",
+          "suggested_correction": "Peru and Uruguay, they do have the same language",
+          "reasoning": "語境為祕魯與烏拉圭同講西班牙語，Europe 於語境不通，推測為 Uruguay 之誤聽。"
         }
       ]
     },
@@ -152,13 +194,13 @@
           "segment_id": 361,
           "error_text": "commander of the Operation Saucer, Jorge Yolanda",
           "suggested_correction": "commander of the Operation Saucer, Uyrangê Hollanda",
-          "reasoning": "The commander's name was Uyrangê Hollanda. 'Jorge Yolanda' is a transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 361 原文已是 Uyrangê Hollanda。"
         },
         {
           "segment_id": 400,
           "error_text": "Richard Winga",
           "suggested_correction": "Jonathan Weygandt",
-          "reasoning": "The testimony about a UFO crash in Peru from the Disclosure Project was from Jonathan Weygandt. This appears to be another transcription error of the same name."
+          "reasoning": "失效紀錄：經查 main.yaml seg 400 原文已是 Jonathan Weygandt。"
         }
       ]
     },
@@ -186,25 +228,73 @@
           "segment_id": 408,
           "error_text": "the Virginia case",
           "suggested_correction": "the Varginha case",
-          "reasoning": "The famous 1996 Brazilian UFO crash incident occurred in the city of Varginha."
+          "reasoning": "失效紀錄：經查 main.yaml seg 408 原文已是 the Varginha case。"
         },
         {
           "segment_id": 409,
           "error_text": "Dr. Roger Lear, Dr. James Hurtuk",
           "suggested_correction": "Dr. Roger Leir, Dr. J.J. Hur-tak",
-          "reasoning": "These are the correct spellings of the researchers' names who investigated the Varginha case."
+          "reasoning": "失效紀錄：經查 main.yaml seg 409 原文已是 Dr. Roger Leir, Dr. J.J. Hur-tak。另該段 the city of Virginia（兩處）應為 Varginha，另立紀錄。"
         },
         {
           "segment_id": 419,
           "error_text": "President Maria",
           "suggested_correction": "Colonel Santa Maria",
-          "reasoning": "The question is directed to Colonel Santa Maria. 'President' is a transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 419 原文已是 Colonel Santa Maria。"
         },
         {
           "segment_id": 420,
           "error_text": "Mr. Gimini",
           "suggested_correction": "Ms. Simondini",
-          "reasoning": "This refers to the Argentinian witness, Andrea Simondini. The name and gender are incorrect in the transcript."
+          "reasoning": "失效紀錄：經查 main.yaml seg 420 原文已是 Ms. Simondini。Mr. Gimini 另見於 seg 422（該處指 Gevaerd），另立紀錄。"
+        },
+        {
+          "segment_id": 407,
+          "error_text": "Mr. Gavard",
+          "suggested_correction": "Mr. Gevaerd",
+          "reasoning": "同 seg 60/124 之誤聽：巴西證人 A. J. Gevaerd。"
+        },
+        {
+          "segment_id": 409,
+          "error_text": "the city of Virginia (x2)",
+          "suggested_correction": "the city of Varginha",
+          "reasoning": "1996 年墜毀事件發生地為 Varginha；Virginia 為音近誤聽，同段出現兩處。"
+        },
+        {
+          "segment_id": 411,
+          "error_text": "Johnetti",
+          "suggested_correction": "Chionetti",
+          "reasoning": "阿根廷證人亞歷杭德羅·基奧內蒂（Alejandro Chionetti，見 UFO-13）；Johnetti 為音近誤聽。"
+        },
+        {
+          "segment_id": 418,
+          "error_text": "Dr. Troy",
+          "suggested_correction": "Dr. Choy",
+          "reasoning": "同 seg 336/346 之誤聽：祕魯證人 Anthony Choy。"
+        },
+        {
+          "segment_id": 418,
+          "error_text": "San Mato de Huancho",
+          "suggested_correction": "San Mateo de Huanchor",
+          "reasoning": "同 seg 205 之誤聽：祕魯 Huarochirí 省地名 San Mateo de Huanchor。"
+        },
+        {
+          "segment_id": 422,
+          "error_text": "Mr. Gimini",
+          "suggested_correction": "Mr. Gevaerd",
+          "reasoning": "語境（提及飛碟行動關閉者）指巴西證人 Gevaerd，與 seg 420 之 Gimini 指涉不同。"
+        },
+        {
+          "segment_id": 423,
+          "error_text": "William Jolanda",
+          "suggested_correction": "Uyrangê Hollanda",
+          "reasoning": "飛碟行動指揮官 Uyrangê Hollanda 之誤聽變體（同 seg 87 Willem Jolanda、seg 361 Jorge Yolanda）；同一誤聽亦見於 seg 424/425。"
+        },
+        {
+          "segment_id": 424,
+          "error_text": "Protasso de Oliveira",
+          "suggested_correction": "Protásio de Oliveira",
+          "reasoning": "飛碟行動（Operação Prato）上級指揮官實為 Protásio Lopes de Oliveira 准將（伯倫第一區域空軍司令部 COMAR I 司令）；'Protasso' 為 'Protásio' 之轉錄誤寫。"
         }
       ]
     },
@@ -229,13 +319,37 @@
           "segment_id": 433,
           "error_text": "We'll start with Mr. Jordan.",
           "suggested_correction": "We'll start with Mr. Gevaerd.",
-          "reasoning": "The first response comes from the Brazilian witness, A.J. Gevaerd. 'Jordan' is a transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 433 原文已是 We'll start with Mr. Gevaerd。"
         },
         {
           "segment_id": 493,
           "error_text": "General Longania",
           "suggested_correction": "General Onganía",
-          "reasoning": "Juan Carlos Onganía was the President of Argentina in 1968. 'Longania' is a phonetic misspelling."
+          "reasoning": "失效紀錄：經查 main.yaml seg 493 原文已是 General Onganía。"
+        },
+        {
+          "segment_id": 441,
+          "error_text": "General Ben Mudez",
+          "suggested_correction": "General Bermúdez",
+          "reasoning": "同 seg 193 之誤聽：智利 CEFAA 負責人 Ricardo Bermúdez。"
+        },
+        {
+          "segment_id": 457,
+          "error_text": "Dr. Choi",
+          "suggested_correction": "Dr. Choy",
+          "reasoning": "同 seg 201 之誤聽：祕魯證人 Anthony Choy。"
+        },
+        {
+          "segment_id": 460,
+          "error_text": "Choi",
+          "suggested_correction": "Choy",
+          "reasoning": "承接 seg 459 斷句（To Colonel Sanchez and Dr. / Choi），同 seg 457 之誤聽。"
+        },
+        {
+          "segment_id": 466,
+          "error_text": "Chulucan incident",
+          "suggested_correction": "Chulucanas incident",
+          "reasoning": "祕魯丘盧卡納斯（Chulucanas）事件，同 UFO-13；Chulucan 為音近誤聽。"
         }
       ]
     }

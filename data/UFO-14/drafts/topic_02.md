@@ -1,16 +1,16 @@
 ## Speaker Group 1
 
 122. Next up we have, next up we have Ms. Kilpatrick.
-→ {"text": "接下來是基爾帕特里克女士。", "confidence": "high", "notes": ""}
+→ {"text": "接下來是基爾派翠克眾議員（Carolyn Cheeks Kilpatrick）。", "confidence": "high", "notes": ""}
 
 123. Thank you very much, Madam Chair.
 → {"text": "非常感謝您，主席女士。", "confidence": "high", "notes": ""}
 
 124. I wasn't going to start with you, Mr. Gevaerd, but I think I will.
-→ {"text": "我本來沒打算先問您，吉瓦德先生，但我想我還是會問。", "confidence": "high", "notes": ""}
+→ {"text": "我本來沒打算先問您，熱瓦爾德先生，但我想我還是會問。", "confidence": "high", "notes": ""}
 
 125. I think you're the first that I've heard in four days who said the presence of the others actually attacked people that caused the Operation Saucer project to come into existence.
-→ {"text": "我想您是這四天來我聽到的第一位說，那些存在的攻擊行為導致了飛碟行動計畫的誕生。", "confidence": "high", "notes": ""}
+→ {"text": "我想您是這四天來，第一位提到確實有不明存在攻擊民眾、從而催生飛碟行動的證人。", "confidence": "medium", "notes": "原文 the presence of the others 語意破碎，依語境（飛碟行動起因於 UFO 攻擊民眾）補足"}
 
 126. Is that right?
 → {"text": "是這樣嗎？", "confidence": "high", "notes": ""}
@@ -43,13 +43,13 @@
 → {"text": "哪一年？", "confidence": "high", "notes": ""}
 
 136. Oh, it started in September 1977.
-→ {"text": "哦，是從1977年9月開始的。", "confidence": "high", "notes": ""}
+→ {"text": "哦，是從 1977 年 9 月開始的。", "confidence": "high", "notes": ""}
 
 137. And how long did it end?
 → {"text": "持續到什麼時候結束？", "confidence": "high", "notes": ""}
 
 138. And it ended on December 1977.
-→ {"text": "在1977年12月結束。", "confidence": "high", "notes": ""}
+→ {"text": "在 1977 年 12 月結束。", "confidence": "high", "notes": ""}
 
 139. It took four months only.
 → {"text": "只持續了四個月。", "confidence": "high", "notes": ""}
@@ -61,7 +61,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 142. And you also mentioned in this, from Congresswoman Woolsey, the U.S., did you say they took your information and you were waiting to hear back from them?
-→ {"text": "您還提到了，從伍爾西議員那裡關於美國的部分，您是說他們拿走了您的資訊，而您正在等待他們回覆嗎？", "confidence": "high", "notes": ""}
+→ {"text": "您還提到了，從伍爾西眾議員那裡關於美國的部分，您是說他們拿走了您的資訊，而您正在等待他們回覆嗎？", "confidence": "high", "notes": ""}
 
 143. Or something you were saying about, I don't know, maybe you supplied the information from Brazil in this instance, and then they were to report back or something.
 → {"text": "或者您在說些什麼，我不知道，也許您提供了來自巴西的資訊，然後他們應該回報之類的。", "confidence": "high", "notes": ""}
@@ -112,7 +112,7 @@
 → {"text": "據報導，美國軍方曾前往多個國家收集關於不明飛行物的資訊。", "confidence": "high", "notes": ""}
 
 159. Now, we just saw when Commander Santa Maria presented his case, a document that shows that U.S. intelligence was getting formed of what happened in La Joya Air Force Base in Peru.
-→ {"text": "我們剛才看到，當聖瑪利亞指揮官提出他的案子時，有一份文件顯示美國情報機構正在了解發生在秘魯拉霍亞空軍基地的事件。", "confidence": "high", "notes": ""}
+→ {"text": "我們剛才看到，當聖瑪利亞上校提出他的案子時，有一份文件顯示美國情報機構正在了解發生在祕魯拉霍亞空軍基地（La Joya Air Force Base）的事件。", "confidence": "high", "notes": "原文稱 Commander Santa Maria，其實際軍銜為上校，譯文照實"}
 
 160. The same thing happened in Brazil.
 → {"text": "同樣的事情也發生在巴西。", "confidence": "high", "notes": ""}
@@ -154,7 +154,7 @@
 → {"text": "什麼原因，那種連結是什麼？", "confidence": "high", "notes": ""}
 
 173. In the case of the CFAA, in fact, General Bermudez told me that when they created the office back in the late '90s, they contacted the American government, I guess through the embassy because they wanted to have some kind of formal relationship, but there was no response.
-→ {"text": "就CEFAA而言，事實上，貝爾穆德斯將軍告訴我，當他們在90年代末成立辦公室時，他們聯繫了美國政府，我想是透過大使館，因為他們希望建立某種正式關係，但沒有得到回應。", "confidence": "high", "notes": ""}
+→ {"text": "就 CEFAA 而言，事實上，貝爾穆德斯將軍告訴我，當他們在 90 年代末成立辦公室時，他們聯繫了美國政府，我想是透過大使館，因為他們希望建立某種正式關係，但沒有得到回應。", "confidence": "high", "notes": ""}
 
 174. They did not respond.
 → {"text": "他們沒有回應。", "confidence": "high", "notes": ""}
@@ -166,10 +166,10 @@
 → {"text": "沒有。", "confidence": "high", "notes": ""}
 
 177. That would have been probably late '90s.
-→ {"text": "那應該是90年代末。", "confidence": "high", "notes": ""}
+→ {"text": "那應該是 90 年代末。", "confidence": "high", "notes": ""}
 
 178. But they do have an agreement with not an official group, but it's called NARCAP.
-→ {"text": "但他們確實與一個非官方組織有協議，叫做NARCAP。", "confidence": "high", "notes": ""}
+→ {"text": "但他們確實與一個非官方組織有協議，叫做 NARCAP。", "confidence": "high", "notes": ""}
 
 179. I think it stands for National Aviation Research Center for Anomalous Phenomena.
 → {"text": "我想它代表國家航空異常現象研究中心。", "confidence": "high", "notes": ""}
@@ -178,10 +178,10 @@
 → {"text": "位於哪裡？", "confidence": "high", "notes": ""}
 
 181. Well, it's run by a former NASA scientist, a very serious man called Dr. Richard Haynes, and he is an expert on aviation cases.
-→ {"text": "嗯，它是由一位前NASA科學家經營的，一位非常嚴謹的人，叫做理查德·海恩斯博士，他是航空案例的專家。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，它是由一位前 NASA 科學家經營的，一位非常嚴謹的人，叫做理查德·海恩斯（Richard Haines）博士，他是航空案例的專家。", "confidence": "high", "notes": "原文 Haynes 應為 Haines（NARCAP 創辦人 Richard Haines）"}
 
 182. He's a long-time NASA scientist, very serious.
-→ {"text": "他是一位長期的NASA科學家，非常嚴謹。", "confidence": "high", "notes": ""}
+→ {"text": "他是一位長期的 NASA 科學家，非常嚴謹。", "confidence": "high", "notes": ""}
 
 183. So he's lectured, he's gone to Chile.
 → {"text": "所以他曾經演講，也去過智利。", "confidence": "high", "notes": ""}
@@ -199,16 +199,16 @@
 → {"text": "正確。", "confidence": "high", "notes": ""}
 
 188. So the other thing is what my colleague Javier was mentioning.
-→ {"text": "所以另一件事是我的同事哈維爾提到的。", "confidence": "high", "notes": ""}
+→ {"text": "所以另一件事是我的同事哈維爾（Javier）提到的。", "confidence": "high", "notes": ""}
 
 189. If you study the American declassified UFO files, which are extensive, you will see a tremendous amount of documents, especially back in the old days, but there's still some more recent collected by various agencies, usually through the Defense Attaché Office or sometimes by the CIA, and it's obviously that these people are monitoring the international aspect of UFOs.
-→ {"text": "如果你研究美國解密的不明飛行物檔案，數量非常龐大，你會看到大量的文件，尤其是早期的，但各機構仍然收集了一些較新的文件，通常是透過國防武官辦公室，有時是透過中情局，顯然這些人在監控不明飛行物的國際層面。", "confidence": "high", "notes": ""}
+→ {"text": "如果你研究美國解密的不明飛行物檔案，數量非常龐大，你會看到大量的文件，尤其是早期的，但各機構仍然收集了一些較新的文件，通常是透過國防武官辦公室，有時是透過 CIA，顯然這些人在監控不明飛行物的國際層面。", "confidence": "high", "notes": ""}
 
 190. And do you get, does Peru get information back from the U.S. regarding any of what you send them?
-→ {"text": "那麼，你們會得到，秘魯會從美國那裡得到任何關於你們發送給他們的資訊的回覆嗎？", "confidence": "high", "notes": ""}
+→ {"text": "那麼，你們會得到，祕魯會從美國那裡得到任何關於你們發送給他們的資訊的回覆嗎？", "confidence": "high", "notes": ""}
 
 191. Well, I cannot speak for Peru.
-→ {"text": "嗯，我不能代表秘魯發言。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，我不能代表祕魯發言。", "confidence": "high", "notes": ""}
 
 192. In the case of Chile, there might be some at the level of intelligence, they probably do, but then that is not revealed publicly.
 → {"text": "就智利而言，情報層級可能有一些交流，他們可能有，但這不會公開透露。", "confidence": "high", "notes": ""}
@@ -226,7 +226,7 @@
 → {"text": "您是否與美國或任何非營利組織或其他非政府實體分享您今天早上向我們作證的任何資訊？", "confidence": "high", "notes": ""}
 
 197. Do you share any of that with the U.S. government or a non-profit or an agency here in our country that would know what your gay has experienced?
-→ {"text": "您是否與美國政府或非營利組織或我國的某個機構分享任何這些資訊，讓他們了解你們的經歷？", "confidence": "medium", "notes": "原文your gay應為your guy之誤"}
+→ {"text": "您是否與美國政府或非營利組織或我國的某個機構分享任何這些資訊，讓他們了解你們的經歷？", "confidence": "medium", "notes": "原文 your gay 應為轉錄錯誤（推測 your country 之類），譯文依語境處理"}
 
 198. No, not with any civilian or military agency or U.S. government agency.
 → {"text": "不，沒有與任何民事或軍事機構或美國政府機構分享。", "confidence": "high", "notes": ""}
@@ -238,7 +238,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 201. Doctor, I want to say Choi, is that right?
-→ {"text": "博士，我想說是蔡博士，對嗎？", "confidence": "high", "notes": ""}
+→ {"text": "博士，我想說的是喬伊（Choy），對嗎？", "confidence": "high", "notes": "原文 Choi 應為 Choy（祕魯證人 Anthony Choy）"}
 
 202. No.
 → {"text": "不對。", "confidence": "high", "notes": ""}
@@ -247,28 +247,28 @@
 → {"text": "嗯，事實是，在聽完所有證人的證詞後，你可以得出的一個結論是，不明飛行物現象是國家安全問題，因此情報要素極其重要。", "confidence": "high", "notes": ""}
 
 204. As far as we understand, in Peru there is no open, formal public agreement, but there are indications that show that some of this information is shared with U.S. security agencies.
-→ {"text": "據我們了解，在秘魯沒有公開的、正式的公開協議，但有跡象表明，其中一些資訊會與美國安全機構分享。", "confidence": "high", "notes": ""}
+→ {"text": "據我們了解，在祕魯沒有公開的、正式的公開協議，但有跡象表明，其中一些資訊會與美國安全機構分享。", "confidence": "high", "notes": ""}
 
 205. There's no open public document, but there are witnesses who have noted that in the '80s, apparently a UFO fell in the San Mateo de Huancho area, and they said that there were Americans who were in that area.
-→ {"text": "沒有公開的公開文件，但有證人指出，在80年代，顯然有一架不明飛行物墜落在聖馬特奧德萬喬地區，他們說有美國人在那個地區。", "confidence": "high", "notes": ""}
+→ {"text": "沒有公開的公開文件，但有證人指出，在 80 年代，顯然有一架不明飛行物墜落在聖馬特奧德萬喬（San Mateo de Huanchor）地區，他們說有美國人在那個地區。", "confidence": "high", "notes": "原文 San Mateo de Huancho 應為 San Mateo de Huanchor（祕魯 Huarochirí 省地名）"}
 
 206. And I do want to remind you that in the Greer Disclosure Project, there were people who made statements, gave testimony, that stated that there was a U.S. Sergeant Jonathan Weygandt who said that a UFO had crashed in northern Peru, and that there was extraction, and this was according to testimony, that they took some of the remains of this falling UFO.
-→ {"text": "我確實想提醒你們，在格里爾揭露計畫中，有人發表聲明，提供證詞，說有一位美國中士喬納森·韋甘德說一架不明飛行物在秘魯北部墜毀，並且進行了打撈，根據證詞，他們拿走了這架墜落不明飛行物的一些殘骸。", "confidence": "high", "notes": ""}
+→ {"text": "我確實想提醒你們，在格里爾揭露計畫中，有人發表聲明，提供證詞，說有一位美國中士喬納森·韋甘德（Jonathan Weygandt）說一架不明飛行物在祕魯北部墜毀，並且進行了打撈，根據證詞，他們拿走了這架墜落不明飛行物的一些殘骸。", "confidence": "high", "notes": ""}
 
 207. They were taken away by helicopters that were definitively not part of the Peruvian Armed Forces.
-→ {"text": "它們被直升機運走，這些直升機絕對不屬於秘魯武裝部隊。", "confidence": "high", "notes": ""}
+→ {"text": "它們被直升機運走，這些直升機絕對不屬於祕魯武裝部隊。", "confidence": "high", "notes": ""}
 
 208. Excuse me?
 → {"text": "不好意思？", "confidence": "high", "notes": ""}
 
 209. They were not part of Peru, taken away in helicopters.
-→ {"text": "它們不屬於秘魯，是用直升機運走的。", "confidence": "high", "notes": ""}
+→ {"text": "它們不屬於祕魯，是用直升機運走的。", "confidence": "high", "notes": ""}
 
 210. What country was that who took them?
 → {"text": "是哪個國家運走了它們？", "confidence": "high", "notes": ""}
 
 211. Based on the testimony from the Steven Greer Project, apparently they were American helicopters, and that these materials were taken back to the United States.
-→ {"text": "根據史蒂文·格里爾計畫的證詞，顯然那些是美國直升機，這些材料被運回了美國。", "confidence": "high", "notes": ""}
+→ {"text": "根據格里爾揭露計畫的證詞，顯然那些是美國直升機，這些材料被運回了美國。", "confidence": "high", "notes": ""}
 
 212. I'm going to change for Colonel Santa Maria.
 → {"text": "我要換個話題問聖瑪利亞上校。", "confidence": "high", "notes": ""}
@@ -310,7 +310,7 @@
 → {"text": "但是，關於我們正在談論的，也有一個非常有趣的案例。", "confidence": "high", "notes": ""}
 
 225. I researched in the decade of '70, '78, there was a UFO crash between Argentina and Bolivia, and supporting what Dr. Choi said was an object who produced a kind of destruction of a hill, was a kind of a cycle shape, a structure of no identified, and the Bolivian government in the study, the Argentinian was a limit, didn't investigate, but that object was retrieved by American's helicopters too.
-→ {"text": "我研究了70年代，78年，阿根廷和玻利維亞之間發生了一起不明飛行物墜毀事件，支持蔡博士所說的是一個造成某種山體破壞的物體，是一種圓形形狀，一種未被識別的結構，玻利維亞政府進行了研究，阿根廷有限度參與，沒有深入調查，但那個物體也被美國直升機取走了。", "confidence": "high", "notes": ""}
+→ {"text": "我研究了 70 年代，1978 年，阿根廷和玻利維亞之間發生了一起不明飛行物墜毀事件，支持喬伊博士所說的是一個造成某種山體破壞的物體，是一種圓形形狀，一種未被識別的結構，玻利維亞政府進行了研究，阿根廷有限度參與，沒有深入調查，但那個物體也被美國直升機取走了。", "confidence": "high", "notes": "原文 Dr. Choi 應為 Dr. Choy"}
 
 226. Oh, stop, stop.
 → {"text": "哦，停，停。", "confidence": "high", "notes": ""}
@@ -331,7 +331,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 232. It goes back, I want to go back to Dr. Choi for just a moment.
-→ {"text": "回到這個話題，我想再問蔡博士一下。", "confidence": "high", "notes": ""}
+→ {"text": "回到這個話題，我想再問喬伊博士一下。", "confidence": "high", "notes": ""}
 
 233. Your point was well made in terms of national security, so do you all in South America share your information and experiences and enhance or whatever your national security is, because of what you see and how closely you live together, and just one person, and you know, I don't know.
 → {"text": "您在國家安全方面的觀點說得很好，那麼你們南美國家是否會分享你們的資訊和經驗，並增強你們的國家安全，因為你們所看到的，以及你們彼此生活得如此接近，我只是一個人，你知道，我不知道。", "confidence": "medium", "notes": ""}
@@ -400,7 +400,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 255. Because these official agencies, they want a place where their data can be shared officially with other countries, because the UFO phenomenon, by definition, is global.
-→ {"text": "因為這些官方機構，他們希望有一個可以與其他國家正式分享數據的地方，因為不明飛行物現象，就其定義而言，是全球性的。", "confidence": "high", "notes": ""}
+→ {"text": "因為這些官方機構，他們希望有一個可以與其他國家正式分享資料的地方，因為不明飛行物現象，就其定義而言，是全球性的。", "confidence": "high", "notes": ""}
 
 256. Like I said, they don't care about national boundaries.
 → {"text": "就像我說的，它們不在乎國界。", "confidence": "high", "notes": ""}
@@ -469,7 +469,7 @@
 → {"text": "我想讓你們都知道，我讚揚你們所做的一切以及你們的合作。", "confidence": "high", "notes": ""}
 
 278. But if our military gets your information and does whatever it does with it, and I hope to make a better world and a better global presence so that we all might live the next 50 years, that we also work together to do that.
-→ {"text": "但如果我們的軍方得到你們的資訊並用它做任何事，而我希望創造一個更美好的世界和更好的全球影響力，這樣我們都可以再活50年，我們也必須為此共同努力。", "confidence": "high", "notes": ""}
+→ {"text": "但如果我們的軍方得到你們的資訊並用它做任何事，而我希望創造一個更美好的世界和更好的全球影響力，這樣我們都可以再活 50 年，我們也必須為此共同努力。", "confidence": "high", "notes": ""}
 
 279. I'm not so sure.
 → {"text": "我不太確定。", "confidence": "high", "notes": ""}

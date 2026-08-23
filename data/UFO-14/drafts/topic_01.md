@@ -7,7 +7,7 @@
 → {"text": "本會議現在恢復進行。", "confidence": "high", "notes": ""}
 
 3. I am going to start out to my right with Congresswoman Woolsey, and this will be the time to ask questions of our witness.
-→ {"text": "我將從我右手邊的伍爾西議員開始，現在是向證人提問的時間。", "confidence": "high", "notes": ""}
+→ {"text": "我將從我右手邊的伍爾西眾議員（Lynn Woolsey）開始，現在是向證人提問的時間。", "confidence": "high", "notes": ""}
 
 4. Thank you, Madam Chair, and thank you, witnesses.
 → {"text": "謝謝主席女士，也謝謝各位證人。", "confidence": "high", "notes": ""}
@@ -34,13 +34,13 @@
 → {"text": "我的第一個問題要請教這位傑出的飛行員，聖瑪利亞上校。", "confidence": "high", "notes": ""}
 
 12. You're Peru, you're Argentina.
-→ {"text": "您是秘魯代表，您是阿根廷代表。", "confidence": "high", "notes": ""}
+→ {"text": "您是祕魯代表，您是阿根廷代表。", "confidence": "high", "notes": ""}
 
 13. What I want to know is, do you have any kind of a formal relationship, your UFO group, with your Argentine government, and what is it, the Argentine government, and what is it, and how does it work, and what can we learn from that?
 → {"text": "我想知道的是，您的UFO團體與阿根廷政府之間是否有任何正式關係？這是什麼樣的關係？如何運作？我們能從中學到什麼？", "confidence": "high", "notes": ""}
 
 14. Well, all the groups in Argentina, the civilian groups, created CEFORA, and CEFORA has united researchers for many, many years who were my colleagues and close associates.
-→ {"text": "嗯，阿根廷所有的團體，民間團體，創立了CEFORA，而CEFORA多年來團結了許多研究人員，他們是我的同事和親近的夥伴。", "confidence": "high", "notes": "CEFORA：阿根廷UFO現象研究委員會"}
+→ {"text": "嗯，阿根廷所有的團體，民間團體，創立了 CEFORA（阿根廷共和國不明飛行物現象研究委員會），而 CEFORA 多年來團結了許多研究人員，他們是我的同事和親近的夥伴。", "confidence": "high", "notes": ""}
 
 15. Some of them were disciples of myself.
 → {"text": "其中一些人曾是我的門徒。", "confidence": "high", "notes": ""}
@@ -49,7 +49,7 @@
 → {"text": "我很多年前就開始研究UFO了。", "confidence": "high", "notes": ""}
 
 17. We always look for the classification from the '70s to now.
-→ {"text": "我們一直在尋求從70年代到現在的資料解密。", "confidence": "high", "notes": ""}
+→ {"text": "我們一直在尋求從 70 年代到現在的資料解密。", "confidence": "high", "notes": ""}
 
 18. The group found the cooperation now of the Air Force through the Minister of Defense, and through the executive power of the nation, we are waiting to kind of unify that motion.
 → {"text": "該團體現在透過國防部長獲得了空軍的合作，並透過國家行政權力，我們正在等待統整這項動議。", "confidence": "medium", "notes": ""}
@@ -70,16 +70,16 @@
 → {"text": "關於這些專案，不僅是解密文件，還要有合作。", "confidence": "medium", "notes": ""}
 
 24. To have cooperation with the field researchers, we always work alone with no mediums to get to the places to do good analysis.
-→ {"text": "為了與田野研究人員合作，我們總是獨自工作，沒有媒介能前往現場進行良好的分析。", "confidence": "medium", "notes": ""}
+→ {"text": "為了與田野研究人員合作，我們總是獨自工作，沒有任何資源能前往現場進行良好的分析。", "confidence": "medium", "notes": "mediums 推測為西語 medios（資源、手段）之直譯"}
 
 25. We really, the groups kind of prevail so many decades with the lack of technical support to do analysis.
 → {"text": "我們這些團體確實在缺乏技術支援的情況下進行分析，已經持續了數十年。", "confidence": "medium", "notes": ""}
 
 26. We have, for example, since the 2000, we have the phenomenon of, for example, of the cattle mutilations, which is very serious.
-→ {"text": "例如，自2000年以來，我們遇到了牲畜肢解的現象，這非常嚴重。", "confidence": "high", "notes": ""}
+→ {"text": "例如，自 2000 年以來，我們遇到了牲畜肢解的現象，這非常嚴重。", "confidence": "high", "notes": ""}
 
 27. We know through Linda Molton, her research.
-→ {"text": "我們透過琳達·莫爾頓的研究了解到這一點。", "confidence": "high", "notes": ""}
+→ {"text": "我們透過琳達·莫爾頓·豪（Linda Moulton Howe）的研究了解到這一點。", "confidence": "high", "notes": "原文 Linda Molton 應為 Linda Moulton Howe（牲畜肢解事件知名研究者），譯文逕採正確全名"}
 
 28. Another example is the groups need support.
 → {"text": "另一個例子是這些團體需要支援。", "confidence": "high", "notes": ""}
@@ -88,10 +88,10 @@
 → {"text": "這不僅是為了取得文件解密，讓科學分析能獲得啟發，也是為了從文件和案件中了解事情的真相。", "confidence": "medium", "notes": ""}
 
 30. The Army forces and their force and the Navy research between 1960, as I explained, and today.
-→ {"text": "正如我所說明的，陸軍部隊以及海軍從1960年到現在的研究。", "confidence": "medium", "notes": ""}
+→ {"text": "正如我所說明的，陸軍部隊以及海軍從 1960 年到現在的研究。", "confidence": "medium", "notes": ""}
 
 31. There were recent cases too, as I said in 2011, was this big explosion.
-→ {"text": "最近也有案例，正如我所說的2011年那次大爆炸。", "confidence": "medium", "notes": ""}
+→ {"text": "最近也有案例，正如我所說的 2011 年那次大爆炸。", "confidence": "medium", "notes": ""}
 
 32. You need the information.
 → {"text": "你們需要這些資訊。", "confidence": "high", "notes": ""}
@@ -148,22 +148,22 @@
 → {"text": "我們實際上看不進那個不明飛行物，無論是透過陶瓷部分還是金屬部分。", "confidence": "high", "notes": ""}
 
 50. As regards the government and the Air Force, the 1,800 people that actually saw it and the commanders that were there, we reported all of this to the Air Forces, but there was no negative repercussions because it was officially accepted.
-→ {"text": "關於政府和空軍，當時有1800人親眼目睹，還有在場的指揮官，我們把這一切都報告給空軍，但沒有產生負面影響，因為這已被正式認可。", "confidence": "high", "notes": ""}
+→ {"text": "關於政府和空軍，當時有 1,800 人親眼目睹，還有在場的指揮官，我們把這一切都報告給空軍，但沒有產生負面影響，因為這已被正式認可。", "confidence": "high", "notes": ""}
 
 51. The sighting was officially accepted, and I continued to fly for 20 more years without any problems.
-→ {"text": "這次目擊事件被正式認可，我也繼續飛行了20年，沒有任何問題。", "confidence": "high", "notes": ""}
+→ {"text": "這次目擊事件被正式認可，我也繼續飛行了 20 年，沒有任何問題。", "confidence": "high", "notes": ""}
 
 52. So how did your press, did the press handle this, and I mean, what was their response?
 → {"text": "那麼媒體是如何處理這件事的？我是說，他們的反應是什麼？", "confidence": "high", "notes": ""}
 
 53. In 1980, when this event happened, this was a year that, on that air base, we were installing Soviet materials or Soviet installations at that place, and the UFO did not actually get to fly over the base.
-→ {"text": "1980年這起事件發生時，在那座空軍基地，我們正在安裝蘇聯的設備或設施，而那個不明飛行物實際上並沒有飛越基地上空。", "confidence": "high", "notes": ""}
+→ {"text": "1980 年這起事件發生時，在那座空軍基地，我們正在安裝蘇聯的設備或設施，而那個不明飛行物實際上並沒有飛越基地上空。", "confidence": "high", "notes": ""}
 
-54. And so really, we received the order to not talk about this because we didn't actually want any好奇的記者來調查研究，因為基地上有敏感設備，我們不想引起不必要的注意。
+54. And so really, we received the order to not talk about this because we didn't actually want any curious journalists to come and actually research and investigate this because we had sensitive materials on the base, and we didn't want to attract any undue attention.
 → {"text": "因此，我們收到了不要談論這件事的命令，因為我們不希望任何好奇的記者來調查，因為基地上有敏感設備，我們不想引起不必要的關注。", "confidence": "high", "notes": ""}
 
 55. And so it was 22 years of silence until the Air Force officially gave us permission to talk about these phenomenon, and that's at that time when they said that we could actually start to speak publicly about this issue.
-→ {"text": "因此，這沉默了22年，直到空軍正式允許我們談論這些現象，那時他們說我們可以開始公開談論這個議題。", "confidence": "high", "notes": ""}
+→ {"text": "因此，這沉默了 22 年，直到空軍正式允許我們談論這些現象，那時他們說我們可以開始公開談論這個議題。", "confidence": "high", "notes": ""}
 
 56. And as I said, they finally gave me the authorization to talk about this.
 → {"text": "正如我所說，他們最終授權我可以談論這件事。", "confidence": "high", "notes": ""}
@@ -178,7 +178,7 @@
 → {"text": "非常、非常感謝您。", "confidence": "high", "notes": ""}
 
 60. Mr. Gevaerd.
-→ {"text": "吉瓦德先生。", "confidence": "high", "notes": ""}
+→ {"text": "熱瓦爾德（A. J. Gevaerd）先生。", "confidence": "high", "notes": ""}
 
 61. Yes, ma'am.
 → {"text": "是的，女士。", "confidence": "high", "notes": ""}
@@ -211,13 +211,13 @@
 → {"text": "那是什麼時候發生的？雙方是什麼關係？", "confidence": "high", "notes": ""}
 
 71. The facts that I described happened in the '70s, in late '70s, in '77, and Brazil was, like many other countries in South America, under military dictatorship.
-→ {"text": "我所描述的事實發生在70年代，1977年底，當時巴西與南美許多其他國家一樣，處於軍事獨裁政權統治之下。", "confidence": "high", "notes": ""}
+→ {"text": "我所描述的事實發生在 70 年代，1977 年底，當時巴西與南美許多其他國家一樣，處於軍事獨裁政權統治之下。", "confidence": "high", "notes": ""}
 
 72. And during that period of time, U.S. military and intelligence were all over South America, ruling lots of things there.
 → {"text": "在那段時期，美國軍隊和情報人員遍布南美洲，掌控著許多事情。", "confidence": "high", "notes": ""}
 
 73. Now, when Operation Saucer took place, and it happened because the populations of the affected area couldn't live anymore because they were seeing UFOs all the time, and worse than that, they were being attacked, over 1,000 people were attacked.
-→ {"text": "當飛碟行動展開時，那是因為受影響地區的居民已經無法正常生活，他們一直看到不明飛行物，更糟的是，他們遭到攻擊，超過1000人受到攻擊。", "confidence": "high", "notes": ""}
+→ {"text": "當飛碟行動展開時，那是因為受影響地區的居民已經無法正常生活，他們一直看到不明飛行物，更糟的是，他們遭到攻擊，超過 1,000 人受到攻擊。", "confidence": "high", "notes": ""}
 
 74. During a certain period of time, there were lots of injuries made by this object that would come from the sky and emit a beam of light towards people's body, making them faint and become anemic.
 → {"text": "在某段時間內，許多人被這個從天而降的物體所傷，它會向人們的身體發射光束，使他們昏厥並變得貧血。", "confidence": "high", "notes": ""}
@@ -259,13 +259,13 @@
 → {"text": "非官方層面。", "confidence": "high", "notes": ""}
 
 87. They took part in lots of procedures, including this was told to me by the commander of the Operation Saucer himself, Colonel Uyrangê Hollanda, that they were having problem in documenting the UFOs with photograph.
-→ {"text": "他們參與了許多行動，包括飛碟行動指揮官烏伊蘭吉·霍蘭達上校親自告訴我的，他們在用照片記錄不明飛行物時遇到了困難。", "confidence": "high", "notes": ""}
+→ {"text": "他們參與了許多行動，包括飛碟行動指揮官烏伊蘭吉·奧蘭達（Uyrangê Hollanda）上校親自告訴我的，他們在用照片記錄不明飛行物時遇到了困難。", "confidence": "high", "notes": "姓氏採 zh.wikipedia 流通譯法「奧蘭達」"}
 
 88. Some UFOs were hard to photograph.
 → {"text": "有些不明飛行物很難拍攝。", "confidence": "high", "notes": ""}
 
 89. But they solved this problem when the U.S. military came to Brazil and gave to the Brazilian military some equipment and highly sensitive films so they can not only photograph the UFOs, over 500 pictures were made, and also film the UFOs, 16 hours of film were made of including motherships over the Amazon River.
-→ {"text": "但當美國軍方來到巴西，向巴西軍方提供了一些設備和高感光度底片後，這個問題就解決了，因此他們不僅拍攝了不明飛行物的照片，拍攝了超過500張照片，還拍攝了影片，總共16小時的影片，包括亞馬遜河上的母船。", "confidence": "high", "notes": ""}
+→ {"text": "但當美國軍方來到巴西，向巴西軍方提供了一些設備和高感光度底片後，這個問題就解決了，因此他們不僅拍攝了不明飛行物的照片，拍攝了超過 500 張照片，還拍攝了影片，總共 16 小時的影片，包括亞馬遜河上的母船。", "confidence": "high", "notes": ""}
 
 90. So do you have any idea of whether or not that information and those films were shared here in the United States?
 → {"text": "那麼您是否知道這些資訊和影片是否被分享到了美國？", "confidence": "high", "notes": ""}
@@ -286,13 +286,13 @@
 → {"text": "不，我認為與美國人合作的整個重點就在於，他們會把資訊帶回美國。", "confidence": "high", "notes": ""}
 
 96. They were there to collect information as they were in Argentina and Chile and so many countries to get information about the dust phenomena and bring back to the United States to use for their own purposes.
-→ {"text": "他們在那裡收集資訊，就像他們在阿根廷、智利和許多其他國家一樣，以獲取關於這種塵埃現象的資訊，並將其帶回美國用於他們自己的目的。", "confidence": "high", "notes": ""}
+→ {"text": "他們在那裡收集資訊，就像他們在阿根廷、智利和許多其他國家一樣，以獲取關於這些現象的資訊，並將其帶回美國用於他們自己的目的。", "confidence": "high", "notes": "原文 the dust phenomena 應為 those phenomena（人工聽音確認：講者結巴說 tho...those，轉錄錯誤）"}
 
 97. Well, thank you very much.
 → {"text": "好的，非常感謝。", "confidence": "high", "notes": ""}
 
 98. So Mr. Huneeus, you mentioned that the traffic control group was housed in the Air and Space Museum.
-→ {"text": "那麼胡紐斯先生，您提到空中交通管制的團隊設在航空太空博物館。", "confidence": "high", "notes": ""}
+→ {"text": "那麼胡尼烏斯（Antonio Huneeus）先生，您提到空中交通管制的團隊設在航空太空博物館。", "confidence": "high", "notes": ""}
 
 99. Currently.
 → {"text": "目前是這樣。", "confidence": "high", "notes": ""}
@@ -325,7 +325,7 @@
 → {"text": "因此，洛斯塞里洛斯機場最終不再作為機場運作，但他們仍在使用機庫等設施，並在那裡創建了一個博物館。", "confidence": "high", "notes": ""}
 
 109. But the facilities of the committee, the CEFAA, are annexed, but it has nothing to do with the museum.
-→ {"text": "但委員會的設施，也就是CEFAA，是附設的，與博物館沒有關係。", "confidence": "high", "notes": ""}
+→ {"text": "但委員會的設施，也就是異常空中現象研究委員會（CEFAA），是附設的，與博物館沒有關係。", "confidence": "high", "notes": "CEFAA 全稱依 UFO-13 定譯統一（本集詞彙表原譯「調查委員會」）"}
 
 110. So it worked for convenience, it worked for you.
 → {"text": "所以這樣做是為了方便，對你們來說是可行的。", "confidence": "high", "notes": ""}
@@ -337,7 +337,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 113. They also have an office at the main headquarters of the Civil Aviation Agency, but according to what General Bermudez told me, they'd rather be at that other place, he said, because when they are in the headquarters, if they have to make an official presentation or something, of course they can use that facility, he said, everybody's asking them questions.
-→ {"text": "他們在智利民航局總部也設有辦公室，但根據貝爾穆德斯將軍告訴我的，他們寧願待在另一個地方，他說，因為當他們在總部時，如果他們必須進行官方簡報之類的，當然他們可以使用那個設施，他說，每個人都會問他們問題。", "confidence": "high", "notes": ""}
+→ {"text": "他們在智利民航局總部也設有辦公室，但根據貝爾穆德斯將軍（General Bermúdez）告訴我的，他們寧願待在另一個地方，他說，因為當他們在總部時，如果他們必須進行官方簡報之類的，當然他們可以使用那個設施，他說，每個人都會問他們問題。", "confidence": "high", "notes": ""}
 
 114. "Oh, what's going on with UFOs?
 → {"text": "「哦，不明飛行物有什麼新進展？", "confidence": "high", "notes": ""}
