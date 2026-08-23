@@ -38,25 +38,37 @@
           "segment_id": 25,
           "error_text": "Centro Fologico Nazionale",
           "suggested_correction": "Centro Ufologico Nazionale",
-          "reasoning": "The speaker is an Italian 'ufologist'. 'Ufologico' is the correct Italian term for 'Ufological'. 'Fologico' is a likely transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 25 原文已是 Centro Ufologico Nazionale。"
         },
         {
           "segment_id": 31,
           "error_text": "Italian Hermes Netto Third Myself Brigade",
           "suggested_correction": "Italian Army's Nike-Hercules 3rd Missile Brigade",
-          "reasoning": "'Netto' is a likely mishearing of 'Nike', a common missile system of that era (Nike-Hercules). 'Myself' is a clear mishearing of 'Missile'. This correction aligns with the military context."
+          "reasoning": "失效紀錄：經查 main.yaml seg 31 原文已是 Italian Army's Nike-Hercules 3rd Missile Brigade。"
         },
         {
           "segment_id": 34,
           "error_text": "I and Kuhn began to interact",
           "suggested_correction": "I and CUN began to interact",
-          "reasoning": "The speaker refers to his organization, Centro Ufologico Nazionale, by the acronym CUN throughout his testimony. 'Kuhn' is a phonetic mishearing of the acronym CUN."
+          "reasoning": "失效紀錄：經查 main.yaml seg 34 原文已是 I and CUN began to interact。"
         },
         {
           "segment_id": 39,
           "error_text": "French government's UFO State Commission, Japan, in Toulouse.",
           "suggested_correction": "French government's UFO State Commission, GEPAN, in Toulouse.",
-          "reasoning": "The context is collaboration with European UFO bodies. Toulouse, France is the known location of the French UFO agency GEPAN. 'Japan' is nonsensical in this context and is likely a severe mishearing of 'GEPAN'."
+          "reasoning": "失效紀錄：經查 main.yaml seg 39 原文已是 ...GEPAN, in Toulouse。"
+        },
+        {
+          "segment_id": 35,
+          "error_text": "some as darling-like UFO phenomena",
+          "suggested_correction": "some as disc-like UFO phenomena",
+          "reasoning": "校稿補錄（2026-08-23）：darling-like 於目擊語境不合理，應為 disc-like（碟狀）之誤聽；Pinotti 1978 年佩魯賈目擊為碟狀物體報告。"
+        },
+        {
+          "segment_id": 54,
+          "error_text": "Castelga-Porziano",
+          "suggested_correction": "Castelporziano",
+          "reasoning": "校稿補錄（2026-08-23）：義大利總統私人莊園為 Castelporziano（羅馬附近），Castelga-Porziano 為轉錄錯誤。"
         }
       ]
     },
@@ -81,13 +93,19 @@
           "segment_id": 65,
           "error_text": "Dr. Schille?",
           "suggested_correction": "Dr. Shili?",
-          "reasoning": "The speaker introduces himself as Sun Shili in segment 69, confirming this is a phonetic misspelling."
+          "reasoning": "失效紀錄：經查 main.yaml seg 65 原文已是 Dr. Shili?（該段屬 topic_02 範圍，紀錄誤置於此）。"
         },
         {
           "segment_id": 105,
           "error_text": "Mr. Chen Juesheng, Wang Gancha",
           "suggested_correction": "Mr. Qian Xuesen, Wang Ganchang",
-          "reasoning": "These names likely refer to very famous Chinese scientists. 'Chen Juesheng' is likely Qian Xuesen, the father of China's space program. 'Wang Gancha' is likely Wang Ganchang, a renowned nuclear physicist. The transcriptions are phonetically close but incorrect for these prominent figures."
+          "reasoning": "失效紀錄：經查 main.yaml seg 105 原文已是 Mr. Qian Xuesen, Wang Ganchang, and a mathematician, Mr. Chen Jingrun。"
+        },
+        {
+          "segment_id": 110,
+          "error_text": "edited by Mr. Chen Juesheng, a famous scientist in China",
+          "suggested_correction": "edited by Mr. Qian Xuesen, a famous scientist in China",
+          "reasoning": "校稿補錄（2026-08-23）：與 seg 105 同一誤聽，Chen Juesheng 應為 Qian Xuesen（錢學森）。"
         }
       ]
     },
@@ -114,13 +132,79 @@
           "segment_id": 171,
           "error_text": "Royal Canadian Monopolis",
           "suggested_correction": "Royal Canadian Mounted Police",
-          "reasoning": "'Monopolis' is a nonsensical word in this context. The Royal Canadian Mounted Police (RCMP) is a major national law enforcement body that would plausibly be involved in such a high-level security matter."
+          "reasoning": "失效紀錄：經查 main.yaml seg 171 原文已是 Royal Canadian Mounted Police。"
         },
         {
           "segment_id": 188,
           "error_text": "Dr. Robert Saubacher",
           "suggested_correction": "Dr. Robert Sarbacher",
-          "reasoning": "The historical figure and government consultant involved in these discussions with Wilbert B. Smith is correctly known as Robert Sarbacher. 'Saubacher' is a common misspelling/mishearing."
+          "reasoning": "失效紀錄：經查 main.yaml seg 188 原文已是 Dr. Robert Sarbacher。"
+        },
+        {
+          "segment_id": 182,
+          "error_text": "Wilbur Smith's",
+          "suggested_correction": "Wilbert Smith's",
+          "reasoning": "校稿補錄（2026-08-23）：Wilbur 為 Wilbert B. Smith 之誤聽。"
+        },
+        {
+          "segment_id": 189,
+          "error_text": "Dr. Robert Saubacher",
+          "suggested_correction": "Dr. Robert Sarbacher",
+          "reasoning": "校稿補錄（2026-08-23）：Saubacher 為 Sarbacher 之誤拼，同一誤聽於 seg 194/196/199/200/201/204/205 重複出現。"
+        },
+        {
+          "segment_id": 194,
+          "error_text": "the Saubacher notes",
+          "suggested_correction": "the Sarbacher notes",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 189 誤聽。"
+        },
+        {
+          "segment_id": 195,
+          "error_text": "Wilbur Smith",
+          "suggested_correction": "Wilbert Smith",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 182 誤聽。"
+        },
+        {
+          "segment_id": 196,
+          "error_text": "he's talking to Saubacher",
+          "suggested_correction": "he's talking to Sarbacher",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 189 誤聽。"
+        },
+        {
+          "segment_id": 199,
+          "error_text": "Smith asked Saubacher",
+          "suggested_correction": "Smith asked Sarbacher",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 189 誤聽。"
+        },
+        {
+          "segment_id": 200,
+          "error_text": "Saubacher's reply",
+          "suggested_correction": "Sarbacher's reply",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 189 誤聽。"
+        },
+        {
+          "segment_id": 201,
+          "error_text": "Wilbur Smith's files",
+          "suggested_correction": "Wilbert Smith's files",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 182 誤聽，本段兩處（此為第一處）。"
+        },
+        {
+          "segment_id": 201,
+          "error_text": "Saubacher was the main witness",
+          "suggested_correction": "Sarbacher was the main witness",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 189 誤聽，本段兩處（此為第二處）。"
+        },
+        {
+          "segment_id": 204,
+          "error_text": "writes to Dr. Saubacher",
+          "suggested_correction": "writes to Dr. Sarbacher",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 189 誤聽。"
+        },
+        {
+          "segment_id": 205,
+          "error_text": "Saubacher had told Stanton Friedman",
+          "suggested_correction": "Sarbacher had told Stanton Friedman",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 189 誤聽。"
         }
       ]
     },
@@ -147,7 +231,31 @@
           "segment_id": 258,
           "error_text": "Project Condyne",
           "suggested_correction": "Project Condign",
-          "reasoning": "While the speaker uses this pronunciation initially, the widely accepted and documented name for the MOD report is 'Project Condign'. He uses the term UAP in the title of the report later, which is correct."
+          "reasoning": "失效紀錄：經查 main.yaml seg 258 原文已是 Project Condign。"
+        },
+        {
+          "segment_id": 263,
+          "error_text": "Project Condyne's",
+          "suggested_correction": "Project Condign's",
+          "reasoning": "校稿補錄（2026-08-23）：Condyne 為 Condign 之誤聽，同一誤聽於 seg 267/272 重複出現。"
+        },
+        {
+          "segment_id": 267,
+          "error_text": "Project Condyne's",
+          "suggested_correction": "Project Condign's",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 263 誤聽。"
+        },
+        {
+          "segment_id": 272,
+          "error_text": "such as Project Condyne",
+          "suggested_correction": "such as Project Condign",
+          "reasoning": "校稿補錄（2026-08-23）：同 seg 263 誤聽。"
+        },
+        {
+          "segment_id": 283,
+          "error_text": "Project Condine's",
+          "suggested_correction": "Project Condign's",
+          "reasoning": "校稿補錄（2026-08-23）：Condine 為 Condign 之誤聽。"
         }
       ]
     },
@@ -176,13 +284,49 @@
           "segment_id": 300,
           "error_text": "Val-en-Salle",
           "suggested_correction": "Valensole",
-          "reasoning": "The famous 1965 French UFO landing case involving farmer Maurice Masse occurred in Valensole. 'Val-en-Salle' is a phonetic transcription error."
+          "reasoning": "失效紀錄：經查 main.yaml seg 300 原文已是 Valensole。"
         },
         {
           "segment_id": 318,
           "error_text": "Trans-Improvance incident",
           "suggested_correction": "Trans-en-Provence incident",
-          "reasoning": "This is another mishearing of the location 'Trans-en-Provence', which was the central case discussed just moments earlier."
+          "reasoning": "失效紀錄：經查 main.yaml seg 318 原文已是 Trans-en-Provence incident。"
+        },
+        {
+          "segment_id": 298,
+          "error_text": "Robert Galli",
+          "suggested_correction": "Robert Galley",
+          "reasoning": "校稿補錄（2026-08-23）：1974 年法國國防部長為 Robert Galley（羅貝爾·加萊），Galli 為誤聽。"
+        },
+        {
+          "segment_id": 304,
+          "error_text": "the CNAS, the French space agency",
+          "suggested_correction": "the CNES, the French space agency",
+          "reasoning": "校稿補錄（2026-08-23）：法國太空總署縮寫為 CNES（Centre national d'études spatiales），CNAS 為誤聽。"
+        },
+        {
+          "segment_id": 307,
+          "error_text": "in Transan-Provence in the Valle region",
+          "suggested_correction": "in Trans-en-Provence in the Var region",
+          "reasoning": "校稿補錄（2026-08-23）：Transan-Provence 應為 Trans-en-Provence；Valle 應為 Var（瓦爾省），本段兩處。"
+        },
+        {
+          "segment_id": 312,
+          "error_text": "Professor Buñaz",
+          "suggested_correction": "Professor Bounias",
+          "reasoning": "校稿補錄（2026-08-23）：參與普羅旺斯特朗案分析的科學家為 Michel Bounias，Buñaz 為誤聽。"
+        },
+        {
+          "segment_id": 320,
+          "error_text": "within the CNS portal",
+          "suggested_correction": "within the CNES portal",
+          "reasoning": "校稿補錄（2026-08-23）：CNS 應為 CNES（法國太空總署入口網站）。"
+        },
+        {
+          "segment_id": 332,
+          "error_text": "in Petrosovodsk",
+          "suggested_correction": "in Petrozavodsk",
+          "reasoning": "校稿補錄（2026-08-23）：1977 年目擊事件地點為 Petrozavodsk（彼得羅扎沃茨克），Petrosovodsk 為誤聽。"
         }
       ]
     },
@@ -208,19 +352,115 @@
           "segment_id": 443,
           "error_text": "Mr. Pernati",
           "suggested_correction": "Mr. Pinotti",
-          "reasoning": "The question is directed to the witness from Italy, Dr. Roberto Pinotti. 'Pernati' is a mishearing of his name."
+          "reasoning": "失效紀錄：經查 main.yaml seg 443 原文已是 Mr. Pinotti（主席誤讀實際出現於 seg 452/467/549/594）。"
         },
         {
           "segment_id": 476,
           "error_text": "Mr. Hucsini",
           "suggested_correction": "Mr. Huneeus",
-          "reasoning": "The question is directed to Antonio Huneeus. 'Hucsini' is a mishearing of his name."
+          "reasoning": "失效紀錄：經查 main.yaml seg 476 原文已是 Mr. Huneeus。"
         },
         {
           "segment_id": 522,
           "error_text": "Mr. Shelley",
           "suggested_correction": "Mr. Shili",
-          "reasoning": "The question is directed to the witness from China, Dr. Sun Shili. 'Shelley' is a mishearing of his name."
+          "reasoning": "失效紀錄：經查 main.yaml seg 522 原文已是 Mr. Shili（Shelley 誤聽實際出現於 seg 696）。"
+        },
+        {
+          "segment_id": 626,
+          "error_text": "Mr. Schille",
+          "suggested_correction": "Mr. Shili",
+          "reasoning": "校稿補錄（2026-08-23）：提問對象為中國證人孫式立（Sun Shili），Schille 為誤聽。"
+        },
+        {
+          "segment_id": 452,
+          "error_text": "Mr. Pernati",
+          "suggested_correction": "Mr. Pinotti",
+          "reasoning": "校稿補錄（2026-08-23）：主席誤讀皮諾蒂姓名。"
+        },
+        {
+          "segment_id": 467,
+          "error_text": "Mr. Pananti",
+          "suggested_correction": "Mr. Pinotti",
+          "reasoning": "校稿補錄（2026-08-23）：主席再次誤讀皮諾蒂姓名。"
+        },
+        {
+          "segment_id": 494,
+          "error_text": "Mr. Paul",
+          "suggested_correction": "Mr. Pope",
+          "reasoning": "校稿補錄（2026-08-23）：主席誤讀波普姓名（Nick Pope）。"
+        },
+        {
+          "segment_id": 503,
+          "error_text": "General Gabrielle",
+          "suggested_correction": "General Gabriel",
+          "reasoning": "校稿補錄（2026-08-23）：指 Charles A. Gabriel（主表定譯蓋博上將，見 UFO-06），Gabrielle 為誤聽。"
+        },
+        {
+          "segment_id": 549,
+          "error_text": "Mr. Penati",
+          "suggested_correction": "Mr. Pinotti",
+          "reasoning": "校稿補錄（2026-08-23）：主席誤讀皮諾蒂姓名。"
+        },
+        {
+          "segment_id": 562,
+          "error_text": "we had also antities on the ground",
+          "suggested_correction": "we had also entities on the ground",
+          "reasoning": "校稿補錄（2026-08-23）：antities 應為 entities（實體）。"
+        },
+        {
+          "segment_id": 594,
+          "error_text": "Mr. Panetti",
+          "suggested_correction": "Mr. Pinotti",
+          "reasoning": "校稿補錄（2026-08-23）：巴特利特眾議員誤讀皮諾蒂姓名。"
+        },
+        {
+          "segment_id": 598,
+          "error_text": "the former lieutenant Hoth",
+          "suggested_correction": "the former lieutenant Haut",
+          "reasoning": "校稿補錄（2026-08-23）：指 Walter Haut（羅斯威爾事件時任基地新聞官，時為中尉），Hoth 為誤聽。"
+        },
+        {
+          "segment_id": 614,
+          "error_text": "the Netto Third Mysill Brigade",
+          "suggested_correction": "the Nike-Hercules 3rd Missile Brigade",
+          "reasoning": "校稿補錄（2026-08-23）：與 seg 31 同一誤聽，指勝利女神-力士第三飛彈旅。"
+        },
+        {
+          "segment_id": 617,
+          "error_text": "in Netto, we were all together",
+          "suggested_correction": "in Nike (missile brigade), we were all together",
+          "reasoning": "校稿補錄（2026-08-23）：Netto 同 seg 614 誤聽，指 Nike 飛彈旅駐地。"
+        },
+        {
+          "segment_id": 658,
+          "error_text": "the medallurgist",
+          "suggested_correction": "the metallurgist",
+          "reasoning": "校稿補錄（2026-08-23）：medallurgist 應為 metallurgist（冶金學家）。"
+        },
+        {
+          "segment_id": 662,
+          "error_text": "material coming to Wilbur Smith",
+          "suggested_correction": "material coming to Wilbert Smith",
+          "reasoning": "校稿補錄（2026-08-23）：Wilbur 為 Wilbert B. Smith 之誤聽（同 seg 182）。"
+        },
+        {
+          "segment_id": 673,
+          "error_text": "Dr. Heineck",
+          "suggested_correction": "Dr. Hynek",
+          "reasoning": "校稿補錄（2026-08-23）：Heineck 應為 Hynek（J. Allen Hynek）；UFO-11 已有同一誤聽先例。"
+        },
+        {
+          "segment_id": 673,
+          "error_text": "pro-euphology",
+          "suggested_correction": "pro-ufology",
+          "reasoning": "校稿補錄（2026-08-23）：pro-euphology 應為 pro-ufology，同 seg 673。"
+        },
+        {
+          "segment_id": 696,
+          "error_text": "Mr. Shelley",
+          "suggested_correction": "Mr. Shili",
+          "reasoning": "校稿補錄（2026-08-23）：Shelley 為 Shili 之誤聽。"
         }
       ]
     }

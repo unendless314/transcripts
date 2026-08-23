@@ -1,7 +1,7 @@
 ## Speaker Group 11
 
 68. Congresswomen, congressmen, ladies and gentlemen, good afternoon.
-→ {"text": "各位女士、各位先生，國會議員們，下午好。", "confidence": "high", "notes": ""}
+→ {"text": "各位國會議員、各位女士、各位先生，下午好。", "confidence": "high", "notes": "校稿：依原文順序調整稱謂"}
 
 69. My name is Sun Shili.
 → {"text": "我的名字是孫式立。", "confidence": "high", "notes": ""}
@@ -10,13 +10,13 @@
 → {"text": "我來自中華人民共和國。", "confidence": "high", "notes": ""}
 
 71. I am the president of the World Chinese UFO Federation.
-→ {"text": "我是世界華人UFO聯合會的會長。", "confidence": "high", "notes": ""}
+→ {"text": "我是世界華人 UFO 聯合會的會長。", "confidence": "high", "notes": ""}
 
 72. Our federation serves as a communication platform for the global Chinese on all aspects of UFO, including those in mainland China, Hong Kong, and Taiwan, and abroad.
-→ {"text": "我們的聯合會是全球華人在幽浮各方面議題上的交流平台，包括中國大陸、香港、台灣以及海外的華人。", "confidence": "high", "notes": ""}
+→ {"text": "我們的聯合會是全球華人在 UFO 各方面議題上的交流平台，包括中國大陸、香港、台灣以及海外的華人。", "confidence": "high", "notes": ""}
 
 73. We have 1.3 billion people in China.
-→ {"text": "中國有13億人口。", "confidence": "high", "notes": ""}
+→ {"text": "中國有 13 億人口。", "confidence": "high", "notes": ""}
 
 74. And on top of that, we also have a lot of overseas Chinese.
 → {"text": "除此之外，我們還有大量的海外華人。", "confidence": "high", "notes": ""}
@@ -52,28 +52,28 @@
 → {"text": "我曾擔任外交官和大學教授。", "confidence": "high", "notes": ""}
 
 85. But since the 1970s, I started to spend time on the subject of UFO and the study of the mysteries of the universe.
-→ {"text": "但自1970年代起，我開始投入幽浮議題以及宇宙奧秘的研究。", "confidence": "high", "notes": ""}
+→ {"text": "但自 1970 年代起，我開始投入 UFO 議題以及宇宙奧秘的研究。", "confidence": "high", "notes": ""}
 
 86. Since the establishment of the China UFO Research Institute in 1980, I have been actively involved in the leadership of the largest UFO organization in the world and later of the World Chinese UFO Federation.
-→ {"text": "自1980年中國UFO研究會成立以來，我一直積極參與這個全球最大幽浮組織的領導工作，後來也參與世界華人UFO聯合會的領導。", "confidence": "high", "notes": ""}
+→ {"text": "自 1980 年中國 UFO 研究會成立以來，我一直積極參與這個全球最大 UFO 組織的領導工作，後來也參與世界華人 UFO 聯合會的領導。", "confidence": "high", "notes": ""}
 
 87. So I have been a witness to the history of China UFO research and also a spokesperson or an advocate, if you will.
-→ {"text": "因此，我一直是中國幽浮研究歷史的見證者，也可以說是一位發言人或倡導者。", "confidence": "high", "notes": ""}
+→ {"text": "因此，我一直是中國 UFO 研究歷史的見證者，也可以說是一位發言人或倡導者。", "confidence": "high", "notes": ""}
 
 88. Since 1990s, I participated in a series of international conferences in Asia, Europe, North America, South America, and many other places, engaging in academic exchanges.
-→ {"text": "自1990年代起，我參加了一系列在亞洲、歐洲、北美、南美以及許多其他地方舉行的國際會議，進行學術交流。", "confidence": "high", "notes": ""}
+→ {"text": "自 1990 年代起，我參加了一系列在亞洲、歐洲、北美、南美以及許多其他地方舉行的國際會議，進行學術交流。", "confidence": "high", "notes": ""}
 
 89. I've also been interviewed by many international media on China UFO research development.
-→ {"text": "我也曾接受許多國際媒體的採訪，談論中國幽浮研究的發展。", "confidence": "high", "notes": ""}
+→ {"text": "我也曾接受許多國際媒體的採訪，談論中國 UFO 研究的發展。", "confidence": "high", "notes": ""}
 
 90. This media include AP, BBC, CNN, NBC, Wall Street Journal, New York Times, Los Angeles Times, Christian Science Monitor, Times Magazine, and the most prestigious science and technology channel, Discovery.
-→ {"text": "這些媒體包括美聯社、BBC、CNN、NBC、華爾街日報、紐約時報、洛杉磯時報、基督教科學箴言報、時代雜誌，以及最負盛名的科技頻道Discovery。", "confidence": "high", "notes": ""}
+→ {"text": "這些媒體包括美聯社、BBC、CNN、NBC、華爾街日報、紐約時報、洛杉磯時報、基督教科學箴言報、時代雜誌，以及最負盛名的科技頻道 Discovery。", "confidence": "high", "notes": "校稿：Discovery 前補空格"}
 
 91. Of course, in addition to that, for many years, we have also been interviewed by the Chinese state media, Xinhua, and the CCTV, and many other Chinese media.
 → {"text": "當然，除此之外，多年來我們也接受過中國官方媒體新華社、中央電視台以及許多其他中國媒體的採訪。", "confidence": "high", "notes": ""}
 
 92. So for the past 33 years, it's been a very hard time for Chinese UFO scholars.
-→ {"text": "因此在過去33年裡，對中國幽浮學者來說是非常艱難的時期。", "confidence": "high", "notes": ""}
+→ {"text": "因此在過去 33 年裡，對中國 UFO 學者來說是非常艱難的時期。", "confidence": "high", "notes": ""}
 
 93. But we are still committed to the study of this subject.
 → {"text": "但我們仍然致力於這個領域的研究。", "confidence": "high", "notes": ""}
@@ -85,70 +85,70 @@
 → {"text": "首先，這個星球上的每個人都在尋找我們在宇宙中的根源。", "confidence": "high", "notes": ""}
 
 96. We have the right to know.
-→ {"text": "我們有知道的權利。", "confidence": "high", "notes": ""}
+→ {"text": "我們有知情權。", "confidence": "high", "notes": "校稿：與 seg 98 用語統一（right to know＝知情權）"}
 
 97. We have the right to discover.
-→ {"text": "我們有發現的權利。", "confidence": "high", "notes": ""}
+→ {"text": "我們有發現權。", "confidence": "high", "notes": "校稿：與 seg 98 用語統一"}
 
 98. The mission of the Chinese UFO scholars is to help our citizens realize and implement their right to know and their right to discover.
-→ {"text": "中國幽浮學者的使命是幫助我國公民認識並實現他們的知情權和發現權。", "confidence": "high", "notes": ""}
+→ {"text": "中國 UFO 學者的使命是幫助我國公民認識並實現他們的知情權和發現權。", "confidence": "high", "notes": ""}
 
 99. Any attempt to cover up is unacceptable.
 → {"text": "任何試圖掩蓋真相的行為都是不可接受的。", "confidence": "high", "notes": ""}
 
 100. Secondly, statistics of the China UFO groups show that people involved in the subject of UFO is an overwhelming scale.
-→ {"text": "其次，中國幽浮團體的統計數據顯示，參與幽浮議題的人數規模驚人。", "confidence": "high", "notes": ""}
+→ {"text": "其次，中國 UFO 團體的統計數據顯示，參與 UFO 議題的人數規模驚人。", "confidence": "high", "notes": ""}
 
 101. According to our statistics, in China, out of 1.3 billion people, we have close to tens of millions of people who are UFO enthusiasts.
-→ {"text": "根據我們的統計，在中國13億人口中，有近數千萬人是幽浮愛好者。", "confidence": "high", "notes": ""}
+→ {"text": "根據我們的統計，在中國 13 億人口中，近數千萬人是 UFO 愛好者。", "confidence": "high", "notes": ""}
 
 102. And those who are interested in UFO subject or believe that UFO exists account for half of the Chinese population, which is about 500 million people.
-→ {"text": "而對幽浮議題感興趣或相信幽浮存在的人佔中國人口的一半，約有5億人。", "confidence": "high", "notes": ""}
+→ {"text": "而對 UFO 議題感興趣或相信 UFO 存在的人佔中國人口的一半，約有 5 億人。", "confidence": "high", "notes": ""}
 
 103. A group of senior scholars in the China UFO Research Institute come from various backgrounds that include scientific research agencies, aerospace, aviation, manufacturing, astronomy.
-→ {"text": "中國UFO研究會的一群高級學者來自各個領域，包括科研機構、航天、航空、製造業、天文學等。", "confidence": "high", "notes": ""}
+→ {"text": "中國 UFO 研究會的一群資深學者來自各個領域，包括科研機構、航太、航空、製造業、天文學等。", "confidence": "high", "notes": "校稿：senior 譯資深（非高級）；aerospace 譯航太（太空非航天慣例）"}
 
 104. And many scholars are very prestigious scholars in the society.
 → {"text": "許多學者在社會上享有很高的聲譽。", "confidence": "high", "notes": ""}
 
 105. For example, a scientist who is actively engaged with us, Mr. Qian Xuesen, Wang Ganchang, and a mathematician, Mr. Chen Jingrun, and a very famous astronomer, we are working with these people frequently.
-→ {"text": "例如，積極參與我們工作的科學家有錢學森先生、王淦昌先生，以及數學家陳景潤先生和一位非常著名的天文學家，我們經常與這些人合作。", "confidence": "high", "notes": "根據topics.json的轉錄錯誤提示，這些名字可能是錢學森、王淦昌等著名科學家"}
+→ {"text": "例如，積極參與我們工作的科學家有錢學森先生、王淦昌先生，以及數學家陳景潤先生和一位非常著名的天文學家，我們經常與這些人合作。", "confidence": "high", "notes": "校稿：原文已是正確拼寫（錢學森、王淦昌、陳景潤皆為中國著名科學家）；topics.json 原紀錄失效"}
 
 106. And we actually have more than 100,000 members.
-→ {"text": "我們實際上擁有超過10萬名會員。", "confidence": "high", "notes": ""}
+→ {"text": "我們實際上擁有超過 10 萬名會員。", "confidence": "high", "notes": ""}
 
 107. This is a very big team.
 → {"text": "這是一個非常龐大的團隊。", "confidence": "high", "notes": ""}
 
 108. And we are all contributing our share to the study of UFO.
-→ {"text": "我們都在為幽浮研究貢獻自己的一份力量。", "confidence": "high", "notes": ""}
+→ {"text": "我們都在為 UFO 研究貢獻自己的一份力量。", "confidence": "high", "notes": ""}
 
 109. Certainly, after years of research, a large number of Chinese UFO scholars, including myself, are convinced the authenticity of UFO, the existence of UFO and aliens.
-→ {"text": "當然，經過多年的研究，包括我在內的許多中國幽浮學者都確信幽浮的真實性，以及幽浮和外星人的存在。", "confidence": "high", "notes": ""}
+→ {"text": "當然，經過多年的研究，包括我在內的許多中國 UFO 學者都確信 UFO 的真實性，以及 UFO 和外星人的存在。", "confidence": "high", "notes": ""}
 
 110. To testify the existence of the UFO and aliens, I have also written articles that have appeared in China's encyclopedia, which is a very prestigious encyclopedia in China that was edited by Mr. Chen Juesheng, a famous scientist in China.
-→ {"text": "為了證明幽浮和外星人的存在，我也撰寫了一些文章，發表在中國的百科全書上，這是一本由中國著名科學家陳覺生先生編輯的、在中國享有盛譽的百科全書。", "confidence": "medium", "notes": "陳覺生可能是錢學森的誤聽"}
+→ {"text": "為了證明 UFO 和外星人的存在，我也撰寫了一些文章，收錄於中國的一部百科全書中，這是一部在中國享有盛譽、由中國著名科學家錢學森先生主編的百科全書。", "confidence": "high", "notes": "校稿：原文 Chen Juesheng 與 seg 105 同一誤聽，應為錢學森（Qian Xuesen），已補錄 topics.json；2026-08-23 人工聽音確認為錢學森"}
 
 111. So we believe the existence of UFO.
-→ {"text": "因此我們相信幽浮的存在。", "confidence": "high", "notes": ""}
+→ {"text": "因此我們相信 UFO 的存在。", "confidence": "high", "notes": ""}
 
 112. We believe the existence of aliens and extraterrestrials.
 → {"text": "我們相信外星人和地外生命的存在。", "confidence": "high", "notes": ""}
 
 113. For many years after our research and investigation, we have recorded some third kind cases, including the Fengshan Mountain incident, the Feishan incident, the Beijing Cao Gong incident, and the Luxi Farm incident, as well as interaction with the national civil aviation system and the military with outer space.
-→ {"text": "經過多年的研究和調查，我們記錄了一些第三類接觸案件，包括鳳凰山事件、飛山事件、北京曹公事件和陸溪農場事件，以及與國家民航系統和軍方與外太空的互動。", "confidence": "high", "notes": "Fengshan Mountain譯為鳳凰山，是著名UFO案例"}
+→ {"text": "經過多年的研究和調查，我們記錄了一些第三類接觸案例，包括鳳凰山事件、飛山事件、北京曹公事件和陸溪農場事件，以及國家民航系統與軍方和外太空的互動。", "confidence": "high", "notes": "校稿：Fengshan 即鳳凰山事件（貴陽孟照國事件，網路流通名）；北京曹公事件即北京校長曹公遭劫持案例，網路有流通紀錄；飛山事件、陸溪農場事件未見流通資料，依原文直譯"}
 
 114. Fourth, China has the earliest and the most recorded cases of the third kind in the world.
 → {"text": "第四，中國擁有世界上最早、記錄最多的第三類接觸案例。", "confidence": "high", "notes": ""}
 
 115. The earliest can be traced back to 12,000 years ago, prehistoric records carved in ancient stone plate.
-→ {"text": "最早的可以追溯到12,000年前，刻在古石板上的史前記錄。", "confidence": "high", "notes": ""}
+→ {"text": "最早的可以追溯到 12,000 年前，刻在古石板上的史前記錄。", "confidence": "high", "notes": ""}
 
 116. According to our studies, up to 5,000 years of written history, there is a wealth of suspected mysterious UFO-related data and files, including ancient data from the ancient local governments, official documents, history, ancient scientific literature, or even in civil literary works.
-→ {"text": "根據我們的研究，在長達5,000年的有文字記載的歷史中，有大量疑似神秘的與幽浮相關的數據和檔案，包括古代地方政府資料、官方文件、歷史記載、古代科學文獻，甚至民間文學作品。", "confidence": "high", "notes": ""}
+→ {"text": "根據我們的研究，在長達 5,000 年的有文字記載的歷史中，有大量疑似神秘的與 UFO 相關的數據和檔案，包括古代地方政府資料、官方文件、歷史記載、古代科學文獻，甚至民間文學作品。", "confidence": "high", "notes": ""}
 
 117. We see all these records, which prove that UFO does exist and also proves the real existence of the interaction between UFO and humans.
-→ {"text": "我們看到所有這些記錄，證明了幽浮確實存在，也證明了幽浮與人類之間真實存在的互動。", "confidence": "high", "notes": ""}
+→ {"text": "我們看到所有這些記錄，證明了 UFO 確實存在，也證明了 UFO 與人類之間真實存在的互動。", "confidence": "high", "notes": ""}
 
 118. Fifth, the physical evidence of an alien civilization, ancient alien statue may be the powerful evidence of this existence.
 → {"text": "第五，外星文明的物理證據，古代外星人雕像可能是其存在的有力證據。", "confidence": "high", "notes": ""}
@@ -172,10 +172,10 @@
 → {"text": "這也可能是外星文明與人類或地球交流的最早證據。", "confidence": "high", "notes": ""}
 
 125. And sixth, in China, there are thousands of alien communicators who claim to be receiving information from out of space.
-→ {"text": "第六，在中國有數千名外星通訊者聲稱正在接收來自外太空的信息。", "confidence": "high", "notes": ""}
+→ {"text": "第六，在中國有數千名外星通訊者聲稱正在接收來自外太空的訊息。", "confidence": "high", "notes": "校稿：信息改訊息，從台灣用語"}
 
 126. Some of this information has very high scientific and practical value.
-→ {"text": "其中一些信息具有非常高的科學和實用價值。", "confidence": "high", "notes": ""}
+→ {"text": "其中一些訊息具有非常高的科學和實用價值。", "confidence": "high", "notes": ""}
 
 127. A few individual alien communicators claim that they have communicated with the universal source and claim to have even obtained the core secrets of the universe.
 → {"text": "少數外星通訊者聲稱他們已經與宇宙源頭進行過交流，甚至聲稱獲得了宇宙的核心秘密。", "confidence": "high", "notes": ""}
@@ -190,7 +190,7 @@
 → {"text": "到目前為止，我們已經取得了一些非常令人鼓舞的初步成果。", "confidence": "high", "notes": ""}
 
 131. Number seven, my last point, Chinese UFO scholars have worked independently or cooperatively with scientists and inventors in the design, the manufacture, the experiment of dozens of high-performance disc-shaped artifact with all new power systems.
-→ {"text": "第七點，也是最後一點，中國幽浮學者獨立或與科學家和發明家合作，設計、製造、試驗了數十種採用全新動力系統的高性能碟形載具。", "confidence": "high", "notes": ""}
+→ {"text": "第七點，也是最後一點，中國 UFO 學者獨立或與科學家和發明家合作，設計、製造、試驗了數十種採用全新動力系統的高性能碟形載具。", "confidence": "high", "notes": ""}
 
 132. At the same time, we have conducted R&D on many important state-of-the-art technology, including new energy, environmental protection, and pollution treatment.
 → {"text": "與此同時，我們對許多重要的尖端技術進行研發，包括新能源、環境保護和污染治理。", "confidence": "high", "notes": ""}
@@ -199,7 +199,7 @@
 → {"text": "同時，我們也在高科技領域進行研究，包括污染治理、防災減災、醫療衛生工程以及基因工程。", "confidence": "high", "notes": ""}
 
 134. We have also participated in the solution of finding a solution to a series of problems.
-→ {"text": "我們還參與了解決一系列問題的方案尋找。", "confidence": "high", "notes": ""}
+→ {"text": "我們也參與了為一系列問題尋找解決方案的工作。", "confidence": "high", "notes": "校稿：原文句構破碎（solution of finding a solution），譯文潤飾"}
 
 135. But our scholars recognize that the study of the sky is for the benefit of the ground.
 → {"text": "但我們的學者認識到，研究天空是為了造福地面。", "confidence": "high", "notes": ""}
@@ -220,7 +220,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 141. [APPLAUSE] Just want to remind all of you, we're going to come back for questionnaires after all of you have given your opening statements.
-→ {"text": "【掌聲】只是想提醒大家，在各位都完成開場陳述後，我們會回來進行問答。", "confidence": "high", "notes": ""}
+→ {"text": "（掌聲）只是想提醒大家，在各位都完成開場陳述後，我們會回來進行問答。", "confidence": "high", "notes": "原文 questionnaires 應指 questions（問答）；掌聲標記從 UFO-01 先例改全形括號"}
 
 142. So Mr. Cameron from Canada.
-→ {"text": "那麼來自加拿大的卡梅隆先生。", "confidence": "high", "notes": ""}
+→ {"text": "那麼，來自加拿大的卡麥隆先生。", "confidence": "high", "notes": "校稿：卡梅隆改卡麥隆，從主表定譯（Grant Cameron＝格蘭特·卡麥隆）"}

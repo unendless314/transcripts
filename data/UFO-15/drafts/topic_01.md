@@ -4,7 +4,7 @@
 → {"text": "如果您準備好宣誓，請起立好嗎？", "confidence": "high", "notes": "聽證會主席要求證人宣誓"}
 
 2. And we'll wait for Antonio, just for the cameras.
-→ {"text": "我們等一下安東尼奧，為了鏡頭完整。", "confidence": "high", "notes": ""}
+→ {"text": "我們等一下安東尼奧，只是為了鏡頭。", "confidence": "high", "notes": "校稿：原譯「為了鏡頭完整」增添原文所無之意，改從字面"}
 
 3. And if you could raise your hand, I'd appreciate that too.
 → {"text": "如果您能舉起右手，我也會很感謝。", "confidence": "high", "notes": "宣誓儀式要求舉手"}

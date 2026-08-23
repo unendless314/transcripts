@@ -1,7 +1,7 @@
 ## Speaker Group 20
 
 356. [APPLAUSE] We're going to go through one round of questions.
-→ {"text": "【掌聲】我們將進行一輪提問。", "confidence": "high", "notes": ""}
+→ {"text": "（掌聲）我們將進行一輪提問。", "confidence": "high", "notes": "校稿：掌聲標記改全形括號"}
 
 357. And we will-- each of you get five minutes.
 → {"text": "你們每個人有五分鐘的時間。", "confidence": "high", "notes": ""}
@@ -10,13 +10,13 @@
 → {"text": "然後休息回來後，你們還有另一輪機會。", "confidence": "high", "notes": ""}
 
 359. So let's start with Representative Cook.
-→ {"text": "那麼我們開始，請 Cook 議員提問。", "confidence": "high", "notes": ""}
+→ {"text": "那麼我們開始，請庫克眾議員提問。", "confidence": "high", "notes": "校稿：Cook 中譯庫克，從 UFO-14 先例"}
 
 360. Thank you, Madam Chair.
 → {"text": "謝謝主席女士。", "confidence": "high", "notes": ""}
 
 361. Let's-- I'd first like to ask a question of our witness from the UK, Nick Pope.
-→ {"text": "首先我想向我們來自英國的證人 Nick Pope 提問。", "confidence": "high", "notes": ""}
+→ {"text": "首先我想向我們來自英國的證人尼克·波普（Nick Pope）提問。", "confidence": "high", "notes": "校稿：人名中譯"}
 
 362. I remember some of your biography from yesterday, but remind me, you did work for the Ministry of Defense in the UK.
 → {"text": "我記得你昨天介紹的一些背景，但請再提醒我一下，你確實在英國國防部工作過。", "confidence": "high", "notes": ""}
@@ -34,7 +34,7 @@
 → {"text": "是的，先生。", "confidence": "high", "notes": ""}
 
 367. I left in 2006. 2006.
-→ {"text": "我於2006年離職。2006年。", "confidence": "high", "notes": ""}
+→ {"text": "我於 2006 年離職。2006 年。", "confidence": "high", "notes": ""}
 
 368. And then you've been very involved in this study of UFOs since that time.
 → {"text": "從那時起你就一直非常投入 UFO 的研究。", "confidence": "high", "notes": ""}
@@ -52,10 +52,10 @@
 → {"text": "我了解，目前是以私人身份。", "confidence": "high", "notes": ""}
 
 373. OK, and of course, you're telling us-- and this is really interesting to me-- that the Ministry of Defense's project on UFOs lasted from 1953, which is essentially the same year close to when Project Blue Book in the United States started.
-→ {"text": "好的，你告訴我們——這對我來說非常有趣——國防部的 UFO 專案從1953年開始，這基本上與美國藍皮書計畫開始的時間相近。", "confidence": "high", "notes": "Project Blue Book → 藍皮書計畫"}
+→ {"text": "好的，你告訴我們——這對我來說非常有趣——英國國防部的 UFO 專案從 1953 年開始，這基本上與美國藍皮書計畫開始的時間相近。", "confidence": "high", "notes": ""}
 
 374. But you went all the way to 2009 in the UK with your project, although you don't have a fancy name for it, or any name for it.
-→ {"text": "但你們的專案一直持續到2009年，雖然你們沒有給它取什麼響亮的名字，或根本沒有名字。", "confidence": "high", "notes": ""}
+→ {"text": "但你們的專案一直持續到 2009 年，雖然你們沒有給它取什麼響亮的名字，或根本沒有名字。", "confidence": "high", "notes": ""}
 
 375. Am I right?
 → {"text": "我說得對嗎？", "confidence": "high", "notes": ""}
@@ -70,10 +70,10 @@
 → {"text": "好的，說得有理。", "confidence": "high", "notes": ""}
 
 379. But you collected-- you've investigated 12,000 sightings.
-→ {"text": "但你們收集了——調查了12,000起目擊事件。", "confidence": "high", "notes": ""}
+→ {"text": "但你們收集了——調查了 12,000 起目擊事件。", "confidence": "high", "notes": ""}
 
 380. And I guess it was 2007, or currently, at least, over 50,000 pages of documents have been sent to the archives for scholars like yourself and any other scholar here to be looking at.
-→ {"text": "我想是從2007年開始，或者至少到目前為止，已經有超過50,000頁的文件被送到檔案館，供像你這樣的學者以及這裡的其他學者查閱。", "confidence": "high", "notes": ""}
+→ {"text": "我想是從 2007 年開始，或者至少到目前為止，已經有超過 50,000 頁的文件被送到檔案館，供像你這樣的學者以及這裡的其他學者查閱。", "confidence": "high", "notes": ""}
 
 381. Am I correct?
 → {"text": "我說得對嗎？", "confidence": "high", "notes": ""}
@@ -127,16 +127,16 @@
 → {"text": "所以我一路追溯到最初的起源。", "confidence": "high", "notes": ""}
 
 398. And indeed, though the formal project started in 1953, we did have a look at some sightings on an ad hoc basis even before then.
-→ {"text": "確實，雖然正式專案始於1953年，但我們在那之前就已經以臨時方式調查過一些目擊事件。", "confidence": "high", "notes": ""}
+→ {"text": "確實，雖然正式專案始於 1953 年，但我們在那之前就已經以臨時方式調查過一些目擊事件。", "confidence": "high", "notes": ""}
 
 399. And indeed, we had some reports during the Second World War.
 → {"text": "而且確實，我們在二戰期間就有一些相關報告。", "confidence": "high", "notes": ""}
 
 400. At the time, the phrase "foo fighters" was used for these things, subsequently "ghost rockets."
-→ {"text": "當時，這些東西被稱為『幽靈戰鬥機（Foo Fighters）』，後來又稱為『幽靈火箭』。", "confidence": "high", "notes": "foo fighters → 幽靈戰鬥機（Foo Fighters），保留原文加註"}
+→ {"text": "當時，這些東西被稱為「UFO 光球（Foo Fighters）」，後來又稱為「幽靈火箭」。", "confidence": "high", "notes": "校稿：foo fighters 從本集詞彙表譯 UFO 光球；引號改「」"}
 
 401. And you described what you felt was the feeling of the MOD, at least when you were in the ministry, of giving some but low probability of ET origins to the UFOs that were studied.
-→ {"text": "你描述了你認為國防部的態度，至少當你在部裡的時候，對於所研究的 UFO 給予外星起源的可能性雖然存在但機率很低。", "confidence": "high", "notes": "MOD → 國防部"}
+→ {"text": "你描述了你認為英國國防部的態度，至少當你在部裡的時候，對於所研究的 UFO 給予外星起源的可能性雖然存在但機率很低。", "confidence": "high", "notes": ""}
 
 402. Am I correct in what you've testified to?
 → {"text": "我對你的證詞理解正確嗎？", "confidence": "high", "notes": ""}
@@ -148,7 +148,7 @@
 → {"text": "當然沒有人會質疑後果的嚴重性。", "confidence": "high", "notes": ""}
 
 405. Some might question low priority.
-→ {"text": "有些人可能會質疑其優先級低。", "confidence": "high", "notes": ""}
+→ {"text": "有些人可能會質疑其優先級低。", "confidence": "high", "notes": "原文 low priority 與前句 low probability 諧音雙關"}
 
 406. But was that their official position with all this work done?
 → {"text": "但在做了這麼多工作之後，這是他們的官方立場嗎？", "confidence": "high", "notes": ""}
@@ -193,7 +193,7 @@
 → {"text": "但我確實認為證據足以令人信服，這是一種可能性。", "confidence": "high", "notes": ""}
 
 420. I know, sir, that's a fancy way of saying I don't know.
-→ {"text": "先生，我知道這只是『我不知道』的一種委婉說法。", "confidence": "high", "notes": ""}
+→ {"text": "先生，我知道這只是「我不知道」的一種委婉說法。", "confidence": "high", "notes": ""}
 
 421. I apologize.
 → {"text": "我道歉。", "confidence": "high", "notes": ""}
@@ -205,13 +205,13 @@
 → {"text": "我還剩一分鐘。", "confidence": "high", "notes": ""}
 
 424. So I wanted to get to Grant Cameron.
-→ {"text": "所以我想提問 Grant Cameron。", "confidence": "high", "notes": ""}
+→ {"text": "所以我想提問格蘭特·卡麥隆。", "confidence": "high", "notes": "校稿：人名中譯，從主表定譯"}
 
 425. I'll be able to do that on the second round anyway.
 → {"text": "反正下一輪我還有機會提問他。", "confidence": "high", "notes": ""}
 
 426. But this 1950 Wilbert Smith thing is showing illumination on a question I brought up, I think, to you or to somebody yesterday on ET-- or I should say, let's use the word bodies.
-→ {"text": "但這份1950年 Wilbert Smith 的文件闡明了我昨天向你或其他人提出的一個問題，關於外星人——或者說，讓我們用『遺體』這個詞。", "confidence": "high", "notes": "Wilbert Smith 保留原文"}
+→ {"text": "但這份 1950 年威爾伯特·史密斯的文件闡明了我昨天向你或其他人提出的一個問題，關於外星人——或者說，讓我們用「遺體」這個詞。", "confidence": "high", "notes": "校稿：人名中譯；引號改「」"}
 
 427. Bodies-- witnesses talked about bodies concurrently with seeing those bodies.
 → {"text": "遺體——證人在看到那些遺體的同時就談論過它們。", "confidence": "high", "notes": ""}
@@ -220,25 +220,25 @@
 → {"text": "而且有文件記錄顯示他們當時就談論過，而不是很久之後。", "confidence": "high", "notes": ""}
 
 429. There was something about Wilbert Smith's-- I think it was Skully Book.
-→ {"text": "Wilbert Smith 的文件中有一些內容——我想是關於 Scully 的書。", "confidence": "high", "notes": "Skully 應為 Scully，Frank Scully 為1950年《Behind the Flying Saucers》作者"}
+→ {"text": "威爾伯特·史密斯的文件中有一些內容——我想是關於斯卡利的書。", "confidence": "high", "notes": "原文 Skully 應為 Scully（Frank Scully，《Behind the Flying Saucers》作者）；校稿：人名中譯"}
 
 430. Would you elaborate on that if you could?
 → {"text": "如果可以的話，能否詳細說明？", "confidence": "high", "notes": ""}
 
 431. I think the point that you were making yesterday was in one of the documents that says in the Project Magnet report that extraterrestrials was highly probable for the result.
-→ {"text": "我想你昨天提出的重點是其中一份文件，在 Project Magnet 報告中提到外星生物是極有可能的結果。", "confidence": "high", "notes": "Project Magnet 保留原文"}
+→ {"text": "我想你昨天提出的重點是其中一份文件，在磁鐵計畫（Project Magnet）報告中提到外星生物是極有可能的結果。", "confidence": "high", "notes": "校稿：Project Magnet 譯磁鐵計畫（威爾伯特·史密斯的加拿大飛碟研究計畫）"}
 
 432. And that's when you asked, is there any documents that actually refer to extraterrestrials rather than that it's confirmed?
 → {"text": "那時你問的是，是否有任何文件實際提到外星生物，而不僅僅是說這是已確認的事實？", "confidence": "high", "notes": ""}
 
 433. So what I have put forward is this idea that when the Canadians went to the Americans, the first question they asked was related to this Frank Skully book that was published in 1950.
-→ {"text": "所以我提出的觀點是，當加拿大人去找美國人時，他們問的第一個問題與這本1950年出版的 Frank Scully 的書有關。", "confidence": "high", "notes": "Frank Skully 應為 Frank Scully"}
+→ {"text": "所以我提出的觀點是，當加拿大人去找美國人時，他們問的第一個問題與這本 1950 年出版的弗蘭克·斯卡利（Frank Scully）的書有關。", "confidence": "high", "notes": "原文 Skully 應為 Scully；校稿：人名中譯"}
 
 434. This is when the interview took place.
 → {"text": "訪談就是在這個時候進行的。", "confidence": "high", "notes": ""}
 
 435. And the first question he asked is Skully's book about the crash of Aztec New Mexico, how much of that book is accurate?
-→ {"text": "他問的第一個問題是，Scully 那本關於新墨西哥州阿茲特克墜毀事件的書，有多少內容是準確的？", "confidence": "high", "notes": "Aztec 為新墨西哥州地名"}
+→ {"text": "他問的第一個問題是，斯卡利那本關於新墨西哥州阿茲特克墜毀事件的書，有多少內容是準確的？", "confidence": "high", "notes": "原文 Skully 應為 Scully"}
 
 436. And that's when he says the vast majority of the material is accurate.
 → {"text": "而那時他說絕大部分內容是準確的。", "confidence": "high", "notes": ""}
@@ -256,16 +256,16 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 441. Let's go to Congresswoman Kilpatrick.
-→ {"text": "接下來請 Kilpatrick 議員提問。", "confidence": "high", "notes": ""}
+→ {"text": "接下來請基爾派翠克眾議員提問。", "confidence": "high", "notes": "校稿：Kilpatrick 中譯，從 UFO-10/14 先例"}
 
 442. Thank you, Madam Chair.
 → {"text": "謝謝主席女士。", "confidence": "high", "notes": ""}
 
 443. I think I want to start first with Mr. Pinotti, if I'm pronouncing that correctly.
-→ {"text": "我想先從 Pinotti 先生開始，如果我的發音正確的話。", "confidence": "high", "notes": ""}
+→ {"text": "我想先從皮諾蒂先生開始，如果我的發音正確的話。", "confidence": "high", "notes": "校稿：人名中譯；原文已是正確拼寫，topics.json 原 Pernati 紀錄失效"}
 
 444. Is the Vatican included in Italy's deception?
-→ {"text": "梵蒂岡是否包含在意大利的調查範圍內？", "confidence": "high", "notes": "deception 應為 perception 或 investigation 之誤，依語境譯為『調查』"}
+→ {"text": "梵蒂岡是否包含在義大利的調查範圍內？", "confidence": "medium", "notes": "原文 deception 疑為 perception 或 investigation 之誤聽，依語境譯為調查"}
 
 445. I know they're separate unto the country.
 → {"text": "我知道他們是獨立於國家的實體。", "confidence": "high", "notes": ""}
@@ -280,16 +280,16 @@
 → {"text": "有的。", "confidence": "high", "notes": ""}
 
 449. Consider that recently, even the official term unidentified flying objects was formally translated into Latin, res inexplicate volantes, which means exactly the same thing in the old Latin tongue.
-→ {"text": "請考慮到，最近即使是『不明飛行物』這個官方術語也被正式翻譯成拉丁文 res inexplicate volantes，在古老的拉丁語中意思完全相同。", "confidence": "high", "notes": "res inexplicate volantes 保留拉丁原文"}
+→ {"text": "請考慮到，最近即使是「不明飛行物」這個官方術語也被正式翻譯成拉丁文 res inexplicate volantes，在古老的拉丁語中意思完全相同。", "confidence": "high", "notes": "res inexplicate volantes 保留拉丁原文；校稿：引號改「」"}
 
 450. This was made surely because there is a definite approach in the Vatican.
 → {"text": "這樣做肯定是因為梵蒂岡對此有明確的態度。", "confidence": "high", "notes": ""}
 
 451. And according to my personal opinion and to what I happened to see, well, everything began probably in 1952.
-→ {"text": "根據我個人的觀點以及我碰巧看到的資料，嗯，一切可能始於1952年。", "confidence": "high", "notes": ""}
+→ {"text": "根據我個人的觀點以及我碰巧看到的資料，嗯，一切可能始於 1952 年。", "confidence": "high", "notes": ""}
 
 452. Mr. Pernati.
-→ {"text": "Pernati 先生。", "confidence": "high", "notes": "應為 Pinotti，主席誤讀名字"}
+→ {"text": "皮諾蒂先生。", "confidence": "high", "notes": "原文 Pernati 應為 Pinotti（主席誤讀），已補錄 topics.json"}
 
 453. Yes.
 → {"text": "是。", "confidence": "high", "notes": ""}
@@ -307,7 +307,7 @@
 → {"text": "我們還會再回來提問。", "confidence": "high", "notes": ""}
 
 458. In 1952, we had-- No, sorry, I mean, wait, you have to wait a minute.
-→ {"text": "1952年，我們有——不，抱歉，我是說，等一下，你得等一下。", "confidence": "high", "notes": ""}
+→ {"text": "1952 年，我們有——不，抱歉，我是說，等一下，你得等一下。", "confidence": "high", "notes": ""}
 
 459. OK, OK.
 → {"text": "好的，好的。", "confidence": "high", "notes": ""}
@@ -322,10 +322,10 @@
 → {"text": "主席女士幫個忙，因為我想用一個問題問到所有人。", "confidence": "high", "notes": ""}
 
 463. And I'm just trying to find-- we had 10 different countries today, 11 counting Russia and 12 if we count Vatican.
-→ {"text": "我只是想確認——今天我們有10個不同的國家，算上俄羅斯是11個，如果算上梵蒂岡就是12個。", "confidence": "high", "notes": ""}
+→ {"text": "我只是想確認——今天我們有 10 個不同的國家，算上俄羅斯是 11 個，如果算上梵蒂岡就是 12 個。", "confidence": "high", "notes": ""}
 
 464. So what I was trying to-- The Vatican is absolutely open to this subject because recently, the director of Specula Vaticana, which is the official astronomical observatory of the Vatican, said not only that surely UFOs exist, but they have to exist because otherwise, this would be contradictory to the doctrine of the church, of the creation of the power of God's creation.
-→ {"text": "所以我想要——梵蒂岡對這個議題完全持開放態度，因為最近 Specula Vaticana（梵蒂岡天文台）的主任表示，不僅 UFO 確實存在，而且它們必須存在，因為否則這將與教會的教義、上帝創造萬能的教義相矛盾。", "confidence": "high", "notes": "Specula Vaticana 保留拉丁原文"}
+→ {"text": "所以我想要——梵蒂岡對這個議題完全持開放態度，因為最近 Specula Vaticana（梵蒂岡天文台）的主任表示，不僅 UFO 確實存在，而且它們必須存在，因為否則這將與教會的教義、上帝創造萬能的教義相矛盾。", "confidence": "high", "notes": "Specula Vaticana 保留拉丁原文（正式寫法 Specola Vaticana）"}
 
 465. In other words, we have to meet in the future aliens, and we must consider them as our brothers.
 → {"text": "換句話說，我們未來必須與外星人見面，而且我們必須視他們為我們的兄弟。", "confidence": "high", "notes": ""}
@@ -334,7 +334,7 @@
 → {"text": "這正是梵蒂岡官方報紙所寫的內容。", "confidence": "high", "notes": ""}
 
 467. OK, thank you, Mr. Pananti.
-→ {"text": "好的，謝謝你，Pananti 先生。", "confidence": "high", "notes": "應為 Pinotti，主席再次誤讀"}
+→ {"text": "好的，謝謝你，皮諾蒂先生。", "confidence": "high", "notes": "原文 Pananti 應為 Pinotti（主席再次誤讀），已補錄 topics.json"}
 
 468. Thank you very much, sir.
 → {"text": "非常感謝你，先生。", "confidence": "high", "notes": ""}
@@ -352,7 +352,7 @@
 → {"text": "感謝你們所有人以及你們的所有經驗，我很感謝你們所有的證詞。", "confidence": "high", "notes": ""}
 
 473. Again, we've heard from 12 different countries today, and that's just an international phenomenon.
-→ {"text": "再次強調，今天我們聽取了來自12個不同國家的證詞，這確實是一個國際現象。", "confidence": "high", "notes": ""}
+→ {"text": "再次強調，今天我們聽取了來自 12 個不同國家的證詞，這確實是一個國際現象。", "confidence": "high", "notes": ""}
 
 474. One question I want to ask, do any of your countries have any relationship with the United States government, any NGOs here, or any nonprofits, where they would get all of your information or some of your information or come and get whatever you got?
 → {"text": "我想問一個問題，你們的國家是否與美國政府、這裡的任何非政府組織或任何非營利組織有任何關係，他們會取得你們所有的資訊或部分資訊，或者來獲取你們所擁有的任何資料？", "confidence": "high", "notes": ""}
@@ -361,7 +361,7 @@
 → {"text": "你們在這個議題上與美國有互動嗎？他們擁有你們多年來收集的一些資料嗎？", "confidence": "high", "notes": ""}
 
 476. Let me start with you, Mr. Huneeus.
-→ {"text": "讓我從你開始，Huneeus 先生。", "confidence": "high", "notes": ""}
+→ {"text": "讓我從你開始，胡尼烏斯先生。", "confidence": "high", "notes": "校稿：人名中譯，從 UFO-02 定譯；原文已是正確拼寫，topics.json 原 Hucsini 紀錄失效"}
 
 477. Well, the answer is I'm just reporting on the history of France and Russia, but I'm not their spokesman.
 → {"text": "嗯，答案是我只是報告法國和俄羅斯的歷史，但我不是他們的發言人。", "confidence": "high", "notes": ""}
@@ -379,7 +379,7 @@
 → {"text": "我想像俄羅斯人和美國人在這個問題上有一些對話，但這只是假設。", "confidence": "high", "notes": ""}
 
 482. But no, to your knowledge, nothing where Russia may have had an incident, and the US came and got some of their-- Well, I mean, even from that clause of the nuclear thing, you know, I mean, I think there's some incidents where they must have some connections, but it certainly wouldn't be public.
-→ {"text": "但就你所知，沒有俄羅斯發生過什麼事件，然後美國來取得他們的一些——嗯，我是說，即使是從核武器那件事的條款來看，你知道，我是說，我認為有些事件他們一定有些聯繫，但這肯定不會公開。", "confidence": "high", "notes": ""}
+→ {"text": "但就你所知，沒有俄羅斯發生過什麼事件，然後美國來取得他們的一些——嗯，我是說，即使是從核武那件事的條款來看，你知道，我是說，我認為有些事件他們一定有些聯繫，但這肯定不會公開。", "confidence": "high", "notes": "校稿：核武器改核武"}
 
 483. The French, as you know, from your days in Congress, are pretty independent on their way of thinking.
 → {"text": "如你所知，從你在國會的日子起，法國人在思維方式上相當獨立。", "confidence": "high", "notes": ""}
@@ -415,10 +415,10 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 494. Mr. Paul.
-→ {"text": "Paul 先生。", "confidence": "high", "notes": "應為 Pope，主席誤讀"}
+→ {"text": "波普先生。", "confidence": "high", "notes": "原文 Mr. Paul 應為 Mr. Pope（主席誤讀），已補錄 topics.json"}
 
 495. Ma'am, there was some limited liaison between the USAAF Project Blue Book and the Ministry of Defense right up until Blue Book was terminated.
-→ {"text": "女士，在美國陸軍航空軍藍皮書計畫與國防部之間確實有一些有限的聯繫，一直持續到藍皮書計畫終止為止。", "confidence": "high", "notes": "USAAF → 美國陸軍航空軍"}
+→ {"text": "女士，在美國陸軍航空軍藍皮書計畫與英國國防部之間確實有一些有限的聯繫，一直持續到藍皮書計畫終止為止。", "confidence": "high", "notes": ""}
 
 496. Beyond that, I'm not aware of anything other than ad hoc liaison.
 → {"text": "除此之外，據我所知只有臨時性的聯繫。", "confidence": "high", "notes": ""}
@@ -442,19 +442,19 @@
 → {"text": "而且我認為藍皮書計畫的一些人員曾經偶爾來訪。", "confidence": "high", "notes": ""}
 
 503. And indeed, you heard the testimony of General Gabrielle, of course, coming in and taking items relating to Rendlesham.
-→ {"text": "確實，你們當然聽過 Gabrielle 將軍的證詞，他來取走與倫德爾沙姆森林事件相關的物品。", "confidence": "high", "notes": "Rendlesham → 倫德爾沙姆森林事件"}
+→ {"text": "確實，你們當然聽過蓋博上將（General Gabriel）的證詞，他來取走與藍道申森林事件相關的物品。", "confidence": "high", "notes": "校稿：原文 Gabrielle 應為 Gabriel（Charles A. Gabriel，主表定譯蓋博上將，UFO-06），已補錄 topics.json；倫德爾沙姆改藍道申"}
 
 504. OK, thank you very much.
 → {"text": "好的，非常感謝。", "confidence": "high", "notes": ""}
 
 505. Mr. Cameron, in Canada.
-→ {"text": "Cameron 先生，關於加拿大。", "confidence": "high", "notes": ""}
+→ {"text": "卡麥隆先生，關於加拿大。", "confidence": "high", "notes": "校稿：人名中譯"}
 
 506. The Canadians, since 1954, have been completely silent on the subject.
-→ {"text": "自1954年以來，加拿大人對這個議題完全保持沉默。", "confidence": "high", "notes": ""}
+→ {"text": "自 1954 年以來，加拿大人對這個議題完全保持沉默。", "confidence": "high", "notes": ""}
 
 507. But I would imagine, based on the very close relationship between Canada and the United States, especially with regards to NATO, that discussions are taking place at some level, interacting material.
-→ {"text": "但基於加拿大與美國之間非常密切的關係，特別是關於北約，我想像在某個層面上正在進行討論，交換資料。", "confidence": "high", "notes": "NATO → 北約"}
+→ {"text": "但基於加拿大與美國之間非常密切的關係，特別是關於北約，我想像在某個層面上正在進行討論，交換資料。", "confidence": "high", "notes": ""}
 
 508. But the Canadians are absolutely quiet.
 → {"text": "但加拿大人絕對保持沉默。", "confidence": "high", "notes": ""}
@@ -466,7 +466,7 @@
 → {"text": "美國政府洩漏了很多資料。", "confidence": "high", "notes": ""}
 
 511. The Canadian governments have said nothing since 1954.
-→ {"text": "自1954年以來，加拿大政府什麼都沒說。", "confidence": "high", "notes": ""}
+→ {"text": "自 1954 年以來，加拿大政府什麼都沒說。", "confidence": "high", "notes": ""}
 
 512. OK, unlike what we heard this morning, US, in some instances, actually went to those countries and gathered the particles, the information.
 → {"text": "好的，與我們今天早上聽到的不同，美國在某些情況下確實去了那些國家收集碎片和資訊。", "confidence": "high", "notes": ""}
@@ -499,19 +499,19 @@
 → {"text": "我會給你時間講。", "confidence": "high", "notes": ""}
 
 522. Mr. Shili, would you comment on that, China and the US?
-→ {"text": "Shili 先生，你能否就此發表評論，關於中國和美國？", "confidence": "high", "notes": ""}
+→ {"text": "孫式立先生，你能否就此發表評論，關於中國和美國？", "confidence": "high", "notes": "校稿：中國證人本名中譯；原文已是正確拼寫，topics.json 原 Shelley 紀錄失效"}
 
 523. Does China share anything with our government, with an NGO in America, or a nonprofit as it relates to your findings?
 → {"text": "中國是否與我們的政府、美國的非政府組織或非營利組織分享任何與你們發現相關的資訊？", "confidence": "high", "notes": ""}
 
 524. And I love your testimony, by the way. 500 years and up, that's outstanding and still standing, and the economic engine of the world.
-→ {"text": "順便一提，我很喜歡你的證詞。500年及以上的歷史，這是傑出且延續至今的，而且是世界的經濟引擎。", "confidence": "high", "notes": ""}
+→ {"text": "順便一提，我很喜歡你的證詞。500 年及以上的歷史，這是傑出且延續至今的，而且是世界的經濟引擎。", "confidence": "high", "notes": ""}
 
 525. Tell me, does China share on this phenomenon, on the extraterrestrial UFO phenomenon with the US at all?
 → {"text": "告訴我，中國是否在這個現象上，在外星 UFO 現象上與美國有任何分享？", "confidence": "high", "notes": ""}
 
 526. Well, on this, we have some exchanges in the non-governmental area, for example, with the Rockefeller Foundation.
-→ {"text": "嗯，在這方面，我們在非政府領域有一些交流，例如與洛克菲勒基金會。", "confidence": "high", "notes": "Rockefeller Foundation → 洛克菲勒基金會"}
+→ {"text": "嗯，在這方面，我們在非政府領域有一些交流，例如與洛克菲勒基金會。", "confidence": "high", "notes": ""}
 
 527. Several times, they have come to me, and we have conducted a high-level, a trilateral meeting that involves Americans, Russians, and Chinese on the UFO issue.
 → {"text": "他們曾多次來找我，我們舉行過高層級的三方會議，涉及美國人、俄羅斯人和中國人討論 UFO 議題。", "confidence": "high", "notes": ""}
@@ -577,13 +577,13 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 548. [APPLAUSE] Thank you.
-→ {"text": "【掌聲】謝謝。", "confidence": "high", "notes": ""}
+→ {"text": "（掌聲）謝謝。", "confidence": "high", "notes": "校稿：掌聲標記改全形括號"}
 
 549. Mr. Penati, would you give us some actual examples and experiences that you learned and experienced during your many years and total involvement with these issues?
-→ {"text": "Penati 先生，能否給我們一些實際的例子和經驗，關於你多年來在這些議題上所學到和經歷的？", "confidence": "high", "notes": "應為 Pinotti"}
+→ {"text": "皮諾蒂先生，能否給我們一些實際的例子和經驗，關於你多年來在這些議題上所學到和經歷的？", "confidence": "high", "notes": "原文 Penati 應為 Pinotti，已補錄 topics.json"}
 
 550. My experience is both of private nature and also from the standpoint of officiality, because I could consult also the Italian Air Force Archives.
-→ {"text": "我的經驗既有私人性質的，也有官方立場的，因為我也可以查閱意大利空軍檔案。", "confidence": "high", "notes": ""}
+→ {"text": "我的經驗既有私人性質的，也有官方立場的，因為我也可以查閱義大利空軍檔案。", "confidence": "high", "notes": ""}
 
 551. OK, excuse me.
 → {"text": "好的，抱歉。", "confidence": "high", "notes": ""}
@@ -604,13 +604,13 @@
 → {"text": "例如，舉幾個例子，我們可以提到——這也可能與前一個問題有關。", "confidence": "high", "notes": ""}
 
 557. For instance, in 1954, we had a big wave in Italy.
-→ {"text": "例如，1954年，意大利發生了一大波目擊潮。", "confidence": "high", "notes": ""}
+→ {"text": "例如，1954 年，義大利發生了一大波目擊潮。", "confidence": "high", "notes": ""}
 
 558. And even the ambassador of the United States in Rome was present at one of these phenomena, for instance.
 → {"text": "例如，甚至美國駐羅馬大使也親眼目睹了其中一個現象。", "confidence": "high", "notes": ""}
 
 559. In 1978, we had the biggest wave, more than 2,000 cases.
-→ {"text": "1978年，我們經歷了最大的一波目擊潮，超過2,000起案例。", "confidence": "high", "notes": ""}
+→ {"text": "1978 年，我們經歷了最大的一波目擊潮，超過 2,000 起案例。", "confidence": "high", "notes": ""}
 
 560. And in these cases, we had absolutely the landing, the sightings, rather cases of objects.
 → {"text": "在這些案例中，我們絕對有著陸事件，目擊事件，或者說是物體的案例。", "confidence": "high", "notes": ""}
@@ -619,7 +619,7 @@
 → {"text": "它們是帶有圓頂的圓形物體。", "confidence": "high", "notes": ""}
 
 562. And in different cases, we had also antities on the ground.
-→ {"text": "而且在不同的案例中，我們在地面上也有實體。", "confidence": "high", "notes": "antities 應為 entities（實體）之誤"}
+→ {"text": "而且在不同的案例中，我們在地面上也有實體。", "confidence": "high", "notes": "原文 antities 應為 entities（實體），已補錄 topics.json"}
 
 563. There are both close encounters of the second kind cases and also of this type.
 → {"text": "這些既有第二類近距離接觸案例，也有這種類型的案例。", "confidence": "high", "notes": ""}
@@ -631,19 +631,19 @@
 → {"text": "換句話說，在許多案例中，我們看到相同類型的事件，某種特定形狀的確定飛行器，幾個乘員，以及許多可能相互關聯的現象。", "confidence": "high", "notes": ""}
 
 566. Besides, for instance, the Italian Air Force in different occasions had really the close encounters with fighters and UFOs in the skies of Italy, since 1966 to 1978, for instance.
-→ {"text": "此外，例如，意大利空軍在不同場合確實與戰鬥機和 UFO 在意大利上空有過近距離接觸，例如從1966年到1978年。", "confidence": "high", "notes": ""}
+→ {"text": "此外，例如，義大利空軍在不同場合確實與戰鬥機和 UFO 在義大利上空有過近距離接觸，例如從 1966 年到 1978 年。", "confidence": "high", "notes": ""}
 
 567. There is also a photograph of one of these objects made by a Fiat G91 fighter Italian plane.
-→ {"text": "還有一張由意大利 Fiat G91 戰鬥機拍攝的這些物體之一的照片。", "confidence": "high", "notes": "Fiat G91 保留原文"}
+→ {"text": "還有一張由義大利 Fiat G91 戰鬥機拍攝的這些物體之一的照片。", "confidence": "high", "notes": ""}
 
 568. In other words, we have a lot of materials in this 400 cases filed in the Italian Air Force archives, not only UFOs in the real sense of the word, but also unidentified submerged objects, too.
-→ {"text": "換句話說，我們在意大利空軍檔案館歸檔的這400個案例中有很多資料，不僅有真正意義上的 UFO，還有不明潛水物體。", "confidence": "high", "notes": ""}
+→ {"text": "換句話說，我們在義大利空軍檔案館歸檔的這 400 個案例中有很多資料，不僅有真正意義上的 UFO，還有不明潛水物體。", "confidence": "high", "notes": ""}
 
 569. Because don't forget that UFOs do not fly in the real sense of the word, but they may also interact with the hydrosphere.
 → {"text": "因為別忘了，UFO 並不是真正意義上的飛行，它們也可能與水圈互動。", "confidence": "high", "notes": ""}
 
 570. And Italy has five seas.
-→ {"text": "而且意大利有五個海域。", "confidence": "high", "notes": ""}
+→ {"text": "而且義大利有五個海域。", "confidence": "high", "notes": ""}
 
 571. And so there are many, many cases in which these objects entered the water and took off from the water.
 → {"text": "所以有很多很多案例是這些物體進入水中並從水中起飛。", "confidence": "high", "notes": ""}
@@ -658,7 +658,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 575. Mr. Pope, you say that in 2007, the MOD made a policy decision to declassify and release its entire archive of UFO files.
-→ {"text": "Pope 先生，你說2007年國防部做出了一項政策決定，解密並公開其所有 UFO 檔案。", "confidence": "high", "notes": ""}
+→ {"text": "波普先生，你說 2007 年英國國防部做出了一項政策決定，解密並公開其所有 UFO 檔案。", "confidence": "high", "notes": "校稿：人名中譯"}
 
 576. How did the public respond?
 → {"text": "公眾如何反應？", "confidence": "high", "notes": ""}
@@ -700,13 +700,13 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 589. Next, we have Representative Bartlett.
-→ {"text": "接下來是 Bartlett 議員。", "confidence": "high", "notes": ""}
+→ {"text": "接下來是巴特利特眾議員。", "confidence": "high", "notes": "校稿：Bartlett 中譯，從主表定譯"}
 
 590. I didn't know your name.
 → {"text": "我不知道你的名字。", "confidence": "high", "notes": ""}
 
 591. [LAUGHTER] Is there a global website that people can go to, or do you have to go to a lot of individual ones?
-→ {"text": "【笑聲】有沒有一個全球性的網站可以讓人們去查詢，還是你必須去很多個別的網站？", "confidence": "high", "notes": ""}
+→ {"text": "（笑聲）有沒有一個全球性的網站可以讓人們去查詢，還是你必須去很多個別的網站？", "confidence": "high", "notes": "校稿：音效標記改全形括號"}
 
 592. There's no master link that can tie you into all this stuff?
 → {"text": "沒有一個主要的連結可以讓你連結到所有這些資料嗎？", "confidence": "high", "notes": ""}
@@ -715,28 +715,28 @@
 → {"text": "好的，謝謝。", "confidence": "high", "notes": ""}
 
 594. Mr. Panetti, you mentioned you investigated Roswell.
-→ {"text": "Panetti 先生，你提到你調查過羅斯威爾事件。", "confidence": "high", "notes": "應為 Pinotti"}
+→ {"text": "皮諾蒂先生，你提到你調查過羅斯威爾事件。", "confidence": "high", "notes": "原文 Panetti 應為 Pinotti，已補錄 topics.json"}
 
 595. What does that mean, and what did you conclude?
 → {"text": "那是什麼意思，你的結論是什麼？", "confidence": "high", "notes": ""}
 
 596. Simply, I was here in the States in 1991 when these cases were absolutely not known like today.
-→ {"text": "簡單來說，1991年我在美國的時候，這些案例完全不為人知，不像今天這樣。", "confidence": "high", "notes": ""}
+→ {"text": "簡單來說，1991 年我在美國的時候，這些案例完全不為人知，不像今天這樣。", "confidence": "high", "notes": ""}
 
 597. And I succeeded, when they還在世時，to contact some of the witnesses.
-→ {"text": "我成功在他們還在世時聯繫到一些證人。", "confidence": "high", "notes": ""}
+→ {"text": "我成功在他們還在世時聯繫到一些證人。", "confidence": "high", "notes": "草稿原文行混入中文，main.yaml 原文正確（when they were still alive），譯文不受影響"}
 
 598. For instance, the former lieutenant Hoth, just to make an example.
-→ {"text": "例如，前中尉 Hoth，舉個例子。", "confidence": "high", "notes": ""}
+→ {"text": "例如，前中尉豪特（Haut），舉個例子。", "confidence": "high", "notes": "原文 Hoth 應為 Haut（Walter Haut，羅斯威爾事件時任基地新聞官），已補錄 topics.json"}
 
 599. And other people, Dennis Stacey and so on.
-→ {"text": "還有其他人，Dennis Stacey 等等。", "confidence": "high", "notes": ""}
+→ {"text": "還有其他人，丹尼斯·斯泰西（Dennis Stacey）等等。", "confidence": "high", "notes": "校稿：人名中譯"}
 
 600. Besides, there were other links.
 → {"text": "此外，還有其他關聯。", "confidence": "high", "notes": ""}
 
 601. You surely know the case of Colonel Philip Corso and all the story.
-→ {"text": "你們肯定知道 Philip Corso 上校的案例和整個故事。", "confidence": "high", "notes": "Philip Corso 保留原文"}
+→ {"text": "你們肯定知道菲利普·科索（Philip Corso）上校的案例和整個故事。", "confidence": "high", "notes": "校稿：人名中譯，與 topic_02 統一"}
 
 602. And what did you conclude?
 → {"text": "你的結論是什麼？", "confidence": "high", "notes": ""}
@@ -775,7 +775,7 @@
 → {"text": "此外，有一件非常有趣的事情是這樣的。", "confidence": "high", "notes": ""}
 
 614. When I was a military in 1971 and '72, and I was in Italy for the Netto Third Mysill Brigade, I had a uniform, of course.
-→ {"text": "當我在1971年和1972年服役時，我在意大利的 Netto 第三 Mysill 旅，當然我有制服。", "confidence": "medium", "notes": "Netto Third Mysill Brigade 應為 Nike-Hercules 3rd Missile Brigade（勝利女神-力士第三飛彈旅），依 topics.json 校正"}
+→ {"text": "當我在 1971 年和 1972 年服役時，我在義大利的勝利女神-力士第三飛彈旅（Nike-Hercules 3rd Missile Brigade），當然我有制服。", "confidence": "high", "notes": "原文 Netto Third Mysill Brigade 為 Nike-Hercules 3rd Missile Brigade 之誤聽（同 seg 31），已補錄 topics.json"}
 
 615. And on that occasion, I was ordered to prepare a lecture for my unit.
 → {"text": "在那個場合，我被命令為我的單位準備一場演講。", "confidence": "high", "notes": ""}
@@ -784,10 +784,10 @@
 → {"text": "我照做了。", "confidence": "high", "notes": ""}
 
 617. Well, I was in touch also with an American artillery captain, because in that period, of course, in Netto, we were all together.
-→ {"text": "嗯，我還與一位美國砲兵上尉有聯繫，因為在那個時期，當然，在 Netto，我們都在一起。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，我還與一位美國砲兵上尉有聯繫，因為在那個時期，當然，在勝利女神-力士旅，我們都在一起。", "confidence": "high", "notes": "原文 Netto 同 seg 614 誤聽（Nike 飛彈旅駐地）"}
 
 618. And he came and told me, oh, Lieutenant Pinotti, I know you are preparing this interesting lecture.
-→ {"text": "他來告訴我，哦，Pinotti 中尉，我知道你在準備這場有趣的演講。", "confidence": "high", "notes": ""}
+→ {"text": "他來告訴我，哦，皮諾蒂中尉，我知道你在準備這場有趣的演講。", "confidence": "high", "notes": "校稿：人名中譯"}
 
 619. OK.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -796,10 +796,10 @@
 → {"text": "你知道，在美國，我們有墜毀的物體，甚至還有飛行員的遺體。", "confidence": "high", "notes": ""}
 
 621. Well, you can understand that in 1971 and 1972, we knew that all this were rubbish, that all this did not exist.
-→ {"text": "嗯，你可以理解，在1971年和1972年，我們知道所有這些都是垃圾，所有這些都不存在。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，你可以理解，在 1971 年和 1972 年，我們知道所有這些都是無稽之談，所有這些都不存在。", "confidence": "high", "notes": "校稿：rubbish 譯無稽之談（較「垃圾」更貼近語境）"}
 
 622. Only the Scully cases were known and was considered not in a positive way.
-→ {"text": "只有 Scully 的案例為人所知，而且被認為不是正面的。", "confidence": "high", "notes": ""}
+→ {"text": "只有斯卡利的案例為人所知，而且被認為不是正面的。", "confidence": "high", "notes": "校稿：Scully 中譯斯卡利"}
 
 623. So frankly, at that time, I thought that this guy was out of mind.
 → {"text": "所以坦白說，那時我認為這傢伙瘋了。", "confidence": "high", "notes": ""}
@@ -811,7 +811,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 626. Mr. Schille, you said that a cover-up was unacceptable.
-→ {"text": "Schille 先生，你說真相掩蓋是不可接受的。", "confidence": "high", "notes": "應為 Shili"}
+→ {"text": "孫式立先生，你說真相掩蓋是不可接受的。", "confidence": "high", "notes": "原文 Schille 應為 Shili，已補錄 topics.json"}
 
 627. Unacceptable to your organization?
 → {"text": "對你的組織來說不可接受？", "confidence": "high", "notes": ""}
@@ -880,10 +880,10 @@
 → {"text": "謝謝，謝謝。", "confidence": "high", "notes": ""}
 
 649. Mr. Cameron.
-→ {"text": "Cameron 先生。", "confidence": "high", "notes": ""}
+→ {"text": "卡麥隆先生。", "confidence": "high", "notes": "校稿：人名中譯"}
 
 650. Excuse me, you have 30 seconds. 30 seconds.
-→ {"text": "抱歉，你還有30秒。30秒。", "confidence": "high", "notes": ""}
+→ {"text": "抱歉，你還有 30 秒。30 秒。", "confidence": "high", "notes": ""}
 
 651. I saw the sign.
 → {"text": "我看到標示了。", "confidence": "high", "notes": ""}
@@ -907,7 +907,7 @@
 → {"text": "比喻性的。", "confidence": "high", "notes": ""}
 
 658. When I asked the medallurgist how much they handled, he just said tons of it.
-→ {"text": "當我問那位冶金學家他們處理了多少時，他只是說成噸的。", "confidence": "high", "notes": "medallurgist 應為 metallurgist（冶金學家）"}
+→ {"text": "當我問那位冶金學家他們處理了多少時，他只是說成噸的。", "confidence": "high", "notes": "原文 medallurgist 應為 metallurgist（冶金學家），已補錄 topics.json"}
 
 659. I mean, they had to handle a lot of material.
 → {"text": "我是說，他們必須處理大量材料。", "confidence": "high", "notes": ""}
@@ -919,7 +919,7 @@
 → {"text": "他的兒子講了很多關於看到箱子、車輛來來往往、軍車運送材料的故事。", "confidence": "high", "notes": ""}
 
 662. There's a lot of discussion about material coming to Wilbur Smith for analysis in Canada.
-→ {"text": "有很多關於材料送到 Wilbur Smith 在加拿大進行分析的討論。", "confidence": "high", "notes": "Wilbur Smith 應為 Wilbert Smith"}
+→ {"text": "有很多關於材料送到威爾伯特·史密斯在加拿大進行分析的討論。", "confidence": "high", "notes": "原文 Wilbur 應為 Wilbert（Smith），已補錄 topics.json"}
 
 663. The sign says my time is up.
 → {"text": "標示說我的時間到了。", "confidence": "high", "notes": ""}
@@ -943,7 +943,7 @@
 → {"text": "我是說，有沒有某種比例，或者大多數都沒有什麼所謂的駕駛員在駕駛？", "confidence": "high", "notes": ""}
 
 670. Because that's how far my想像力 goes.
-→ {"text": "因為我的想像力只到那個程度。", "confidence": "high", "notes": ""}
+→ {"text": "因為我的想像力只到那個程度。", "confidence": "high", "notes": "草稿原文行混入中文，main.yaml 原文正確（my imagination goes），譯文不受影響"}
 
 671. That's a really good question.
 → {"text": "這真的是一個好問題。", "confidence": "high", "notes": ""}
@@ -952,7 +952,7 @@
 → {"text": "我們不知道。", "confidence": "high", "notes": ""}
 
 673. Because Dr. Heineck, who was the famous advisor for Blue Book, who later became very pro-euphology, well, he came up with the term close encounters of the third kind for those cases where, besides the UFO, occupants were seen.
-→ {"text": "因為 Heineck 博士，他是藍皮書計畫著名的顧問，後來非常支持幽浮學，嗯，他提出了『第三類接觸』這個術語，用於那些除了 UFO 之外還看到乘員的案例。", "confidence": "high", "notes": "Dr. Heineck 應為 Dr. Hynek（海尼克博士），pro-euphology 應為 pro-ufology；close encounters of the third kind → 第三類接觸"}
+→ {"text": "因為 J·艾倫·海尼克博士（Dr. Hynek）——他是藍皮書計畫著名的顧問，後來非常支持 UFO 學——嗯，他提出了「第三類接觸」這個術語，用於那些除了 UFO 之外還看到乘員的案例。", "confidence": "high", "notes": "原文 Heineck 應為 Hynek、pro-euphology 應為 pro-ufology（UFO-11 同一誤聽先例），已補錄 topics.json；引號改「」"}
 
 674. This could be that sometimes if you are close enough to the object, you may even see an occupant inside the porthole or something.
 → {"text": "這可能是因為有時如果你離物體夠近，你甚至可能看到舷窗內的乘員之類的。", "confidence": "high", "notes": ""}
@@ -970,16 +970,16 @@
 → {"text": "然後從大型物體中，出來小型探測器。", "confidence": "high", "notes": ""}
 
 679. And those seem to be remotely piloted vehicles, kind of early versions of what today we call drones.
-→ {"text": "而那些似乎是遙控載具，有點像今天我們所謂無人機的早期版本。", "confidence": "high", "notes": "remotely piloted vehicles → 遙控載具"}
+→ {"text": "而那些似乎是遙控載具，有點像今天我們所謂無人機的早期版本。", "confidence": "high", "notes": ""}
 
 680. But these are reported as far back as the '50s or something when certainly the Americans or the Russians or whatever did not have access to this kind of technology.
-→ {"text": "但這些報告可以追溯到50年代或更早，當時美國人或俄羅斯人或任何人肯定都沒有這種技術。", "confidence": "high", "notes": ""}
+→ {"text": "但這些報告可以追溯到 1950 年代或更早，當時美國人或俄羅斯人或任何人肯定都沒有這種技術。", "confidence": "high", "notes": ""}
 
 681. I mean, this whole thing about unmanned vehicles is fairly recent.
 → {"text": "我是說，這整個關於無人載具的事情是相當近期的。", "confidence": "high", "notes": ""}
 
 682. I think it goes back to maybe the '70s for the first.
-→ {"text": "我想最早可能追溯到70年代。", "confidence": "high", "notes": ""}
+→ {"text": "我想最早可能追溯到 1970 年代。", "confidence": "high", "notes": ""}
 
 683. So there is no way of knowing.
 → {"text": "所以沒有辦法知道。", "confidence": "high", "notes": ""}
@@ -991,13 +991,13 @@
 → {"text": "但確切的統計數字，由於距離的關係，沒有辦法知道。", "confidence": "high", "notes": ""}
 
 686. Nick, do you have anything to add?
-→ {"text": "Nick，你有什麼要補充的嗎？", "confidence": "high", "notes": ""}
+→ {"text": "尼克，你有什麼要補充的嗎？", "confidence": "high", "notes": "校稿：人名中譯"}
 
 687. Madam Chair, of the roundabout 12,000 UFO reports that MOD received in the time of the UFO project, only perhaps a few dozen involve the sighting of any entities.
-→ {"text": "主席女士，在 UFO 專案期間國防部收到的約12,000份 UFO 報告中，只有幾十份涉及任何實體的目擊。", "confidence": "high", "notes": ""}
+→ {"text": "主席女士，在 UFO 專案期間英國國防部收到的約 12,000 份 UFO 報告中，只有幾十份涉及任何實體的目擊。", "confidence": "high", "notes": ""}
 
 688. OK, Mr. Cameron?
-→ {"text": "好的，Cameron 先生？", "confidence": "high", "notes": ""}
+→ {"text": "好的，卡麥隆先生？", "confidence": "high", "notes": "校稿：人名中譯"}
 
 689. I have a personal bias that sightings are almost a total waste of time.
 → {"text": "我個人有一個偏見，那就是目擊事件幾乎完全是浪費時間。", "confidence": "high", "notes": ""}
@@ -1021,7 +1021,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 696. Mr. Shelley?
-→ {"text": "Shelley 先生？", "confidence": "high", "notes": "應為 Shili"}
+→ {"text": "孫式立先生？", "confidence": "high", "notes": "原文 Shelley 應為 Shili，已補錄 topics.json"}
 
 697. There is a higher level Air Force official that he gave me a UFO report.
 → {"text": "有一位高階空軍官員給了我一份 UFO 報告。", "confidence": "high", "notes": ""}
@@ -1036,7 +1036,7 @@
 → {"text": "所以我認為這是一份非常有價值的報告，因為它是由高階軍事官員報告的。", "confidence": "high", "notes": ""}
 
 701. Because ordinary people do not have that kind of knowledge about aerospace.
-→ {"text": "因為普通人沒有那種關於航空航天的知識。", "confidence": "high", "notes": ""}
+→ {"text": "因為普通人沒有那種關於航太的知識。", "confidence": "high", "notes": "校稿：航空航天改航太"}
 
 702. But this official, the military officers, that he considered this must be evidence of there's a high intelligence organisms flying the objects.
 → {"text": "但這位官員，這位軍官，他認為這必定是有高智慧生物駕駛這些物體的證據。", "confidence": "high", "notes": ""}
@@ -1063,16 +1063,16 @@
 → {"text": "在我個人看來，我認為官方案例和民間案例之間有很大的區別。", "confidence": "high", "notes": ""}
 
 710. For instance, in Italy, we have more than 12,000 cases taken from civilian sources.
-→ {"text": "例如，在意大利，我們有超過12,000個來自民間來源的案例。", "confidence": "high", "notes": ""}
+→ {"text": "例如，在義大利，我們有超過 12,000 個來自民間來源的案例。", "confidence": "high", "notes": ""}
 
 711. And the Italian Air Force, only 400.
-→ {"text": "而意大利空軍只有400個。", "confidence": "high", "notes": ""}
+→ {"text": "而義大利空軍只有 400 個。", "confidence": "high", "notes": ""}
 
 712. So this is a big difference.
 → {"text": "所以這是一個很大的差異。", "confidence": "high", "notes": ""}
 
 713. But just to make my possible opinion, I frankly think that we are facing some elongated and very big motherships which may contain piloted objects.
-→ {"text": "但為了表達我的可能觀點，坦白說，我認為我們面對的是一些長形的、非常大的母艦，裡面可能載有有人駕駛的物體。", "confidence": "high", "notes": "motherships → 母艦"}
+→ {"text": "但為了表達我的可能觀點，坦白說，我認為我們面對的是一些長形的、非常大的母艦，裡面可能載有有人駕駛的物體。", "confidence": "high", "notes": ""}
 
 714. And these piloted objects are not too different from our fighters, in other words.
 → {"text": "換句話說，這些有人駕駛的物體與我們的戰鬥機沒有太大不同。", "confidence": "high", "notes": ""}
@@ -1099,7 +1099,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 722. And we are adjourned until 3:30.
-→ {"text": "我們休會到3點30分。", "confidence": "high", "notes": ""}
+→ {"text": "我們休會到下午 3 點 30 分。", "confidence": "high", "notes": ""}
 
 723. [APPLAUSE]
-→ {"text": "【掌聲】", "confidence": "high", "notes": ""}
+→ {"text": "（掌聲）", "confidence": "high", "notes": "校稿：掌聲標記改全形括號"}
