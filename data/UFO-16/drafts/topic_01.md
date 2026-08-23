@@ -31,13 +31,13 @@
 → {"text": "如果我們掌握得好，可以進行兩輪提問。", "confidence": "high", "notes": ""}
 
 11. You'll each have 12 minutes.
-→ {"text": "各位每人有12分鐘。", "confidence": "high", "notes": ""}
+→ {"text": "各位每人有 12 分鐘。", "confidence": "high", "notes": ""}
 
 12. So if you take all 12 at once, that's okay.
-→ {"text": "所以如果你一次用完12分鐘，沒問題。", "confidence": "high", "notes": ""}
+→ {"text": "所以如果你一次用完 12 分鐘，沒問題。", "confidence": "high", "notes": ""}
 
 13. If you want to take six and then six later, you can do that.
-→ {"text": "如果你想先用6分鐘，之後再用6分鐘，也可以。", "confidence": "high", "notes": ""}
+→ {"text": "如果你想先用 6 分鐘，之後再用 6 分鐘，也可以。", "confidence": "high", "notes": ""}
 
 14. So I'll try to keep track of that or you can help me keep track of that.
 → {"text": "我會試著計時，或者你們可以幫忙計時。", "confidence": "high", "notes": ""}
@@ -64,10 +64,10 @@
 → {"text": "首先，我想澄清一點並列入記錄，因為很多人有個誤解，認為其他國家都很好，公開了所有檔案，而美國什麼都沒公開，這完全不是事實。", "confidence": "high", "notes": ""}
 
 22. I mean, you yourselves have been dealing with American governments like the documents like the one about Peru and things like that.
-→ {"text": "我的意思是，各位自己也處理過美國政府的文件，像是關於祕魯的那份文件之類的。", "confidence": "high", "notes": ""}
+→ {"text": "我的意思是，各位自己也處理過美國政府的文件，像是關於秘魯的那份文件之類的。", "confidence": "high", "notes": ""}
 
 23. So the U.S. was actually the first country to release UFO files, just for the record, I want to make that.
-→ {"text": "所以美國其實是第一個公開UFO檔案的國家，我想把這一點列入記錄。", "confidence": "high", "notes": ""}
+→ {"text": "所以美國其實是第一個公開 UFO 檔案的國家，我想把這一點列入記錄。", "confidence": "high", "notes": ""}
 
 24. It doesn't mean that they've released, you know, hardware or final conclusions.
 → {"text": "這不代表他們公開了硬體證據或最終結論。", "confidence": "high", "notes": ""}
@@ -79,40 +79,40 @@
 → {"text": "但這是法律規定的。", "confidence": "high", "notes": ""}
 
 27. You know, the Freedom of Information Act, as you know, had been amended as a result of the Watergate scandal where you could sue the government, and then it occurred to some people that because there had been these rumors that the CIA and other agencies had been involved in ufology.
-→ {"text": "如各位所知，資訊自由法（Freedom of Information Act）在水門事件後經過修正，允許人民起訴政府，然後有些人想到，既然一直有傳聞說CIA和其他機構涉及UFO研究。", "confidence": "high", "notes": ""}
+→ {"text": "如各位所知，資訊自由法（FOIA）在水門事件後經過修正，允許人民起訴政府，然後有些人想到，既然一直有傳聞說 CIA 和其他機構涉及 UFO 研究。", "confidence": "high", "notes": ""}
 
 28. For years, the U.S. had said that only Blue Book, that's the only thing they had ever done about UFOs.
-→ {"text": "多年來，美國一直聲稱只有藍皮書計畫（Blue Book），那是他們在UFO方面唯一做過的事。", "confidence": "high", "notes": ""}
+→ {"text": "多年來，美國一直聲稱只有藍皮書計畫（Blue Book），那是他們在 UFO 方面唯一做過的事。", "confidence": "high", "notes": ""}
 
 29. So there was a famous lawsuit around 1977 against the CIA for their files on UFOs because there was many indications that they had done this thing called the Robertson Panel in 1953, a scientific conference on UFOs.
-→ {"text": "所以在1977年左右，有一場著名的訴訟案，起訴CIA公開UFO檔案，因為有很多跡象顯示他們在1953年舉辦過一場叫做羅伯森調查小組（Robertson Panel）的UFO科學會議。", "confidence": "high", "notes": ""}
+→ {"text": "所以在 1977 年左右，有一場著名的訴訟案，起訴 CIA 公開 UFO 檔案，因為有很多跡象顯示他們在 1953 年舉辦過一場叫做羅伯森調查小組（Robertson Panel）的 UFO 科學會議。", "confidence": "high", "notes": ""}
 
 30. And there was a group forum called Citizens Against UFO Secrecy back in those days.
-→ {"text": "當時有個組織叫做反UFO保密公民組織（Citizens Against UFO Secrecy，簡稱CAUS）。", "confidence": "high", "notes": ""}
+→ {"text": "當時有個組織叫做反 UFO 保密公民組織（Citizens Against UFO Secrecy，簡稱 CAUS）。", "confidence": "high", "notes": ""}
 
 31. I know this story very well because that's when I was getting started as a journalist in the subject, and they sued the CIA, you know, because the law had been amended and now you could -- in the old days, you were at the mercy of the government, like the British used to be, too, until they passed the similar law where basically the government would release what they pleased and you had no recourse.
-→ {"text": "我很清楚這段故事，因為那正是我開始從事這個主題的新聞報導工作的時候。他們起訴了CIA，因為法律已經修正，現在人民可以這麼做了——在過去，你只能任由政府擺布，英國以前也是這樣，直到他們通過類似的法律之前，基本上政府想公開什麼就公開什麼，你毫無辦法。", "confidence": "high", "notes": ""}
+→ {"text": "我很清楚這段故事，因為那正是我開始從事這個主題的新聞報導工作的時候。他們起訴了 CIA，因為法律已經修正，現在人民可以這麼做了——在過去，你只能任由政府擺布，英國以前也是這樣，基本上政府想公開什麼就公開什麼，你毫無辦法，直到他們通過了類似的法律為止。", "confidence": "high", "notes": ""}
 
 32. But after Watergate, they amended that law.
 → {"text": "但在水門事件之後，他們修正了那條法律。", "confidence": "high", "notes": ""}
 
 33. And so this group sued the CIA, and the CIA knew that they were going to lose the case because there was enough evidence about at least the Robertson Panel.
-→ {"text": "於是這個組織起訴了CIA，而CIA知道他們會輸掉官司，因為至少關於羅伯森調查小組的證據已經足夠。", "confidence": "high", "notes": ""}
+→ {"text": "於是這個組織起訴了 CIA，而 CIA 知道他們會輸掉官司，因為至少關於羅伯森調查小組的證據已經足夠。", "confidence": "high", "notes": ""}
 
 34. So rather than go to court and be humiliated by a judge, they decided to, you know, cut their losses and they released 1,000 pages of documents.
-→ {"text": "所以與其上法庭被法官羞辱，他們決定止損，公開了1,000頁文件。", "confidence": "high", "notes": ""}
+→ {"text": "所以與其上法庭被法官羞辱，他們決定止損，公開了 1,000 頁文件。", "confidence": "high", "notes": ""}
 
 35. And that made huge front-page stories.
 → {"text": "這成了重大的頭版新聞。", "confidence": "high", "notes": ""}
 
 36. I mean, it was on the New York Times, on the Washington Post.
-→ {"text": "我是說，紐約時報、華盛頓郵報都報導了。", "confidence": "high", "notes": ""}
+→ {"text": "我是說，《紐約時報》、《華盛頓郵報》都報導了。", "confidence": "high", "notes": ""}
 
 37. It was a big story at the time.
 → {"text": "當時是個大新聞。", "confidence": "high", "notes": ""}
 
 38. But now there's kind of an amnesia, you know, within -- and this -- partly the UFO community themselves are guilty for this because it's kind of politically correct to always criticize the U.S. government and say that the foreign governments are great.
-→ {"text": "但現在似乎有種失憶症，而且UFO社群本身也對此有責任，因為批評美國政府、讚揚外國政府似乎在政治上比較正確。", "confidence": "high", "notes": ""}
+→ {"text": "但現在似乎有種失憶症，而且 UFO 社群本身也對此有責任，因為批評美國政府、讚揚外國政府似乎在政治上比較正確。", "confidence": "high", "notes": ""}
 
 39. Well, it's the same thing.
 → {"text": "嗯，其實都差不多。", "confidence": "high", "notes": ""}
@@ -133,7 +133,7 @@
 → {"text": "所以我想在這場聽證會上把這一點列入記錄。", "confidence": "high", "notes": ""}
 
 45. And then that was followed by the FBI that released their files with -- they're currently in a thing called the Vault, and they're online.
-→ {"text": "接著是FBI公開了他們的檔案——目前在一個叫做FBI文件庫（The Vault）的網站上，可以線上查閱。", "confidence": "high", "notes": ""}
+→ {"text": "接著是 FBI 公開了他們的檔案——目前在一個叫做 FBI 文件庫（The Vault）的網站上，可以線上查閱。", "confidence": "high", "notes": ""}
 
 46. And then the Defense Intelligence Agency and everything.
 → {"text": "然後是國防情報局等等。", "confidence": "high", "notes": ""}
@@ -166,13 +166,13 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 56. Will.
-→ {"text": "威爾。", "confidence": "high", "notes": ""}
+→ {"text": "威爾。", "confidence": "medium", "notes": "原文語境不明，疑為轉錄錯誤（或為 Well，或為對某人之稱呼），無音頻可查，照字面保留"}
 
 57. I would agree, especially with Antonio, that I believe the Americans have sort of got bad rap in this deal, that basically everybody in the world is just releasing sighting files.
 → {"text": "我同意，特別是同意安東尼奧的說法，我認為美國人在這件事上有點被冤枉了，因為基本上全世界各國公開的都只是目擊檔案。", "confidence": "high", "notes": ""}
 
 58. Everybody's releasing file files, the real files, the ones we want to see.
-→ {"text": "沒有人公開真正的檔案，我們想看的那種檔案。", "confidence": "medium", "notes": "原文'file files'疑似為'hiding files'的轉錄錯誤，但依原文翻譯"}
+→ {"text": "沒有人公開真正的檔案，我們想看的那種檔案。", "confidence": "medium", "notes": "原文 Everybody's releasing file files 疑為 Nobody's releasing the real files 之轉錄錯誤；依上文（各國只公開目擊檔案）語境譯為否定句，已補錄 topics.json potential_errors"}
 
 59. So the Americans have done that.
 → {"text": "所以美國人也是這樣做的。", "confidence": "high", "notes": ""}
@@ -193,13 +193,13 @@
 → {"text": "我認為如果我們能把一切公諸於世，而這類高科技將由全人類共享，這是非常好的事。", "confidence": "high", "notes": ""}
 
 65. However, generally speaking, that through our work, and if we disclose all those UFO information or ET information, it's going to benefit the whole humankind.
-→ {"text": "然而，一般而言，透過我們的工作，如果我們公開所有UFO資訊或外星資訊，將造福全人類。", "confidence": "high", "notes": ""}
+→ {"text": "然而，一般而言，透過我們的工作，如果我們公開所有 UFO 資訊或外星資訊，將造福全人類。", "confidence": "high", "notes": ""}
 
 66. However, every government considers UFOs as top secrets of defense secrets, defense classification, and all the national security.
-→ {"text": "然而，每個政府都將UFO視為最高機密、國防機密、國防分類以及國家安全議題。", "confidence": "high", "notes": ""}
+→ {"text": "然而，每個政府都將 UFO 視為最高機密、國防機密、國防分類以及國家安全議題。", "confidence": "high", "notes": ""}
 
 67. If they treat the issues as UFO issues, purely UFO issues, that would be much easier.
-→ {"text": "如果他們把這些議題當作UFO議題，純粹的UFO議題來處理，會容易得多。", "confidence": "high", "notes": ""}
+→ {"text": "如果他們把這些議題當作 UFO 議題，純粹的 UFO 議題來處理，會容易得多。", "confidence": "high", "notes": ""}
 
 68. Otherwise, it's going to be very difficult.
 → {"text": "否則會非常困難。", "confidence": "high", "notes": ""}
@@ -211,16 +211,16 @@
 → {"text": "從歷史觀點來看，確實有其原因。", "confidence": "high", "notes": ""}
 
 71. Surely as the most important world power, the United States feel a particular responsibility, and they surely fear that the UFO problem may cause a sort of uncontrollable reaction in the general public.
-→ {"text": "作為最重要的世界強權，美國肯定感到一種特殊的責任，他們肯定擔心UFO問題可能在公眾中引起某種無法控制的反應。", "confidence": "high", "notes": ""}
+→ {"text": "作為最重要的世界強權，美國肯定感到一種特殊的責任，他們肯定擔心 UFO 問題可能在公眾中引起某種無法控制的反應。", "confidence": "high", "notes": ""}
 
 72. So this is a possible explanation for the cover-up, for this conspiracy of silence, if you like.
 → {"text": "所以這可能是真相掩蓋的解釋，如果你願意這麼說，這種沉默共謀的解釋。", "confidence": "high", "notes": ""}
 
 73. But I'm sure that since there is no longer the possibility to uncover all these subjects, the United States will be obliged in the next future to do something.
-→ {"text": "但我確信，既然已經不可能再掩蓋這些事情，美國在不久的將來將被迫採取行動。", "confidence": "high", "notes": ""}
+→ {"text": "但我確信，既然已經不可能再掩蓋這些事情，美國在不久的將來將被迫採取行動。", "confidence": "high", "notes": "原文 uncover 依語境應為講者意指「掩蓋」（cover up），非英語母語講者之口語用法，依語意翻譯"}
 
 74. Those consider that the world power, who will have the courage to say things as they were, will be considered much more than all the others.
-→ {"text": "那些認為世界強權若有勇氣如實陳述事情真相，將比其他所有國家更受重視。", "confidence": "medium", "notes": "原文語法略顯混亂，盡力保持原意"}
+→ {"text": "世界強權若有勇氣如實陳述事情真相，將比其他所有國家更受重視。", "confidence": "medium", "notes": "原文語法破碎（Those consider that the world power, who...），依語意重組"}
 
 75. And probably this is not yet understood.
 → {"text": "而這一點可能尚未被理解。", "confidence": "high", "notes": ""}

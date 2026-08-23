@@ -25,6 +25,12 @@
           "error_text": "releasing siting files",
           "suggested_correction": "releasing sighting files",
           "reasoning": "\"Siting\" means placing something in a location. \"Sighting\" refers to an observation. The context is about files documenting UFO sightings."
+        },
+        {
+          "segment_id": 58,
+          "error_text": "Everybody's releasing file files",
+          "suggested_correction": "Nobody's releasing the real files",
+          "reasoning": "Context (seg 57: everybody is just releasing sighting files) requires a negation here; 'file files' is unintelligible. Proofreading addendum 2026-08-23."
         }
       ]
     },
@@ -55,6 +61,18 @@
           "error_text": "Trans Improvance case",
           "suggested_correction": "Trans-en-Provence case",
           "reasoning": "This is a famous 1981 UFO case in France. The correct name of the location is Trans-en-Provence."
+        },
+        {
+          "segment_id": 136,
+          "error_text": "Trans Improvance",
+          "suggested_correction": "Trans-en-Provence",
+          "reasoning": "Same 1981 French landing case; main.yaml seg 132 already corrected, seg 136 still carries the misspelling. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 140,
+          "error_text": "the CEFA",
+          "suggested_correction": "the CEFAA",
+          "reasoning": "Chilean committee acronym is CEFAA (Comité de Estudios de Fenómenos Aéreos Anómalos), per UFO-13 2026-08-21 human ruling. Proofreading addendum 2026-08-23."
         },
         {
           "segment_id": 149,
@@ -96,6 +114,36 @@
           "reasoning": "The scientist interviewed by Wilbert Smith was Dr. Robert Sarbacher, a consultant for the DoD Research and Development Board. 'Saubacher' is a phonetic misspelling."
         },
         {
+          "segment_id": 248,
+          "error_text": "Wilbur",
+          "suggested_correction": "Wilbert",
+          "reasoning": "Refers to Wilbert Smith; same mishearing pattern documented in UFO-15. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 256,
+          "error_text": "Dr. Saubacher",
+          "suggested_correction": "Dr. Sarbacher",
+          "reasoning": "Same phonetic misspelling of Dr. Robert Sarbacher. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 259,
+          "error_text": "Robert Saubacher",
+          "suggested_correction": "Robert Sarbacher",
+          "reasoning": "Same phonetic misspelling; same segment also has 'Wilbur Smith' for 'Wilbert Smith'. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 263,
+          "error_text": "Saubacher",
+          "suggested_correction": "Sarbacher",
+          "reasoning": "Same phonetic misspelling of Dr. Robert Sarbacher. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 269,
+          "error_text": "a siding that was legitimate",
+          "suggested_correction": "a sighting that was legitimate",
+          "reasoning": "Context is filing UFO sighting reports; 'siding' is a mishearing of 'sighting'. Proofreading addendum 2026-08-23."
+        },
+        {
           "segment_id": 275,
           "error_text": "Dr. Sheila",
           "suggested_correction": "Dr. Sun Shili",
@@ -128,6 +176,12 @@
         "Paul Hill"
       ],
       "potential_errors": [
+        {
+          "segment_id": 353,
+          "error_text": "Antonio Neus",
+          "suggested_correction": "Antonio Huneeus",
+          "reasoning": "Refers to panelist Antonio Huneeus; 'Neus' is a phonetic truncation of 'Huneeus'. Proofreading addendum 2026-08-23."
+        },
         {
           "segment_id": 363,
           "error_text": "Project Condine's final report",
@@ -174,6 +228,24 @@
           "reasoning": "This almost certainly refers to panelist Antonio Huneeus, a well-known Chilean-American UFO researcher. 'Juneyus' is a phonetic mishearing."
         },
         {
+          "segment_id": 409,
+          "error_text": "They're sitting files",
+          "suggested_correction": "They're sighting files",
+          "reasoning": "Same mishearing as seg 57/415: the context is mundane UFO sighting files. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 415,
+          "error_text": "like grants at the siting files",
+          "suggested_correction": "like just the sighting files",
+          "reasoning": "Same mishearing as seg 57/409; 'grants at the' is unintelligible. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 439,
+          "error_text": "Mr. Honest",
+          "suggested_correction": "Mr. Huneeus",
+          "reasoning": "Chair addresses panelist Antonio Huneeus; 'Honest' is a phonetic mishearing. Proofreading addendum 2026-08-23."
+        },
+        {
           "segment_id": 484,
           "error_text": "Dr. Shelley",
           "suggested_correction": "Dr. Sun Shili",
@@ -212,10 +284,28 @@
       ],
       "potential_errors": [
         {
+          "segment_id": 583,
+          "error_text": "member state of the United States",
+          "suggested_correction": "member state of the United Nations",
+          "reasoning": "Context is the UN agenda; 'United States' is a mishearing of 'United Nations'. Proofreading addendum 2026-08-23."
+        },
+        {
           "segment_id": 594,
           "error_text": "Prime Minister Gary",
           "suggested_correction": "Prime Minister Gairy",
           "reasoning": "The Prime Minister of Grenada who pushed for UN action on UFOs was Sir Eric Gairy. 'Gary' is a misspelling."
+        },
+        {
+          "segment_id": 616,
+          "error_text": "Dr. Shelley?",
+          "suggested_correction": "Dr. Sun Shili?",
+          "reasoning": "Chair misreads the Chinese researcher's name, same pattern as seg 275/484. Proofreading addendum 2026-08-23."
+        },
+        {
+          "segment_id": 640,
+          "error_text": "Don't remember that",
+          "suggested_correction": "Don't forget that",
+          "reasoning": "Context requires 'remember/don't forget'; 'Don't remember' inverts the intended meaning. Proofreading addendum 2026-08-23."
         },
         {
           "segment_id": 647,

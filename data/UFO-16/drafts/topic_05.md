@@ -4,7 +4,7 @@
 → {"text": "謝謝主席女士。", "confidence": "high", "notes": ""}
 
 398. I was happy to hear in this afternoon's session after three and a half days being here that Mr. Huneeus, Pope, and Cameron did say the U.S. has participated a bit.
-→ {"text": "在這裡待了三天半之後，我很高興在今天下午的會議中聽到烏內烏斯先生、波普先生和卡麥隆先生都表示美國確實有所參與。", "confidence": "high", "notes": "Huneeus 音譯為烏內烏斯"}
+→ {"text": "在這裡待了三天半之後，我很高興在今天下午的會議中聽到胡尼烏斯先生、波普先生和卡麥隆先生都表示美國確實有所參與。", "confidence": "high", "notes": "校稿：胡尼烏斯從 UFO-02 定譯（譯稿原音譯「烏內烏斯」已改）"}
 
 399. I've been led to believe up until an hour ago that we hadn't done anything and that we were the big bear in the room.
 → {"text": "直到一小時前，我一直被引導相信我們什麼都沒做，而且我們是房間裡的大熊。", "confidence": "high", "notes": "big bear 比喻美國是威脅性的存在"}
@@ -16,10 +16,10 @@
 → {"text": "是的，絕對如此。", "confidence": "high", "notes": ""}
 
 402. You further went on to say the CIA was sued and released theirs in 1977.
-→ {"text": "你們進一步提到CIA在1977年被起訴並公開了檔案。", "confidence": "high", "notes": ""}
+→ {"text": "你們進一步提到 CIA 在 1977 年被起訴並公開了檔案。", "confidence": "high", "notes": ""}
 
 403. I think you said that, Mr. Juneyus, which is good.
-→ {"text": "我想是烏內烏斯先生說的，這很好。", "confidence": "high", "notes": "修正 Juneyus → Huneeus"}
+→ {"text": "我想是胡尼烏斯先生說的，這很好。", "confidence": "high", "notes": "校稿：原文 Mr. Juneyus 應為 Mr. Huneeus（已錄於 topics.json）"}
 
 404. I don't want you...
 → {"text": "我不想讓你們……", "confidence": "high", "notes": ""}
@@ -31,13 +31,13 @@
 → {"text": "這裡只是一點評論，就這樣。", "confidence": "high", "notes": ""}
 
 407. Then the FBI did file a suit later and released it.
-→ {"text": "然後FBI後來也被起訴並公開了檔案。", "confidence": "high", "notes": ""}
+→ {"text": "然後 FBI 後來也被起訴並公開了檔案。", "confidence": "medium", "notes": "校稿：原文 the FBI did file a suit 疑為 the FBI did get a suit filed (against them) 之口誤或誤聽——FBI 是檔案釋出方非提告方（同 seg 402 CIA 結構、seg 474 亦稱 they also sued them），依語意譯為被起訴"}
 
 408. I think, Mr. Cameron, you said, yeah, they released it.
 → {"text": "我想卡麥隆先生說過，是的，他們公開了。", "confidence": "high", "notes": ""}
 
 409. They're sitting files, but not the real thing.
-→ {"text": "那些是目擊檔案，但不是真正的東西。", "confidence": "high", "notes": "siting files 應為 sighting files"}
+→ {"text": "那些是目擊檔案，但不是真正的東西。", "confidence": "high", "notes": "校稿：原文 sitting files 應為 sighting files（目擊檔案；main.yaml 原文未修，已補錄 topics.json）"}
 
 410. I think my question on all of that, releasing of the files, and I'm glad they did it, ordered by the court or otherwise, and that you all acknowledge that.
 → {"text": "我對所有這些檔案公開的問題是，我很高興他們這麼做了，無論是法院命令還是其他原因，而且各位都承認這一點。", "confidence": "high", "notes": ""}
@@ -46,16 +46,16 @@
 → {"text": "我們國家知道這一點很好，對我們這些委員會成員來說確實如此。", "confidence": "high", "notes": ""}
 
 412. Did they acknowledge, do they believe that UFOs are real or not?
-→ {"text": "他們有承認嗎，他們相信UFO是真的嗎？", "confidence": "high", "notes": ""}
+→ {"text": "他們有承認嗎，他們相信 UFO 是真的嗎？", "confidence": "high", "notes": ""}
 
 413. Did they address after releasing the files, or they just gave you paper and you had to shift through them?
 → {"text": "他們在公開檔案後有說明嗎，還是只是給你們一堆文件，讓你們自己篩選？", "confidence": "high", "notes": ""}
 
 414. I know we didn't get to meet one again, but did they say one way or the other, whether UFOs are real or that extraterrestrial is a real phenomenon?
-→ {"text": "我知道我們沒機會再見到外星人，但他們有明確表態嗎，無論是UFO是真的，還是外星現象是真實的？", "confidence": "high", "notes": ""}
+→ {"text": "我知道我們沒機會再見到外星人，但他們有明確表態嗎，無論是 UFO 是真的，還是外星現象是真實的？", "confidence": "high", "notes": ""}
 
 415. Well, I mean, the problem is that the files they released are sort of the mundane files, like grants at the siting files, or they're very old, historical files.
-→ {"text": "嗯，我的意思是，問題在於他們公開的檔案都是些平凡的文件，像是准予的目擊檔案，或者是非常古老的歷史檔案。", "confidence": "high", "notes": ""}
+→ {"text": "嗯，我的意思是，問題在於他們公開的檔案都是些平凡的日常文件，像是目擊檔案之類，或者是非常古老的歷史檔案。", "confidence": "medium", "notes": "校稿：原文 grants at the siting files 疑為 just the sighting files 之誤聽（同 seg 57/409；main.yaml 原文未修，已補錄 topics.json）"}
 
 416. Siting files means that they cited something somewhere.
 → {"text": "目擊檔案的意思是他們在某處目擊了某物。", "confidence": "high", "notes": ""}
@@ -70,7 +70,7 @@
 → {"text": "我的意思是，確實有一些結論，例如康登報告（Condon Report），那是科羅拉多大學的著名專案，但那也被扭曲了，因為他們想關閉藍皮書計畫。", "confidence": "high", "notes": ""}
 
 420. Now, some of the case histories in the Condon Report are valid, and actually about 30 percent of the case histories in the Condon Report are unexplained.
-→ {"text": "現在，康登報告中的一些案例歷史是有效的，實際上康登報告中約30%的案例歷史無法解釋。", "confidence": "high", "notes": ""}
+→ {"text": "現在，康登報告中的一些案例歷史是有效的，實際上康登報告中約 30% 的案例歷史無法解釋。", "confidence": "high", "notes": ""}
 
 421. That's how much you will find in the U.S. files, that there are a certain percentage of cases that are unexplained.
 → {"text": "在美國檔案中你會發現，有一定比例的案例無法解釋。", "confidence": "high", "notes": ""}
@@ -88,10 +88,10 @@
 → {"text": "我的意思是，有些人，像是約翰·亞歷山大上校（Colonel John Alexander）。", "confidence": "high", "notes": ""}
 
 426. He was involved in some study at the Pentagon in the 1980s.
-→ {"text": "他在1980年代參與了五角大廈的一些研究。", "confidence": "high", "notes": ""}
+→ {"text": "他在 1980 年代參與了五角大廈的一些研究。", "confidence": "high", "notes": ""}
 
 427. So this would have been much, much later, when there wasn't Blue Book, all that was old history, and he claims it was not a formal project in the sense that they had to issue reports and things, but it was obviously tolerated by his superiors, and they went around and they briefed a number of people, including high-level people, like admirals and generals and General Abramson, the head of the Star Wars SDI project, and people like that, very high-level people.
-→ {"text": "所以這是很久很久之後的事了，當時已經沒有藍皮書計畫，那些都是舊歷史了。他聲稱這不是正式專案，不需要發布報告之類的，但顯然得到了上級的容忍。他們四處向許多人做簡報，包括高層人士，像是海軍上將、將軍，還有星戰計畫（SDI）主管艾布拉姆森將軍，諸如此類的非常高層的人物。", "confidence": "high", "notes": ""}
+→ {"text": "所以這是很久很久之後的事了，當時已經沒有藍皮書計畫，那些都是舊歷史了。他聲稱這不是正式專案，不需要發布報告之類的，但顯然得到了上級的容忍。他們四處向許多人做簡報，包括高層人士，像是海軍上將、將軍，還有星戰計畫（SDI）負責人艾布拉姆森將軍，諸如此類的非常高層的人物。", "confidence": "high", "notes": "校稿：艾布拉姆森將軍即 James Abrahamson（SDI 主任；原文 Abramson 少一字母，譯音不變，不改原文）"}
 
 428. And he wrote a book about this, so I'm not revealing anything that is unknown.
 → {"text": "他為此寫了一本書，所以我沒有透露任何未知的事情。", "confidence": "high", "notes": ""}
@@ -127,7 +127,7 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 439. Mr. Cameron, thank you very much, Mr. Honest.
-→ {"text": "卡麥隆先生，非常感謝，烏內烏斯先生。", "confidence": "high", "notes": "Mr. Honest 應為 Mr. Huneeus"}
+→ {"text": "卡麥隆先生，非常感謝，胡尼烏斯先生。", "confidence": "high", "notes": "校稿：原文 Mr. Honest 應為 Mr. Huneeus（胡尼烏斯先生；main.yaml 原文未修，已補錄 topics.json）"}
 
 440. You said, Mr. Cameron, that we were waiting for America to make the first move.
 → {"text": "卡麥隆先生，你說我們在等待美國邁出第一步。", "confidence": "high", "notes": ""}
@@ -160,7 +160,7 @@
 → {"text": "我認為在這個領域也是同樣的情況……", "confidence": "high", "notes": ""}
 
 450. So the world is waiting for the US to say yay or nay on UFOs?
-→ {"text": "所以世界在等待美國對UFO說贊成還是反對？", "confidence": "high", "notes": ""}
+→ {"text": "所以世界在等待美國對 UFO 說贊成還是反對？", "confidence": "high", "notes": ""}
 
 451. Or set the policy or determine ...
 → {"text": "或是制定政策或決定……", "confidence": "high", "notes": ""}
@@ -187,7 +187,7 @@
 → {"text": "你說過了。", "confidence": "high", "notes": ""}
 
 459. The United States Library has disclosed thousands of pages of documents.
-→ {"text": "美國圖書館公開了數千頁的文件。", "confidence": "high", "notes": ""}
+→ {"text": "美國圖書館公開了數千頁的文件。", "confidence": "medium", "notes": "校稿：原文 United States Library 疑指美國國會圖書館（Library of Congress），講者未明言，依原文直譯"}
 
 460. And so, I mean, there are documents.
 → {"text": "所以，我的意思是，確實有文件。", "confidence": "high", "notes": ""}
@@ -217,16 +217,16 @@
 → {"text": "那就是一種立場。", "confidence": "high", "notes": ""}
 
 469. If you said they've released the files under court order, CIA and FBI ...
-→ {"text": "如果你說他們在法院命令下公開了檔案，CIA和FBI……", "confidence": "high", "notes": ""}
+→ {"text": "如果你說他們在法院命令下公開了檔案，CIA 和 FBI……", "confidence": "high", "notes": ""}
 
 470. Under FOIA.
 → {"text": "根據資訊自由法（FOIA）。", "confidence": "high", "notes": ""}
 
 471. There's a lot under FOIA.
-→ {"text": "根據FOIA公開了很多。", "confidence": "high", "notes": ""}
+→ {"text": "根據 FOIA 公開了很多。", "confidence": "high", "notes": ""}
 
 472. Under FOIA.
-→ {"text": "根據FOIA。", "confidence": "high", "notes": ""}
+→ {"text": "根據 FOIA。", "confidence": "high", "notes": ""}
 
 473. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -235,7 +235,7 @@
 → {"text": "而且他們也起訴了他們。", "confidence": "high", "notes": ""}
 
 475. It's, you know, 1977.
-→ {"text": "就是，你知道的，1977年。", "confidence": "high", "notes": ""}
+→ {"text": "就是，你知道的，1977 年。", "confidence": "high", "notes": ""}
 
 476. Yeah.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -262,10 +262,10 @@
 → {"text": "很好。", "confidence": "high", "notes": ""}
 
 484. Dr. Sun Shili, I'd like to spend the rest of my time with you just a bit before I yield back.
-→ {"text": "孫式立博士，在我交還時間之前，我想用剩下的時間跟您談一下。", "confidence": "high", "notes": "修正 Dr. Shelley → Dr. Sun Shili（孫式立）"}
+→ {"text": "孫式立博士，在我交還時間之前，我想用剩下的時間跟您談一下。", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（Dr. Sun Shili）"}
 
 485. Tell me about the Chinese UFO Federation.
-→ {"text": "請告訴我關於中國UFO研究聯合會的事。", "confidence": "high", "notes": ""}
+→ {"text": "請告訴我關於中國 UFO 研究聯合會的事。", "confidence": "high", "notes": ""}
 
 486. Is it an NGO unrelated to the government?
 → {"text": "它是與政府無關的非政府組織嗎？", "confidence": "high", "notes": ""}
@@ -286,10 +286,10 @@
 → {"text": "這個聯合會的工作是什麼？", "confidence": "high", "notes": ""}
 
 492. Our mission is that in the field of UFO, we conduct scientific research, and in recent years, what the senator has asked, we have conducted many scientific research.
-→ {"text": "我們的使命是在UFO領域進行科學研究，而且近年來，如參議員所問的，我們進行了許多科學研究。", "confidence": "high", "notes": ""}
+→ {"text": "我們的使命是在 UFO 領域進行科學研究，而且近年來，如參議員所問的，我們進行了許多科學研究。", "confidence": "high", "notes": ""}
 
 493. To give you an example, that I have in the conference, in the Marino, there was a General Corso, a Colonel Corso.
-→ {"text": "舉個例子，我在聖馬利諾的會議上，遇到了柯索上校（Colonel Corso）。", "confidence": "high", "notes": "修正 general cursor → Colonel Corso（菲利普·柯索上校）"}
+→ {"text": "舉個例子，我在聖馬利諾的會議上，遇到了柯索上校（Colonel Corso）。", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（a General Corso, a Colonel Corso）；柯索上校即菲利普·科索（Philip Corso，UFO-15 定譯），《The Day After Roswell》作者"}
 
 494. He is also a very famous expert on the Roswell case, and he worked in the Department of Defense Pentagon.
 → {"text": "他也是羅斯威爾案非常著名的專家，他在國防部五角大廈工作。", "confidence": "high", "notes": ""}
@@ -298,7 +298,7 @@
 → {"text": "之後，他說他擁抱了我，然後給了我一本關於羅斯威爾的書，他說：「給孫教授，我最好的朋友，我相信像你這樣的人會幫助每個人創造一個新世界。」", "confidence": "high", "notes": ""}
 
 496. This was from a former Pentagon official who was so excited after learning about our scientific research results.
-→ {"text": "這是來自一位前五角大廈官員，他在得知我們的科學研究成果後非常興奮。", "confidence": "high", "notes": "修正 Patagon → Pentagon（五角大廈）"}
+→ {"text": "這是來自一位前五角大廈官員，他在得知我們的科學研究成果後非常興奮。", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（Pentagon）"}
 
 497. Now, we have a technology to turn water into anything, into fuel, into food, turning stone into food and into food.
 → {"text": "現在，我們有一種技術可以把水變成任何東西，變成燃料、變成食物，把石頭變成食物。", "confidence": "medium", "notes": "句子有重複，可能是轉錄錯誤"}
@@ -319,10 +319,10 @@
 → {"text": "那麼我為什麼說我們都有尋根的天性？", "confidence": "high", "notes": ""}
 
 503. I think that's in our DNA.
-→ {"text": "我認為那在我們的DNA裡。", "confidence": "high", "notes": ""}
+→ {"text": "我認為那在我們的 DNA 裡。", "confidence": "high", "notes": ""}
 
 504. The other one that you are very much involved in is the China UFO Research Institute established in 1980.
-→ {"text": "您非常投入的另一個組織是1980年成立的中國UFO研究會。", "confidence": "high", "notes": ""}
+→ {"text": "您非常投入的另一個組織是 1980 年成立的中國 UFO 研究會。", "confidence": "high", "notes": ""}
 
 505. What is it?
 → {"text": "它是什麼？", "confidence": "high", "notes": ""}
@@ -334,7 +334,7 @@
 → {"text": "它的使命是什麼？", "confidence": "high", "notes": ""}
 
 508. Yes, the mission for this institute is to explore UFO issues scientifically.
-→ {"text": "是的，這個研究會的使命是科學地探索UFO議題。", "confidence": "high", "notes": ""}
+→ {"text": "是的，這個研究會的使命是科學地探索 UFO 議題。", "confidence": "high", "notes": ""}
 
 509. We go to conferences and we also are interviewed constantly by international as well as domestic media.
 → {"text": "我們參加會議，也經常接受國際和國內媒體的採訪。", "confidence": "high", "notes": ""}
@@ -361,7 +361,7 @@
 → {"text": "這就是為什麼這個研究會受到社會讚揚。", "confidence": "high", "notes": ""}
 
 517. Originally, some people think that this is just for chit chat, but we have elevated this topic, this issue, onto a higher level where we talk about how learning about UFOs, learning about aliens, can help us solve environmental problems and health problems.
-→ {"text": "最初，有些人認為這只是閒聊，但我們已經將這個主題、這個議題提升到更高的層次，我們討論的是學習UFO、學習外星人如何幫助我們解決環境問題和健康問題。", "confidence": "high", "notes": ""}
+→ {"text": "最初，有些人認為這只是閒聊，但我們已經將這個主題、這個議題提升到更高的層次，我們討論的是學習 UFO、學習外星人如何幫助我們解決環境問題和健康問題。", "confidence": "high", "notes": ""}
 
 518. And is the Federation or the institute located in any other countries outside of China?
 → {"text": "那麼聯合會或研究會在中國以外的其他國家有設點嗎？", "confidence": "high", "notes": ""}
@@ -376,7 +376,7 @@
 → {"text": "還有其他地方，它們不一定叫做研究會或聯合會。", "confidence": "high", "notes": ""}
 
 522. They are called maybe called a UFO club or association.
-→ {"text": "它們可能被稱為UFO俱樂部或協會。", "confidence": "high", "notes": ""}
+→ {"text": "它們可能被稱為 UFO 俱樂部或協會。", "confidence": "high", "notes": ""}
 
 523. So through these branches, we can collaborate.
 → {"text": "所以透過這些分支機構，我們可以合作。", "confidence": "high", "notes": ""}
@@ -403,7 +403,7 @@
 → {"text": "類似。", "confidence": "high", "notes": ""}
 
 531. Particularly, we have a World Chinese UFO federation.
-→ {"text": "特別是，我們有一個世界華人UFO聯合會。", "confidence": "high", "notes": ""}
+→ {"text": "特別是，我們有一個世界華人 UFO 聯合會。", "confidence": "high", "notes": ""}
 
 532. I'm the chairman for that federation.
 → {"text": "我是那個聯合會的主席。", "confidence": "high", "notes": ""}
@@ -460,16 +460,16 @@
 → {"text": "我想知道你們當中是否有人能告訴我們委員會，在你們所知道的任何政府實體或非政府機構的揭露中，嗯，顯然必須是政府實體，或者來自美國。", "confidence": "high", "notes": ""}
 
 550. It doesn't have to be your government, your country, any government, where gun, camera, footage, or files on analysis of materials have ever been released.
-→ {"text": "不一定是你們的政府、你們的國家，任何政府，是否曾經公開過槍砲攝影機影片或材料分析檔案。", "confidence": "high", "notes": ""}
+→ {"text": "不一定是你們的政府、你們的國家，任何政府，是否曾經公開過機槍攝影機影片或材料分析檔案。", "confidence": "high", "notes": "校稿：gun camera 指戰機機槍攝影機（gun camera footage 為空戰影像證據慣用語）"}
 
 551. Go ahead, Mr. Pope.
 → {"text": "請說，波普先生。", "confidence": "high", "notes": ""}
 
 552. The United Kingdom certainly did have some cases where military jets were sent up to intercept UFOs being tracked on radars.
-→ {"text": "英國確實有一些案例，軍用噴射機被派往攔截雷達追蹤到的UFO。", "confidence": "high", "notes": ""}
+→ {"text": "英國確實有一些案例，軍用噴射機被派往攔截雷達追蹤到的 UFO。", "confidence": "high", "notes": ""}
 
 553. Similar to the Peru incident that we talked about this morning.
-→ {"text": "類似於我們今天早上談到的祕魯事件。", "confidence": "high", "notes": ""}
+→ {"text": "類似於我們今天早上談到的秘魯事件。", "confidence": "high", "notes": "校稿：秘魯從 UFO-02/09/10/13 慣例"}
 
 554. Correct, sir.
 → {"text": "沒錯，先生。", "confidence": "high", "notes": ""}
@@ -478,7 +478,7 @@
 → {"text": "好的，請繼續。", "confidence": "high", "notes": ""}
 
 556. If some gun, camera, footage was taken, and certainly I'm aware of on-the-record testimony from former MOD officials saying they've seen it, to the best of my knowledge, none of that material has survived, and I've not seen it personally, but it certainly existed at MOD.
-→ {"text": "如果拍攝了一些槍砲攝影機影片，我確實知道有前國防部官員的正式證詞說他們看過，但據我所知，那些材料都沒有保存下來，我個人也沒看過，但它確實存在於國防部。", "confidence": "high", "notes": ""}
+→ {"text": "如果拍攝了一些機槍攝影機影片，我確實知道有前英國國防部官員的正式證詞說他們看過，但據我所知，那些材料都沒有保存下來，我個人也沒看過，但它確實存在於英國國防部。", "confidence": "high", "notes": "校稿：MOD＝英國國防部（UFO-15 先例）"}
 
 557. So it's not released, but you know it exists?
 → {"text": "所以它沒有公開，但你知道它存在？", "confidence": "high", "notes": ""}
@@ -493,16 +493,16 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 561. Can I ask this final, if I have 30 seconds, is anybody aware of a, well let me get this question in please, anybody, is anybody aware of a military person or a contractor for the military that's been released from a secrecy oath that they might have taken on the subject of UFOs from any country, again, your own or the U.S. or any other country?
-→ {"text": "我能問最後一個問題嗎，如果我還有30秒的話，有人知道嗎，嗯，請讓我問完這個問題，有人知道任何軍事人員或軍方承包商被解除他們可能就UFO主題所立的保密誓言嗎，來自任何國家，再次強調，你們自己的或美國或其他任何國家？", "confidence": "high", "notes": ""}
+→ {"text": "我能問最後一個問題嗎，如果我還有 30 秒的話，有人知道嗎，嗯，請讓我問完這個問題，有人知道任何軍事人員或軍方承包商被解除他們可能就 UFO 主題所立的保密誓言嗎，來自任何國家，再次強調，你們自己的或美國或其他任何國家？", "confidence": "high", "notes": ""}
 
 562. In the case of Italy, we had in San Marino in 2000, the chief of the Reparto Generale Sicurezza of the Italian Air Force who came in uniform to have a presentation of the UFO data, of the official UFO data, in the San Marino Congress.
-→ {"text": "在義大利的情況下，我們在2000年的聖馬利諾會議上，有義大利空軍安全部門（Reparto Generale Sicurezza）的首長穿著制服前來，展示UFO資料，官方UFO資料。", "confidence": "high", "notes": ""}
+→ {"text": "在義大利的情況下，我們在 2000 年的聖馬利諾會議上，有義大利空軍安全部門（Reparto Generale Sicurezza）的首長穿著制服前來，展示 UFO 資料，官方 UFO 資料。", "confidence": "high", "notes": ""}
 
 563. This man today is retired and would have been here if possible.
 → {"text": "這個人今天已經退休了，如果可能的話他會來這裡。", "confidence": "high", "notes": ""}
 
 564. He did not come because he told me he signed a sort of security statement for 20 years not to speak on these subjects, even if, after all, what he said in San Marino in 2000 is open, and this is curious.
-→ {"text": "他沒有來，因為他告訴我他簽署了一種20年的保密聲明，不能談論這些主題，儘管畢竟他在2000年聖馬利諾所說的是公開的，這很奇怪。", "confidence": "high", "notes": ""}
+→ {"text": "他沒有來，因為他告訴我他簽署了一種 20 年的保密聲明，不能談論這些主題，儘管畢竟他在 2000 年聖馬利諾所說的是公開的，這很奇怪。", "confidence": "high", "notes": ""}
 
 565. Anybody else?
 → {"text": "還有其他人嗎？", "confidence": "high", "notes": ""}
@@ -511,7 +511,7 @@
 → {"text": "我可以舉個我在證詞中提到的快速例子。", "confidence": "high", "notes": ""}
 
 567. Dick DiMatto, who worked for Senator Byrd, was given authorization to go to Area 51 to see if they're spending money on flying saucers and Aurora and all this kind of stuff.
-→ {"text": "迪克·迪馬托（Dick DiMatto），為伯德參議員工作，獲得授權前往51區，看看他們是否在飛碟和極光（Aurora）等各種東西上花錢。", "confidence": "high", "notes": ""}
+→ {"text": "迪克·迪馬托（Dick DiMatto），為伯德參議員工作，獲得授權前往 51 區，看看他們是否在飛碟和極光（Aurora）等各種東西上花錢。", "confidence": "high", "notes": "校稿：Aurora 為傳聞中的美國祕密高超音速偵察機代號，保留原文括註"}
 
 568. He met with Alfred O'Donnell.
 → {"text": "他會見了阿爾弗雷德·奧唐納（Alfred O'Donnell）。", "confidence": "high", "notes": ""}

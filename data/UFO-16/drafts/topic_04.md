@@ -43,7 +43,7 @@
 → {"text": "而且，政府對於保密也不是非常嚴格。", "confidence": "high", "notes": ""}
 
 335. For example, in the Air Force, that they have the combat with the UFO, and that we have interview on all those of the stories, and they told us truthfully of their encounter.
-→ {"text": "例如，在空軍中，他們曾與不明飛行物交戰，我們訪問了所有這些故事的當事人，他們如實告訴我們他們的遭遇。", "confidence": "high", "notes": ""}
+→ {"text": "例如，在空軍中，他們曾與不明飛行物交戰，我們訪問了所有這些故事的當事人，他們如實告訴我們他們的遭遇。", "confidence": "medium", "notes": "校稿：原文 combat 疑為 contact（接觸）之誤聽，下文 encounter 可證；依規範保留原文譯「交戰」並存疑"}
 
 336. And sometimes the militaries, when they don't understand of some certain situations, they even come to us, they consult us.
 → {"text": "有時候軍方在不理解某些情況時，他們甚至會來找我們諮詢。", "confidence": "high", "notes": ""}
@@ -73,7 +73,7 @@
 → {"text": "我只有一個普遍性的問題，我要為稍早離席致歉。", "confidence": "high", "notes": ""}
 
 345. Is anybody familiar with Dr. Wood, a woman, PhD on directed energy?
-→ {"text": "有人熟悉伍德博士嗎？一位研究定向能武器的女性博士？", "confidence": "high", "notes": ""}
+→ {"text": "有人熟悉伍德博士嗎？一位研究定向能武器的女性博士？", "confidence": "high", "notes": "校稿：指 Dr. Judy Wood，9/11 定向能理論提出者（見 topics.json 摘要）"}
 
 346. She has written extensively about the use of directed energy to bring down the Twin Towers on 9/11.
 → {"text": "她撰寫了大量關於使用定向能武器摧毀九一一雙子塔的文章。", "confidence": "high", "notes": ""}
@@ -97,7 +97,7 @@
 → {"text": "這防止了與外殼的任何接觸，你知道的，與船體的接觸。", "confidence": "high", "notes": ""}
 
 353. And probably what Antonio Neus said before is to be connected with this.
-→ {"text": "而且可能如安東尼奧·胡內斯之前所說的，這與此有關。", "confidence": "high", "notes": ""}
+→ {"text": "而且可能如安東尼奧·胡尼烏斯之前所說的，這與此有關。", "confidence": "high", "notes": "校稿：原文 Antonio Neus 應為 Antonio Huneeus（安東尼奧·胡尼烏斯，UFO-02 定譯；main.yaml 原文未修，已補錄 topics.json）"}
 
 354. It's the same kind probably of propulsion mean, a sort of electromagnetic propulsion which permits these objects to move in any kind of environment, deep space without any kind of atmosphere, like our astronauts said.
 → {"text": "這可能是同一種推進方式，某種電磁推進，使這些物體能在任何環境中移動，就像我們的太空人所說的，在沒有任何大氣的深空中。", "confidence": "high", "notes": ""}
@@ -121,13 +121,13 @@
 → {"text": "對此還有其他意見嗎？", "confidence": "high", "notes": ""}
 
 361. Senator, yes, and with apologies for not having printed this off for the committee, but it was 468 pages, I can supply a hyperlink.
-→ {"text": "參議員，是的，我要為沒有列印給委員會致歉，但那有468頁，我可以提供超連結。", "confidence": "high", "notes": ""}
+→ {"text": "參議員，是的，我要為沒有列印給委員會致歉，但那有 468 頁，我可以提供超連結。", "confidence": "high", "notes": ""}
 
 362. We accept that apology.
 → {"text": "我們接受這個道歉。", "confidence": "high", "notes": ""}
 
 363. Though the Ministry of Defence were talking about the possibility that some UFOs were exotic plasmas, three sentences might be directly relevant to your question from Project Condign's final report.
-→ {"text": "儘管國防部談論某些不明飛行物可能是奇特電漿的可能性，康丁計畫（Project Condign）最終報告中有三句話可能與您的問題直接相關。", "confidence": "high", "notes": "修正轉錄錯誤：Project Condine → Project Condign"}
+→ {"text": "儘管英國國防部談論某些不明飛行物可能是奇特電漿的可能性，康代因計畫（Project Condign）最終報告中有三句話可能與您的問題直接相關。", "confidence": "high", "notes": "校稿：康代因計畫從 UFO-15 定譯；main.yaml 本段原文已正確（Project Condign）"}
 
 364. It says, "There is evidence from openly published scientific papers that scientists in the former Soviet Union have taken a particular interest in UFO phenomena.
 → {"text": "報告中寫道：「有證據顯示，根據公開發表的科學論文，前蘇聯的科學家對不明飛行物現象特別感興趣。", "confidence": "high", "notes": ""}
@@ -154,16 +154,16 @@
 → {"text": "他是馮·布朗（von Braun）的導師，後來也為我們工作，就像迴紋針行動（Operation Paperclip）中的許多德國科學家一樣。", "confidence": "high", "notes": ""}
 
 372. But Oberth in the '50s became very interested in ufology, so one of the guys that invented rocket.
-→ {"text": "但奧伯特在1950年代對幽浮學非常感興趣，所以發明火箭的人之一。", "confidence": "high", "notes": ""}
+→ {"text": "但奧伯特在 1950 年代對 UFO 學非常感興趣——而他正是發明火箭的人之一。", "confidence": "high", "notes": "校稿：幽浮學→UFO 學（UFO-15 定譯）"}
 
 373. He wrote the classic book about the rocket into interplanetary space.
-→ {"text": "他寫了關於火箭進入星際空間的經典著作。", "confidence": "high", "notes": ""}
+→ {"text": "他寫了經典著作《火箭進入星際空間》。", "confidence": "high", "notes": ""}
 
 374. This was published in German in 1922, a long time before the Nazis, and so it was a brilliant man.
-→ {"text": "這本書於1922年以德文出版，遠在納粹之前，所以他是個才華洋溢的人。", "confidence": "high", "notes": ""}
+→ {"text": "這本書於 1922 年以德文出版，遠在納粹之前，所以他是個才華洋溢的人。", "confidence": "high", "notes": ""}
 
 375. I'm honored that I met him when he was like something like 96 years old.
-→ {"text": "我很榮幸在他大約96歲時見過他。", "confidence": "high", "notes": ""}
+→ {"text": "我很榮幸在他大約 96 歲時見過他。", "confidence": "high", "notes": ""}
 
 376. I didn't speak German, so I cannot say that I interviewed him, but at least I had the pleasure of meeting one of the fathers of the Space Age.
 → {"text": "我不會說德語，所以我不能說我訪問了他，但至少我有幸見到太空時代之父之一。", "confidence": "high", "notes": ""}
@@ -178,16 +178,16 @@
 → {"text": "技術細節我需要查看我的筆記，所以我不想推測。", "confidence": "high", "notes": ""}
 
 380. One of the things he had to say, though, is because of the maneuverability, the change of course and 90-degree changes, turns, and things like that, the pilots or whoever beings were inside these objects had to be shielded from the rest of it, otherwise they would be crushed to death, he said.
-→ {"text": "不過，他提到的一點是，由於這些物體的機動性、航向改變和90度轉彎等，駕駛員或任何在這些物體內的生物必須被屏蔽，否則他們會被壓死，他說。", "confidence": "high", "notes": ""}
+→ {"text": "不過，他說過的一點是：由於這些物體的機動性——航向改變、90 度轉彎等等——駕駛員或這些物體內的任何存有都必須受到屏蔽保護，否則會被壓死。", "confidence": "high", "notes": "校稿：beings 譯存有（專案慣例）"}
 
 381. These were some papers he wrote in the 1950s.
-→ {"text": "這些是他在1950年代寫的一些論文。", "confidence": "high", "notes": ""}
+→ {"text": "這些是他在 1950 年代寫的一些論文。", "confidence": "high", "notes": ""}
 
 382. Actually in the Rockefeller briefing document that I co-authored, in the quotation section we do have some key quotes from Herman Oberth, but if you're interested I can get you some other articles that he published about this subject.
 → {"text": "實際上在我共同撰寫的洛克菲勒簡報文件中，引言部分確實有赫爾曼·奧伯特的一些關鍵引述，如果您有興趣，我可以提供他發表的其他相關文章。", "confidence": "high", "notes": ""}
 
 383. There's another American scientist who used to work for NASA, Paul Hill, I believe was his name, who wrote a book after his death, I think his daughter had found these notes or whatever, and it was called "Unconventional Flying Objects."
-→ {"text": "還有另一位曾為NASA工作的美國科學家，我相信他叫保羅·希爾（Paul Hill），他去世後出版了一本書，我想是他女兒找到了這些筆記或什麼的，書名叫《非常規飛行物體》（Unconventional Flying Objects）。", "confidence": "high", "notes": "修正轉錄錯誤：Conventional → Unconventional"}
+→ {"text": "還有另一位曾為 NASA 工作的美國科學家，我相信他叫保羅·希爾（Paul Hill），他去世後出版了一本書，我想是他女兒找到了這些筆記或什麼的，書名叫《非常規飛行物體》（Unconventional Flying Objects）。", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（Unconventional Flying Objects）"}
 
 384. That's a pretty serious, sober, highly technical discussion of propulsion.
 → {"text": "那是一個相當嚴肅、冷靜、高度技術性的推進系統討論。", "confidence": "high", "notes": ""}
@@ -208,7 +208,7 @@
 → {"text": "我想他的真名是施奈德·法蘭肯（Schneider Franken）或類似的名字。", "confidence": "high", "notes": ""}
 
 390. I think he had maybe worked in Peenemünde also, Gordon Cooper, the astronaut Gordon Cooper knew him.
-→ {"text": "我想他可能也在佩訥明德（Peenemünde）工作過，太空人戈登·庫伯（Gordon Cooper）認識他。", "confidence": "high", "notes": "修正轉錄錯誤：Penemunde → Peenemünde"}
+→ {"text": "我想他可能也在佩訥明德（Peenemünde）工作過，太空人戈登·庫伯（Gordon Cooper）認識他。", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（Peenemünde）"}
 
 391. Gordon Cooper was very, very much interested in the UFO phenomenon.
 → {"text": "戈登·庫伯對不明飛行物現象非常非常感興趣。", "confidence": "high", "notes": ""}

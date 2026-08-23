@@ -16,7 +16,7 @@
 → {"text": "是的，有這個可能性。", "confidence": "high", "notes": ""}
 
 583. You know that the Grenada resolution was simply frozen, and any member state of the United States could take this resolution and to put it into the agenda.
-→ {"text": "您知道格瑞那達決議（Grenada resolution）只是被凍結了，任何聯合國會員國都可以重新提出這項決議並列入議程。", "confidence": "high", "notes": "原文 'United States' 應為 'United Nations'（聯合國會員國），這是轉錄錯誤"}
+→ {"text": "您知道格瑞那達決議（Grenada resolution）只是被凍結了，任何聯合國會員國都可以重新提出這項決議並列入議程。", "confidence": "high", "notes": "校稿：原文 member state of the United States 應為 United Nations（main.yaml 原文未修，已補錄 topics.json）"}
 
 584. Then we will have a vote from the United Nations, and we will see if by case this commission, permanent commission for UFOs in the United Nations, may be created or not.
 → {"text": "然後聯合國就會進行投票，屆時我們就能看到這個委員會——聯合國 UFO 常設委員會——是否能夠成立。", "confidence": "high", "notes": ""}
@@ -49,7 +49,7 @@
 → {"text": "但聯合國的問題在於，必須由會員國提出。", "confidence": "high", "notes": ""}
 
 594. In the case of Granada, Prime Minister Gairy was almost obsessed with the subject, so he had a mission, and he pursued it, as we know, for many years, until he was overthrown, because he wasn't taking care of the business in his own country.
-→ {"text": "以格瑞那達為例，蓋瑞總理（Prime Minister Gairy）幾乎為這個議題著迷，所以他有個使命，如我們所知，他追求了許多年，直到被推翻為止，因為他沒有處理好自己國家的事務。", "confidence": "high", "notes": "指 Eric Gairy，格瑞那達總理，1970年代向聯合國推動 UFO 調查"}
+→ {"text": "以格瑞那達為例，蓋瑞總理（Prime Minister Gairy）幾乎為這個議題著迷，所以他有個使命，如我們所知，他追求了許多年，直到被推翻為止，因為他沒有處理好自己國家的事務。", "confidence": "high", "notes": "校稿：蓋瑞總理即 Eric Gairy（1970 年代向聯合國推動 UFO 調查）；main.yaml 本段原文已正確（Gairy）"}
 
 595. He was spending so much time in New York that he was disregarding, even though he was the founding father of that island.
 → {"text": "他花了太多時間待在紐約，以至於疏忽了國政，儘管他是那座島國的開國元勳。", "confidence": "high", "notes": ""}
@@ -79,7 +79,7 @@
 → {"text": "聯合國外太空事務辦公室（United Nations Office of Outer Space Affairs）的主管於 2010 年出席了在英國舉行的英國皇家學會（Royal Society）討論會。", "confidence": "high", "notes": "依照 terminology.yaml 翻譯"}
 
 604. Now, I hasten to add that was an astrobiology meeting, and not a UFO meeting, but it did discuss in a speculative way some of the issues that might arise, be they religious, scientific, and technical, societal, if we did detect extraterrestrial life or even another civilization, but she said that when it comes to the role of the UN, one must approach the UN with consensus on this sort of issue, so I don't think there's much practical hope of that.
-→ {"text": "我要趕緊補充，那是一場天體生物學會議，而非 UFO 會議，但確實以推測性的方式討論了一些可能出現的問題——無論是宗教、科學、技術還是社會層面——如果我們確實偵測到外星生命（extraterrestrial life）甚至另一個文明的話，但她說，談到聯合國的角色，必須在這類議題上達成共識才能接觸聯合國，所以我認為這在實際上沒有太大希望。", "confidence": "high", "notes": "extraterrestrial 依照 terminology.yaml 翻譯"}
+→ {"text": "我要趕緊補充，那是一場天體生物學會議，而非 UFO 會議，但確實以推測性的方式討論了一些可能出現的問題——無論是宗教、科學、技術還是社會層面——如果我們確實偵測到外星生命甚至另一個文明的話，但她說，談到聯合國的角色，必須在這類議題上達成共識才能接觸聯合國，所以我認為這在實際上沒有太大希望。", "confidence": "high", "notes": ""}
 
 605. On regard to your other question about practical steps that could be taken, I think one meaningful step would be to incorporate whatever you believe about UFOs, some module into pilot training, because whatever the government says or does about UFOs, civil and military pilots, do continue to see these things.
 → {"text": "關於您提出的另一個問題，即可以採取哪些實際步驟，我認為一個有意義的步驟是，無論您對 UFO 有何看法，都應該將某種模組納入飛行員訓練中，因為無論政府對 UFO 說了什麼或做了什麼，民用和軍用飛行員確實持續目擊這些東西。", "confidence": "high", "notes": ""}
@@ -115,7 +115,7 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 616. Dr. Shelley?
-→ {"text": "孫博士？", "confidence": "high", "notes": "指 Dr. Sun Shili（孫世力博士），Whisper 誤聽為 Dr. Shelley"}
+→ {"text": "孫式立博士？", "confidence": "high", "notes": "校稿：原文 Dr. Shelley 應為 Dr. Sun Shili（孫式立，主席誤讀；照正確姓名翻譯，UFO-15 先例；main.yaml 原文未修，已補錄 topics.json）"}
 
 617. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -139,7 +139,7 @@
 → {"text": "如果經過調查後，我們得出結論認為沒有 UFO 或外星人（ET），那也很好，但如果我們能驗證確實存在 UFO 和外星人，那就太好了。", "confidence": "high", "notes": "ET = extraterrestrial，外星人"}
 
 624. Mr. Pinotti, you already gave your answer to this one, didn't you?
-→ {"text": "皮諾提先生，您已經回答過這個問題了，對吧？", "confidence": "high", "notes": "指 Roberto Pinotti"}
+→ {"text": "皮諾蒂先生，您已經回答過這個問題了，對吧？", "confidence": "high", "notes": "校稿：皮諾蒂從 UFO-15 定譯（羅貝托·皮諾蒂博士）"}
 
 625. Excuse me?
 → {"text": "什麼？", "confidence": "high", "notes": ""}
@@ -187,7 +187,7 @@
 → {"text": "我們應該意識到，我們正面對某種絕對嶄新、絕對真實、絕對來自外部的東西。", "confidence": "high", "notes": ""}
 
 640. Don't remember that the first UFO sightings occurred in Europe, and particularly in Italy, in the '30s.
-→ {"text": "別忘了，最早的 UFO 目擊事件發生在歐洲，特別是義大利，在 1930 年代。", "confidence": "high", "notes": "Don't forget 的意思，sightings 依照 terminology.yaml 翻譯為「目擊事件」"}
+→ {"text": "別忘了，最早的 UFO 目擊事件發生在歐洲，特別是義大利，在 1930 年代。", "confidence": "high", "notes": "校稿：原文 Don't remember 依語境應為 Don't forget（main.yaml 原文未修，已補錄 topics.json）"}
 
 641. They were advanced, intelligent, piloted crafts.
 → {"text": "它們是先進的、有智能的、有人駕駛的飛行器。", "confidence": "high", "notes": ""}
@@ -208,7 +208,7 @@
 → {"text": "如果這是真的，我們應該意識到，我們正面對一個歷史性的論點。", "confidence": "high", "notes": ""}
 
 647. We are still discussing, and from a sociological point of view, I think that we are not too different from the cargo cult people who spoke in the Pacific after World War II about the passing airplanes, and that they thought they were some kind of divine means and so on.
-→ {"text": "我們仍在討論，從社會學角度來看，我認為我們與第二次世界大戰後在太平洋地區談論過往飛機的貨物崇拜者（cargo cult people）沒有太大不同，他們認為那些是某種神聖的手段等等。", "confidence": "high", "notes": "cargo cult people 依照 topics.json 的 potential_errors 修正"}
+→ {"text": "我們仍在討論，從社會學角度來看，我認為我們與第二次世界大戰後在太平洋地區談論過往飛機的貨物崇拜者（cargo cult people）沒有太大不同，他們認為那些是某種神聖的手段等等。", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（cargo cult people）"}
 
 648. Apart from this, we do not know the origin of this intelligence and of these crafts, but what is sure that we are sufficiently lucky that this intelligence are not hostile, and this is not too much, frankly.
 → {"text": "除此之外，我們不知道這種智慧和這些飛行器的起源，但可以確定的是，我們足夠幸運，這種智慧並不具有敵意，坦白說，這已經很不錯了。", "confidence": "high", "notes": ""}
@@ -232,7 +232,7 @@
 → {"text": "按照各位的建議，我先前曾提出——我認為卡麥隆先生也持相同看法——再舉行一場聽證會，無論是像這樣的聽證會還是在國會舉行，可能都不會讓我們的目標有太大進展。", "confidence": "high", "notes": ""}
 
 655. But there's no reason why, with the various countries represented here, with the various scholars and military officers, that we would try to, within our own communities, to get them to endorse a resolution, a very simple, straightforward resolution, calling upon the General Assembly, not get waylaid to the Security Council, because that's a dead letter also, but to take the matter to the General Assembly, all we would need is one country.
-→ {"text": "但沒有理由不這樣做：在這裡代表的各國，以及各位學者和軍官，我們可以在自己的社群中努力，讓他們支持一項決議，一項非常簡單、直截了當的決議，呼籲聯合國大會（General Assembly）——不要被拖到安全理事會（Security Council），因為那也是一紙空文——但要將此事提交聯合國大會，我們只需要一個國家。", "confidence": "high", "notes": "General Assembly 和 Security Council 依照 terminology.yaml 翻譯"}
+→ {"text": "但沒有理由不這樣做：在這裡代表的各國，以及各位學者和軍官，我們可以在自己的社群中努力，讓他們支持一項決議，一項非常簡單、直截了當的決議，呼籲聯合國大會（General Assembly）——不要被拖到聯合國安理會（Security Council），因為那也是一紙空文——但要將此事提交聯合國大會，我們只需要一個國家。", "confidence": "high", "notes": "校稿：聯合國大會／聯合國安理會從本集詞彙表定譯"}
 
 656. But I think that we have several countries from South America, and certainly this group here might have enough influence to get their government to go on record and to field a resolution creating an agency of the United Nations without a lot of powers defined, but specifically with the goal to organize a global conference, not a hearing, a global conference of the scholars and scientists and whoever that would come together, and to fund it both from public and private sources, so that within a couple of years we could convene a conference that would command the attention of the world.
 → {"text": "但我認為我們有幾個南美國家，當然這裡的這個小組可能有足夠的影響力，讓他們的政府正式表態並提出一項決議，在聯合國創建一個機構，不需要定義太多權力，但明確以組織全球會議為目標，不是聽證會，而是學者、科學家以及任何人都可以參加的全球會議，並從公共和私人來源獲得資金，這樣我們就可以在幾年內召開一場引起全世界關注的會議。", "confidence": "high", "notes": ""}
@@ -250,7 +250,7 @@
 → {"text": "我的意思是這不會有爭議，我們已經討論過了，或者說我已經向我的同事提出過，這是既定事實，您知道的，所以我們會有一些東西，不僅各位作證的成員、我們這邊桌子的成員，以及公眾中的各位成員可能想簽署一份請願書支持這項努力，然後希望一個組織——要麼是做這件事的組織，或者我已經與其他一些有組織的人談過，他們可能想承接並跟進這件事，籌集資金，把它帶到紐約，可能在下一次會議上處理這件事，那將是明年十月，明年九月，明年十月，所以，我自己當然很樂意前往紐約並為此遊說，但這需要，我們需要一個國家來做，所以這取決於您，看您在哪裡有影響力", "confidence": "high", "notes": ""}
 
 661. within your country to, and all we need is one, all we need is one, and that would be the sponsor, and I'm sure once you got one country with a sponsor, several other countries would follow suit and join on to it, so we could have a bevy of countries, and I think just to end on this time, I would guarantee that it would pass, because there's a lot of resentment in the General Assembly with respect to the conduct of the Security Council in a lot of other affairs.
-→ {"text": "在您的國家內，我們只需要一個，我們只需要一個，那就是提案國，我相信一旦您得到一個提案國，其他幾個國家會跟進並加入，這樣我們就可以有一群國家，我認為就此結束時，我可以保證它會通過，因為聯合國大會對安全理事會在許多其他事務上的行為有很多不滿。", "confidence": "high", "notes": ""}
+→ {"text": "在您的國家內，我們只需要一個，我們只需要一個，那就是提案國，我相信一旦您得到一個提案國，其他幾個國家會跟進並加入，這樣我們就可以有一群國家，我認為就此結束時，我可以保證它會通過，因為聯合國大會對聯合國安理會在許多其他事務上的行為有很多不滿。", "confidence": "high", "notes": ""}
 
 662. I want to thank our panel today, you have been here, and appreciate your time and your effort and your willingness to speak up, and with that, we are adjourned. , thank you.
 → {"text": "我想感謝今天的專家小組，各位都在這裡，感謝各位撥冗出席、付出努力並願意發言，會議到此結束。謝謝。", "confidence": "high", "notes": ""}

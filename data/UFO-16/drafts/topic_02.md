@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 79. Dr. Bartlett.
-→ {"text": "巴特萊特博士。", "confidence": "high", "notes": ""}
+→ {"text": "巴特利特博士。", "confidence": "high", "notes": "校稿：從主表與 UFO-15 定譯（羅斯科·巴特利特）"}
 
 80. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -61,7 +61,7 @@
 → {"text": "很少人真正理解這件事。", "confidence": "high", "notes": ""}
 
 99. Then two years later, Ben Rich, who ran Lockheed Skunk Works, and I can remind the Congress that you guys funded all these operations, the U-2, the SR-71, the stealth fighter, the stealth bomber, the drones.
-→ {"text": "兩年後，也就是班·里奇（Ben Rich）領導洛克希德臭鼬工廠的時期，我可以提醒國會各位，你們資助了所有這些行動——U-2、SR-71、匿蹤戰鬥機、匿蹤轟炸機、無人機。", "confidence": "high", "notes": "Ben Rich 依照 terminology.yaml 翻譯為「班·里奇」，Lockheed Skunk Works 翻譯為「洛克希德臭鼬工廠」"}
+→ {"text": "兩年後，也就是班·里奇（Ben Rich）領導洛克希德臭鼬工廠的時期，我可以提醒國會各位，你們資助了所有這些計畫——U-2、SR-71、匿蹤戰鬥機、匿蹤轟炸機、無人機。", "confidence": "high", "notes": "Ben Rich 依照 terminology.yaml 翻譯為「班·里奇」，Lockheed Skunk Works 翻譯為「洛克希德臭鼬工廠」；operations 指機型研發計畫"}
 
 100. This guy ran Lockheed Skunk Works in 1993.
 → {"text": "這個人在 1993 年掌管洛克希德臭鼬工廠。", "confidence": "high", "notes": ""}
@@ -73,10 +73,10 @@
 → {"text": "他站起來，最後展示的投影片是一個飛碟。", "confidence": "high", "notes": "flying saucer 依照 terminology.yaml 翻譯為「飛碟」"}
 
 103. And he says, "We now have the technology to take ET home.
-→ {"text": "他說：「我們現在已經擁有將 ET 送回家的技術。", "confidence": "high", "notes": "ET (外星人) 保留原文"}
+→ {"text": "他說：「我們現在已經擁有把 ET 帶回家的技術。", "confidence": "high", "notes": "ET（外星人）保留原文；同 UFO-03 定譯「把 ET 帶回家的技術」"}
 
 104. We've discovered the mistake in the equation, and it's going to take an act of God to get this thing out of Congress because it's so deep black."
-→ {"text": "我們已經發現了方程式中的錯誤，但要讓國會公開這項技術需要神蹟，因為這太過機密了。」", "confidence": "high", "notes": "deep black 指極度機密的黑色計畫"}
+→ {"text": "我們已經發現了方程式中的錯誤，但除非奇蹟發生，否則這件事不可能突破國會的封鎖，因為它屬於極深層的黑預算。」", "confidence": "high", "notes": "act of God 意為奇蹟、非人力所能及之事；deep black 指最高層級的黑預算機密（同 UFO-04 定譯）"}
 
 105. Two of the people in the room were UFO researchers.
 → {"text": "房間裡有兩位 UFO 研究者。", "confidence": "high", "notes": ""}
@@ -160,7 +160,7 @@
 → {"text": "您提到了電磁推進。", "confidence": "high", "notes": ""}
 
 132. That was in the French report about the Trans-en-Provence case, yes, and I think they had found it if they can show the slide of the Rockefeller from the briefing document.
-→ {"text": "是的，這是在法國關於特朗桑普羅旺斯案（Trans-en-Provence case）的報告中提到的，如果他們能展示洛克菲勒簡報文件中的投影片，我想他們已經找到了。", "confidence": "high", "notes": "原文 Trans Improvance 為轉錄錯誤，正確為 Trans-en-Provence，依照 topics.json potential_errors 修正"}
+→ {"text": "是的，這是在法國關於普羅旺斯特朗案（Trans-en-Provence）的報告中提到的，如果他們能展示洛克菲勒簡報文件中的投影片，我想他們已經找到了。", "confidence": "high", "notes": "校稿：普羅旺斯特朗從 UFO-15 定譯；main.yaml 本段原文已正確（Trans-en-Provence）"}
 
 133. That was in their conclusions.
 → {"text": "這是他們的結論中的內容。", "confidence": "high", "notes": ""}
@@ -172,7 +172,7 @@
 → {"text": "結論部分，我可能從這裡看不太清楚，但沒錯，就在那裡。", "confidence": "high", "notes": ""}
 
 136. So this is the landing case in the farmers' field in Trans Improvance in 1981.
-→ {"text": "這是 1981 年特朗桑普羅旺斯農田中的降落案例。", "confidence": "high", "notes": "原文 Trans Improvance 為轉錄錯誤，正確為 Trans-en-Provence"}
+→ {"text": "這是 1981 年普羅旺斯特朗農田中的降落案例。", "confidence": "high", "notes": "校稿：原文 Trans Improvance 應為 Trans-en-Provence（main.yaml 本段原文未修，已補錄 topics.json）；普羅旺斯特朗從 UFO-15 定譯"}
 
 137. Conclusion, physical phenomenon unexplained nature, high probability of electromagnetic mode of propulsion.
 → {"text": "結論：無法解釋的物理現象，電磁推進模式的高度可能性。", "confidence": "high", "notes": ""}
@@ -184,7 +184,7 @@
 → {"text": "這就是他們的結論。", "confidence": "high", "notes": ""}
 
 140. Also, since you had asked about the near collision, I might as well add that that's, as I explained in this morning's testimony, that again was one of the main reasons of the Chilean committee, the CEFA, to ensure air safety operations.
-→ {"text": "另外，既然您問到了險些相撞的問題，我不妨補充一點，正如我在今天上午的證詞中所解釋的，這正是智利異常空中現象研究委員會（CEFAA）成立的主要原因之一——確保航空安全作業。", "confidence": "high", "notes": "原文 CEFA 應為 CEFAA（沿用 UFO-13 人工裁決）；本集校稿收尾時補錄 topics.json"}
+→ {"text": "另外，既然您問到了險些相撞的問題，我不妨補充一點，正如我在今天上午的證詞中所解釋的，這正是智利異常空中現象研究委員會（CEFAA）成立的主要原因之一——確保航空安全作業。", "confidence": "high", "notes": "校稿：原文 CEFA 應為 CEFAA（沿用 UFO-13 人工裁決；main.yaml 本段原文未修，已補錄 topics.json）"}
 
 141. That's part of their mission.
 → {"text": "這是他們任務的一部分。", "confidence": "high", "notes": ""}
@@ -211,7 +211,7 @@
 → {"text": "機場人員能夠看到這個物體在機場上方盤旋。", "confidence": "high", "notes": ""}
 
 149. And of course, there was not a near collision, but there was a famous similar case at the O'Hare Airport in Chicago in 2006, I believe it was, which was quite significant, seen near the American Airlines terminal.
-→ {"text": "當然，那次並非險些相撞，但 2006 年芝加哥歐海爾機場（O'Hare Airport）也有一起類似的著名案例，我記得是那一年，相當重要，在美國航空的航廈附近目擊到。", "confidence": "high", "notes": "原文 O'Hara 為轉錄錯誤，正確為 O'Hare Airport，依照 topics.json potential_errors 修正"}
+→ {"text": "當然，那次並非險些相撞，但 2006 年芝加哥歐海爾機場（O'Hare Airport）也有一起類似的著名案例，我記得是那一年，相當重要，在美國航空的航廈附近目擊到。", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（O'Hare Airport）"}
 
 150. And it only leaked out because I think it was the Chicago Tribune got wind of it.
 → {"text": "這件事之所以洩露出來，是因為我想是《芝加哥論壇報》得到了消息。", "confidence": "high", "notes": ""}
@@ -238,7 +238,7 @@
 → {"text": "今天上午關於飛行員追逐 UFO 的故事，我想我聽說儘管它體積龐大且非常明顯，但雷達上沒有軌跡？", "confidence": "high", "notes": ""}
 
 158. I don't...
-→ {"text": "我不⋯⋯", "confidence": "high", "notes": ""}
+→ {"text": "我不……", "confidence": "high", "notes": ""}
 
 159. I think that's what I remember here.
 → {"text": "我想我記得是這樣。", "confidence": "high", "notes": ""}
@@ -259,7 +259,7 @@
 → {"text": "事實上，他曾來到國家新聞俱樂部（National Press Club）之前的研討會上作證。", "confidence": "high", "notes": "National Press Club 依照 terminology.yaml 翻譯為「國家新聞俱樂部」"}
 
 165. He was the pilot that...same thing, this huge UFO object was flying over Tehran.
-→ {"text": "他就是那位飛行員⋯⋯同樣的情況，一個巨大的 UFO 在德黑蘭上空飛行。", "confidence": "high", "notes": ""}
+→ {"text": "他就是那位飛行員……同樣的情況，一個巨大的 UFO 在德黑蘭上空飛行。", "confidence": "high", "notes": ""}
 
 166. This was in the days of the Shah.
 → {"text": "這是在國王統治時期。", "confidence": "high", "notes": "the Shah 指伊朗巴勒維國王"}
@@ -313,7 +313,7 @@
 → {"text": "但這個物體是真實的，這一點毫無疑問。", "confidence": "high", "notes": ""}
 
 183. If it's true that these things can deflect bullets and not be affected, then somehow they might be able to absorb radar and have no reflection?
-→ {"text": "如果這些東西真的能偏轉子彈而不受影響，那麼它們某種程度上也許能吸收雷達波而沒有反射？", "confidence": "high", "notes": "原文 absorb bullets 為轉錄錯誤，正確為 deflect bullets（偏轉子彈），依照 topics.json potential_errors 修正"}
+→ {"text": "如果這些東西真的能偏轉子彈而不受影響，那麼它們某種程度上也許能吸收雷達波而沒有反射？", "confidence": "high", "notes": "校稿：main.yaml 本段原文已正確（deflect bullets）"}
 
 184. Yes.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -349,7 +349,7 @@
 → {"text": "而這個能量場會干擾電氣系統。", "confidence": "high", "notes": ""}
 
 195. And even blackouts have been, in many cases, of power blackouts.
-→ {"text": "甚至在許多停電案例中，都曾發生停電。", "confidence": "medium", "notes": "此句原文有些重複，意思是許多停電案例與 UFO 有關"}
+→ {"text": "還有停電——許多停電案例都曾與 UFO 目擊有所關聯。", "confidence": "medium", "notes": "原文句構重複破碎（And even blackouts have been, in many cases, of power blackouts），依語意整理"}
 
 196. Even the major blackouts, even in the United States, there were reports of UFO sightings near the power station where the blackout was triggered.
 → {"text": "即使是大規模停電，即使在美國，也有報告指出在觸發停電的發電廠附近有 UFO 目擊事件。", "confidence": "high", "notes": ""}
@@ -379,7 +379,7 @@
 → {"text": "所以確實存在電磁效應，但需要更深入的研究，而為此我們需要資源。", "confidence": "high", "notes": ""}
 
 205. Is there any—what are the suggestions as to what the energy source is that these craft use?
-→ {"text": "關於這些飛行器使用的能源是什麼，有任何建議嗎？", "confidence": "high", "notes": ""}
+→ {"text": "關於這些飛行器使用的能源是什麼，目前有任何說法嗎？", "confidence": "high", "notes": ""}
 
 206. Well, I'm not really an engineer, you know.
 → {"text": "嗯，我其實不是工程師，你知道的。", "confidence": "high", "notes": ""}
