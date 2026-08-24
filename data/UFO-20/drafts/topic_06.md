@@ -19,22 +19,22 @@
 → {"text": "我們說『建議』，是因為我們尊重這是你們的星球，不是我們的這個事實。他們也違背了那項協議。現在回到吉姆的敘述：「我感受到他們傳來一陣強烈的情緒，一種被遺棄的感覺。能從他們身上感受到任何情緒就已經很驚人了，但這種感覺相當強烈。」", "confidence": "high", "notes": ""}
 
 102. You aren't giving up on us, are you? I asked. There was a long silent pause, and I received the transmitted feeling of tremendous loss. Well, are you? I asked. No. I felt an immediate sense of relief straight from my own emotions. But then the extraterrestrials again, your air, your water are contaminated. Your forests, jungles, trees and plant life are dying. There are several breaks in your food chain. You have an overwhelming amount of nuclear and biological weapons, which include nuclear and biological contamination. Your planet is overpopulated. Warning, it is almost to the point of being too late, unless your people act. There are better ways of deriving energy and food needs without causing your planet any damage. Those in power are aware of this and have the capability of putting these methods into worldwide use. I let this digest for a moment. I definitely had the feeling that
-→ {"text": "「你們不會放棄我們吧？」我問道。一陣長長的沉默，我接收到傳來的巨大失落感。「嗯，你們會嗎？」我問。「不會。」我立即感到一種解脫感，這直接來自我自己的情緒。但接著外星存有再次說道：「你們的空氣、水源受到污染。你們的森林、叢林、樹木和植物正在死亡。你們的食物鏈有多處斷裂。你們擁有數量驚人的核子與生物武器，這包括核子與生物污染。你們的星球人口過剩。警告：除非妳們的人民採取行動，否則幾乎為時已晚。有更好的方式可以獲取能源和食物需求，而不會對你們的星球造成任何損害。那些當權者知道這一點，並有能力將這些方法推廣到全球使用。」我讓這番話消化了一會兒。我確實有一種感覺，", "confidence": "high", "notes": ""}
+→ {"text": "「你們不會放棄我們吧？」我問道。一陣長長的沉默，我接收到傳來的巨大失落感。「嗯，你們會嗎？」我問。「不會。」我立即感到一種解脫感，這直接來自我自己的情緒。但接著外星存有再次說道：「你們的空氣、水源受到污染。你們的森林、叢林、樹木和植物正在死亡。你們的食物鏈有多處斷裂。你們擁有數量驚人的核子與生物武器，這包括核子與生物污染。你們的星球人口過剩。警告：除非你們的人民採取行動，否則幾乎為時已晚。有更好的方式可以獲取能源和食物需求，而不會對你們的星球造成任何損害。那些當權者知道這一點，並有能力將這些方法推廣到全球使用。」我讓這番話消化了一會兒。我確實有一種感覺，", "confidence": "high", "notes": ""}
 
 103. these creatures are speaking as one. Then I asked, why aren't we doing that now? Silence.
 → {"text": "這些生物是作為一個整體在說話。然後我問：「那我們為什麼現在不做呢？」沉默。", "confidence": "high", "notes": ""}
 
 104. I was willing to wait. I had come a long way to be treated like this by them to have this kind of meeting. Apparently I had earned their respect and trust. The best part was that I was getting direct truthful answers to my questions. I decided that I would milk this rare situation to its fullest, asking as many questions as I could get away with, even personal ones. I repeated my question and they answered. Those in power view it as a military and security threat. That upset me. You mean to tell me that the people in power have the ability to save and better the planet and they aren't doing it? Amnesty. What do you mean? Complete amnesty to those in power, governments and leaders who have been suppressing the truth, that they can't be held liable for any past wrong deeds. It is the only way these leaders can come forward with the truth. It is necessary that you do this in order to work together
-→ {"text": "我願意等待。我經歷了這麼多，才能被他們這樣對待，進行這種會面。顯然我已經贏得了他們的尊重和信任。最棒的是，我得到了對我問題的直接而真實的答案。我決定要充分利用這個難得的機會，盡可能多問一些問題，即使是私人問題。我重複了我的問題，他們回答說：「那些當權者將其視為軍事和安全威脅。」這讓我很不安。「你的意思是，那些當權者有能力拯救和改善這個星球，卻沒有這樣做？」「赦免（Amnesty）。」「什麼意思？」「對那些當權者、政府和領導人給予完全赦免，他們一直壓制真相，但不能追究他們過去的任何不當行為。這是這些領導人能夠站出來說出真相的唯一方式。你們必須這樣做，才能為了共同生存而合作。", "confidence": "high", "notes": ""}
+→ {"text": "我願意等待。我經歷了這麼多，才能被他們這樣對待，進行這種會面。顯然我已經贏得了他們的尊重和信任。最棒的是，我得到了對我問題的直接而真實的答案。我決定要充分利用這個難得的機會，盡可能多問一些問題，即使是私人問題。我重複了我的問題，他們回答說：「那些當權者將其視為軍事和安全威脅。」這讓我很不安。「你的意思是，那些當權者有能力拯救和改善這個星球，卻沒有這樣做？」「赦免（Amnesty）。」「什麼意思？」「對那些當權者、政府和領導人給予完全赦免，他們一直壓制真相，但不能追究他們過去的任何不當行為。這是這些領導人能夠站出來說出真相的唯一方式。你們必須這樣做，才能", "confidence": "high", "notes": ""}
 
 105. and survive.
-→ {"text": "並生存下去。」", "confidence": "high", "notes": ""}
+→ {"text": "合作並生存下去。」", "confidence": "high", "notes": ""}
 
 106. I think that's wonderful advice straight from the ET's lips. I think Congress should exercise its power. I know that they've got some job owning, but they have the ultimate power.
 → {"text": "我認為這是來自外星存有（ET）之口的絕佳建議。我認為國會應該行使其權力。我知道他們有一些工作要完成，但他們擁有最終的權力。", "confidence": "high", "notes": ""}
 
 107. They could say to the junta, "We want you to do this. We'll give you amnesty, protection.
-→ {"text": "他們可以對那個集團說：「我們要你們這樣做。我們會給你們赦免（amnesty）、保護。", "confidence": "high", "notes": ""}
+→ {"text": "他們可以對那個軍事獨裁集團說：「我們要你們這樣做。我們會給你們赦免（amnesty）、保護。", "confidence": "high", "notes": ""}
 
 108. We want you to do this and you're going to do it. If you don't, we'll cut your funding off except for salaries and wages until you do do it." Because it's in the national interest and it's in the world interest. We want to know what's going on and specifically we want the energy sources to put into effect to save the world before it's too darn late.
 → {"text": "我們要你們這樣做，而你們必須去做。如果不做，我們會切斷你們的資金，只留下薪資和工資，直到你們照做為止。」因為這符合國家利益，也符合世界利益。我們想知道發生了什麼事，特別是我們希望那些能源技術能夠付諸實施，在為時已晚之前拯救世界。", "confidence": "high", "notes": ""}

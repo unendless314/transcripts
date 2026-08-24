@@ -74,6 +74,12 @@
           "error_text": "new American energy",
           "suggested_correction": "new American century",
           "reasoning": "The speaker is referring back to the 'Project for a New American Century' mentioned previously in his testimony. 'Energy' is a contextual error."
+        },
+        {
+          "segment_id": 14,
+          "error_text": "Linda Bolton Howe",
+          "suggested_correction": "Linda Moulton Howe",
+          "reasoning": "琳達·莫爾頓·豪（Linda Moulton Howe）為知名調查記者，主表與 UFO-10/14/18 定譯一致；'Bolton' 為 Whisper 音近誤轉錄。"
         }
       ]
     },
@@ -92,7 +98,20 @@
         "singularity",
         "Dennis Kucinich"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 54,
+          "error_text": "Investors",
+          "suggested_correction": "Citizens",
+          "reasoning": "2026-08-24 人工看片確認音檔實為 Citizens（公民），非單純音近誤轉錄；語意上「公民自然想知道保密結構」亦遠較 Investors 通順。"
+        },
+        {
+          "segment_id": 57,
+          "error_text": "independent UFO searchers",
+          "suggested_correction": "independent UFO researchers",
+          "reasoning": "下一句即作 independent researchers；'searchers' 疑為 'researchers' 之漏音誤轉錄。"
+        }
+      ]
     },
     {
       "topic_id": "topic_04",
@@ -171,6 +190,24 @@
           "error_text": "Mr. Hillier",
           "suggested_correction": "Mr. Hellyer",
           "reasoning": "Consistent spelling of witness Paul Hellyer's name."
+        },
+        {
+          "segment_id": 83,
+          "error_text": "Paul Heller",
+          "suggested_correction": "Paul Hellyer",
+          "reasoning": "與 seg 88 Mr. Hillier 同類型誤拼；Paul Hellyer 為本集證人，原文兩處 Heller 均應為 Hellyer。"
+        },
+        {
+          "segment_id": 91,
+          "error_text": " But we are a republic, Benjamin Franklin asked.",
+          "suggested_correction": "",
+          "reasoning": "2026-08-24 人工看片確認：講者實際說完 We have a democratic process 後群眾即鼓掌，無富蘭克林引語；結尾句為 Whisper 於掌聲段落產出的幻覺文字，應刪除。另 We are a democratic process 實為 We have a democratic process（同筆修正）。"
+        },
+        {
+          "segment_id": 91,
+          "error_text": "We are a democratic process",
+          "suggested_correction": "We have a democratic process",
+          "reasoning": "2026-08-24 人工看片確認音檔實為 We have a democratic process。"
         }
       ]
     },
@@ -193,6 +230,12 @@
           "error_text": "ECPS wheels",
           "suggested_correction": "ET's lips",
           "reasoning": "The context is receiving advice 'straight from the...'. The phrase 'ECPS wheels' is nonsensical. 'ET's lips' fits the common idiom 'straight from the horse's mouth' and the subject matter."
+        },
+        {
+          "segment_id": 97,
+          "error_text": "Minister Heller",
+          "suggested_correction": "Minister Hellyer",
+          "reasoning": "與 seg 83 同類型誤拼；Minister Hellyer 即加拿大前國防部長 Paul Hellyer。"
         }
       ]
     },
@@ -234,6 +277,24 @@
           "error_text": "Congresswoman Huli's seat",
           "suggested_correction": "Congresswoman Hooley's seat",
           "reasoning": "Darlene Hooley was a member of the panel. 'Huli' is a phonetic misspelling."
+        },
+        {
+          "segment_id": 112,
+          "error_text": "Dr. Buckman",
+          "suggested_correction": "Dr. Bookman",
+          "reasoning": "布克曼博士（Dr. Bookman）為本聽證會小組成員；'Buckman' 為音近誤轉錄，與 UFO-19 seg 617 Berkman→Bookman 同類型。"
+        },
+        {
+          "segment_id": 157,
+          "error_text": "Carol Ross",
+          "suggested_correction": "Carol Rosin",
+          "reasoning": "2026-08-24 人工看片確認。卡羅爾·羅辛（Carol Rosin）為揭露計畫證人，UFO-19 已有定譯；詞彙表原標 seg 159 有誤，實際內容在 seg 157。"
+        },
+        {
+          "segment_id": 157,
+          "error_text": "Bob Sallis",
+          "suggested_correction": "Bob Salas",
+          "reasoning": "2026-08-24 人工看片確認。Bob Salas 即 Robert Salas（羅伯特·薩拉斯上尉），Malmstrom 核飛彈事件證人，UFO-07 主要證人。"
         }
       ]
     }

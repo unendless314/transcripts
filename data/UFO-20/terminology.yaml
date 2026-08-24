@@ -626,20 +626,20 @@ terms:
         segments: [156]
         topics: [topic_07]
 
-  - term: Carol Ross
+  - term: Carol Rosin
     senses:
-      - id: ross_staff_member
-        definition: 卡羅爾·羅斯，工作人員（可能是筆誤，待確認）
-        preferred_translation: 卡羅爾·羅斯
-        notes: 小組成員提及。可能是工作人员或另一位證人的筆誤
-        segments: [159]
+      - id: rosin_disclosure_witness
+        definition: 卡羅爾·羅辛，揭露計畫（Disclosure Project）證人，太空政策倡議者
+        preferred_translation: 卡羅爾·羅辛
+        notes: 小組成員閉幕致謝提及。原文 Whisper 誤轉錄為 Carol Ross，2026-08-24 人工看片確認；與 UFO-19 定譯一致。詞彙表原標 seg 159 有誤，實際內容在 seg 157
+        segments: [157]
         topics: [topic_07]
 
-  - term: Bob Sallis
+  - term: Bob Salas
     senses:
-      - id: sallis_staff_member
-        definition: 鮑勃·薩利斯，工作人員（可能是筆誤，待確認）
-        preferred_translation: 鮑勃·薩利斯
-        notes: 小組成員提及
-        segments: [159]
+      - id: salas_missile_witness
+        definition: 鮑勃·薩拉斯，即 Robert Salas（羅伯特·薩拉斯上尉），Malmstrom 空軍基地核飛彈事件證人
+        preferred_translation: 鮑勃·薩拉斯
+        notes: 小組成員閉幕致謝提及。原文 Whisper 誤轉錄為 Bob Sallis，2026-08-24 人工看片確認；與 UFO-07 主要證人羅伯特·薩拉斯上尉為同一人。詞彙表原標 seg 159 有誤，實際內容在 seg 157
+        segments: [157]
         topics: [topic_07]
