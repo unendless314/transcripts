@@ -175,10 +175,10 @@ terms:
         preferred_translation: 布克曼博士
         segments: [801, 804]
 
-  - term: Dr. Hal Putoff
+  - term: Dr. Hal Puthoff
     senses:
-      - id: dr_hal_putoff_researcher
-        definition: 史丹佛研究所物理學家，遙視研究先驅
+      - id: dr_hal_puthoff_researcher
+        definition: 史丹佛研究院物理學家，遙視研究先驅
         preferred_translation: 哈爾·普特夫博士
         segments: [53, 54]
 

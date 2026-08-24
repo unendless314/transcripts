@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 274. [ Applause ] We'll now be going to Roger Leir, if you wouldn't mind before we begin, could you tell us what DDPM stands for?
-→ {"text": "[掌聲] 現在我們請羅傑·萊爾博士發言。在開始之前，能否請您告訴我們 DDPM 代表什麼意思？", "confidence": "high", "notes": "DDPM = Doctor of Podiatric Medicine（足病醫學博士）"}
+→ {"text": "［掌聲］現在我們請羅傑·萊爾博士發言。在開始之前，能否請您告訴我們 DDPM 代表什麼意思？", "confidence": "high", "notes": "DDPM = Doctor of Podiatric Medicine（足病醫學博士）"}
 
 275. Major Podiatric Medicine.
 → {"text": "足病醫學博士（Doctor of Podiatric Medicine）。", "confidence": "high", "notes": ""}
@@ -28,13 +28,13 @@
 → {"text": "我擁有理學學士學位，以及足病醫學博士（Doctor of Podiatric Medicine）學位。", "confidence": "high", "notes": ""}
 
 283. I did research with Dow Corning for bone replacement implants, I've done participated in research in tendon regeneration, I have a good knowledge of the biological workings of the human body.
-→ {"text": "我曾在 Dow Corning 公司進行骨替代植入物的研究，也參與過肌腱再生的研究，對人體的生物運作機制有深入的了解。", "confidence": "high", "notes": "Dow Corning = 道康寧公司（矽膠和特殊材料製造商）"}
+→ {"text": "我曾在道康寧公司（Dow Corning）進行骨替代植入物的研究，也參與過肌腱再生的研究，對人體的生物運作機制有深入的了解。", "confidence": "high", "notes": ""}
 
 284. I was also, for three years, the chairman of a committee at the Cedars Lebanon Hospital in Hollywood, California, head of the diabetic clinic and director of residency training program at a hospital in Simi Valley, California.
 → {"text": "我還曾在加州好萊塢的西達斯-黎巴嫩醫院（Cedars Lebanon Hospital）擔任委員會主席三年，同時也是糖尿病診所主任，以及加州西米谷一家醫院住院醫師培訓計畫的主任。", "confidence": "high", "notes": "Cedars Lebanon Hospital = 西達斯-黎巴嫩醫院"}
 
 285. If anyone had told me at that time that I would be involved in anything in the UFO field or traveled to 42 countries and participated in the things that I have participated in relative to UFOs, I would have said, "They're nuts."
-→ {"text": "如果當時有人告訴我，我會涉足不明飛行物（UFO）領域，或者會前往42個國家，參與與不明飛行物相關的各種活動，我會說：『他們瘋了。』", "confidence": "high", "notes": ""}
+→ {"text": "如果當時有人告訴我，我會涉足不明飛行物（UFO）領域，或者會前往 42 個國家，參與與不明飛行物相關的各種活動，我會說：『他們瘋了。』", "confidence": "high", "notes": ""}
 
 286. Strange things have happened in my life that were very synchronistic.
 → {"text": "我的生命中發生了一些非常同步性的奇妙事件。", "confidence": "high", "notes": ""}
@@ -64,7 +64,7 @@
 → {"text": "我來這裡不只是為了呈現資訊，也是為了學習資訊。", "confidence": "high", "notes": ""}
 
 295. For example, I was very interested to learn that the Eisenhower speech not only talked about the military-industrial complex, but the military-industrial-congressional complex.
-→ {"text": "例如，我很感興趣地了解到，艾森豪總統的演講不僅談到了軍工複合體（military-industrial complex），還談到了軍工國會複合體（military-industrial-congressional complex）。", "confidence": "high", "notes": ""}
+→ {"text": "例如，我很感興趣地了解到，艾森豪威爾總統的演講不僅談到了軍工複合體（military-industrial complex），還談到了軍工國會複合體（military-industrial-congressional complex）。", "confidence": "high", "notes": ""}
 
 296. I thought that was very informative.
 → {"text": "我認為這是非常有啟發性的資訊。", "confidence": "high", "notes": ""}
@@ -91,16 +91,16 @@
 → {"text": "現在我想朗讀我已經準備並提交給委員會的書面陳述。", "confidence": "high", "notes": ""}
 
 304. I with my surgical team of medical specialists performed 16 surgeries for the removal of foreign objects from those individuals who allege alien abduction.
-→ {"text": "我與我的醫學專家外科團隊進行了16次手術，從那些聲稱被外星人綁架者身上移除異物。", "confidence": "high", "notes": ""}
+→ {"text": "我與我的醫學專家外科團隊進行了 16 次手術，從那些聲稱被外星人綁架者身上移除異物。", "confidence": "high", "notes": ""}
 
 305. The 16 cases involved the removal of 17 separate and distinct objects.
-→ {"text": "這16個案例涉及移除17個獨立且不同的物體。", "confidence": "high", "notes": ""}
+→ {"text": "這 16 個案例涉及移除 17 個獨立且不同的物體。", "confidence": "high", "notes": ""}
 
 306. One of these objects turned out to be a small run of ceramic-like glass which was manufactured by Dow Corning Industries.
-→ {"text": "其中一個物體原來是一小塊類陶瓷玻璃，由 Dow Corning 公司製造。", "confidence": "high", "notes": ""}
+→ {"text": "其中一個物體原來是一小塊類陶瓷玻璃，由道康寧公司（Dow Corning）製造。", "confidence": "high", "notes": ""}
 
 307. In almost my 50 years of podiatric surgical practice, I have removed literally hundreds or numerous objects from the human foot including paper, glass, metal, stones, hair, coral, many other objects including secret metal.
-→ {"text": "在我近50年的足病外科執業生涯中，我從人腳中移除了數百個或無數個物體，包括紙張、玻璃、金屬、石頭、頭髮、珊瑚，以及許多其他物體，包括秘密金屬。", "confidence": "high", "notes": ""}
+→ {"text": "在我近 50 年的足病外科執業生涯中，我從人腳中移除了數百個或無數個物體，包括紙張、玻璃、金屬、石頭、頭髮、珊瑚，以及許多其他物體，包括秘密金屬。", "confidence": "high", "notes": "2026-08-24 人工看片確認確為 secret metal（YouTube 字幕同），尊重發言人原話，非 sheet metal 誤轉錄"}
 
 308. At one time, a patient came in with two gentlemen in suits and the proper identification.
 → {"text": "有一次，一位病人在兩位穿著西裝並持有適當證件的男士陪同下前來。", "confidence": "high", "notes": ""}
@@ -121,28 +121,28 @@
 → {"text": "沒有可見的疤痕形成，皮膚的完整性也沒有受到破壞，即使使用放大鏡進行檢查也是如此——不僅檢查了受影響的區域，還檢查了周圍大部分區域。", "confidence": "high", "notes": ""}
 
 314. All the individuals in the study presented with positive x-rays or CT scans showing metallic or lesser dense foreign objects.
-→ {"text": "研究中所有受試者的X光或電腦斷層掃描都顯示出金屬或密度較低的異物。", "confidence": "high", "notes": ""}
+→ {"text": "研究中所有受試者的 X 光或電腦斷層掃描都顯示出金屬或密度較低的異物。", "confidence": "high", "notes": ""}
 
 315. Prior to the surgical procedures performed, the areas of interest were examined by the use of a gauss meter for magnetic or electromagnetic emissions.
 → {"text": "在進行手術程序之前，我們使用高斯計（gauss meter）檢查了感興趣的區域，以測量磁性或電磁輻射。", "confidence": "high", "notes": "gauss meter = 高斯計，測量磁場強度的儀器"}
 
 316. Ten of them were found to be producing readings on a gauss meter of 6 to 10 milligauss.
-→ {"text": "其中10個物體被發現在高斯計上產生6到10毫高斯（milligauss）的讀數。", "confidence": "high", "notes": "milligauss = 毫高斯，磁場強度單位"}
+→ {"text": "其中 10 個物體被發現在高斯計上產生 6 到 10 毫高斯（milligauss）的讀數。", "confidence": "high", "notes": "milligauss = 毫高斯，磁場強度單位"}
 
 317. That is a large amount for a very small object that varies in size from approximately 6 to 10 millimetres in length and about the diameter of a pencil head.
-→ {"text": "對於一個非常小的物體來說，這是很大的數值——這些物體大小約從6到10毫米不等，直徑約相當於鉛筆頭。", "confidence": "high", "notes": ""}
+→ {"text": "對於一個非常小的物體來說，這是很大的數值——這些物體大小約從 6 到 10 毫米不等，直徑約相當於鉛筆頭。", "confidence": "high", "notes": ""}
 
 318. Now I understand that from the crew here and some of the television people I've worked with that a modern television camera produces about 4.3 milligauss of emissions.
-→ {"text": "現在，從這裡的工作人員和我合作過的一些電視人員那裡，我了解到一台現代電視攝影機產生約4.3毫高斯的輻射。", "confidence": "high", "notes": ""}
+→ {"text": "現在，從這裡的工作人員和我合作過的一些電視人員那裡，我了解到一台現代電視攝影機產生約 4.3 毫高斯的輻射。", "confidence": "high", "notes": ""}
 
 319. So here's a very small object producing 10 milligauss of emissions.
-→ {"text": "所以這裡有一個非常小的物體，卻產生10毫高斯的輻射。", "confidence": "high", "notes": ""}
+→ {"text": "所以這裡有一個非常小的物體，卻產生 10 毫高斯的輻射。", "confidence": "high", "notes": ""}
 
 320. Now in addition to these type of examinations we used frequencies of ultraviolet light to detect fluorescence in the area of the object.
 → {"text": "除了這些檢查之外，我們還使用紫外線頻率來檢測物體區域的螢光反應。", "confidence": "high", "notes": ""}
 
 321. About 60% presented with positive UV light fluorescence with colour ranges from pink, green to yellow.
-→ {"text": "約60%呈現出正向的紫外線螢光反應，顏色範圍從粉紅色、綠色到黃色。", "confidence": "high", "notes": ""}
+→ {"text": "約 60% 呈現出正向的紫外線螢光反應，顏色範圍從粉紅色、綠色到黃色。", "confidence": "high", "notes": ""}
 
 322. One of the last surgical patients displayed a large chevron appearing area like an insignia on the outside of the right arm near the shoulder.
 → {"text": "最近一位手術病人在右臂外側靠近肩膀處，顯示出一個大型的人字形區域，看起來像是一個徽章或標誌。", "confidence": "high", "notes": ""}
@@ -157,10 +157,10 @@
 → {"text": "當再次使用不同頻率的紫外線檢查時，它們又會重新出現。", "confidence": "high", "notes": ""}
 
 326. In addition by use of radio wave frequency detector we were able to detect that certain radio frequencies in the FM band both in the megahertz and kilohertz range were being admitted from the object.
-→ {"text": "此外，通過使用無線電波頻率探測器，我們能夠檢測到物體發出調頻（FM）波段中的某些無線電頻率，包括兆赫和千赫範圍。", "confidence": "high", "notes": ""}
+→ {"text": "此外，透過無線電波頻率探測器，我們能夠檢測到物體發出調頻（FM）波段中的某些無線電頻率，包括兆赫和千赫範圍。", "confidence": "high", "notes": ""}
 
 327. It was determined that in one case the frequencies detected and this is through a chart that I was able to obtain through sources that I will not be able to mention.
-→ {"text": "在一個案例中，通過我從無法透露的來源獲得的圖表，確定了所檢測到的頻率。", "confidence": "high", "notes": ""}
+→ {"text": "在一個案例中，透過我從無法透露的來源獲得的圖表，確定了所檢測到的頻率。", "confidence": "high", "notes": ""}
 
 328. But these frequencies were noted fixed or mobile deep space frequencies.
 → {"text": "但這些頻率被記錄為固定或移動的深空通訊頻率。", "confidence": "high", "notes": ""}
@@ -244,7 +244,7 @@
 → {"text": "但就智慧能力和道德指引而言，不是。", "confidence": "high", "notes": ""}
 
 355. Congressman Kirkpatrick, would you like to add anything?
-→ {"text": "基爾派翠克議員（Congressman Kirkpatrick），您有什麼要補充的嗎？", "confidence": "high", "notes": ""}
+→ {"text": "基爾派翠克眾議員（Kilpatrick），您有什麼要補充的嗎？", "confidence": "high", "notes": "原文 Kirkpatrick 應為 Kilpatrick（Carolyn Kilpatrick），轉錄錯誤"}
 
 356. Exactly.
 → {"text": "正是如此。", "confidence": "high", "notes": ""}
@@ -262,4 +262,4 @@
 → {"text": "它（美國）將無能為力。", "confidence": "high", "notes": ""}
 
 361. In fact, that's one of the things we hope that if the issue is brought before the General Assembly and it's voted to hold a global conference, then that conference will be its own guide, regardless of the United States of America or Britain or any other country, because it will be beyond their control, and that's one of the reasons why I personally would like this issue to go before the General Assembly and not go before the Congress, which I think would just continue the cover up that we've experienced from the government for the last 50 years.
-→ {"text": "事實上，這正是我們所希望的——如果這個議題被提交到聯合國大會（General Assembly），並且投票決定舉行一場全球會議，那麼這場會議將成為自己的指引，無論是美國、英國還是任何其他國家都無法控制，因為它將超越他們的控制範圍。這也是我個人希望這個議題提交到聯合國大會而不是國會的原因之一，我認為國會只會繼續過去50年來我們從政府那裡經歷過的真相掩蓋（cover up）。", "confidence": "high", "notes": "General Assembly = 聯合國大會；cover up = 真相掩蓋"}
+→ {"text": "事實上，這正是我們所希望的——如果這個議題被提交到聯合國大會（General Assembly），並且投票決定舉行一場全球會議，那麼這場會議將成為自己的指引，無論是美國、英國還是任何其他國家都無法控制，因為它將超越他們的控制範圍。這也是我個人希望這個議題提交到聯合國大會而不是國會的原因之一，我認為國會只會繼續過去 50 年來我們從政府那裡經歷過的真相掩蓋（cover up）。", "confidence": "high", "notes": "General Assembly = 聯合國大會；cover up = 真相掩蓋"}

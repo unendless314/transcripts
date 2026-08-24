@@ -10,7 +10,7 @@
 → {"text": "我很榮幸能再次來到這裡。", "confidence": "high", "notes": ""}
 
 89. I would like to open with sort of a historical overview of advanced technologies that began in the late 1800s with the breakthroughs with Maxwell and also Faraday.
-→ {"text": "我想先簡要概述一下先進技術的歷史，這要追溯到19世紀末，當時馬克士威（Maxwell）和法拉第（Faraday）取得了突破性進展。", "confidence": "high", "notes": "人名 Maxwell 和 Faraday 保留原文並加註"}
+→ {"text": "我想先簡要概述一下先進技術的歷史，這要追溯到 19 世紀末，當時馬克士威（Maxwell）和法拉第（Faraday）取得了突破性進展。", "confidence": "high", "notes": "人名 Maxwell 和 Faraday 保留原文並加註"}
 
 90. It turns out that the Maxwell equations that were developed had a number of changes that resulted in what is now classic electromagnetic theory.
 → {"text": "事實證明，當時發展的馬克士威方程組（Maxwell equations）經過多次修改，形成了現在的經典電磁理論。", "confidence": "high", "notes": ""}
@@ -19,7 +19,7 @@
 → {"text": "這導致方程中存在一些錯誤，後來被仔細研究過這些方程的人們修正了。", "confidence": "high", "notes": ""}
 
 92. Between the late 1800s and 1929, there were a number of breakthroughs that ended up being suppressed that had to do with creating very high-voltage VHV systems so that you could create a vector into what has now been called the zero-point energy field.
-→ {"text": "在19世紀末到1929年之間，有許多突破最終被壓制了，這些突破涉及創建超高壓（VHV）系統，以便能夠創建一個向量進入現在所謂的零點能源場（zero-point energy field）。", "confidence": "high", "notes": "VHV 和 zero-point energy field 為專業術語，保留英文並加註"}
+→ {"text": "在 19 世紀末到 1929 年之間，有許多突破最終被壓制了，這些突破涉及創建超高壓（VHV）系統，以便能夠創建一個向量進入現在所謂的零點能源場（zero-point energy field）。", "confidence": "high", "notes": "VHV 和 zero-point energy field 為專業術語，保留英文並加註"}
 
 93. I refer the panel to the Jane's Defense Weekly writer, Nick Cook, and his book, The Hunt for Zero Point.
 → {"text": "我請委員會參考《詹氏防務週刊》（Jane's Defense Weekly）的撰稿人尼克·庫克（Nick Cook）及其著作《尋找零點》（The Hunt for Zero Point）。", "confidence": "high", "notes": "刊物和書名保留原文並加註"}
@@ -28,7 +28,7 @@
 → {"text": "這開始被尼古拉·特斯拉（Nikola Tesla）等人探索。", "confidence": "high", "notes": ""}
 
 95. I have a Department of Defense document that is on a flash drive for each member of Congress that the conference has been given, the citizens' hearings have been given that shows that when Nikola Tesla died, that this information that he had, which allowed for a car to run out of the ambient energy, was in documents confiscated by the FBI.
-→ {"text": "我有一份國防部文件，已在每位國會議員的隨身碟中，這次會議和公民聽證會都已提供。文件顯示，當尼古拉·特斯拉（Nikola Tesla）去世時，他所擁有的、能讓汽車從環境能量中運行的資訊，被聯邦調查局（FBI）沒收在文件中。", "confidence": "medium", "notes": "長句分段處理，FBI 保留原文"}
+→ {"text": "我有一份國防部文件，已放入每位國會議員的隨身碟中，這次會議和公民聽證會也都拿到了。文件顯示，尼古拉·特斯拉（Nikola Tesla）去世時，他所掌握的、能讓汽車依靠環境能量運行的資訊，都在遭聯邦調查局（FBI）沒收的文件之中。", "confidence": "medium", "notes": "原文長句結構破碎，依語意重組"}
 
 96. I have a Department of Defense document demanding that the FBI turn these over to the DOD.
 → {"text": "我有一份國防部文件，要求聯邦調查局（FBI）將這些文件移交給國防部（DOD）。", "confidence": "high", "notes": "FBI 和 DOD 保留原文"}
@@ -40,16 +40,16 @@
 → {"text": "無論如何，科學仍在繼續，因為宇宙定律實際上是普遍存在的，它們可以在這裡、在半人馬座阿爾法星（Alpha Centauri）周圍或宇宙其他任何地方被發現。", "confidence": "high", "notes": ""}
 
 99. By 1928 and 29, T. Townsend Brown, as well as the Kołysko-Frost effect in physics in Germany, had determined that VHV, very high-voltage systems done in a certain resonant field could result in so-called electromagnetic-gravity effect, the lifter effect that has been described, which you see in UFOs.
-→ {"text": "到1928年和1929年，湯森·布朗（T. Townsend Brown）以及德國物理學中的科利斯可-弗羅斯特效應（Kołysko-Frost effect）已經確定，在特定共振場中產生的超高壓（VHV）系統可以產生所謂的電磁重力效應，即所描述的升力效應，也就是你們在不明飛行物中看到的現象。", "confidence": "medium", "notes": "多個專業術語和效應名稱保留原文並加註"}
+→ {"text": "到 1928 年和 1929 年，湯森·布朗（T. Townsend Brown）以及德國物理學中的科利斯可-弗羅斯特效應（Kołysko-Frost effect）已經確定，在特定共振場中產生的超高壓（VHV）系統可以產生所謂的電磁重力效應，即所描述的升力效應，也就是你們在不明飛行物中看到的現象。", "confidence": "medium", "notes": "多個專業術語和效應名稱保留原文並加註"}
 
 100. They also can create what's called a space-time bubble around an object so that you can correct for 1G.
-→ {"text": "它們還可以在物體周圍創建所謂的時空氣泡（space-time bubble），這樣你就能抵消1G的重力。", "confidence": "high", "notes": "space-time bubble 為專業術語，保留英文並加註"}
+→ {"text": "它們還可以在物體周圍創建所謂的時空氣泡（space-time bubble），這樣你就能抵消 1G 的重力。", "confidence": "high", "notes": "space-time bubble 為專業術語，保留英文並加註"}
 
-101. This is how these objects are traveling at multiples of what any aerodynamic物理學 would describe and can make right-hand turns without killing the occupants.
+101. This is how these objects are traveling at multiples of what any aerodynamic physics would describe and can make right-hand turns without killing the occupants.
 → {"text": "這就是這些物體如何以空氣動力學物理學無法解釋的倍數速度飛行，並且可以進行右轉而不會殺死乘員。", "confidence": "high", "notes": ""}
 
 102. Around this same time, there was, in the 1940s and the late 1930s, a number of UFO sightings.
-→ {"text": "大約在同一時期，1940年代和1930年代末，有許多不明飛行物目擊事件。", "confidence": "high", "notes": ""}
+→ {"text": "大約在同一時期，1940 年代和 1930 年代末，有許多不明飛行物目擊事件。", "confidence": "high", "notes": ""}
 
 103. This included the so-called Foo Fighters.
 → {"text": "這包括所謂的幽浮光球（Foo Fighters）。", "confidence": "high", "notes": "Foo Fighters 保留英文並加註"}
@@ -73,19 +73,19 @@
 → {"text": "他的姪子是我的摯友，他作證說杜立德將軍（General Doolittle）被羅斯福總統（FDR）派往二戰歐洲戰區調查幽浮光球（Foo Fighters），回來後告訴羅斯福，我引用他的話：「它們是星際載具。」", "confidence": "high", "notes": "FDR 為富蘭克林·德拉諾·羅斯福總統的縮寫"}
 
 110. By then, there began a classified program, which was augmented further by events as mentioned in 1941 and then, of course, the famous Roswell event.
-→ {"text": "到那時，一個機密計畫開始了，這個計畫因1941年的事件以及後來著名的羅斯威爾事件（Roswell event）而進一步擴大。", "confidence": "high", "notes": ""}
+→ {"text": "到那時，一個機密計畫開始了，這個計畫因 1941 年的事件以及後來著名的羅斯威爾事件（Roswell event）而進一步擴大。", "confidence": "high", "notes": ""}
 
 111. Those events led to, as Philip Corso describes, a reverse engineering program, as you all know from the famous Wilbur Smith document of 1951 from Canada.
-→ {"text": "正如菲利普·科索（Philip Corso）所描述的，這些事件導致了一個反向工程計畫，正如你們都知道的，來自加拿大1951年著名的威爾伯·史密斯文件（Wilbur Smith document）。", "confidence": "high", "notes": ""}
+→ {"text": "正如菲利普·科索（Philip Corso）所描述的，這些事件導致了一個反向工程計畫，也就是你們都知道的、來自加拿大的 1951 年著名的威爾伯·史密斯文件（Wilbur Smith document）所記載的內容。", "confidence": "high", "notes": ""}
 
 112. It talks about that flying saucers exist, but there's a high-level team headed up by Dr. Vannevar Bush that is studying the "modus operandi" of these vehicles.
-→ {"text": "文件談到飛碟（flying saucers）確實存在，但有一個由高級團隊領導，由萬尼瓦爾·布希博士（Dr. Vannevar Bush）領導，正在研究這些載具的「運作方式」（modus operandi）。", "confidence": "high", "notes": ""}
+→ {"text": "文件談到飛碟（flying saucers）確實存在，並提到一個由萬尼瓦爾·布希博士（Dr. Vannevar Bush）領導的高層團隊，正在研究這些載具的「運作方式」（modus operandi）。", "confidence": "high", "notes": ""}
 
 113. These were the most brilliant scientists, Edward Teller, Oppenheimer, and others, Herman Oberth, amongst others, who were in this team studying how extraterrestrial vehicles move.
 → {"text": "這些是最傑出的科學家，包括愛德華·泰勒（Edward Teller）、奧本海默（Oppenheimer）等人，以及赫爾曼·奧伯特（Herman Oberth）等，他們在這個團隊中研究外星載具如何移動。", "confidence": "high", "notes": "人名保留原文並加註"}
 
 114. In October of 1954, a key date I want the committee to remember.
-→ {"text": "1954年10月，這是我希望委員會記住的一個關鍵日期。", "confidence": "high", "notes": ""}
+→ {"text": "1954 年 10 月，這是我希望委員會記住的一個關鍵日期。", "confidence": "high", "notes": ""}
 
 115. We have actionable intelligence from someone who has worked in the National Security Agency and has been in the vault.
 → {"text": "我們從一位曾在國家安全局（National Security Agency）工作並進入過機密檔案庫的人那裡獲得了可執行的情報。", "confidence": "high", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "所有這一切都變成了極度機密（deep black），因為他們在那個時候掌握了重力控制技術。", "confidence": "high", "notes": "deep black 為術語，指極度機密的項目"}
 
 117. So since 1954, October of that year, we have not needed rockets, jets, internal combustion engines, and surface roadways between cities.
-→ {"text": "所以自從1954年，那年的10月起，我們就不再需要火箭、噴射機、內燃機以及城市之間的地面道路了。", "confidence": "high", "notes": ""}
+→ {"text": "所以自從 1954 年，那年的 10 月起，我們就不再需要火箭、噴射機、內燃機以及城市之間的地面道路了。", "confidence": "high", "notes": ""}
 
 118. I say this with authority that this is the case.
 → {"text": "我權威地聲明，事實就是如此。", "confidence": "high", "notes": ""}
@@ -136,16 +136,16 @@
 → {"text": "這些設施包括愛德華茲空軍基地（Edwards Air Force Base）及其分區、乾湖床（Dry Lake Bed）的洛克希德臭鼬工廠（Lockheed Skunk Works）行動、海斯塔克山（Haystack Butte）、中國湖（China Lakes）、喬治空軍基地（George Air Force Base），以及已關閉的諾頓空軍基地（Norton Air Force Base）。我們的證人團隊成員弗蘭克·卡盧奇（Frank Carlucci）等人在該處看到一種反重力裝置，即所謂的外星複製載具（alien reproduction vehicle），我們擁有其示意圖。", "confidence": "high", "notes": "多個專有名詞保留原文並加註"}
 
 131. Several top mountain and blackjack control.
-→ {"text": "幾個山頂和二十一點控制設施。", "confidence": "medium", "notes": "blackjack control 可能為特定設施名稱"}
+→ {"text": "數處山頂以及 Blackjack 控制設施。", "confidence": "medium", "notes": "原文破碎，blackjack 疑為設施代號，無從查證，依原文直譯"}
 
 132. The aerospace facilities there are the Northrop Ant Hill facility, Tihon Ranch, the McDonnell Douglas Llano plant, Lockheed Martin Hellendale plant, and the Phillips Lab.
-→ {"text": "那裡的航空航太設施包括諾斯羅普蟻丘設施（Northrop Ant Hill facility）、蒂洪牧場（Tihon Ranch）、麥克唐納道格拉斯拉諾工廠（McDonnell Douglas Llano plant）、洛克希德馬丁赫倫代爾工廠（Lockheed Martin Hellendale plant）以及飛利浦實驗室（Phillips Lab）。", "confidence": "high", "notes": ""}
+→ {"text": "那裡的航空航太設施包括諾斯羅普蟻丘設施（Northrop Ant Hill facility）、蒂洪牧場（Tihon Ranch）、麥克唐納道格拉斯拉諾工廠（McDonnell Douglas Llano plant）、洛克希德馬丁赫倫代爾工廠（Lockheed Martin Hellendale plant）以及飛利浦實驗室（Phillips Lab）。", "confidence": "medium", "notes": "部分設施名稱無從查證（Hellendale 疑為 Palmdale 之誤轉錄，該地為洛克希德馬丁臭鼬工廠所在），依原文直譯"}
 
 133. At the Nellis Air Force facility, so-called Area 51, no one calls it that.
-→ {"text": "在內利斯空軍設施（Nellis Air Force facility），也就是所謂的51區（Area 51），沒有人那樣稱呼它。", "confidence": "high", "notes": ""}
+→ {"text": "在內利斯空軍設施（Nellis Air Force facility），也就是所謂的 51 區（Area 51），沒有人那樣稱呼它。", "confidence": "high", "notes": ""}
 
 134. There's S4 and S12, Pahoot Mesa, Groom Lake, and a number of sub-facilities.
-→ {"text": "那裡有S4和S12、帕胡特台地（Pahoot Mesa）、格魯姆湖（Groom Lake）以及若干子設施。", "confidence": "high", "notes": ""}
+→ {"text": "那裡有 S4 和 S12、帕胡特台地（Pahute Mesa）、格魯姆湖（Groom Lake）以及若干子設施。", "confidence": "high", "notes": "原文 Pahoot Mesa 應為 Pahute Mesa（內華達試驗場鄰近格魯姆湖的台地），轉錄錯誤"}
 
 135. The most important facility is in Utah, near Provo, the Dugway Proving Grounds, all of which is underground and the airspace above it is classified.
 → {"text": "最重要的設施在猶他州普羅沃（Provo）附近，即達格威試驗場（Dugway Proving Grounds），全部位於地下，其上方的空域被列為機密。", "confidence": "high", "notes": ""}
@@ -160,13 +160,13 @@
 → {"text": "該綜合設施還包括桑迪亞國家實驗室（Sandia National Laboratories）、飛利浦實驗室（Phillips Labs）、曼薩諾山武器儲存設施（Manzano Mountain Weapons Storage Facility）、郊狼峽谷（Coyote Canyon）以及白沙綜合設施（White Sands Complex）。", "confidence": "high", "notes": ""}
 
 139. In Arizona, near Fort Huachuca, which is Army Intelligence Headquarters, there is a UGB underground base where one of our witnesses who will testify worked on nine separate extraterrestrial vehicles that had been down through advanced electromagnetic pulse weapons, and there are several different species of extraterrestrial biological stored at that facility.
-→ {"text": "在亞利桑那州瓦丘卡堡（Fort Huachuca）附近，即陸軍情報總部所在地，有一個UGB地下基地。我們的一位證人將作證，他曾在該基地研究九艘不同的外星載具，這些載具被先進的電磁脈衝武器擊落，該設施還存放著幾種不同種類的外星生物。", "confidence": "medium", "notes": "UGB 可能指 Underground Base，保留原文"}
+→ {"text": "在亞利桑那州瓦丘卡堡（Fort Huachuca）附近，即陸軍情報總部所在地，有一個 UGB 地下基地。我們的一位證人將作證，他曾在該基地研究九艘不同的外星載具，這些載具被先進的電磁脈衝武器擊落，該設施還存放著幾種不同種類的外星生物。", "confidence": "medium", "notes": "UGB 可能指 Underground Base，保留原文"}
 
 140. The other facilities, and this goes on, include a special compartmented area of Cheyenne Mountain where we have witnesses in our team who can be subpoenaed, where we have tracked extraterrestrial vehicles in our solar system that were measuring 26 miles in diameter.
-→ {"text": "其他設施還包括夏延山（Cheyenne Mountain）的一個特殊分隔區域，我們團隊中有證人可以被傳喚。我們在那裡追踪到太陽系中的外星載具，直徑達26英里。", "confidence": "high", "notes": ""}
+→ {"text": "其他設施還包括夏延山（Cheyenne Mountain）的一個特殊分隔區域，我們團隊中有證人可以被傳喚。我們在那裡追蹤到太陽系中的外星載具，直徑達 26 英里。", "confidence": "high", "notes": ""}
 
 141. There are also facilities in Australia, a key one being Pine Gap, the so-called Alice Springs facility, which is mostly a U.S. Air Force facility even though it is in Australia.
-→ {"text": "澳洲也有設施，其中一個關鍵設施是松樹谷（Pine Gap），即所謂的愛麗斯泉設施（Alice Springs facility）。雖然它在澳洲，但主要是一個美國空軍設施。", "confidence": "high", "notes": ""}
+→ {"text": "澳洲也有設施，其中一個關鍵設施是松峽基地（Pine Gap），即所謂的愛麗斯泉設施（Alice Springs facility）。雖然它在澳洲，但主要是一個美國空軍設施。", "confidence": "high", "notes": ""}
 
 142. I recently talked to the Deputy Prime Minister of Australia about this.
 → {"text": "我最近就此事與澳洲副總理談過。", "confidence": "high", "notes": ""}
@@ -175,7 +175,7 @@
 → {"text": "還有紅石兵工廠（Redstone Arsenal）和馬歇爾太空飛行中心（Marshall Space Flight Center）。", "confidence": "high", "notes": ""}
 
 144. We have a scientist at the Redstone Arsenal who works under contract for ITT who have developed these trans-dimensional systems.
-→ {"text": "我們在紅石兵工廠有一位科學家，他受雇於ITT公司，開發了這些跨維度系統。", "confidence": "high", "notes": ""}
+→ {"text": "我們在紅石兵工廠有一位科學家，他受雇於 ITT 公司，開發了這些跨維度系統。", "confidence": "high", "notes": ""}
 
 145. He was under contract with my project to bring these energy devices out, and he was then threatened by a former CIA director and what I call the Goon Squad that went down there three years ago in March.
 → {"text": "他曾與我的項目簽約，要將這些能源裝置公開，但後來受到一位前中央情報局（CIA）局長以及我所謂的「暴徒小隊」（Goon Squad）的威脅。他們三年前三月去了那裡。", "confidence": "high", "notes": ""}

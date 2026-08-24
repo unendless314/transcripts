@@ -4,7 +4,7 @@
 → {"text": "很榮幸能成為證人之一。", "confidence": "high", "notes": ""}
 
 19. In 1966, I had been working about 13 years for one company, and was doing well as a young engineering executive at Douglas Aircraft.
-→ {"text": "1966年，我已經在同一家公司工作了約13年，當時在道格拉斯飛機公司（Douglas Aircraft）擔任年輕的工程主管，表現不錯。", "confidence": "high", "notes": "保留公司名稱並加註中文"}
+→ {"text": "1966 年，我已經在同一家公司工作了約 13 年，當時在道格拉斯飛機公司（Douglas Aircraft）擔任年輕的工程主管，表現不錯。", "confidence": "high", "notes": "保留公司名稱並加註中文"}
 
 20. That was the year the Air Force decided to have a symposium dedicated to important developments in space ten years hence, and my boss, Ray Hallett, had been selected to speak for our missiles and space part of the company on how to better to get things to orbit and back.
 → {"text": "那一年，空軍決定舉辦一場研討會，探討未來十年太空領域的重要發展。我的上司雷·哈雷特（Ray Hallett）獲選代表公司導彈與太空部門發言，主題是如何更好地將物體送入軌道並返回。", "confidence": "medium", "notes": "人名 Ray Hallett 保留原文並加註"}
@@ -34,7 +34,7 @@
 → {"text": "有一天，在我向幾位副總裁報告工作進展後，其中一位私下問我，工作之餘是否有在做什麼有趣的事。", "confidence": "high", "notes": ""}
 
 29. I said, well, you're not going to believe this, but I've read about 50 books on UFOs.
-→ {"text": "我說，嗯，你們可能不會相信，但我已經讀了大概50本關於不明飛行物的書。", "confidence": "high", "notes": ""}
+→ {"text": "我說，嗯，你們可能不會相信，但我已經讀了大概 50 本關於不明飛行物的書。", "confidence": "high", "notes": ""}
 
 30. The amazing conclusion I've come to is that they are very real extraterrestrial craft.
 → {"text": "我得出的一個驚人結論是，它們確實是真實存在的外星飛行器。", "confidence": "high", "notes": ""}
@@ -55,7 +55,7 @@
 → {"text": "這時我們需要找個人來詳細研究這些目擊事件和報告，看看能否找到它們運作原理的線索，於是我們聘請了斯坦頓·弗里德曼（Stan Friedman）。", "confidence": "high", "notes": "人名 Stan Friedman 保留原文並加註"}
 
 36. We should have a picture of Stan Friedman up there right now as he looked in 1968.
-→ {"text": "我們現在應該放一張斯坦頓·弗里德曼（Stan Friedman）1968年時的照片在那裡。", "confidence": "high", "notes": ""}
+→ {"text": "我們現在應該在那裡放一張斯坦頓·弗里德曼（Stan Friedman）1968 年時的照片。", "confidence": "high", "notes": ""}
 
 37. We did a lot of interesting projects such as measure the effects of a huge magnetic field on the speed of light.
 → {"text": "我們做了許多有趣的研究項目，例如測量強大磁場對光速的影響。", "confidence": "high", "notes": ""}
@@ -76,7 +76,7 @@
 → {"text": "吉姆·麥克唐納（Jim McDonald）非常積極地推動讓我的團隊獲得更多曝光的機會。", "confidence": "high", "notes": ""}
 
 43. He urged me to visit the Air Force UFO Condon Committee in 1967 before their report was complete and talked someone into inviting me to testify at a House Science and Astronautics Committee symposium on unidentified flying objects.
-→ {"text": "他敦促我在1967年空軍不明飛行物康登委員會（Condon Committee）的報告完成前去拜訪他們，並說服某人邀請我在眾議院科學與太空委員會（House Science and Astronautics Committee）關於不明飛行物的研討會上作證。", "confidence": "high", "notes": "機構名稱保留原文並加註"}
+→ {"text": "他敦促我在 1967 年空軍不明飛行物康登委員會（Condon Committee）的報告完成前去拜訪他們，並說服某人邀請我在眾議院科學與太空委員會（House Science and Astronautics Committee）關於不明飛行物的研討會上作證。", "confidence": "high", "notes": "機構名稱保留原文並加註"}
 
 44. I asked my management about this, and they said, "Do what you want, but good things rarely happen to people who testify to Congress."
 → {"text": "我向管理層詢問了這件事，他們說：「你想做就做，但向國會作證的人很少會有好事發生。」", "confidence": "high", "notes": ""}
@@ -85,37 +85,37 @@
 → {"text": "我決定不作證，主要是因為我沒有任何突破性的發現可以透露，而且即使有，那也會成為麥克唐納道格拉斯公司（McDonnell Douglas）的財產。", "confidence": "high", "notes": ""}
 
 46. Then the military orbiting program was canceled in 1969.
-→ {"text": "後來在1969年，軍事軌道計畫被取消了。", "confidence": "high", "notes": ""}
+→ {"text": "後來在 1969 年，軍事軌道計畫被取消了。", "confidence": "high", "notes": ""}
 
 47. Dozens of people were being laid off.
 → {"text": "數十人遭到裁員。", "confidence": "high", "notes": ""}
 
 48. We were not making fantastic progress in our project, and I was assigned in 1970 to learn everything I could about radar and ballistic missile defense.
-→ {"text": "我們的項目沒有取得驚人的進展，於是我在1970年被指派去學習所有關於雷達和彈道飛彈防禦的知識。", "confidence": "high", "notes": ""}
+→ {"text": "我們的項目沒有取得驚人的進展，於是我在 1970 年被指派去學習所有關於雷達和彈道飛彈防禦的知識。", "confidence": "high", "notes": ""}
 
 49. We canceled the UFO project and moved on.
 → {"text": "我們取消了不明飛行物項目，繼續向前邁進。", "confidence": "high", "notes": ""}
 
 50. This project's history was written up in both the International UFO Reporter in 1993, detailing the results of my visit to the Condon Committee and the MUFON Journal in 2008, elaborating on the details of who did what on this project and what we concluded.
-→ {"text": "這個項目的歷史被記錄在1993年的《國際不明飛行物報導》（International UFO Reporter）中，詳細描述了我拜訪康登委員會的結果；以及2008年的《MUFON期刊》（MUFON Journal），詳細闡述了這個項目中誰做了什麼以及我們的結論。", "confidence": "high", "notes": "期刊名稱保留原文並加註"}
+→ {"text": "這個項目的歷史被記錄在 1993 年的《國際不明飛行物報導》（International UFO Reporter）中，詳細描述了我拜訪康登委員會的結果；以及 2008 年的《MUFON 期刊》（MUFON Journal），詳細闡述了這個項目中誰做了什麼以及我們的結論。", "confidence": "high", "notes": "期刊名稱保留原文並加註"}
 
 51. I followed the topic of ufology from 1970 to my retirement in 1993 as an avocation, but remained actively absorbing results and reports from MUFON, the Center for UFO Studies, and subscribed to the Flying Saucer Review, which came in a brown paper envelope, so you wouldn't know the subject, published in Britain.
-→ {"text": "從1970年到1993年退休，我以業餘愛好的方式追蹤不明飛行物學（ufology）這個主題，但持續積極吸收來自MUFON（UFO互動網絡）、不明飛行物研究中心（Center for UFO Studies）的研究結果和報告，並訂閱了《飛碟評論》（Flying Saucer Review），這本雜誌用牛皮紙信封寄來，這樣你就不知道裡面的主題，由英國出版。", "confidence": "medium", "notes": "機構和期刊名稱保留原文並加註"}
+→ {"text": "從 1970 年到 1993 年退休，我以業餘愛好的方式追蹤不明飛行物學（ufology）這個主題，但持續積極吸收來自 MUFON（UFO 互動網路）、不明飛行物研究中心（Center for UFO Studies）的研究結果和報告，並訂閱了《飛碟評論》（Flying Saucer Review），這本雜誌用牛皮紙信封寄來，這樣你就不知道裡面的主題，由英國出版。", "confidence": "medium", "notes": "機構和期刊名稱保留原文並加註"}
 
 52. The consistency of alien reports occurring psychically caused me to be aware of other anomalous literature, and I had the pleasure of meeting Dean Bob John of Princeton University, who was initiating a consciousness research project.
-→ {"text": "以通靈方式發生的外星報告的一致性讓我注意到了其他異常文獻，我有幸認識了普林斯頓大學的鮑勃·約翰院長（Dean Bob John），他正在發起一個意識研究項目。", "confidence": "high", "notes": ""}
+→ {"text": "以通靈方式出現的外星報告具有一致性，這讓我注意到其他異常現象文獻，我有幸結識了普林斯頓大學的鮑勃·賈恩院長（Bob Jahn），他當時正啟動一項意識研究項目。", "confidence": "high", "notes": "原文 Dean Bob John 應為 Dean Bob Jahn（Robert G. Jahn，普林斯頓大學工程學院院長、意識研究先驅），轉錄錯誤"}
 
 53. At the same time, my knowledge of radar put me in a position to manage a classified program with top-secret access to various subjects.
 → {"text": "與此同時，我的雷達知識使我有資格管理一個機密項目，可以接觸各種主題的最高機密。", "confidence": "high", "notes": ""}
 
 54. I had read an article by Dr. Hal Putoff, currently then at Stanford Research Institute, reporting on some amazing results in remote viewing.
-→ {"text": "我曾讀過哈爾·普特夫博士（Dr. Hal Putoff）的一篇文章，他當時在史丹佛研究所（Stanford Research Institute），報告了一些關於遙視（remote viewing）的驚人成果。", "confidence": "high", "notes": "人名和機構名保留原文並加註"}
+→ {"text": "我曾讀過哈爾·普特夫博士（Dr. Hal Puthoff）的一篇文章，他當時在史丹佛研究院（Stanford Research Institute），報告了一些關於遙視（remote viewing）的驚人成果。", "confidence": "high", "notes": "原文 Putoff 應為 Puthoff（Hal Puthoff，遙視研究先驅），轉錄錯誤"}
 
 55. We used our CIA contacts to work out a test project on coordinate remote viewing, where the subject is allegedly able to observe and describe what is at a specific Earth coordinate.
 → {"text": "我們利用與中央情報局（CIA）的聯繫，開展了一個座標遙視測試項目，據稱受試者能夠觀察並描述特定地球座標上的事物。", "confidence": "high", "notes": ""}
 
 56. This sensitive remote viewing project wound up being funded by James S. MacDonald, CEO of MacDonald Douglas, who was subsequently told by his lawyers that he should not have used foundation money to accomplish work in his profit-making firm.
-→ {"text": "這個敏感的遙視項目最終由麥克唐納道格拉斯公司（MacDonald Douglas）的首席執行官詹姆斯·S·麥克唐納（James S. MacDonald）資助，但後來他的律師告訴他，他不應該使用基金會的資金來為他的營利公司完成工作。", "confidence": "high", "notes": ""}
+→ {"text": "這個敏感的遙視項目最終由麥克唐納道格拉斯公司（McDonnell Douglas）的執行長詹姆斯·S·麥克唐納（James S. McDonnell）資助，但後來他的律師告訴他，他不應該使用基金會的資金來為他的營利公司完成工作。", "confidence": "high", "notes": "原文 MacDonald Douglas／MacDonald 應為 McDonnell Douglas／McDonnell（公司創辦人 James S. McDonnell），轉錄錯誤"}
 
 57. The results of one test of six targets were interesting but not spectacular.
 → {"text": "對六個目標進行的一項測試結果很有趣，但並不驚人。", "confidence": "high", "notes": ""}
@@ -127,34 +127,34 @@
 → {"text": "這個項目還讓我能夠接觸任何與彈道飛彈防禦相關的資料，我利用了另一個設施的機密圖書館，查看關於防禦不明飛行物的資料。", "confidence": "high", "notes": ""}
 
 60. There were quite a few intriguing reports available, such as a classified version of the Iranian Air Force F-4 Phantom jet pilot attempting to fire a missile at a UFO only to have his controls shut down as soon as he thought about doing it.
-→ {"text": "當時有不少引人入勝的報告，例如一份機密版本的伊朗空軍F-4幽靈戰鬥機（F-4 Phantom jet）飛行員試圖向不明飛行物發射導彈，但就在他想到要這樣做時，他的控制系統就被關閉了。", "confidence": "high", "notes": "軍機型號保留原文並加註"}
+→ {"text": "當時有不少引人入勝的報告，例如一份機密版本的伊朗空軍 F-4 幽靈戰鬥機（F-4 Phantom jet）飛行員試圖向不明飛行物發射導彈，但就在他想到要這樣做時，他的控制系統就被關閉了。", "confidence": "high", "notes": "軍機型號保留原文並加註"}
 
 61. Even after I had borrowed and read quite a few of these anomalous reports, the whole library system was changed so that it was no longer clear where to look for reports.
 → {"text": "即使在我借閱並讀了相當多這些異常報告之後，整個圖書館系統被更改了，以至於再也搞不清楚該去哪裡找這些報告。", "confidence": "high", "notes": ""}
 
 62. I also stayed aware of anomalies in science in general, and when the so-called cold fusion results of Pond's Fleischman were announced in 1989, I was aware that our company attempted a quick covert test to try to replicate the results.
-→ {"text": "我也一直關注科學界的一般異常現象，當1989年所謂的龐德-弗萊施曼（Pond's Fleischman）冷核融合結果公布時，我知道我們公司曾嘗試進行一次快速的秘密測試，試圖重現這些結果。", "confidence": "medium", "notes": "Pond's Fleischman 冷核融合實驗相關人名保留原文"}
+→ {"text": "我也一直關注科學界的一般異常現象，當 1989 年所謂的龐斯與弗萊施曼（Pons and Fleischmann）冷核融合結果公布時，我知道我們公司曾嘗試進行一次快速的秘密測試，試圖重現這些結果。", "confidence": "high", "notes": "原文 Pond's Fleischman 應為 Pons and Fleischmann（1989 年宣布冷核融合實驗的 Stanley Pons 與 Martin Fleischmann），轉錄錯誤"}
 
 63. I was told we were not successful, but by then I was working on advanced technology for NASA International Space Station and not involved in any proprietary activity.
-→ {"text": "我被告知我們沒有成功，但那時我已經在為NASA國際太空站（NASA International Space Station）開發先進技術，沒有參與任何專有活動。", "confidence": "high", "notes": ""}
+→ {"text": "我被告知我們沒有成功，但那時我已經在為 NASA 國際太空站（NASA International Space Station）開發先進技術，沒有參與任何專有活動。", "confidence": "high", "notes": ""}
 
 64. After retirement in 1993, my focus on UFOs became the authentication of leaked documents as described on Wednesday.
-→ {"text": "1993年退休後，我對不明飛行物的關注轉向洩露文件的驗證工作，正如週三所描述的那樣。", "confidence": "high", "notes": ""}
+→ {"text": "1993 年退休後，我對不明飛行物的關注轉向洩露文件的驗證工作，正如週三所描述的那樣。", "confidence": "high", "notes": ""}
 
 65. If these documents are valid, they are consistent in telling the story of exposure to the alien technology, attempts to understand it, and many specific tales of successfully understanding the principles and building devices that have become the technology breakthroughs we all enjoy today.
 → {"text": "如果這些文件是真實的，它們一致地講述了接觸外星技術的故事、試圖理解它的努力，以及許多成功理解其原理並製造出設備的具體事例，這些設備已成為我們今天所享有的技術突破。", "confidence": "high", "notes": ""}
 
 66. There is a case to be made that the three crash recoveries of Missouri in April 1941 and LA in February 1942, 1,430 rounds of ammunition during the famous LA air raid, resulted in a specific contract to study how germanium and silicon might be used in the preparation of semiconductors.
-→ {"text": "有一種說法認為，1941年4月密蘇里州的三次墜毀回收事件，以及1942年2月洛杉磯著名的洛杉磯空襲中發射的1,430發砲彈，促成了一份特定合約，研究如何使用鍺和矽來製造半導體。", "confidence": "medium", "notes": "歷史事件涉及多個時間和地點，翻譯需準確"}
+→ {"text": "有一種說法認為，1941 年 4 月密蘇里州的三次墜毀回收事件，以及 1942 年 2 月著名的洛杉磯空襲中發射的 1,430 發砲彈，促成了一份特定合約，研究如何使用鍺和矽來製造半導體。", "confidence": "medium", "notes": "原文 three crash recoveries 與兩地事件的歸屬關係語意模糊，依原文結構直譯"}
 
 67. Those individuals receiving reports and samples included Edward Condon at Westinghouse, Bell Laboratories, Hans Bethe of MIT Radiation Laboratory, and Shockley of Bell Telephone Laboratories in 1945, who was given credit for inventing the transistor in 1947.
-→ {"text": "收到報告和樣本的包括西屋公司（Westinghouse）的愛德華·康登（Edward Condon）、貝爾實驗室（Bell Laboratories）的科學家、麻省理工學院輻射實驗室（MIT Radiation Laboratory）的漢斯·貝特（Hans Bethe），以及1945年貝爾電話實驗室（Bell Telephone Laboratories）的肖克利（Shockley），他在1947年被認為是電晶體的發明者。", "confidence": "high", "notes": "人名和機構名稱保留原文並加註"}
+→ {"text": "收到報告和樣本的包括西屋公司（Westinghouse）的愛德華·康登（Edward Condon）、貝爾實驗室（Bell Laboratories）的科學家、麻省理工學院輻射實驗室（MIT Radiation Laboratory）的漢斯·貝特（Hans Bethe），以及 1945 年貝爾電話實驗室（Bell Telephone Laboratories）的蕭克利（Shockley），他在 1947 年被認為是電晶體的發明者。", "confidence": "high", "notes": "人名和機構名稱保留原文並加註"}
 
 68. These leaked documents taken as a whole visualize and speculate on the impact of alien technology on our society in a diverse array of fields of science and technology.
 → {"text": "這些洩露的文件整體上構想並推測了外星技術對我們社會在科學和技術各個領域的影響。", "confidence": "high", "notes": ""}
 
 69. And doctor, you've got about one minute left on your time.
-→ {"text": "醫生，您的時間還剩大約一分鐘。", "confidence": "high", "notes": ""}
+→ {"text": "博士，您的時間還剩大約一分鐘。", "confidence": "high", "notes": "主持人對伍德博士的稱呼"}
 
 70. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
@@ -175,7 +175,7 @@
 → {"text": "首先，一種穿越光年到達星球的方法，而不需要實際上物理性地高速穿過分隔我們的太空和太空碎片。", "confidence": "high", "notes": ""}
 
 76. Second, a way to interact with time in a reliable fashion through the equivalent of the so-called wormhole so that journeys would take years, wind up taking minutes.
-→ {"text": "第二，一種通過所謂的蟲洞（wormhole）等效方式可靠地與時間互動的方法，使原本需要數年的旅程最終只需幾分鐘。", "confidence": "high", "notes": "wormhole 為專業術語，保留英文並加註"}
+→ {"text": "第二，一種透過所謂的蟲洞（wormhole）等效方式可靠地與時間互動的方法，使原本需要數年的旅程最終只需幾分鐘。", "confidence": "high", "notes": "wormhole 為專業術語，保留英文並加註"}
 
 77. Third, a way to permit a person's mind to interact with matter so reliably that all you have to do is think clearly and equipment does what you want it to if designed right.
 → {"text": "第三，一種讓人的心智與物質可靠互動的方法，只要思路清晰，設備如果設計正確就會按照你的意願運作。", "confidence": "high", "notes": ""}

@@ -49,7 +49,7 @@
 → {"text": "因為這是一個宇宙性的問題，我希望我的孫輩和你們的孫輩，以及我們的曾孫輩，能夠在宇宙中有所作為。", "confidence": "medium", "notes": "原文 'have a universal much to operate' 語意較為模糊，推測意指在宇宙中運作或發展的空間"}
 
 790. So on behalf of this Congresswoman, as I go about my day and catch my plane and hope it lands smoothly, doctors, that I can come back and be with you again.
-→ {"text": "所以代表這位國會女議員，當我結束今天的工作、趕搭飛機，並希望它平安降落時，醫生們，我希望能夠回來再次與你們相聚。", "confidence": "high", "notes": "Congresswoman Kilpatrick 以第三人稱自稱 'this Congresswoman'，中文保持原意"}
+→ {"text": "所以代表這位國會女議員，當我結束今天的工作、趕搭飛機，並希望它平安降落時，博士們，我希望能夠回來再次與你們相聚。", "confidence": "high", "notes": "Congresswoman Kilpatrick 以第三人稱自稱 'this Congresswoman'，中文保持原意"}
 
 791. We've got a lot of work to do.
 → {"text": "我們還有很多工作要做。", "confidence": "high", "notes": ""}
@@ -76,13 +76,13 @@
 → {"text": "非常感謝你們。", "confidence": "high", "notes": ""}
 
 799. [ Applause ]
-→ {"text": "[掌聲]", "confidence": "high", "notes": "音效標記保留原格式"}
+→ {"text": "［掌聲］", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 2
 
 800. Yes, thank you, Congresswoman Kilpatrick.
-→ {"text": "是的，謝謝妳，基爾派翠克眾議員（Congresswoman Kilpatrick）。", "confidence": "high", "notes": "專有名詞首次出現保留英文並加註中文"}
+→ {"text": "是的，謝謝你，基爾派翠克眾議員（Kilpatrick）。", "confidence": "high", "notes": ""}
 
 801. Dr. Bookman, you've got just a minute of announcements before the break.
 → {"text": "布克曼博士（Dr. Bookman），在休息前你有一分鐘的時間進行宣布。", "confidence": "high", "notes": "專有名詞首次出現保留英文並加註中文"}
@@ -91,28 +91,28 @@
 ## Speaker Group 3
 
 802. Well, first of all, I'd like to say to the honorable representative from Michigan, you ma'am are a hero.
-→ {"text": "首先，我想對來自密西根州的尊貴代表說，女士，妳是一位英雄。", "confidence": "high", "notes": ""}
+→ {"text": "首先，我想對來自密西根州的尊貴代表說，女士，你是一位英雄。", "confidence": "high", "notes": ""}
 
 803. You're a hero, just as much as any of these witnesses, when we reached out to former members of Congress, the answer for many was, well, who else is going to be on that committee with me?
-→ {"text": "妳是一位英雄，就如同這些證人一樣。當我們聯繫前國會議員時，很多人的回答是：那麼還有誰會和我一起在那個委員會上？", "confidence": "high", "notes": ""}
+→ {"text": "你是一位英雄，就如同這些證人一樣。當我們聯繫前國會議員時，很多人的回答是：那麼還有誰會和我一起在那個委員會上？", "confidence": "high", "notes": ""}
 
 804. I'll serve, but I won't serve with so-and-so, or I want to know who else is there.
 → {"text": "我願意服務，但我不願意和某某人一起服務，或者我想知道還有誰會在那裡。", "confidence": "high", "notes": ""}
 
 805. You agreed to do this not knowing any of that.
-→ {"text": "妳在完全不知道這些情況下就同意這樣做。", "confidence": "high", "notes": ""}
+→ {"text": "你在完全不知道這些情況下就同意這樣做。", "confidence": "high", "notes": ""}
 
 806. You stood up and said, "Yes, I'll do it," and opened the space for everyone else to be here.
-→ {"text": "妳站出來說：『是的，我願意做。』為其他人來到這裡開闢了空間。", "confidence": "high", "notes": ""}
+→ {"text": "你站出來說：「是的，我願意做。」為其他人來到這裡開闢了空間。", "confidence": "high", "notes": ""}
 
 807. Before you leave, I wanted to share that with you.
-→ {"text": "在妳離開之前，我想與妳分享這番話。", "confidence": "high", "notes": ""}
+→ {"text": "在你離開之前，我想與你分享這番話。", "confidence": "high", "notes": ""}
 
 808. So, you ma'am are our John Glenn, first one up to orbit the earth.
-→ {"text": "所以，女士，妳就是我們的約翰·葛倫（John Glenn），第一位繞地球軌道飛行的人。", "confidence": "high", "notes": "John Glenn 為美國首位繞地球軌道飛行的太空人，此處為比喻用法"}
+→ {"text": "所以，女士，你就是我們的約翰·格倫（John Glenn），第一位繞地球軌道飛行的人。", "confidence": "high", "notes": "John Glenn 為美國首位繞地球軌道飛行的太空人，此處為比喻用法"}
 
 809. Thank you.
-→ {"text": "謝謝妳。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝你。", "confidence": "high", "notes": ""}
 
 
 ## Speaker Group 4
@@ -127,4 +127,4 @@
 → {"text": "就這樣。", "confidence": "high", "notes": ""}
 
 812. [ Silence ]
-→ {"text": "[靜默]", "confidence": "high", "notes": "音效標記保留原格式"}
+→ {"text": "［靜默］", "confidence": "high", "notes": ""}

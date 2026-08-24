@@ -16,19 +16,19 @@
 → {"text": "下一張投影片。", "confidence": "high", "notes": ""}
 
 155. This is a presentation of what I'm familiar with and my journey began in 1980 with the book called Sunburst Return of the Agents by Norman Paulson.
-→ {"text": "這是我所熟悉領域的報告，我的研究旅程始於1980年，當時讀了 Norman Paulson 所著的《Sunburst Return of the Agents》一書。", "confidence": "medium", "notes": "書名保留原文"}
+→ {"text": "這是我所熟悉領域的報告，我的研究旅程始於 1980 年，當時讀了 Norman Paulson 所著的《Sunburst Return of the Agents》一書。", "confidence": "medium", "notes": "書名保留原文"}
 
 156. The book was fascinating in the fact that there were a lot of very anomalous UFO details shown.
 → {"text": "這本書非常引人入勝，因為書中展示了許多極為異常的不明飛行物細節。", "confidence": "high", "notes": ""}
 
 157. This particular side-by-side photo and the person who took the photo was a deputy sheriff holding the instamatic photo taken in broad daylight over Giant Rock.
-→ {"text": "這張並排照片是由一位副警長拍攝的，他用即拍即有相機在光天化日之下於巨石（Giant Rock）上空拍攝了這張照片。", "confidence": "high", "notes": "Giant Rock 譯為巨石"}
+→ {"text": "這張並排對比的照片，拍攝者是一位副警長，照片是他手持 Instamatic 相機在光天化日之下於巨石（Giant Rock）上空拍到的。", "confidence": "medium", "notes": "原文句構破碎（holding the instamatic photo），依語境重組"}
 
 158. This is fascinating because none of this has happened since then and Van Tassel, George Van Tassel was responsible for holding UFO conferences through the 50s and through the 60s.
-→ {"text": "這非常令人著迷，因為自那以後再也沒有發生過類似事件，而喬治·凡·塔瑟爾（George Van Tassel）在1950年代和1960年代負責舉辦不明飛行物會議。", "confidence": "high", "notes": ""}
+→ {"text": "這非常令人著迷，因為自那以後再也沒有發生過類似事件，而喬治·凡·塔瑟爾（George Van Tassel）在 1950 年代和 1960 年代負責舉辦不明飛行物會議。", "confidence": "high", "notes": ""}
 
 159. I even talked to Dr. Bob Beck who witnessed one of these craft and as you can see there's some type of force illumination below the craft as well.
-→ {"text": "我甚至與 Bob Beck 博士談過，他親眼目睹了其中一艘飛行器，正如你們所見，飛行器下方還有某種力場照明。", "confidence": "high", "notes": ""}
+→ {"text": "我甚至與鮑勃·貝克博士（Dr. Bob Beck）談過，他親眼目睹了其中一艘飛行器，正如你們所見，飛行器下方還有某種力場照明。", "confidence": "high", "notes": ""}
 
 160. So I went out to the community and found what they were working on was a homopolar generator.
 → {"text": "於是我前往該社區，發現他們正在研究的是同極發電機（homopolar generator）。", "confidence": "high", "notes": ""}
@@ -37,7 +37,7 @@
 → {"text": "下一張投影片。", "confidence": "high", "notes": ""}
 
 162. The interesting part of the book described the propulsion system as being 12 magnets around the outer edge of all the very large disk size of the ship carrying off electrical current.
-→ {"text": "書中有趣的部分描述了推進系統：在飛船巨大碟形結構的外緣周圍有12個磁鐵，負責傳導電流。", "confidence": "high", "notes": ""}
+→ {"text": "書中有趣的部分描述了推進系統：在飛船巨大碟形結構的外緣周圍有 12 個磁鐵，負責傳導電流。", "confidence": "high", "notes": ""}
 
 163. Two disks in opposite direction provided the gravity force, whatever propulsion system they had.
 → {"text": "兩個反向旋轉的碟片提供了重力力量，無論他們使用的是什麼推進系統。", "confidence": "high", "notes": ""}
@@ -61,22 +61,22 @@
 → {"text": "下一張投影片。", "confidence": "high", "notes": ""}
 
 170. I basically found that Dr. Ed Mitchell as you see here on the cover of Extraordinary Science magazine was also interested in the same topic.
-→ {"text": "我基本上發現，正如你們在《Extraordinary Science》雜誌封面上所見的 Ed Mitchell 博士，也對同一主題感興趣。", "confidence": "medium", "notes": "雜誌名保留原文"}
+→ {"text": "我發現，正如你們在《Extraordinary Science》雜誌封面上所見的艾德加·米切爾博士（Dr. Ed Mitchell），也對同一主題感興趣。", "confidence": "high", "notes": "雜誌名保留原文"}
 
 171. Bruce De Palma was the source of the interest and he was building homopolar generators like crazy, looking for investors one after another, which he succeeded in doing.
 → {"text": "布魯斯·德帕爾瑪（Bruce De Palma）是這個興趣的來源，他瘋狂地建造同極發電機，一個接一個地尋找投資者，並且他成功了。", "confidence": "high", "notes": ""}
 
 172. However, Ed held on to his money, which is in his breast pocket there, and what was interesting about this particular cover that came out years later was that the serial disk is also shown on the same magazine cover next to the homopolar.
-→ {"text": "然而，Ed 緊握著他的錢，就在他的胸袋裡。這張多年後出版的封面有趣之處在於，瑟爾碟（Searle disk）也與同極發電機一同出現在雜誌封面上。", "confidence": "medium", "notes": "serial disk 應為 Searle disk（瑟爾碟）的誤聽"}
+→ {"text": "然而，艾德加緊握著他的錢，就在他的胸袋裡。這張多年後出版的封面有趣之處在於，瑟爾碟（Searle disk）也與同極發電機一同出現在雜誌封面上。", "confidence": "medium", "notes": "原文 serial disk 應為 Searle disk（瑟爾碟），轉錄錯誤"}
 
 173. So I thought this was sort of a coincidence or synchronicity and I ended up investigating the serial disk.
-→ {"text": "所以我認為這是一種巧合或同步性，於是我開始研究瑟爾碟（Searle disk）。", "confidence": "medium", "notes": "serial disk 應為 Searle disk 的誤聽"}
+→ {"text": "所以我認為這是一種巧合或同步性，於是我開始研究瑟爾碟（Searle disk）。", "confidence": "medium", "notes": "原文 serial disk 應為 Searle disk（瑟爾碟），轉錄錯誤"}
 
 174. Next slide.
 → {"text": "下一張投影片。", "confidence": "high", "notes": ""}
 
 175. And I met John Searle in 1980 in Germany and he actually became kind of a curiosity to me.
-→ {"text": "我在1980年於德國見到了約翰·瑟爾（John Searle），他對我來說確實成了一個好奇的對象。", "confidence": "high", "notes": ""}
+→ {"text": "我在 1980 年於德國見到了約翰·瑟爾（John Searle），他對我來說確實成了一個好奇的對象。", "confidence": "high", "notes": ""}
 
 176. Even today he still is.
 → {"text": "即使到今天他仍然如此。", "confidence": "high", "notes": ""}
@@ -94,10 +94,10 @@
 → {"text": "我基本上試圖幫助他，與不同的人建立聯繫。", "confidence": "high", "notes": ""}
 
 181. He essentially became a little more well known when he gave a talk in Berlin in 1990.
-→ {"text": "當他在1990年於柏林發表演講時，他基本上變得更為人知。", "confidence": "high", "notes": ""}
+→ {"text": "當他在 1990 年於柏林發表演講時，他基本上變得更為人知。", "confidence": "high", "notes": ""}
 
 182. And then some Russians discovered him because of that lecture and the video and decided to build what they described as a single roller magnet assembly with 12 roller magnets around the outer edge of a ring.
-→ {"text": "然後一些俄羅斯人因為那次演講和影片發現了他，並決定建造他們所描述的單滾輪磁鐵組件：在環形結構外緣周圍有12個滾輪磁鐵。", "confidence": "high", "notes": ""}
+→ {"text": "然後一些俄羅斯人因為那次演講和影片發現了他，並決定建造他們所描述的單滾輪磁鐵組件：在環形結構外緣周圍有 12 個滾輪磁鐵。", "confidence": "high", "notes": ""}
 
 183. And so I started to think twice of, hey, this may be something related to what was called the Moo disk back in the Paulson book.
 → {"text": "於是我開始重新思考：嘿，這可能與 Paulson 書中所說的 Moo 碟有關。", "confidence": "medium", "notes": "Moo disk 保留原文"}
@@ -214,7 +214,7 @@
 → {"text": "在這裡我們可以看到零點能源為何可能很重要。", "confidence": "high", "notes": ""}
 
 221. And we'll see if she can insert the 30-second video that's supposed to actually start.
-→ {"text": "我們看看她是否能插入那段應該開始播放的30秒影片。", "confidence": "high", "notes": ""}
+→ {"text": "我們看看她是否能插入那段應該開始播放的 30 秒影片。", "confidence": "high", "notes": ""}
 
 222. I'm not sure if we're going to get a video or not.
 → {"text": "我不確定我們是否能看到影片。", "confidence": "high", "notes": ""}
@@ -268,7 +268,7 @@
 → {"text": "這張投影片之後的下一張。", "confidence": "high", "notes": ""}
 
 239. And the important part is that nowadays, inertia has been discovered to be a zero-point field, Lorentz force, by Hayes, Schwetter, and Puthoff.
-→ {"text": "重要的是，如今海施、魯埃達與普特夫（Haisch， Rueda， and Puthoff）已經發現，慣性是一種零點場、勞倫茲力（Lorentz force）。", "confidence": "medium", "notes": "根據 topics.json 修正建議，Hayes, Schwetter 應為 Haisch, Rueda"}
+→ {"text": "重要的是，如今海施、魯埃達與普特夫（Haisch, Rueda, and Puthoff）已經發現，慣性是一種零點場勞倫茲力（Lorentz force）。", "confidence": "medium", "notes": "原文 Hayes, Schwetter 應為 Haisch, Rueda（Bernard Haisch、Alfonso Rueda 與 Hal Puthoff 提出慣性電磁理論），轉錄錯誤"}
 
 240. This is a seminal paper that's so important that it opens the door to actually controlling inertia and understanding how any ET craft or UFOs could possibly have fast acceleration right angle turns and maybe even travel through the universe.
 → {"text": "這是一篇極具開創性的論文，如此重要，它開啟了實際控制慣性的大門，並讓我們理解任何外星飛行器或不明飛行物如何能夠實現快速加速、直角轉彎，甚至可能穿越宇宙。", "confidence": "high", "notes": ""}
@@ -301,7 +301,7 @@
 → {"text": "這是另一個演示。", "confidence": "high", "notes": ""}
 
 250. I showed this slide to the deputy director of the NRO, National Reconnaissance Office, in case you don't know what NRO stands for.
-→ {"text": "我將這張投影片展示給國家偵察局（NRO， National Reconnaissance Office）的副局長，以防你們不知道 NRO 代表什麼。", "confidence": "high", "notes": ""}
+→ {"text": "我將這張投影片展示給國家偵察局（NRO, National Reconnaissance Office）的副局長，以防你們不知道 NRO 代表什麼。", "confidence": "high", "notes": ""}
 
 251. And this was very important because, as you see, F equals MA, Newton's law, can be modified.
 → {"text": "這非常重要，因為正如你們所見，F 等於 MA，牛頓定律，是可以被修改的。", "confidence": "high", "notes": "物理公式保留原文"}
@@ -325,7 +325,7 @@
 → {"text": "他說，是的。", "confidence": "high", "notes": ""}
 
 258. Here's another proof of inertial shielding, and that is the right angle turn that's photographed here with open shutter, 35 millimeter on tripod, 2 a.m. outside Stewart Air Force Base.
-→ {"text": "這裡有另一個慣性屏蔽（inertial shielding）的證據，那就是在這裡拍攝到的直角轉彎：使用開啟快門的35毫米相機架在三腳架上，凌晨2點在斯圖爾特空軍基地（Stewart Air Force Base）外拍攝。", "confidence": "high", "notes": ""}
+→ {"text": "這裡有另一個慣性屏蔽（inertial shielding）的證據，那就是在這裡拍攝到的直角轉彎：使用開啟快門的 35 毫米相機架在三腳架上，凌晨 2 點在斯圖爾特空軍基地（Stewart Air Force Base）外拍攝。", "confidence": "high", "notes": ""}
 
 259. The triangle craft started from the upper part and the shutter was open, made a tremendous right turn, and then continued as if nothing happened.
 → {"text": "這架三角形飛行器從上方開始，快門開啟著，它做了一個巨大的右轉，然後繼續前進，彷彿什麼事都沒發生。", "confidence": "high", "notes": ""}
@@ -361,10 +361,10 @@
 → {"text": "下一張投影片。", "confidence": "high", "notes": ""}
 
 270. And the conclusion is, and I have to give thanks to Mark McCandlish, who gave a testimony of Dr. Greer's 2001 disclosure project in D.C. since we know once in a while such an electrokinetic-powered craft are put on display, as this one was in 1908 in Norton Air Force Base, which is also his entire testimony is reproduced thanks to Mark in my book Electrogravitics 2.
-→ {"text": "結論是，我必須感謝馬克·麥坎德利什（Mark McCandlish），他在格里爾博士（Dr. Greer）2001年於華盛頓特區舉行的揭露計畫（Disclosure Project）中提供了證詞。因為我們知道，偶爾會有這種以電動力（electrokinetic）驅動的飛行器被展示出來，就像1908年在諾頓空軍基地（Norton Air Force Base）展示的那架一樣。馬克將他的完整證詞收錄在我的《電重力學2》（Electrogravitics 2）一書中。", "confidence": "medium", "notes": "根據 topics.json 修正建議，1908應為1988或1998，但保留原文；Electrogravitics 2為書名保留原文"}
+→ {"text": "結論是，我必須感謝馬克·麥坎德利什（Mark McCandlish），他在格里爾博士（Dr. Greer）2001 年於華盛頓特區舉行的揭露計畫（Disclosure Project）中提供了證詞。因為我們知道，偶爾會有這種以電動力（electrokinetic）驅動的飛行器被展示出來，就像 1908 年在諾頓空軍基地（Norton Air Force Base）展示的那架一樣。馬克將他的完整證詞收錄在我的《電重力學 2》（Electrogravitics 2）一書中。", "confidence": "medium", "notes": "1908 年疑為轉錄錯誤（諾頓空軍基地 1942 年方成立），無法查證確實年份，依規則保留原數字"}
 
 271. And this is also verified and investigated by Dr. Hal Putoff, and I talked to him personally about this story of Norton Air Force Base showing three hovercraft, and he did his due diligence with it, and he says he put it in his gray box of possible events.
-→ {"text": "這也經過哈爾·普特夫博士（Dr. Hal Putoff）的驗證和調查，我親自與他談過諾頓空軍基地展示三架氣墊船的故事，他進行了盡職調查，他說他將這件事放入了他的「可能事件灰盒子」中。", "confidence": "high", "notes": ""}
+→ {"text": "這也經過哈爾·普特夫博士（Dr. Hal Puthoff）的驗證和調查，我親自與他談過諾頓空軍基地展示三架懸停飛行器的故事，他進行了盡職調查，他說他將這件事放入了他的「可能事件灰盒子」中。", "confidence": "high", "notes": "原文 Putoff 應為 Puthoff（同 seg 54），轉錄錯誤；hovercraft 此處指懸停飛行器而非氣墊船"}
 
 272. Thank you.
 → {"text": "謝謝。", "confidence": "high", "notes": ""}

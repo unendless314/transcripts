@@ -15,7 +15,14 @@
         "Representative Hooley",
         "Dr. Wood"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 4,
+          "error_text": "all of the people that have tested",
+          "suggested_correction": "all of the people that have testified",
+          "reasoning": "Context is the opening of a hearing commending witnesses; 'tested' is a phonetic truncation of 'testified'."
+        }
+      ]
     },
     {
       "topic_id": "topic_02",
@@ -42,7 +49,32 @@
         "Philip Corso",
         "Arthur Clarke"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 52,
+          "error_text": "Dean Bob John of Princeton University",
+          "suggested_correction": "Dean Bob Jahn of Princeton University",
+          "reasoning": "Robert G. Jahn was dean of Princeton's School of Engineering and initiated the PEAR consciousness research program; 'Bob John' is a phonetic mis-transcription of 'Bob Jahn'."
+        },
+        {
+          "segment_id": 54,
+          "error_text": "Dr. Hal Putoff",
+          "suggested_correction": "Dr. Hal Puthoff",
+          "reasoning": "The SRI remote viewing pioneer is Harold 'Hal' Puthoff; 'Putoff' is a phonetic misspelling."
+        },
+        {
+          "segment_id": 56,
+          "error_text": "James S. MacDonald, CEO of MacDonald Douglas",
+          "suggested_correction": "James S. McDonnell, CEO of McDonnell Douglas",
+          "reasoning": "The company founder is James Smith McDonnell and the firm is McDonnell Douglas; Whisper respelled both as 'MacDonald'."
+        },
+        {
+          "segment_id": 62,
+          "error_text": "cold fusion results of Pond's Fleischman",
+          "suggested_correction": "cold fusion results of Pons and Fleischmann",
+          "reasoning": "Stanley Pons and Martin Fleischmann announced cold fusion in 1989; 'Pond's Fleischman' is a phonetic mangling of 'Pons and Fleischmann'."
+        }
+      ]
     },
     {
       "topic_id": "topic_03",
@@ -97,6 +129,12 @@
           "error_text": "IT&T",
           "suggested_correction": "ITT",
           "reasoning": "The well-known corporation is ITT (International Telephone and Telegraph). 'IT&T' is an uncommon and likely incorrect rendering."
+        },
+        {
+          "segment_id": 134,
+          "error_text": "Pahoot Mesa",
+          "suggested_correction": "Pahute Mesa",
+          "reasoning": "Pahute Mesa is the real Nevada Test Site mesa adjacent to Groom Lake (Area 51); 'Pahoot' is a phonetic misspelling."
         }
       ]
     },
@@ -152,6 +190,30 @@
           "error_text": "Electrovitics 2",
           "suggested_correction": "Electrogravitics 2",
           "reasoning": "Given the topic of the book is electrogravity, 'Electrovitics' is almost certainly a transcription error for 'Electrogravitics'."
+        },
+        {
+          "segment_id": 172,
+          "error_text": "the serial disk is also shown",
+          "suggested_correction": "the Searle disk is also shown",
+          "reasoning": "Context is John Searle's anti-gravity device; 'serial disk' is a phonetic mis-transcription of 'Searle disk'. Same error recurs in segment 173."
+        },
+        {
+          "segment_id": 239,
+          "error_text": "by Hayes, Schwetter, and Puthoff",
+          "suggested_correction": "by Haisch, Rueda, and Puthoff",
+          "reasoning": "The inertia-as-electromagnetic-force theory is by Bernard Haisch, Alfonso Rueda and Hal Puthoff; 'Hayes, Schwetter' are phonetic mis-transcriptions."
+        },
+        {
+          "segment_id": 262,
+          "error_text": "Dr. Villon",
+          "suggested_correction": "Dr. Vallone",
+          "reasoning": "The moderator is addressing witness Thomas Vallone; 'Villon' is a phonetic mis-transcription (cf. segment 372 'Villano')."
+        },
+        {
+          "segment_id": 271,
+          "error_text": "Dr. Hal Putoff",
+          "suggested_correction": "Dr. Hal Puthoff",
+          "reasoning": "Same person as segment 54; the SRI remote viewing pioneer's name is Puthoff."
         }
       ]
     },
@@ -181,6 +243,18 @@
           "error_text": "Roger Lier",
           "suggested_correction": "Roger Leir",
           "reasoning": "The witness's name is well-known in the field of ufology and is correctly spelled 'Leir'. 'Lier' is a phonetic misspelling."
+        },
+        {
+          "segment_id": 275,
+          "error_text": "Major Podiatric Medicine",
+          "suggested_correction": "Doctor of Podiatric Medicine",
+          "reasoning": "Leir is answering what his degree abbreviation stands for; 'Major' is a mis-transcription of 'Doctor (of)'."
+        },
+        {
+          "segment_id": 355,
+          "error_text": "Congressman Kirkpatrick",
+          "suggested_correction": "Congresswoman Kilpatrick",
+          "reasoning": "The panel member is Carolyn Cheeks Kilpatrick; Whisper inserted an extra 'r' and used the generic 'Congressman'."
         }
       ]
     },
@@ -242,6 +316,126 @@
           "error_text": "Senator of American Progress",
           "suggested_correction": "Center for American Progress",
           "reasoning": "John Podesta founded the 'Center for American Progress,' a well-known think tank. 'Senator of' is a transcription error."
+        },
+        {
+          "segment_id": 371,
+          "error_text": "Dr. Lear",
+          "suggested_correction": "Dr. Leir",
+          "reasoning": "Same recurring misspelling of witness Roger Leir as segment 274."
+        },
+        {
+          "segment_id": 403,
+          "error_text": "the meditational mass",
+          "suggested_correction": "the gravitational mass",
+          "reasoning": "Vallone's thesis distinguishes inertial mass from gravitational mass; 'meditational' is a phonetic corruption of 'gravitational'."
+        },
+        {
+          "segment_id": 436,
+          "error_text": "Congresswoman Wilsey",
+          "suggested_correction": "Congresswoman Woolsey",
+          "reasoning": "Panel member Lynn Woolsey; 'Wilsey' is a phonetic mis-transcription (precedent in UFO-01 seg 443 note)."
+        },
+        {
+          "segment_id": 462,
+          "error_text": "Dr. Paul Violette",
+          "suggested_correction": "Dr. Paul LaViolette",
+          "reasoning": "Same person as segment 268; Whisper dropped the 'La'."
+        },
+        {
+          "segment_id": 464,
+          "error_text": "Linda Moulton-Hull's artifact",
+          "suggested_correction": "Linda Moulton Howe's artifact",
+          "reasoning": "Investigative journalist Linda Moulton Howe; 'Hull' is a phonetic mis-transcription of 'Howe'."
+        },
+        {
+          "segment_id": 482,
+          "error_text": "Thank you, Dr. Lark",
+          "suggested_correction": "Thank you, Dr. Vallone",
+          "reasoning": "The moderator thanks Dr. Vallone immediately after his presentation; Vallone resumes speaking at segment 530."
+        },
+        {
+          "segment_id": 491,
+          "error_text": "Representative Barton",
+          "suggested_correction": "Representative Bartlett",
+          "reasoning": "Roscoe Bartlett was on the 2013 hearing panel (confirmed in UFO-17 seg 714 adjudication); 'Barton' is a phonetic mis-transcription."
+        },
+        {
+          "segment_id": 538,
+          "error_text": "Bernie Hayes",
+          "suggested_correction": "Bernard Haisch",
+          "reasoning": "Co-author of the inertia-as-Lorentz-force theory with Rueda and Puthoff (segment 239); 'Hayes' is a phonetic misspelling of 'Haisch'."
+        },
+        {
+          "segment_id": 562,
+          "error_text": "Werner von Braun",
+          "suggested_correction": "Wernher von Braun",
+          "reasoning": "The rocket scientist's standard spelling is 'Wernher'."
+        },
+        {
+          "segment_id": 576,
+          "error_text": "Linda Moulton-Hal",
+          "suggested_correction": "Linda Moulton Howe",
+          "reasoning": "Same person as segment 464; 'Hal' is a phonetic mis-transcription of 'Howe'."
+        },
+        {
+          "segment_id": 580,
+          "error_text": "Dr. Lear",
+          "suggested_correction": "Dr. Leir",
+          "reasoning": "Same recurring misspelling of witness Roger Leir as segments 274 and 371."
+        },
+        {
+          "segment_id": 617,
+          "error_text": "Dr. Berkman",
+          "suggested_correction": "Dr. Bookman",
+          "reasoning": "The moderator is Dr. Joseph Bookman (segment 549, master table); 'Berkman' is a phonetic mis-transcription."
+        },
+        {
+          "segment_id": 618,
+          "error_text": "Senator Grevelle",
+          "suggested_correction": "Senator Gravel",
+          "reasoning": "Panel member Mike Gravel (UFO-18 seg 143 adjudication, master table); 'Grevelle' is a phonetic mis-transcription."
+        },
+        {
+          "segment_id": 620,
+          "error_text": "Dr. Valone",
+          "suggested_correction": "Dr. Vallone",
+          "reasoning": "Witness Thomas Vallone; Whisper dropped one 'l'."
+        },
+        {
+          "segment_id": 632,
+          "error_text": "Dr. Grevelle",
+          "suggested_correction": "Gravel",
+          "reasoning": "Same person as segment 618 (Mike Gravel); also mis-titled 'Dr.' by the transcription."
+        },
+        {
+          "segment_id": 717,
+          "error_text": "I did see serious the other night",
+          "suggested_correction": "I did see Sirius the other night",
+          "reasoning": "Sirius is the 2013 UFO documentary screened during the hearing week (cf. segment 578's Disclosure); 'serious' is a phonetic mis-transcription."
+        },
+        {
+          "segment_id": 726,
+          "error_text": "Dr. Lear",
+          "suggested_correction": "Dr. Leir",
+          "reasoning": "Same recurring misspelling of witness Roger Leir."
+        },
+        {
+          "segment_id": 748,
+          "error_text": "a crystal set with a battery and an air phone",
+          "suggested_correction": "a crystal set with a battery and an earphone",
+          "reasoning": "Crystal radio sets were listened to with earphones; 'air phone' is a phonetic mis-transcription of 'earphone'."
+        },
+        {
+          "segment_id": 759,
+          "error_text": "Dr. Lear",
+          "suggested_correction": "Dr. Leir",
+          "reasoning": "Same recurring misspelling of witness Roger Leir."
+        },
+        {
+          "segment_id": 709,
+          "error_text": "Representative Patrick",
+          "suggested_correction": "Representative Kilpatrick",
+          "reasoning": "No 'Patrick' on the 2013 hearing panel; confirmed by manual video check on 2026-08-24 that the speaker addressed is Rep. Kilpatrick (nameplate/context). ASR clipped 'Kilpatrick' to 'Patrick'."
         }
       ]
     },

@@ -1,7 +1,7 @@
 # Terminology Master - UFO Citizen Hearing 全系列標準譯名表
 #
-# 收錄標準：出現於 >= 2 集的跨集術語（共 167 個）。
-# 單集專屬術語（僅出現 1 集，共 818 個）請見各集 data/UFO-XX/terminology.yaml。
+# 收錄標準：出現於 >= 2 集的跨集術語（共 168 個）。
+# 單集專屬術語（僅出現 1 集，共 816 個）請見各集 data/UFO-XX/terminology.yaml。
 #
 # 此表是全系列「標準譯名」的唯一權威來源：
 #   ✅ 校稿時字幕正文若與此表不符，以此表為準修正
@@ -20,7 +20,7 @@
 #   - 縮寫標註格式：中文（縮寫），如 資訊自由法（FOIA）、國家安全局（NSA）；CIA 除外，直接用 CIA
 #
 # 產生方式：PYTHONPATH=. python3 tools/build_terminology_master.py --force
-# 最後更新：2026-08-21（依 20 集 terminology.yaml 校稿後版本自動產生）
+# 最後更新：2026-08-24（依 20 集 terminology.yaml 校稿後版本自動產生）
 terms:
 - term: A Strange Harvest
   senses:
@@ -767,6 +767,22 @@ terms:
   - UFO-02
   - UFO-14
   - UFO-20
+- term: Dr. Robert Wood
+  senses:
+  - id: dr_robert_wood_witness
+    definition: 前麥克唐納道格拉斯工程主管，UFO 研究者
+    preferred_translation: 羅伯特·伍德博士
+    episodes:
+    - UFO-19
+  - id: wood_physicist
+    definition: 物理學博士，McDonnell Douglas 資深工程師，MJ-12 文件驗證專家
+    preferred_translation: 羅伯特·伍德博士
+    episodes:
+    - UFO-10
+  episodes:
+  - UFO-10
+  - UFO-19
+  notes: 廢棄譯名（校稿時發現請改正）：鮑勃·伍德博士
 - term: Dr. Roger Leir
   senses:
   - id: dr_leir_researcher

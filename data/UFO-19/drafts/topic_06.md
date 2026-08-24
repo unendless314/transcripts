@@ -49,7 +49,7 @@
 → {"text": "您可能思考過這些問題。", "confidence": "high", "notes": ""}
 
 378. I think the latest estimate is 20 billion years.
-→ {"text": "我認為最新的估計是200億年。", "confidence": "high", "notes": ""}
+→ {"text": "我認為最新的估計是 200 億年。", "confidence": "high", "notes": ""}
 
 379. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -58,13 +58,13 @@
 → {"text": "那麼銀河系有多大呢？它只是宇宙中非常非常微小的一部分。", "confidence": "high", "notes": ""}
 
 381. I think the diameter is about 50,000 light years.
-→ {"text": "我認為直徑大約是5萬光年。", "confidence": "high", "notes": ""}
+→ {"text": "我認為直徑大約是 5 萬光年。", "confidence": "high", "notes": ""}
 
 382. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 383. So 100,000 light years across.
-→ {"text": "所以是橫跨10萬光年。", "confidence": "high", "notes": ""}
+→ {"text": "所以是橫跨 10 萬光年。", "confidence": "high", "notes": ""}
 
 384. Yeah.
 → {"text": "是的。", "confidence": "high", "notes": ""}
@@ -73,19 +73,19 @@
 → {"text": "是的。", "confidence": "high", "notes": ""}
 
 386. It used to be, in the books at that time it was 50.
-→ {"text": "以前，在那個時候的書裡是5萬。", "confidence": "high", "notes": ""}
+→ {"text": "以前，在那個時候的書裡是 5 萬。", "confidence": "high", "notes": ""}
 
 387. It's today.
 → {"text": "現在是。", "confidence": "medium", "notes": "語境不完整"}
 
 388. It's considered to be about 100,000.
-→ {"text": "現在認為大約是10萬光年。", "confidence": "high", "notes": ""}
+→ {"text": "現在認為大約是 10 萬光年。", "confidence": "high", "notes": ""}
 
 389. So if we only went 10, tell me if I'm right about this.
 → {"text": "所以如果我們只達到十分之一的光速，請告訴我這樣說對不對。", "confidence": "high", "notes": ""}
 
 390. If we were only able to send craft at one-tenth the speed of light, if the universe is 15 or 20 billion years old, which I think you said you'd think, couldn't a spacecraft go from one end of 100,000 light year galaxy to the other end of that galaxy in a period of the time of the, this universe has been in existence 15,000 different times and go back and forth?
-→ {"text": "如果我們只能以十分之一的光速發射飛行器，而宇宙有150億或200億年的歷史，正如您所說，一艘太空船難道不能在宇宙存在的這段時間裡，在這個10萬光年的星系中往返1萬5千次嗎？", "confidence": "high", "notes": ""}
+→ {"text": "如果我們只能以十分之一的光速發射飛行器，而宇宙有 150 億或 200 億年的歷史，正如您所說，一艘太空船難道不能在宇宙存在的這段時間裡，在這個 10 萬光年的星系中往返 1 萬 5 千次嗎？", "confidence": "high", "notes": ""}
 
 391. In other words, why is the speed of light such a big problem?
 → {"text": "換句話說，為什麼光速會是這麼大的問題？", "confidence": "high", "notes": ""}
@@ -96,8 +96,8 @@
 393. I'm not trying to say it stops the idea.
 → {"text": "我不是說這會阻止這個想法。", "confidence": "high", "notes": ""}
 
-394. I'm saying, am I right that a craft could go 15,000 times from one end of the galaxy到另一端 in the amount of time that's happened?
-→ {"text": "我是說，一艘飛行器在這段時間裡可以從星系的一端飛到另一端1萬5千次，我這樣說對嗎？", "confidence": "high", "notes": ""}
+394. I'm saying, am I right that a craft could go 15,000 times from one end of the galaxy to the other in the amount of time that's happened?
+→ {"text": "我是說，一艘飛行器在這段時間裡可以從星系的一端飛到另一端 1 萬 5 千次，我這樣說對嗎？", "confidence": "high", "notes": ""}
 
 395. We think in terms of our own time, but I'd just like you to respond to that.
 → {"text": "我們是以自己的時間來思考，但我只是想請您回應這個問題。", "confidence": "high", "notes": ""}
@@ -106,13 +106,13 @@
 → {"text": "嗯，我想分兩部分來回答這個問題。", "confidence": "high", "notes": ""}
 
 397. The first part has to do with the organizational name we are working with, Paradigm Research Group.
-→ {"text": "第一部分與我們合作的組織名稱有關，即範式研究小組（Paradigm Research Group）。", "confidence": "high", "notes": ""}
+→ {"text": "第一部分與我們合作的組織名稱有關，即範式研究組織（Paradigm Research Group）。", "confidence": "high", "notes": ""}
 
 398. And the idea of paradigm is that the concepts of science get changed suddenly.
 → {"text": "範式的概念是指科學觀念會突然發生改變。", "confidence": "high", "notes": ""}
 
 399. And Newton had a paradigm of F equals MA and Einstein came along and said, now that's not quite right.
-→ {"text": "牛頓提出了F等於MA的範式，而愛因斯坦出現後說，這不完全正確。", "confidence": "high", "notes": ""}
+→ {"text": "牛頓提出了 F 等於 MA 的範式，而愛因斯坦出現後說，這不完全正確。", "confidence": "high", "notes": ""}
 
 400. When you go close to the speed of light, you've got different equations.
 → {"text": "當你接近光速時，你就會有不同的方程式。", "confidence": "high", "notes": ""}
@@ -127,10 +127,10 @@
 → {"text": "也就是說，慣性質量和重力質量之間存在差異。", "confidence": "high", "notes": ""}
 
 404. If we could go the speed of light, it wouldn't be just 15,000 times doing that.
-→ {"text": "如果我們能達到光速，那就不只是1萬5千次那麼簡單了。", "confidence": "high", "notes": ""}
+→ {"text": "如果我們能達到光速，那就不只是 1 萬 5 千次那麼簡單了。", "confidence": "high", "notes": ""}
 
 405. We could do that 150,000 times.
-→ {"text": "我們可以做到15萬次。", "confidence": "high", "notes": ""}
+→ {"text": "我們可以做到 15 萬次。", "confidence": "high", "notes": ""}
 
 406. In other words, speed of light isn't really a barrier to interstellar travel, is it?
 → {"text": "換句話說，光速並不是星際旅行的真正障礙，對吧？", "confidence": "high", "notes": ""}
@@ -190,7 +190,7 @@
 → {"text": "今年七月將再次在馬里蘭大學舉行。", "confidence": "high", "notes": ""}
 
 425. We've had David Frohnig there several times as speaker.
-→ {"text": "我們曾多次邀請大衛·弗羅尼格（David Frohnig）擔任演講者。", "confidence": "high", "notes": ""}
+→ {"text": "我們曾多次邀請大衛·弗羅尼格（David Frohnig）擔任演講者。", "confidence": "medium", "notes": "人名無從查證；2026-08-24 人工看片，YouTube 字幕顯示 david frowny，仍無法確認實際人名，維持音譯"}
 
 426. He's a professor from the University of Adelaide in Australia and he particularly has worked on this.
 → {"text": "他是澳大利亞阿德萊德大學的教授，特別從事這方面的研究。", "confidence": "high", "notes": ""}
@@ -205,10 +205,10 @@
 → {"text": "所以我的重點是試圖簡化這個問題，那就是慣性質量（inertial mass）是理解這如何成為可能的關鍵，而我很熟悉的狹義相對論方程式只涉及慣性質量。", "confidence": "high", "notes": ""}
 
 430. So if I could recognize my time really quickly, if we start talking about artificial intelligence being involved in the control of certain vehicles as opposed to natural intelligence being in control, couldn't we also overcome some of these barriers that people have been talking about?
-→ {"text": "所以如果我很快就能認識到這一點，如果我們開始談論人工智能參與某些飛行器的控制，而不是自然智能在控制，我們難道不能也克服人們一直在談論的一些障礙嗎？", "confidence": "high", "notes": ""}
+→ {"text": "所以如果我很快就能認識到這一點，如果我們開始談論人工智慧參與某些飛行器的控制，而不是自然智慧在控制，我們難道不能也克服人們一直在談論的一些障礙嗎？", "confidence": "high", "notes": ""}
 
 431. I mean we send artificial intelligence today out into space.
-→ {"text": "我的意思是，今天我們將人工智能送入太空。", "confidence": "high", "notes": ""}
+→ {"text": "我的意思是，今天我們將人工智慧送入太空。", "confidence": "high", "notes": ""}
 
 432. Is that a possibility?
 → {"text": "這是一種可能性嗎？", "confidence": "high", "notes": ""}
@@ -223,7 +223,7 @@
 → {"text": "我不能違反我要求其他人遵守的規則。", "confidence": "high", "notes": ""}
 
 436. But we will now go to Congresswoman Wilsey.
-→ {"text": "但我們現在要請威爾西眾議員發言。", "confidence": "high", "notes": ""}
+→ {"text": "但我們現在要請伍爾西眾議員（Woolsey）發言。", "confidence": "high", "notes": "原文 Wilsey 應為 Woolsey（Lynn Woolsey，聽證會小組成員），轉錄錯誤"}
 
 437. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -246,10 +246,10 @@
 443. Well, when you asked the question, my immediate reaction was when you said the United States, I asked myself who's really in charge of the answer to your question?
 → {"text": "嗯，當你問這個問題時，我的第一反應是，當你說到美國時，我問自己，誰真正負責回答你的問題？", "confidence": "high", "notes": ""}
 
-444. And so I think the issue which we're dealing with is a truth embargo issue and this enormous secrecy which controls and dominates our entire process, maybe even including the educational process, but if you talk about我們大多數人認為我們生活的普通世界，顯然我們需要確立這樣的觀念：新的想法，正如斯坦·弗里德曼所說，發現來自於以不可預測的方式做不同的事情。
-→ {"text": "所以我認為我們正在處理的問題是一個真相禁運問題，這種巨大的保密控制並主導著我們的整個過程，甚至可能包括教育過程，但如果你談論我們大多數人認為我們生活的普通世界，顯然我們需要確立這樣的觀念：新的想法，正如斯坦·弗里德曼所說，發現來自於以不可預測的方式做不同的事情。", "confidence": "high", "notes": ""}
+444. And so I think the issue which we're dealing with is a truth embargo issue and this enormous secrecy which controls and dominates our entire process, maybe even including the educational process, but if you talk about the ordinary world that we mostly, most of us think that we live in, clearly we need to establish the ideas that new ideas, the discoveries as Stan Friedman said, come from doing things differently in an unpredictable way.
+→ {"text": "所以我認為我們正在處理的問題是一個真相禁運問題，這種巨大的保密控制並主導著我們的整個過程，甚至可能包括教育過程，但如果你談論我們大多數人認為我們生活的普通世界，顯然我們需要確立這樣的觀念：新的想法，正如史丹頓·弗里德曼（Stanton Friedman）所說，發現來自於以不可預測的方式做不同的事情。", "confidence": "high", "notes": ""}
 
-445. So I think we need to emphasize the importance of creativity in developing the next set of equations that we need and may have already been discovered, but we need to make our society更好更強大。
+445. So I think we need to emphasize the importance of creativity in developing the next set of equations that we need and may have already been discovered, but we need to make our society better and stronger.
 → {"text": "所以我認為我們需要強調創造力在發展我們需要且可能已經被發現的下一組方程式方面的重要性，但我們需要讓我們的社會變得更好更強大。", "confidence": "high", "notes": ""}
 
 446. Thank you.
@@ -271,10 +271,10 @@
 → {"text": "而且我不認為這會來自總統的行政命令。", "confidence": "high", "notes": ""}
 
 452. I think it's going to come from people stepping forward and I wish to emphasize that as I did the other day, that in 1998 we declared these unacknowledged special access projects unconstitutional, a priori illegal.
-→ {"text": "我認為這將來自人們挺身而出，我想強調的是，正如我前幾天所做的，1998年我們宣布這些未公開的特別許可項目（unacknowledged special access projects）違憲，先驗地非法。", "confidence": "high", "notes": ""}
+→ {"text": "我認為這將來自人們挺身而出，我想強調的是，正如我前幾天所做的，1998 年我們宣布這些未公開的特別許可項目（unacknowledged special access projects）違憲，先驗地非法。", "confidence": "high", "notes": ""}
 
 453. And we encouraged and we now have over 500 people who have come forward to give us information documents and what have you on this.
-→ {"text": "我們鼓勵並且現在有超過500人挺身而出，向我們提供信息文件等等。", "confidence": "high", "notes": ""}
+→ {"text": "我們鼓勵並且現在有超過 500 人挺身而出，向我們提供資訊文件等等。", "confidence": "high", "notes": ""}
 
 454. And I think we need to continue to do that.
 → {"text": "我認為我們需要繼續這樣做。", "confidence": "high", "notes": ""}
@@ -292,31 +292,31 @@
 → {"text": "瓦隆博士。", "confidence": "high", "notes": ""}
 
 459. Could I show slide 23, please, as I'm talking?
-→ {"text": "我可以在說話的同時展示第23張幻燈片嗎？", "confidence": "high", "notes": ""}
+→ {"text": "我可以在說話的同時展示第 23 張投影片嗎？", "confidence": "high", "notes": ""}
 
 460. What I'd like to explain is that I agree with our co-panelists and that is the United States already has this technology and I had the privilege of talking with a former black project engineer, spent the whole afternoon with him taking pages and pages of notes, one of which is actually in front of me right here.
 → {"text": "我想解釋的是，我同意我們的小組成員的觀點，那就是美國已經擁有這項技術，我有幸與一位前黑項目（black project）工程師交談，與他共度了整個下午，記了滿滿幾頁筆記，其中一頁就在我面前。", "confidence": "high", "notes": ""}
 
 461. And what I learned is, first of all, he taught me all the details of creating an electro-gravitic layered semiconductor that with bismuth in between and magnesium and zinc, with the same percentages that when slide 23 pops up, you'll see that was published years before in a colleague's book called Secrets of Anti-Gravity Propulsion.
-→ {"text": "我學到的是，首先，他教會了我創造電重力分層半導體的所有細節，其中間有鉍、鎂和鋅，比例相同，當第23張幻燈片出現時，你會看到這在多年前就已發表在一位同事的著作《反重力推進的秘密》（Secrets of Anti-Gravity Propulsion）中。", "confidence": "high", "notes": ""}
+→ {"text": "我學到的是，首先，他教會了我創造電重力分層半導體的所有細節，其中間有鉍、鎂和鋅，比例相同，當第 23 張投影片出現時，你會看到這在多年前就已發表在一位同事的著作《反重力推進的秘密》（Secrets of Anti-Gravity Propulsion）中。", "confidence": "high", "notes": ""}
 
 462. And Dr. Paul Violette only let me know a year later, he said, "Oh, this sounds like what I learned from another black project engineer who actually was through Aviation Weekly over in England."
-→ {"text": "而保羅·維奧萊特博士（Dr. Paul Violette）一年後才告訴我，他說：「哦，這聽起來像我從另一位黑項目工程師那裡學到的，他實際上是通過英國的《航空週刊》（Aviation Weekly）知道的。」", "confidence": "high", "notes": ""}
+→ {"text": "而保羅·拉維奧萊特博士（Dr. Paul LaViolette）一年後才告訴我，他說：「哦，這聽起來像我從另一位黑項目工程師那裡學到的，他實際上是透過英國的《航空週刊》（Aviation Weekly）知道的。」", "confidence": "high", "notes": "原文 Paul Violette 應為 Paul LaViolette，轉錄錯誤"}
 
 463. So this is very interesting because my contact told me so many things I couldn't believe, I just took the notes down.
 → {"text": "所以這非常有趣，因為我的聯繫人告訴了我這麼多我無法相信的事情，我只是把筆記記下來。", "confidence": "high", "notes": ""}
 
 464. But after I corroborated this with Linda Moulton-Hull's artifact as well, we have three different corroborations within 1% variation of the same artifact.
-→ {"text": "但在我用琳達·莫爾頓-赫爾（Linda Moulton-Hull）的人工製品也證實了這一點之後，我們對同一人工製品有三個不同的證實，變化在1%以內。", "confidence": "high", "notes": ""}
+→ {"text": "但在我用琳達·莫爾頓·豪（Linda Moulton Howe）的樣本也證實了這一點之後，我們對同一樣本有三個不同的證實，變化在 1% 以內。", "confidence": "high", "notes": "原文 Moulton-Hull 應為 Moulton Howe（調查記者 Linda Moulton Howe），轉錄錯誤；artifact 此處指樣本／檢體"}
 
 465. In fact, slide 24, if she gets that up, will also show the actual semiconductor.
-→ {"text": "事實上，如果她能把第24張幻燈片放出來，也會展示實際的半導體。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，如果她能把第 24 張投影片放出來，也會展示實際的半導體。", "confidence": "high", "notes": ""}
 
 466. But the important part is that we have the technology, students are contacting our Integrity Research Institute all the time saying, "What should we study?"
 → {"text": "但重要的是我們擁有這項技術，學生們一直在聯繫我們的誠信研究所（Integrity Research Institute）問：「我們應該學習什麼？」", "confidence": "high", "notes": ""}
 
 467. And this is, I used to be a college teacher, you need the 13 chapters with questions and answers at the end of each chapter.
-→ {"text": "這就是，我曾經是大學老師，你需要13個章節，每章末尾都有問題和答案。", "confidence": "high", "notes": ""}
+→ {"text": "這就是，我曾經是大學老師，你需要 13 個章節，每章末尾都有問題和答案。", "confidence": "high", "notes": ""}
 
 468. And the books need to be written, the Zero Point Energy book, the Electro-Vitics book.
 → {"text": "而且需要編寫書籍，零點能源（Zero Point Energy）的書，電重力學（Electro-Vitics）的書。", "confidence": "high", "notes": ""}
@@ -325,19 +325,19 @@
 → {"text": "這些教科書是未來的教科書，學生們已經在等待學習這些內容了。", "confidence": "high", "notes": ""}
 
 470. So this is the book I'm talking about and if we progress to the next slide, we'll see the actual page that Paul was talking about.
-→ {"text": "這就是我說的書，如果我們進入下一張幻燈片，我們會看到保羅所說的實際頁面。", "confidence": "high", "notes": ""}
+→ {"text": "這就是我說的書，如果我們進入下一張投影片，我們會看到保羅所說的實際頁面。", "confidence": "high", "notes": ""}
 
 471. And this to me was amazing synchronicity.
 → {"text": "對我來說，這是驚人的同步性。", "confidence": "high", "notes": ""}
 
 472. So I started to believe the other stuff that this black project fellow told me, and that is we already have a base on Mars, which was established in the 1970s, and I said, "Oh, I don't believe that."
-→ {"text": "所以我開始相信這個黑項目傢伙告訴我的其他事情，那就是我們在火星上已經有一個基地，建立於1970年代，我說：「哦，我不相信。」", "confidence": "high", "notes": ""}
+→ {"text": "所以我開始相信這個黑項目傢伙告訴我的其他事情，那就是我們在火星上已經有一個基地，建立於 1970 年代，我說：「哦，我不相信。」", "confidence": "high", "notes": ""}
 
 473. He says, "Oh, go check the NASA records of the greenhouse gases from Mars' atmosphere.
-→ {"text": "他說：「哦，去查一下NASA關於火星大氣層溫室氣體的記錄。」", "confidence": "high", "notes": ""}
+→ {"text": "他說：「哦，去查一下 NASA 關於火星大氣層溫室氣體的記錄。」", "confidence": "high", "notes": ""}
 
 474. They increased in the 1970s."
-→ {"text": "它們在1970年代增加了。」", "confidence": "high", "notes": ""}
+→ {"text": "它們在 1970 年代增加了。」", "confidence": "high", "notes": ""}
 
 475. And that was his counterpoint and so forth, he says, "We have a deep space platform."
 → {"text": "這就是他的反駁等等，他說：「我們有一個深空平台。」", "confidence": "high", "notes": ""}
@@ -361,7 +361,7 @@
 → {"text": "這些玩玩具的男孩。", "confidence": "high", "notes": ""}
 
 482. Thank you, Dr. Lark.
-→ {"text": "謝謝，拉克博士。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝，瓦隆博士（Dr. Vallone）。", "confidence": "high", "notes": "原文 Dr. Lark 應為 Dr. Vallone（瓦隆博士方結束證詞），轉錄錯誤"}
 
 483. I have a different approach.
 → {"text": "我有不同的看法。", "confidence": "high", "notes": ""}
@@ -373,7 +373,7 @@
 → {"text": "我相信這些知識，關於這一切的基本知識，我們一直在使用「外星性」（extraterrestriality）這個術語，這個術語比我們應該使用的更籠統，因為我們實際上並不理解宇宙本身的全部影響。", "confidence": "high", "notes": ""}
 
 486. We don't know whether this is a multiverse, whether there are various time areas involved, but someone does know and I believe that at one time at the days of Majestic 12 and Eisenhower and Truman and so on and the state that the world was in, it was necessary to keep this a secret from the public.
-→ {"text": "我們不知道這是否是一個多元宇宙，是否涉及不同的時間區域，但有人確實知道，我相信在 majestic 12、艾森豪威爾和杜魯門等人的時代，以及當時世界的狀況下，有必要對公眾保密。", "confidence": "high", "notes": ""}
+→ {"text": "我們不知道這是否是一個多元宇宙，是否涉及不同的時間區域，但有人確實知道，我相信在 Majestic 12 小組（MJ-12）、艾森豪威爾和杜魯門等人的時代，以及當時世界的狀況下，有必要對公眾保密。", "confidence": "high", "notes": ""}
 
 487. But now I believe, again, I'm sorry to be pessimistic.
 → {"text": "但現在我相信，再次抱歉，我很悲觀。", "confidence": "high", "notes": ""}
@@ -388,7 +388,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 491. We'll now go to Representative Barton.
-→ {"text": "我們現在請巴頓眾議員發言。", "confidence": "high", "notes": ""}
+→ {"text": "我們現在請巴特利特眾議員（Bartlett）發言。", "confidence": "high", "notes": "原文 Barton 應為 Bartlett（Roscoe Bartlett，2013 聽證會小組成員），轉錄錯誤"}
 
 492. Thank you very much.
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
@@ -466,7 +466,7 @@
 → {"text": "你實際上是在獲取能量。", "confidence": "high", "notes": ""}
 
 517. It's been estimated that every cubic centimeter of space in this room has enough energy to run the earth for a day if you could tap it properly through these systems.
-→ {"text": "據估計，這個房間中每立方公分的空間都有足夠的能量來運行地球一天，如果你能通過這些系統適當地利用它的話。", "confidence": "high", "notes": ""}
+→ {"text": "據估計，這個房間中每立方公分的空間都有足夠的能量來運行地球一天，如果你能透過這些系統適當地利用它的話。", "confidence": "high", "notes": ""}
 
 518. So that means the energy is there, but you have to be able to create a vector into that energy field.
 → {"text": "所以這意味著能量是存在的，但你必須能夠創建一個進入那個能量場的向量。", "confidence": "high", "notes": ""}
@@ -481,13 +481,13 @@
 → {"text": "我認為有一個普遍共識，如果這些不明飛行物是真實的，如果它們是外星來的，那麼它們以某種方式學會了我們希望能夠做到的事情，那就是擁有反重力技術。", "confidence": "high", "notes": ""}
 
 522. Okay, I don't know how much we know by reverse engineering these things, how much we know about that, but whatever we know about it, do you think that information is being made available to Stephen Hawking?
-→ {"text": "好的，我不知道我們通過反向工程這些東西了解了多少，我們對此了解多少，但無論我們了解什麼，您認為這些信息會提供給史蒂芬·霍金（Stephen Hawking）嗎？", "confidence": "high", "notes": ""}
+→ {"text": "好的，我不知道我們透過反向工程這些東西了解了多少，我們對此了解多少，但無論我們了解什麼，您認為這些資訊會提供給史蒂芬·霍金（Stephen Hawking）嗎？", "confidence": "high", "notes": ""}
 
 523. I haven't heard he died, so I guess he's still alive, and people like him who are trying to harmonize the mysteries of the universe, relativity and gravity and so forth.
 → {"text": "我沒聽說他去世了，所以我想他還活著，還有像他這樣試圖調和宇宙奧秘、相對論和重力等問題的人。", "confidence": "high", "notes": ""}
 
 524. Do you think it's being, I hope it's being made available to them.
-→ {"text": "您認為這些信息會被，我希望這些信息會提供給他們。", "confidence": "high", "notes": ""}
+→ {"text": "您認為這些資訊會被，我希望這些資訊會提供給他們。", "confidence": "high", "notes": ""}
 
 525. You think not?
 → {"text": "您認為不會嗎？", "confidence": "high", "notes": ""}
@@ -508,31 +508,31 @@
 → {"text": "是的，我們可以。", "confidence": "high", "notes": ""}
 
 531. That's what I tried to explain in my slideshow.
-→ {"text": "這就是我在幻燈片演示中試圖解釋的。", "confidence": "high", "notes": ""}
+→ {"text": "這就是我在投影片演示中試圖解釋的。", "confidence": "high", "notes": ""}
 
 532. I'd be glad to pull up slide 18 again and slide 17.
-→ {"text": "我很樂意再次調出第18張和第17張幻燈片。", "confidence": "high", "notes": ""}
+→ {"text": "我很樂意再次調出第 18 張和第 17 張投影片。", "confidence": "high", "notes": ""}
 
 533. This is a very important discovery that's been made, and I'm one of the few that have put these things together to describe 17, which is the inertial inertia.
-→ {"text": "這是一個非常重要的發現，而我是少數將這些東西整合在一起來描述第17點的人之一，那就是慣性。", "confidence": "high", "notes": ""}
+→ {"text": "這是一個非常重要的發現，而我是少數將這些東西整合在一起來描述第 17 點的人之一，那就是慣性。", "confidence": "high", "notes": ""}
 
 534. In other words, inertial mass is now known to be a zero-point energy effect.
 → {"text": "換句話說，慣性質量（inertial mass）現在已知是一種零點能源效應。", "confidence": "high", "notes": ""}
 
 535. The slide you're looking at right here is slide 18, that's the conclusion of that.
-→ {"text": "您現在看到的這張幻燈片是第18張，這是該理論的結論。", "confidence": "high", "notes": ""}
+→ {"text": "您現在看到的這張投影片是第 18 張，這是該理論的結論。", "confidence": "high", "notes": ""}
 
 536. The previous one, 17, is the journal article that is probably front-page news and should be, because once inertia now is discovered to be an electromagnetic phenomenon, that's an exact breakthrough, in other words.
-→ {"text": "前一張，第17張，是那篇期刊文章，這可能是頭版新聞，也應該是，因為一旦慣性被發現是一種電磁現象，這就是一個確切的突破，換句話說。", "confidence": "high", "notes": ""}
+→ {"text": "前一張，第 17 張，是那篇期刊文章，這可能是頭版新聞，也應該是，因為一旦慣性被發現是一種電磁現象，這就是一個確切的突破，換句話說。", "confidence": "high", "notes": ""}
 
 537. If we go back one slide, the journal article obviously is something we need to refer to, because Hal Puthoff was responsible for that.
-→ {"text": "如果我們退回一張幻燈片，這篇期刊文章顯然是我們需要參考的，因為哈爾·普特夫（Hal Puthoff）對此負責。", "confidence": "high", "notes": ""}
+→ {"text": "如果我們退回一張投影片，這篇期刊文章顯然是我們需要參考的，因為哈爾·普特夫（Hal Puthoff）對此負責。", "confidence": "high", "notes": ""}
 
 538. Bernie Hayes, who I know personally, was also responsible, and they proved it.
-→ {"text": "我個人認識的伯尼·海斯（Bernie Hayes）也參與其中，而且他們證明了這一點。", "confidence": "high", "notes": ""}
+→ {"text": "我個人認識的伯納德·海施（Bernard Haisch）也參與其中，而且他們證明了這一點。", "confidence": "high", "notes": "原文 Bernie Hayes 應為 Bernard Haisch（同 seg 239 慣性理論共同作者），轉錄錯誤"}
 
 539. They literally did stochastic electrodynamics to conclude that it's simply a Lorentz force, F equals V cross B. And if you know what I'm talking about, V cross B, velocity crossing with a magnetic field gives you a force, and you see that in electromagnetism.
-→ {"text": "他們實際上做了隨機電動力學研究，得出結論認為這僅僅是勞倫茲力（Lorentz force），F等於V叉乘B。如果您知道我在說什麼，V叉乘B，速度與磁場交叉會給你一個力，你在電磁學中可以看到這一點。", "confidence": "high", "notes": ""}
+→ {"text": "他們實際上做了隨機電動力學研究，得出結論認為這僅僅是勞倫茲力（Lorentz force），F 等於 V 叉乘 B。如果您知道我在說什麼，V 叉乘 B，速度與磁場交叉會給你一個力，你在電磁學中可以看到這一點。", "confidence": "high", "notes": ""}
 
 540. But who would know you could see that in a movement of a vehicle?
 → {"text": "但誰會知道你可以在車輛運動中看到這一點呢？", "confidence": "high", "notes": ""}
@@ -568,7 +568,7 @@
 → {"text": "不過不是對陣梅里爾，而是對陣您的同事羅布·畢曉普（Rob Bishop）。", "confidence": "high", "notes": ""}
 
 551. Dr. Greer, you mentioned 25-mile wide craft. 26. 26-mile wide craft, and you mentioned that you believe the military-industrial complex has a program of shooting them down.
-→ {"text": "格里爾博士，您提到了25英里寬的飛行器。26英里寬的飛行器，而且您提到您認為軍工複合體有一個將它們擊落的計劃。", "confidence": "high", "notes": ""}
+→ {"text": "格里爾博士，您提到了 25 英里寬的飛行器。26 英里寬的飛行器，而且您提到您認為軍工複合體有一個將它們擊落的計劃。", "confidence": "high", "notes": ""}
 
 552. Have we shot down one that big, in your opinion, or from your witnesses?
 → {"text": "在您看來，或者根據您的證人，我們擊落過那麼大的飛行器嗎？", "confidence": "high", "notes": ""}
@@ -583,7 +583,7 @@
 → {"text": "我們確實有證人，而且有一些來自飛行員的證詞，其中有人試圖瞄準並將它們擊落。", "confidence": "high", "notes": ""}
 
 556. And I think that we have to understand that $2.3 trillion in unaccounted funds in the military-industrial complex have resulted in some very strange things going on.
-→ {"text": "我認為我們必須明白，軍工複合體中有2.3萬億美元無法說明的資金，這導致了一些非常奇怪的事情正在發生。", "confidence": "high", "notes": ""}
+→ {"text": "我認為我們必須明白，軍工複合體中有 2.3 萬億美元無法說明的資金，這導致了一些非常奇怪的事情正在發生。", "confidence": "high", "notes": ""}
 
 557. I call it the Strangelovian complex, where there are folks who are doing things without proper oversight from the Congress or the President that are really a threat to our national security.
 → {"text": "我稱之為奇愛式情結（Strangelovian complex），在那裡有些人在沒有國會或總統適當監督的情況下做事，這確實對我們的國家安全構成威脅。", "confidence": "high", "notes": ""}
@@ -601,19 +601,19 @@
 → {"text": "但更具體地說，有便攜式電磁脈衝（EMP）系統，以及其他涉及純量波（scalar waves）或縱波的系統，這些與這樣傳播的光波不同，或者說是縱向的，已經被武器化了。", "confidence": "high", "notes": ""}
 
 562. And as Werner von Braun stated in the last years of his life through our disclosure project witness Carol Rosin, that these sort of technologies are being deployed in this space and should not be.
-→ {"text": "正如沃納·馮·布勞恩（Werner von Braun）在他生命的最後幾年通過我們的揭露計畫（Disclosure Project）證人卡羅爾·羅辛（Carol Rosin）所說的，這類技術正在這個空間部署，但不應該如此。", "confidence": "high", "notes": ""}
+→ {"text": "正如沃納·馮·布勞恩（Wernher von Braun）在他生命的最後幾年透過我們的揭露計畫（Disclosure Project）證人卡羅爾·羅辛（Carol Rosin）所說的，這類技術正在這個空間部署，但不應該如此。", "confidence": "high", "notes": "原文 Werner 應為 Wernher（標準拼寫）"}
 
 563. Moreover, there's a number of false flag operations that have happened, as was referred to in Gulf Breeze, where there have been objects that appear to be ET that aren't, and contact events that appear to be alien that aren't.
 → {"text": "此外，還發生了一些偽旗行動（false flag operations），正如在海灣微風（Gulf Breeze）提到的，有些看起來是外星人的物體其實不是，有些看起來是外星接觸的事件其實也不是。", "confidence": "high", "notes": ""}
 
 564. And these include the manufacturer at EG&G near the Nellis range of a number of implants.
-→ {"text": "這些包括在內利斯靶場（Nellis range）附近的EG&G公司製造的許多植入物（implants）。", "confidence": "high", "notes": ""}
+→ {"text": "這些包括在內利斯靶場（Nellis range）附近的 EG&G 公司製造的許多植入物（implants）。", "confidence": "high", "notes": ""}
 
 565. As you know from our witness, Mr. Pollock, who worked with the CIA, they were manufacturing up to two billion of these in the '70s and '80s.
-→ {"text": "正如您從我們的證人波洛克先生（Mr. Pollock）那裡知道的，他曾與CIA合作，他們在70年代和80年代製造了多達20億個這樣的植入物。", "confidence": "high", "notes": ""}
+→ {"text": "正如您從我們的證人波洛克先生（Mr. Pollock）那裡知道的，他曾與 CIA 合作，他們在 70 年代和 80 年代製造了多達 20 億個這樣的植入物。", "confidence": "high", "notes": ""}
 
 566. This interview is on YouTube.
-→ {"text": "這個訪談在YouTube上。", "confidence": "high", "notes": ""}
+→ {"text": "這個訪談在 YouTube 上。", "confidence": "high", "notes": ""}
 
 567. There's a number of things I have not had time to go into that I really do believe are an existential threat to our planet.
 → {"text": "有很多事情我沒有時間深入探討，但我確實相信這些對我們的星球構成生存威脅。", "confidence": "high", "notes": ""}
@@ -643,7 +643,7 @@
 → {"text": "謝謝您。", "confidence": "high", "notes": ""}
 
 576. If I understand correctly, Linda Moulton-Hal, George Knapp, Dolan, yourself, have had conversations with people deep in the military industrial complex who've told you things off the record privately.
-→ {"text": "如果我理解正確，琳達·莫爾頓-霍爾（Linda Moulton-Hal）、喬治·納普（George Knapp）、多蘭（Dolan）、還有您本人，都曾與軍工複合體深處的人交談過，他們私下裡非正式地告訴過您一些事情。", "confidence": "high", "notes": ""}
+→ {"text": "如果我理解正確，琳達·莫爾頓·豪（Linda Moulton Howe）、喬治·納普（George Knapp）、多蘭（Dolan）、還有您本人，都曾與軍工複合體深處的人交談過，他們私下裡非正式地告訴過您一些事情。", "confidence": "high", "notes": "原文 Moulton-Hal 應為 Moulton Howe（同 seg 464），轉錄錯誤"}
 
 577. It would make a great movie, I gather.
 → {"text": "我想這會拍成一部很棒的電影。", "confidence": "high", "notes": ""}
@@ -652,7 +652,7 @@
 → {"text": "順便說一下，《揭露》（Disclosure）這部嚴肅的電影也是一部很棒的電影。", "confidence": "high", "notes": ""}
 
 579. If the United States Congress, or what would you need, what do you feel they would need from the United States Congress in order to be able to feel safe testifying on 60 Minutes or somewhere?
-→ {"text": "如果是美國國會，或者您需要什麼，您認為他們需要從美國國會得到什麼，才能感到安全地在《60分鐘》或其他地方作證？", "confidence": "high", "notes": ""}
+→ {"text": "如果是美國國會，或者您需要什麼，您認為他們需要從美國國會得到什麼，才能感到安全地在《60 分鐘》或其他地方作證？", "confidence": "high", "notes": ""}
 
 580. I mean, I appreciate your point, Dr. Lear, and others have made this, that we have an oath to the Constitution, not to some independent agency that's gotten out of control.
 → {"text": "我的意思是，我感謝您的觀點，萊爾博士（Dr. Lear），還有其他人也提出過，我們對憲法宣誓，而不是對某個失控的獨立機構宣誓。", "confidence": "high", "notes": ""}
@@ -667,13 +667,13 @@
 → {"text": "嗯，我認為問題是，媒體會允許嗎？", "confidence": "high", "notes": ""}
 
 584. As I mentioned, when ABC News wanted to do this, with 35 digital hours of top secret testimony, Ira Rosen was shot down by corporate ABC.
-→ {"text": "正如我所提到的，當ABC新聞想要這樣做時，帶著35小時數位化的最高機密（top secret）證詞，艾拉·羅森（Ira Rosen）被ABC公司否決了。", "confidence": "high", "notes": ""}
+→ {"text": "正如我所提到的，當 ABC 新聞想要這樣做時，帶著 35 小時數位化的最高機密（top secret）證詞，艾拉·羅森（Ira Rosen）被 ABC 公司否決了。", "confidence": "high", "notes": ""}
 
 585. That's one question.
 → {"text": "這是一個問題。", "confidence": "high", "notes": ""}
 
 586. The other question becomes, I think some of these people, and the briefing I put together for the president that went to him via John Podesta, Center for American Progress, was oriented towards getting those executive actions done, because we need federal, martial protection for some of these people.
-→ {"text": "另一個問題是，我認為這些人中的一些人，以及我為總統準備的通過約翰·波德斯達（John Podesta）轉交的簡報，美國進步中心（Center for American Progress），是為了推動那些行政行動的實施，因為我們需要聯邦的、軍事的保護來保護這些人中的一些人。", "confidence": "high", "notes": ""}
+→ {"text": "另一個問題是，我認為這些人中的一些人，以及我為總統準備的透過約翰·波德斯達（John Podesta）轉交的簡報，美國進步中心（Center for American Progress），是為了推動那些行政行動的實施，因為我們需要聯邦的、軍事的保護來保護這些人中的一些人。", "confidence": "high", "notes": ""}
 
 587. I know who they are.
 → {"text": "我知道他們是誰。", "confidence": "high", "notes": ""}
@@ -697,16 +697,16 @@
 → {"text": "嗯，從保密的觀點來看，但我不會違反人們的保密義務。", "confidence": "high", "notes": ""}
 
 594. What I will say is that there's an enormous amount of actionable intelligence we have, and names can be provided, including members of this majestic committee with whom I've met.
-→ {"text": "我要說的是，我們掌握著大量可採取行動的情報，可以提供名字，包括我見過的這個majestic委員會的成員。", "confidence": "high", "notes": ""}
+→ {"text": "我要說的是，我們掌握著大量可採取行動的情報，可以提供名字，包括我見過的這個 Majestic 委員會（MJ-12）的成員。", "confidence": "high", "notes": ""}
 
 595. Many of them would like to see this information come out.
-→ {"text": "他們中的許多人希望看到這些信息被公開。", "confidence": "high", "notes": ""}
+→ {"text": "他們中的許多人希望看到這些資訊被公開。", "confidence": "high", "notes": ""}
 
 596. The problem is lethal force has been threatened and used.
 → {"text": "問題是致命武力已經被威脅和使用過。", "confidence": "high", "notes": ""}
 
 597. I think that this has become something that needs an FBI investigation, Congressional investigation, and subpoenas.
-→ {"text": "我認為這已經成為需要FBI調查、國會調查和傳票的事情。", "confidence": "high", "notes": ""}
+→ {"text": "我認為這已經成為需要 FBI 調查、國會調查和傳票的事情。", "confidence": "high", "notes": ""}
 
 598. I have one minute left if I've timed myself correctly here.
 → {"text": "如果我計時正確，我還有一分鐘。", "confidence": "high", "notes": ""}
@@ -742,7 +742,7 @@
 → {"text": "除此之外，我認為我們已經盡可能地讓更多人站出來了。", "confidence": "high", "notes": ""}
 
 609. One of my frustrations is knowing too many people and having too much information that I can't give actual intelligence on to the general public without violating ... I take this like a doctor with patient confidentiality, without protecting those people's confidentiality, but we have this information.
-→ {"text": "我的挫折之一是認識太多人，掌握太多信息，而我無法在不違反的情況下向公眾提供實際情報……我像醫生對待病人隱私一樣對待這些信息，如果不保護那些人的保密性，但我們確實有這些信息。", "confidence": "high", "notes": ""}
+→ {"text": "我的挫折之一是認識太多人，掌握太多資訊，而我無法在不違反的情況下向公眾提供實際情報……我像醫生對待病人隱私一樣對待這些資訊，如果不保護那些人的保密性，但我們確實有這些資訊。", "confidence": "high", "notes": ""}
 
 610. I would love to be subpoenaed so I could give it over to a proper authority.
 → {"text": "我很希望能被傳喚，這樣我就可以把它交給適當的權威機構。", "confidence": "high", "notes": ""}
@@ -766,16 +766,16 @@
 → {"text": "謝謝。", "confidence": "high", "notes": ""}
 
 617. Thank you, Dr. Berkman.
-→ {"text": "謝謝您，伯克曼博士。", "confidence": "high", "notes": ""}
+→ {"text": "謝謝您，布克曼博士（Dr. Bookman）。", "confidence": "high", "notes": "原文 Berkman 應為 Bookman（聽證會主持人約瑟夫·布克曼博士），轉錄錯誤"}
 
 618. We'll now go to Senator Grevelle.
-→ {"text": "我們現在請格雷維爾參議員（Senator Grevelle）發言。", "confidence": "high", "notes": ""}
+→ {"text": "我們現在請格拉維爾參議員（Gravel）發言。", "confidence": "high", "notes": "原文 Grevelle 應為 Gravel（前參議員 Mike Gravel），轉錄錯誤"}
 
 619. I am not qualified to get into the technical discussion, but I would say this.
 → {"text": "我沒有資格參與技術討論，但我想說這一點。", "confidence": "high", "notes": ""}
 
 620. Dr. Wood referred to, if the black area has this knowledge, you've pointed out that whoever was the head of the CIA at the time shut the door on ... Dr. Valone, we've heard testimony before about the fact that somebody was boasting from one of these black areas, which is these contractors that we have the capability to take ET back home.
-→ {"text": "伍德博士提到，如果黑區域擁有這些知識，您指出當時的CIA局長關閉了大門……瓦隆博士（Dr. Valone），我們之前聽到過證詞，有人從這些黑區域之一吹噓，這些承包商說我們有能力把外星人（ET）送回家。", "confidence": "high", "notes": ""}
+→ {"text": "伍德博士提到，如果黑區域擁有這些知識，您指出當時的 CIA 局長關閉了大門……瓦隆博士（Dr. Vallone），我們之前聽到過證詞，有人從這些黑區域之一吹噓，這些承包商說我們有能力把外星人（ET）送回家。", "confidence": "high", "notes": "原文 Valone 應為 Vallone，轉錄錯誤"}
 
 621. Is that something briefly squares with your knowledge at this point in time?
 → {"text": "這與您目前的知識大致相符嗎？", "confidence": "high", "notes": ""}
@@ -811,7 +811,7 @@
 → {"text": "絕對是。", "confidence": "high", "notes": ""}
 
 632. Because we go back to what Dr. Grevelle was saying, that we have the capability of sharing this technology and freeing up the world to an unbelievable level.
-→ {"text": "因為我們回到格雷維爾博士所說的，我們有能力分享這項技術，並將世界解放到一個難以置信的水平。", "confidence": "high", "notes": ""}
+→ {"text": "因為我們回到格拉維爾（Gravel）所說的，我們有能力分享這項技術，並將世界解放到一個難以置信的水平。", "confidence": "high", "notes": "原文 Dr. Grevelle 應為 Gravel（Mike Gravel），轉錄錯誤"}
 
 633. We stand capable of indicting, in the area of public opinion, the head of what?
 → {"text": "在輿論領域，我們有能力譴責什麼的負責人？", "confidence": "high", "notes": ""}
@@ -874,10 +874,10 @@
 → {"text": "你必須對每份機密文件設定時間限制，因此，它正在下降。", "confidence": "high", "notes": ""}
 
 653. The sun's going down in 10 years, and it becomes free, and the public gets access to it.
-→ {"text": "太陽將在10年後落下，它變成公開的，公眾可以獲取它。", "confidence": "high", "notes": ""}
+→ {"text": "太陽將在 10 年後落下，它變成公開的，公眾可以獲取它。", "confidence": "high", "notes": ""}
 
 654. Right now, we have about 50 years.
-→ {"text": "現在，我們有大約50年。", "confidence": "high", "notes": ""}
+→ {"text": "現在，我們有大約 50 年。", "confidence": "high", "notes": ""}
 
 655. Fine.
 → {"text": "好的。", "confidence": "high", "notes": ""}
@@ -901,7 +901,7 @@
 → {"text": "嗯，這就是為什麼我認為，按照馬丁·路德·金的傳統，按照蘇珊·B·安東尼的傳統，按照托馬斯·傑斐遜的傳統，我們應該說：「讓這些遊戲見鬼去吧。」", "confidence": "high", "notes": ""}
 
 662. People who know this, I believe, as you said, have a moral obligation to our children and our grandchildren to step forward with the truth, with the technology, and with the information, because there is a criminal national security deep state that has basically thumbed its nose at the Constitution.
-→ {"text": "我相信，正如你所說，知道這些事情的人對我們的孩子和孫子孫女有道德義務，要站出來說出真相、技術和信息，因為存在一個犯罪的國家安全深層國家機器，它基本上蔑視憲法。", "confidence": "high", "notes": ""}
+→ {"text": "我相信，正如你所說，知道這些事情的人對我們的孩子和孫子孫女有道德義務，要站出來說出真相、技術和資訊，因為存在一個犯罪的國家安全深層國家機器，它基本上蔑視憲法。", "confidence": "high", "notes": ""}
 
 663. For that reason, there is no justification for the continued secrecy.
 → {"text": "因此，繼續保密是沒有道理的。", "confidence": "high", "notes": ""}
@@ -925,7 +925,7 @@
 → {"text": "但部分原因是……每個人都是一條腿一條腿地穿褲子。", "confidence": "high", "notes": "意指人人平等"}
 
 670. I was talking to the Deputy Director of the National Science Foundation, and I turned to him and I said, "We really need your help getting this information, this technology out."
-→ {"text": "我正在與國家科學基金會副主任交談，我轉向他說：「我們真的需要你的幫助來獲取這些信息，這些技術。」", "confidence": "high", "notes": ""}
+→ {"text": "我正在與國家科學基金會副主任交談，我轉向他說：「我們真的需要你的幫助來獲取這些資訊，這些技術。」", "confidence": "high", "notes": ""}
 
 671. He says, "Yes, I'd love to, but it'd be the end of my career."
 → {"text": "他說：「是的，我很樂意，但這將是我職業生涯的終結。」", "confidence": "high", "notes": ""}
@@ -958,10 +958,10 @@
 → {"text": "嗯，我們需要質疑我們的愛國主義。", "confidence": "high", "notes": ""}
 
 681. I want to give one example, when the Pentagon Papers was sent over to the House and the Senate, they were put under guard and a member could only go in and read them and couldn't take any notes, and I was 42 years old.
-→ {"text": "我想舉一個例子，當五角大樓文件被送到眾議院和參議院時，它們被置於看守之下，議員只能進去閱讀，不能做任何筆記，那時我42歲。", "confidence": "high", "notes": ""}
+→ {"text": "我想舉一個例子，當五角大樓文件被送到眾議院和參議院時，它們被置於看守之下，議員只能進去閱讀，不能做任何筆記，那時我 42 歲。", "confidence": "high", "notes": ""}
 
 682. When I was 23 years old, I could classify top secret documents.
-→ {"text": "當我23歲時，我可以將文件歸類為最高機密（top secret）。", "confidence": "high", "notes": ""}
+→ {"text": "當我 23 歲時，我可以將文件歸類為最高機密（top secret）。", "confidence": "high", "notes": ""}
 
 683. Are we not at a situation where it's absolutely ridiculous?
 → {"text": "我們不是處於一個絕對荒謬的境地嗎？", "confidence": "high", "notes": ""}
@@ -973,7 +973,7 @@
 → {"text": "最高法院變得無關緊要。", "confidence": "high", "notes": ""}
 
 686. The Congress was made moot, and the decision was made that any member of Congress can release any information of all these secrets, and it hasn't happened since 1972.
-→ {"text": "國會變得無關緊要，並且決定任何國會議員都可以發布所有這些秘密的任何信息，但自1972年以來這種情況就沒有發生過。", "confidence": "high", "notes": ""}
+→ {"text": "國會變得無關緊要，並且決定任何國會議員都可以發布所有這些秘密的任何資訊，但自 1972 年以來這種情況就沒有發生過。", "confidence": "high", "notes": ""}
 
 687. The indictment is on us as a Congress, and that's the reason why when the whole purpose of this hearing was, "We'll take this to Congress and have another hearing," boy, that's just taking the issue and putting it on a shelf forever, and it just won't happen.
 → {"text": "起訴書是針對我們作為國會的，這就是為什麼當這次聽證會的全部目的是「我們將把這個問題提交給國會並舉行另一次聽證會」時，天哪，這只是把問題擱置起來，永遠不會發生。", "confidence": "high", "notes": ""}
@@ -1042,7 +1042,7 @@
 → {"text": "你用我的時間問問題。", "confidence": "high", "notes": ""}
 
 709. Now we'll go to Representative Patrick.
-→ {"text": "現在我們請帕特里克眾議員發言。", "confidence": "high", "notes": ""}
+→ {"text": "現在我們請基爾派翠克眾議員（Kilpatrick）發言。", "confidence": "high", "notes": "原文 Representative Patrick 應為 Kilpatrick；2026-08-24 人工看片確認發言者為基爾派翠克眾議員，ASR 誤轉錄"}
 
 710. Now I'm questioning now, right, as I understand it?
 → {"text": "現在是我在提問，對吧，據我所知？", "confidence": "high", "notes": ""}
@@ -1066,7 +1066,7 @@
 → {"text": "遠遠超出我的理解。", "confidence": "high", "notes": ""}
 
 717. I did see serious the other night, which is also way over my head, but I got parts of it.
-→ {"text": "我前幾天晚上確實看了《嚴肅》（Serious），這也遠遠超出我的理解，但我理解了一部分。", "confidence": "high", "notes": ""}
+→ {"text": "我前幾天晚上確實看了《Sirius》，這也遠遠超出我的理解，但我理解了一部分。", "confidence": "high", "notes": "原文 serious 應為 Sirius（2013 年 UFO 紀錄片，聽證會週放映），轉錄錯誤"}
 
 718. And the whole week has helped me get more and more.
 → {"text": "整個星期幫助我越來越理解。", "confidence": "high", "notes": ""}
@@ -1096,7 +1096,7 @@
 → {"text": "萊爾博士，我想請您發言。", "confidence": "high", "notes": ""}
 
 727. You talked about removing 16 objects from people.
-→ {"text": "你談到了從人身上取出16個物體。", "confidence": "high", "notes": ""}
+→ {"text": "你談到了從人身上取出 16 個物體。", "confidence": "high", "notes": ""}
 
 728. I think in my reading preparation that was called implantation, and I might have that wrong.
 → {"text": "我想在我的閱讀準備中，這被稱為植入（implantation），我可能弄錯了。", "confidence": "high", "notes": ""}
@@ -1132,7 +1132,7 @@
 → {"text": "這是正確的。", "confidence": "high", "notes": ""}
 
 739. I submitted to the committee a set of scientific documents that show some of the latest work and findings that we find in the material science of these objects, but I want to point out, too, to my shock, absolute shock, was a paper that was given to me through the Freedom of Information Act in which it describes all my work in the OSTP in the White House given to President Obama at the time he was trying to raise money for the medical care bill.
-→ {"text": "我向委員會提交了一套科學文件，展示了這些物體材料科學中的一些最新工作和發現，但我也想指出，令我震驚的是，絕對震驚的是，一份通過《信息自由法》給我的論文，其中描述了我在白宮OSTP的所有工作，當時奧巴馬總統正試圖為醫療法案籌集資金。", "confidence": "high", "notes": ""}
+→ {"text": "我向委員會提交了一套科學文件，展示了這些物體材料科學中的一些最新工作和發現，但我也想指出，令我震驚的是，絕對震驚的是，一份透過《資訊自由法》給我的論文，其中描述了我在白宮科技政策辦公室（OSTP）的所有工作，當時歐巴馬總統正試圖為醫療法案籌集資金。", "confidence": "high", "notes": ""}
 
 740. And the individual that wrote the article stated that if my work was not correct, or the work done by my team was not correct, and that it was secret work that was done by some governmental agency, this also should be released to the public because it would save billions of dollars in health care.
 → {"text": "寫這篇文章的人表示，如果我的工作不正確，或者我的團隊做的工作不正確，而且這是某個政府機構完成的秘密工作，這也應該向公眾發布，因為它將節省數十億美元的醫療保健費用。", "confidence": "high", "notes": ""}
@@ -1153,28 +1153,28 @@
 → {"text": "現在，這與我們在這裡發現的這些物體相關的材料科學完全無關。", "confidence": "high", "notes": ""}
 
 746. This is a very advanced nanotechnology.
-→ {"text": "這是一種非常先進的納米技術。", "confidence": "high", "notes": ""}
+→ {"text": "這是一種非常先進的奈米技術。", "confidence": "high", "notes": ""}
 
 747. These are nanotechnological devices in which nanocarbon tubes, either single or double wall, I won't go into the whole explanation, but they can be elongated and weaved into carbon nanofibers, carbon nanostrands, and they end in crystalline structures, which are what we call orthorhombic, which are regular rectangular structures.
-→ {"text": "這些是納米技術設備，其中納米碳管，無論是單壁還是雙壁，我不會詳細解釋，但它們可以伸長並編織成碳納米纖維、碳納米鏈，它們以晶體結構結束，我們稱之為正交晶系，這是規則的矩形結構。", "confidence": "high", "notes": ""}
+→ {"text": "這些是奈米技術裝置，其中奈米碳管，無論是單壁還是雙壁，我不會詳細解釋，但它們可以伸長並編織成碳奈米纖維、碳奈米鏈，它們以晶體結構結束，我們稱之為正交晶系，這是規則的矩形結構。", "confidence": "high", "notes": ""}
 
 748. And we have to remember that in the early days when I was a child, radio, and you got a crystal set with a battery and an air phone, and you were able to get a radio station, that was a marvel.
-→ {"text": "我們必須記得，在我小時候的早期，收音機，你有一個帶電池和空氣電話的礦石收音機，你能夠收到一個廣播電台，那是一個奇蹟。", "confidence": "high", "notes": ""}
+→ {"text": "我們必須記得，在我小時候的早期，收音機，你有一個帶電池和耳機的礦石收音機，你能夠收到一個廣播電台，那是一個奇蹟。", "confidence": "high", "notes": "原文 air phone 應為 earphone（礦石收音機用耳機收聽），轉錄錯誤"}
 
 749. So here's a very, very advanced, and when I say nanotechnological, I'm talking about things that are on a level of the size of an atom.
-→ {"text": "所以這裡有一個非常、非常先進的，當我說納米技術時，我說的是原子大小級別的東西。", "confidence": "high", "notes": ""}
+→ {"text": "所以這裡有一個非常、非常先進的，當我說奈米技術時，我說的是原子大小級別的東西。", "confidence": "high", "notes": ""}
 
 750. Using the principle elements of certain materials, putting them together in such a way so that you're actually broadcasting or switching what we perceive as a radio wave, which may not be a radio wave.
 → {"text": "使用某些材料的主要元素，以某種方式將它們組合在一起，這樣你實際上正在廣播或切換我們認為是無線電波的東西，這可能不是無線電波。", "confidence": "high", "notes": ""}
 
 751. It could be scalar technology, which when reaches our electromagnetic spectrum is converted to a radio wave harmonic, which I know is a little bit complex, but it is sending information to somebody.
-→ {"text": "它可能是純量波（scalar waves）技術，當它到達我們的電磁頻譜時，會轉換為無線電波諧波，我知道這有點複雜，但它正在向某人發送信息。", "confidence": "high", "notes": ""}
+→ {"text": "它可能是純量波（scalar waves）技術，當它到達我們的電磁頻譜時，會轉換為無線電波諧波，我知道這有點複雜，但它正在向某人發送資訊。", "confidence": "high", "notes": ""}
 
 752. So somebody out there is listening to something going on in our bodies.
 → {"text": "所以外面有人在監聽我們身體裡發生的事情。", "confidence": "high", "notes": ""}
 
 753. Now we know that even John Glenn, when he went into space originally, complained on public television that he had to swallow implants because this was vital information needed on the physiology of the body to know what was going on in space.
-→ {"text": "現在我們知道，即使是約翰·格倫，當他最初進入太空時，也在公共電視上抱怨說他必須吞下植入物，因為這是了解身體生理學以知道太空中發生了什麼的重要信息。", "confidence": "high", "notes": ""}
+→ {"text": "現在我們知道，即使是約翰·格倫，當他最初進入太空時，也在公共電視上抱怨說他必須吞下植入物，因為這是了解身體生理學以知道太空中發生了什麼的重要資訊。", "confidence": "high", "notes": ""}
 
 754. And so therefore, your conclusion, you and your team, as it relates to healthcare, as it relates to our country, as it relates to our budget, and to our phenomenon topic we've been talking about today, what do you conclude?
 → {"text": "因此，你的結論，你和你的團隊，關於醫療保健，關於我們的國家，關於我們的預算，以及我們今天一直在談論的現象主題，你的結論是什麼？", "confidence": "high", "notes": ""}
@@ -1189,7 +1189,7 @@
 → {"text": "非常感謝。", "confidence": "high", "notes": ""}
 
 758. If we can bring up slide 25, I would like to show 25, 26, and 27 very quickly.
-→ {"text": "如果我們可以展示第25張幻燈片，我想很快地展示25、26和27。", "confidence": "high", "notes": ""}
+→ {"text": "如果我們可以展示第 25 張投影片，我想很快地展示 25、26 和 27。", "confidence": "high", "notes": ""}
 
 759. And it is, scalar waves are hugely important, because what Dr. Lear just mentioned is a big, another overcoming of the speed of light problem with electromagnetic waves traveling so slow, there's no communication possible across the Milky Way.
 → {"text": "而且，純量波（scalar waves）非常重要，因為萊爾博士剛才提到的是一個很大的、另一個克服光速問題的方法，電磁波傳播如此緩慢，在銀河系中不可能有通信。", "confidence": "high", "notes": ""}
@@ -1198,31 +1198,31 @@
 → {"text": "嗯，結果是有，而這就是證明，奇爾波頓麥田圈（Chilbolton Crop Circle）。", "confidence": "high", "notes": ""}
 
 761. Based on the Arecibo message that was sent out in 1974, we all of a sudden have this amazing phenomenon that shows a scalar generator, antenna, right at the bottom of the diagram that copies.
-→ {"text": "根據1974年發送的阿雷西博信息（Arecibo message），我們突然有了這個驚人的現象，顯示了一個純量波發生器、天線，就在複製圖表的底部。", "confidence": "high", "notes": ""}
+→ {"text": "根據 1974 年發送的阿雷西博訊息（Arecibo message），我們突然有了這個驚人的現象，顯示了一個純量波發生器、天線，就在複製圖表的底部。", "confidence": "high", "notes": ""}
 
 762. This diagram actually is the original one that was sent out in 1974 from Arecibo.
-→ {"text": "這張圖實際上是1974年從阿雷西博發送的原始圖。", "confidence": "high", "notes": ""}
+→ {"text": "這張圖實際上是 1974 年從阿雷西博發送的原始圖。", "confidence": "high", "notes": ""}
 
 763. It's a digital message that was sent out with the most powerful telescope available at the time, thanks to Frank Drake's study program.
-→ {"text": "這是一條數字信息，是當時用最先進的望遠鏡發送的，感謝弗蘭克·德雷克的研究計劃。", "confidence": "high", "notes": ""}
+→ {"text": "這是一則數位訊息，是當時用最先進的望遠鏡發送的，感謝弗蘭克·德雷克（Frank Drake）的研究計畫。", "confidence": "high", "notes": ""}
 
 764. In what happened in 1990, I don't have the exact date here, 2001, August 2001, next slide, there was an appearance of the crop circle overnight right next to a radio telescope in Chilbolton, England.
-→ {"text": "在1990年發生的事情中，我這裡沒有確切的日期，2001年，2001年8月，下一張幻燈片，在英國奇爾波頓的一個射電望遠鏡旁邊，一夜之間出現了一個麥田圈。", "confidence": "high", "notes": ""}
+→ {"text": "在 1990 年發生的事情中，我這裡沒有確切的日期，2001 年，2001 年 8 月，下一張投影片，在英國奇爾波頓的一個射電望遠鏡旁邊，一夜之間出現了一個麥田圈。", "confidence": "high", "notes": ""}
 
 765. And the amazing thing was it wasn't just a regular crop circle.
 → {"text": "令人驚訝的是，這不僅僅是一個普通的麥田圈。", "confidence": "high", "notes": ""}
 
 766. This thing had almost exactly the same one-to-one correspondence to the Arecibo message.
-→ {"text": "這個東西與阿雷西博信息幾乎完全一一對應。", "confidence": "high", "notes": ""}
+→ {"text": "這個東西與阿雷西博訊息幾乎完全一一對應。", "confidence": "high", "notes": ""}
 
 767. Slide 26, please, and then slide 27.
-→ {"text": "請看第26張幻燈片，然後是第27張。", "confidence": "high", "notes": ""}
+→ {"text": "請看第 26 張投影片，然後是第 27 張。", "confidence": "high", "notes": ""}
 
 768. And that's exactly what the thing looked like, the crop circle is just a bunch of crops that are down or up, and then the next one is 27.
-→ {"text": "這正是那東西看起來的樣子，麥田圈只是一堆倒下或立著的莊稼，然後下一張是27。", "confidence": "high", "notes": ""}
+→ {"text": "這正是那東西看起來的樣子，麥田圈只是一堆倒下或立著的莊稼，然後下一張是 27。", "confidence": "high", "notes": ""}
 
 769. And we see at the bottom of 27, instead of the Arecibo antenna, which is a parabolic dish, we're seeing something that looks like two circular objects that literally, it says a change in transmitter diameter from one of the online commentaries on Chilbolton.
-→ {"text": "我們在第27張的底部看到，而不是阿雷西博天線，那是一個拋物面天線，我們看到的是看起來像兩個圓形物體的東西，從字面上看，它說發射器直徑的變化，來自奇爾波頓的一篇在線評論。", "confidence": "high", "notes": ""}
+→ {"text": "我們在第 27 張的底部看到，而不是阿雷西博天線，那是一個拋物面天線，我們看到的是看起來像兩個圓形物體的東西，從字面上看，它說發射器直徑的變化，來自奇爾波頓的一篇線上評論。", "confidence": "high", "notes": ""}
 
 770. And the very bottom is something that describes a scalar broadcast antenna that is actually the answer to instantaneous communication across the Milky Way.
 → {"text": "最底部描述的是一個純量波廣播天線，這實際上是跨銀河系即時通信的答案。", "confidence": "high", "notes": ""}
