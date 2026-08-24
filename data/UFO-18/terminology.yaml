@@ -350,8 +350,8 @@ terms:
     senses:
       - id: majestic_docs
         definition: 與 Majestic 12 相關的機密文件
-        preferred_translation: 絕密文件
-        notes: 與 MJ-12 相關的機密檔案
+        preferred_translation: 最高機密文件
+        notes: 與 MJ-12 相關的機密檔案。2026-08-24 人工裁決：依模板規則 Top Secret→最高機密（非「絕密」），原定譯「絕密文件」棄用
         segments: [172]
         topics: [topic_05]
 
