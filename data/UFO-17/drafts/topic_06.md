@@ -130,10 +130,10 @@
 → {"text": "一次在蒙大拿州上空，一次在喬治亞州上空。", "confidence": "high", "notes": ""}
 
 437. Two in the morning, the first one a little past 3.30 in the morning, the other one, both times no radar contact.
-→ {"text": "凌晨兩點，第一次是凌晨三點半過後，另一次也是，兩次都沒有雷達接觸。", "confidence": "high", "notes": ""}
+→ {"text": "一次在凌晨兩點，另一次在凌晨三點半過後，兩次都沒有雷達接觸。", "confidence": "medium", "notes": "原文語序混亂（Two in the morning, the first one a little past 3.30...），依語境重組"}
 
 438. They were ironically very similar, I'd never heard of these type of shapes before as far as that high up, but in my research.
-→ {"text": "諷刺的是它們非常相似，我以前從未聽說過在那麼高的地方有這種形狀的物體，但根據我的研究。", "confidence": "high", "notes": ""}
+→ {"text": "諷刺的是它們非常相似，我以前從未聽說過在那麼高的地方有這種形狀的物體，但根據我的研究。", "confidence": "medium", "notes": "原文句尾不完整（but in my research.）"}
 
 439. But they were like glowing orbs, three of them in formation, and they were just hovering.
 → {"text": "但它們像是發光的球體，三個排成編隊，就懸停在那裡。", "confidence": "high", "notes": ""}
@@ -157,10 +157,10 @@
 → {"text": "但這些東西就懸停在那裡，靜止不動，然後慢慢向左轉並開始飛走。", "confidence": "high", "notes": ""}
 
 446. And both times when we asked the controllers, "Do you have anything on the radar?"
-→ {"text": "兩次我們都問航管員：『雷達上有顯示任何東西嗎？』", "confidence": "high", "notes": ""}
+→ {"text": "兩次我們都問航管員：「雷達上有顯示任何東西嗎？」", "confidence": "high", "notes": ""}
 
 447. And they said, "We show no traffic in your ART CAS," which is our traffic avoidance system never went off.
-→ {"text": "他們說：『我們在您的航空防撞系統上沒有顯示任何飛行物。』也就是說我們的空中防撞系統從未啟動。", "confidence": "high", "notes": ""}
+→ {"text": "他們說：「我們在您的航空防撞系統上沒有顯示任何飛行物。」也就是說我們的航空防撞系統從未啟動。", "confidence": "high", "notes": "ART CAS 依術語表譯為航空防撞系統"}
 
 448. And I'm going to get back to this radar question, but I'd like to reserve the balance of my time to ask questions.
 → {"text": "我稍後會回到雷達的問題，但我想保留剩餘時間來提問。", "confidence": "high", "notes": ""}
@@ -193,7 +193,7 @@
 → {"text": "我認為這是可能的，兩者都有可能。", "confidence": "high", "notes": ""}
 
 458. Ben Rich at Lockheed indicated that, in so many words, we had back-engineered some of these craft and we're now able to take ET home.
-→ {"text": "洛克希德公司的班·里奇曾表示，換句話說，我們已經對其中一些飛行器進行了逆向工程，現在我們能夠帶 ET 回家了。", "confidence": "high", "notes": ""}
+→ {"text": "洛克希德公司的班·里奇曾明確表示，我們已經對其中一些飛行器進行了反向工程，現在我們能夠帶 ET 回家了。", "confidence": "high", "notes": "in so many words 意為明確地、幾乎原話如此；back-engineered 依術語表譯為反向工程"}
 
 459. The point is, is that apparently we're able to do a lot of things now, and probably some of what we're seeing is our own UFO, so to speak.
 → {"text": "重點是，顯然我們現在能夠做很多事情，而且可能我們看到的一些東西，可以說，是我們自己的不明飛行物。", "confidence": "high", "notes": ""}
@@ -208,16 +208,16 @@
 → {"text": "其他人對此有什麼想法嗎？", "confidence": "high", "notes": ""}
 
 463. I mean, you know, maybe we're way more clever than any of us realize, and my question would be, and it's just a push back on making sure we've covered all ground, are we setting, are Earthlings setting this up in the first place, you know, so that we find our way to outer space and for what could come with wars in outer space, but, or are the non-Earthlings coming to us and showing us what they know, and we're realizing we've got to compete?
-→ {"text": "我是說，也許我們比任何人意識到的都更聰明，我的問題是，這只是為了確保我們涵蓋所有面向的反駁，是我們地球人一開始就在策劃這一切，為了讓我們找到通往外太空的道路，以及為了可能發生的外太空戰爭做準備？還是非地球生物來找我們，向我們展示他們所知道的，而我們意識到我們必須競爭？", "confidence": "high", "notes": ""}
+→ {"text": "我是說，也許我們比任何人意識到的都更聰明。我的問題是——這只是提出一點反向思考，確保我們方方面面都考慮到——是我們地球人一開始就在策劃這一切，為了讓我們找到通往外太空的道路，並為未來可能的外太空戰爭做準備？還是非地球生物來找我們，向我們展示他們所知道的，而我們意識到自己必須競爭？", "confidence": "high", "notes": "口語長句，語序經調整"}
 
 464. That's a good question, what you asked, because I never heard that before.
 → {"text": "您問了個好問題，因為我從未聽過這種說法。", "confidence": "high", "notes": ""}
 
 465. The people I talk to that have been involved in the reverse engineering, they call it, with the UFOs that they captured, they could, by now, because it's been, what, 30 years or more, they could have developed a ship that they could be out practicing with or a group of ships.
-→ {"text": "我交談過的那些參與逆向工程的人，他們這樣稱呼，用他們捕獲的不明飛行物，到現在，因為已經過了 30 多年，他們可能已經開發出一艘或一組可以用來演練的飛船。", "confidence": "high", "notes": ""}
+→ {"text": "我交談過的那些參與反向工程的人，他們這樣稱呼，用他們捕獲的不明飛行物，到現在，因為已經過了 30 多年，他們可能已經開發出一艘或一組可以用來演練的飛船。", "confidence": "high", "notes": ""}
 
 466. If you remember Dr. Mitchell, when he spoke, he said when he was en route to the moon, he looked out the left portal, I would call it a window, and he called down to NASA and said I'm now a fighter too, he thought that that spaceship flying along with them was made here in the United States and they were flight checking it, so it is possible that the United States has been making these UFOs, but I don't think they're going to tell us, and it's just one of those, how do you really know?
-→ {"text": "如果您記得米切爾博士發言時說過，當他在前往月球的途中，他從左邊的窗口望出去，我會稱之為窗戶，他打電話給 NASA 說我現在也是戰鬥機飛行員了，他以為那艘與他們一起飛行的太空船是在美國製造的，他們正在進行飛行測試，所以美國有可能一直在製造這些不明飛行物，但我不認為他們會告訴我們，這就是問題所在，你怎麼能確定呢？", "confidence": "high", "notes": ""}
+→ {"text": "如果您記得米切爾博士發言時說過，當他在前往月球的途中，他從左邊的艙口望出去——我會稱之為窗戶——他通報 NASA 說：「我現在也是戰鬥機飛行員了。」他以為那艘與他們並行的太空船是在美國製造的，他們正在進行飛行測試。所以美國有可能一直在製造這些不明飛行物，但我不認為他們會告訴我們，這就是問題所在，你怎麼能確定呢？", "confidence": "high", "notes": ""}
 
 467. Okay, anybody else, yes, Mr. Allen.
 → {"text": "好的，還有其他人嗎，是的，艾倫先生。", "confidence": "high", "notes": ""}
@@ -244,7 +244,7 @@
 → {"text": "但大部分都發生在開闊空域。", "confidence": "high", "notes": ""}
 
 475. The individual that gave me most of my flying lessons when I was younger was a Triple H in World War II, two books were written about him, one by a general from the Air Force Academy, his name was Colonel Leroy Gover, and he was one of the first 100 American pilots in World War II, he went over to Canada and then became commander of Eagle Squadron.
-→ {"text": "我年輕時教我飛行的人是一位二戰時期的王牌飛行員，有兩本書是關於他的，其中一本是空軍軍官學校的一位將軍寫的，他的名字是萊羅伊·高佛上校，他是二戰時期第一批 100 位美國飛行員之一，他去了加拿大，然後成為鷹中隊的指揮官。", "confidence": "high", "notes": ""}
+→ {"text": "我年輕時教我飛行的人是一位二戰時期的王牌飛行員，有兩本書是關於他的，其中一本是空軍軍官學校的一位將軍寫的，他的名字是萊羅伊·高佛上校，他是二戰時期第一批 100 位美國飛行員之一，他去了加拿大，然後成為鷹中隊的指揮官。", "confidence": "high", "notes": "原文 Triple H 應為轉錄錯誤（ace 之類），LeRoy Gover 確為二戰王牌（5 架擊落紀錄），已查證"}
 
 476. I knew him for 40 years, he was a pilot's pilot, and on his deathbed, three weeks before he passed on, I gave him a copy of Colonel Corso's book, The Day After Roswell, and he said I don't know a whole lot about certain aspects of this book, if it's all true, but I can tell you from what I was involved with, the people I knew, because he was with the Army Air Corps which later the same year as the alleged incident in Roswell happened, the Air Force was formed along with the United Nations and other developments, but he confirmed that in his words, and I never heard this man lie, he said they were androgynous, they didn't know their full technological capabilities at that time, at least one of them survived, they didn't know their full psychological makeup, or where they were from, or what this was all about, this was at this time.
 → {"text": "我認識他 40 年，他是飛行員中的飛行員，在他臨終前三週，我給了他一本科索上校的書《羅斯威爾事件後的一天》，他說我對這本書的某些方面不太了解，不知道是否全部屬實，但我可以告訴你根據我參與的事情、我認識的人，因為他在陸軍航空隊服役，後來就在所謂的羅斯威爾事件發生的同一年，空軍成立了，還有聯合國和其他發展，但他用他自己的話證實了，我從未聽過這個人說謊，他說他們是雌雄同體的，當時他們不知道這些生物的完整科技能力，至少有一個倖存下來，他們不知道這些生物的完整心理特徵，或者他們來自哪裡，或者這一切是怎麼回事，這是當時的情況。", "confidence": "medium", "notes": "androgynous 在此語境可能指外星人沒有明顯性別特徵，譯為「雌雄同體的」"}

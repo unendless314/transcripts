@@ -27,10 +27,34 @@
           "reasoning": "The FAA Administrator at the time was Donald D. Engen. 'Ingen' is a likely phonetic mistranscription of 'Engen'."
         },
         {
+          "segment_id": 96,
+          "error_text": "Admiral Ingen",
+          "suggested_correction": "Admiral Engen",
+          "reasoning": "Same mistranscription as segment 95, repeated. Added during 2026-08 proofreading."
+        },
+        {
           "segment_id": 129,
           "error_text": "South Bomber",
           "suggested_correction": "Stealth Bomber",
           "reasoning": "Contextually, Callahan is considering a secret military aircraft as an explanation for the UFO. 'Stealth Bomber' fits this context perfectly, whereas 'South Bomber' is nonsensical."
+        },
+        {
+          "segment_id": 122,
+          "error_text": "Well done",
+          "suggested_correction": "Well, then",
+          "reasoning": "The speaker narrates what happened next ('one of the scientists came out...'). 'Well, then' fits; praise ('Well done') does not. Added during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 122,
+          "error_text": "the logarithm for the height-finding equipment",
+          "suggested_correction": "the algorithm for the height-finding equipment",
+          "reasoning": "Radar technical questions concern the height-finding algorithm, not a logarithm. Added during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 125,
+          "error_text": "You're confiscating all this data",
+          "suggested_correction": "We're confiscating all this data",
+          "reasoning": "The CIA official announces that the CIA confiscates the data (confirmed by episode summary); 'You're' is a homophone mistranscription of 'We're'. Added during 2026-08 proofreading."
         }
       ]
     },
@@ -76,6 +100,24 @@
           "error_text": "Ernie aircraft and a Blue Island pilot",
           "suggested_correction": "Aurigny aircraft and a Blue Islands pilot",
           "reasoning": "The context is an incident over the English Channel. Aurigny and Blue Islands are airlines that operate in the Channel Islands. 'Ernie' and 'Blue Island' are phonetic errors."
+        },
+        {
+          "segment_id": 153,
+          "error_text": "the Firth or Fourth Bridge in Scotland",
+          "suggested_correction": "the Forth Bridge in Scotland",
+          "reasoning": "The Forth Bridge in Scotland is a famous bridge about a mile long, matching the speaker's description. 'Firth or Fourth' is a phonetic garbling of 'Forth'. Added during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 181,
+          "error_text": "the Stonehenge curses",
+          "suggested_correction": "the Stonehenge cursus",
+          "reasoning": "Same homophone error as segment 180 ('curses' for the archaeological term 'cursus'). Added during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 187,
+          "error_text": "the cargo coat in World War II",
+          "suggested_correction": "the cargo cult in World War II",
+          "reasoning": "The speaker compares ancient British imitation of UFOs to WWII Pacific cargo cults. 'cargo coat' is a phonetic error for 'cargo cult'. Added during 2026-08 proofreading."
         }
       ]
     },
@@ -103,6 +145,18 @@
           "error_text": "Mr. Jim Grant",
           "suggested_correction": "Mr. Jim Courant",
           "reasoning": "The witness is later addressed as 'Jim Courant' in segments 425 and 864, and 'Jim Coran' in 758. 'Grant' appears to be an initial transcription error, with 'Courant' being the most consistent later usage."
+        },
+        {
+          "segment_id": 219,
+          "error_text": "They were heading to Norita",
+          "suggested_correction": "They were heading to Narita",
+          "reasoning": "The flight was a 747 bound for Narita Airport in Japan. 'Norita' is a phonetic error. Added during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 256,
+          "error_text": "Linda Moulton Howell's books",
+          "suggested_correction": "Linda Moulton Howe's books",
+          "reasoning": "The investigative journalist's name is Linda Moulton Howe (not Howell). Added during 2026-08 proofreading."
         }
       ]
     },
@@ -152,7 +206,14 @@
         "AWACS",
         "Crawford, Texas"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 378,
+          "error_text": "AWACS, Airborne Weather Command Center",
+          "suggested_correction": "AWACS, Airborne Warning and Control System",
+          "reasoning": "AWACS stands for Airborne Warning and Control System. 'Airborne Weather Command Center' is a mishearing of the expansion. Added during 2026-08 proofreading."
+        }
+      ]
     },
     {
       "topic_id": "topic_06",
@@ -178,6 +239,18 @@
           "error_text": "up at Lang City",
           "suggested_correction": "up at Atlantic City",
           "reasoning": "The witness is describing telling his wife about events at the FAA Tech Center. The William J. Hughes Technical Center is located in Atlantic City, New Jersey. 'Lang City' is a likely mishearing."
+        },
+        {
+          "segment_id": 451,
+          "error_text": "Major Feiler",
+          "suggested_correction": "Major Filer",
+          "reasoning": "The witness's name is Major Filer (spelled F-i-l-e-r elsewhere in the transcript). 'Feiler' is a spelling variant. Added during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 475,
+          "error_text": "was a Triple H in World War II",
+          "suggested_correction": "was an ace in World War II",
+          "reasoning": "Colonel LeRoy Gover (verified: RAF Eagle Squadron, 4th Fighter Group, credited with 5 aerial victories) was a WWII ace. 'Triple H' is a mistranscription, likely of 'ace' or a similar term. Added during 2026-08 proofreading."
         }
       ]
     },
@@ -196,7 +269,26 @@
         "gunnery practice",
         "mother ships"
       ],
-      "potential_errors": []
+      "potential_errors": [
+        {
+          "segment_id": 485,
+          "error_text": "Mr. Kallen",
+          "suggested_correction": "Mr. Callahan",
+          "reasoning": "The question concerns the JAL 1628 event described by John Callahan. 'Kallen' is a phonetic error. Confirmed during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 516,
+          "error_text": "alongside the 07-47",
+          "suggested_correction": "alongside the 747",
+          "reasoning": "Refers to the Japan Airlines 747 of the incident. '07-47' is a digit-order error. Confirmed during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 545,
+          "error_text": "Dr. Schreifer",
+          "suggested_correction": "Major Filer",
+          "reasoning": "The question about the hills in England and their energy is addressed to Major Filer, who presented that theory in topic_02. Confirmed during 2026-08 proofreading."
+        }
+      ]
     },
     {
       "topic_id": "topic_08",
@@ -233,6 +325,24 @@
           "error_text": "Michi Kuka",
           "suggested_correction": "Michio Kaku",
           "reasoning": "The description of a Japanese physicist frequently appearing on TV to discuss interstellar travel perfectly matches Dr. Michio Kaku. 'Michi Kuka' is a phonetic error."
+        },
+        {
+          "segment_id": 625,
+          "error_text": "Yes, Mr. Piler",
+          "suggested_correction": "Yes, Mr. Filer",
+          "reasoning": "Another phonetic variant of Major Filer's name. Added during 2026-08 proofreading."
+        },
+        {
+          "segment_id": 652,
+          "error_text": "Mr. Thayer?",
+          "suggested_correction": "Mr. Chair?",
+          "reasoning": "Verified by human review of the video: Representative Kilpatrick reserves the balance of her time and yields back to the chairman, who then invites Senator Gravel to speak. 'Thayer' is a mishearing of 'Chair'. Confirmed 2026-08."
+        },
+        {
+          "segment_id": 714,
+          "error_text": "Congressman Barrett",
+          "suggested_correction": "Congressman Bartlett",
+          "reasoning": "Verified against the 2013 Citizen Hearing panel roster (no member named Barrett; Roscoe Bartlett of Maryland was on the panel and served on the Space, Science and Technology Committee, matching 'a lot more educated in that area'). 'Barrett' is a mishearing of 'Bartlett'. Confirmed 2026-08."
         }
       ]
     },
@@ -267,6 +377,12 @@
           "error_text": "Mr. Fryler",
           "suggested_correction": "Major Filer",
           "reasoning": "This is another phonetic variation of Major Filer's name, used consistently elsewhere in the transcript."
+        },
+        {
+          "segment_id": 828,
+          "error_text": "talking on terror traffic control",
+          "suggested_correction": "talking on air traffic control",
+          "reasoning": "The pilot was talking to air traffic control when he disappeared (Valentich case). 'terror' is a mishearing of 'air'. Added during 2026-08 proofreading."
         }
       ]
     }

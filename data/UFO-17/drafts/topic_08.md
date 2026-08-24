@@ -1,13 +1,13 @@
 ## Speaker Group 1
 
 598. I go to Representative Kilpatrick.
-→ {"text": "請 Kilpatrick 眾議員發言。", "confidence": "high", "notes": ""}
+→ {"text": "請基爾派翠克眾議員發言。", "confidence": "high", "notes": "Kilpatrick 依主表譯為基爾派翠克"}
 
 599. First of all, thank you for your testimony.
 → {"text": "首先，感謝各位的證詞。", "confidence": "high", "notes": ""}
 
 600. Jim, I'd like to ask you a question.
-→ {"text": "Jim，我想請教你一個問題。", "confidence": "high", "notes": ""}
+→ {"text": "吉姆，我想請教你一個問題。", "confidence": "high", "notes": ""}
 
 601. Did people not talk about this because they were afraid for their families?
 → {"text": "人們不談論這件事，是因為害怕危及家人嗎？", "confidence": "high", "notes": ""}
@@ -19,7 +19,7 @@
 → {"text": "大概是在 1988 年《UFO 真相掩蓋直播》這個電視節目之後，談論的人才比較多。", "confidence": "high", "notes": ""}
 
 604. It was kind of the beginning of the, from what I understand, a slow education process for modern times of the public, and there's been, since then it's been easier to talk about this situation with other crew.
-→ {"text": "據我所知，這是現代社會對公眾進行緩慢教育過程的開端，從那時起，跟其他機組人員談論這種情況就變得比較容易了。", "confidence": "medium", "notes": ""}
+→ {"text": "據我所知，這是現代社會對公眾進行緩慢教育過程的開端，從那時起，跟其他機組人員談論這種情況就變得比較容易了。", "confidence": "medium", "notes": "原文句構破碎，依語境潤飾"}
 
 605. Crew members do come up, they've seen me on TV, and they say, "I'm still afraid to talk about it, but let me tell you what happened to me or my father when he was in the military or this or that."
 → {"text": "機組人員確實會來找我，他們在電視上看到過我，然後說：「我還是不敢談論這件事，但讓我告訴你發生在我身上的事，或者我父親當年在軍中時發生的事，諸如此類。」", "confidence": "high", "notes": ""}
@@ -52,7 +52,7 @@
 → {"text": "而限制這個問題的，正是愛因斯坦的相對論。", "confidence": "high", "notes": ""}
 
 615. So what you really have to kind of take a look is maybe there's something beyond the theory of relativity, and what's faster than the speed of light, thought, from what I understand from scientists that have been involved with these projects is they've, they're thousands of years ahead of us, probably, and they've definitely used some kind of incredible thought process, some kind of inversion energy process to get here, and they basically warp time.
-→ {"text": "所以你真正需要思考的是，也許相對論之外還有其他的東西，而什麼比光速還快？意念。據我從參與這些項目的科學家那裡了解，他們——這些外星生命——可能比我們先進數千年，而且他們肯定使用了某種不可思議的意念過程，某種反轉能量過程來到這裡，他們基本上是在扭曲時間。", "confidence": "medium", "notes": ""}
+→ {"text": "所以你真正需要思考的是，也許相對論之外還有其他的東西，而什麼比光速還快？意念。據我從參與這些項目的科學家那裡了解，他們——這些外星生命——可能比我們先進數千年，而且他們肯定使用了某種不可思議的意念過程，某種反轉能量過程來到這裡，他們基本上是在扭曲時間。", "confidence": "medium", "notes": "涉及複雜科學概念（蟲洞、扭曲時間），且原文 inversion energy process 語意不明"}
 
 616. So as profound as it sounds, if you told me that 10 years ago, people would be bumping into themselves in an airport terminal like zombies looking down at these devices there, these cell phones, I wouldn't have believed it.
 → {"text": "所以這聽起來很深刻，但如果十年前你告訴我，人們會像殭屍一樣在機場航廈裡低頭盯著這些裝置——這些手機——互相碰撞，我是不會相信的。", "confidence": "high", "notes": ""}
@@ -91,7 +91,7 @@
 → {"text": "我是 MUFON（UFO 互動網絡）組織的成員，我們調查這些目擊事件，每個月大約收到一千起目擊報告。", "confidence": "high", "notes": ""}
 
 628. And actually, I write about it in my filers' files, which I'm happy to send to anyone.
-→ {"text": "事實上，我在我的 Filer's Files 中通訊中撰寫這些內容，我很樂意寄給任何有興趣的人。", "confidence": "high", "notes": ""}
+→ {"text": "事實上，我在我的通訊刊物《Filer's Files》中撰寫這些內容，我很樂意寄給任何有興趣的人。", "confidence": "high", "notes": ""}
 
 629. I'm sending out 17,000 emails a week discussing these sightings that we're getting, but generally people say that there's no sound.
 → {"text": "我每週發送一萬七千封電子郵件，討論我們收到的這些目擊報告，但一般來說，人們都說沒有聲音。", "confidence": "high", "notes": ""}
@@ -163,13 +163,13 @@
 → {"text": "我還有兩分鐘，我要保留我的時間。", "confidence": "high", "notes": ""}
 
 652. Mr. Thayer?
-→ {"text": "Thayer 先生？", "confidence": "high", "notes": ""}
+→ {"text": "主席先生？", "confidence": "high", "notes": "原文 Mr. Thayer 經人工觀看影片確認為 Mr. Chair，講者（基爾派翠克）保留剩餘時間後將發言權交還主席"}
 
 653. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 654. I'd like to ask Senator Gravel.
-→ {"text": "我想請教 Gravel 參議員。", "confidence": "high", "notes": ""}
+→ {"text": "我想請格拉維爾參議員發言。", "confidence": "high", "notes": "Gravel 依主表譯為格拉維爾；經人工確認此處為主席請 Gravel 接續發言"}
 
 655. Two questions.
 → {"text": "兩個問題。", "confidence": "high", "notes": ""}
@@ -199,7 +199,7 @@
 → {"text": "他們在數千英尺的高空，駕駛 737 客機，然後從雲層中出現了一艘巨大的、一英里長的雪茄形飛行器，而且它確實是雪茄形狀的。", "confidence": "high", "notes": ""}
 
 664. They aren't disc-shaped, so unfortunately, the pilots never wanted to talk about it again after it hit the news, and they played their voice tapes over the television, and they took some heat for it, but thank God I've got Danny Sheehan over there to protect me as a good attorney in case I get in trouble here.
-→ {"text": "它們不是圓盤形狀的，所以不幸的是，這件事上新聞後，飛行員們再也不想談論這件事了，而且他們的語音錄音在電視上播放了，他們因此承受了一些壓力，但感謝上帝，我有 Danny Sheehan 在那邊保護我，作為一名好律師，以防我在這裡惹上麻煩。", "confidence": "high", "notes": ""}
+→ {"text": "它們不是圓盤形狀的，所以不幸的是，這件事上新聞後，飛行員們再也不想談論這件事了，而且他們的語音錄音在電視上播放了，他們因此承受了一些壓力，但感謝上帝，我有丹尼爾·希恩（Danny Sheehan）在那邊保護我，他是位好律師，以防我在這裡惹上麻煩。", "confidence": "high", "notes": "Danny Sheehan 即主表 Daniel Sheehan（丹尼爾·希恩）"}
 
 665. You're talking about a cigar-shaped of a mile long.
 → {"text": "你說的是一英里長的雪茄形飛行器。", "confidence": "high", "notes": ""}
@@ -220,7 +220,7 @@
 → {"text": "他們是瘋了嗎？", "confidence": "high", "notes": ""}
 
 671. Are they pilots like this movie, Flight with Mr. Washington?
-→ {"text": "他們是像《機長》這部電影裡 Washington 先生飾演的那種飛行員嗎？", "confidence": "high", "notes": ""}
+→ {"text": "他們是像電影《機長》（Flight）裡丹佐·華盛頓飾演的那種飛行員嗎？", "confidence": "high", "notes": "指 2012 年電影 Flight，由 Denzel Washington 主演"}
 
 672. No, the pilots are very serious in their profession, and they know what they see.
 → {"text": "不，飛行員對他們的職業非常認真，而且他們知道自己看到了什麼。", "confidence": "high", "notes": ""}
@@ -232,7 +232,7 @@
 → {"text": "這種誇大的說法是飛行員不會說的。", "confidence": "high", "notes": ""}
 
 675. I have a boyhood friend who was a captain in Pan Am, and flew the largest of four.
-→ {"text": "我有一個兒時好友是泛美航空的機長，飛過四種機型中最大的那一種。", "confidence": "high", "notes": ""}
+→ {"text": "我有一個兒時好友是泛美航空的機長，飛過四種機型中最大的那一種。", "confidence": "medium", "notes": "原文 the largest of four 語意含混，依語境推斷"}
 
 676. The other thing I want to touch on, which really doesn't surprise me, but maybe a little angers me, and that is the back engineering.
 → {"text": "另一件我想談的事，這件事其實並不讓我驚訝，但可能有點讓我憤怒，那就是反向工程。", "confidence": "high", "notes": ""}
@@ -301,7 +301,7 @@
 → {"text": "他們現在加油要付將近每加侖五美元。", "confidence": "high", "notes": ""}
 
 698. Jim, please.
-→ {"text": "Jim，請說。", "confidence": "high", "notes": ""}
+→ {"text": "吉姆，請說。", "confidence": "high", "notes": ""}
 
 699. The man that the world doesn't give enough credit to that started this in the late 1800s is Nikola Tesla.
 → {"text": "這個世界沒有給予足夠肯定的人，就是在 19 世紀末開創這一切的尼古拉·特斯拉。", "confidence": "high", "notes": ""}
@@ -322,7 +322,7 @@
 → {"text": "尼古拉·特斯拉，開始對他做一些研究吧。", "confidence": "high", "notes": ""}
 
 705. I would only respond to what you had said, John, that was that I found in my life and in my career that there are more conspiracies than people are aware of, but there are less conspiracies than people think.
-→ {"text": "我只想回應你說的話，John，那就是我在我的生活和職業生涯中發現，陰謀比人們意識到的要多，但比人們想像的要少。", "confidence": "high", "notes": ""}
+→ {"text": "我只想回應你說的話，約翰，那就是我在我的生活和職業生涯中發現，陰謀比人們意識到的要多，但比人們想像的要少。", "confidence": "high", "notes": "John 應指 John Callahan（約翰·卡拉漢）"}
 
 706. It sounds like oxymoron, but it is.
 → {"text": "這聽起來像是矛盾修飾法，但確實如此。", "confidence": "high", "notes": ""}
@@ -349,7 +349,7 @@
 → {"text": "我不知道。", "confidence": "high", "notes": ""}
 
 714. I'm not enough scientist, I defer to my colleague, Congressman Barrett, who's a lot more educated in that area, but he comes up with the same queries.
-→ {"text": "我不夠資格當科學家，我聽從我的同事 Barrett 眾議員的意見，他在那個領域受過更多教育，但他提出的也是同樣的疑問。", "confidence": "high", "notes": ""}
+→ {"text": "我不夠資格當科學家，我聽從我的同事巴特利特眾議員的意見，他在那個領域受過更多教育，但他提出的也是同樣的疑問。", "confidence": "high", "notes": "原文 Barrett 經查證聽證會小組名單確認為 Bartlett（巴特利特），時任科學委員會委員"}
 
 715. I notice our questions are very similar in that regard, but I just want to underscore -- Excuse me, with all due respect, the gentleman's time has expired.
 → {"text": "我注意到我們在這方面的問題非常相似，但我只是想強調——抱歉，恕我直言，這位先生的時間已經到了。", "confidence": "high", "notes": ""}

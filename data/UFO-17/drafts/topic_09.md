@@ -1,7 +1,7 @@
 ## Speaker Group 1
 
 719. We could go to Representative Kilpatrick.
-→ {"text": "我們請 Kilpatrick 議員發言。", "confidence": "high", "notes": ""}
+→ {"text": "我們請基爾派翠克議員發言。", "confidence": "high", "notes": "Kilpatrick 依主表譯為基爾派翠克"}
 
 720. Thank you, Mr. Chairman.
 → {"text": "謝謝主席。", "confidence": "high", "notes": ""}
@@ -97,7 +97,7 @@
 → {"text": "世界正處於危險之中。", "confidence": "high", "notes": ""}
 
 751. Our country is economically, socially, and economically at a disadvantage right now.
-→ {"text": "我們的國家在經濟上、社會上、以及經濟上都處於劣勢。", "confidence": "high", "notes": ""}
+→ {"text": "我們的國家目前在經濟上、社會上都處於劣勢。", "confidence": "high", "notes": "講者口誤重複 economically 兩次，譯文去蕪存菁"}
 
 752. But we fix that by being partners in what we believe is correct, and what issue you pick to work in, and not to put down historical data that's scientifically proven.
 → {"text": "但我們可以透過成為我們認為正確的事業的夥伴來解決這個問題，選擇你要投入的議題，而不是貶低那些經過科學驗證的歷史資料。", "confidence": "high", "notes": ""}
@@ -109,7 +109,7 @@
 → {"text": "不要來到這裡只是為了譴責那些相信的人。", "confidence": "high", "notes": ""}
 
 755. That's what's wrong with our nation, I think, and our country, and our world.
-→ {"text": "我認為這就是我們國家、我們的國家、我們的世界所存在的問題。", "confidence": "high", "notes": ""}
+→ {"text": "我認為這就是我們的國家、我們的世界所存在的問題。", "confidence": "high", "notes": "原文 nation 與 country 同義重複，譯文合併"}
 
 756. We don't work well enough together.
 → {"text": "我們沒有充分地團結合作。", "confidence": "high", "notes": ""}
@@ -127,7 +127,7 @@
 → {"text": "在今天之前，我以為你們大多數人也這麼認為，當兩三個人可以進入房間，把這樣一個非常聰明的主題變成另一種東西時，這是對我們國家和我們世界的傷害。", "confidence": "high", "notes": ""}
 
 761. I think Mr. Coran, if I'm pronouncing that right, Coran, you said something about proof.
-→ {"text": "我想 Coran 先生，如果我發音正確的話，Coran，你說過關於證據的事情。", "confidence": "high", "notes": "Coran 應為 Courant"}
+→ {"text": "我想庫蘭特先生——如果我發音正確的話——你提過關於證據的事。", "confidence": "high", "notes": "原文 Coran 應為 Courant（庫蘭特）"}
 
 762. What is the proof?
 → {"text": "什麼是證據？", "confidence": "high", "notes": ""}
@@ -139,7 +139,7 @@
 → {"text": "你聽起來對這個主題很有研究，但我不確定，你相信不明飛行物 (UFO) 嗎？", "confidence": "high", "notes": ""}
 
 765. Is there an extra SAO presence in the world?
-→ {"text": "世界上是否有外星智慧生物 (extraterrestrial) 的存在？", "confidence": "medium", "notes": "SAO 應為 terrestrial 或 extraterrestrial 的口誤"}
+→ {"text": "世界上是否有外星生命 (extraterrestrial) 的存在？", "confidence": "medium", "notes": "SAO 應為 extraterrestrial 的轉錄錯誤"}
 
 766. Ought we be more involved in that?
 → {"text": "我們是否應該更深入地參與這個議題？", "confidence": "high", "notes": ""}
@@ -202,7 +202,7 @@
 → {"text": "這是我最後要說的。", "confidence": "high", "notes": ""}
 
 786. Gordon mentioned maybe it was our UFOs, which said to me, and I think it's one of the two of you guys, gentlemen, that it might have been one of our UFOs, which to me says to me, America's UFOs.
-→ {"text": "Gordon 提到也許那是我們的不明飛行物，這讓我想到，我想你們兩位先生中有一位說過，那可能是我們的不明飛行物，對我來說這意味著是美國的不明飛行物。", "confidence": "high", "notes": ""}
+→ {"text": "戈登提到也許那是我們的不明飛行物，這讓我想到，我想你們兩位先生中有一位說過，那可能是我們的不明飛行物，對我來說這意味著是美國的不明飛行物。", "confidence": "high", "notes": "Gordon 指戈登·庫珀"}
 
 787. Does America are producing UFOs to confuse the cosmos or what?
 → {"text": "美國是否在製造不明飛行物來混淆宇宙還是什麼？", "confidence": "high", "notes": ""}
@@ -286,7 +286,7 @@
 → {"text": "不過有相當多的人看到了。", "confidence": "high", "notes": ""}
 
 814. Right, okay, and do we have, is there, and I know there were newspaper reports of exactly what you said.
-→ {"text": "好的，我們有，有沒有，而且我知道報紙上報導了你所說的內容。", "confidence": "high", "notes": ""}
+→ {"text": "好的，我們有沒有——我知道報紙上確實報導了你所說的情況。", "confidence": "high", "notes": "原文口語破碎，已潤飾"}
 
 815. Was the radar involved in that one?
 → {"text": "那個事件有雷達參與嗎？", "confidence": "high", "notes": ""}
@@ -340,7 +340,7 @@
 → {"text": "讀讀他的任何一本書。", "confidence": "high", "notes": ""}
 
 832. If you're wondering about articles from around -- since the '50s, Rob Simone did an excellent job on UFOs and the headlines, real reporting on a real phenomena.
-→ {"text": "如果你想知道從 50 年代以來的文章，Rob Simone 在不明飛行物和頭條新聞方面做了出色的工作，對真實現象的真實報導。", "confidence": "high", "notes": ""}
+→ {"text": "如果你想知道從 50 年代以來的文章，羅布·西蒙尼（Rob Simone）在不明飛行物和頭條新聞方面做了出色的工作，對真實現象的真實報導。", "confidence": "high", "notes": "Rob Simone 主表未收錄，採音譯"}
 
 833. Okay.
 → {"text": "好的。", "confidence": "high", "notes": ""}

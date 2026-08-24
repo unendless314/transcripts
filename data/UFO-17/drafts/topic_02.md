@@ -7,10 +7,10 @@
 → {"text": "我們有一位費勒少校可以……請開始吧。", "confidence": "high", "notes": ""}
 
 142. I'm a retired Air Force major with the 5,000 flying hours, and I'm currently the Eastern Regional Director of the Mutual UFO Network, which is studying this phenomenon, and editor of the Filers Files.
-→ {"text": "我是退役空軍少校，累積了5,000飛行小時，目前擔任MUFON（UFO互動網絡）東部地區主管，該組織正在研究這個現象，同時也是《Filer's Files》的編輯。", "confidence": "high", "notes": ""}
+→ {"text": "我是退役空軍少校，累積了 5,000 飛行小時，目前擔任 MUFON（UFO 互動網絡）東部地區主管，該組織正在研究這個現象，同時也是《Filer's Files》的編輯。", "confidence": "high", "notes": ""}
 
 143. When I was flying for the Air Force 420th Air Refueling Squadron stationed at RAF Sculthorpe in England in January of '62, we were in orbit for refueling fighter aircraft over the North Sea at about 30,000 feet in our KB-50J tanker just after sunset on a clear night.
-→ {"text": "1962年1月，當時我隸屬於駐紮在英格蘭RAF Sculthorpe基地的空軍第420空中加油中隊，我們在一個晴朗的夜晚日落後不久，駕駛KB-50J加油機在北海上空約30,000英呎處盤旋，準備為戰鬥機加油。", "confidence": "high", "notes": ""}
+→ {"text": "1962 年 1 月，當時我隸屬於駐紮在英格蘭 RAF Sculthorpe 基地的空軍第 420 空中加油中隊，我們在一個晴朗的夜晚日落後不久，駕駛 KB-50J 加油機在北海上空約 30,000 英呎處盤旋，準備為戰鬥機加油。", "confidence": "high", "notes": ""}
 
 144. London Control excitedly called us and notified us that they had an unidentified object hovering on their radar near Stonehenge.
 → {"text": "倫敦航管中心興奮地聯繫我們，通知他們在雷達上發現巨石陣附近有一個不明物體盤旋。", "confidence": "high", "notes": ""}
@@ -34,7 +34,7 @@
 → {"text": "然後我們意識到飛機已經超過了紅線速度，必須減速，接著倫敦航管中心開始告訴我們與盤旋中不明飛行物的距離。", "confidence": "high", "notes": ""}
 
 151. It was some 60 miles ahead and then 40 and so on, and as we got closer, we got the radar going on our aircraft and picked up the hovering UFO in the distance, about 30 miles.
-→ {"text": "它最初在約60英里前方，然後是40英里，以此類推，隨著我們靠近，我們啟動了飛機上的雷達，在約30英里處捕捉到那個盤旋的不明飛行物。", "confidence": "high", "notes": ""}
+→ {"text": "它最初在約 60 英里前方，然後是 40 英里，以此類推，隨著我們靠近，我們啟動了飛機上的雷達，在約 30 英里處捕捉到那個盤旋的不明飛行物。", "confidence": "high", "notes": ""}
 
 152. It was an exceptionally large radar return.
 → {"text": "那是一個異常巨大的雷達回波。", "confidence": "high", "notes": ""}
@@ -52,7 +52,7 @@
 → {"text": "我感覺那架飛行器一定是由鋼鐵或某種堅硬金屬製成的。", "confidence": "high", "notes": ""}
 
 157. We were doing about 425 miles per hour as we approached about 10 miles.
-→ {"text": "當我們接近到約10英里時，我們的時速約為425英里。", "confidence": "high", "notes": ""}
+→ {"text": "當我們接近到約 10 英里時，我們的時速約為 425 英里。", "confidence": "high", "notes": ""}
 
 158. This gives you an example of how large a radar return it was.
 → {"text": "這讓你了解那個雷達回波有多大。", "confidence": "high", "notes": ""}
@@ -73,13 +73,13 @@
 → {"text": "我們看到了更明亮的燈光和驚人的加速度。", "confidence": "high", "notes": ""}
 
 164. It seemed to go straight up, just estimating speed like 50,000 miles an hour, 100 times faster than we were moving.
-→ {"text": "它似乎筆直向上飛去，估計速度約為每小時50,000英里，比我們的速度快了100倍。", "confidence": "high", "notes": ""}
+→ {"text": "它似乎筆直向上飛去，估計速度約為每小時 50,000 英里，比我們的速度快了 100 倍。", "confidence": "high", "notes": ""}
 
 165. We asked London Control if they had any rocket launches in the area.
 → {"text": "我們詢問倫敦航管中心該區域是否有火箭發射。", "confidence": "high", "notes": ""}
 
 166. London Control seemed as disappointed as we were, and the controller said, "There are no rocket launches in the area.
-→ {"text": "倫敦航管中心似乎和我們一樣失望，管制員說：「該區域沒有火箭發射。」", "confidence": "high", "notes": ""}
+→ {"text": "倫敦航管中心似乎和我們一樣失望，管制員說：「該區域沒有火箭發射。", "confidence": "high", "notes": ""}
 
 167. Thank you for your intercept, you are now cleared to return to your mission."
 → {"text": "感謝你們的攔截，現在可以返回執行你們的任務了。」", "confidence": "high", "notes": ""}
@@ -100,16 +100,16 @@
 → {"text": "我問為什麼菲利普親王本人對不明飛行物感興趣，他說他的叔叔蒙巴頓伯爵在海軍時曾近距離看過不明飛行物，顯然他相信他叔叔的話。", "confidence": "high", "notes": "Earl Mountbatten 為蒙巴頓伯爵"}
 
 173. This gives you some indications of the ships that this one was taking over Japan, and if you notice, there's a large cylinder, but outside the cylinder, there's 12 disc craft, and this is typically what they do.
-→ {"text": "這讓你了解在日本上空出現的飛船的一些特徵，如果你注意看，有一個巨大的圓柱體，但在圓柱體外面，有12個碟形飛行器，這是它們典型的運作方式。", "confidence": "high", "notes": ""}
+→ {"text": "這讓你了解在日本上空出現的飛船的一些特徵，如果你注意看，有一個巨大的圓柱體，但在圓柱體外面，有 12 個碟形飛行器，這是它們典型的運作方式。", "confidence": "medium", "notes": "原文句構破碎（the ships that this one was taking over Japan），依語境推斷"}
 
 174. They're often called mother ships because they launch the smaller disc-shaped craft from them.
 → {"text": "它們通常被稱為母艦，因為它們會從上面發射較小的碟形飛行器。", "confidence": "high", "notes": ""}
 
 175. This picture was taken by NASA over the Atlantic Ocean near Iceland.
-→ {"text": "這張照片是NASA在冰島附近的大西洋上空拍攝的。", "confidence": "high", "notes": ""}
+→ {"text": "這張照片是 NASA 在冰島附近的大西洋上空拍攝的。", "confidence": "high", "notes": ""}
 
 176. This one was actually a video, this is one shot from the video taken over England on Burnham on the Sea on February 11, 2009.
-→ {"text": "這實際上是一段影片，這是2009年2月11日在英格蘭濱海伯納姆上空拍攝的影片中的一個畫面。", "confidence": "high", "notes": ""}
+→ {"text": "這實際上是一段影片，這是 2009 年 2 月 11 日在英格蘭濱海伯納姆上空拍攝的影片中的一個畫面。", "confidence": "high", "notes": ""}
 
 177. This is something interesting that I feel or have the theory that the ancient British actually copied the UFOs.
 → {"text": "這有一個有趣的觀點，我認為或我有個理論是古英國人實際上模仿了不明飛行物。", "confidence": "high", "notes": ""}
@@ -121,10 +121,10 @@
 → {"text": "有數十個這樣的結構，而且這些結構超過一英里長。", "confidence": "high", "notes": ""}
 
 180. This is how they're made, these ditches are carved out, and if you think about the type of energy that it takes to make what amounts to a two mile around section of these ditches, the British archeologists call them cursus because they remind them of kind of a racetrack, but I suggest that they, in fact, show that the craft had been there in ancient times.
-→ {"text": "它們是這樣建造的，這些溝渠被挖掘出來，如果你想想需要什麼樣的能量才能挖掘出約兩英里長的溝渠區域，英國考古學家稱它們為cursus，因為它們讓人想起賽跑道，但我認為它們實際上顯示了這些飛行器在古代就曾出現在那裡。", "confidence": "high", "notes": "cursus 為考古學術語，指巨石陣附近的平行溝渠遺跡"}
+→ {"text": "它們是這樣建造的，這些溝渠被挖掘出來，如果你想想需要什麼樣的能量才能挖掘出約兩英里長的溝渠區域，英國考古學家稱它們為 cursus，因為它們讓人想起賽跑道，但我認為它們實際上顯示了這些飛行器在古代就曾出現在那裡。", "confidence": "high", "notes": "cursus 為考古學術語，指巨石陣附近的平行溝渠遺跡"}
 
 181. There's another picture of one, the Stonehenge curses, and as you see outlined on the ground.
-→ {"text": "還有另一張照片，是巨石陣的cursus，正如你在地面上看到的輪廓。", "confidence": "high", "notes": "原文curses應為cursus之轉錄錯誤"}
+→ {"text": "還有另一張照片，是巨石陣的 cursus，正如你在地面上看到的輪廓。", "confidence": "high", "notes": "原文 curses 應為 cursus 之轉錄錯誤"}
 
 182. This is right in the Stonehenge area.
 → {"text": "這就在巨石陣區域。", "confidence": "high", "notes": ""}
@@ -142,7 +142,7 @@
 → {"text": "下一張。", "confidence": "high", "notes": ""}
 
 187. We feel that it's something like the cargo coat in World War II.
-→ {"text": "我們認為這類似於二戰時期的貨物崇拜。", "confidence": "high", "notes": "cargo coat應為cargo cult（貨物崇拜）之轉錄錯誤"}
+→ {"text": "我們認為這類似於二戰時期的貨物崇拜。", "confidence": "high", "notes": "cargo coat 應為 cargo cult（貨物崇拜）之轉錄錯誤"}
 
 188. The natives in the South Pacific made shapes of aircraft on the ground and that the British in the ancient times may have done the same thing.
 → {"text": "南太平洋的島民在地面上製作飛機的形狀，而古代英國人可能也做了同樣的事。", "confidence": "high", "notes": ""}
@@ -151,22 +151,22 @@
 → {"text": "下一張。", "confidence": "high", "notes": ""}
 
 190. This is one of the better craft pictures taken in Cumberland, Rhode Island on July 3rd, 1967, and this was colorized, and the windows put in next.
-→ {"text": "這是1967年7月3日在羅德島坎伯蘭拍攝的較好的飛行器照片之一，這張經過彩色處理，並加上了窗戶。", "confidence": "high", "notes": ""}
+→ {"text": "這是 1967 年 7 月 3 日在羅德島坎伯蘭拍攝的較好的飛行器照片之一，這張經過彩色處理，並加上了窗戶。", "confidence": "high", "notes": ""}
 
 191. One Navy chief petty officer, flight engineer with 10,000 hours, had also seen a UFO, and he said that cigar-shaped craft was twice the size of two aircraft carriers.
-→ {"text": "一位累積了10,000飛行小時的海軍士官長、飛航工程師也看到了不明飛行物，他說那個雪茄形飛行器有兩艘航空母艦那麼大。", "confidence": "high", "notes": ""}
+→ {"text": "一位累積了 10,000 飛行小時的海軍士官長、飛航工程師也看到了不明飛行物，他說那個雪茄形飛行器有兩艘航空母艦的兩倍大。", "confidence": "medium", "notes": "原文 twice the size of two aircraft carriers 語意含混，此處直譯"}
 
 192. And the object moved east at about 100 knots and was a huge aircraft.
-→ {"text": "而且該物體以約100節的速度向東移動，是一架巨大的飛行器。", "confidence": "high", "notes": ""}
+→ {"text": "而且該物體以約 100 節的速度向東移動，是一架巨大的飛行器。", "confidence": "high", "notes": ""}
 
 193. A similar one was seen by two pilots on two different airlines over the English Channel on April 23rd, 2007.
-→ {"text": "2007年4月23日，兩位來自不同航空公司的飛行員在英吉利海峽上空看到了類似的飛行器。", "confidence": "high", "notes": ""}
+→ {"text": "2007 年 4 月 23 日，兩位來自不同航空公司的飛行員在英吉利海峽上空看到了類似的飛行器。", "confidence": "high", "notes": ""}
 
 194. Next.
 → {"text": "下一張。", "confidence": "high", "notes": ""}
 
 195. Captain Ray Bauer in his Aurigny aircraft and a Blue Islands pilot had seen these UFOs and reported them.
-→ {"text": "Aurigny航空的雷·鮑爾機長和一位Blue Islands的飛行員看到了這些不明飛行物並報告了此事。", "confidence": "high", "notes": ""}
+→ {"text": "Aurigny 航空的雷·鮑爾機長和一位 Blue Islands 的飛行員看到了這些不明飛行物並報告了此事。", "confidence": "high", "notes": ""}
 
 196. Maybe you have a little bit less than a minute left.
 → {"text": "你可能還剩不到一分鐘。", "confidence": "high", "notes": ""}
@@ -175,7 +175,7 @@
 → {"text": "好的。", "confidence": "high", "notes": ""}
 
 198. Here's Captain Bauer reporting it in 2007.
-→ {"text": "這是鮑爾機長在2007年報告此事的紀錄。", "confidence": "high", "notes": ""}
+→ {"text": "這是鮑爾機長在 2007 年報告此事的紀錄。", "confidence": "high", "notes": ""}
 
 199. Next.
 → {"text": "下一張。", "confidence": "high", "notes": ""}

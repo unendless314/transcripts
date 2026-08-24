@@ -22,10 +22,10 @@
 → {"text": "好的，所以有三個人看到了飛行器，那麼有多少人看到了雷達？", "confidence": "high", "notes": ""}
 
 491. I don't know, 20, 30.
-→ {"text": "我不知道，20、30個吧。", "confidence": "high", "notes": ""}
+→ {"text": "我不知道，20、30 個吧。", "confidence": "high", "notes": ""}
 
 492. Twenty-three people?
-→ {"text": "23個人？", "confidence": "high", "notes": ""}
+→ {"text": "23 個人？", "confidence": "high", "notes": ""}
 
 493. These are the kinds of things that are just very difficult to explain away, where you have eyewitnesses and a radar track, and a real radar track, but apparently some of these things don't leave a radar track.
 → {"text": "這正是那種很難敷衍帶過的情況，你既有目擊證人又有雷達追蹤，而且是真實的雷達追蹤，但顯然有些東西不會留下雷達訊號。", "confidence": "high", "notes": ""}
@@ -40,7 +40,7 @@
 → {"text": "嗯，雷達會捕捉到所有空中交通，但大多數人不了解系統如何運作，這正是讓他們困惑的地方。", "confidence": "high", "notes": ""}
 
 497. If you're an air traffic controller and you're working your sector in front of you, you've got 500 miles that you're taking care of, the antenna's going by every nine or 10 seconds and it picks up a primary target, which is the size of a pencil eraser, and it puts it on your scope right here.
-→ {"text": "如果你是航空管制員，負責你面前的管制區域，你要管理500英里的空域，天線每9到10秒掃描一次，當它捕捉到一個主要目標，只有橡皮擦那麼大，就會顯示在你的螢幕上。", "confidence": "high", "notes": ""}
+→ {"text": "如果你是航空管制員，負責你面前的管制區域，你要管理 500 英里的空域，天線每 9 到 10 秒掃描一次，當它捕捉到一個主要目標，只有橡皮擦那麼大，就會顯示在你的螢幕上。", "confidence": "high", "notes": ""}
 
 498. You could be working traffic going this way.
 → {"text": "你可能正在指揮往這個方向飛行的航班。", "confidence": "high", "notes": ""}
@@ -49,16 +49,16 @@
 → {"text": "當那個目標出現時，我們不知道它是誰，你會看著它說：「嗯，如果它靠近這架飛機，我會採取一些明智的行動。」", "confidence": "high", "notes": ""}
 
 500. Ten seconds later, that target is over here someplace, nowhere near your traffic, so your mind says it must have been an 18 wheeler, it could be somebody low, I don't know what it was.
-→ {"text": "10秒後，那個目標已經到了別的地方，完全不在你的航班附近，所以你的直覺會說那一定是輛18輪大卡車，可能是飛得很低的什麼東西，我不知道那是什麼。", "confidence": "high", "notes": ""}
+→ {"text": "10 秒後，那個目標已經到了別的地方，完全不在你的航班附近，所以你的直覺會說那一定是輛 18 輪大卡車，可能是飛得很低的什麼東西，我不知道那是什麼。", "confidence": "high", "notes": ""}
 
 501. The radar always picks up everything flying, but they go so fast that you don't recognize them.
 → {"text": "雷達總是能捕捉到所有飛行物，但它們飛得太快了，你根本認不出來。", "confidence": "high", "notes": ""}
 
 502. Today, to fly in the FAA system, if you're flying below 10,000, you have to stay at 250 knots.
-→ {"text": "現在，要在 FAA 系統中飛行，如果你在10,000英尺以下，必須保持250節以下。", "confidence": "high", "notes": ""}
+→ {"text": "現在，要在 FAA 系統中飛行，如果你在 10,000 英尺以下，必須保持 250 節以下。", "confidence": "high", "notes": ""}
 
 503. If you're flying above 10,000 or above 18,000, you have to have a working transponder on your aircraft.
-→ {"text": "如果你在10,000或18,000英尺以上飛行，你的飛機必須配備正常運作的航空應答機。", "confidence": "high", "notes": ""}
+→ {"text": "如果你在 10,000 或 18,000 英尺以上飛行，你的飛機必須配備正常運作的航空應答機。", "confidence": "high", "notes": ""}
 
 504. That sends out a signal to the radar that says, "This is me," and it shows a different target on the screen.
 → {"text": "它會向雷達發送訊號說「這是我」，然後螢幕上會顯示不同的目標標示。", "confidence": "high", "notes": ""}
@@ -88,7 +88,7 @@
 → {"text": "製作這份資料的工程師們記錄下來，這是不明飛行物第一次出現的時間，也是軍方第一次看到不明飛行物的時間。", "confidence": "high", "notes": ""}
 
 513. The pilot at 02-27-06, NORAD called, they lost the target.
-→ {"text": "在02:27:06時，NORAD（北美防空司令部）打來電話說他們失去了目標。", "confidence": "high", "notes": ""}
+→ {"text": "在 02:27:06 時，NORAD（北美防空司令部）打來電話說他們失去了目標。", "confidence": "high", "notes": ""}
 
 514. They put two sheets of paper like this together on the board.
 → {"text": "他們把兩張像這樣的紙一起貼在展示板上。", "confidence": "high", "notes": ""}
@@ -97,7 +97,7 @@
 → {"text": "他們說：「事情就是這樣發生的。」", "confidence": "high", "notes": ""}
 
 516. Now, when I was talking to the engineers, the hardware and software engineers, I asked them to tell me what the target was alongside the 07-47.
-→ {"text": "當時我在和工程師們談話，包括硬體和軟體工程師，我請他們告訴我那個在747旁邊的目標是什麼。", "confidence": "high", "notes": "07-47 應為 747 客機"}
+→ {"text": "當時我在和工程師們談話，包括硬體和軟體工程師，我請他們告訴我那個在 747 旁邊的目標是什麼。", "confidence": "high", "notes": "07-47 應為 747 客機"}
 
 517. The hardware engineer says, "That target right there is a software problem.
 → {"text": "硬體工程師說：「那個目標是軟體問題。」", "confidence": "high", "notes": ""}
@@ -139,7 +139,7 @@
 → {"text": "如果你現在上去看雷達，你不會看到那些穿越全國的不明飛行物。", "confidence": "high", "notes": ""}
 
 530. He has to slow down to somewhere around 600 knots.
-→ {"text": "它必須減速到大約600節左右。", "confidence": "high", "notes": ""}
+→ {"text": "它必須減速到大約 600 節左右。", "confidence": "high", "notes": ""}
 
 531. Then, if he stayed with the airline pilot, you would see the airline's target.
 → {"text": "然後，如果它跟著民航機長飛行，你就會看到航空公司的目標標示。", "confidence": "high", "notes": ""}
@@ -163,7 +163,7 @@
 → {"text": "一旦飛行員說：「嘿，我這個高度上有東西。」", "confidence": "high", "notes": ""}
 
 538. If it was a Learjet or a military aircraft, had the pilot said, "It looks like an F-106 playing games out here," we would have tracked that little dot all the way until he landed, then we would have rolled him up for flying and controlled airspace without the FAA's approval.
-→ {"text": "如果那是里爾噴射機或軍用飛機，飛行員說：「看起來像是一架F-106在這裡玩遊戲」，我們就會一路追蹤那個小點直到它降落，然後我們會因為它在未經 FAA 批准的管制空域飛行而將它攔下。", "confidence": "high", "notes": ""}
+→ {"text": "如果那是里爾噴射機或軍用飛機，飛行員說：「看起來像是一架 F-106 在這裡玩遊戲」，我們就會一路追蹤那個小點直到它降落，然後我們會因為它在未經 FAA 批准的管制空域飛行而將它攔下。", "confidence": "high", "notes": ""}
 
 539. I think you've answered my next question.
 → {"text": "我想您已經回答了我的下一個問題。", "confidence": "high", "notes": ""}
@@ -208,10 +208,10 @@
 → {"text": "有些書籍指出金字塔實際上會產生能量，在某種程度上它們就是發電站。", "confidence": "high", "notes": ""}
 
 553. For example, right now, there's some 200 pyramids in China with flat tops to them, which make them ideal for a craft landing on them.
-→ {"text": "例如，現在中國有約200座平頂金字塔，這使它們成為飛行器降落的理想地點。", "confidence": "high", "notes": ""}
+→ {"text": "例如，現在中國有約 200 座平頂金字塔，這使它們成為飛行器降落的理想地點。", "confidence": "high", "notes": ""}
 
 554. The Chinese are declaring that they're some 10,000 years old.
-→ {"text": "中國方面宣稱它們有約10,000年的歷史。", "confidence": "high", "notes": ""}
+→ {"text": "中國方面宣稱它們有約 10,000 年的歷史。", "confidence": "high", "notes": ""}
 
 555. The question is, how did these huge pyramids be built when we were basically not much further along than cavemen?
 → {"text": "問題是，當我們基本上還處於穴居人階段時，這些巨大的金字塔是如何建造的？", "confidence": "high", "notes": ""}
@@ -292,16 +292,16 @@
 → {"text": "發生了什麼事？", "confidence": "high", "notes": ""}
 
 581. This happened in 1997.
-→ {"text": "這發生在1997年。", "confidence": "high", "notes": ""}
+→ {"text": "這發生在 1997 年。", "confidence": "high", "notes": ""}
 
 582. I was with four friends, and we were up at an area called the Boulders, which is actually northern Scottsdale, and that was when the Phoenix Lights, where they were explaining what they were, was that they were actually targets for gunnery practice.
-→ {"text": "我和四位朋友在一起，我們在Boulders地區，也就是斯科茨代爾北部，那時正是鳳凰城光點事件發生的時候，官方解釋說那些是射擊訓練用的靶標。", "confidence": "high", "notes": ""}
+→ {"text": "我和四位朋友在一起，我們在 Boulders 地區，也就是斯科茨代爾北部，那時正是鳳凰城光點事件發生的時候，官方解釋說那些是射擊訓練用的靶標。", "confidence": "high", "notes": ""}
 
 583. Well, I knew better than that, and I was explaining to them why.
 → {"text": "嗯，我知道不是這樣，而且我正在向他們解釋為什麼。", "confidence": "high", "notes": ""}
 
 584. Number one, one of those target, gunnery targets, they're a flare, and the flare burns for exactly one minute and 21 seconds.
-→ {"text": "第一，那些射擊訓練靶標是照明彈，而照明彈燃燒的時間正好是1分21秒。", "confidence": "high", "notes": ""}
+→ {"text": "第一，那些射擊訓練靶標是照明彈，而照明彈燃燒的時間正好是 1 分 21 秒。", "confidence": "high", "notes": ""}
 
 585. And another thing about them, a gunnery flare may go up or down.
 → {"text": "另外一點，射擊訓練用的照明彈可能會上升或下降。", "confidence": "high", "notes": ""}
@@ -322,13 +322,13 @@
 → {"text": "然後這個不明飛行物從那個缺口飛過來，當然那時我看不到它上面有燈光。", "confidence": "high", "notes": ""}
 
 591. When it went by, and now it's going at this time at about 50 miles an hour, and descending slowly and headed in the direction of Tucson to the south, well, as it got past me in about probably 30 miles down, the lights out on the range, they didn't go out, they stayed on, but they started heading for Tucson.
-→ {"text": "當它飛過時，那時它以大約每小時50英里的速度飛行，緩慢下降，朝著南方的圖森方向前進，嗯，當它飛過我，大概在我下方30英里處，那些在山區的光點，它們沒有熄滅，還亮著，但開始朝圖森方向移動。", "confidence": "high", "notes": ""}
+→ {"text": "當它飛過時，那時它以大約每小時 50 英里的速度飛行，緩慢下降，朝著南方的圖森方向前進。嗯，當它飛過我、大約在前方 30 英里處時，那些山區的光點沒有熄滅，還亮著，但開始朝圖森方向移動。", "confidence": "high", "notes": "原文 30 miles down 指沿航向前方約 30 英里，非高度"}
 
 592. The UFO, now it went by, it made absolutely no sound.
 → {"text": "那個不明飛行物，它飛過時，完全沒有發出任何聲音。", "confidence": "high", "notes": ""}
 
 593. It was less than 100 yards from me, and you could hear absolutely nothing, yet the vehicle was actually nearly a mile long and approximately 60 feet in diameter.
-→ {"text": "它離我不到100碼，你完全聽不到任何聲音，但這個飛行器實際上將近一英里長，直徑約60英尺。", "confidence": "high", "notes": ""}
+→ {"text": "它離我不到 100 碼，你完全聽不到任何聲音，但這個飛行器實際上將近一英里長，直徑約 60 英尺。", "confidence": "high", "notes": ""}
 
 594. Again, silent, totally silent.
 → {"text": "再次強調，寂靜無聲，完全沒有聲音。", "confidence": "high", "notes": ""}

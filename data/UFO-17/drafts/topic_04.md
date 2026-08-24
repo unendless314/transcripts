@@ -25,7 +25,7 @@
 → {"text": "海水非常清澈。", "confidence": "high", "notes": ""}
 
 270. You could see down as much as 200 feet in it.
-→ {"text": "可以看到水下約200英尺深的地方。", "confidence": "high", "notes": ""}
+→ {"text": "可以看到水下約 200 英尺深的地方。", "confidence": "high", "notes": ""}
 
 271. What I saw down there were two UFOs parked side by side, but I couldn't see anyone around either one of them.
 → {"text": "我在水下看到的是兩艘不明飛行物並排停放，但周圍看不到任何人。", "confidence": "high", "notes": ""}
@@ -37,19 +37,19 @@
 → {"text": "他移動到側面，進入了我的視線範圍。", "confidence": "high", "notes": ""}
 
 274. Very soon after that, he came out of the water going approximately 100 miles an hour.
-→ {"text": "很快之後，他以大約每小時100英里的速度衝出水面。", "confidence": "high", "notes": ""}
+→ {"text": "很快之後，他以大約每小時 100 英里的速度衝出水面。", "confidence": "high", "notes": ""}
 
 275. As soon as he broke the surface of the water, he increased his speed to approximately 2,500 miles an hour and quickly went out of sight.
-→ {"text": "他一衝出水面，就將速度提升到每小時約2,500英里，迅速消失在我的視線中。", "confidence": "high", "notes": ""}
+→ {"text": "他一衝出水面，就將速度提升到每小時約 2,500 英里，迅速消失在我的視線中。", "confidence": "high", "notes": ""}
 
 276. He was gone for about 15 or 20 minutes.
-→ {"text": "他離開了大約15到20分鐘。", "confidence": "high", "notes": ""}
+→ {"text": "他離開了大約 15 到 20 分鐘。", "confidence": "high", "notes": ""}
 
 277. He came right back, right, went and slowed down very much, went in the water again at about 100 miles an hour, went on down to ... He and the other one, you could see them working on the UFOs.
-→ {"text": "他回來了，大幅減速，以每小時約100英里的速度再次潛入水中，繼續下潛……他和另一個外星人，你可以看到他們正在修理那些不明飛行物。", "confidence": "medium", "notes": "原文有口語化的停頓和重複，已調整為流暢的中文"}
+→ {"text": "他回來了，大幅減速，以每小時約 100 英里的速度再次潛入水中，繼續下潛……他和另一個外星人，你可以看到他們正在修理那些不明飛行物。", "confidence": "medium", "notes": "原文有口語化的停頓和重複，已調整為流暢的中文"}
 
 278. After about approximately 2 hours of apparently performing maintenance on the UFOs, the two of them took off together again, left the water at about 100 miles an hour, immediately accelerated to well over 2,500 miles an hour, went virtually straight up and disappeared.
-→ {"text": "在進行了大約兩小時的維修工作後，兩艘飛行物一起再次起飛，以每小時約100英里的速度離開水面，隨即加速到超過每小時2,500英里，幾乎垂直上升後消失。", "confidence": "high", "notes": ""}
+→ {"text": "在進行了大約兩小時的維修工作後，兩艘飛行物一起再次起飛，以每小時約 100 英里的速度離開水面，隨即加速到超過每小時 2,500 英里，幾乎垂直上升後消失。", "confidence": "high", "notes": ""}
 
 279. The speeds that I reported this, I arrived at the figures simply by triangulation and in that I can take things that were at a known distance and then calculate based on where they were and how long it took them to get to another place is what I use as a standard for estimating their speed.
 → {"text": "我所報告的速度數據，是透過三角測量法得出的。我會以已知距離的物體為參照，根據它們的位置和移動到另一地點所需的時間來計算，這就是我估算速度的標準方法。", "confidence": "medium", "notes": "原文為口語化的技術說明，已調整為較正式的表達"}
@@ -70,13 +70,13 @@
 → {"text": "如果你知道法國白朗峰在哪裡，總之，它飛進了白朗峰的中心。", "confidence": "high", "notes": ""}
 
 285. It was down there for approximately 15 minutes and turned around and came right back out.
-→ {"text": "它在那裡停留了大約15分鐘，然後掉頭飛了出來。", "confidence": "high", "notes": ""}
+→ {"text": "它在那裡停留了大約 15 分鐘，然後掉頭飛了出來。", "confidence": "high", "notes": ""}
 
 286. Since then, I have noticed that there's something about the inside of volcanoes that seems to attract them and in discussing that with other people, we reached this conclusion that whether it's right or wrong, this is the closest we can get to a logical reason for why they do that.
 → {"text": "從那時起，我注意到火山內部似乎有某種東西在吸引它們。在與其他人討論後，我們得出這個結論：無論對錯，這是我們能想到最合理的解釋。", "confidence": "medium", "notes": "原文較長且結構複雜，已調整為通順的中文"}
 
 287. They may very well be and have been for some time actually defending the earth because what other purpose would they have for it?
-→ {"text": "他們很可能已經在一段時間內實際上在保護地球，因為除此之外還有什麼目的呢？", "confidence": "medium", "notes": ""}
+→ {"text": "他們很可能實際上早已在保護地球，因為除此之外他們還能有什麼目的呢？", "confidence": "medium", "notes": "原文語序口語化，已潤飾"}
 
 288. We have no way of knowing whether they are doing something constructive because I'm certain that they wouldn't risk their equipment and lives and like that if they didn't have a useful purpose for it.
 → {"text": "我們無法確知他們是否在做某種建設性的事情，但我確信，如果沒有實際的用途，他們不會冒著設備和生命的危險這樣做。", "confidence": "medium", "notes": ""}
@@ -94,7 +94,7 @@
 → {"text": "都是雪茄形的，而且在所有我能看到外星人的情況下，他們就是我們所說的灰人，你們可能已經從本次聽證會其他報告者那裡聽說過他們。", "confidence": "high", "notes": ""}
 
 293. The last that I personally witnessed happened right in Sedona where I lived quite recently and what happened, I used to go out in the early evening, I'd go out on my back patio and you know, look at the stars and the scenery in Sedona is spectacular as you may know if you've been there.
-→ {"text": "我個人目擊的最後一次事件就發生在我最近居住的塞多納。事情是這樣的，我過去常在傍晚時分到後院露臺看星星，如果你去過塞多納，就知道那裡的景色非常壯觀。", "confidence": "medium", "notes": ""}
+→ {"text": "我個人目擊的最後一次事件就發生在我最近居住的塞多納。事情是這樣的，我過去常在傍晚時分到後院露臺看星星，如果你去過塞多納，就知道那裡的景色非常壯觀。", "confidence": "medium", "notes": "口語長句，語序經調整"}
 
 294. But anyway, I saw this one go by but when it went by, I didn't think it was a UFO.
 → {"text": "總之，我看到這個東西飛過，但當時我並不認為它是不明飛行物。", "confidence": "high", "notes": ""}
@@ -103,7 +103,7 @@
 → {"text": "我以為那不過是一顆隕石，但你知道，我觀察著它從北向南飛去並消失，我心想：「嗯，那是顆隕石。」", "confidence": "high", "notes": ""}
 
 296. And I believed that until the thing turned 180 degrees and flew back.
-→ {"text": "我一直這樣認為，直到那東西轉了180度又飛了回來。", "confidence": "high", "notes": ""}
+→ {"text": "我一直這樣認為，直到那東西轉了 180 度又飛了回來。", "confidence": "high", "notes": ""}
 
 297. Well, that immediately convinced me that that was something that meteorites don't normally do and that concludes my speech, gentlemen.
 → {"text": "這立即讓我確信，這絕不是隕石會做的事。各位先生，我的證詞到此結束。", "confidence": "high", "notes": ""}
