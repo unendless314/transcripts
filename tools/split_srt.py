@@ -26,7 +26,23 @@ PUNCTUATION_LEVELS = {
     1: ['。', '！', '？', '…'],  # Sentence terminators
     2: ['；', '：', '——'],        # Clause separators (including em dash)
     3: ['，', '、'],              # Commas and enumeration comma
-    4: [' ']                     # Spaces (last resort)
+}
+SPACE_PRIORITY = 4               # Opt-in only (--allow-space-splits)
+
+# Paired delimiters that must never be split inside (hard protection)
+HARD_PAIRS = {
+    '（': '）',
+    '(': ')',
+    '《': '》',
+    '【': '】',
+    '[': ']',
+}
+
+# Quotation marks (soft protection): never split inside unless no
+# split point exists outside them anywhere in the text
+QUOTE_PAIRS = {
+    '「': '」',
+    '『': '』',
 }
 
 
@@ -45,13 +61,66 @@ def setup_logging(verbose: bool = False):
     )
 
 
-def find_split_point(text: str, min_chars: int) -> Optional[Tuple[int, str, int]]:
+def _compute_depths(text: str) -> Tuple[List[int], List[int]]:
+    """
+    Compute per-character nesting depth for hard brackets and quotes.
+
+    Stack-based, so nested structures are handled. An unmatched opener keeps
+    the depth raised until the end of the text, protecting everything after
+    it; an unmatched closer only affects itself.
+
+    Returns:
+        Tuple of (hard_depth, quote_depth) lists, one entry per character
+    """
+    n = len(text)
+    hard = [0] * n
+    quote = [0] * n
+    hard_stack = []
+    quote_stack = []
+    hard_closers = {v: k for k, v in HARD_PAIRS.items()}
+    quote_closers = {v: k for k, v in QUOTE_PAIRS.items()}
+
+    for i, ch in enumerate(text):
+        hard[i] = len(hard_stack)
+        quote[i] = len(quote_stack)
+        if ch in HARD_PAIRS:
+            hard_stack.append(ch)
+            hard[i] += 1
+        elif ch in hard_closers:
+            if hard_stack and hard_stack[-1] == hard_closers[ch]:
+                hard_stack.pop()
+            hard[i] += 1
+        elif ch in QUOTE_PAIRS:
+            quote_stack.append(ch)
+            quote[i] += 1
+        elif ch in quote_closers:
+            if quote_stack and quote_stack[-1] == quote_closers[ch]:
+                quote_stack.pop()
+            quote[i] += 1
+
+    return hard, quote
+
+
+def find_split_point(
+    text: str,
+    min_chars: int,
+    allow_space_splits: bool = False
+) -> Optional[Tuple[int, str, int]]:
     """
     Find the best split point in text based on punctuation priority.
+
+    Candidates inside hard brackets (（）()《》【】[]) are never accepted.
+    Candidates inside quotes (「」『』) are only accepted when no split
+    point exists outside them. Search proceeds in stages:
+      1. Central window (midpoint ±20%), outside brackets and quotes
+      2. Full range, outside brackets and quotes
+      3. Central window, quotes allowed (last resort)
+      4. Full range, quotes allowed
 
     Args:
         text: Text to split
         min_chars: Minimum characters required for each part
+        allow_space_splits: Opt-in space splitting (for English text)
 
     Returns:
         Tuple of (split_position, punctuation_char, priority_level) or None if no valid split found
@@ -61,24 +130,42 @@ def find_split_point(text: str, min_chars: int) -> Optional[Tuple[int, str, int]
     # Calculate search range (midpoint ±20%)
     midpoint = text_len // 2
     search_range = int(text_len * 0.2)
-    range_start = max(min_chars, midpoint - search_range)
-    range_end = min(text_len - min_chars, midpoint + search_range)
+    window_start = max(min_chars, midpoint - search_range)
+    window_end = min(text_len - min_chars, midpoint + search_range)
 
-    if range_start >= range_end:
+    if window_start >= window_end:
         logging.debug(f"Text too short to split safely (len={text_len}, min_chars={min_chars})")
         return None
 
-    # Search by priority level
-    for priority in sorted(PUNCTUATION_LEVELS.keys()):
-        punctuations = PUNCTUATION_LEVELS[priority]
+    levels = dict(PUNCTUATION_LEVELS)
+    if allow_space_splits:
+        levels[SPACE_PRIORITY] = [' ']
 
-        # Find all occurrences of this priority level in the search range
-        candidates = []
-        for punct in punctuations:
-            punct_len = len(punct)
-            for i in range(range_start, range_end + 1):  # +1 to include range_end
-                # Check if punctuation matches at position i
-                if text[i:i+punct_len] == punct:
+    hard_depth, quote_depth = _compute_depths(text)
+
+    def search(range_start: int, range_end: int, allow_quotes: bool):
+        # Search by priority level
+        for priority in sorted(levels.keys()):
+            punctuations = levels[priority]
+
+            # Find all occurrences of this priority level in the search range
+            candidates = []
+            for punct in punctuations:
+                punct_len = len(punct)
+                for i in range(range_start, range_end + 1):  # +1 to include range_end
+                    # Check if punctuation matches at position i
+                    if text[i:i + punct_len] != punct:
+                        continue
+
+                    # Every character of the punctuation mark must be
+                    # outside protected regions (relevant for multi-char
+                    # marks such as ——)
+                    span = range(i, min(i + punct_len, text_len))
+                    if any(hard_depth[j] > 0 for j in span):
+                        continue
+                    if not allow_quotes and any(quote_depth[j] > 0 for j in span):
+                        continue
+
                     # Split after the punctuation mark
                     split_pos = i + punct_len
 
@@ -91,15 +178,35 @@ def find_split_point(text: str, min_chars: int) -> Optional[Tuple[int, str, int]
                         distance = abs(split_pos - midpoint)
                         candidates.append((distance, split_pos, punct, priority))
 
-        # If we found candidates at this priority level, return the closest to midpoint
-        if candidates:
-            candidates.sort(key=lambda x: x[0])  # Sort by distance
-            _, split_pos, punct, prio = candidates[0]
-            logging.debug(f"Found split point at position {split_pos} (punctuation '{punct}', priority {prio})")
-            return (split_pos, punct, prio)
+            # If we found candidates at this priority level, return the closest to midpoint
+            if candidates:
+                candidates.sort(key=lambda x: x[0])  # Sort by distance
+                _, split_pos, punct, prio = candidates[0]
+                return (split_pos, punct, prio)
+
+        return None
+
+    stages = [
+        (window_start, window_end, False, 'central window'),
+        (min_chars, text_len - min_chars, False, 'expanded range'),
+        (window_start, window_end, True, 'central window (quote fallback)'),
+        (min_chars, text_len - min_chars, True, 'expanded range (quote fallback)'),
+    ]
+
+    for range_start, range_end, allow_quotes, label in stages:
+        if range_start >= range_end:
+            continue
+        result = search(range_start, range_end, allow_quotes)
+        if result:
+            split_pos, punct, prio = result
+            logging.debug(
+                f"Found split point at position {split_pos} "
+                f"(punctuation '{punct}', priority {prio}, stage: {label})"
+            )
+            return result
 
     # No valid split point found
-    logging.debug(f"No valid punctuation split point found in range [{range_start}, {range_end}]")
+    logging.debug(f"No safe split point found for text of length {text_len}")
     return None
 
 
@@ -167,7 +274,8 @@ def process_srt(
     max_chars: int,
     min_chars: int,
     gap_ms: int,
-    verbose: bool = False
+    verbose: bool = False,
+    allow_space_splits: bool = False
 ) -> pysrt.SubRipFile:
     """
     Process SRT file and split long segments.
@@ -178,6 +286,7 @@ def process_srt(
         min_chars: Minimum characters for each split part
         gap_ms: Gap in milliseconds between split parts
         verbose: Enable verbose logging
+        allow_space_splits: Opt-in space splitting (for English text)
 
     Returns:
         New SubRipFile with split segments
@@ -204,7 +313,7 @@ def process_srt(
             new_subs.append(sub)
         else:
             # Try to split
-            split_result = find_split_point(sub.text, min_chars)
+            split_result = find_split_point(sub.text, min_chars, allow_space_splits)
 
             if split_result:
                 split_pos, punct, priority = split_result
@@ -330,6 +439,11 @@ Examples:
         help='Gap in milliseconds between split segments (default: 0)'
     )
     parser.add_argument(
+        '--allow-space-splits',
+        action='store_true',
+        help='Allow splitting on spaces (opt-in, for English text; off by default)'
+    )
+    parser.add_argument(
         '--verbose',
         action='store_true',
         help='Show detailed splitting information'
@@ -386,7 +500,10 @@ Examples:
     logging.info(f"Loaded {len(subs)} subtitles from input file")
 
     # Process SRT
-    new_subs = process_srt(subs, args.max_chars, args.min_chars, args.gap_ms, args.verbose)
+    new_subs = process_srt(
+        subs, args.max_chars, args.min_chars, args.gap_ms,
+        args.verbose, args.allow_space_splits
+    )
 
     # Write output (unless dry-run)
     if args.dry_run:
