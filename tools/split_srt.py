@@ -32,6 +32,11 @@ PUNCTUATION_LEVELS = {
 
 def setup_logging(verbose: bool = False):
     """Configure logging based on verbosity level"""
+    if sys.platform == 'win32' and hasattr(sys.stdout, 'reconfigure'):
+        try:
+            sys.stdout.reconfigure(encoding='utf-8')
+        except Exception:
+            pass
     level = logging.DEBUG if verbose else logging.INFO
     logging.basicConfig(
         level=level,
