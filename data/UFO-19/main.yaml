@@ -63,7 +63,7 @@ segments:
     text: 首先，我想對所有已經作證的人說，你們做得非常出色。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 tested 應為 testified（轉錄錯誤），譯文依正確語意處理
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -221,7 +221,7 @@ segments:
     end: 00:02:31,960
   source_text: '[Applause] Thank you, Representative Hooley.'
   translation:
-    text: ［掌聲］謝謝您，胡利眾議員（Representative Hooley）。
+    text: ［掌聲］謝謝您，胡利眾議員（Hooley）。
     status: completed
     confidence: high
     notes: 保留原文人名並加註中文，符合指南規範
@@ -324,7 +324,7 @@ segments:
     end: 00:02:56,720
   source_text: In 1966, I had been working about 13 years for one company, and was doing well as a young engineering executive at Douglas Aircraft.
   translation:
-    text: 1966年，我已經在同一家公司工作了約13年，當時在道格拉斯飛機公司（Douglas Aircraft）擔任年輕的工程主管，表現不錯。
+    text: 1966 年，我已經在同一家公司工作了約 13 年，當時在道格拉斯飛機公司（Douglas Aircraft）擔任年輕的工程主管，表現不錯。
     status: completed
     confidence: high
     notes: 保留公司名稱並加註中文
@@ -501,7 +501,7 @@ segments:
     end: 00:04:15,840
   source_text: I said, well, you're not going to believe this, but I've read about 50 books on UFOs.
   translation:
-    text: 我說，嗯，你們可能不會相信，但我已經讀了大概50本關於不明飛行物的書。
+    text: 我說，嗯，你們可能不會相信，但我已經讀了大概 50 本關於不明飛行物的書。
     status: completed
     confidence: high
     notes: null
@@ -625,7 +625,7 @@ segments:
     end: 00:05:08,660
   source_text: We should have a picture of Stan Friedman up there right now as he looked in 1968.
   translation:
-    text: 我們現在應該放一張斯坦頓·弗里德曼（Stan Friedman）1968年時的照片在那裡。
+    text: 我們現在應該在那裡放一張斯坦頓·弗里德曼（Stan Friedman）1968 年時的照片。
     status: completed
     confidence: high
     notes: null
@@ -748,7 +748,7 @@ segments:
     end: 00:06:01,160
   source_text: He urged me to visit the Air Force UFO Condon Committee in 1967 before their report was complete and talked someone into inviting me to testify at a House Science and Astronautics Committee symposium on unidentified flying objects.
   translation:
-    text: 他敦促我在1967年空軍不明飛行物康登委員會（Condon Committee）的報告完成前去拜訪他們，並說服某人邀請我在眾議院科學與太空委員會（House Science and Astronautics Committee）關於不明飛行物的研討會上作證。
+    text: 他敦促我在 1967 年空軍不明飛行物康登委員會（Condon Committee）的報告完成前去拜訪他們，並說服某人邀請我在眾議院科學與太空委員會（House Science and Astronautics Committee）關於不明飛行物的研討會上作證。
     status: completed
     confidence: high
     notes: 機構名稱保留原文並加註
@@ -803,7 +803,7 @@ segments:
     end: 00:06:24,080
   source_text: Then the military orbiting program was canceled in 1969.
   translation:
-    text: 後來在1969年，軍事軌道計畫被取消了。
+    text: 後來在 1969 年，軍事軌道計畫被取消了。
     status: completed
     confidence: high
     notes: null
@@ -837,7 +837,7 @@ segments:
     end: 00:06:36,680
   source_text: We were not making fantastic progress in our project, and I was assigned in 1970 to learn everything I could about radar and ballistic missile defense.
   translation:
-    text: 我們的項目沒有取得驚人的進展，於是我在1970年被指派去學習所有關於雷達和彈道飛彈防禦的知識。
+    text: 我們的項目沒有取得驚人的進展，於是我在 1970 年被指派去學習所有關於雷達和彈道飛彈防禦的知識。
     status: completed
     confidence: high
     notes: null
@@ -872,7 +872,7 @@ segments:
     end: 00:07:01,400
   source_text: This project's history was written up in both the International UFO Reporter in 1993, detailing the results of my visit to the Condon Committee and the MUFON Journal in 2008, elaborating on the details of who did what on this project and what we concluded.
   translation:
-    text: 這個項目的歷史被記錄在1993年的《國際不明飛行物報導》（International UFO Reporter）中，詳細描述了我拜訪康登委員會的結果；以及2008年的《MUFON期刊》（MUFON Journal），詳細闡述了這個項目中誰做了什麼以及我們的結論。
+    text: 這個項目的歷史被記錄在 1993 年的《國際不明飛行物報導》（International UFO Reporter）中，詳細描述了我拜訪康登委員會的結果；以及 2008 年的《MUFON 期刊》（MUFON Journal），詳細闡述了這個項目中誰做了什麼以及我們的結論。
     status: completed
     confidence: high
     notes: 期刊名稱保留原文並加註
@@ -891,7 +891,7 @@ segments:
     end: 00:07:23,040
   source_text: I followed the topic of ufology from 1970 to my retirement in 1993 as an avocation, but remained actively absorbing results and reports from MUFON, the Center for UFO Studies, and subscribed to the Flying Saucer Review, which came in a brown paper envelope, so you wouldn't know the subject, published in Britain.
   translation:
-    text: 從1970年到1993年退休，我以業餘愛好的方式追蹤不明飛行物學（ufology）這個主題，但持續積極吸收來自MUFON（UFO互動網絡）、不明飛行物研究中心（Center for UFO Studies）的研究結果和報告，並訂閱了《飛碟評論》（Flying Saucer Review），這本雜誌用牛皮紙信封寄來，這樣你就不知道裡面的主題，由英國出版。
+    text: 從 1970 年到 1993 年退休，我以業餘愛好的方式追蹤不明飛行物學（ufology）這個主題，但持續積極吸收來自 MUFON（UFO 互動網路）、不明飛行物研究中心（Center for UFO Studies）的研究結果和報告，並訂閱了《飛碟評論》（Flying Saucer Review），這本雜誌用牛皮紙信封寄來，這樣你就不知道裡面的主題，由英國出版。
     status: completed
     confidence: medium
     notes: 機構和期刊名稱保留原文並加註
@@ -911,10 +911,10 @@ segments:
     end: 00:07:39,720
   source_text: The consistency of alien reports occurring psychically caused me to be aware of other anomalous literature, and I had the pleasure of meeting Dean Bob Jahn of Princeton University, who was initiating a consciousness research project.
   translation:
-    text: 以通靈方式發生的外星報告的一致性讓我注意到了其他異常文獻，我有幸認識了普林斯頓大學的鮑勃·約翰院長（Dean Bob John），他正在發起一個意識研究項目。
+    text: 以通靈方式出現的外星報告具有一致性，這讓我注意到其他異常現象文獻，我有幸結識了普林斯頓大學的鮑勃·賈恩院長（Bob Jahn），他當時正啟動一項意識研究項目。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Dean Bob John 應為 Dean Bob Jahn（Robert G. Jahn，普林斯頓大學工程學院院長、意識研究先驅），轉錄錯誤
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -948,10 +948,10 @@ segments:
     end: 00:07:57,960
   source_text: I had read an article by Dr. Hal Puthoff, currently then at Stanford Research Institute, reporting on some amazing results in remote viewing.
   translation:
-    text: 我曾讀過哈爾·普特夫博士（Dr. Hal Putoff）的一篇文章，他當時在史丹佛研究所（Stanford Research Institute），報告了一些關於遙視（remote viewing）的驚人成果。
+    text: 我曾讀過哈爾·普特夫博士（Dr. Hal Puthoff）的一篇文章，他當時在史丹佛研究院（Stanford Research Institute），報告了一些關於遙視（remote viewing）的驚人成果。
     status: completed
     confidence: high
-    notes: 人名和機構名保留原文並加註
+    notes: 原文 Putoff 應為 Puthoff（Hal Puthoff，遙視研究先驅），轉錄錯誤
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -984,10 +984,10 @@ segments:
     end: 00:08:28,280
   source_text: This sensitive remote viewing project wound up being funded by James S. McDonnell, CEO of McDonnell Douglas, who was subsequently told by his lawyers that he should not have used foundation money to accomplish work in his profit-making firm.
   translation:
-    text: 這個敏感的遙視項目最終由麥克唐納道格拉斯公司（MacDonald Douglas）的首席執行官詹姆斯·S·麥克唐納（James S. MacDonald）資助，但後來他的律師告訴他，他不應該使用基金會的資金來為他的營利公司完成工作。
+    text: 這個敏感的遙視項目最終由麥克唐納道格拉斯公司（McDonnell Douglas）的執行長詹姆斯·S·麥克唐納（James S. McDonnell）資助，但後來他的律師告訴他，他不應該使用基金會的資金來為他的營利公司完成工作。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 MacDonald Douglas／MacDonald 應為 McDonnell Douglas／McDonnell（公司創辦人 James S. McDonnell），轉錄錯誤
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1057,7 +1057,7 @@ segments:
     end: 00:09:10,280
   source_text: There were quite a few intriguing reports available, such as a classified version of the Iranian Air Force F-4 Phantom jet pilot attempting to fire a missile at a UFO only to have his controls shut down as soon as he thought about doing it.
   translation:
-    text: 當時有不少引人入勝的報告，例如一份機密版本的伊朗空軍F-4幽靈戰鬥機（F-4 Phantom jet）飛行員試圖向不明飛行物發射導彈，但就在他想到要這樣做時，他的控制系統就被關閉了。
+    text: 當時有不少引人入勝的報告，例如一份機密版本的伊朗空軍 F-4 幽靈戰鬥機（F-4 Phantom jet）飛行員試圖向不明飛行物發射導彈，但就在他想到要這樣做時，他的控制系統就被關閉了。
     status: completed
     confidence: high
     notes: 軍機型號保留原文並加註
@@ -1094,10 +1094,10 @@ segments:
     end: 00:09:36,760
   source_text: I also stayed aware of anomalies in science in general, and when the so-called cold fusion results of Pons and Fleischmann were announced in 1989, I was aware that our company attempted a quick covert test to try to replicate the results.
   translation:
-    text: 我也一直關注科學界的一般異常現象，當1989年所謂的龐德-弗萊施曼（Pond's Fleischman）冷核融合結果公布時，我知道我們公司曾嘗試進行一次快速的秘密測試，試圖重現這些結果。
+    text: 我也一直關注科學界的一般異常現象，當 1989 年所謂的龐斯與弗萊施曼（Pons and Fleischmann）冷核融合結果公布時，我知道我們公司曾嘗試進行一次快速的秘密測試，試圖重現這些結果。
     status: completed
-    confidence: medium
-    notes: Pond's Fleischman 冷核融合實驗相關人名保留原文
+    confidence: high
+    notes: 原文 Pond's Fleischman 應為 Pons and Fleischmann（1989 年宣布冷核融合實驗的 Stanley Pons 與 Martin Fleischmann），轉錄錯誤
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1113,7 +1113,7 @@ segments:
     end: 00:09:48,080
   source_text: I was told we were not successful, but by then I was working on advanced technology for NASA International Space Station and not involved in any proprietary activity.
   translation:
-    text: 我被告知我們沒有成功，但那時我已經在為NASA國際太空站（NASA International Space Station）開發先進技術，沒有參與任何專有活動。
+    text: 我被告知我們沒有成功，但那時我已經在為 NASA 國際太空站（NASA International Space Station）開發先進技術，沒有參與任何專有活動。
     status: completed
     confidence: high
     notes: null
@@ -1131,7 +1131,7 @@ segments:
     end: 00:09:59,440
   source_text: After retirement in 1993, my focus on UFOs became the authentication of leaked documents as described on Wednesday.
   translation:
-    text: 1993年退休後，我對不明飛行物的關注轉向洩露文件的驗證工作，正如週三所描述的那樣。
+    text: 1993 年退休後，我對不明飛行物的關注轉向洩露文件的驗證工作，正如週三所描述的那樣。
     status: completed
     confidence: high
     notes: null
@@ -1169,10 +1169,10 @@ segments:
     end: 00:10:41,120
   source_text: There is a case to be made that the three crash recoveries of Missouri in April 1941 and LA in February 1942, 1,430 rounds of ammunition during the famous LA air raid, resulted in a specific contract to study how germanium and silicon might be used in the preparation of semiconductors.
   translation:
-    text: 有一種說法認為，1941年4月密蘇里州的三次墜毀回收事件，以及1942年2月洛杉磯著名的洛杉磯空襲中發射的1，430發砲彈，促成了一份特定合約，研究如何使用鍺和矽來製造半導體。
+    text: 有一種說法認為，1941 年 4 月密蘇里州的三次墜毀回收事件，以及 1942 年 2 月著名的洛杉磯空襲中發射的 1,430 發砲彈，促成了一份特定合約，研究如何使用鍺和矽來製造半導體。
     status: completed
     confidence: medium
-    notes: 歷史事件涉及多個時間和地點，翻譯需準確
+    notes: 原文 three crash recoveries 與兩地事件的歸屬關係語意模糊，依原文結構直譯
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1189,7 +1189,7 @@ segments:
     end: 00:10:59,840
   source_text: Those individuals receiving reports and samples included Edward Condon at Westinghouse, Bell Laboratories, Hans Bethe of MIT Radiation Laboratory, and Shockley of Bell Telephone Laboratories in 1945, who was given credit for inventing the transistor in 1947.
   translation:
-    text: 收到報告和樣本的包括西屋公司（Westinghouse）的愛德華·康登（Edward Condon）、貝爾實驗室（Bell Laboratories）的科學家、麻省理工學院輻射實驗室（MIT Radiation Laboratory）的漢斯·貝特（Hans Bethe），以及1945年貝爾電話實驗室（Bell Telephone Laboratories）的肖克利（Shockley），他在1947年被認為是電晶體的發明者。
+    text: 收到報告和樣本的包括西屋公司（Westinghouse）的愛德華·康登（Edward Condon）、貝爾實驗室（Bell Laboratories）的科學家、麻省理工學院輻射實驗室（MIT Radiation Laboratory）的漢斯·貝特（Hans Bethe），以及 1945 年貝爾電話實驗室（Bell Telephone Laboratories）的蕭克利（Shockley），他在 1947 年被認為是電晶體的發明者。
     status: completed
     confidence: high
     notes: 人名和機構名稱保留原文並加註
@@ -1226,10 +1226,10 @@ segments:
     end: 00:11:15,160
   source_text: And doctor, you've got about one minute left on your time.
   translation:
-    text: 醫生，您的時間還剩大約一分鐘。
+    text: 博士，您的時間還剩大約一分鐘。
     status: completed
     confidence: high
-    notes: null
+    notes: 主持人對伍德博士的稱呼
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1346,7 +1346,7 @@ segments:
     end: 00:11:54,000
   source_text: Second, a way to interact with time in a reliable fashion through the equivalent of the so-called wormhole so that journeys would take years, wind up taking minutes.
   translation:
-    text: 第二，一種通過所謂的蟲洞（wormhole）等效方式可靠地與時間互動的方法，使原本需要數年的旅程最終只需幾分鐘。
+    text: 第二，一種透過所謂的蟲洞（wormhole）等效方式可靠地與時間互動的方法，使原本需要數年的旅程最終只需幾分鐘。
     status: completed
     confidence: high
     notes: wormhole 為專業術語，保留英文並加註
@@ -1572,7 +1572,7 @@ segments:
     end: 00:13:18,880
   source_text: I would like to open with sort of a historical overview of advanced technologies that began in the late 1800s with the breakthroughs with Maxwell and also Faraday.
   translation:
-    text: 我想先簡要概述一下先進技術的歷史，這要追溯到19世紀末，當時馬克士威（Maxwell）和法拉第（Faraday）取得了突破性進展。
+    text: 我想先簡要概述一下先進技術的歷史，這要追溯到 19 世紀末，當時馬克士威（Maxwell）和法拉第（Faraday）取得了突破性進展。
     status: completed
     confidence: high
     notes: 人名 Maxwell 和 Faraday 保留原文並加註
@@ -1626,7 +1626,7 @@ segments:
     end: 00:13:57,720
   source_text: Between the late 1800s and 1929, there were a number of breakthroughs that ended up being suppressed that had to do with creating very high-voltage VHV systems so that you could create a vector into what has now been called the zero-point energy field.
   translation:
-    text: 在19世紀末到1929年之間，有許多突破最終被壓制了，這些突破涉及創建超高壓（VHV）系統，以便能夠創建一個向量進入現在所謂的零點能源場（zero-point energy field）。
+    text: 在 19 世紀末到 1929 年之間，有許多突破最終被壓制了，這些突破涉及創建超高壓（VHV）系統，以便能夠創建一個向量進入現在所謂的零點能源場（zero-point energy field）。
     status: completed
     confidence: high
     notes: VHV 和 zero-point energy field 為專業術語，保留英文並加註
@@ -1680,10 +1680,10 @@ segments:
     end: 00:14:38,880
   source_text: I have a Department of Defense document that is on a flash drive for each member of Congress that the conference has been given, the citizens' hearings have been given that shows that when Nikola Tesla died, that this information that he had, which allowed for a car to run out of the ambient energy, was in documents confiscated by the FBI.
   translation:
-    text: 我有一份國防部文件，已在每位國會議員的隨身碟中，這次會議和公民聽證會都已提供。文件顯示，當尼古拉·特斯拉（Nikola Tesla）去世時，他所擁有的、能讓汽車從環境能量中運行的資訊，被聯邦調查局（FBI）沒收在文件中。
+    text: 我有一份國防部文件，已放入每位國會議員的隨身碟中，這次會議和公民聽證會也都拿到了。文件顯示，尼古拉·特斯拉（Nikola Tesla）去世時，他所掌握的、能讓汽車依靠環境能量運行的資訊，都在遭聯邦調查局（FBI）沒收的文件之中。
     status: completed
     confidence: medium
-    notes: 長句分段處理，FBI 保留原文
+    notes: 原文長句結構破碎，依語意重組
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -1752,7 +1752,7 @@ segments:
     end: 00:15:21,880
   source_text: By 1928 and 29, T. Townsend Brown, as well as the Kołysko-Frost effect in physics in Germany, had determined that VHV, very high-voltage systems done in a certain resonant field could result in so-called electromagnetic-gravity effect, the lifter effect that has been described, which you see in UFOs.
   translation:
-    text: 到1928年和1929年，湯森·布朗（T. Townsend Brown）以及德國物理學中的科利斯可-弗羅斯特效應（Kołysko-Frost effect）已經確定，在特定共振場中產生的超高壓（VHV）系統可以產生所謂的電磁重力效應，即所描述的升力效應，也就是你們在不明飛行物中看到的現象。
+    text: 到 1928 年和 1929 年，湯森·布朗（T. Townsend Brown）以及德國物理學中的科利斯可-弗羅斯特效應（Kołysko-Frost effect）已經確定，在特定共振場中產生的超高壓（VHV）系統可以產生所謂的電磁重力效應，即所描述的升力效應，也就是你們在不明飛行物中看到的現象。
     status: completed
     confidence: medium
     notes: 多個專業術語和效應名稱保留原文並加註
@@ -1772,7 +1772,7 @@ segments:
     end: 00:15:28,200
   source_text: They also can create what's called a space-time bubble around an object so that you can correct for 1G.
   translation:
-    text: 它們還可以在物體周圍創建所謂的時空氣泡（space-time bubble），這樣你就能抵消1G的重力。
+    text: 它們還可以在物體周圍創建所謂的時空氣泡（space-time bubble），這樣你就能抵消 1G 的重力。
     status: completed
     confidence: high
     notes: space-time bubble 為專業術語，保留英文並加註
@@ -1808,7 +1808,7 @@ segments:
     end: 00:15:49,360
   source_text: Around this same time, there was, in the 1940s and the late 1930s, a number of UFO sightings.
   translation:
-    text: 大約在同一時期，1940年代和1930年代末，有許多不明飛行物目擊事件。
+    text: 大約在同一時期，1940 年代和 1930 年代末，有許多不明飛行物目擊事件。
     status: completed
     confidence: high
     notes: null
@@ -1947,7 +1947,7 @@ segments:
     end: 00:16:42,600
   source_text: By then, there began a classified program, which was augmented further by events as mentioned in 1941 and then, of course, the famous Roswell event.
   translation:
-    text: 到那時，一個機密計畫開始了，這個計畫因1941年的事件以及後來著名的羅斯威爾事件（Roswell event）而進一步擴大。
+    text: 到那時，一個機密計畫開始了，這個計畫因 1941 年的事件以及後來著名的羅斯威爾事件（Roswell event）而進一步擴大。
     status: completed
     confidence: high
     notes: null
@@ -1965,7 +1965,7 @@ segments:
     end: 00:16:52,680
   source_text: Those events led to, as Philip Corso describes, a reverse engineering program, as you all know from the famous Wilbur Smith document of 1951 from Canada.
   translation:
-    text: 正如菲利普·科索（Philip Corso）所描述的，這些事件導致了一個反向工程計畫，正如你們都知道的，來自加拿大1951年著名的威爾伯·史密斯文件（Wilbur Smith document）。
+    text: 正如菲利普·科索（Philip Corso）所描述的，這些事件導致了一個反向工程計畫，也就是你們都知道的、來自加拿大的 1951 年著名的威爾伯·史密斯文件（Wilbur Smith document）所記載的內容。
     status: completed
     confidence: high
     notes: null
@@ -1983,7 +1983,7 @@ segments:
     end: 00:17:03,040
   source_text: It talks about that flying saucers exist, but there's a high-level team headed up by Dr. Vannevar Bush that is studying the "modus operandi" of these vehicles.
   translation:
-    text: 文件談到飛碟（flying saucers）確實存在，但有一個由高級團隊領導，由萬尼瓦爾·布希博士（Dr. Vannevar Bush）領導，正在研究這些載具的「運作方式」（modus operandi）。
+    text: 文件談到飛碟（flying saucers）確實存在，並提到一個由萬尼瓦爾·布希博士（Dr. Vannevar Bush）領導的高層團隊，正在研究這些載具的「運作方式」（modus operandi）。
     status: completed
     confidence: high
     notes: null
@@ -2019,7 +2019,7 @@ segments:
     end: 00:17:20,000
   source_text: In October of 1954, a key date I want the committee to remember.
   translation:
-    text: 1954年10月，這是我希望委員會記住的一個關鍵日期。
+    text: 1954 年 10 月，這是我希望委員會記住的一個關鍵日期。
     status: completed
     confidence: high
     notes: null
@@ -2071,7 +2071,7 @@ segments:
     end: 00:17:42,280
   source_text: So since 1954, October of that year, we have not needed rockets, jets, internal combustion engines, and surface roadways between cities.
   translation:
-    text: 所以自從1954年，那年的10月起，我們就不再需要火箭、噴射機、內燃機以及城市之間的地面道路了。
+    text: 所以自從 1954 年，那年的 10 月起，我們就不再需要火箭、噴射機、內燃機以及城市之間的地面道路了。
     status: completed
     confidence: high
     notes: null
@@ -2329,10 +2329,10 @@ segments:
     end: 00:20:30,560
   source_text: Several top mountain and blackjack control.
   translation:
-    text: 幾個山頂和二十一點控制設施。
+    text: 數處山頂以及 Blackjack 控制設施。
     status: completed
     confidence: medium
-    notes: blackjack control 可能為特定設施名稱
+    notes: 原文破碎，blackjack 疑為設施代號，無從查證，依原文直譯
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2348,8 +2348,8 @@ segments:
   translation:
     text: 那裡的航空航太設施包括諾斯羅普蟻丘設施（Northrop Ant Hill facility）、蒂洪牧場（Tihon Ranch）、麥克唐納道格拉斯拉諾工廠（McDonnell Douglas Llano plant）、洛克希德馬丁赫倫代爾工廠（Lockheed Martin Hellendale plant）以及飛利浦實驗室（Phillips Lab）。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 部分設施名稱無從查證（Hellendale 疑為 Palmdale 之誤轉錄，該地為洛克希德馬丁臭鼬工廠所在），依原文直譯
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2364,7 +2364,7 @@ segments:
     end: 00:20:47,040
   source_text: At the Nellis Air Force facility, so-called Area 51, no one calls it that.
   translation:
-    text: 在內利斯空軍設施（Nellis Air Force facility），也就是所謂的51區（Area 51），沒有人那樣稱呼它。
+    text: 在內利斯空軍設施（Nellis Air Force facility），也就是所謂的 51 區（Area 51），沒有人那樣稱呼它。
     status: completed
     confidence: high
     notes: null
@@ -2381,10 +2381,10 @@ segments:
     end: 00:20:52,820
   source_text: There's S4 and S12, Pahute Mesa, Groom Lake, and a number of sub-facilities.
   translation:
-    text: 那裡有S4和S12、帕胡特台地（Pahoot Mesa）、格魯姆湖（Groom Lake）以及若干子設施。
+    text: 那裡有 S4 和 S12、帕胡特台地（Pahute Mesa）、格魯姆湖（Groom Lake）以及若干子設施。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Pahoot Mesa 應為 Pahute Mesa（內華達試驗場鄰近格魯姆湖的台地），轉錄錯誤
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2470,7 +2470,7 @@ segments:
     end: 00:21:50,480
   source_text: In Arizona, near Fort Huachuca, which is Army Intelligence Headquarters, there is a UGB underground base where one of our witnesses who will testify worked on nine separate extraterrestrial vehicles that had been down through advanced electromagnetic pulse weapons, and there are several different species of extraterrestrial biological stored at that facility.
   translation:
-    text: 在亞利桑那州瓦丘卡堡（Fort Huachuca）附近，即陸軍情報總部所在地，有一個UGB地下基地。我們的一位證人將作證，他曾在該基地研究九艘不同的外星載具，這些載具被先進的電磁脈衝武器擊落，該設施還存放著幾種不同種類的外星生物。
+    text: 在亞利桑那州瓦丘卡堡（Fort Huachuca）附近，即陸軍情報總部所在地，有一個 UGB 地下基地。我們的一位證人將作證，他曾在該基地研究九艘不同的外星載具，這些載具被先進的電磁脈衝武器擊落，該設施還存放著幾種不同種類的外星生物。
     status: completed
     confidence: medium
     notes: UGB 可能指 Underground Base，保留原文
@@ -2490,7 +2490,7 @@ segments:
     end: 00:22:11,880
   source_text: The other facilities, and this goes on, include a special compartmented area of Cheyenne Mountain where we have witnesses in our team who can be subpoenaed, where we have tracked extraterrestrial vehicles in our solar system that were measuring 26 miles in diameter.
   translation:
-    text: 其他設施還包括夏延山（Cheyenne Mountain）的一個特殊分隔區域，我們團隊中有證人可以被傳喚。我們在那裡追踪到太陽系中的外星載具，直徑達26英里。
+    text: 其他設施還包括夏延山（Cheyenne Mountain）的一個特殊分隔區域，我們團隊中有證人可以被傳喚。我們在那裡追蹤到太陽系中的外星載具，直徑達 26 英里。
     status: completed
     confidence: high
     notes: null
@@ -2509,7 +2509,7 @@ segments:
     end: 00:22:23,880
   source_text: There are also facilities in Australia, a key one being Pine Gap, the so-called Alice Springs facility, which is mostly a U.S. Air Force facility even though it is in Australia.
   translation:
-    text: 澳洲也有設施，其中一個關鍵設施是松樹谷（Pine Gap），即所謂的愛麗斯泉設施（Alice Springs facility）。雖然它在澳洲，但主要是一個美國空軍設施。
+    text: 澳洲也有設施，其中一個關鍵設施是松峽基地（Pine Gap），即所謂的愛麗斯泉設施（Alice Springs facility）。雖然它在澳洲，但主要是一個美國空軍設施。
     status: completed
     confidence: high
     notes: null
@@ -2561,7 +2561,7 @@ segments:
     end: 00:22:39,520
   source_text: We have a scientist at the Redstone Arsenal who works under contract for ITT who have developed these trans-dimensional systems.
   translation:
-    text: 我們在紅石兵工廠有一位科學家，他受雇於ITT公司，開發了這些跨維度系統。
+    text: 我們在紅石兵工廠有一位科學家，他受雇於 ITT 公司，開發了這些跨維度系統。
     status: completed
     confidence: high
     notes: null
@@ -2755,7 +2755,7 @@ segments:
     end: 00:23:45,600
   source_text: This is a presentation of what I'm familiar with and my journey began in 1980 with the book called Sunburst Return of the Agents by Norman Paulson.
   translation:
-    text: 這是我所熟悉領域的報告，我的研究旅程始於1980年，當時讀了 Norman Paulson 所著的《Sunburst Return of the Agents》一書。
+    text: 這是我所熟悉領域的報告，我的研究旅程始於 1980 年，當時讀了 Norman Paulson 所著的《Sunburst Return of the Agents》一書。
     status: completed
     confidence: medium
     notes: 書名保留原文
@@ -2791,10 +2791,10 @@ segments:
     end: 00:24:02,040
   source_text: This particular side-by-side photo and the person who took the photo was a deputy sheriff holding the instamatic photo taken in broad daylight over Giant Rock.
   translation:
-    text: 這張並排照片是由一位副警長拍攝的，他用即拍即有相機在光天化日之下於巨石（Giant Rock）上空拍攝了這張照片。
+    text: 這張並排對比的照片，拍攝者是一位副警長，照片是他手持 Instamatic 相機在光天化日之下於巨石（Giant Rock）上空拍到的。
     status: completed
-    confidence: high
-    notes: Giant Rock 譯為巨石
+    confidence: medium
+    notes: 原文句構破碎（holding the instamatic photo），依語境重組
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -2809,7 +2809,7 @@ segments:
     end: 00:24:15,960
   source_text: This is fascinating because none of this has happened since then and Van Tassel, George Van Tassel was responsible for holding UFO conferences through the 50s and through the 60s.
   translation:
-    text: 這非常令人著迷，因為自那以後再也沒有發生過類似事件，而喬治·凡·塔瑟爾（George Van Tassel）在1950年代和1960年代負責舉辦不明飛行物會議。
+    text: 這非常令人著迷，因為自那以後再也沒有發生過類似事件，而喬治·凡·塔瑟爾（George Van Tassel）在 1950 年代和 1960 年代負責舉辦不明飛行物會議。
     status: completed
     confidence: high
     notes: null
@@ -2828,7 +2828,7 @@ segments:
     end: 00:24:25,260
   source_text: I even talked to Dr. Bob Beck who witnessed one of these craft and as you can see there's some type of force illumination below the craft as well.
   translation:
-    text: 我甚至與 Bob Beck 博士談過，他親眼目睹了其中一艘飛行器，正如你們所見，飛行器下方還有某種力場照明。
+    text: 我甚至與鮑勃·貝克博士（Dr. Bob Beck）談過，他親眼目睹了其中一艘飛行器，正如你們所見，飛行器下方還有某種力場照明。
     status: completed
     confidence: high
     notes: null
@@ -2880,7 +2880,7 @@ segments:
     end: 00:24:44,000
   source_text: The interesting part of the book described the propulsion system as being 12 magnets around the outer edge of all the very large disk size of the ship carrying off electrical current.
   translation:
-    text: 書中有趣的部分描述了推進系統：在飛船巨大碟形結構的外緣周圍有12個磁鐵，負責傳導電流。
+    text: 書中有趣的部分描述了推進系統：在飛船巨大碟形結構的外緣周圍有 12 個磁鐵，負責傳導電流。
     status: completed
     confidence: high
     notes: null
@@ -3022,9 +3022,9 @@ segments:
     end: 00:25:26,280
   source_text: I basically found that Dr. Ed Mitchell as you see here on the cover of Extraordinary Science magazine was also interested in the same topic.
   translation:
-    text: 我基本上發現，正如你們在《Extraordinary Science》雜誌封面上所見的 Ed Mitchell 博士，也對同一主題感興趣。
+    text: 我發現，正如你們在《Extraordinary Science》雜誌封面上所見的艾德加·米切爾博士（Dr. Ed Mitchell），也對同一主題感興趣。
     status: completed
-    confidence: medium
+    confidence: high
     notes: 雜誌名保留原文
   metadata:
     topic_id: topic_04
@@ -3058,10 +3058,10 @@ segments:
     end: 00:25:50,360
   source_text: However, Ed held on to his money, which is in his breast pocket there, and what was interesting about this particular cover that came out years later was that the Searle disk is also shown on the same magazine cover next to the homopolar.
   translation:
-    text: 然而，Ed 緊握著他的錢，就在他的胸袋裡。這張多年後出版的封面有趣之處在於，瑟爾碟（Searle disk）也與同極發電機一同出現在雜誌封面上。
+    text: 然而，艾德加緊握著他的錢，就在他的胸袋裡。這張多年後出版的封面有趣之處在於，瑟爾碟（Searle disk）也與同極發電機一同出現在雜誌封面上。
     status: completed
     confidence: medium
-    notes: serial disk 應為 Searle disk（瑟爾碟）的誤聽
+    notes: 原文 serial disk 應為 Searle disk（瑟爾碟），轉錄錯誤
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3080,7 +3080,7 @@ segments:
     text: 所以我認為這是一種巧合或同步性，於是我開始研究瑟爾碟（Searle disk）。
     status: completed
     confidence: medium
-    notes: serial disk 應為 Searle disk 的誤聽
+    notes: 原文 serial disk 應為 Searle disk（瑟爾碟），轉錄錯誤
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3112,7 +3112,7 @@ segments:
     end: 00:26:06,400
   source_text: And I met John Searle in 1980 in Germany and he actually became kind of a curiosity to me.
   translation:
-    text: 我在1980年於德國見到了約翰·瑟爾（John Searle），他對我來說確實成了一個好奇的對象。
+    text: 我在 1980 年於德國見到了約翰·瑟爾（John Searle），他對我來說確實成了一個好奇的對象。
     status: completed
     confidence: high
     notes: null
@@ -3216,7 +3216,7 @@ segments:
     end: 00:26:29,240
   source_text: He essentially became a little more well known when he gave a talk in Berlin in 1990.
   translation:
-    text: 當他在1990年於柏林發表演講時，他基本上變得更為人知。
+    text: 當他在 1990 年於柏林發表演講時，他基本上變得更為人知。
     status: completed
     confidence: high
     notes: null
@@ -3233,7 +3233,7 @@ segments:
     end: 00:26:43,500
   source_text: And then some Russians discovered him because of that lecture and the video and decided to build what they described as a single roller magnet assembly with 12 roller magnets around the outer edge of a ring.
   translation:
-    text: 然後一些俄羅斯人因為那次演講和影片發現了他，並決定建造他們所描述的單滾輪磁鐵組件：在環形結構外緣周圍有12個滾輪磁鐵。
+    text: 然後一些俄羅斯人因為那次演講和影片發現了他，並決定建造他們所描述的單滾輪磁鐵組件：在環形結構外緣周圍有 12 個滾輪磁鐵。
     status: completed
     confidence: high
     notes: null
@@ -3912,7 +3912,7 @@ segments:
     end: 00:30:05,500
   source_text: And we'll see if she can insert the 30-second video that's supposed to actually start.
   translation:
-    text: 我們看看她是否能插入那段應該開始播放的30秒影片。
+    text: 我們看看她是否能插入那段應該開始播放的 30 秒影片。
     status: completed
     confidence: high
     notes: null
@@ -4221,10 +4221,10 @@ segments:
     end: 00:31:17,960
   source_text: And the important part is that nowadays, inertia has been discovered to be a zero-point field, Lorentz force, by Haisch, Rueda, and Puthoff.
   translation:
-    text: 重要的是，如今海施、魯埃達與普特夫（Haisch， Rueda， and Puthoff）已經發現，慣性是一種零點場、勞倫茲力（Lorentz force）。
+    text: 重要的是，如今海施、魯埃達與普特夫（Haisch, Rueda, and Puthoff）已經發現，慣性是一種零點場勞倫茲力（Lorentz force）。
     status: completed
     confidence: medium
-    notes: 根據 topics.json 修正建議，Hayes, Schwetter 應為 Haisch, Rueda
+    notes: 原文 Hayes, Schwetter 應為 Haisch, Rueda（Bernard Haisch、Alfonso Rueda 與 Hal Puthoff 提出慣性電磁理論），轉錄錯誤
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4413,7 +4413,7 @@ segments:
     end: 00:32:14,080
   source_text: I showed this slide to the deputy director of the NRO, National Reconnaissance Office, in case you don't know what NRO stands for.
   translation:
-    text: 我將這張投影片展示給國家偵察局（NRO， National Reconnaissance Office）的副局長，以防你們不知道 NRO 代表什麼。
+    text: 我將這張投影片展示給國家偵察局（NRO, National Reconnaissance Office）的副局長，以防你們不知道 NRO 代表什麼。
     status: completed
     confidence: high
     notes: null
@@ -4551,7 +4551,7 @@ segments:
     end: 00:32:54,760
   source_text: Here's another proof of inertial shielding, and that is the right angle turn that's photographed here with open shutter, 35 millimeter on tripod, 2 a.m. outside Stewart Air Force Base.
   translation:
-    text: 這裡有另一個慣性屏蔽（inertial shielding）的證據，那就是在這裡拍攝到的直角轉彎：使用開啟快門的35毫米相機架在三腳架上，凌晨2點在斯圖爾特空軍基地（Stewart Air Force Base）外拍攝。
+    text: 這裡有另一個慣性屏蔽（inertial shielding）的證據，那就是在這裡拍攝到的直角轉彎：使用開啟快門的 35 毫米相機架在三腳架上，凌晨 2 點在斯圖爾特空軍基地（Stewart Air Force Base）外拍攝。
     status: completed
     confidence: high
     notes: null
@@ -4759,10 +4759,10 @@ segments:
     end: 00:34:00,400
   source_text: And the conclusion is, and I have to give thanks to Mark McCandlish, who gave a testimony of Dr. Greer's 2001 disclosure project in D.C. since we know once in a while such an electrokinetic-powered craft are put on display, as this one was in 1908 in Norton Air Force Base, which is also his entire testimony is reproduced thanks to Mark in my book Electrogravitics 2.
   translation:
-    text: 結論是，我必須感謝馬克·麥坎德利什（Mark McCandlish），他在格里爾博士（Dr. Greer）2001年於華盛頓特區舉行的揭露計畫（Disclosure Project）中提供了證詞。因為我們知道，偶爾會有這種以電動力（electrokinetic）驅動的飛行器被展示出來，就像1908年在諾頓空軍基地（Norton Air Force Base）展示的那架一樣。馬克將他的完整證詞收錄在我的《電重力學2》（Electrogravitics 2）一書中。
+    text: 結論是，我必須感謝馬克·麥坎德利什（Mark McCandlish），他在格里爾博士（Dr. Greer）2001 年於華盛頓特區舉行的揭露計畫（Disclosure Project）中提供了證詞。因為我們知道，偶爾會有這種以電動力（electrokinetic）驅動的飛行器被展示出來，就像 1908 年在諾頓空軍基地（Norton Air Force Base）展示的那架一樣。馬克將他的完整證詞收錄在我的《電重力學 2》（Electrogravitics 2）一書中。
     status: completed
     confidence: medium
-    notes: 根據 topics.json 修正建議，1908應為1988或1998，但保留原文；Electrogravitics 2為書名保留原文
+    notes: 1908 年疑為轉錄錯誤（諾頓空軍基地 1942 年方成立），無法查證確實年份，依規則保留原數字
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4779,10 +4779,10 @@ segments:
     end: 00:34:15,360
   source_text: And this is also verified and investigated by Dr. Hal Puthoff, and I talked to him personally about this story of Norton Air Force Base showing three hovercraft, and he did his due diligence with it, and he says he put it in his gray box of possible events.
   translation:
-    text: 這也經過哈爾·普特夫博士（Dr. Hal Putoff）的驗證和調查，我親自與他談過諾頓空軍基地展示三架氣墊船的故事，他進行了盡職調查，他說他將這件事放入了他的「可能事件灰盒子」中。
+    text: 這也經過哈爾·普特夫博士（Dr. Hal Puthoff）的驗證和調查，我親自與他談過諾頓空軍基地展示三架懸停飛行器的故事，他進行了盡職調查，他說他將這件事放入了他的「可能事件灰盒子」中。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Putoff 應為 Puthoff（同 seg 54），轉錄錯誤；hovercraft 此處指懸停飛行器而非氣墊船
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4832,7 +4832,7 @@ segments:
     end: 00:34:34,940
   source_text: '[ Applause ] We''ll now be going to Roger Leir, if you wouldn''t mind before we begin, could you tell us what DDPM stands for?'
   translation:
-    text: '[掌聲] 現在我們請羅傑·萊爾博士發言。在開始之前，能否請您告訴我們 DDPM 代表什麼意思？'
+    text: ［掌聲］現在我們請羅傑·萊爾博士發言。在開始之前，能否請您告訴我們 DDPM 代表什麼意思？
     status: completed
     confidence: high
     notes: DDPM = Doctor of Podiatric Medicine（足病醫學博士）
@@ -4992,10 +4992,10 @@ segments:
     end: 00:35:57,020
   source_text: I did research with Dow Corning for bone replacement implants, I've done participated in research in tendon regeneration, I have a good knowledge of the biological workings of the human body.
   translation:
-    text: 我曾在 Dow Corning 公司進行骨替代植入物的研究，也參與過肌腱再生的研究，對人體的生物運作機制有深入的了解。
+    text: 我曾在道康寧公司（Dow Corning）進行骨替代植入物的研究，也參與過肌腱再生的研究，對人體的生物運作機制有深入的了解。
     status: completed
     confidence: high
-    notes: Dow Corning = 道康寧公司（矽膠和特殊材料製造商）
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -5029,7 +5029,7 @@ segments:
     end: 00:36:40,320
   source_text: If anyone had told me at that time that I would be involved in anything in the UFO field or traveled to 42 countries and participated in the things that I have participated in relative to UFOs, I would have said, "They're nuts."
   translation:
-    text: 如果當時有人告訴我，我會涉足不明飛行物（UFO）領域，或者會前往42個國家，參與與不明飛行物相關的各種活動，我會說：『他們瘋了。』
+    text: 如果當時有人告訴我，我會涉足不明飛行物（UFO）領域，或者會前往 42 個國家，參與與不明飛行物相關的各種活動，我會說：『他們瘋了。』
     status: completed
     confidence: high
     notes: null
@@ -5207,7 +5207,7 @@ segments:
     end: 00:38:26,680
   source_text: For example, I was very interested to learn that the Eisenhower speech not only talked about the military-industrial complex, but the military-industrial-congressional complex.
   translation:
-    text: 例如，我很感興趣地了解到，艾森豪總統的演講不僅談到了軍工複合體（military-industrial complex），還談到了軍工國會複合體（military-industrial-congressional complex）。
+    text: 例如，我很感興趣地了解到，艾森豪威爾總統的演講不僅談到了軍工複合體（military-industrial complex），還談到了軍工國會複合體（military-industrial-congressional complex）。
     status: completed
     confidence: high
     notes: null
@@ -5365,7 +5365,7 @@ segments:
     end: 00:39:39,960
   source_text: I with my surgical team of medical specialists performed 16 surgeries for the removal of foreign objects from those individuals who allege alien abduction.
   translation:
-    text: 我與我的醫學專家外科團隊進行了16次手術，從那些聲稱被外星人綁架者身上移除異物。
+    text: 我與我的醫學專家外科團隊進行了 16 次手術，從那些聲稱被外星人綁架者身上移除異物。
     status: completed
     confidence: high
     notes: null
@@ -5383,7 +5383,7 @@ segments:
     end: 00:39:45,840
   source_text: The 16 cases involved the removal of 17 separate and distinct objects.
   translation:
-    text: 這16個案例涉及移除17個獨立且不同的物體。
+    text: 這 16 個案例涉及移除 17 個獨立且不同的物體。
     status: completed
     confidence: high
     notes: null
@@ -5400,7 +5400,7 @@ segments:
     end: 00:39:55,800
   source_text: One of these objects turned out to be a small run of ceramic-like glass which was manufactured by Dow Corning Industries.
   translation:
-    text: 其中一個物體原來是一小塊類陶瓷玻璃，由 Dow Corning 公司製造。
+    text: 其中一個物體原來是一小塊類陶瓷玻璃，由道康寧公司（Dow Corning）製造。
     status: completed
     confidence: high
     notes: null
@@ -5418,10 +5418,10 @@ segments:
     end: 00:40:14,600
   source_text: In almost my 50 years of podiatric surgical practice, I have removed literally hundreds or numerous objects from the human foot including paper, glass, metal, stones, hair, coral, many other objects including secret metal.
   translation:
-    text: 在我近50年的足病外科執業生涯中，我從人腳中移除了數百個或無數個物體，包括紙張、玻璃、金屬、石頭、頭髮、珊瑚，以及許多其他物體，包括秘密金屬。
+    text: 在我近 50 年的足病外科執業生涯中，我從人腳中移除了數百個或無數個物體，包括紙張、玻璃、金屬、石頭、頭髮、珊瑚，以及許多其他物體，包括秘密金屬。
     status: completed
     confidence: high
-    notes: null
+    notes: 2026-08-24 人工看片確認確為 secret metal（YouTube 字幕同），尊重發言人原話，非 sheet metal 誤轉錄
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -5544,7 +5544,7 @@ segments:
     end: 00:41:19,200
   source_text: All the individuals in the study presented with positive x-rays or CT scans showing metallic or lesser dense foreign objects.
   translation:
-    text: 研究中所有受試者的X光或電腦斷層掃描都顯示出金屬或密度較低的異物。
+    text: 研究中所有受試者的 X 光或電腦斷層掃描都顯示出金屬或密度較低的異物。
     status: completed
     confidence: high
     notes: null
@@ -5580,7 +5580,7 @@ segments:
     end: 00:41:36,240
   source_text: Ten of them were found to be producing readings on a gauss meter of 6 to 10 milligauss.
   translation:
-    text: 其中10個物體被發現在高斯計上產生6到10毫高斯（milligauss）的讀數。
+    text: 其中 10 個物體被發現在高斯計上產生 6 到 10 毫高斯（milligauss）的讀數。
     status: completed
     confidence: high
     notes: milligauss = 毫高斯，磁場強度單位
@@ -5597,7 +5597,7 @@ segments:
     end: 00:41:47,640
   source_text: That is a large amount for a very small object that varies in size from approximately 6 to 10 millimetres in length and about the diameter of a pencil head.
   translation:
-    text: 對於一個非常小的物體來說，這是很大的數值——這些物體大小約從6到10毫米不等，直徑約相當於鉛筆頭。
+    text: 對於一個非常小的物體來說，這是很大的數值——這些物體大小約從 6 到 10 毫米不等，直徑約相當於鉛筆頭。
     status: completed
     confidence: high
     notes: null
@@ -5615,7 +5615,7 @@ segments:
     end: 00:42:00,800
   source_text: Now I understand that from the crew here and some of the television people I've worked with that a modern television camera produces about 4.3 milligauss of emissions.
   translation:
-    text: 現在，從這裡的工作人員和我合作過的一些電視人員那裡，我了解到一台現代電視攝影機產生約4.3毫高斯的輻射。
+    text: 現在，從這裡的工作人員和我合作過的一些電視人員那裡，我了解到一台現代電視攝影機產生約 4.3 毫高斯的輻射。
     status: completed
     confidence: high
     notes: null
@@ -5633,7 +5633,7 @@ segments:
     end: 00:42:06,200
   source_text: So here's a very small object producing 10 milligauss of emissions.
   translation:
-    text: 所以這裡有一個非常小的物體，卻產生10毫高斯的輻射。
+    text: 所以這裡有一個非常小的物體，卻產生 10 毫高斯的輻射。
     status: completed
     confidence: high
     notes: null
@@ -5668,7 +5668,7 @@ segments:
     end: 00:42:29,480
   source_text: About 60% presented with positive UV light fluorescence with colour ranges from pink, green to yellow.
   translation:
-    text: 約60%呈現出正向的紫外線螢光反應，顏色範圍從粉紅色、綠色到黃色。
+    text: 約 60% 呈現出正向的紫外線螢光反應，顏色範圍從粉紅色、綠色到黃色。
     status: completed
     confidence: high
     notes: null
@@ -5757,7 +5757,7 @@ segments:
     end: 00:43:16,560
   source_text: In addition by use of radio wave frequency detector we were able to detect that certain radio frequencies in the FM band both in the megahertz and kilohertz range were being admitted from the object.
   translation:
-    text: 此外，通過使用無線電波頻率探測器，我們能夠檢測到物體發出調頻（FM）波段中的某些無線電頻率，包括兆赫和千赫範圍。
+    text: 此外，透過無線電波頻率探測器，我們能夠檢測到物體發出調頻（FM）波段中的某些無線電頻率，包括兆赫和千赫範圍。
     status: completed
     confidence: high
     notes: null
@@ -5776,7 +5776,7 @@ segments:
     end: 00:43:29,160
   source_text: It was determined that in one case the frequencies detected and this is through a chart that I was able to obtain through sources that I will not be able to mention.
   translation:
-    text: 在一個案例中，通過我從無法透露的來源獲得的圖表，確定了所檢測到的頻率。
+    text: 在一個案例中，透過我從無法透露的來源獲得的圖表，確定了所檢測到的頻率。
     status: completed
     confidence: high
     notes: null
@@ -6264,10 +6264,10 @@ segments:
     end: 00:47:01,640
   source_text: Congresswoman Kilpatrick, would you like to add anything?
   translation:
-    text: 基爾派翠克議員（Congressman Kirkpatrick），您有什麼要補充的嗎？
+    text: 基爾派翠克眾議員（Kilpatrick），您有什麼要補充的嗎？
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Kirkpatrick 應為 Kilpatrick（Carolyn Kilpatrick），轉錄錯誤
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6369,7 +6369,7 @@ segments:
     end: 00:48:22,440
   source_text: In fact, that's one of the things we hope that if the issue is brought before the General Assembly and it's voted to hold a global conference, then that conference will be its own guide, regardless of the United States of America or Britain or any other country, because it will be beyond their control, and that's one of the reasons why I personally would like this issue to go before the General Assembly and not go before the Congress, which I think would just continue the cover up that we've experienced from the government for the last 50 years.
   translation:
-    text: 事實上，這正是我們所希望的——如果這個議題被提交到聯合國大會（General Assembly），並且投票決定舉行一場全球會議，那麼這場會議將成為自己的指引，無論是美國、英國還是任何其他國家都無法控制，因為它將超越他們的控制範圍。這也是我個人希望這個議題提交到聯合國大會而不是國會的原因之一，我認為國會只會繼續過去50年來我們從政府那裡經歷過的真相掩蓋（cover up）。
+    text: 事實上，這正是我們所希望的——如果這個議題被提交到聯合國大會（General Assembly），並且投票決定舉行一場全球會議，那麼這場會議將成為自己的指引，無論是美國、英國還是任何其他國家都無法控制，因為它將超越他們的控制範圍。這也是我個人希望這個議題提交到聯合國大會而不是國會的原因之一，我認為國會只會繼續過去 50 年來我們從政府那裡經歷過的真相掩蓋（cover up）。
     status: completed
     confidence: high
     notes: General Assembly = 聯合國大會；cover up = 真相掩蓋
@@ -6674,7 +6674,7 @@ segments:
     end: 00:50:36,640
   source_text: I think the latest estimate is 20 billion years.
   translation:
-    text: 我認為最新的估計是200億年。
+    text: 我認為最新的估計是 200 億年。
     status: completed
     confidence: high
     notes: null
@@ -6726,7 +6726,7 @@ segments:
     end: 00:50:46,040
   source_text: I think the diameter is about 50,000 light years.
   translation:
-    text: 我認為直徑大約是5萬光年。
+    text: 我認為直徑大約是 5 萬光年。
     status: completed
     confidence: high
     notes: null
@@ -6760,7 +6760,7 @@ segments:
     end: 00:50:48,040
   source_text: So 100,000 light years across.
   translation:
-    text: 所以是橫跨10萬光年。
+    text: 所以是橫跨 10 萬光年。
     status: completed
     confidence: high
     notes: null
@@ -6811,7 +6811,7 @@ segments:
     end: 00:50:52,800
   source_text: It used to be, in the books at that time it was 50.
   translation:
-    text: 以前，在那個時候的書裡是5萬。
+    text: 以前，在那個時候的書裡是 5 萬。
     status: completed
     confidence: high
     notes: null
@@ -6845,7 +6845,7 @@ segments:
     end: 00:50:56,520
   source_text: It's considered to be about 100,000.
   translation:
-    text: 現在認為大約是10萬光年。
+    text: 現在認為大約是 10 萬光年。
     status: completed
     confidence: high
     notes: null
@@ -6879,7 +6879,7 @@ segments:
     end: 00:51:38,120
   source_text: If we were only able to send craft at one-tenth the speed of light, if the universe is 15 or 20 billion years old, which I think you said you'd think, couldn't a spacecraft go from one end of 100,000 light year galaxy to the other end of that galaxy in a period of the time of the, this universe has been in existence 15,000 different times and go back and forth?
   translation:
-    text: 如果我們只能以十分之一的光速發射飛行器，而宇宙有150億或200億年的歷史，正如您所說，一艘太空船難道不能在宇宙存在的這段時間裡，在這個10萬光年的星系中往返1萬5千次嗎？
+    text: 如果我們只能以十分之一的光速發射飛行器，而宇宙有 150 億或 200 億年的歷史，正如您所說，一艘太空船難道不能在宇宙存在的這段時間裡，在這個 10 萬光年的星系中往返 1 萬 5 千次嗎？
     status: completed
     confidence: high
     notes: null
@@ -6951,7 +6951,7 @@ segments:
     end: 00:51:54,680
   source_text: I'm saying, am I right that a craft could go 15,000 times from one end of the galaxy to the other in the amount of time that's happened?
   translation:
-    text: 我是說，一艘飛行器在這段時間裡可以從星系的一端飛到另一端1萬5千次，我這樣說對嗎？
+    text: 我是說，一艘飛行器在這段時間裡可以從星系的一端飛到另一端 1 萬 5 千次，我這樣說對嗎？
     status: completed
     confidence: high
     notes: null
@@ -7003,7 +7003,7 @@ segments:
     end: 00:52:08,800
   source_text: The first part has to do with the organizational name we are working with, Paradigm Research Group.
   translation:
-    text: 第一部分與我們合作的組織名稱有關，即範式研究小組（Paradigm Research Group）。
+    text: 第一部分與我們合作的組織名稱有關，即範式研究組織（Paradigm Research Group）。
     status: completed
     confidence: high
     notes: null
@@ -7038,7 +7038,7 @@ segments:
     end: 00:52:21,160
   source_text: And Newton had a paradigm of F equals MA and Einstein came along and said, now that's not quite right.
   translation:
-    text: 牛頓提出了F等於MA的範式，而愛因斯坦出現後說，這不完全正確。
+    text: 牛頓提出了 F 等於 MA 的範式，而愛因斯坦出現後說，這不完全正確。
     status: completed
     confidence: high
     notes: null
@@ -7125,7 +7125,7 @@ segments:
     end: 00:52:45,240
   source_text: If we could go the speed of light, it wouldn't be just 15,000 times doing that.
   translation:
-    text: 如果我們能達到光速，那就不只是1萬5千次那麼簡單了。
+    text: 如果我們能達到光速，那就不只是 1 萬 5 千次那麼簡單了。
     status: completed
     confidence: high
     notes: null
@@ -7142,7 +7142,7 @@ segments:
     end: 00:52:47,040
   source_text: We could do that 150,000 times.
   translation:
-    text: 我們可以做到15萬次。
+    text: 我們可以做到 15 萬次。
     status: completed
     confidence: high
     notes: null
@@ -7495,8 +7495,8 @@ segments:
   translation:
     text: 我們曾多次邀請大衛·弗羅尼格（David Frohnig）擔任演講者。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 人名無從查證；2026-08-24 人工看片，YouTube 字幕顯示 david frowny，仍無法確認實際人名，維持音譯
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7582,7 +7582,7 @@ segments:
     end: 00:55:35,520
   source_text: So if I could recognize my time really quickly, if we start talking about artificial intelligence being involved in the control of certain vehicles as opposed to natural intelligence being in control, couldn't we also overcome some of these barriers that people have been talking about?
   translation:
-    text: 所以如果我很快就能認識到這一點，如果我們開始談論人工智能參與某些飛行器的控制，而不是自然智能在控制，我們難道不能也克服人們一直在談論的一些障礙嗎？
+    text: 所以如果我很快就能認識到這一點，如果我們開始談論人工智慧參與某些飛行器的控制，而不是自然智慧在控制，我們難道不能也克服人們一直在談論的一些障礙嗎？
     status: completed
     confidence: high
     notes: null
@@ -7602,7 +7602,7 @@ segments:
     end: 00:55:40,960
   source_text: I mean we send artificial intelligence today out into space.
   translation:
-    text: 我的意思是，今天我們將人工智能送入太空。
+    text: 我的意思是，今天我們將人工智慧送入太空。
     status: completed
     confidence: high
     notes: null
@@ -7688,10 +7688,10 @@ segments:
     end: 00:56:06,680
   source_text: But we will now go to Congresswoman Woolsey.
   translation:
-    text: 但我們現在要請威爾西眾議員發言。
+    text: 但我們現在要請伍爾西眾議員（Woolsey）發言。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Wilsey 應為 Woolsey（Lynn Woolsey，聽證會小組成員），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7830,7 +7830,7 @@ segments:
     end: 00:57:59,920
   source_text: And so I think the issue which we're dealing with is a truth embargo issue and this enormous secrecy which controls and dominates our entire process, maybe even including the educational process, but if you talk about the ordinary world that we mostly, most of us think that we live in, clearly we need to establish the ideas that new ideas, the discoveries as Stan Friedman said, come from doing things differently in an unpredictable way.
   translation:
-    text: 所以我認為我們正在處理的問題是一個真相禁運問題，這種巨大的保密控制並主導著我們的整個過程，甚至可能包括教育過程，但如果你談論我們大多數人認為我們生活的普通世界，顯然我們需要確立這樣的觀念：新的想法，正如斯坦·弗里德曼所說，發現來自於以不可預測的方式做不同的事情。
+    text: 所以我認為我們正在處理的問題是一個真相禁運問題，這種巨大的保密控制並主導著我們的整個過程，甚至可能包括教育過程，但如果你談論我們大多數人認為我們生活的普通世界，顯然我們需要確立這樣的觀念：新的想法，正如史丹頓·弗里德曼（Stanton Friedman）所說，發現來自於以不可預測的方式做不同的事情。
     status: completed
     confidence: high
     notes: null
@@ -7975,7 +7975,7 @@ segments:
     end: 00:59:00,160
   source_text: I think it's going to come from people stepping forward and I wish to emphasize that as I did the other day, that in 1998 we declared these unacknowledged special access projects unconstitutional, a priori illegal.
   translation:
-    text: 我認為這將來自人們挺身而出，我想強調的是，正如我前幾天所做的，1998年我們宣布這些未公開的特別許可項目（unacknowledged special access projects）違憲，先驗地非法。
+    text: 我認為這將來自人們挺身而出，我想強調的是，正如我前幾天所做的，1998 年我們宣布這些未公開的特別許可項目（unacknowledged special access projects）違憲，先驗地非法。
     status: completed
     confidence: high
     notes: null
@@ -7994,7 +7994,7 @@ segments:
     end: 00:59:06,960
   source_text: And we encouraged and we now have over 500 people who have come forward to give us information documents and what have you on this.
   translation:
-    text: 我們鼓勵並且現在有超過500人挺身而出，向我們提供信息文件等等。
+    text: 我們鼓勵並且現在有超過 500 人挺身而出，向我們提供資訊文件等等。
     status: completed
     confidence: high
     notes: null
@@ -8098,7 +8098,7 @@ segments:
     end: 00:59:31,960
   source_text: Could I show slide 23, please, as I'm talking?
   translation:
-    text: 我可以在說話的同時展示第23張幻燈片嗎？
+    text: 我可以在說話的同時展示第 23 張投影片嗎？
     status: completed
     confidence: high
     notes: null
@@ -8135,7 +8135,7 @@ segments:
     end: 01:00:14,720
   source_text: And what I learned is, first of all, he taught me all the details of creating an electro-gravitic layered semiconductor that with bismuth in between and magnesium and zinc, with the same percentages that when slide 23 pops up, you'll see that was published years before in a colleague's book called Secrets of Anti-Gravity Propulsion.
   translation:
-    text: 我學到的是，首先，他教會了我創造電重力分層半導體的所有細節，其中間有鉍、鎂和鋅，比例相同，當第23張幻燈片出現時，你會看到這在多年前就已發表在一位同事的著作《反重力推進的秘密》（Secrets of Anti-Gravity Propulsion）中。
+    text: 我學到的是，首先，他教會了我創造電重力分層半導體的所有細節，其中間有鉍、鎂和鋅，比例相同，當第 23 張投影片出現時，你會看到這在多年前就已發表在一位同事的著作《反重力推進的秘密》（Secrets of Anti-Gravity Propulsion）中。
     status: completed
     confidence: high
     notes: null
@@ -8155,10 +8155,10 @@ segments:
     end: 01:00:27,520
   source_text: And Dr. Paul LaViolette only let me know a year later, he said, "Oh, this sounds like what I learned from another black project engineer who actually was through Aviation Weekly over in England."
   translation:
-    text: 而保羅·維奧萊特博士（Dr. Paul Violette）一年後才告訴我，他說：「哦，這聽起來像我從另一位黑項目工程師那裡學到的，他實際上是通過英國的《航空週刊》（Aviation Weekly）知道的。」
+    text: 而保羅·拉維奧萊特博士（Dr. Paul LaViolette）一年後才告訴我，他說：「哦，這聽起來像我從另一位黑項目工程師那裡學到的，他實際上是透過英國的《航空週刊》（Aviation Weekly）知道的。」
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Paul Violette 應為 Paul LaViolette，轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8192,10 +8192,10 @@ segments:
     end: 01:00:43,840
   source_text: But after I corroborated this with Linda Moulton Howe's artifact as well, we have three different corroborations within 1% variation of the same artifact.
   translation:
-    text: 但在我用琳達·莫爾頓-赫爾（Linda Moulton-Hull）的人工製品也證實了這一點之後，我們對同一人工製品有三個不同的證實，變化在1%以內。
+    text: 但在我用琳達·莫爾頓·豪（Linda Moulton Howe）的樣本也證實了這一點之後，我們對同一樣本有三個不同的證實，變化在 1% 以內。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Moulton-Hull 應為 Moulton Howe（調查記者 Linda Moulton Howe），轉錄錯誤；artifact 此處指樣本／檢體
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8210,7 +8210,7 @@ segments:
     end: 01:00:49,680
   source_text: In fact, slide 24, if she gets that up, will also show the actual semiconductor.
   translation:
-    text: 事實上，如果她能把第24張幻燈片放出來，也會展示實際的半導體。
+    text: 事實上，如果她能把第 24 張投影片放出來，也會展示實際的半導體。
     status: completed
     confidence: high
     notes: null
@@ -8245,7 +8245,7 @@ segments:
     end: 01:01:05,360
   source_text: And this is, I used to be a college teacher, you need the 13 chapters with questions and answers at the end of each chapter.
   translation:
-    text: 這就是，我曾經是大學老師，你需要13個章節，每章末尾都有問題和答案。
+    text: 這就是，我曾經是大學老師，你需要 13 個章節，每章末尾都有問題和答案。
     status: completed
     confidence: high
     notes: null
@@ -8298,7 +8298,7 @@ segments:
     end: 01:01:23,880
   source_text: So this is the book I'm talking about and if we progress to the next slide, we'll see the actual page that Paul was talking about.
   translation:
-    text: 這就是我說的書，如果我們進入下一張幻燈片，我們會看到保羅所說的實際頁面。
+    text: 這就是我說的書，如果我們進入下一張投影片，我們會看到保羅所說的實際頁面。
     status: completed
     confidence: high
     notes: null
@@ -8333,7 +8333,7 @@ segments:
     end: 01:01:35,680
   source_text: So I started to believe the other stuff that this black project fellow told me, and that is we already have a base on Mars, which was established in the 1970s, and I said, "Oh, I don't believe that."
   translation:
-    text: 所以我開始相信這個黑項目傢伙告訴我的其他事情，那就是我們在火星上已經有一個基地，建立於1970年代，我說：「哦，我不相信。」
+    text: 所以我開始相信這個黑項目傢伙告訴我的其他事情，那就是我們在火星上已經有一個基地，建立於 1970 年代，我說：「哦，我不相信。」
     status: completed
     confidence: high
     notes: null
@@ -8352,7 +8352,7 @@ segments:
     end: 01:01:40,400
   source_text: He says, "Oh, go check the NASA records of the greenhouse gases from Mars' atmosphere.
   translation:
-    text: 他說：「哦，去查一下NASA關於火星大氣層溫室氣體的記錄。」
+    text: 他說：「哦，去查一下 NASA 關於火星大氣層溫室氣體的記錄。」
     status: completed
     confidence: high
     notes: null
@@ -8369,7 +8369,7 @@ segments:
     end: 01:01:42,240
   source_text: They increased in the 1970s."
   translation:
-    text: 它們在1970年代增加了。」
+    text: 它們在 1970 年代增加了。」
     status: completed
     confidence: high
     notes: null
@@ -8507,10 +8507,10 @@ segments:
     end: 01:02:11,720
   source_text: Thank you, Dr. Vallone.
   translation:
-    text: 謝謝，拉克博士。
+    text: 謝謝，瓦隆博士（Dr. Vallone）。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Dr. Lark 應為 Dr. Vallone（瓦隆博士方結束證詞），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8577,7 +8577,7 @@ segments:
     end: 01:03:08,760
   source_text: We don't know whether this is a multiverse, whether there are various time areas involved, but someone does know and I believe that at one time at the days of Majestic 12 and Eisenhower and Truman and so on and the state that the world was in, it was necessary to keep this a secret from the public.
   translation:
-    text: 我們不知道這是否是一個多元宇宙，是否涉及不同的時間區域，但有人確實知道，我相信在 majestic 12、艾森豪威爾和杜魯門等人的時代，以及當時世界的狀況下，有必要對公眾保密。
+    text: 我們不知道這是否是一個多元宇宙，是否涉及不同的時間區域，但有人確實知道，我相信在 Majestic 12 小組（MJ-12）、艾森豪威爾和杜魯門等人的時代，以及當時世界的狀況下，有必要對公眾保密。
     status: completed
     confidence: high
     notes: null
@@ -8666,10 +8666,10 @@ segments:
     end: 01:03:37,480
   source_text: We'll now go to Representative Bartlett.
   translation:
-    text: 我們現在請巴頓眾議員發言。
+    text: 我們現在請巴特利特眾議員（Bartlett）發言。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Barton 應為 Bartlett（Roscoe Bartlett，2013 聽證會小組成員），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9125,7 +9125,7 @@ segments:
     end: 01:06:23,120
   source_text: It's been estimated that every cubic centimeter of space in this room has enough energy to run the earth for a day if you could tap it properly through these systems.
   translation:
-    text: 據估計，這個房間中每立方公分的空間都有足夠的能量來運行地球一天，如果你能通過這些系統適當地利用它的話。
+    text: 據估計，這個房間中每立方公分的空間都有足夠的能量來運行地球一天，如果你能透過這些系統適當地利用它的話。
     status: completed
     confidence: high
     notes: null
@@ -9216,7 +9216,7 @@ segments:
     end: 01:07:14,520
   source_text: Okay, I don't know how much we know by reverse engineering these things, how much we know about that, but whatever we know about it, do you think that information is being made available to Stephen Hawking?
   translation:
-    text: 好的，我不知道我們通過反向工程這些東西了解了多少，我們對此了解多少，但無論我們了解什麼，您認為這些信息會提供給史蒂芬·霍金（Stephen Hawking）嗎？
+    text: 好的，我不知道我們透過反向工程這些東西了解了多少，我們對此了解多少，但無論我們了解什麼，您認為這些資訊會提供給史蒂芬·霍金（Stephen Hawking）嗎？
     status: completed
     confidence: high
     notes: null
@@ -9253,7 +9253,7 @@ segments:
     end: 01:07:26,600
   source_text: Do you think it's being, I hope it's being made available to them.
   translation:
-    text: 您認為這些信息會被，我希望這些信息會提供給他們。
+    text: 您認為這些資訊會被，我希望這些資訊會提供給他們。
     status: completed
     confidence: high
     notes: null
@@ -9379,7 +9379,7 @@ segments:
     end: 01:08:19,680
   source_text: That's what I tried to explain in my slideshow.
   translation:
-    text: 這就是我在幻燈片演示中試圖解釋的。
+    text: 這就是我在投影片演示中試圖解釋的。
     status: completed
     confidence: high
     notes: null
@@ -9396,7 +9396,7 @@ segments:
     end: 01:08:24,800
   source_text: I'd be glad to pull up slide 18 again and slide 17.
   translation:
-    text: 我很樂意再次調出第18張和第17張幻燈片。
+    text: 我很樂意再次調出第 18 張和第 17 張投影片。
     status: completed
     confidence: high
     notes: null
@@ -9413,7 +9413,7 @@ segments:
     end: 01:08:32,760
   source_text: This is a very important discovery that's been made, and I'm one of the few that have put these things together to describe 17, which is the inertial inertia.
   translation:
-    text: 這是一個非常重要的發現，而我是少數將這些東西整合在一起來描述第17點的人之一，那就是慣性。
+    text: 這是一個非常重要的發現，而我是少數將這些東西整合在一起來描述第 17 點的人之一，那就是慣性。
     status: completed
     confidence: high
     notes: null
@@ -9448,7 +9448,7 @@ segments:
     end: 01:08:41,880
   source_text: The slide you're looking at right here is slide 18, that's the conclusion of that.
   translation:
-    text: 您現在看到的這張幻燈片是第18張，這是該理論的結論。
+    text: 您現在看到的這張投影片是第 18 張，這是該理論的結論。
     status: completed
     confidence: high
     notes: null
@@ -9465,7 +9465,7 @@ segments:
     end: 01:08:56,720
   source_text: The previous one, 17, is the journal article that is probably front-page news and should be, because once inertia now is discovered to be an electromagnetic phenomenon, that's an exact breakthrough, in other words.
   translation:
-    text: 前一張，第17張，是那篇期刊文章，這可能是頭版新聞，也應該是，因為一旦慣性被發現是一種電磁現象，這就是一個確切的突破，換句話說。
+    text: 前一張，第 17 張，是那篇期刊文章，這可能是頭版新聞，也應該是，因為一旦慣性被發現是一種電磁現象，這就是一個確切的突破，換句話說。
     status: completed
     confidence: high
     notes: null
@@ -9484,7 +9484,7 @@ segments:
     end: 01:09:03,680
   source_text: If we go back one slide, the journal article obviously is something we need to refer to, because Hal Puthoff was responsible for that.
   translation:
-    text: 如果我們退回一張幻燈片，這篇期刊文章顯然是我們需要參考的，因為哈爾·普特夫（Hal Puthoff）對此負責。
+    text: 如果我們退回一張投影片，這篇期刊文章顯然是我們需要參考的，因為哈爾·普特夫（Hal Puthoff）對此負責。
     status: completed
     confidence: high
     notes: null
@@ -9502,10 +9502,10 @@ segments:
     end: 01:09:07,480
   source_text: Bernard Haisch, who I know personally, was also responsible, and they proved it.
   translation:
-    text: 我個人認識的伯尼·海斯（Bernie Hayes）也參與其中，而且他們證明了這一點。
+    text: 我個人認識的伯納德·海施（Bernard Haisch）也參與其中，而且他們證明了這一點。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Bernie Hayes 應為 Bernard Haisch（同 seg 239 慣性理論共同作者），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9519,7 +9519,7 @@ segments:
     end: 01:09:24,360
   source_text: They literally did stochastic electrodynamics to conclude that it's simply a Lorentz force, F equals V cross B. And if you know what I'm talking about, V cross B, velocity crossing with a magnetic field gives you a force, and you see that in electromagnetism.
   translation:
-    text: 他們實際上做了隨機電動力學研究，得出結論認為這僅僅是勞倫茲力（Lorentz force），F等於V叉乘B。如果您知道我在說什麼，V叉乘B，速度與磁場交叉會給你一個力，你在電磁學中可以看到這一點。
+    text: 他們實際上做了隨機電動力學研究，得出結論認為這僅僅是勞倫茲力（Lorentz force），F 等於 V 叉乘 B。如果您知道我在說什麼，V 叉乘 B，速度與磁場交叉會給你一個力，你在電磁學中可以看到這一點。
     status: completed
     confidence: high
     notes: null
@@ -9729,7 +9729,7 @@ segments:
     end: 01:10:27,300
   source_text: Dr. Greer, you mentioned 25-mile wide craft. 26. 26-mile wide craft, and you mentioned that you believe the military-industrial complex has a program of shooting them down.
   translation:
-    text: 格里爾博士，您提到了25英里寬的飛行器。26英里寬的飛行器，而且您提到您認為軍工複合體有一個將它們擊落的計劃。
+    text: 格里爾博士，您提到了 25 英里寬的飛行器。26 英里寬的飛行器，而且您提到您認為軍工複合體有一個將它們擊落的計劃。
     status: completed
     confidence: high
     notes: null
@@ -9818,7 +9818,7 @@ segments:
     end: 01:10:51,440
   source_text: And I think that we have to understand that $2.3 trillion in unaccounted funds in the military-industrial complex have resulted in some very strange things going on.
   translation:
-    text: 我認為我們必須明白，軍工複合體中有2.3萬億美元無法說明的資金，這導致了一些非常奇怪的事情正在發生。
+    text: 我認為我們必須明白，軍工複合體中有 2.3 萬億美元無法說明的資金，這導致了一些非常奇怪的事情正在發生。
     status: completed
     confidence: high
     notes: null
@@ -9930,10 +9930,10 @@ segments:
     end: 01:12:04,760
   source_text: And as Wernher von Braun stated in the last years of his life through our disclosure project witness Carol Rosin, that these sort of technologies are being deployed in this space and should not be.
   translation:
-    text: 正如沃納·馮·布勞恩（Werner von Braun）在他生命的最後幾年通過我們的揭露計畫（Disclosure Project）證人卡羅爾·羅辛（Carol Rosin）所說的，這類技術正在這個空間部署，但不應該如此。
+    text: 正如沃納·馮·布勞恩（Wernher von Braun）在他生命的最後幾年透過我們的揭露計畫（Disclosure Project）證人卡羅爾·羅辛（Carol Rosin）所說的，這類技術正在這個空間部署，但不應該如此。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Werner 應為 Wernher（標準拼寫）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9968,7 +9968,7 @@ segments:
     end: 01:12:27,880
   source_text: And these include the manufacturer at EG&G near the Nellis range of a number of implants.
   translation:
-    text: 這些包括在內利斯靶場（Nellis range）附近的EG&G公司製造的許多植入物（implants）。
+    text: 這些包括在內利斯靶場（Nellis range）附近的 EG&G 公司製造的許多植入物（implants）。
     status: completed
     confidence: high
     notes: null
@@ -9985,7 +9985,7 @@ segments:
     end: 01:12:35,440
   source_text: As you know from our witness, Mr. Pollock, who worked with the CIA, they were manufacturing up to two billion of these in the '70s and '80s.
   translation:
-    text: 正如您從我們的證人波洛克先生（Mr. Pollock）那裡知道的，他曾與CIA合作，他們在70年代和80年代製造了多達20億個這樣的植入物。
+    text: 正如您從我們的證人波洛克先生（Mr. Pollock）那裡知道的，他曾與 CIA 合作，他們在 70 年代和 80 年代製造了多達 20 億個這樣的植入物。
     status: completed
     confidence: high
     notes: null
@@ -10003,7 +10003,7 @@ segments:
     end: 01:12:37,600
   source_text: This interview is on YouTube.
   translation:
-    text: 這個訪談在YouTube上。
+    text: 這個訪談在 YouTube 上。
     status: completed
     confidence: high
     notes: null
@@ -10175,10 +10175,10 @@ segments:
     end: 01:13:09,120
   source_text: If I understand correctly, Linda Moulton Howe, George Knapp, Dolan, yourself, have had conversations with people deep in the military industrial complex who've told you things off the record privately.
   translation:
-    text: 如果我理解正確，琳達·莫爾頓-霍爾（Linda Moulton-Hal）、喬治·納普（George Knapp）、多蘭（Dolan）、還有您本人，都曾與軍工複合體深處的人交談過，他們私下裡非正式地告訴過您一些事情。
+    text: 如果我理解正確，琳達·莫爾頓·豪（Linda Moulton Howe）、喬治·納普（George Knapp）、多蘭（Dolan）、還有您本人，都曾與軍工複合體深處的人交談過，他們私下裡非正式地告訴過您一些事情。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Moulton-Hal 應為 Moulton Howe（同 seg 464），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10228,7 +10228,7 @@ segments:
     end: 01:13:29,320
   source_text: If the United States Congress, or what would you need, what do you feel they would need from the United States Congress in order to be able to feel safe testifying on 60 Minutes or somewhere?
   translation:
-    text: 如果是美國國會，或者您需要什麼，您認為他們需要從美國國會得到什麼，才能感到安全地在《60分鐘》或其他地方作證？
+    text: 如果是美國國會，或者您需要什麼，您認為他們需要從美國國會得到什麼，才能感到安全地在《60 分鐘》或其他地方作證？
     status: completed
     confidence: high
     notes: null
@@ -10317,7 +10317,7 @@ segments:
     end: 01:13:56,720
   source_text: As I mentioned, when ABC News wanted to do this, with 35 digital hours of top secret testimony, Ira Rosen was shot down by corporate ABC.
   translation:
-    text: 正如我所提到的，當ABC新聞想要這樣做時，帶著35小時數位化的最高機密（top secret）證詞，艾拉·羅森（Ira Rosen）被ABC公司否決了。
+    text: 正如我所提到的，當 ABC 新聞想要這樣做時，帶著 35 小時數位化的最高機密（top secret）證詞，艾拉·羅森（Ira Rosen）被 ABC 公司否決了。
     status: completed
     confidence: high
     notes: null
@@ -10352,7 +10352,7 @@ segments:
     end: 01:14:15,600
   source_text: The other question becomes, I think some of these people, and the briefing I put together for the president that went to him via John Podesta, Center for American Progress, was oriented towards getting those executive actions done, because we need federal, martial protection for some of these people.
   translation:
-    text: 另一個問題是，我認為這些人中的一些人，以及我為總統準備的通過約翰·波德斯達（John Podesta）轉交的簡報，美國進步中心（Center for American Progress），是為了推動那些行政行動的實施，因為我們需要聯邦的、軍事的保護來保護這些人中的一些人。
+    text: 另一個問題是，我認為這些人中的一些人，以及我為總統準備的透過約翰·波德斯達（John Podesta）轉交的簡報，美國進步中心（Center for American Progress），是為了推動那些行政行動的實施，因為我們需要聯邦的、軍事的保護來保護這些人中的一些人。
     status: completed
     confidence: high
     notes: null
@@ -10492,7 +10492,7 @@ segments:
     end: 01:14:45,560
   source_text: What I will say is that there's an enormous amount of actionable intelligence we have, and names can be provided, including members of this majestic committee with whom I've met.
   translation:
-    text: 我要說的是，我們掌握著大量可採取行動的情報，可以提供名字，包括我見過的這個majestic委員會的成員。
+    text: 我要說的是，我們掌握著大量可採取行動的情報，可以提供名字，包括我見過的這個 Majestic 委員會（MJ-12）的成員。
     status: completed
     confidence: high
     notes: null
@@ -10511,7 +10511,7 @@ segments:
     end: 01:14:47,600
   source_text: Many of them would like to see this information come out.
   translation:
-    text: 他們中的許多人希望看到這些信息被公開。
+    text: 他們中的許多人希望看到這些資訊被公開。
     status: completed
     confidence: high
     notes: null
@@ -10545,7 +10545,7 @@ segments:
     end: 01:14:59,760
   source_text: I think that this has become something that needs an FBI investigation, Congressional investigation, and subpoenas.
   translation:
-    text: 我認為這已經成為需要FBI調查、國會調查和傳票的事情。
+    text: 我認為這已經成為需要 FBI 調查、國會調查和傳票的事情。
     status: completed
     confidence: high
     notes: null
@@ -10754,7 +10754,7 @@ segments:
     end: 01:16:04,960
   source_text: One of my frustrations is knowing too many people and having too much information that I can't give actual intelligence on to the general public without violating ... I take this like a doctor with patient confidentiality, without protecting those people's confidentiality, but we have this information.
   translation:
-    text: 我的挫折之一是認識太多人，掌握太多信息，而我無法在不違反的情況下向公眾提供實際情報……我像醫生對待病人隱私一樣對待這些信息，如果不保護那些人的保密性，但我們確實有這些信息。
+    text: 我的挫折之一是認識太多人，掌握太多資訊，而我無法在不違反的情況下向公眾提供實際情報……我像醫生對待病人隱私一樣對待這些資訊，如果不保護那些人的保密性，但我們確實有這些資訊。
     status: completed
     confidence: high
     notes: null
@@ -10894,10 +10894,10 @@ segments:
     end: 01:16:24,120
   source_text: Thank you, Dr. Bookman.
   translation:
-    text: 謝謝您，伯克曼博士。
+    text: 謝謝您，布克曼博士（Dr. Bookman）。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Berkman 應為 Bookman（聽證會主持人約瑟夫·布克曼博士），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10911,10 +10911,10 @@ segments:
     end: 01:16:29,640
   source_text: We'll now go to Senator Gravel.
   translation:
-    text: 我們現在請格雷維爾參議員（Senator Grevelle）發言。
+    text: 我們現在請格拉維爾參議員（Gravel）發言。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Grevelle 應為 Gravel（前參議員 Mike Gravel），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10945,10 +10945,10 @@ segments:
     end: 01:17:19,160
   source_text: Dr. Wood referred to, if the black area has this knowledge, you've pointed out that whoever was the head of the CIA at the time shut the door on ... Dr. Vallone, we've heard testimony before about the fact that somebody was boasting from one of these black areas, which is these contractors that we have the capability to take ET back home.
   translation:
-    text: 伍德博士提到，如果黑區域擁有這些知識，您指出當時的CIA局長關閉了大門……瓦隆博士（Dr. Valone），我們之前聽到過證詞，有人從這些黑區域之一吹噓，這些承包商說我們有能力把外星人（ET）送回家。
+    text: 伍德博士提到，如果黑區域擁有這些知識，您指出當時的 CIA 局長關閉了大門……瓦隆博士（Dr. Vallone），我們之前聽到過證詞，有人從這些黑區域之一吹噓，這些承包商說我們有能力把外星人（ET）送回家。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Valone 應為 Vallone，轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11153,10 +11153,10 @@ segments:
     end: 01:17:54,960
   source_text: Because we go back to what Gravel was saying, that we have the capability of sharing this technology and freeing up the world to an unbelievable level.
   translation:
-    text: 因為我們回到格雷維爾博士所說的，我們有能力分享這項技術，並將世界解放到一個難以置信的水平。
+    text: 因為我們回到格拉維爾（Gravel）所說的，我們有能力分享這項技術，並將世界解放到一個難以置信的水平。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Dr. Grevelle 應為 Gravel（Mike Gravel），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11511,7 +11511,7 @@ segments:
     end: 01:18:48,340
   source_text: The sun's going down in 10 years, and it becomes free, and the public gets access to it.
   translation:
-    text: 太陽將在10年後落下，它變成公開的，公眾可以獲取它。
+    text: 太陽將在 10 年後落下，它變成公開的，公眾可以獲取它。
     status: completed
     confidence: high
     notes: null
@@ -11528,7 +11528,7 @@ segments:
     end: 01:18:49,600
   source_text: Right now, we have about 50 years.
   translation:
-    text: 現在，我們有大約50年。
+    text: 現在，我們有大約 50 年。
     status: completed
     confidence: high
     notes: null
@@ -11667,7 +11667,7 @@ segments:
     end: 01:19:26,520
   source_text: People who know this, I believe, as you said, have a moral obligation to our children and our grandchildren to step forward with the truth, with the technology, and with the information, because there is a criminal national security deep state that has basically thumbed its nose at the Constitution.
   translation:
-    text: 我相信，正如你所說，知道這些事情的人對我們的孩子和孫子孫女有道德義務，要站出來說出真相、技術和信息，因為存在一個犯罪的國家安全深層國家機器，它基本上蔑視憲法。
+    text: 我相信，正如你所說，知道這些事情的人對我們的孩子和孫子孫女有道德義務，要站出來說出真相、技術和資訊，因為存在一個犯罪的國家安全深層國家機器，它基本上蔑視憲法。
     status: completed
     confidence: high
     notes: null
@@ -11807,7 +11807,7 @@ segments:
     end: 01:19:57,160
   source_text: I was talking to the Deputy Director of the National Science Foundation, and I turned to him and I said, "We really need your help getting this information, this technology out."
   translation:
-    text: 我正在與國家科學基金會副主任交談，我轉向他說：「我們真的需要你的幫助來獲取這些信息，這些技術。」
+    text: 我正在與國家科學基金會副主任交談，我轉向他說：「我們真的需要你的幫助來獲取這些資訊，這些技術。」
     status: completed
     confidence: high
     notes: null
@@ -11999,7 +11999,7 @@ segments:
     end: 01:21:04,900
   source_text: I want to give one example, when the Pentagon Papers was sent over to the House and the Senate, they were put under guard and a member could only go in and read them and couldn't take any notes, and I was 42 years old.
   translation:
-    text: 我想舉一個例子，當五角大樓文件被送到眾議院和參議院時，它們被置於看守之下，議員只能進去閱讀，不能做任何筆記，那時我42歲。
+    text: 我想舉一個例子，當五角大樓文件被送到眾議院和參議院時，它們被置於看守之下，議員只能進去閱讀，不能做任何筆記，那時我 42 歲。
     status: completed
     confidence: high
     notes: null
@@ -12018,7 +12018,7 @@ segments:
     end: 01:21:09,320
   source_text: When I was 23 years old, I could classify top secret documents.
   translation:
-    text: 當我23歲時，我可以將文件歸類為最高機密（top secret）。
+    text: 當我 23 歲時，我可以將文件歸類為最高機密（top secret）。
     status: completed
     confidence: high
     notes: null
@@ -12086,7 +12086,7 @@ segments:
     end: 01:21:31,400
   source_text: The Congress was made moot, and the decision was made that any member of Congress can release any information of all these secrets, and it hasn't happened since 1972.
   translation:
-    text: 國會變得無關緊要，並且決定任何國會議員都可以發布所有這些秘密的任何信息，但自1972年以來這種情況就沒有發生過。
+    text: 國會變得無關緊要，並且決定任何國會議員都可以發布所有這些秘密的任何資訊，但自 1972 年以來這種情況就沒有發生過。
     status: completed
     confidence: high
     notes: null
@@ -12486,10 +12486,10 @@ segments:
     end: 01:23:34,240
   source_text: Now we'll go to Representative Kilpatrick.
   translation:
-    text: 現在我們請帕特里克眾議員發言。
+    text: 現在我們請基爾派翠克眾議員（Kilpatrick）發言。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Representative Patrick 應為 Kilpatrick；2026-08-24 人工看片確認發言者為基爾派翠克眾議員，ASR 誤轉錄
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -12622,10 +12622,10 @@ segments:
     end: 01:23:48,200
   source_text: I did see Sirius the other night, which is also way over my head, but I got parts of it.
   translation:
-    text: 我前幾天晚上確實看了《嚴肅》（Serious），這也遠遠超出我的理解，但我理解了一部分。
+    text: 我前幾天晚上確實看了《Sirius》，這也遠遠超出我的理解，但我理解了一部分。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 serious 應為 Sirius（2013 年 UFO 紀錄片，聽證會週放映），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -12796,7 +12796,7 @@ segments:
     end: 01:24:23,320
   source_text: You talked about removing 16 objects from people.
   translation:
-    text: 你談到了從人身上取出16個物體。
+    text: 你談到了從人身上取出 16 個物體。
     status: completed
     confidence: high
     notes: null
@@ -13003,7 +13003,7 @@ segments:
     end: 01:25:24,880
   source_text: I submitted to the committee a set of scientific documents that show some of the latest work and findings that we find in the material science of these objects, but I want to point out, too, to my shock, absolute shock, was a paper that was given to me through the Freedom of Information Act in which it describes all my work in the OSTP in the White House given to President Obama at the time he was trying to raise money for the medical care bill.
   translation:
-    text: 我向委員會提交了一套科學文件，展示了這些物體材料科學中的一些最新工作和發現，但我也想指出，令我震驚的是，絕對震驚的是，一份通過《信息自由法》給我的論文，其中描述了我在白宮OSTP的所有工作，當時奧巴馬總統正試圖為醫療法案籌集資金。
+    text: 我向委員會提交了一套科學文件，展示了這些物體材料科學中的一些最新工作和發現，但我也想指出，令我震驚的是，絕對震驚的是，一份透過《資訊自由法》給我的論文，其中描述了我在白宮科技政策辦公室（OSTP）的所有工作，當時歐巴馬總統正試圖為醫療法案籌集資金。
     status: completed
     confidence: high
     notes: null
@@ -13133,7 +13133,7 @@ segments:
     end: 01:26:38,240
   source_text: This is a very advanced nanotechnology.
   translation:
-    text: 這是一種非常先進的納米技術。
+    text: 這是一種非常先進的奈米技術。
     status: completed
     confidence: high
     notes: null
@@ -13150,7 +13150,7 @@ segments:
     end: 01:27:05,020
   source_text: These are nanotechnological devices in which nanocarbon tubes, either single or double wall, I won't go into the whole explanation, but they can be elongated and weaved into carbon nanofibers, carbon nanostrands, and they end in crystalline structures, which are what we call orthorhombic, which are regular rectangular structures.
   translation:
-    text: 這些是納米技術設備，其中納米碳管，無論是單壁還是雙壁，我不會詳細解釋，但它們可以伸長並編織成碳納米纖維、碳納米鏈，它們以晶體結構結束，我們稱之為正交晶系，這是規則的矩形結構。
+    text: 這些是奈米技術裝置，其中奈米碳管，無論是單壁還是雙壁，我不會詳細解釋，但它們可以伸長並編織成碳奈米纖維、碳奈米鏈，它們以晶體結構結束，我們稱之為正交晶系，這是規則的矩形結構。
     status: completed
     confidence: high
     notes: null
@@ -13170,10 +13170,10 @@ segments:
     end: 01:27:21,120
   source_text: And we have to remember that in the early days when I was a child, radio, and you got a crystal set with a battery and an earphone, and you were able to get a radio station, that was a marvel.
   translation:
-    text: 我們必須記得，在我小時候的早期，收音機，你有一個帶電池和空氣電話的礦石收音機，你能夠收到一個廣播電台，那是一個奇蹟。
+    text: 我們必須記得，在我小時候的早期，收音機，你有一個帶電池和耳機的礦石收音機，你能夠收到一個廣播電台，那是一個奇蹟。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 air phone 應為 earphone（礦石收音機用耳機收聽），轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -13189,7 +13189,7 @@ segments:
     end: 01:27:32,200
   source_text: So here's a very, very advanced, and when I say nanotechnological, I'm talking about things that are on a level of the size of an atom.
   translation:
-    text: 所以這裡有一個非常、非常先進的，當我說納米技術時，我說的是原子大小級別的東西。
+    text: 所以這裡有一個非常、非常先進的，當我說奈米技術時，我說的是原子大小級別的東西。
     status: completed
     confidence: high
     notes: null
@@ -13226,7 +13226,7 @@ segments:
     end: 01:28:06,840
   source_text: It could be scalar technology, which when reaches our electromagnetic spectrum is converted to a radio wave harmonic, which I know is a little bit complex, but it is sending information to somebody.
   translation:
-    text: 它可能是純量波（scalar waves）技術，當它到達我們的電磁頻譜時，會轉換為無線電波諧波，我知道這有點複雜，但它正在向某人發送信息。
+    text: 它可能是純量波（scalar waves）技術，當它到達我們的電磁頻譜時，會轉換為無線電波諧波，我知道這有點複雜，但它正在向某人發送資訊。
     status: completed
     confidence: high
     notes: null
@@ -13262,7 +13262,7 @@ segments:
     end: 01:28:30,260
   source_text: Now we know that even John Glenn, when he went into space originally, complained on public television that he had to swallow implants because this was vital information needed on the physiology of the body to know what was going on in space.
   translation:
-    text: 現在我們知道，即使是約翰·格倫，當他最初進入太空時，也在公共電視上抱怨說他必須吞下植入物，因為這是了解身體生理學以知道太空中發生了什麼的重要信息。
+    text: 現在我們知道，即使是約翰·格倫，當他最初進入太空時，也在公共電視上抱怨說他必須吞下植入物，因為這是了解身體生理學以知道太空中發生了什麼的重要資訊。
     status: completed
     confidence: high
     notes: null
@@ -13353,7 +13353,7 @@ segments:
     end: 01:29:16,680
   source_text: If we can bring up slide 25, I would like to show 25, 26, and 27 very quickly.
   translation:
-    text: 如果我們可以展示第25張幻燈片，我想很快地展示25、26和27。
+    text: 如果我們可以展示第 25 張投影片，我想很快地展示 25、26 和 27。
     status: completed
     confidence: high
     notes: null
@@ -13406,7 +13406,7 @@ segments:
     end: 01:29:51,440
   source_text: Based on the Arecibo message that was sent out in 1974, we all of a sudden have this amazing phenomenon that shows a scalar generator, antenna, right at the bottom of the diagram that copies.
   translation:
-    text: 根據1974年發送的阿雷西博信息（Arecibo message），我們突然有了這個驚人的現象，顯示了一個純量波發生器、天線，就在複製圖表的底部。
+    text: 根據 1974 年發送的阿雷西博訊息（Arecibo message），我們突然有了這個驚人的現象，顯示了一個純量波發生器、天線，就在複製圖表的底部。
     status: completed
     confidence: high
     notes: null
@@ -13425,7 +13425,7 @@ segments:
     end: 01:29:56,580
   source_text: This diagram actually is the original one that was sent out in 1974 from Arecibo.
   translation:
-    text: 這張圖實際上是1974年從阿雷西博發送的原始圖。
+    text: 這張圖實際上是 1974 年從阿雷西博發送的原始圖。
     status: completed
     confidence: high
     notes: null
@@ -13442,7 +13442,7 @@ segments:
     end: 01:30:04,760
   source_text: It's a digital message that was sent out with the most powerful telescope available at the time, thanks to Frank Drake's study program.
   translation:
-    text: 這是一條數字信息，是當時用最先進的望遠鏡發送的，感謝弗蘭克·德雷克的研究計劃。
+    text: 這是一則數位訊息，是當時用最先進的望遠鏡發送的，感謝弗蘭克·德雷克（Frank Drake）的研究計畫。
     status: completed
     confidence: high
     notes: null
@@ -13460,7 +13460,7 @@ segments:
     end: 01:30:22,760
   source_text: In what happened in 1990, I don't have the exact date here, 2001, August 2001, next slide, there was an appearance of the crop circle overnight right next to a radio telescope in Chilbolton, England.
   translation:
-    text: 在1990年發生的事情中，我這裡沒有確切的日期，2001年，2001年8月，下一張幻燈片，在英國奇爾波頓的一個射電望遠鏡旁邊，一夜之間出現了一個麥田圈。
+    text: 在 1990 年發生的事情中，我這裡沒有確切的日期，2001 年，2001 年 8 月，下一張投影片，在英國奇爾波頓的一個射電望遠鏡旁邊，一夜之間出現了一個麥田圈。
     status: completed
     confidence: high
     notes: null
@@ -13496,7 +13496,7 @@ segments:
     end: 01:30:32,120
   source_text: This thing had almost exactly the same one-to-one correspondence to the Arecibo message.
   translation:
-    text: 這個東西與阿雷西博信息幾乎完全一一對應。
+    text: 這個東西與阿雷西博訊息幾乎完全一一對應。
     status: completed
     confidence: high
     notes: null
@@ -13513,7 +13513,7 @@ segments:
     end: 01:30:35,600
   source_text: Slide 26, please, and then slide 27.
   translation:
-    text: 請看第26張幻燈片，然後是第27張。
+    text: 請看第 26 張投影片，然後是第 27 張。
     status: completed
     confidence: high
     notes: null
@@ -13530,7 +13530,7 @@ segments:
     end: 01:30:43,600
   source_text: And that's exactly what the thing looked like, the crop circle is just a bunch of crops that are down or up, and then the next one is 27.
   translation:
-    text: 這正是那東西看起來的樣子，麥田圈只是一堆倒下或立著的莊稼，然後下一張是27。
+    text: 這正是那東西看起來的樣子，麥田圈只是一堆倒下或立著的莊稼，然後下一張是 27。
     status: completed
     confidence: high
     notes: null
@@ -13548,7 +13548,7 @@ segments:
     end: 01:31:00,100
   source_text: And we see at the bottom of 27, instead of the Arecibo antenna, which is a parabolic dish, we're seeing something that looks like two circular objects that literally, it says a change in transmitter diameter from one of the online commentaries on Chilbolton.
   translation:
-    text: 我們在第27張的底部看到，而不是阿雷西博天線，那是一個拋物面天線，我們看到的是看起來像兩個圓形物體的東西，從字面上看，它說發射器直徑的變化，來自奇爾波頓的一篇在線評論。
+    text: 我們在第 27 張的底部看到，而不是阿雷西博天線，那是一個拋物面天線，我們看到的是看起來像兩個圓形物體的東西，從字面上看，它說發射器直徑的變化，來自奇爾波頓的一篇線上評論。
     status: completed
     confidence: high
     notes: null
@@ -13916,7 +13916,7 @@ segments:
     end: 01:32:46,280
   source_text: So on behalf of this Congresswoman, as I go about my day and catch my plane and hope it lands smoothly, doctors, that I can come back and be with you again.
   translation:
-    text: 所以代表這位國會女議員，當我結束今天的工作、趕搭飛機，並希望它平安降落時，醫生們，我希望能夠回來再次與你們相聚。
+    text: 所以代表這位國會女議員，當我結束今天的工作、趕搭飛機，並希望它平安降落時，博士們，我希望能夠回來再次與你們相聚。
     status: completed
     confidence: high
     notes: Congresswoman Kilpatrick 以第三人稱自稱 'this Congresswoman'，中文保持原意
@@ -14072,10 +14072,10 @@ segments:
     end: 01:33:22,600
   source_text: '[ Applause ]'
   translation:
-    text: '[掌聲]'
+    text: ［掌聲］
     status: completed
     confidence: high
-    notes: 音效標記保留原格式
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -14089,10 +14089,10 @@ segments:
     end: 01:33:25,900
   source_text: Yes, thank you, Congresswoman Kilpatrick.
   translation:
-    text: 是的，謝謝妳，基爾派翠克眾議員（Congresswoman Kilpatrick）。
+    text: 是的，謝謝你，基爾派翠克眾議員（Kilpatrick）。
     status: completed
     confidence: high
-    notes: 專有名詞首次出現保留英文並加註中文
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: '>>'
@@ -14123,7 +14123,7 @@ segments:
     end: 01:33:38,760
   source_text: Well, first of all, I'd like to say to the honorable representative from Michigan, you ma'am are a hero.
   translation:
-    text: 首先，我想對來自密西根州的尊貴代表說，女士，妳是一位英雄。
+    text: 首先，我想對來自密西根州的尊貴代表說，女士，你是一位英雄。
     status: completed
     confidence: high
     notes: null
@@ -14141,7 +14141,7 @@ segments:
     end: 01:33:48,240
   source_text: You're a hero, just as much as any of these witnesses, when we reached out to former members of Congress, the answer for many was, well, who else is going to be on that committee with me?
   translation:
-    text: 妳是一位英雄，就如同這些證人一樣。當我們聯繫前國會議員時，很多人的回答是：那麼還有誰會和我一起在那個委員會上？
+    text: 你是一位英雄，就如同這些證人一樣。當我們聯繫前國會議員時，很多人的回答是：那麼還有誰會和我一起在那個委員會上？
     status: completed
     confidence: high
     notes: null
@@ -14177,7 +14177,7 @@ segments:
     end: 01:33:55,120
   source_text: You agreed to do this not knowing any of that.
   translation:
-    text: 妳在完全不知道這些情況下就同意這樣做。
+    text: 你在完全不知道這些情況下就同意這樣做。
     status: completed
     confidence: high
     notes: null
@@ -14194,7 +14194,7 @@ segments:
     end: 01:33:59,800
   source_text: You stood up and said, "Yes, I'll do it," and opened the space for everyone else to be here.
   translation:
-    text: 妳站出來說：『是的，我願意做。』為其他人來到這裡開闢了空間。
+    text: 你站出來說：「是的，我願意做。」為其他人來到這裡開闢了空間。
     status: completed
     confidence: high
     notes: null
@@ -14212,7 +14212,7 @@ segments:
     end: 01:34:01,800
   source_text: Before you leave, I wanted to share that with you.
   translation:
-    text: 在妳離開之前，我想與妳分享這番話。
+    text: 在你離開之前，我想與你分享這番話。
     status: completed
     confidence: high
     notes: null
@@ -14229,7 +14229,7 @@ segments:
     end: 01:34:08,800
   source_text: So, you ma'am are our John Glenn, first one up to orbit the earth.
   translation:
-    text: 所以，女士，妳就是我們的約翰·葛倫（John Glenn），第一位繞地球軌道飛行的人。
+    text: 所以，女士，你就是我們的約翰·格倫（John Glenn），第一位繞地球軌道飛行的人。
     status: completed
     confidence: high
     notes: John Glenn 為美國首位繞地球軌道飛行的太空人，此處為比喻用法
@@ -14246,7 +14246,7 @@ segments:
     end: 01:34:09,800
   source_text: Thank you.
   translation:
-    text: 謝謝妳。
+    text: 謝謝你。
     status: completed
     confidence: high
     notes: null
@@ -14297,10 +14297,10 @@ segments:
     end: 01:34:23,160
   source_text: '[ Silence ]'
   translation:
-    text: '[靜默]'
+    text: ［靜默］
     status: completed
     confidence: high
-    notes: 音效標記保留原格式
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null

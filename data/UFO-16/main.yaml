@@ -179,7 +179,7 @@ segments:
     end: 00:00:58,560
   source_text: You'll each have 12 minutes.
   translation:
-    text: 各位每人有12分鐘。
+    text: 各位每人有 12 分鐘。
     status: completed
     confidence: high
     notes: null
@@ -196,7 +196,7 @@ segments:
     end: 00:01:00,800
   source_text: So if you take all 12 at once, that's okay.
   translation:
-    text: 所以如果你一次用完12分鐘，沒問題。
+    text: 所以如果你一次用完 12 分鐘，沒問題。
     status: completed
     confidence: high
     notes: null
@@ -213,7 +213,7 @@ segments:
     end: 00:01:04,280
   source_text: If you want to take six and then six later, you can do that.
   translation:
-    text: 如果你想先用6分鐘，之後再用6分鐘，也可以。
+    text: 如果你想先用 6 分鐘，之後再用 6 分鐘，也可以。
     status: completed
     confidence: high
     notes: null
@@ -370,7 +370,7 @@ segments:
     end: 00:02:10,320
   source_text: I mean, you yourselves have been dealing with American governments like the documents like the one about Peru and things like that.
   translation:
-    text: 我的意思是，各位自己也處理過美國政府的文件，像是關於祕魯的那份文件之類的。
+    text: 我的意思是，各位自己也處理過美國政府的文件，像是關於秘魯的那份文件之類的。
     status: completed
     confidence: high
     notes: null
@@ -388,7 +388,7 @@ segments:
     end: 00:02:15,800
   source_text: So the U.S. was actually the first country to release UFO files, just for the record, I want to make that.
   translation:
-    text: 所以美國其實是第一個公開UFO檔案的國家，我想把這一點列入記錄。
+    text: 所以美國其實是第一個公開 UFO 檔案的國家，我想把這一點列入記錄。
     status: completed
     confidence: high
     notes: null
@@ -457,7 +457,7 @@ segments:
     end: 00:02:40,800
   source_text: You know, the Freedom of Information Act, as you know, had been amended as a result of the Watergate scandal where you could sue the government, and then it occurred to some people that because there had been these rumors that the CIA and other agencies had been involved in ufology.
   translation:
-    text: 如各位所知，資訊自由法（Freedom of Information Act）在水門事件後經過修正，允許人民起訴政府，然後有些人想到，既然一直有傳聞說CIA和其他機構涉及UFO研究。
+    text: 如各位所知，資訊自由法（FOIA）在水門事件後經過修正，允許人民起訴政府，然後有些人想到，既然一直有傳聞說 CIA 和其他機構涉及 UFO 研究。
     status: completed
     confidence: high
     notes: null
@@ -477,7 +477,7 @@ segments:
     end: 00:02:46,420
   source_text: For years, the U.S. had said that only Blue Book, that's the only thing they had ever done about UFOs.
   translation:
-    text: 多年來，美國一直聲稱只有藍皮書計畫（Blue Book），那是他們在UFO方面唯一做過的事。
+    text: 多年來，美國一直聲稱只有藍皮書計畫（Blue Book），那是他們在 UFO 方面唯一做過的事。
     status: completed
     confidence: high
     notes: null
@@ -495,7 +495,7 @@ segments:
     end: 00:03:02,600
   source_text: So there was a famous lawsuit around 1977 against the CIA for their files on UFOs because there was many indications that they had done this thing called the Robertson Panel in 1953, a scientific conference on UFOs.
   translation:
-    text: 所以在1977年左右，有一場著名的訴訟案，起訴CIA公開UFO檔案，因為有很多跡象顯示他們在1953年舉辦過一場叫做羅伯森調查小組（Robertson Panel）的UFO科學會議。
+    text: 所以在 1977 年左右，有一場著名的訴訟案，起訴 CIA 公開 UFO 檔案，因為有很多跡象顯示他們在 1953 年舉辦過一場叫做羅伯森調查小組（Robertson Panel）的 UFO 科學會議。
     status: completed
     confidence: high
     notes: null
@@ -514,7 +514,7 @@ segments:
     end: 00:03:07,000
   source_text: And there was a group forum called Citizens Against UFO Secrecy back in those days.
   translation:
-    text: 當時有個組織叫做反UFO保密公民組織（Citizens Against UFO Secrecy，簡稱CAUS）。
+    text: 當時有個組織叫做反 UFO 保密公民組織（Citizens Against UFO Secrecy，簡稱 CAUS）。
     status: completed
     confidence: high
     notes: null
@@ -531,7 +531,7 @@ segments:
     end: 00:03:29,720
   source_text: I know this story very well because that's when I was getting started as a journalist in the subject, and they sued the CIA, you know, because the law had been amended and now you could -- in the old days, you were at the mercy of the government, like the British used to be, too, until they passed the similar law where basically the government would release what they pleased and you had no recourse.
   translation:
-    text: 我很清楚這段故事，因為那正是我開始從事這個主題的新聞報導工作的時候。他們起訴了CIA，因為法律已經修正，現在人民可以這麼做了——在過去，你只能任由政府擺布，英國以前也是這樣，直到他們通過類似的法律之前，基本上政府想公開什麼就公開什麼，你毫無辦法。
+    text: 我很清楚這段故事，因為那正是我開始從事這個主題的新聞報導工作的時候。他們起訴了 CIA，因為法律已經修正，現在人民可以這麼做了——在過去，你只能任由政府擺布，英國以前也是這樣，基本上政府想公開什麼就公開什麼，你毫無辦法，直到他們通過了類似的法律為止。
     status: completed
     confidence: high
     notes: null
@@ -569,7 +569,7 @@ segments:
     end: 00:03:41,560
   source_text: And so this group sued the CIA, and the CIA knew that they were going to lose the case because there was enough evidence about at least the Robertson Panel.
   translation:
-    text: 於是這個組織起訴了CIA，而CIA知道他們會輸掉官司，因為至少關於羅伯森調查小組的證據已經足夠。
+    text: 於是這個組織起訴了 CIA，而 CIA 知道他們會輸掉官司，因為至少關於羅伯森調查小組的證據已經足夠。
     status: completed
     confidence: high
     notes: null
@@ -587,7 +587,7 @@ segments:
     end: 00:03:50,840
   source_text: So rather than go to court and be humiliated by a judge, they decided to, you know, cut their losses and they released 1,000 pages of documents.
   translation:
-    text: 所以與其上法庭被法官羞辱，他們決定止損，公開了1，000頁文件。
+    text: 所以與其上法庭被法官羞辱，他們決定止損，公開了 1,000 頁文件。
     status: completed
     confidence: high
     notes: null
@@ -622,7 +622,7 @@ segments:
     end: 00:03:55,480
   source_text: I mean, it was on the New York Times, on the Washington Post.
   translation:
-    text: 我是說，紐約時報、華盛頓郵報都報導了。
+    text: 我是說，《紐約時報》、《華盛頓郵報》都報導了。
     status: completed
     confidence: high
     notes: null
@@ -656,7 +656,7 @@ segments:
     end: 00:04:12,280
   source_text: But now there's kind of an amnesia, you know, within -- and this -- partly the UFO community themselves are guilty for this because it's kind of politically correct to always criticize the U.S. government and say that the foreign governments are great.
   translation:
-    text: 但現在似乎有種失憶症，而且UFO社群本身也對此有責任，因為批評美國政府、讚揚外國政府似乎在政治上比較正確。
+    text: 但現在似乎有種失憶症，而且 UFO 社群本身也對此有責任，因為批評美國政府、讚揚外國政府似乎在政治上比較正確。
     status: completed
     confidence: high
     notes: null
@@ -778,7 +778,7 @@ segments:
     end: 00:04:38,600
   source_text: And then that was followed by the FBI that released their files with -- they're currently in a thing called the Vault, and they're online.
   translation:
-    text: 接著是FBI公開了他們的檔案——目前在一個叫做FBI文件庫（The Vault）的網站上，可以線上查閱。
+    text: 接著是 FBI 公開了他們的檔案——目前在一個叫做 FBI 文件庫（The Vault）的網站上，可以線上查閱。
     status: completed
     confidence: high
     notes: null
@@ -972,8 +972,8 @@ segments:
   translation:
     text: 威爾。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文語境不明，疑為轉錄錯誤（或為 Well，或為對某人之稱呼），無音頻可查，照字面保留
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1008,7 +1008,7 @@ segments:
     text: 沒有人公開真正的檔案，我們想看的那種檔案。
     status: completed
     confidence: medium
-    notes: 原文'file files'疑似為'hiding files'的轉錄錯誤，但依原文翻譯
+    notes: 原文 Everybody's releasing file files 疑為 Nobody's releasing the real files 之轉錄錯誤；依上文（各國只公開目擊檔案）語境譯為否定句，已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1127,7 +1127,7 @@ segments:
     end: 00:06:51,000
   source_text: However, generally speaking, that through our work, and if we disclose all those UFO information or ET information, it's going to benefit the whole humankind.
   translation:
-    text: 然而，一般而言，透過我們的工作，如果我們公開所有UFO資訊或外星資訊，將造福全人類。
+    text: 然而，一般而言，透過我們的工作，如果我們公開所有 UFO 資訊或外星資訊，將造福全人類。
     status: completed
     confidence: high
     notes: null
@@ -1145,7 +1145,7 @@ segments:
     end: 00:07:05,280
   source_text: However, every government considers UFOs as top secrets of defense secrets, defense classification, and all the national security.
   translation:
-    text: 然而，每個政府都將UFO視為最高機密、國防機密、國防分類以及國家安全議題。
+    text: 然而，每個政府都將 UFO 視為最高機密、國防機密、國防分類以及國家安全議題。
     status: completed
     confidence: high
     notes: null
@@ -1163,7 +1163,7 @@ segments:
     end: 00:07:11,240
   source_text: If they treat the issues as UFO issues, purely UFO issues, that would be much easier.
   translation:
-    text: 如果他們把這些議題當作UFO議題，純粹的UFO議題來處理，會容易得多。
+    text: 如果他們把這些議題當作 UFO 議題，純粹的 UFO 議題來處理，會容易得多。
     status: completed
     confidence: high
     notes: null
@@ -1233,7 +1233,7 @@ segments:
     end: 00:08:03,120
   source_text: Surely as the most important world power, the United States feel a particular responsibility, and they surely fear that the UFO problem may cause a sort of uncontrollable reaction in the general public.
   translation:
-    text: 作為最重要的世界強權，美國肯定感到一種特殊的責任，他們肯定擔心UFO問題可能在公眾中引起某種無法控制的反應。
+    text: 作為最重要的世界強權，美國肯定感到一種特殊的責任，他們肯定擔心 UFO 問題可能在公眾中引起某種無法控制的反應。
     status: completed
     confidence: high
     notes: null
@@ -1273,7 +1273,7 @@ segments:
     text: 但我確信，既然已經不可能再掩蓋這些事情，美國在不久的將來將被迫採取行動。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 uncover 依語境應為講者意指「掩蓋」（cover up），非英語母語講者之口語用法，依語意翻譯
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1288,10 +1288,10 @@ segments:
     end: 00:08:38,560
   source_text: Those consider that the world power, who will have the courage to say things as they were, will be considered much more than all the others.
   translation:
-    text: 那些認為世界強權若有勇氣如實陳述事情真相，將比其他所有國家更受重視。
+    text: 世界強權若有勇氣如實陳述事情真相，將比其他所有國家更受重視。
     status: completed
     confidence: medium
-    notes: 原文語法略顯混亂，盡力保持原意
+    notes: 原文語法破碎（Those consider that the world power, who...），依語意重組
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1374,10 +1374,10 @@ segments:
     end: 00:08:59,480
   source_text: Dr. Bartlett.
   translation:
-    text: 巴特萊特博士。
+    text: 巴特利特博士。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：從主表與 UFO-15 定譯（羅斯科·巴特利特）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1717,10 +1717,10 @@ segments:
     end: 00:10:13,560
   source_text: Then two years later, Ben Rich, who ran Lockheed Skunk Works, and I can remind the Congress that you guys funded all these operations, the U-2, the SR-71, the stealth fighter, the stealth bomber, the drones.
   translation:
-    text: 兩年後，也就是班·里奇（Ben Rich）領導洛克希德臭鼬工廠的時期，我可以提醒國會各位，你們資助了所有這些行動——U-2、SR-71、匿蹤戰鬥機、匿蹤轟炸機、無人機。
+    text: 兩年後，也就是班·里奇（Ben Rich）領導洛克希德臭鼬工廠的時期，我可以提醒國會各位，你們資助了所有這些計畫——U-2、SR-71、匿蹤戰鬥機、匿蹤轟炸機、無人機。
     status: completed
     confidence: high
-    notes: Ben Rich 依照 terminology.yaml 翻譯為「班·里奇」，Lockheed Skunk Works 翻譯為「洛克希德臭鼬工廠」
+    notes: Ben Rich 依照 terminology.yaml 翻譯為「班·里奇」，Lockheed Skunk Works 翻譯為「洛克希德臭鼬工廠」；operations 指機型研發計畫
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1787,10 +1787,10 @@ segments:
     end: 00:10:28,200
   source_text: And he says, "We now have the technology to take ET home.
   translation:
-    text: 他說：「我們現在已經擁有將 ET 送回家的技術。
+    text: 他說：「我們現在已經擁有把 ET 帶回家的技術。
     status: completed
     confidence: high
-    notes: ET (外星人) 保留原文
+    notes: ET（外星人）保留原文；同 UFO-03 定譯「把 ET 帶回家的技術」
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1804,10 +1804,10 @@ segments:
     end: 00:10:35,840
   source_text: We've discovered the mistake in the equation, and it's going to take an act of God to get this thing out of Congress because it's so deep black."
   translation:
-    text: 我們已經發現了方程式中的錯誤，但要讓國會公開這項技術需要神蹟，因為這太過機密了。」
+    text: 我們已經發現了方程式中的錯誤，但除非奇蹟發生，否則這件事不可能突破國會的封鎖，因為它屬於極深層的黑預算。」
     status: completed
     confidence: high
-    notes: deep black 指極度機密的黑色計畫
+    notes: act of God 意為奇蹟、非人力所能及之事；deep black 指最高層級的黑預算機密（同 UFO-04 定譯）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2285,10 +2285,10 @@ segments:
     end: 00:12:45,840
   source_text: That was in the French report about the Trans-en-Provence case, yes, and I think they had found it if they can show the slide of the Rockefeller from the briefing document.
   translation:
-    text: 是的，這是在法國關於特朗桑普羅旺斯案（Trans-en-Provence case）的報告中提到的，如果他們能展示洛克菲勒簡報文件中的投影片，我想他們已經找到了。
+    text: 是的，這是在法國關於普羅旺斯特朗案（Trans-en-Provence）的報告中提到的，如果他們能展示洛克菲勒簡報文件中的投影片，我想他們已經找到了。
     status: completed
     confidence: high
-    notes: 原文 Trans Improvance 為轉錄錯誤，正確為 Trans-en-Provence，依照 topics.json potential_errors 修正
+    notes: 校稿：普羅旺斯特朗從 UFO-15 定譯；main.yaml 本段原文已正確（Trans-en-Provence）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2354,10 +2354,10 @@ segments:
     end: 00:13:01,600
   source_text: So this is the landing case in the farmers' field in Trans-en-Provence in 1981.
   translation:
-    text: 這是 1981 年特朗桑普羅旺斯農田中的降落案例。
+    text: 這是 1981 年普羅旺斯特朗農田中的降落案例。
     status: completed
     confidence: high
-    notes: 原文 Trans Improvance 為轉錄錯誤，正確為 Trans-en-Provence
+    notes: 校稿：原文 Trans Improvance 應為 Trans-en-Provence（main.yaml 本段原文未修，已補錄 topics.json）；普羅旺斯特朗從 UFO-15 定譯
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2423,10 +2423,10 @@ segments:
     end: 00:13:30,680
   source_text: Also, since you had asked about the near collision, I might as well add that that's, as I explained in this morning's testimony, that again was one of the main reasons of the Chilean committee, the CEFAA, to ensure air safety operations.
   translation:
-    text: 另外，既然您問到了險些相撞的問題，我不妨補充一點，正如我在今天上午的證詞中所解釋的，這正是智利空中現象研究委員會（CEFA）成立的主要原因之一——確保航空安全作業。
+    text: 另外，既然您問到了險些相撞的問題，我不妨補充一點，正如我在今天上午的證詞中所解釋的，這正是智利異常空中現象研究委員會（CEFAA）成立的主要原因之一——確保航空安全作業。
     status: completed
     confidence: high
-    notes: CEFA 依照 terminology.yaml 翻譯為「智利空中現象研究委員會（CEFA）」
+    notes: 校稿：原文 CEFA 應為 CEFAA（沿用 UFO-13 人工裁決；main.yaml 本段原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2587,7 +2587,7 @@ segments:
     text: 當然，那次並非險些相撞，但 2006 年芝加哥歐海爾機場（O'Hare Airport）也有一起類似的著名案例，我記得是那一年，相當重要，在美國航空的航廈附近目擊到。
     status: completed
     confidence: high
-    notes: 原文 O'Hara 為轉錄錯誤，正確為 O'Hare Airport，依照 topics.json potential_errors 修正
+    notes: 校稿：main.yaml 本段原文已正確（O'Hare Airport）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2746,7 +2746,7 @@ segments:
     end: 00:15:51,260
   source_text: I don't...
   translation:
-    text: 我不⋯⋯
+    text: 我不……
     status: completed
     confidence: high
     notes: null
@@ -2867,7 +2867,7 @@ segments:
     end: 00:16:25,000
   source_text: He was the pilot that...same thing, this huge UFO object was flying over Tehran.
   translation:
-    text: 他就是那位飛行員⋯⋯同樣的情況，一個巨大的 UFO 在德黑蘭上空飛行。
+    text: 他就是那位飛行員……同樣的情況，一個巨大的 UFO 在德黑蘭上空飛行。
     status: completed
     confidence: high
     notes: null
@@ -3182,7 +3182,7 @@ segments:
     text: 如果這些東西真的能偏轉子彈而不受影響，那麼它們某種程度上也許能吸收雷達波而沒有反射？
     status: completed
     confidence: high
-    notes: 原文 absorb bullets 為轉錄錯誤，正確為 deflect bullets（偏轉子彈），依照 topics.json potential_errors 修正
+    notes: 校稿：main.yaml 本段原文已正確（deflect bullets）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3388,10 +3388,10 @@ segments:
     end: 00:18:51,800
   source_text: And even blackouts have been, in many cases, of power blackouts.
   translation:
-    text: 甚至在許多停電案例中，都曾發生停電。
+    text: 還有停電——許多停電案例都曾與 UFO 目擊有所關聯。
     status: completed
     confidence: medium
-    notes: 此句原文有些重複，意思是許多停電案例與 UFO 有關
+    notes: 原文句構重複破碎（And even blackouts have been, in many cases, of power blackouts），依語意整理
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3565,7 +3565,7 @@ segments:
     end: 00:20:11,320
   source_text: Is there any—what are the suggestions as to what the energy source is that these craft use?
   translation:
-    text: 關於這些飛行器使用的能源是什麼，有任何建議嗎？
+    text: 關於這些飛行器使用的能源是什麼，目前有任何說法嗎？
     status: completed
     confidence: high
     notes: null
@@ -3875,10 +3875,10 @@ segments:
     end: 00:21:09,600
   source_text: Wilbert Smith was the minister of—or one of the—worked for the Ministry of Transport.
   translation:
-    text: 威爾伯特·史密斯是部長——或者說——在交通部工作。
+    text: 威爾伯特·史密斯是部長——或者說——在加拿大交通部工作。
     status: completed
     confidence: high
-    notes: null
+    notes: 講者口誤後自我修正；此處指加拿大交通部
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3892,7 +3892,7 @@ segments:
     end: 00:21:15,120
   source_text: He was a senior radio engineer, and he later became superintendent of radio regulations for the Department of Transport.
   translation:
-    text: 他是一位資深無線電工程師，後來成為交通部無線電法規監理主管。
+    text: 他是一位資深無線電工程師，後來擔任加拿大交通部無線電法規監理主管。
     status: completed
     confidence: high
     notes: null
@@ -4218,7 +4218,7 @@ segments:
     end: 00:22:23,480
   source_text: And then I'm going to ask, in fact—or let me put any kind of ET association or body-found association.
   translation:
-    text: 然後我要問，事實上——或者讓我換個說法，任何類型的外星關聯或發現屍體的關聯。
+    text: 然後我要問，事實上——或者讓我換個說法，任何類型的外星關聯或發現遺體的關聯。
     status: completed
     confidence: high
     notes: null
@@ -4270,10 +4270,10 @@ segments:
     end: 00:22:40,620
   source_text: The best we would have is the question that Wilbur, in his files, asked to Dr. Robert Sarbacher in Washington in 1950 about the validity of the Crash Saucer book released in 1950, and he gets the response.
   translation:
-    text: 我們擁有的最佳證據，是威爾伯在他的檔案中記錄的內容——他於 1950 年在華盛頓向羅伯特·薩巴赫博士（Dr. Robert Sarbacher）詢問 1950 年出版的《墜毀飛碟》一書的真實性，並得到了回應。
+    text: 我們擁有的最佳證據，是威爾伯特在他的檔案中記錄的內容——他於 1950 年在華盛頓向羅伯特·薩巴赫博士（Dr. Robert Sarbacher）詢問 1950 年出版的《Crash Saucer》一書的真實性，並得到了回應。
     status: completed
     confidence: high
-    notes: 原文轉錄為 'Dr. Robert Saubacher'，正確應為 'Dr. Robert Sarbacher'（羅伯特·薩巴赫博士），已修正翻譯
+    notes: 校稿：威爾伯特從主表統一；書名保留原文（UFO-15 先例）；main.yaml 本段原文已正確（Sarbacher）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4306,10 +4306,10 @@ segments:
     end: 00:22:45,960
   source_text: Now, Wilbert had a lot of interaction.
   translation:
-    text: 威爾伯當時有很多互動。
+    text: 威爾伯特當時有很多互動。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：原文 Wilbur 應為 Wilbert（主表定譯威爾伯特；同 UFO-15 誤聽先例）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4374,7 +4374,7 @@ segments:
     end: 00:23:13,920
   source_text: But in terms of an actual document, in terms of the actual material that's the hardest evidence is the material that he got from the Americans in 1950, which he used to write the top-secret memo, which he sent to the Deputy Minister of the Department of Transport asking for funds to research propulsion, of UFO propulsion.
   translation:
-    text: 但就實際文件而言，就實際資料而言，最有力的證據是他在 1950 年從美國人那裡取得的資料，他用這些資料撰寫了最高機密備忘錄，並將其呈交給交通部副部長，申請資金研究 UFO 推進系統。
+    text: 但就實際文件而言，就實際資料而言，最有力的證據是他在 1950 年從美國人那裡取得的資料，他用這些資料撰寫了最高機密備忘錄，並將其呈交給加拿大交通部副部長，申請資金研究 UFO 推進系統。
     status: completed
     confidence: high
     notes: top-secret 依照 terminology.yaml 翻譯為「最高機密」
@@ -4397,7 +4397,7 @@ segments:
     text: 他獲得了授權，該計畫一直持續到 1954 年，當時發生了飛碟觀測站上空飛越事件，他們隨後關閉了計畫並發表聲明。
     status: completed
     confidence: high
-    notes: Flying Saucer 依照 terminology.yaml 翻譯為「飛碟」
+    notes: 校稿：made the statement 指官方否認聲明，接續下兩段引言（這沒什麼、毫無根據）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4446,10 +4446,10 @@ segments:
     end: 00:23:41,440
   source_text: But the document—in other words, the best evidence of a body found is what was spoken between Dr. Sarbacher and Wilbert Smith.
   translation:
-    text: 但這份文件——換句話說，發現屍體的最佳證據是羅伯特·薩巴赫博士與威爾伯特·史密斯之間的談話內容。
+    text: 但這份文件——換句話說，發現遺體的最佳證據是羅伯特·薩巴赫博士與威爾伯特·史密斯之間的談話內容。
     status: completed
     confidence: high
-    notes: 原文轉錄為 'Dr. Saubacher'，正確應為 'Dr. Sarbacher'
+    notes: 校稿：原文 Dr. Saubacher 應為 Dr. Sarbacher（main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4498,10 +4498,10 @@ segments:
     end: 00:24:04,360
   source_text: Well, it's in the—I released to you today Smith's handwritten interview of the interview that he did in 1950, and it's later substantiated by Robert Sarbacher, who says there were reports of instruments or people operating these machines, because he was questioned after Wilbur Smith died.
   translation:
-    text: 嗯，它在——我今天向各位公開了史密斯親筆記錄的 1950 年訪談筆記，後來羅伯特·薩巴赫證實了這些內容，他說有關於儀器或操作這些機器的人的報告，因為他是在威爾伯·史密斯去世後被詢問的。
+    text: 嗯，它在——我今天向各位公開了史密斯親筆記錄的 1950 年訪談筆記，後來羅伯特·薩巴赫證實了這些內容，他說曾有報告提到操作這些機器的儀器或人員，因為他是在威爾伯特·史密斯去世後被詢問的。
     status: completed
     confidence: high
-    notes: 原文轉錄為 'Robert Saubacher'，正確應為 'Robert Sarbacher'（羅伯特·薩巴赫博士）
+    notes: 校稿：原文 Robert Saubacher 應為 Robert Sarbacher、Wilbur 應為 Wilbert（main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4518,10 +4518,10 @@ segments:
     end: 00:24:13,360
   source_text: People like Stanton Friedman started looking for him, and he says, "I remember in talking with some of the people in the office that they got the impression that these aliens were constructed."
   translation:
-    text: 像史坦頓·弗里德曼（Stanton Friedman）這樣的人開始尋找他，他說：「我記得在與辦公室裡的一些人交談時，他們得到的印象是這些外星人是被建造出來的。」
+    text: 像斯坦頓·弗里德曼（Stanton Friedman）這樣的人開始尋找他，他說：「我記得在與辦公室裡的一些人交談時，他們得到的印象是這些外星人是被建造出來的。」
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：斯坦頓從 UFO-02 定譯
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4572,10 +4572,10 @@ segments:
     end: 00:24:33,040
   source_text: So Sarbacher confirms the fact that he talked to Smith in 1950, and that he confirms in the letter that there were alien bodies involved.
   translation:
-    text: 所以薩巴赫證實了他在 1950 年與史密斯交談的事實，他在信中證實了涉及外星屍體。
+    text: 所以薩巴赫證實了他在 1950 年與史密斯交談的事實，他在信中證實了涉及外星存有遺體。
     status: completed
     confidence: high
-    notes: 原文轉錄為 'Saubacher'，正確應為 'Sarbacher'（薩巴赫）
+    notes: 校稿：原文 Saubacher 應為 Sarbacher（main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4676,10 +4676,10 @@ segments:
     end: 00:25:12,880
   source_text: To Nick Pope, I'd like to ask you, while you were working in the Ministry of Defense in the UK, did any of your superiors tell you that part of your job is to ridicule English citizens or any UK citizen who had maybe filed a report or a sighting that was legitimate?
   translation:
-    text: 尼克·波普（Nick Pope），我想問您，當您在英國國防部工作時，是否有上級告訴您，您的工作之一就是嘲笑那些提交了可能合法的目擊報告的英國公民？
+    text: 尼克·波普（Nick Pope），我想問您，當您在英國國防部工作時，是否有上級告訴您，您的工作之一就是嘲笑那些提交了正當目擊報告的英國公民？
     status: completed
     confidence: high
-    notes: Nick Pope 和 Ministry of Defense 依照 terminology.yaml 翻譯；siding 疑似為 sighting 的轉錄錯誤
+    notes: 校稿：原文 siding 應為 sighting（main.yaml 原文未修，已補錄 topics.json）；英國國防部從 UFO-15 先例
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4786,7 +4786,7 @@ segments:
     text: 孫式立博士（Dr. Sun Shili），您說了我認為非常有趣的事情——您說中國的大多數人民絕對相信的不僅是 UFO，還相信 UFO 來自外星，他們相信外星人的存在。
     status: completed
     confidence: high
-    notes: 原文轉錄為 'Dr. Sheila'，正確應為 'Dr. Sun Shili'（孫式立博士）；extraterrestrial 依照 terminology.yaml 翻譯為「外星的」
+    notes: 校稿：main.yaml 本段原文已正確（Dr. Sun Shili）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4889,10 +4889,10 @@ segments:
     end: 00:26:59,480
   source_text: The Phoenix Mountain event, the Faxiang trapeze event, the Beijing Sokong event, the River Forest event, the Mayang alien research station event.
   translation:
-    text: 鳳凰山事件、法相空中飛人事件、北京左安門事件、河林事件、馬陽外星研究站事件。
+    text: 鳳凰山事件、飛山事件、北京曹公事件、陸溪農場事件、馬陽外星研究站事件。
     status: completed
     confidence: medium
-    notes: Beijing Sokong event 依照 topics.json 修正為 Beijing Zuoanmen event（北京左安門事件）；其他事件名稱為音譯
+    notes: 校稿人工裁決（2026-08-23）：沿用 UFO-15 定譯——Faxiang trapeze→飛山事件、Beijing Sokong→北京曹公事件、River Forest→陸溪農場事件；Mayang alien research station 於 UFO-15 無對應案例，暫保留音譯待考
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -5210,8 +5210,8 @@ segments:
   translation:
     text: 在那之後，他被告知這次性接觸是非常——您能否提供任何可以展示的東西，讓中國政府或任何其他政府意識到這些事情，以使這個目前為止的故事——這當然是一個相當重要的故事——被接受——中國政府知道這個故事嗎？
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文破碎且講者與提問者語句交錯，依原文結構保留
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -5351,10 +5351,10 @@ segments:
     end: 00:31:30,800
   source_text: Would you say, then, that Phoenix Mountain would be your prime case, rather than, say, the Beijing Zuoanmen event, in terms of the question I asked, which is your best evidence of extraterrestrial involvement, or an alien, which you've certainly described -- you've described aliens with more activities than anybody else has described them in the three or four days here.
   translation:
-    text: 那麼您是否會說，就我提出的問題而言，鳳凰山事件會是您的首要案例，而不是北京左安門事件——也就是您關於外星介入或外星人的最佳證據，您確實描述了——您對外星人活動的描述比這三、四天裡任何其他人描述得都要詳細。
+    text: 那麼您是否會說，就我提出的問題而言，鳳凰山事件會是您的首要案例，而不是北京曹公事件——也就是您關於外星介入或外星人的最佳證據，您確實描述了——您對外星人活動的描述比這三、四天裡任何其他人描述得都要詳細。
     status: completed
     confidence: high
-    notes: 原文轉錄為 'Beijing Zoukong event'，依照 topics.json 修正為 'Beijing Zuoanmen event'（北京左安門事件）；extraterrestrial 依照 terminology.yaml 翻譯
+    notes: 校稿人工裁決（2026-08-23）：原文 Beijing Zuoanmen event 依 UFO-15 定譯作「北京曹公事件」（同一證人前集證詞；講者兩集對同一案之稱呼不一致，main.yaml 原文不改）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -5848,8 +5848,8 @@ segments:
   translation:
     text: 例如，在空軍中，他們曾與不明飛行物交戰，我們訪問了所有這些故事的當事人，他們如實告訴我們他們的遭遇。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 校稿：原文 combat 疑為 contact（接觸）之誤聽，下文 encounter 可證；依規範保留原文譯「交戰」並存疑
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6022,7 +6022,7 @@ segments:
     text: 有人熟悉伍德博士嗎？一位研究定向能武器的女性博士？
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：指 Dr. Judy Wood，9/11 定向能理論提出者（見 topics.json 摘要）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6159,10 +6159,10 @@ segments:
     end: 00:37:06,040
   source_text: And probably what Antonio Huneeus said before is to be connected with this.
   translation:
-    text: 而且可能如安東尼奧·胡內斯之前所說的，這與此有關。
+    text: 而且可能如安東尼奧·胡尼烏斯之前所說的，這與此有關。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：原文 Antonio Neus 應為 Antonio Huneeus（安東尼奧·胡尼烏斯，UFO-02 定譯；main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6298,7 +6298,7 @@ segments:
     end: 00:38:14,160
   source_text: Senator, yes, and with apologies for not having printed this off for the committee, but it was 468 pages, I can supply a hyperlink.
   translation:
-    text: 參議員，是的，我要為沒有列印給委員會致歉，但那有468頁，我可以提供超連結。
+    text: 參議員，是的，我要為沒有列印給委員會致歉，但那有 468 頁，我可以提供超連結。
     status: completed
     confidence: high
     notes: null
@@ -6333,10 +6333,10 @@ segments:
     end: 00:38:30,720
   source_text: Though the Ministry of Defence were talking about the possibility that some UFOs were exotic plasmas, three sentences might be directly relevant to your question from Project Condign's final report.
   translation:
-    text: 儘管國防部談論某些不明飛行物可能是奇特電漿的可能性，康丁計畫（Project Condign）最終報告中有三句話可能與您的問題直接相關。
+    text: 儘管英國國防部談論某些不明飛行物可能是奇特電漿的可能性，康代因計畫（Project Condign）最終報告中有三句話可能與您的問題直接相關。
     status: completed
     confidence: high
-    notes: 修正轉錄錯誤：Project Condine → Project Condign
+    notes: 校稿：康代因計畫從 UFO-15 定譯；main.yaml 本段原文已正確（Project Condign）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6495,10 +6495,10 @@ segments:
     end: 00:39:44,520
   source_text: But Oberth in the '50s became very interested in ufology, so one of the guys that invented rocket.
   translation:
-    text: 但奧伯特在1950年代對幽浮學非常感興趣，所以發明火箭的人之一。
+    text: 但奧伯特在 1950 年代對 UFO 學非常感興趣——而他正是發明火箭的人之一。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：幽浮學→UFO 學（UFO-15 定譯）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6513,7 +6513,7 @@ segments:
     end: 00:39:49,040
   source_text: He wrote the classic book about the rocket into interplanetary space.
   translation:
-    text: 他寫了關於火箭進入星際空間的經典著作。
+    text: 他寫了經典著作《火箭進入星際空間》。
     status: completed
     confidence: high
     notes: null
@@ -6530,7 +6530,7 @@ segments:
     end: 00:39:56,280
   source_text: This was published in German in 1922, a long time before the Nazis, and so it was a brilliant man.
   translation:
-    text: 這本書於1922年以德文出版，遠在納粹之前，所以他是個才華洋溢的人。
+    text: 這本書於 1922 年以德文出版，遠在納粹之前，所以他是個才華洋溢的人。
     status: completed
     confidence: high
     notes: null
@@ -6548,7 +6548,7 @@ segments:
     end: 00:40:00,800
   source_text: I'm honored that I met him when he was like something like 96 years old.
   translation:
-    text: 我很榮幸在他大約96歲時見過他。
+    text: 我很榮幸在他大約 96 歲時見過他。
     status: completed
     confidence: high
     notes: null
@@ -6634,10 +6634,10 @@ segments:
     end: 00:40:43,800
   source_text: One of the things he had to say, though, is because of the maneuverability, the change of course and 90-degree changes, turns, and things like that, the pilots or whoever beings were inside these objects had to be shielded from the rest of it, otherwise they would be crushed to death, he said.
   translation:
-    text: 不過，他提到的一點是，由於這些物體的機動性、航向改變和90度轉彎等，駕駛員或任何在這些物體內的生物必須被屏蔽，否則他們會被壓死，他說。
+    text: 不過，他說過的一點是：由於這些物體的機動性——航向改變、90 度轉彎等等——駕駛員或這些物體內的任何存有都必須受到屏蔽保護，否則會被壓死。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：beings 譯存有（專案慣例）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6654,7 +6654,7 @@ segments:
     end: 00:40:48,080
   source_text: These were some papers he wrote in the 1950s.
   translation:
-    text: 這些是他在1950年代寫的一些論文。
+    text: 這些是他在 1950 年代寫的一些論文。
     status: completed
     confidence: high
     notes: null
@@ -6690,10 +6690,10 @@ segments:
     end: 00:41:16,840
   source_text: There's another American scientist who used to work for NASA, Paul Hill, I believe was his name, who wrote a book after his death, I think his daughter had found these notes or whatever, and it was called "Unconventional Flying Objects."
   translation:
-    text: 還有另一位曾為NASA工作的美國科學家，我相信他叫保羅·希爾（Paul Hill），他去世後出版了一本書，我想是他女兒找到了這些筆記或什麼的，書名叫《非常規飛行物體》（Unconventional Flying Objects）。
+    text: 還有另一位曾為 NASA 工作的美國科學家，我相信他叫保羅·希爾（Paul Hill），他去世後出版了一本書，我想是他女兒找到了這些筆記或什麼的，書名叫《非常規飛行物體》（Unconventional Flying Objects）。
     status: completed
     confidence: high
-    notes: 修正轉錄錯誤：Conventional → Unconventional
+    notes: 校稿：main.yaml 本段原文已正確（Unconventional Flying Objects）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6816,7 +6816,7 @@ segments:
     text: 我想他可能也在佩訥明德（Peenemünde）工作過，太空人戈登·庫伯（Gordon Cooper）認識他。
     status: completed
     confidence: high
-    notes: 修正轉錄錯誤：Penemunde → Peenemünde
+    notes: 校稿：main.yaml 本段原文已正確（Peenemünde）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6951,10 +6951,10 @@ segments:
     end: 00:42:31,800
   source_text: I was happy to hear in this afternoon's session after three and a half days being here that Mr. Huneeus, Pope, and Cameron did say the U.S. has participated a bit.
   translation:
-    text: 在這裡待了三天半之後，我很高興在今天下午的會議中聽到烏內烏斯先生、波普先生和卡麥隆先生都表示美國確實有所參與。
+    text: 在這裡待了三天半之後，我很高興在今天下午的會議中聽到胡尼烏斯先生、波普先生和卡麥隆先生都表示美國確實有所參與。
     status: completed
     confidence: high
-    notes: Huneeus 音譯為烏內烏斯
+    notes: 校稿：胡尼烏斯從 UFO-02 定譯（譯稿原音譯「烏內烏斯」已改）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7021,7 +7021,7 @@ segments:
     end: 00:42:49,360
   source_text: You further went on to say the CIA was sued and released theirs in 1977.
   translation:
-    text: 你們進一步提到CIA在1977年被起訴並公開了檔案。
+    text: 你們進一步提到 CIA 在 1977 年被起訴並公開了檔案。
     status: completed
     confidence: high
     notes: null
@@ -7038,10 +7038,10 @@ segments:
     end: 00:42:51,680
   source_text: I think you said that, Mr. Juneyus, which is good.
   translation:
-    text: 我想是烏內烏斯先生說的，這很好。
+    text: 我想是胡尼烏斯先生說的，這很好。
     status: completed
     confidence: high
-    notes: 修正 Juneyus → Huneeus
+    notes: 校稿：原文 Mr. Juneyus 應為 Mr. Huneeus（已錄於 topics.json）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7106,10 +7106,10 @@ segments:
     end: 00:42:59,600
   source_text: Then the FBI did file a suit later and released it.
   translation:
-    text: 然後FBI後來也被起訴並公開了檔案。
+    text: 然後 FBI 後來也被起訴並公開了檔案。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 校稿：原文 the FBI did file a suit 疑為 the FBI did get a suit filed (against them) 之口誤或誤聽——FBI 是檔案釋出方非提告方（同 seg 402 CIA 結構、seg 474 亦稱 they also sued them），依語意譯為被起訴
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7143,7 +7143,7 @@ segments:
     text: 那些是目擊檔案，但不是真正的東西。
     status: completed
     confidence: high
-    notes: siting files 應為 sighting files
+    notes: 校稿：原文 sitting files 應為 sighting files（目擊檔案；main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7192,7 +7192,7 @@ segments:
     end: 00:43:21,080
   source_text: Did they acknowledge, do they believe that UFOs are real or not?
   translation:
-    text: 他們有承認嗎，他們相信UFO是真的嗎？
+    text: 他們有承認嗎，他們相信 UFO 是真的嗎？
     status: completed
     confidence: high
     notes: null
@@ -7227,7 +7227,7 @@ segments:
     end: 00:43:34,520
   source_text: I know we didn't get to meet one again, but did they say one way or the other, whether UFOs are real or that extraterrestrial is a real phenomenon?
   translation:
-    text: 我知道我們沒機會再見到外星人，但他們有明確表態嗎，無論是UFO是真的，還是外星現象是真實的？
+    text: 我知道我們沒機會再見到外星人，但他們有明確表態嗎，無論是 UFO 是真的，還是外星現象是真實的？
     status: completed
     confidence: high
     notes: null
@@ -7245,10 +7245,10 @@ segments:
     end: 00:43:44,160
   source_text: Well, I mean, the problem is that the files they released are sort of the mundane files, like just the sighting files, or they're very old, historical files.
   translation:
-    text: 嗯，我的意思是，問題在於他們公開的檔案都是些平凡的文件，像是准予的目擊檔案，或者是非常古老的歷史檔案。
+    text: 嗯，我的意思是，問題在於他們公開的檔案都是些平凡的日常文件，像是目擊檔案之類，或者是非常古老的歷史檔案。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 校稿：原文 grants at the siting files 疑為 just the sighting files 之誤聽（同 seg 57/409；main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7335,7 +7335,7 @@ segments:
     end: 00:44:17,520
   source_text: Now, some of the case histories in the Condon Report are valid, and actually about 30 percent of the case histories in the Condon Report are unexplained.
   translation:
-    text: 現在，康登報告中的一些案例歷史是有效的，實際上康登報告中約30%的案例歷史無法解釋。
+    text: 現在，康登報告中的一些案例歷史是有效的，實際上康登報告中約 30% 的案例歷史無法解釋。
     status: completed
     confidence: high
     notes: null
@@ -7441,7 +7441,7 @@ segments:
     end: 00:44:47,040
   source_text: He was involved in some study at the Pentagon in the 1980s.
   translation:
-    text: 他在1980年代參與了五角大廈的一些研究。
+    text: 他在 1980 年代參與了五角大廈的一些研究。
     status: completed
     confidence: high
     notes: null
@@ -7458,10 +7458,10 @@ segments:
     end: 00:45:16,400
   source_text: So this would have been much, much later, when there wasn't Blue Book, all that was old history, and he claims it was not a formal project in the sense that they had to issue reports and things, but it was obviously tolerated by his superiors, and they went around and they briefed a number of people, including high-level people, like admirals and generals and General Abramson, the head of the Star Wars SDI project, and people like that, very high-level people.
   translation:
-    text: 所以這是很久很久之後的事了，當時已經沒有藍皮書計畫，那些都是舊歷史了。他聲稱這不是正式專案，不需要發布報告之類的，但顯然得到了上級的容忍。他們四處向許多人做簡報，包括高層人士，像是海軍上將、將軍，還有星戰計畫（SDI）主管艾布拉姆森將軍，諸如此類的非常高層的人物。
+    text: 所以這是很久很久之後的事了，當時已經沒有藍皮書計畫，那些都是舊歷史了。他聲稱這不是正式專案，不需要發布報告之類的，但顯然得到了上級的容忍。他們四處向許多人做簡報，包括高層人士，像是海軍上將、將軍，還有星戰計畫（SDI）負責人艾布拉姆森將軍，諸如此類的非常高層的人物。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：艾布拉姆森將軍即 James Abrahamson（SDI 主任；原文 Abramson 少一字母，譯音不變，不改原文）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7673,10 +7673,10 @@ segments:
     end: 00:46:09,480
   source_text: Mr. Cameron, thank you very much, Mr. Huneeus.
   translation:
-    text: 卡麥隆先生，非常感謝，烏內烏斯先生。
+    text: 卡麥隆先生，非常感謝，胡尼烏斯先生。
     status: completed
     confidence: high
-    notes: Mr. Honest 應為 Mr. Huneeus
+    notes: 校稿：原文 Mr. Honest 應為 Mr. Huneeus（胡尼烏斯先生；main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7863,7 +7863,7 @@ segments:
     end: 00:47:02,120
   source_text: So the world is waiting for the US to say yay or nay on UFOs?
   translation:
-    text: 所以世界在等待美國對UFO說贊成還是反對？
+    text: 所以世界在等待美國對 UFO 說贊成還是反對？
     status: completed
     confidence: high
     notes: null
@@ -8018,8 +8018,8 @@ segments:
   translation:
     text: 美國圖書館公開了數千頁的文件。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 校稿：原文 United States Library 疑指美國國會圖書館（Library of Congress），講者未明言，依原文直譯
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8186,7 +8186,7 @@ segments:
     end: 00:47:47,680
   source_text: If you said they've released the files under court order, CIA and FBI ...
   translation:
-    text: 如果你說他們在法院命令下公開了檔案，CIA和FBI……
+    text: 如果你說他們在法院命令下公開了檔案，CIA 和 FBI……
     status: completed
     confidence: high
     notes: null
@@ -8220,7 +8220,7 @@ segments:
     end: 00:47:49,680
   source_text: There's a lot under FOIA.
   translation:
-    text: 根據FOIA公開了很多。
+    text: 根據 FOIA 公開了很多。
     status: completed
     confidence: high
     notes: null
@@ -8237,7 +8237,7 @@ segments:
     end: 00:47:50,680
   source_text: Under FOIA.
   translation:
-    text: 根據FOIA。
+    text: 根據 FOIA。
     status: completed
     confidence: high
     notes: null
@@ -8288,7 +8288,7 @@ segments:
     end: 00:47:53,680
   source_text: It's, you know, 1977.
   translation:
-    text: 就是，你知道的，1977年。
+    text: 就是，你知道的，1977 年。
     status: completed
     confidence: high
     notes: null
@@ -8444,7 +8444,7 @@ segments:
     text: 孫式立博士，在我交還時間之前，我想用剩下的時間跟您談一下。
     status: completed
     confidence: high
-    notes: 修正 Dr. Shelley → Dr. Sun Shili（孫式立）
+    notes: 校稿：main.yaml 本段原文已正確（Dr. Sun Shili）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8459,7 +8459,7 @@ segments:
     end: 00:48:12,000
   source_text: Tell me about the Chinese UFO Federation.
   translation:
-    text: 請告訴我關於中國UFO研究聯合會的事。
+    text: 請告訴我關於中國 UFO 研究聯合會的事。
     status: completed
     confidence: high
     notes: null
@@ -8578,7 +8578,7 @@ segments:
     end: 00:48:44,520
   source_text: Our mission is that in the field of UFO, we conduct scientific research, and in recent years, what the senator has asked, we have conducted many scientific research.
   translation:
-    text: 我們的使命是在UFO領域進行科學研究，而且近年來，如參議員所問的，我們進行了許多科學研究。
+    text: 我們的使命是在 UFO 領域進行科學研究，而且近年來，如參議員所問的，我們進行了許多科學研究。
     status: completed
     confidence: high
     notes: null
@@ -8599,7 +8599,7 @@ segments:
     text: 舉個例子，我在聖馬利諾的會議上，遇到了柯索上校（Colonel Corso）。
     status: completed
     confidence: high
-    notes: 修正 general cursor → Colonel Corso（菲利普·柯索上校）
+    notes: 校稿：main.yaml 本段原文已正確（a General Corso, a Colonel Corso）；柯索上校即菲利普·科索（Philip Corso，UFO-15 定譯），《The Day After Roswell》作者
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8654,7 +8654,7 @@ segments:
     text: 這是來自一位前五角大廈官員，他在得知我們的科學研究成果後非常興奮。
     status: completed
     confidence: high
-    notes: 修正 Patagon → Pentagon（五角大廈）
+    notes: 校稿：main.yaml 本段原文已正確（Pentagon）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8774,7 +8774,7 @@ segments:
     end: 00:50:36,760
   source_text: I think that's in our DNA.
   translation:
-    text: 我認為那在我們的DNA裡。
+    text: 我認為那在我們的 DNA 裡。
     status: completed
     confidence: high
     notes: null
@@ -8791,7 +8791,7 @@ segments:
     end: 00:50:45,140
   source_text: The other one that you are very much involved in is the China UFO Research Institute established in 1980.
   translation:
-    text: 您非常投入的另一個組織是1980年成立的中國UFO研究會。
+    text: 您非常投入的另一個組織是 1980 年成立的中國 UFO 研究會。
     status: completed
     confidence: high
     notes: null
@@ -8860,7 +8860,7 @@ segments:
     end: 00:50:59,600
   source_text: Yes, the mission for this institute is to explore UFO issues scientifically.
   translation:
-    text: 是的，這個研究會的使命是科學地探索UFO議題。
+    text: 是的，這個研究會的使命是科學地探索 UFO 議題。
     status: completed
     confidence: high
     notes: null
@@ -9016,7 +9016,7 @@ segments:
     end: 00:52:23,920
   source_text: Originally, some people think that this is just for chit chat, but we have elevated this topic, this issue, onto a higher level where we talk about how learning about UFOs, learning about aliens, can help us solve environmental problems and health problems.
   translation:
-    text: 最初，有些人認為這只是閒聊，但我們已經將這個主題、這個議題提升到更高的層次，我們討論的是學習UFO、學習外星人如何幫助我們解決環境問題和健康問題。
+    text: 最初，有些人認為這只是閒聊，但我們已經將這個主題、這個議題提升到更高的層次，我們討論的是學習 UFO、學習外星人如何幫助我們解決環境問題和健康問題。
     status: completed
     confidence: high
     notes: null
@@ -9103,7 +9103,7 @@ segments:
     end: 00:53:05,400
   source_text: They are called maybe called a UFO club or association.
   translation:
-    text: 它們可能被稱為UFO俱樂部或協會。
+    text: 它們可能被稱為 UFO 俱樂部或協會。
     status: completed
     confidence: high
     notes: null
@@ -9256,7 +9256,7 @@ segments:
     end: 00:53:35,800
   source_text: Particularly, we have a World Chinese UFO federation.
   translation:
-    text: 特別是，我們有一個世界華人UFO聯合會。
+    text: 特別是，我們有一個世界華人 UFO 聯合會。
     status: completed
     confidence: high
     notes: null
@@ -9583,10 +9583,10 @@ segments:
     end: 00:55:22,720
   source_text: It doesn't have to be your government, your country, any government, where gun, camera, footage, or files on analysis of materials have ever been released.
   translation:
-    text: 不一定是你們的政府、你們的國家，任何政府，是否曾經公開過槍砲攝影機影片或材料分析檔案。
+    text: 不一定是你們的政府、你們的國家，任何政府，是否曾經公開過機槍攝影機影片或材料分析檔案。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：gun camera 指戰機機槍攝影機（gun camera footage 為空戰影像證據慣用語）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9618,7 +9618,7 @@ segments:
     end: 00:55:36,360
   source_text: The United Kingdom certainly did have some cases where military jets were sent up to intercept UFOs being tracked on radars.
   translation:
-    text: 英國確實有一些案例，軍用噴射機被派往攔截雷達追蹤到的UFO。
+    text: 英國確實有一些案例，軍用噴射機被派往攔截雷達追蹤到的 UFO。
     status: completed
     confidence: high
     notes: null
@@ -9636,10 +9636,10 @@ segments:
     end: 00:55:38,800
   source_text: Similar to the Peru incident that we talked about this morning.
   translation:
-    text: 類似於我們今天早上談到的祕魯事件。
+    text: 類似於我們今天早上談到的秘魯事件。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：秘魯從 UFO-02/09/10/13 慣例
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9687,10 +9687,10 @@ segments:
     end: 00:55:58,000
   source_text: If some gun, camera, footage was taken, and certainly I'm aware of on-the-record testimony from former MOD officials saying they've seen it, to the best of my knowledge, none of that material has survived, and I've not seen it personally, but it certainly existed at MOD.
   translation:
-    text: 如果拍攝了一些槍砲攝影機影片，我確實知道有前國防部官員的正式證詞說他們看過，但據我所知，那些材料都沒有保存下來，我個人也沒看過，但它確實存在於國防部。
+    text: 如果拍攝了一些機槍攝影機影片，我確實知道有前英國國防部官員的正式證詞說他們看過，但據我所知，那些材料都沒有保存下來，我個人也沒看過，但它確實存在於英國國防部。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：MOD＝英國國防部（UFO-15 先例）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9775,7 +9775,7 @@ segments:
     end: 00:56:36,760
   source_text: Can I ask this final, if I have 30 seconds, is anybody aware of a, well let me get this question in please, anybody, is anybody aware of a military person or a contractor for the military that's been released from a secrecy oath that they might have taken on the subject of UFOs from any country, again, your own or the U.S. or any other country?
   translation:
-    text: 我能問最後一個問題嗎，如果我還有30秒的話，有人知道嗎，嗯，請讓我問完這個問題，有人知道任何軍事人員或軍方承包商被解除他們可能就UFO主題所立的保密誓言嗎，來自任何國家，再次強調，你們自己的或美國或其他任何國家？
+    text: 我能問最後一個問題嗎，如果我還有 30 秒的話，有人知道嗎，嗯，請讓我問完這個問題，有人知道任何軍事人員或軍方承包商被解除他們可能就 UFO 主題所立的保密誓言嗎，來自任何國家，再次強調，你們自己的或美國或其他任何國家？
     status: completed
     confidence: high
     notes: null
@@ -9795,7 +9795,7 @@ segments:
     end: 00:56:56,680
   source_text: In the case of Italy, we had in San Marino in 2000, the chief of the Reparto Generale Sicurezza of the Italian Air Force who came in uniform to have a presentation of the UFO data, of the official UFO data, in the San Marino Congress.
   translation:
-    text: 在義大利的情況下，我們在2000年的聖馬利諾會議上，有義大利空軍安全部門（Reparto Generale Sicurezza）的首長穿著制服前來，展示UFO資料，官方UFO資料。
+    text: 在義大利的情況下，我們在 2000 年的聖馬利諾會議上，有義大利空軍安全部門（Reparto Generale Sicurezza）的首長穿著制服前來，展示 UFO 資料，官方 UFO 資料。
     status: completed
     confidence: high
     notes: null
@@ -9831,7 +9831,7 @@ segments:
     end: 00:57:28,940
   source_text: He did not come because he told me he signed a sort of security statement for 20 years not to speak on these subjects, even if, after all, what he said in San Marino in 2000 is open, and this is curious.
   translation:
-    text: 他沒有來，因為他告訴我他簽署了一種20年的保密聲明，不能談論這些主題，儘管畢竟他在2000年聖馬利諾所說的是公開的，這很奇怪。
+    text: 他沒有來，因為他告訴我他簽署了一種 20 年的保密聲明，不能談論這些主題，儘管畢竟他在 2000 年聖馬利諾所說的是公開的，這很奇怪。
     status: completed
     confidence: high
     notes: null
@@ -9884,10 +9884,10 @@ segments:
     end: 00:57:44,300
   source_text: Dick DiMatto, who worked for Senator Byrd, was given authorization to go to Area 51 to see if they're spending money on flying saucers and Aurora and all this kind of stuff.
   translation:
-    text: 迪克·迪馬托（Dick DiMatto），為伯德參議員工作，獲得授權前往51區，看看他們是否在飛碟和極光（Aurora）等各種東西上花錢。
+    text: 迪克·迪馬托（Dick DiMatto），為伯德參議員工作，獲得授權前往 51 區，看看他們是否在飛碟和極光（Aurora）等各種東西上花錢。
     status: completed
     confidence: high
-    notes: null
+    notes: 校稿：Aurora 為傳聞中的美國祕密高超音速偵察機代號，保留原文括註
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -10162,7 +10162,7 @@ segments:
     text: 您知道格瑞那達決議（Grenada resolution）只是被凍結了，任何聯合國會員國都可以重新提出這項決議並列入議程。
     status: completed
     confidence: high
-    notes: 原文 'United States' 應為 'United Nations'（聯合國會員國），這是轉錄錯誤
+    notes: 校稿：原文 member state of the United States 應為 United Nations（main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10357,7 +10357,7 @@ segments:
     text: 以格瑞那達為例，蓋瑞總理（Prime Minister Gairy）幾乎為這個議題著迷，所以他有個使命，如我們所知，他追求了許多年，直到被推翻為止，因為他沒有處理好自己國家的事務。
     status: completed
     confidence: high
-    notes: 指 Eric Gairy，格瑞那達總理，1970年代向聯合國推動 UFO 調查
+    notes: 校稿：蓋瑞總理即 Eric Gairy（1970 年代向聯合國推動 UFO 調查）；main.yaml 本段原文已正確（Gairy）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10538,10 +10538,10 @@ segments:
     end: 01:02:44,200
   source_text: Now, I hasten to add that was an astrobiology meeting, and not a UFO meeting, but it did discuss in a speculative way some of the issues that might arise, be they religious, scientific, and technical, societal, if we did detect extraterrestrial life or even another civilization, but she said that when it comes to the role of the UN, one must approach the UN with consensus on this sort of issue, so I don't think there's much practical hope of that.
   translation:
-    text: 我要趕緊補充，那是一場天體生物學會議，而非 UFO 會議，但確實以推測性的方式討論了一些可能出現的問題——無論是宗教、科學、技術還是社會層面——如果我們確實偵測到外星生命（extraterrestrial life）甚至另一個文明的話，但她說，談到聯合國的角色，必須在這類議題上達成共識才能接觸聯合國，所以我認為這在實際上沒有太大希望。
+    text: 我要趕緊補充，那是一場天體生物學會議，而非 UFO 會議，但確實以推測性的方式討論了一些可能出現的問題——無論是宗教、科學、技術還是社會層面——如果我們確實偵測到外星生命甚至另一個文明的話，但她說，談到聯合國的角色，必須在這類議題上達成共識才能接觸聯合國，所以我認為這在實際上沒有太大希望。
     status: completed
     confidence: high
-    notes: extraterrestrial 依照 terminology.yaml 翻譯
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10755,10 +10755,10 @@ segments:
     end: 01:03:52,520
   source_text: Dr. Sun Shili?
   translation:
-    text: 孫博士？
+    text: 孫式立博士？
     status: completed
     confidence: high
-    notes: 指 Dr. Sun Shili（孫世力博士），Whisper 誤聽為 Dr. Shelley
+    notes: 校稿：原文 Dr. Shelley 應為 Dr. Sun Shili（孫式立，主席誤讀；照正確姓名翻譯，UFO-15 先例；main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10904,10 +10904,10 @@ segments:
     end: 01:05:56,920
   source_text: Mr. Pinotti, you already gave your answer to this one, didn't you?
   translation:
-    text: 皮諾提先生，您已經回答過這個問題了，對吧？
+    text: 皮諾蒂先生，您已經回答過這個問題了，對吧？
     status: completed
     confidence: high
-    notes: 指 Roberto Pinotti
+    notes: 校稿：皮諾蒂從 UFO-15 定譯（羅貝托·皮諾蒂博士）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11185,7 +11185,7 @@ segments:
     text: 別忘了，最早的 UFO 目擊事件發生在歐洲，特別是義大利，在 1930 年代。
     status: completed
     confidence: high
-    notes: Don't forget 的意思，sightings 依照 terminology.yaml 翻譯為「目擊事件」
+    notes: 校稿：原文 Don't remember 依語境應為 Don't forget（main.yaml 原文未修，已補錄 topics.json）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11306,7 +11306,7 @@ segments:
     text: 我們仍在討論，從社會學角度來看，我認為我們與第二次世界大戰後在太平洋地區談論過往飛機的貨物崇拜者（cargo cult people）沒有太大不同，他們認為那些是某種神聖的手段等等。
     status: completed
     confidence: high
-    notes: cargo cult people 依照 topics.json 的 potential_errors 修正
+    notes: 校稿：main.yaml 本段原文已正確（cargo cult people）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11446,10 +11446,10 @@ segments:
     end: 01:10:45,820
   source_text: But there's no reason why, with the various countries represented here, with the various scholars and military officers, that we would try to, within our own communities, to get them to endorse a resolution, a very simple, straightforward resolution, calling upon the General Assembly, not get waylaid to the Security Council, because that's a dead letter also, but to take the matter to the General Assembly, all we would need is one country.
   translation:
-    text: 但沒有理由不這樣做：在這裡代表的各國，以及各位學者和軍官，我們可以在自己的社群中努力，讓他們支持一項決議，一項非常簡單、直截了當的決議，呼籲聯合國大會（General Assembly）——不要被拖到安全理事會（Security Council），因為那也是一紙空文——但要將此事提交聯合國大會，我們只需要一個國家。
+    text: 但沒有理由不這樣做：在這裡代表的各國，以及各位學者和軍官，我們可以在自己的社群中努力，讓他們支持一項決議，一項非常簡單、直截了當的決議，呼籲聯合國大會（General Assembly）——不要被拖到聯合國安理會（Security Council），因為那也是一紙空文——但要將此事提交聯合國大會，我們只需要一個國家。
     status: completed
     confidence: high
-    notes: General Assembly 和 Security Council 依照 terminology.yaml 翻譯
+    notes: 校稿：聯合國大會／聯合國安理會從本集詞彙表定譯
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11575,7 +11575,7 @@ segments:
     end: 01:14:48,240
   source_text: within your country to, and all we need is one, all we need is one, and that would be the sponsor, and I'm sure once you got one country with a sponsor, several other countries would follow suit and join on to it, so we could have a bevy of countries, and I think just to end on this time, I would guarantee that it would pass, because there's a lot of resentment in the General Assembly with respect to the conduct of the Security Council in a lot of other affairs.
   translation:
-    text: 在您的國家內，我們只需要一個，我們只需要一個，那就是提案國，我相信一旦您得到一個提案國，其他幾個國家會跟進並加入，這樣我們就可以有一群國家，我認為就此結束時，我可以保證它會通過，因為聯合國大會對安全理事會在許多其他事務上的行為有很多不滿。
+    text: 在您的國家內，我們只需要一個，我們只需要一個，那就是提案國，我相信一旦您得到一個提案國，其他幾個國家會跟進並加入，這樣我們就可以有一群國家，我認為就此結束時，我可以保證它會通過，因為聯合國大會對聯合國安理會在許多其他事務上的行為有很多不滿。
     status: completed
     confidence: high
     notes: null

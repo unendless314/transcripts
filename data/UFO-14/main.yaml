@@ -42,7 +42,7 @@ segments:
     end: 00:00:22,600
   source_text: I am going to start out to my right with Congresswoman Woolsey, and this will be the time to ask questions of our witness.
   translation:
-    text: 我將從我右手邊的伍爾西議員開始，現在是向證人提問的時間。
+    text: 我將從我右手邊的伍爾西眾議員（Lynn Woolsey）開始，現在是向證人提問的時間。
     status: completed
     confidence: high
     notes: null
@@ -198,7 +198,7 @@ segments:
     end: 00:01:05,820
   source_text: You're Peru, you're Argentina.
   translation:
-    text: 您是秘魯代表，您是阿根廷代表。
+    text: 您是祕魯代表，您是阿根廷代表。
     status: completed
     confidence: high
     notes: null
@@ -234,10 +234,10 @@ segments:
     end: 00:01:49,080
   source_text: Well, all the groups in Argentina, the civilian groups, created CEFORA, and CEFORA has united researchers for many, many years who were my colleagues and close associates.
   translation:
-    text: 嗯，阿根廷所有的團體，民間團體，創立了CEFORA，而CEFORA多年來團結了許多研究人員，他們是我的同事和親近的夥伴。
+    text: 嗯，阿根廷所有的團體，民間團體，創立了 CEFORA（阿根廷共和國不明飛行物現象研究委員會），而 CEFORA 多年來團結了許多研究人員，他們是我的同事和親近的夥伴。
     status: completed
     confidence: high
-    notes: CEFORA：阿根廷UFO現象研究委員會
+    notes: null
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -286,7 +286,7 @@ segments:
     end: 00:02:03,880
   source_text: We always look for the classification from the '70s to now.
   translation:
-    text: 我們一直在尋求從70年代到現在的資料解密。
+    text: 我們一直在尋求從 70 年代到現在的資料解密。
     status: completed
     confidence: high
     notes: null
@@ -407,10 +407,10 @@ segments:
     end: 00:03:04,720
   source_text: To have cooperation with the field researchers, we always work alone with no mediums to get to the places to do good analysis.
   translation:
-    text: 為了與田野研究人員合作，我們總是獨自工作，沒有媒介能前往現場進行良好的分析。
+    text: 為了與田野研究人員合作，我們總是獨自工作，沒有任何資源能前往現場進行良好的分析。
     status: completed
     confidence: medium
-    notes: null
+    notes: mediums 推測為西語 medios（資源、手段）之直譯
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -443,7 +443,7 @@ segments:
     end: 00:03:26,840
   source_text: We have, for example, since the 2000, we have the phenomenon of, for example, of the cattle mutilations, which is very serious.
   translation:
-    text: 例如，自2000年以來，我們遇到了牲畜肢解的現象，這非常嚴重。
+    text: 例如，自 2000 年以來，我們遇到了牲畜肢解的現象，這非常嚴重。
     status: completed
     confidence: high
     notes: null
@@ -461,10 +461,10 @@ segments:
     end: 00:03:32,280
   source_text: We know through Linda Moulton Howe, her research.
   translation:
-    text: 我們透過琳達·莫爾頓的研究了解到這一點。
+    text: 我們透過琳達·莫爾頓·豪（Linda Moulton Howe）的研究了解到這一點。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Linda Molton 應為 Linda Moulton Howe（牲畜肢解事件知名研究者），譯文逕採正確全名
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -513,7 +513,7 @@ segments:
     end: 00:03:58,000
   source_text: The Army forces and their force and the Navy research between 1960, as I explained, and today.
   translation:
-    text: 正如我所說明的，陸軍部隊以及海軍從1960年到現在的研究。
+    text: 正如我所說明的，陸軍部隊以及海軍從 1960 年到現在的研究。
     status: completed
     confidence: medium
     notes: null
@@ -531,7 +531,7 @@ segments:
     end: 00:04:03,880
   source_text: There were recent cases too, as I said in 2011, was this big explosion.
   translation:
-    text: 最近也有案例，正如我所說的2011年那次大爆炸。
+    text: 最近也有案例，正如我所說的 2011 年那次大爆炸。
     status: completed
     confidence: medium
     notes: null
@@ -854,7 +854,7 @@ segments:
     end: 00:05:22,880
   source_text: As regards the government and the Air Force, the 1,800 people that actually saw it and the commanders that were there, we reported all of this to the Air Forces, but there was no negative repercussions because it was officially accepted.
   translation:
-    text: 關於政府和空軍，當時有1800人親眼目睹，還有在場的指揮官，我們把這一切都報告給空軍，但沒有產生負面影響，因為這已被正式認可。
+    text: 關於政府和空軍，當時有 1,800 人親眼目睹，還有在場的指揮官，我們把這一切都報告給空軍，但沒有產生負面影響，因為這已被正式認可。
     status: completed
     confidence: high
     notes: null
@@ -873,7 +873,7 @@ segments:
     end: 00:05:28,960
   source_text: The sighting was officially accepted, and I continued to fly for 20 more years without any problems.
   translation:
-    text: 這次目擊事件被正式認可，我也繼續飛行了20年，沒有任何問題。
+    text: 這次目擊事件被正式認可，我也繼續飛行了 20 年，沒有任何問題。
     status: completed
     confidence: high
     notes: null
@@ -908,7 +908,7 @@ segments:
     end: 00:06:09,440
   source_text: In 1980, when this event happened, this was a year that, on that air base, we were installing Soviet materials or Soviet installations at that place, and the UFO did not actually get to fly over the base.
   translation:
-    text: 1980年這起事件發生時，在那座空軍基地，我們正在安裝蘇聯的設備或設施，而那個不明飛行物實際上並沒有飛越基地上空。
+    text: 1980 年這起事件發生時，在那座空軍基地，我們正在安裝蘇聯的設備或設施，而那個不明飛行物實際上並沒有飛越基地上空。
     status: completed
     confidence: high
     notes: null
@@ -946,7 +946,7 @@ segments:
     end: 00:06:43,400
   source_text: And so it was 22 years of silence until the Air Force officially gave us permission to talk about these phenomenon, and that's at that time when they said that we could actually start to speak publicly about this issue.
   translation:
-    text: 因此，這沉默了22年，直到空軍正式允許我們談論這些現象，那時他們說我們可以開始公開談論這個議題。
+    text: 因此，這沉默了 22 年，直到空軍正式允許我們談論這些現象，那時他們說我們可以開始公開談論這個議題。
     status: completed
     confidence: high
     notes: null
@@ -1038,7 +1038,7 @@ segments:
     end: 00:07:36,560
   source_text: Mr. Gevaerd.
   translation:
-    text: 吉瓦德先生。
+    text: 熱瓦爾德（A. J. Gevaerd）先生。
     status: completed
     confidence: high
     notes: null
@@ -1225,7 +1225,7 @@ segments:
     end: 00:08:18,240
   source_text: The facts that I described happened in the '70s, in late '70s, in '77, and Brazil was, like many other countries in South America, under military dictatorship.
   translation:
-    text: 我所描述的事實發生在70年代，1977年底，當時巴西與南美許多其他國家一樣，處於軍事獨裁政權統治之下。
+    text: 我所描述的事實發生在 70 年代，1977 年底，當時巴西與南美許多其他國家一樣，處於軍事獨裁政權統治之下。
     status: completed
     confidence: high
     notes: null
@@ -1261,7 +1261,7 @@ segments:
     end: 00:08:49,000
   source_text: Now, when Operation Saucer took place, and it happened because the populations of the affected area couldn't live anymore because they were seeing UFOs all the time, and worse than that, they were being attacked, over 1,000 people were attacked.
   translation:
-    text: 當飛碟行動展開時，那是因為受影響地區的居民已經無法正常生活，他們一直看到不明飛行物，更糟的是，他們遭到攻擊，超過1000人受到攻擊。
+    text: 當飛碟行動展開時，那是因為受影響地區的居民已經無法正常生活，他們一直看到不明飛行物，更糟的是，他們遭到攻擊，超過 1,000 人受到攻擊。
     status: completed
     confidence: high
     notes: null
@@ -1514,10 +1514,10 @@ segments:
     end: 00:11:37,760
   source_text: They took part in lots of procedures, including this was told to me by the commander of the Operation Saucer himself, Colonel Uyrangê Hollanda, that they were having problem in documenting the UFOs with photograph.
   translation:
-    text: 他們參與了許多行動，包括飛碟行動指揮官烏伊蘭吉·霍蘭達上校親自告訴我的，他們在用照片記錄不明飛行物時遇到了困難。
+    text: 他們參與了許多行動，包括飛碟行動指揮官烏伊蘭吉·奧蘭達（Uyrangê Hollanda）上校親自告訴我的，他們在用照片記錄不明飛行物時遇到了困難。
     status: completed
     confidence: high
-    notes: null
+    notes: 姓氏採 zh.wikipedia 流通譯法「奧蘭達」
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1550,7 +1550,7 @@ segments:
     end: 00:12:08,560
   source_text: But they solved this problem when the U.S. military came to Brazil and gave to the Brazilian military some equipment and highly sensitive films so they can not only photograph the UFOs, over 500 pictures were made, and also film the UFOs, 16 hours of film were made of including motherships over the Amazon River.
   translation:
-    text: 但當美國軍方來到巴西，向巴西軍方提供了一些設備和高感光度底片後，這個問題就解決了，因此他們不僅拍攝了不明飛行物的照片，拍攝了超過500張照片，還拍攝了影片，總共16小時的影片，包括亞馬遜河上的母船。
+    text: 但當美國軍方來到巴西，向巴西軍方提供了一些設備和高感光度底片後，這個問題就解決了，因此他們不僅拍攝了不明飛行物的照片，拍攝了超過 500 張照片，還拍攝了影片，總共 16 小時的影片，包括亞馬遜河上的母船。
     status: completed
     confidence: high
     notes: null
@@ -1675,10 +1675,10 @@ segments:
     end: 00:12:50,960
   source_text: They were there to collect information as they were in Argentina and Chile and so many countries to get information about those phenomena and bring back to the United States to use for their own purposes.
   translation:
-    text: 他們在那裡收集資訊，就像他們在阿根廷、智利和許多其他國家一樣，以獲取關於這種塵埃現象的資訊，並將其帶回美國用於他們自己的目的。
+    text: 他們在那裡收集資訊，就像他們在阿根廷、智利和許多其他國家一樣，以獲取關於這些現象的資訊，並將其帶回美國用於他們自己的目的。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 the dust phenomena 應為 those phenomena（人工聽音確認：講者結巴說 tho...those，轉錄錯誤）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1711,7 +1711,7 @@ segments:
     end: 00:13:12,120
   source_text: So Mr. Huneeus, you mentioned that the traffic control group was housed in the Air and Space Museum.
   translation:
-    text: 那麼胡紐斯先生，您提到空中交通管制的團隊設在航空太空博物館。
+    text: 那麼胡尼烏斯（Antonio Huneeus）先生，您提到空中交通管制的團隊設在航空太空博物館。
     status: completed
     confidence: high
     notes: null
@@ -1904,10 +1904,10 @@ segments:
     end: 00:14:20,320
   source_text: But the facilities of the committee, the CEFAA, are annexed, but it has nothing to do with the museum.
   translation:
-    text: 但委員會的設施，也就是CEFAA，是附設的，與博物館沒有關係。
+    text: 但委員會的設施，也就是異常空中現象研究委員會（CEFAA），是附設的，與博物館沒有關係。
     status: completed
     confidence: high
-    notes: null
+    notes: CEFAA 全稱依 UFO-13 定譯統一（本集詞彙表原譯「調查委員會」）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1973,7 +1973,7 @@ segments:
     end: 00:14:41,320
   source_text: They also have an office at the main headquarters of the Civil Aviation Agency, but according to what General Bermudez told me, they'd rather be at that other place, he said, because when they are in the headquarters, if they have to make an official presentation or something, of course they can use that facility, he said, everybody's asking them questions.
   translation:
-    text: 他們在智利民航局總部也設有辦公室，但根據貝爾穆德斯將軍告訴我的，他們寧願待在另一個地方，他說，因為當他們在總部時，如果他們必須進行官方簡報之類的，當然他們可以使用那個設施，他說，每個人都會問他們問題。
+    text: 他們在智利民航局總部也設有辦公室，但根據貝爾穆德斯將軍（General Bermúdez）告訴我的，他們寧願待在另一個地方，他說，因為當他們在總部時，如果他們必須進行官方簡報之類的，當然他們可以使用那個設施，他說，每個人都會問他們問題。
     status: completed
     confidence: high
     notes: null
@@ -2129,7 +2129,7 @@ segments:
     end: 00:15:04,560
   source_text: Next up we have, next up we have Ms. Kilpatrick.
   translation:
-    text: 接下來是基爾帕特里克女士。
+    text: 接下來是基爾派翠克眾議員（Carolyn Cheeks Kilpatrick）。
     status: completed
     confidence: high
     notes: null
@@ -2163,7 +2163,7 @@ segments:
     end: 00:15:13,920
   source_text: I wasn't going to start with you, Mr. Gevaerd, but I think I will.
   translation:
-    text: 我本來沒打算先問您，吉瓦德先生，但我想我還是會問。
+    text: 我本來沒打算先問您，熱瓦爾德先生，但我想我還是會問。
     status: completed
     confidence: high
     notes: null
@@ -2180,10 +2180,10 @@ segments:
     end: 00:15:26,240
   source_text: I think you're the first that I've heard in four days who said the presence of the others actually attacked people that caused the Operation Saucer project to come into existence.
   translation:
-    text: 我想您是這四天來我聽到的第一位說，那些存在的攻擊行為導致了飛碟行動計畫的誕生。
+    text: 我想您是這四天來，第一位提到確實有不明存在攻擊民眾、從而催生飛碟行動的證人。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 the presence of the others 語意破碎，依語境（飛碟行動起因於 UFO 攻擊民眾）補足
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2368,7 +2368,7 @@ segments:
     end: 00:15:45,600
   source_text: Oh, it started in September 1977.
   translation:
-    text: 哦，是從1977年9月開始的。
+    text: 哦，是從 1977 年 9 月開始的。
     status: completed
     confidence: high
     notes: null
@@ -2402,7 +2402,7 @@ segments:
     end: 00:15:49,200
   source_text: And it ended on December 1977.
   translation:
-    text: 在1977年12月結束。
+    text: 在 1977 年 12 月結束。
     status: completed
     confidence: high
     notes: null
@@ -2470,7 +2470,7 @@ segments:
     end: 00:16:03,120
   source_text: And you also mentioned in this, from Congresswoman Woolsey, the U.S., did you say they took your information and you were waiting to hear back from them?
   translation:
-    text: 您還提到了，從伍爾西議員那裡關於美國的部分，您是說他們拿走了您的資訊，而您正在等待他們回覆嗎？
+    text: 您還提到了，從伍爾西眾議員那裡關於美國的部分，您是說他們拿走了您的資訊，而您正在等待他們回覆嗎？
     status: completed
     confidence: high
     notes: null
@@ -2764,10 +2764,10 @@ segments:
     end: 00:17:17,080
   source_text: Now, we just saw when Commander Santa Maria presented his case, a document that shows that U.S. intelligence was getting formed of what happened in La Joya Air Force Base in Peru.
   translation:
-    text: 我們剛才看到，當聖瑪利亞指揮官提出他的案子時，有一份文件顯示美國情報機構正在了解發生在秘魯拉霍亞空軍基地的事件。
+    text: 我們剛才看到，當聖瑪利亞上校提出他的案子時，有一份文件顯示美國情報機構正在了解發生在祕魯拉霍亞空軍基地（La Joya Air Force Base）的事件。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文稱 Commander Santa Maria，其實際軍銜為上校，譯文照實
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3006,7 +3006,7 @@ segments:
     end: 00:18:21,080
   source_text: In the case of the CFAA, in fact, General Bermudez told me that when they created the office back in the late '90s, they contacted the American government, I guess through the embassy because they wanted to have some kind of formal relationship, but there was no response.
   translation:
-    text: 就CEFAA而言，事實上，貝爾穆德斯將軍告訴我，當他們在90年代末成立辦公室時，他們聯繫了美國政府，我想是透過大使館，因為他們希望建立某種正式關係，但沒有得到回應。
+    text: 就 CEFAA 而言，事實上，貝爾穆德斯將軍告訴我，當他們在 90 年代末成立辦公室時，他們聯繫了美國政府，我想是透過大使館，因為他們希望建立某種正式關係，但沒有得到回應。
     status: completed
     confidence: high
     notes: null
@@ -3076,7 +3076,7 @@ segments:
     end: 00:18:25,760
   source_text: That would have been probably late '90s.
   translation:
-    text: 那應該是90年代末。
+    text: 那應該是 90 年代末。
     status: completed
     confidence: high
     notes: null
@@ -3093,7 +3093,7 @@ segments:
     end: 00:18:33,460
   source_text: But they do have an agreement with not an official group, but it's called NARCAP.
   translation:
-    text: 但他們確實與一個非官方組織有協議，叫做NARCAP。
+    text: 但他們確實與一個非官方組織有協議，叫做 NARCAP。
     status: completed
     confidence: high
     notes: null
@@ -3144,10 +3144,10 @@ segments:
     end: 00:18:51,440
   source_text: Well, it's run by a former NASA scientist, a very serious man called Dr. Richard Haines, and he is an expert on aviation cases.
   translation:
-    text: 嗯，它是由一位前NASA科學家經營的，一位非常嚴謹的人，叫做理查德·海恩斯博士，他是航空案例的專家。
+    text: 嗯，它是由一位前 NASA 科學家經營的，一位非常嚴謹的人，叫做理查德·海恩斯（Richard Haines）博士，他是航空案例的專家。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Haynes 應為 Haines（NARCAP 創辦人 Richard Haines）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3162,7 +3162,7 @@ segments:
     end: 00:18:55,260
   source_text: He's a long-time NASA scientist, very serious.
   translation:
-    text: 他是一位長期的NASA科學家，非常嚴謹。
+    text: 他是一位長期的 NASA 科學家，非常嚴謹。
     status: completed
     confidence: high
     notes: null
@@ -3266,7 +3266,7 @@ segments:
     end: 00:19:20,740
   source_text: So the other thing is what my colleague Javier was mentioning.
   translation:
-    text: 所以另一件事是我的同事哈維爾提到的。
+    text: 所以另一件事是我的同事哈維爾（Javier）提到的。
     status: completed
     confidence: high
     notes: null
@@ -3283,7 +3283,7 @@ segments:
     end: 00:19:50,080
   source_text: If you study the American declassified UFO files, which are extensive, you will see a tremendous amount of documents, especially back in the old days, but there's still some more recent collected by various agencies, usually through the Defense Attaché Office or sometimes by the CIA, and it's obviously that these people are monitoring the international aspect of UFOs.
   translation:
-    text: 如果你研究美國解密的不明飛行物檔案，數量非常龐大，你會看到大量的文件，尤其是早期的，但各機構仍然收集了一些較新的文件，通常是透過國防武官辦公室，有時是透過中情局，顯然這些人在監控不明飛行物的國際層面。
+    text: 如果你研究美國解密的不明飛行物檔案，數量非常龐大，你會看到大量的文件，尤其是早期的，但各機構仍然收集了一些較新的文件，通常是透過國防武官辦公室，有時是透過 CIA，顯然這些人在監控不明飛行物的國際層面。
     status: completed
     confidence: high
     notes: null
@@ -3304,7 +3304,7 @@ segments:
     end: 00:19:55,000
   source_text: And do you get, does Peru get information back from the U.S. regarding any of what you send them?
   translation:
-    text: 那麼，你們會得到，秘魯會從美國那裡得到任何關於你們發送給他們的資訊的回覆嗎？
+    text: 那麼，你們會得到，祕魯會從美國那裡得到任何關於你們發送給他們的資訊的回覆嗎？
     status: completed
     confidence: high
     notes: null
@@ -3322,7 +3322,7 @@ segments:
     end: 00:19:57,360
   source_text: Well, I cannot speak for Peru.
   translation:
-    text: 嗯，我不能代表秘魯發言。
+    text: 嗯，我不能代表祕魯發言。
     status: completed
     confidence: high
     notes: null
@@ -3430,7 +3430,7 @@ segments:
     text: 您是否與美國政府或非營利組織或我國的某個機構分享任何這些資訊，讓他們了解你們的經歷？
     status: completed
     confidence: medium
-    notes: 原文your gay應為your guy之誤
+    notes: 原文 your gay 應為轉錄錯誤（推測 your country 之類），譯文依語境處理
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3496,10 +3496,10 @@ segments:
     end: 00:21:03,800
   source_text: Doctor, I want to say Choy, is that right?
   translation:
-    text: 博士，我想說是蔡博士，對嗎？
+    text: 博士，我想說的是喬伊（Choy），對嗎？
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Choi 應為 Choy（祕魯證人 Anthony Choy）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3549,7 +3549,7 @@ segments:
     end: 00:21:44,760
   source_text: As far as we understand, in Peru there is no open, formal public agreement, but there are indications that show that some of this information is shared with U.S. security agencies.
   translation:
-    text: 據我們了解，在秘魯沒有公開的、正式的公開協議，但有跡象表明，其中一些資訊會與美國安全機構分享。
+    text: 據我們了解，在祕魯沒有公開的、正式的公開協議，但有跡象表明，其中一些資訊會與美國安全機構分享。
     status: completed
     confidence: high
     notes: null
@@ -3567,10 +3567,10 @@ segments:
     end: 00:22:04,200
   source_text: There's no open public document, but there are witnesses who have noted that in the '80s, apparently a UFO fell in the San Mateo de Huanchorr area, and they said that there were Americans who were in that area.
   translation:
-    text: 沒有公開的公開文件，但有證人指出，在80年代，顯然有一架不明飛行物墜落在聖馬特奧德萬喬地區，他們說有美國人在那個地區。
+    text: 沒有公開的公開文件，但有證人指出，在 80 年代，顯然有一架不明飛行物墜落在聖馬特奧德萬喬（San Mateo de Huanchor）地區，他們說有美國人在那個地區。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 San Mateo de Huancho 應為 San Mateo de Huanchor（祕魯 Huarochirí 省地名）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3586,7 +3586,7 @@ segments:
     end: 00:22:40,640
   source_text: And I do want to remind you that in the Greer Disclosure Project, there were people who made statements, gave testimony, that stated that there was a U.S. Sergeant Jonathan Weygandt who said that a UFO had crashed in northern Peru, and that there was extraction, and this was according to testimony, that they took some of the remains of this falling UFO.
   translation:
-    text: 我確實想提醒你們，在格里爾揭露計畫中，有人發表聲明，提供證詞，說有一位美國中士喬納森·韋甘德說一架不明飛行物在秘魯北部墜毀，並且進行了打撈，根據證詞，他們拿走了這架墜落不明飛行物的一些殘骸。
+    text: 我確實想提醒你們，在格里爾揭露計畫中，有人發表聲明，提供證詞，說有一位美國中士喬納森·韋甘德（Jonathan Weygandt）說一架不明飛行物在祕魯北部墜毀，並且進行了打撈，根據證詞，他們拿走了這架墜落不明飛行物的一些殘骸。
     status: completed
     confidence: high
     notes: null
@@ -3606,7 +3606,7 @@ segments:
     end: 00:22:46,880
   source_text: They were taken away by helicopters that were definitively not part of the Peruvian Armed Forces.
   translation:
-    text: 它們被直升機運走，這些直升機絕對不屬於秘魯武裝部隊。
+    text: 它們被直升機運走，這些直升機絕對不屬於祕魯武裝部隊。
     status: completed
     confidence: high
     notes: null
@@ -3641,7 +3641,7 @@ segments:
     end: 00:22:52,520
   source_text: They were not part of Peru, taken away in helicopters.
   translation:
-    text: 它們不屬於秘魯，是用直升機運走的。
+    text: 它們不屬於祕魯，是用直升機運走的。
     status: completed
     confidence: high
     notes: null
@@ -3675,7 +3675,7 @@ segments:
     end: 00:23:13,600
   source_text: Based on the testimony from the Steven Greer Project, apparently they were American helicopters, and that these materials were taken back to the United States.
   translation:
-    text: 根據史蒂文·格里爾計畫的證詞，顯然那些是美國直升機，這些材料被運回了美國。
+    text: 根據格里爾揭露計畫的證詞，顯然那些是美國直升機，這些材料被運回了美國。
     status: completed
     confidence: high
     notes: null
@@ -3919,10 +3919,10 @@ segments:
     end: 00:25:04,400
   source_text: I researched in the decade of '70, '78, there was a UFO crash between Argentina and Bolivia, and supporting what Dr. Choy said was an object who produced a kind of destruction of a hill, was a kind of a cycle shape, a structure of no identified, and the Bolivian government in the study, the Argentinian was a limit, didn't investigate, but that object was retrieved by American's helicopters too.
   translation:
-    text: 我研究了70年代，78年，阿根廷和玻利維亞之間發生了一起不明飛行物墜毀事件，支持蔡博士所說的是一個造成某種山體破壞的物體，是一種圓形形狀，一種未被識別的結構，玻利維亞政府進行了研究，阿根廷有限度參與，沒有深入調查，但那個物體也被美國直升機取走了。
+    text: 我研究了 70 年代，1978 年，阿根廷和玻利維亞之間發生了一起不明飛行物墜毀事件，支持喬伊博士所說的是一個造成某種山體破壞的物體，是一種圓形形狀，一種未被識別的結構，玻利維亞政府進行了研究，阿根廷有限度參與，沒有深入調查，但那個物體也被美國直升機取走了。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Dr. Choi 應為 Dr. Choy
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -4043,7 +4043,7 @@ segments:
     end: 00:25:21,080
   source_text: It goes back, I want to go back to Dr. Choi for just a moment.
   translation:
-    text: 回到這個話題，我想再問蔡博士一下。
+    text: 回到這個話題，我想再問喬伊博士一下。
     status: completed
     confidence: high
     notes: null
@@ -4446,7 +4446,7 @@ segments:
     end: 00:27:14,040
   source_text: Because these official agencies, they want a place where their data can be shared officially with other countries, because the UFO phenomenon, by definition, is global.
   translation:
-    text: 因為這些官方機構，他們希望有一個可以與其他國家正式分享數據的地方，因為不明飛行物現象，就其定義而言，是全球性的。
+    text: 因為這些官方機構，他們希望有一個可以與其他國家正式分享資料的地方，因為不明飛行物現象，就其定義而言，是全球性的。
     status: completed
     confidence: high
     notes: null
@@ -4841,7 +4841,7 @@ segments:
     end: 00:28:21,260
   source_text: But if our military gets your information and does whatever it does with it, and I hope to make a better world and a better global presence so that we all might live the next 50 years, that we also work together to do that.
   translation:
-    text: 但如果我們的軍方得到你們的資訊並用它做任何事，而我希望創造一個更美好的世界和更好的全球影響力，這樣我們都可以再活50年，我們也必須為此共同努力。
+    text: 但如果我們的軍方得到你們的資訊並用它做任何事，而我希望創造一個更美好的世界和更好的全球影響力，這樣我們都可以再活 50 年，我們也必須為此共同努力。
     status: completed
     confidence: high
     notes: null
@@ -5081,7 +5081,7 @@ segments:
     end: 00:29:08,900
   source_text: This Department of Defense memo that's stamped in June of 1980 that was, I guess you actually showed this up on the screen, also is a test to your testimony, or your story, I should say.
   translation:
-    text: 這份1980年6月蓋章的國防部備忘錄，我想您實際上已經在螢幕上展示了，這也是對您證詞的佐證，或者說您的經歷。
+    text: 這份 1980 年 6 月蓋章的國防部備忘錄，我想您實際上已經在螢幕上展示了，這也是對您證詞的佐證，或者說您的經歷。
     status: completed
     confidence: high
     notes: null
@@ -5117,7 +5117,7 @@ segments:
     end: 00:29:28,020
   source_text: Is this memo referring directly to your experience that was, indeed, as someone's already said, very dramatic and had what we call here, and I think everywhere, the wow factor to it?
   translation:
-    text: 這份備忘錄是否直接指涉您的經歷？正如有人已經說過的，這確實非常戲劇性，具有我們在這裡稱之為『驚嘆因素』的特質，我想在任何地方都一樣。
+    text: 這份備忘錄是否直接指涉您的經歷？正如有人已經說過的，這確實非常戲劇性，具有我們在這裡稱之為「驚嘆因素」的特質，我想在任何地方都一樣。
     status: completed
     confidence: high
     notes: null
@@ -5240,7 +5240,7 @@ segments:
     end: 00:30:42,580
   source_text: In other words, what you experienced was not even questioned by people, and copies of this, CIA, the National Security Agency, I could go on.
   translation:
-    text: 換句話說，您的經歷甚至沒有受到質疑，這份文件的副本分發給了CIA、國家安全局等機構，我還可以繼續列舉。
+    text: 換句話說，您的經歷甚至沒有受到質疑，這份文件的副本分發給了 CIA、國家安全局等機構，我還可以繼續列舉。
     status: completed
     confidence: high
     notes: null
@@ -5258,7 +5258,7 @@ segments:
     end: 00:30:51,900
   source_text: Is this a smoking gun, or what, for trying to open up some files here in the United States?
   translation:
-    text: 這是否就是所謂的『確鑿證據』，有助於在美國這裡公開一些文件？
+    text: 這是否就是所謂的「確鑿證據」，有助於在美國這裡公開一些文件？
     status: completed
     confidence: high
     notes: null
@@ -5311,7 +5311,7 @@ segments:
     end: 00:31:30,540
   source_text: In 2007, in this same building, I was invited to take part in a conference on the declassification of documents.
   translation:
-    text: 2007年，就在這棟建築裡，我受邀參加一個關於文件解密的會議。
+    text: 2007 年，就在這棟建築裡，我受邀參加一個關於文件解密的會議。
     status: completed
     confidence: high
     notes: null
@@ -5329,7 +5329,7 @@ segments:
     end: 00:32:14,820
   source_text: There was a journalist, Edwin Cain, and there was a filmmaker, James Fox, who was making a documentary, and they turned over a copy of this document to me, and they said, "We would like to invite you to our country, because our country has accredited this encounter," and so when I reviewed the data in 1980, the only encounter with a UFO was my encounter, and so the date of this memorandum was about 28 days later, so there were no other occurrences at the same base, so I believe in the sharing of information, you can see that this was the event being referred to.
   translation:
-    text: 當時有一位記者Edwin Cain，還有一位正在拍攝紀錄片的電影製片人James Fox，他們把這份文件的副本交給我，並說：『我們想邀請您到我們國家，因為我們的國家已經認可了這次遭遇。』所以當我回顧1980年的資料時，唯一一次與不明飛行物的遭遇就是我的那次遭遇，而這份備忘錄的日期大約是在28天後，同一基地沒有發生其他事件，所以我相信透過資訊共享，您可以看出這指的就是那次事件。
+    text: 當時有一位記者埃德溫·凱恩（Edwin Cain），還有一位正在拍攝紀錄片的電影製片人詹姆斯·福克斯（James Fox），他們把這份文件的副本交給我，並說：「我們想邀請您到我們國家，因為我們的國家已經認可了這次遭遇。」所以當我回顧 1980 年的資料時，唯一一次與不明飛行物的遭遇就是我的那次遭遇，而這份備忘錄的日期大約是在 28 天後，同一基地沒有發生其他事件，所以我相信透過資訊共享，您可以看出這指的就是那次事件。
     status: completed
     confidence: high
     notes: null
@@ -5405,7 +5405,7 @@ segments:
     end: 00:32:49,380
   source_text: There's no other way to interpret that, and I appreciate that, and I have to say, since the way you described this, and the fact that you actually shot, I'm going to use the word bullets.
   translation:
-    text: 這沒有其他解讀方式，我很感激這一點，而且我必須說，鑑於您描述的方式，以及您實際上開火了的事實，我要用『子彈』這個詞。
+    text: 這沒有其他解讀方式，我很感激這一點，而且我必須說，鑑於您描述的方式，以及您實際上開火了的事實，我要用「子彈」這個詞。
     status: completed
     confidence: high
     notes: null
@@ -5493,7 +5493,7 @@ segments:
     end: 00:33:30,660
   source_text: Well, these were 22 minutes of this relationship where we went up and down and went around.
   translation:
-    text: 嗯，這是一段22分鐘的交鋒過程，我們上下盤旋、來回追逐。
+    text: 嗯，這是一段 22 分鐘的交鋒過程，我們上下盤旋、來回追逐。
     status: completed
     confidence: high
     notes: null
@@ -5544,7 +5544,7 @@ segments:
     end: 00:34:02,540
   source_text: When I first fired, these were bursts of 30-millimeter shells, so they're about three centimeters wide, 25 centimeters long, and they can destroy a truck, a single one, and there were 64, so it was just a barrage of fire, and nothing happened at all.
   translation:
-    text: 當我第一次開火時，發射的是30毫米炮彈的連發，每發大約3公分寬、25公分長，單單一發就能摧毀一輛卡車，而我發射了64發，簡直是彈如雨下，但完全沒有任何效果。
+    text: 當我第一次開火時，發射的是 30 毫米炮彈的連發，每發大約 3 公分寬、25 公分長，單單一發就能摧毀一輛卡車，而我發射了 64 發，簡直是彈如雨下，但完全沒有任何效果。
     status: completed
     confidence: high
     notes: null
@@ -5614,7 +5614,7 @@ segments:
     end: 00:34:24,220
   source_text: I've won awards for marksmanship, so I have won some shooting contests, and so they were like, "Hey, you're the one who needs to go up there.
   translation:
-    text: 我曾因射擊技術獲獎，所以我贏過一些射擊比賽，因此他們說：『嘿，你就是需要升空的那個人。』
+    text: 我曾因射擊技術獲獎，所以我贏過一些射擊比賽，因此他們說：「嘿，你就是需要升空的那個人。
     status: completed
     confidence: high
     notes: null
@@ -5632,7 +5632,7 @@ segments:
     end: 00:34:29,460
   source_text: You're the one who needs to chase this thing."
   translation:
-    text: 你就是需要去追那東西的人。』
+    text: 你就是需要去追那東西的人。」
     status: completed
     confidence: high
     notes: null
@@ -5649,7 +5649,7 @@ segments:
     end: 00:34:38,980
   source_text: I just don't want you to be quite so humble in the way you're explaining this, please, because it took a little too long to say, "Hey, he wouldn't really have missed this."
   translation:
-    text: 我只是希望您在解釋這件事時不要太過謙遜，因為花了太多時間才說出『嘿，他其實不可能會射偏的。』
+    text: 我只是希望您在解釋這件事時不要太過謙遜，因為花了太多時間才說出「嘿，他其實不可能會射偏的。」
     status: completed
     confidence: high
     notes: null
@@ -5684,7 +5684,7 @@ segments:
     end: 00:34:52,700
   source_text: He said it more carefully, but there's no question you wouldn't have missed it based on everything you said, and based on how those 30 caliber shells, as you've described, would have taken out a truck.
   translation:
-    text: 他說得更謹慎一些，但根據您所說的一切，毫無疑問您不可能射偏，而且根據您描述的30毫米炮彈的威力，足以摧毀一輛卡車。
+    text: 他說得更謹慎一些，但根據您所說的一切，毫無疑問您不可能射偏，而且根據您描述的 30 毫米炮彈的威力，足以摧毀一輛卡車。
     status: completed
     confidence: high
     notes: null
@@ -5756,7 +5756,7 @@ segments:
     end: 00:35:36,820
   source_text: Well, so I shot these birds, in our training, we are always firing on a three meter by three meter target, and in this case, this was a 10 meter by 10 meter objective target, so the possibility of missing was zero.
   translation:
-    text: 嗯，在我的訓練中，我們總是瞄準3公尺乘3公尺的靶子射擊，而在這次事件中，目標是10公尺乘10公尺大小，所以射偏的可能性是零。
+    text: 嗯，在我的訓練中，我們總是瞄準 3 公尺乘 3 公尺的靶子射擊，而在這次事件中，目標是 10 公尺乘 10 公尺大小，所以射偏的可能性是零。
     status: completed
     confidence: high
     notes: null
@@ -5795,7 +5795,7 @@ segments:
     end: 00:36:24,580
   source_text: How can I better attack it, so I tried different positions until it came to the point when it had supersonic speed, when it would go up, I tried to get in my sights vertically, but when I moved to the side of the UFO at 1.3 mach, the UFO which was stopped, it achieved 1.2 mach in a question of seconds without any engines.
   translation:
-    text: 我該如何更好地攻擊它？所以我嘗試了不同的位置，直到它達到超音速，當它上升時，我試圖垂直瞄準，但當我以1.3馬赫的速度移動到不明飛行物側面時，那個原本靜止的不明飛行物在幾秒鐘內就達到了1.2馬赫，而且沒有任何引擎。
+    text: 我該如何更好地攻擊它？所以我嘗試了不同的位置，直到它達到超音速，當它上升時，我試圖垂直瞄準，但當我以 1.3 馬赫的速度移動到不明飛行物側面時，那個原本靜止的不明飛行物在幾秒鐘內就達到了 1.2 馬赫，而且沒有任何引擎。
     status: completed
     confidence: high
     notes: null
@@ -5815,7 +5815,7 @@ segments:
     end: 00:37:07,620
   source_text: This is something that no craft can do, to just go from 0 to 1.2 mach vertically to reach my same position, this is a UFO that knew the way our aircraft worked, because it was able to anticipate my moves and then follow me, and then once I landed, I met with intelligence officers, and we looked at all catalogs to see what possible spy objects this might have been, but they all had some type of engine, there was nothing similar to what I had observed.
   translation:
-    text: 這是任何飛行器都做不到的，從靜止垂直加速到1.2馬赫到達我的位置，這個不明飛行物知道我們飛機的運作方式，因為它能預測我的動作並跟隨我。降落後，我與情報官員會面，我們查閱了所有目錄，看看這可能是什麼間諜飛行器，但它們都有某種引擎，沒有任何東西與我所觀察到的相似。
+    text: 這是任何飛行器都做不到的，從靜止垂直加速到 1.2 馬赫到達我的位置，這個不明飛行物知道我們飛機的運作方式，因為它能預測我的動作並跟隨我。降落後，我與情報官員會面，我們查閱了所有目錄，看看這可能是什麼間諜飛行器，但它們都有某種引擎，沒有任何東西與我所觀察到的相似。
     status: completed
     confidence: high
     notes: null
@@ -5871,10 +5871,10 @@ segments:
     end: 00:37:24,340
   source_text: Please Dr. Choy, I'd like to hear Dr. Choy's, since you're from Peru of course.
   translation:
-    text: 請說，Choy博士，我想聽聽Choy博士的意見，因為您當然是來自祕魯的。
+    text: 請說，喬伊博士，我想聽聽喬伊博士的意見，因為您當然是來自祕魯的。
     status: completed
     confidence: high
-    notes: 原文Troy為轉錄錯誤，應為Choy
+    notes: null
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -6056,10 +6056,10 @@ segments:
     end: 00:39:42,060
   source_text: If I could interrupt you for just a moment and say, do you agree with the two or three important points there that Dr. Choy just made?
   translation:
-    text: 如果可以打斷您一下，請問您是否同意Choy博士剛才提出的兩三個重要觀點？
+    text: 如果可以打斷您一下，請問您是否同意喬伊博士剛才提出的兩三個重要觀點？
     status: completed
     confidence: high
-    notes: 原文Troy為轉錄錯誤，應為Choy
+    notes: 原文 Dr. Troy 應為 Dr. Choy（喬伊博士）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -6212,7 +6212,7 @@ segments:
     end: 00:40:26,840
   source_text: I'd like to go over here to Mr., excuse me, Colonel Sanchez.
   translation:
-    text: 我想請這邊的……抱歉，Sanchez上校。
+    text: 我想請這邊的……抱歉，桑切斯（Sanchez）上校。
     status: completed
     confidence: high
     notes: null
@@ -6229,10 +6229,10 @@ segments:
     end: 00:41:39,200
   source_text: Your system in Uruguay that apparently has been in existence for 33 years, you say, that it's a track, and keep track of anything that's cited, it's called, I can't remember the operation name of it, or the, excuse me, let me grab my notes, I'm so mesmerized by the previous testimony, but the system you have where you outline the five or six steps to even get qualified to be seriously looked at, and then tracked as far as any UFO sightings that your organization in Uruguay keeps track of, do you have records of things similar to what we've just been talking about with Colonel Santa Maria, and I'm not sure if Peru and Uruguay, they do have the same language, don't they, or you obviously heard everything anyway, but through these translations, so I'd like to know anything that might be in that, that kind of talks about this sort of thing, and since I'll be out of time, if you keep your
   translation:
-    text: 您說烏拉圭的系統已經存在33年了，用來追蹤任何被通報的事件，我記不得它的名稱了……抱歉，讓我看看筆記，剛才的證詞太令人著迷了。您建立的系統設定了五六個步驟，才能被認真看待和追蹤，您們在烏拉圭的組織記錄的任何不明飛行物目擊事件中，是否有類似我們剛才談到的聖瑪利亞上校那樣的記錄？我不確定祕魯和歐洲是否使用同一種語言，但顯然您們透過翻譯都聽到了一切。所以我想知道您的記錄中是否有談論這類事情的內容，由於我快沒時間了，如果您能保持……
+    text: 您說烏拉圭的系統已經存在 33 年了，用來追蹤任何被通報的事件，我記不得它的名稱了……抱歉，讓我看看筆記，剛才的證詞太令人著迷了。您建立的系統設定了五六個步驟，才能被認真看待和追蹤，您們在烏拉圭的組織記錄的任何不明飛行物目擊事件中，是否有類似我們剛才談到的聖瑪利亞上校那樣的記錄？我不確定祕魯和烏拉圭是否使用同一種語言，但顯然您們透過翻譯都聽到了一切。所以我想知道您的記錄中是否有談論這類事情的內容，由於我快沒時間了，如果您能保持……
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Europe 於語境（兩地同講西語）不通，推測為 Uruguay 之誤聽，譯文依語境處理
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -6255,7 +6255,7 @@ segments:
     end: 00:42:59,620
   source_text: answer somewhat short, but. Yes, we for the last 33 years have had an Air Force commission that also is accountable to the public on all issues dealing with UFOs. This commission also has military and civilian members, and also does have archives of 1300 cases that had been investigated, 3% of which, there are 39 or 40 cases now that have not been solved because of the level of bizarreness that they presented, and Uruguay has scientifically addressed the UFO issue and does not rule out the extraterrestrial element, but for this we do need scientific evidence. We do have cases, such as that which Colonel Santa Maria mentioned, and how fighter jets were scrambled to chase these objects, and how there was a chase, an in-air chase, and following glowing objects, and sometimes they would get close to, and how these objects would get close to air bases throughout Latin America.
   translation:
-    text: 回答簡短一些。是的，在過去33年裡，我們一直有一個空軍委員會，負責向公眾說明所有與不明飛行物相關的問題。這個委員會也有軍方和民間成員，並保存了1300個調查案例的檔案，其中3%——也就是39或40個案例——由於其呈現的奇異程度至今未能解決。烏拉圭以科學方式處理不明飛行物問題，不排除外星因素，但這需要科學證據。我們確實有類似聖瑪利亞上校提到的案例，戰鬥機緊急升空追逐這些物體，進行空中追逐，追蹤發光物體，有時它們會靠近，以及這些物體如何靠近拉丁美洲各地的空軍基地。
+    text: 回答簡短一些。是的，在過去 33 年裡，我們一直有一個空軍委員會，負責向公眾說明所有與不明飛行物相關的問題。這個委員會也有軍方和民間成員，並保存了 1,300 個調查案例的檔案，其中 3%——也就是 39 或 40 個案例——由於其呈現的奇異程度至今未能解決。烏拉圭以科學方式處理不明飛行物問題，不排除外星因素，但這需要科學證據。我們確實有類似聖瑪利亞上校提到的案例，戰鬥機緊急升空追逐這些物體，進行空中追逐，追蹤發光物體，有時它們會靠近，以及這些物體如何靠近拉丁美洲各地的空軍基地。
     status: completed
     confidence: high
     notes: null
@@ -6320,7 +6320,7 @@ segments:
     end: 00:45:02,500
   source_text: We don't know for what reason that took place, but that happened. During two or three years, like 1976, '77, '78, we had casualties, at least four casualties, and we have a record of 400 people attacked. Not only people, but also animals were attacked by these beams of light that would come from these balls, these spaceships. Sometimes they were referred to like a can with a windshield and two persons, two human-like creatures inside of it operating that spaceship. This has been described in detail by lots of people who live in the area of Salgado, especially in the island of Colares, which is 60 or 70 miles from the city of Belém.
   translation:
-    text: 我們不知道這是出於什麼原因發生的，但確實發生了。在1976、77、78年這兩到三年間，我們有人員傷亡，至少有四人死亡，而且我們有記錄顯示400人遭到攻擊。不僅是人類，動物也遭到攻擊，攻擊來自這些球狀物體、這些太空船所發出的光束。有時它們被描述成像一個帶有擋風玻璃的罐子，裡面有兩個人、兩個類人生物在操作那艘太空船。薩爾加多地區的許多居民，特別是科拉雷斯島的居民，都詳細描述了這一情況，該島距離貝倫市約60到70英里。
+    text: 我們不知道這是出於什麼原因發生的，但確實發生了。在 1976、77、78 年這兩到三年間，我們有人員傷亡，至少有四人死亡，而且我們有記錄顯示 400 人遭到攻擊。不僅是人類，動物也遭到攻擊，攻擊來自這些球狀物體、這些太空船所發出的光束。有時它們被描述成像一個帶有擋風玻璃的罐子，裡面有兩個人、兩個類人生物在操作那艘太空船。薩爾加多（Salgado）地區的許多居民，特別是科拉雷斯島的居民，都詳細描述了這一情況，該島距離貝倫（Belém）市約 60 到 70 英里。
     status: completed
     confidence: high
     notes: null
@@ -6343,10 +6343,10 @@ segments:
     end: 00:46:21,260
   source_text: This has also been reported by the military. Now, the very interesting thing about it is that when the military decided to camp there and to conduct their investigations, the attacks stopped. Very rare attacks took place in other areas, but not where the military were. Also, when the military decided to change their camping from one point of the island to another point of the island, the objects that would be hovering, that previous point where the operations were taking place, would move to the other area, like in the own words of the commander of the Operation Saucer, Uyrangê Hollanda, like if these intelligences knew what the military were doing in that area. That's very amazing. These are only 440 pages of a total of 2,000 pages that were produced as a result of the Operation Saucer. I would like to address this to you. I would like that you have time to examine this because this contained very
   translation:
-    text: 軍方也報告了這些情況。現在，非常有趣的一點是，當軍方決定在那裡紮營並進行調查時，攻擊就停止了。其他地區很少發生攻擊事件，但軍方駐紮的地方則沒有。此外，當軍方決定將營地從島上的一個地點轉移到另一個地點時，那些盤旋的物體，也就是之前行動進行的地點，會移動到另一個區域。用飛碟行動指揮官烏伊蘭吉·奧蘭達的話來說，就好像這些智慧生物知道軍方在那個地區做什麼一樣。這非常驚人。這只是飛碟行動所產生的2000頁文件中的440頁。我想將這些文件呈交給各位，希望各位有時間審閱，因為這裡面包含了非常
+    text: 軍方也報告了這些情況。現在，非常有趣的一點是，當軍方決定在那裡紮營並進行調查時，攻擊就停止了。其他地區很少發生攻擊事件，但軍方駐紮的地方則沒有。此外，當軍方決定將營地從島上的一個地點轉移到另一個地點時，那些盤旋的物體，也就是之前行動進行的地點，會移動到另一個區域。用飛碟行動指揮官烏伊蘭吉·奧蘭達的話來說，就好像這些智慧生物知道軍方在那個地區做什麼一樣。這非常驚人。這只是飛碟行動所產生的 2,000 頁文件中的 440 頁。我想將這些文件呈交給各位，希望各位有時間審閱，因為這裡面包含了非常
     status: completed
     confidence: high
-    notes: Uyrangê Hollanda 為巴西飛碟行動指揮官，保留原名
+    notes: null
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6441,10 +6441,10 @@ segments:
     end: 00:47:58,660
   source_text: Yes. The gentleman that conducted the Operation Saucer, the commander of it, was a captain at that time, and he retired as a coronel. And 20 years after the Operation Saucer was shut down, this man called me and invited me to his place, to his house in Rio de Janeiro where he was living. And I spent two days with him, interviewing him extensively where he gave me full details of everything that happened during those four months. And he also described me how he and his men had a close encounter with the creatures that came in those objects. And that actually, this main encounter with an alien creature that took place in mid-December, 1977, was what caused the Operation Saucer to be shut down.
   translation:
-    text: 是的。執行飛碟行動的那位先生，也就是行動指揮官，當時是一名上尉，他以中校軍銜退役。在飛碟行動結束20年後，這位先生打電話給我，邀請我到他位於里約熱內盧的住所。我和他相處了兩天，進行了詳細的訪談，他向我提供了那四個月期間發生的一切的完整細節。他還向我描述了他和他的部下如何與那些物體中的生物進行了近距離接觸。實際上，1977年12月中旬與外星生物的這次主要接觸，正是導致飛碟行動被關閉的原因。
+    text: 是的。執行飛碟行動的那位先生，也就是行動指揮官，當時是一名上尉，他退役時已是上校。在飛碟行動結束 20 年後，這位先生打電話給我，邀請我到他位於里約熱內盧的住所。我和他相處了兩天，進行了詳細的訪談，他向我提供了那四個月期間發生的一切的完整細節。他還向我描述了他和他的部下如何與那些物體中的生物進行了近距離接觸。實際上，1977 年 12 月中旬與外星生物的這次主要接觸，正是導致飛碟行動被關閉的原因。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 coronel 為葡語上校
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6557,7 +6557,7 @@ segments:
     end: 00:49:23,780
   source_text: Which would be the CIA.
   translation:
-    text: 也就是CIA（中央情報局）。
+    text: 也就是 CIA（中央情報局）。
     status: completed
     confidence: high
     notes: null
@@ -6574,7 +6574,7 @@ segments:
     end: 00:49:38,780
   source_text: That will be the CIA and also military. They will be all over the Amazon looking for the same kind of information that we are looking for, about who are those intelligences that pilot those machines.
   translation:
-    text: 包括CIA和軍方人員。他們遍布整個亞馬遜地區，尋找與我們相同類型的資訊，關於是什麼樣的智慧生物在駕駛那些機器。
+    text: 包括 CIA 和軍方人員。他們遍布整個亞馬遜地區，尋找與我們相同類型的資訊，關於是什麼樣的智慧生物在駕駛那些機器。
     status: completed
     confidence: high
     notes: null
@@ -6662,7 +6662,7 @@ segments:
     end: 00:50:15,980
   source_text: Now we started in Brazil in 2004 a movement, a campaign called UFOs Freedom of Information Now to request to the government to open its files and we have succeeded.
   translation:
-    text: 我們於2004年在巴西發起了一項運動，一個名為「UFO：即刻資訊自由」的運動，要求政府公開其檔案，而我們已經成功了。
+    text: 我們於 2004 年在巴西發起了一項運動，一個名為「UFO：即刻資訊自由」的運動，要求政府公開其檔案，而我們已經成功了。
     status: completed
     confidence: high
     notes: null
@@ -6680,7 +6680,7 @@ segments:
     end: 00:50:42,060
   source_text: It's the only model like this in this planet where the society have asked its government to come clear about it and it came. At least partially because we have got from 2008 to 2010 not only 4,500 pages of UFO document but also like 300 to 400 pictures of UFOs.
   translation:
-    text: 這是地球上唯一一個社會要求政府對此事公開透明，而政府也照做了的模式。至少部分如此，因為從2008年到2010年，我們不僅獲得了4500頁的不明飛行物文件，還有300到400張不明飛行物的照片。
+    text: 這是地球上唯一一個社會要求政府對此事公開透明，而政府也照做了的模式。至少部分如此，因為從 2008 年到 2010 年，我們不僅獲得了 4,500 頁的不明飛行物文件，還有 300 到 400 張不明飛行物的照片。
     status: completed
     confidence: high
     notes: null
@@ -6804,7 +6804,7 @@ segments:
     end: 00:51:49,740
   source_text: Not really except if you look historically some of the FOIA documents released by the CIA. Usually it was the Defense Attaché Office that if it was a very important case they would send those guys to collect the information. Historically in some of the release files there are occasionally some documents about Chile but not recently. I have not seen it.
   translation:
-    text: 並沒有，除非從歷史角度來看CIA根據資訊自由法公開的一些文件。通常是由國防武官辦公室負責，如果是非常重要的案件，他們會派員去收集資訊。從歷史上看，一些公開文件中偶爾會有關於智利的文件，但最近沒有。我沒有看到過。
+    text: 並沒有，除非從歷史角度來看 CIA 根據資訊自由法公開的一些文件。通常是由國防武官辦公室負責，如果是非常重要的案件，他們會派員去收集資訊。從歷史上看，一些公開文件中偶爾會有關於智利的文件，但最近沒有。我沒有看到過。
     status: completed
     confidence: high
     notes: null
@@ -6859,7 +6859,7 @@ segments:
     end: 00:52:20,180
   source_text: That says a lot. With respect and you've drafted or you've worked with Danny Sheehan in drafting a resolution that can come from this body trying to refer this matter to the General Assembly of the United States.
   translation:
-    text: 這說明了很多問題。順帶一提，您曾與丹尼·希恩合作起草一份決議案，希望由本機構將此事提交給聯合國大會。
+    text: 這說明了很多問題。順帶一提，您曾與丹尼·希恩（Danny Sheehan）合作起草一份決議案，希望由本機構將此事提交給聯合國大會。
     status: completed
     confidence: high
     notes: null
@@ -6984,7 +6984,7 @@ segments:
     end: 00:54:09,220
   source_text: Yes, that's correct. In fact Uruguay has published through this commission a book that I brought here to show you with more than 20 cases of Uruguay, official cases written by the first president of this group, Colonel Eduardo Aguirre, who wrote this book 11 years ago. It was published publicly so that the public could follow all of the ufological activity in Uruguay. There are also press conferences and the information is even taken to the schools to talk to them about this and even educate them on this issue. This commission is made up by both civil and military members. It has a work methodology that was adopted in 1979 and this methodology was also shared with China.
   translation:
-    text: 是的，沒錯。事實上，烏拉圭透過這個委員會出版了一本書，我帶來這裡給各位看，書中記載了超過20個烏拉圭的案例，都是由這個小組的第一任主席愛德華多·阿吉雷上校撰寫的官方案例，他在11年前寫了這本書。這本書公開出版，以便公眾能夠了解烏拉圭所有的不明飛行物活動。此外還有新聞發布會，相關資訊甚至會帶到學校，向學生講解這個議題，甚至對他們進行教育。這個委員會由民間和軍方成員共同組成。它採用了一套於1979年制定的工作方法論，這套方法論也曾與中國分享。
+    text: 是的，沒錯。事實上，烏拉圭透過這個委員會出版了一本書，我帶來這裡給各位看，書中記載了超過 20 個烏拉圭的案例，都是由這個小組的第一任主席愛德華多·阿吉雷（Eduardo Aguirre）上校撰寫的官方案例，他在 11 年前寫了這本書。這本書公開出版，以便公眾能夠了解烏拉圭所有的不明飛行物活動。此外還有新聞發布會，相關資訊甚至會帶到學校，向學生講解這個議題，甚至對他們進行教育。這個委員會由民間和軍方成員共同組成。它採用了一套於 1979 年制定的工作方法論，這套方法論也曾與中國分享。
     status: completed
     confidence: high
     notes: null
@@ -7196,10 +7196,10 @@ segments:
     end: 00:58:29,420
   source_text: While our military and our government is saying that there's no such thing as a possibility of a UFO coming from another world, they of course admit that there are UFOs. UFO simply means unidentified flying object. And the Air Force says that in their Project Blue Book there were 701 of them that they couldn't wish away some way or another. So they do admit they're unidentified flying objects. They simply are denying categorically, I think, that they could be of extraterrestrial origin. But while they seem to poo-poo the whole thing here and relegate it to the ha-ha corner, they apparently are aggressive in participating in investigations of USO sightings in South America. And I'd just like to start here with Mr. Gevaerd and go down the table and have you tell each of us briefly, is this true in your country and to what extent?
   translation:
-    text: 雖然我們的軍方和政府表示，不明飛行物不可能來自另一個世界，但他們當然承認存在不明飛行物。UFO（不明飛行物）僅僅是指未經確認的飛行物體。空軍表示，在他們的藍皮書計畫（Project Blue Book）中，有701起案例是他們無論如何都無法輕易否認的。因此他們確實承認這些是不明飛行物。但我認為，他們只是斷然否認這些可能來自外星的起源。然而，儘管他們在這裡似乎對整件事嗤之以鼻，將其貶為笑柄，但他們顯然積極參與調查南美洲的不明潛水物（USO）目擊事件。我想從格瓦德先生（Mr. Gavard）開始，沿著桌子逐一請各位簡短地告訴我們，貴國是否確有此事，以及程度如何？
+    text: 雖然我們的軍方和政府表示，不明飛行物不可能來自另一個世界，但他們當然承認存在不明飛行物。UFO（不明飛行物）僅僅是指未經確認的飛行物體。空軍表示，在他們的藍皮書計畫（Project Blue Book）中，有 701 起案例是他們無論如何都無法輕易否認的。因此他們確實承認這些是不明飛行物。但我認為，他們只是斷然否認這些可能來自外星的起源。然而，儘管他們在這裡似乎對整件事嗤之以鼻，將其貶為笑柄，但他們顯然積極參與調查南美洲的不明潛水物（USO）目擊事件。我想從熱瓦爾德先生開始，沿著桌子逐一請各位簡短地告訴我們，貴國是否確有此事，以及程度如何？
     status: completed
     confidence: high
-    notes: Project Blue Book譯為藍皮書計畫，UFO譯為不明飛行物，USO譯為不明潛水物
+    notes: 原文 Mr. Gavard 應為 Mr. Gevaerd
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7222,10 +7222,10 @@ segments:
     end: 00:59:07,420
   source_text: Yes, it is. Actually, I'd like to take this opportunity to speak about crashes. It has been said here in this table and during the preceding years and days that crashes of UFOs have happened, most of them in old days. But there is at least one recent crash and it took place in Brazil in 1996. It is called the Varginha case in which an alien spacecraft crashed and at least two creatures were captured and offered no resistance to its capture.
   translation:
-    text: 是的，確實如此。實際上，我想藉此機會談談墜毀事件。今天在這張桌子上，以及過去這些年來，都有人提到不明飛行物墜毀事件確實發生過，大多數是在過去。但至少有一起近期的墜毀事件發生在1996年的巴西。這就是所謂的瓦爾任阿事件（Varginha case），一艘外星太空船墜毀，至少有兩個生物被捕獲，而且牠們沒有反抗。
+    text: 是的，確實如此。實際上，我想藉此機會談談墜毀事件。今天在這張桌子上，以及過去這些年來，都有人提到不明飛行物墜毀事件確實發生過，大多數是在過去。但至少有一起近期的墜毀事件發生在 1996 年的巴西。這就是所謂的瓦爾任阿事件（Varginha case），一艘外星太空船墜毀，至少有兩個生物被捕獲，而且牠們沒有反抗。
     status: completed
     confidence: high
-    notes: Varginha case譯為瓦爾任阿事件，保留原文
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7243,10 +7243,10 @@ segments:
     end: 01:00:28,220
   source_text: But they died right after they were captured. And this procedure were taken of rescuing the debris of the UFO and capturing the creatures were taken both by the fire department of the city of Virginia with the army personnel of a nearby headquarter. And in the next day, the following day of the capture, we already knew that US intelligence and US military as well as US doctors were sent by the US consulate in Sao Paulo to the city of Virginia to follow the procedures. The doctors were sent, medical doctors from United States, to follow what was being done about the creatures because they died and nobody could explain how were their morphology, how they function. And we know for a fact because this is a very well-documented case that has been investigated by at least 70 UFO researchers, including first UFO researchers from United States as Dr. Roger Leir, Dr. J.J. Hur-tak, and the
   translation:
-    text: 但牠們在被捕獲後不久就死亡了。救援不明飛行物殘骸和捕獲生物的行動是由瓦爾任阿市（Varginha）的消防部門以及附近總部的陸軍人員共同執行的。在捕獲的第二天，我們就已經知道美國情報機構、美國軍方以及美國醫生被聖保羅的美國領事館派往瓦爾任阿市跟進相關程序。這些來自美國的醫學專家被派去跟進對這些生物的處理，因為牠們已經死亡，而且沒有人能解釋牠們的形態結構或生理機能。我們確實知道這是一個記錄非常完整的案例，至少有70位不明飛行物研究者進行過調查，其中包括來自美國的先驅研究者，如羅傑·萊爾博士（Dr. Roger Leir）、J.J.赫塔克博士（Dr. J.J. Hur-tak），以及
+    text: 但牠們在被捕獲後不久就死亡了。救援不明飛行物殘骸和捕獲生物的行動是由瓦爾任阿市（Varginha）的消防部門以及附近總部的陸軍人員共同執行的。在捕獲的第二天，我們就已經知道美國情報機構、美國軍方以及美國醫生被聖保羅的美國領事館派往瓦爾任阿市跟進相關程序。這些來自美國的醫學專家被派去跟進對這些生物的處理，因為牠們已經死亡，而且沒有人能解釋牠們的形態結構或生理機能。我們確實知道這是一個記錄非常完整的案例，至少有 70 位不明飛行物研究者進行過調查，其中包括來自美國的先驅研究者，如羅傑·萊爾博士（Dr. Roger Leir）、J.J.赫塔克博士（Dr. J.J. Hur-tak），以及
     status: completed
     confidence: high
-    notes: 根據terminology.yaml，Dr. Roger Leir譯為羅傑·萊爾博士，Dr. J.J. Hur-tak譯為J.J.赫塔克博士；Varginha譯為瓦爾任阿
+    notes: 原文 the city of Virginia 應為 Varginha（兩處）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7269,10 +7269,10 @@ segments:
     end: 01:01:07,180
   source_text: deceased Dr. John Mack from Harvard University. They have been to Brazil, they confirmed what the UFO researchers from Brazil discovered. And we know for a fact that at least one of those two creatures were taken to United States by US military. And it was taken in one of the Buffalo airplanes to serve the US embassies and consulates in South America. When it came back to United States, it brought back to here one of the creatures and part of the object that were rescued, that were retrieved by the Brazilian military.
   translation:
-    text: 已故的哈佛大學約翰·麥克博士（Dr. John Mack）。他們都曾前往巴西，證實了巴西不明飛行物研究者的發現。我們確實知道，這兩個生物中至少有一個被美軍帶到了美國。牠是被一架服務於美國駐南美洲大使館和領事館的Buffalo型飛機運送的。當這架飛機返回美國時，它帶回了一個生物以及巴西軍方回收的部分飛行物殘骸。
+    text: 已故的哈佛大學約翰·麥克博士（Dr. John Mack）。他們都曾前往巴西，證實了巴西不明飛行物研究者的發現。我們確實知道，這兩個生物中至少有一個被美軍帶到了美國。牠是被一架服務於美國駐南美洲大使館和領事館的 Buffalo 型飛機運送的。當這架飛機返回美國時，它帶回了一個生物以及巴西軍方回收的部分飛行物殘骸。
     status: completed
     confidence: high
-    notes: 根據terminology.yaml，Dr. John Mack譯為約翰·麥克博士
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7291,10 +7291,10 @@ segments:
     end: 01:02:13,260
   source_text: Yes. Well, in Chile, I don't have really much information about the other than what I said earlier, that there were some documents from the CIA, but they tend to be old. But I do want to bring up a case that was mentioned by my colleague, Chionetti, which happened in Bolivia. And we don't have anybody from Bolivia here, so I'll speak briefly about that case because I'm familiar with. And it's a crash too that took place in Tarija, which is on the border of Bolivia and Argentina in May of 1978. In this case, we do have some documents, not Majestic 12 type documents, which are controversial, but these are officially released documents under the Freedom of Information Act, including a telex from Secretary of State Cyrus Vance at the time. And also Air Force officers from the Defense Attaché Office under a project that was called Project Moon Dust, which is well established that existed,
   translation:
-    text: 是的。嗯，在智利，除了我先前提到的，我沒有太多其他資訊，就是有一些來自CIA（中央情報局）的文件，但這些文件都比較舊。但我確實想提一個案例，是我的同事約翰內蒂（Johnetti）提到的，發生在玻利維亞。我們這裡沒有來自玻利維亞的代表，所以我會簡短地談談這個案例，因為我對此很熟悉。這也是一起墜毀事件，發生在1978年5月的塔里哈（Tarija），位於玻利維亞和阿根廷的邊境。在這個案例中，我們確實有一些文件，不是那種具爭議性的Majestic 12類型文件，而是根據資訊自由法（Freedom of Information Act）正式發布的文件，包括當時國務卿賽勒斯·萬斯（Cyrus Vance）發出的一封電報。還有來自國防武官辦公室（Defense Attaché Office）的空軍軍官，他們參與了一個名為月球塵埃計畫（Project Moon Dust）的項目，這個計畫的存在是已被確認的，
+    text: 是的。嗯，在智利，除了我先前提到的，我沒有太多其他資訊，就是有一些來自 CIA（中央情報局）的文件，但這些文件都比較舊。但我確實想提一個案例，是我的同事基奧內蒂（Chionetti）提到的，發生在玻利維亞。我們這裡沒有來自玻利維亞的代表，所以我會簡短地談談這個案例，因為我對此很熟悉。這也是一起墜毀事件，發生在 1978 年 5 月的塔里哈（Tarija），位於玻利維亞和阿根廷的邊境。在這個案例中，我們確實有一些文件，不是那種具爭議性的 Majestic 12 類型文件，而是根據資訊自由法（Freedom of Information Act）正式發布的文件，包括當時國務卿賽勒斯·萬斯（Cyrus Vance）發出的一封電報。還有來自國防武官辦公室（Defense Attaché Office）的空軍軍官，他們參與了一個名為月球塵埃計畫（Project Moon Dust）的項目，這個計畫的存在是已被確認的，
     status: completed
     confidence: high
-    notes: 根據terminology.yaml，Secretary of State Cyrus Vance譯為賽勒斯·萬斯國務卿，Project Moon Dust譯為月球塵埃計畫，Defense Attaché Office譯為國防武官辦公室
+    notes: 原文 Johnetti 應為 Chionetti（阿根廷證人亞歷杭德羅·基奧內蒂，見 UFO-13）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7317,7 +7317,7 @@ segments:
     end: 01:03:01,340
   source_text: which was for the recovery of space objects. I mean, that's how they started. As soon as the space age took off in 1957, then the Air Force created this project, Moon Dust, for the recovery of space debris. But according to one document, they list space debris, and in those days only two countries had space projects. That was the United States and the Soviet Union. And then it says unidentified flying objects in the same document. So when this incident happened, two officers from the Defense Attaché Office, which were stationed in La Paz, the capital of Bolivia, somehow showed up in this remote area. And unfortunately for them, as they were coming in the airport, they were photographed by a local reporter.
   translation:
-    text: 這個計畫的目的是回收太空物體。我的意思是，這是他們最初的任務。1957年太空時代開始後，空軍就創立了這個月球塵埃計畫，用於回收太空碎片。但根據一份文件，他們列出了太空碎片，而在當時只有兩個國家擁有太空項目，那就是美國和蘇聯。然後在同一份文件中又提到了不明飛行物。因此當這起事件發生時，兩名駐紮在玻利維亞首都拉巴斯（La Paz）的國防武官辦公室軍官，不知怎麼地出現在這個偏遠地區。而對他們來說不幸的是，當他們抵達機場時，被一名當地記者拍到了照片。
+    text: 這個計畫的目的是回收太空物體。我的意思是，這是他們最初的任務。1957 年太空時代開始後，空軍就創立了這個月球塵埃計畫，用於回收太空碎片。但根據一份文件，他們列出了太空碎片，而在當時只有兩個國家擁有太空項目，那就是美國和蘇聯。然後在同一份文件中又提到了不明飛行物。因此當這起事件發生時，兩名駐紮在玻利維亞首都拉巴斯（La Paz）的國防武官辦公室軍官，不知怎麼地出現在這個偏遠地區。而對他們來說不幸的是，當他們抵達機場時，被一名當地記者拍到了照片。
     status: completed
     confidence: high
     notes: null
@@ -7341,7 +7341,7 @@ segments:
     end: 01:03:21,780
   source_text: And the picture, you can see them, they're trying to hide their faces, but there they were. They were photographed, and the picture was published in the press. So the cover story is that they were on vacation. But that's not a type of city you go on vacation, number one. They were not with their wives. So obviously that was a cover story and a pretty bad one.
   translation:
-    text: 從照片中你可以看到他們，他們試圖遮住臉，但他們確實在那裡。他們被拍到了照片，而且照片被刊登在媒體上。所以官方說詞是他們在度假。但首先，那不是一個你會去度假的城市。他們也沒有帶著妻子。所以顯然那是一個掩蓋故事的說詞，而且相當拙劣。
+    text: 從照片中你可以看到他們，他們試圖遮住臉，但他們確實在那裡。他們被拍到了照片，而且照片被刊登在媒體上。所以官方說詞是他們在度假。但首先，那不是一個你會去度假的城市。他們也沒有帶著妻子。所以顯然那只是一個託詞，而且相當拙劣。
     status: completed
     confidence: high
     notes: null
@@ -7364,7 +7364,7 @@ segments:
     text: 儘管如此，這是在一個非常偏遠的地區。我們可能只掌握了來自美國的非常不完整的檔案。只有少數幾份文件。我確信還有更多。這個案例變得有些模糊的地方是，究竟是否有東西真的被回收並帶回美國，或者它可能還在那裡，因為那是在一個極其偏遠的地區，而且山上曾發生過山崩。最初由玻利維亞軍隊的一名中尉（lieutenant）帶隊進行了遠征，他們終於到達了那個地區，但他們沒有設備和設施來進行任何作業。有一些傳聞說有東西被回收並帶到了美國，但根據一位調查此案例的美國記者鮑勃·普拉特（Bob Pratt）的說法，他現已去世，他認為他們從未真正回收任何東西，因為那個地區實在太偏遠了，所以那個物體
     status: completed
     confidence: high
-    notes: lieutenant譯為中尉，保留人名Bob Pratt原文
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7408,7 +7408,7 @@ segments:
     text: 謝謝。桑切斯上校（Colonel Sanchez）。
     status: completed
     confidence: high
-    notes: Colonel譯為上校
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7422,7 +7422,7 @@ segments:
     end: 01:05:14,900
   source_text: In the Uruguayan case, as regards to UFO investigation, there is no official exchange with the United States. The only exchanges that we have had with the United States have been the recovery in 2011 of a star engine, Delta II, which fell over our airspace. I personally went to recover that object. But as regards to UFO issues, we have no exchange agreement with them, nor have we carried out any official exchange with them.
   translation:
-    text: 在烏拉圭的案例中，關於不明飛行物調查，與美國沒有官方交流。我們與美國唯一的交流是在2011年回收一枚Delta II型火箭發動機，它墜落在我們的領空。我親自前往回收了那個物體。但關於不明飛行物議題，我們與他們沒有交流協議，也沒有進行過任何官方交流。
+    text: 在烏拉圭的案例中，關於不明飛行物調查，與美國沒有官方交流。我們與美國唯一的交流是在 2011 年回收一枚 Delta II 型火箭發動機，它墜落在我們的領空。我親自前往回收了那個物體。但關於不明飛行物議題，我們與他們沒有交流協議，也沒有進行過任何官方交流。
     status: completed
     confidence: high
     notes: null
@@ -7443,10 +7443,10 @@ segments:
     end: 01:06:01,220
   source_text: Dr. Choy. In the case of my country, I understand that this takes place at two levels. The public level, in which the Air Force Office is in charge of this, and through the public relations. But I understand that at another level, there is an official exchange of information. And this is a constant exchange of information we can see, because afterwards, we can see the information does make it to the United States when there are UFO crashes. For example, in the case that we mentioned before, the San Mateo de Huanchor in 1980, unfortunately, there are no official documents. Everything is at a secret level, but we have received many testimonies on exchange of information.
   translation:
-    text: 崔博士（Dr. Troy）。在我的國家，我了解這是在兩個層面上進行的。公開層面是由空軍辦公室負責，並透過公共關係處理。但我了解在另一個層面上，存在著官方資訊交流。而且這是一種持續的資訊交流，我們可以看出來，因為之後當發生不明飛行物墜毀時，我們可以看到資訊確實會傳到美國。例如，我們之前提到的1980年聖馬托德萬喬（San Mato de Huancho）案例，不幸的是，沒有官方文件。一切都在機密層級，但我們已經收到了許多關於資訊交流的證詞。
+    text: 喬伊博士。在我的國家，我了解這是在兩個層面上進行的。公開層面是由空軍辦公室負責，並透過公共關係處理。但我了解在另一個層面上，存在著官方資訊交流。而且這是一種持續的資訊交流，我們可以看出來，因為之後當發生不明飛行物墜毀時，我們可以看到資訊確實會傳到美國。例如，我們之前提到的 1980 年聖馬特奧德萬喬（San Mateo de Huanchor）案例，不幸的是，沒有官方文件。一切都在機密層級，但我們已經收到了許多關於資訊交流的證詞。
     status: completed
-    confidence: medium
-    notes: Dr. Troy應為Dr. Choy（根據topics.json的potential_errors），但此處保留原文Troy的發音譯法；San Mato de Huancho應為La Joya（拉霍亞），但此處保留原文
+    confidence: high
+    notes: 原文 Dr. Troy 應為 Dr. Choy；San Mato de Huancho 應為 San Mateo de Huanchor（同 seg 205）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7470,7 +7470,7 @@ segments:
     text: 聖瑪利亞上校（Colonel Santa Maria）。請評論一下，我們的情報或軍方、或政府其他任何部門，是否有參與貴國的不明飛行物調查。我沒有察覺到美國在不明飛行物議題上有任何官方參與，但我們確實知道在情報交流中，情報機構之間存在著資訊交換。每當有新事件發生時，就會有資訊交流來更新情報界對這些議題的了解。
     status: completed
     confidence: high
-    notes: 根據terminology.yaml，Colonel Santa Maria譯為聖瑪利亞上校
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7489,10 +7489,10 @@ segments:
     end: 01:07:26,540
   source_text: Ms. Simondini. Yes, regarding as I explained to the senator, in matter of ufology on research, I'm not aware of any documentation exchange between Argentina and United States. But regarding to other agencies, as NASA, well, NASA has in several cases of Argentina is a place where there's a lot of space junk. There's a lot of debris satellites coming from international, also other countries. And I researched many cases where many debris is coming, but different kind of procedures.
   translation:
-    text: 西蒙迪尼女士（Ms. Simondini）。是的，正如我向參議員解釋的，在不明飛行物學研究方面，我沒有察覺到阿根廷和美國之間有任何文件交流。但關於其他機構，如NASA（美國國家航空暨太空總署），嗯，NASA在幾個案例中，阿根廷是一個有很多太空垃圾的地方。有很多來自國際上以及其他國家的衛星碎片。我研究過許多碎片墜落的案例，但程序各不相同。
+    text: 西蒙迪尼女士（Ms. Simondini）。是的，正如我向參議員解釋的，在不明飛行物學研究方面，我沒有察覺到阿根廷和美國之間有任何文件交流。但關於其他機構，如 NASA（美國國家航空暨太空總署），嗯，NASA 在幾個案例中，阿根廷是一個有很多太空垃圾的地方。有很多來自國際上以及其他國家的衛星碎片。我研究過許多碎片墜落的案例，但程序各不相同。
     status: completed
     confidence: high
-    notes: 根據topics.json的potential_errors，Mr. Gimini應為Ms. Simondini，此處已修正
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7511,7 +7511,7 @@ segments:
     end: 01:08:01,540
   source_text: And in the case of NASA, yes, they asked for particular cases if they were part of American missions. And there was a few cases of retrieval, yes. But we were talking about only space debris. Oh, thank you. It's very interesting that there's apparently a different attitude on their part if it's outside this country. The inner country is total denial. But if they really believe that, then they wouldn't be participating in these investigations in South America.
   translation:
-    text: 在NASA的案例中，是的，他們會詢問特定案例是否屬於美國任務的一部分。而且確實有少數回收案例，是的。但我們談論的只是太空碎片。哦，謝謝。非常有趣的是，如果事件發生在國外，他們的態度顯然不同。在國內是完全否認。但如果他們真的相信那種說法，那他們就不會參與這些在南美洲的調查了。
+    text: 在 NASA 的案例中，是的，他們會詢問特定案例是否屬於美國任務的一部分。而且確實有少數回收案例，是的。但我們談論的只是太空碎片。哦，謝謝。非常有趣的是，如果事件發生在國外，他們的態度顯然不同。在國內是完全否認。但如果他們真的相信那種說法，那他們就不會參與這些在南美洲的調查了。
     status: completed
     confidence: high
     notes: null
@@ -7533,10 +7533,10 @@ segments:
     end: 01:08:12,020
   source_text: Mr. Gevaerd, you mentioned that Operation Saucer was shut down. Is that simply because it then went underground, then went secret? They continued the investigation, but secret now?
   translation:
-    text: 格瓦德先生（Mr. Gevaerd），您提到飛碟行動（Operation Saucer）被關閉了。這是否僅僅是因為它轉入了地下，變成了秘密行動？他們繼續進行調查，但現在是秘密進行的？
+    text: 熱瓦爾德先生，您提到飛碟行動（Operation Saucer）被關閉了。這是否僅僅是因為它轉入了地下，變成了秘密行動？他們繼續進行調查，但現在是秘密進行的？
     status: completed
     confidence: high
-    notes: 根據terminology.yaml，Operation Saucer譯為飛碟行動；Mr. Gimini應為Mr. Gevaerd（根據topics.json的potential_errors）
+    notes: 原文 Mr. Gimini 於語境（提及飛碟行動關閉者為 Gevaerd）應為 Mr. Gevaerd
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7551,10 +7551,10 @@ segments:
     end: 01:09:02,700
   source_text: The main reason why the Operation Saucer was shut down was because there was an actual contact among the military, Uyrangê Hollanda, the captain that was commanding the Operation Saucer, and an extraterrestrial creature. It took place on mid-December 1977. And as part of his duties, the commander of the Operation Saucer has to go back to his commander, a brigadier in the city of Belen, and report weekly what was going on during the Operation Saucer. And when he did that that week, then when he informed to his superior that he had an actual encounter with a creature, two arms, two legs, a body, a head, with a helmet that came from a UFO, 300 feet long, that almost landed close to the Guajará-Mirim River.
   translation:
-    text: 飛碟行動被關閉的主要原因是因為軍方人員威廉·約蘭達（William Jolanda）——當時指揮飛碟行動的隊長——與一個外星生物發生了實際接觸。這發生在1977年12月中旬。作為職責的一部分，飛碟行動的指揮官必須每週回到他的指揮官——貝倫市（Belen）的一名准將（brigadier）——那裡，報告飛碟行動期間發生的事情。而當他在那一週這樣做時，當他向他的上級報告他確實與一個生物相遇時——那個生物有兩隻手臂、兩條腿、一個身體、一個頭，戴著頭盔，來自一艘300英呎長的不明飛行物，那艘飛行物差點降落在瓜雅拉米林河（Guajará-Mirim River）附近。
+    text: 飛碟行動被關閉的主要原因是因為軍方人員烏伊蘭吉·奧蘭達——當時指揮飛碟行動的上尉——與一個外星生物發生了實際接觸。這發生在 1977 年 12 月中旬。作為職責的一部分，飛碟行動的指揮官必須每週回到他的指揮官——貝倫（Belém）市的一名准將（brigadier）——那裡，報告飛碟行動期間發生的事情。而當他在那一週這樣做時，當他向他的上級報告他確實與一個生物相遇時——那個生物有兩隻手臂、兩條腿、一個身體、一個頭，戴著頭盔，來自一艘 300 英尺長的不明飛行物，那艘飛行物差點降落在瓜雅拉米林河（Guajará-Mirim River）附近。
     status: completed
     confidence: high
-    notes: 根據topics.json的potential_errors，William Jolanda應為Uyrangê Hollanda（烏伊蘭熱·奧蘭達上校），但此處保留原文發音譯法；brigadier譯為准將
+    notes: 原文 William Jolanda 應為 Uyrangê Hollanda（飛碟行動指揮官，同 seg 87/361）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7575,10 +7575,10 @@ segments:
     end: 01:09:22,140
   source_text: When we reported that to the brigadier, Protásio de Oliveira, his commander, then William Jolanda was given order to shut down Operation Saucer and return all material and bring all his men from the jungle to the city and give it all the material, all the information.
   translation:
-    text: 當我們向他的指揮官普羅塔索·德·奧利維拉准將（Protasso de Oliveira）報告此事後，威廉·約蘭達接到了關閉飛碟行動的命令，並交還所有物資，將他所有的人員從叢林帶回城市，交出所有物資和資訊。
+    text: 當我們向他的指揮官普羅塔西奧·德·奧利維拉准將（Protásio de Oliveira）報告此事後，烏伊蘭吉·奧蘭達接到了關閉飛碟行動的命令，並交還所有物資，將他所有的人員從叢林帶回城市，交出所有物資和資訊。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Protasso 應為 Protásio（飛碟行動上級指揮官 Protásio Lopes de Oliveira 准將）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7594,7 +7594,7 @@ segments:
     end: 01:10:00,780
   source_text: Then we realized, we knew, I've been seeking information about it for quite 20, 20-some years. I have gathered lots of information about it in my, in my pursuit for the details of this, that the Operation Saucer changed its name, changed its personnel. All the three dozen men that were commanded by William Jolanda were taken off the scene, and the new personnel took the operation under a different name and under U.S. military command from several months after December 1977.
   translation:
-    text: 後來我們發現，我們知道——我已經尋找相關資訊大約20多年了。我在追尋這件事的細節過程中收集了大量資訊——飛碟行動改了名稱，換了人員。威廉·約蘭達指揮的30多名人員全部被撤離現場，新的人員以不同的名稱繼續執行這個行動，並從1977年12月後的幾個月起改由美軍指揮。
+    text: 後來我們發現，我們知道——我已經尋找相關資訊大約 20 多年了。我在追尋這件事的細節過程中收集了大量資訊——飛碟行動改了名稱，換了人員。烏伊蘭吉·奧蘭達指揮的 36 名人員全部被撤離現場，新的人員以不同的名稱繼續執行這個行動，並從 1977 年 12 月後的幾個月起改由美軍指揮。
     status: completed
     confidence: high
     notes: null
@@ -7637,7 +7637,7 @@ segments:
     text: 不到一分鐘。我看到了。謝謝。我看到了。對於您所面對的物體可能是一種巨大的全息圖（hologram）而非實體物質的說法，支持和反對的論點各是什麼？您的子彈對它沒有效果。我只是想問，如果那個論點成立，它有沒有可能是一種巨大的全息圖，支持這個說法的論點是什麼？反對的論點又是什麼？
     status: completed
     confidence: high
-    notes: 根據terminology.yaml，hologram譯為全息圖
+    notes: null
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7745,10 +7745,10 @@ segments:
     end: 01:13:01,540
   source_text: What's the attitude here? It is, well, if you believe in unidentified fine objects or you believe that there's spacecraft that comes in, there's been such a damper by both the press and our government about believing this. I mean, you're sort of made fun of if you look at this and say, "Yes, this is real." What's the attitude of both the people and your press? We'll start with Mr. Gevaerd. Thank you. This is definitely not a matter of belief. There is a lot of data that has been produced by civilian UFO researchers, military UFO researchers, very few but very dedicated scientists for the last 60 years to confirm without any question at all that we are being visited by several species of more advanced, at least technologically, more advanced civilization that come here.
   translation:
-    text: 這裡的態度是什麼？如果你相信不明飛行物，或者你相信有太空船來到這裡，我們的媒體和政府對於相信這件事一直採取打壓的態度。我的意思是，如果你說『是的，這是真的』，你就會被嘲笑。你們的人民和媒體對此的態度是什麼？我們先請蓋瓦德先生回答。謝謝。這絕對不是一個信仰的問題。在過去60年裡，民間不明飛行物研究者、軍方不明飛行物研究者，以及少數但非常敬業的科學家們，已經產生了大量數據，毫無疑問地證實我們正被多個物種、至少技術上更先進的文明所造訪。
+    text: 這裡的態度是什麼？如果你相信不明飛行物，或者你相信有太空船來到這裡，我們的媒體和政府對於相信這件事一直採取打壓的態度。我的意思是，如果你說「是的，這是真的」，你就會被嘲笑。你們的人民和媒體對此的態度是什麼？我們先請熱瓦爾德先生回答。謝謝。這絕對不是一個信仰的問題。在過去 60 年裡，民間不明飛行物研究者、軍方不明飛行物研究者，以及少數但非常敬業的科學家們，已經產生了大量資料，毫無疑問地證實我們正被多個物種、至少技術上更先進的文明所造訪。
     status: completed
     confidence: high
-    notes: Mr. Gevaerd 為巴西證人 A.J. Gevaerd
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7787,7 +7787,7 @@ segments:
     end: 01:14:24,140
   source_text: It's airplanes here. They must have something like that in their planets. And they visit other planets in the universe. It is as simple as thinking what we are doing presently. We are at this very moment on Mars, on moon, taking photo of satellites, of Uranus, of the rings of Jupiter, of whatever. We are exploring our backyard. The difference is that our technology presently only allows us to explore this backyard. But if we're doing this now in 2013, in 20 years, in 30 years, in 50 years perhaps, we will be able to do interplanetary trips with crews inside our spaceships safely, effectively, go and come back. So if we can do this in the near future, and we're working on that definitely, this advanced civilization that started the evolutionary process much before us, they are doing the same. And they may have been doing the same for quite some time, perhaps
   translation:
-    text: 我們這裡製造飛機。他們在他們的星球上一定也有類似的東西。而且他們會造訪宇宙中的其他星球。這就像思考我們現在正在做的事情一樣簡單。就在此時此刻，我們正在火星上、在月球上，拍攝衛星、天王星、木星環等的照片。我們正在探索我們的後院。不同之處在於，我們目前的技術只允許我們探索這個後院。但如果我們現在在2013年能做到這一點，20年後、30年後、也許50年後，我們將能夠安全有效地進行星際旅行，載著船員乘坐太空船往返。所以如果不久的將來我們能做到這一點，而且我們肯定正在為此努力，那麼這個比我們早開始進化過程許多的先進文明，他們也在做同樣的事。而且他們可能已經這樣做相當長一段時間了，也許
+    text: 我們這裡製造飛機。他們在他們的星球上一定也有類似的東西。而且他們會造訪宇宙中的其他星球。這就像思考我們現在正在做的事情一樣簡單。就在此時此刻，我們正在火星上、在月球上，拍攝衛星、天王星、木星環等的照片。我們正在探索我們的後院。不同之處在於，我們目前的技術只允許我們探索這個後院。但如果我們現在在 2013 年能做到這一點，20 年後、30 年後、也許 50 年後，我們將能夠安全有效地進行星際旅行，載著船員乘坐太空船往返。所以如果不久的將來我們能做到這一點，而且我們肯定正在為此努力，那麼這個比我們早開始進化過程許多的先進文明，他們也在做同樣的事。而且他們可能已經這樣做相當長一段時間了，也許
     status: completed
     confidence: high
     notes: null
@@ -7873,7 +7873,7 @@ segments:
     text: 安東尼奧？是的。您問的是拉丁美洲公眾和媒體的社會態度。總的來說，我會說比美國開放得多。每當有重要的不明飛行物案件，主流報紙都會報導。就像這裡的《華盛頓郵報》、《紐約時報》報導一樣，認真地，或至少是半認真地報導。當然也有一些嘲笑，但不像美國那麼嚴重。另一方面，科學界在拉丁美洲一直非常保守。我想美國可能有更多科學家在悄悄進行研究，比拉丁美洲還多。雖然這種情況正在改變。
     status: completed
     confidence: high
-    notes: Antonio 指智利證人 Antonio Huneeus
+    notes: Antonio 指智利證人安東尼奧·胡尼烏斯（Antonio Huneeus）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7918,7 +7918,7 @@ segments:
     text: 也許他們只是害怕，因為同儕壓力總是很糟糕。貝爾穆德斯將軍告訴我的一件事，我覺得很有意思，他說飛行員，民航飛行員，非常謹慎。通常，因為在過去，民航飛行員從不想公開報告不明飛行物，因為這可能影響他們的職業生涯。他們不想被稱為不明飛行物狂熱者。所以他說他們正在努力讓飛行員相信這樣做是可以的。
     status: completed
     confidence: high
-    notes: General Ben Mudez 應為 General Bermúdez（貝爾穆德斯將軍）
+    notes: 原文 General Ben Mudez 應為 General Bermúdez
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7936,7 +7936,7 @@ segments:
     end: 01:17:31,260
   source_text: After all, this committee is from the Civil Aviation, and these are official forms. But he said it's easier for them from the military pilots, because if their commander tells a military pilot, "Here's a report, you fill the form," then officers follow orders, right?
   translation:
-    text: 畢竟，這個委員會隸屬於民航局，這些都是官方表格。但他說對於軍方飛行員來說比較容易，因為如果他們的指揮官告訴軍方飛行員：『這裡有一份報告，你填寫表格』，那麼軍官就會服從命令，對吧？
+    text: 畢竟，這個委員會隸屬於民航局，這些都是官方表格。但他說對於軍方飛行員來說比較容易，因為如果他們的指揮官告訴軍方飛行員：「這裡有一份報告，你填寫表格」，那麼軍官就會服從命令，對吧？
     status: completed
     confidence: high
     notes: null
@@ -7955,7 +7955,7 @@ segments:
     end: 01:18:14,420
   source_text: But the airline pilots is still volunteer. But the fact that this agency is with the Civil Aviation, that is also changing. And of course, because they are with the Civil Aviation, that's their primary source of information. It usually comes from pilots who are, in the course of their flying, they're seeing something. They don't know if that is another air traffic or something else. So they will call the control tower, says, "Well, I see an object in that corner. Do you have any air traffic?" And then usually the control tower, well, in some cases they probably do, and then that's filed away, and it's not a UFO case. But in other cases, they don't. So then the control tower says, "No, we have no scheduled traffic there."
   translation:
-    text: 但民航飛行員仍然是自願的。但這個機構隸屬於民航局的事實，這也正在改變。當然，因為他們隸屬於民航局，這是他們的主要資訊來源。通常來自飛行員，在他們飛行過程中，他們看到了某些東西。他們不知道那是其他空中交通還是別的東西。所以他們會呼叫塔台，說：『嗯，我在那個角落看到一個物體。你們有空中交通嗎？』然後通常塔台，在某些情況下他們可能有，那就存檔了，這不是不明飛行物案件。但在其他情況下，他們沒有。所以塔台會說：『不，我們在那裡沒有排定的航班。』
+    text: 但民航飛行員仍然是自願的。但這個機構隸屬於民航局的事實，這也正在改變。當然，因為他們隸屬於民航局，這是他們的主要資訊來源。通常來自飛行員，在他們飛行過程中，他們看到了某些東西。他們不知道那是其他空中交通還是別的東西。所以他們會呼叫塔台，說：「嗯，我在那個角落看到一個物體。你們有空中交通嗎？」然後通常塔台，在某些情況下他們可能有，那就存檔了，這不是不明飛行物案件。但在其他情況下，他們沒有。所以塔台會說：「不，我們在那裡沒有排定的航班。」
     status: completed
     confidence: high
     notes: null
@@ -8016,10 +8016,10 @@ segments:
     end: 01:19:56,580
   source_text: Colonel Sanchez? Well, I wanted to tell you that the Uruguayan Air Force does not rule out the hypothesis that these are extraterrestrials. This phenomenon is one that we've seen occur in Uruguayan airspace. It could be different probes, something else, but we need scientific evidence to prove it. That's why our commission works using scientific methodologies, but we do so through the Air Force. I believe that people's attitude and the media's attitude in Uruguay are very respectful, given the fact that for 33 years, the Air Force has been spearheading UFO investigations in Uruguay. And so I believe that the Uruguayan people have reliable and transparent official information and understand that. The situation in each country is different. In the case of Brazil, United States, these are massive countries with large tracts of land and very sophisticated defense systems. It's not the
   translation:
-    text: 桑切斯上校？我想告訴您，烏拉圭空軍不排除這些是外星人的假說。這種現象是我們在烏拉圭領空看到發生的。可能是不同的探測器，或其他東西，但我們需要科學證據來證明。這就是為什麼我們的委員會使用科學方法進行調查，但我們是通過空軍來做的。我相信烏拉圭人民的態度和媒體的態度非常尊重，考慮到33年來，空軍一直在烏拉圭主導不明飛行物調查。所以我相信烏拉圭人民擁有可靠和透明的官方資訊並理解這一點。每個國家的情況不同。就巴西、美國而言，這些是幅員遼闊的大國，擁有非常大片的土地和非常複雜的防禦系統。這不一樣
+    text: 桑切斯上校？我想告訴您，烏拉圭空軍不排除這些是外星人的假說。這種現象是我們在烏拉圭領空看到發生的。可能是不同的探測器，或其他東西，但我們需要科學證據來證明。這就是為什麼我們的委員會使用科學方法進行調查，但我們是透過空軍來做的。我相信烏拉圭人民的態度和媒體的態度非常尊重，考慮到 33 年來，空軍一直在烏拉圭主導不明飛行物調查。所以我相信烏拉圭人民擁有可靠和透明的官方資訊並理解這一點。每個國家的情況不同。就巴西、美國而言，這些是幅員遼闊的大國，擁有非常大片的土地和非常複雜的防禦系統。這不一樣
     status: completed
     confidence: high
-    notes: Colonel Sanchez 為烏拉圭證人
+    notes: Colonel Sanchez 為烏拉圭證人艾瑞爾·桑切斯·魯伊斯
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8085,7 +8085,7 @@ segments:
     end: 01:22:12,940
   source_text: The information is out there, and over these five days we've been talking about it very openly. However, and I'm struck by how this is addressed in the United States. They underscore the fact that these civilizations are potentially aggressive, you know, the nuclear aspects of this. That's very interesting, because we don't look at it that way. It seems like there might be politically correct extraterrestrials, you know, because they might be offensive in some way. But in Peru, when we hear about cases of encounters, we have very credible testimony of people who've had contact in many different cases. But it's always been with civilizations where there have been attempts made at engaging and having communication.
   translation:
-    text: 資訊就在那裡，在這五天裡我們一直在非常公開地談論這個問題。然而，讓我震驚的是美國處理這個問題的方式。他們強調這些文明可能具有侵略性，您知道，涉及核方面的問題。這很有意思，因為我們不是這樣看待的。似乎可能存在政治正確的外星人，您知道，因為他們可能以某種方式具有攻擊性。但在秘魯，當我們聽到接觸案例時，我們有非常可信的證詞，許多不同案例中都有人接觸過。但這總是與那些試圖接觸和溝通的文明有關。
+    text: 資訊就在那裡，在這五天裡我們一直在非常公開地談論這個問題。然而，讓我震驚的是美國處理這個問題的方式。他們強調這些文明可能具有侵略性，您知道，涉及核方面的問題。這很有意思，因為我們不是這樣看待的。似乎可能存在政治正確的外星人，您知道，因為他們可能以某種方式具有攻擊性。但在祕魯，當我們聽到接觸案例時，我們有非常可信的證詞，許多不同案例中都有人接觸過。但這總是與那些試圖接觸和溝通的文明有關。
     status: completed
     confidence: high
     notes: null
@@ -8109,10 +8109,10 @@ segments:
     end: 01:22:58,340
   source_text: If you look at the case of Santa Maria, where there was this "clash" and where all of the ammo was fired, you would expect a response from the others. But there was none. It seemed like it was like a cat and mouse game. And if they wanted to destroy it, they would, clearly with their technology, they would have been able to do that, and they haven't done it. So I think our approach is very different. It's not, we look at superior technology, not in military framework, but there are many visits that we are receiving. We have to look at it. Unfortunately, this is, we haven't been able to explain it scientifically yet.
   translation:
-    text: 如果您看看聖瑪利亞的案例，那裡發生了這場『衝突』，所有彈藥都發射了，您會預期對方會有回應。但沒有。這看起來像是一場貓捉老鼠的遊戲。如果他們想摧毀它，他們會的，顯然以他們的技術，他們本來能夠做到，但他們沒有這樣做。所以我認為我們的態度非常不同。我們看待先進技術，不是從軍事框架出發，而是我們正在接收到許多造訪。我們必須正視這個問題。不幸的是，我們至今還無法從科學上解釋它。
+    text: 如果您看看聖瑪利亞的案例，那裡發生了這場「衝突」，所有彈藥都發射了，您會預期對方會有回應。但沒有。這看起來像是一場貓捉老鼠的遊戲。如果他們想摧毀它，他們會的，顯然以他們的技術，他們本來能夠做到，但他們沒有這樣做。所以我認為我們的態度非常不同。我們看待先進技術，不是從軍事框架出發，而是我們正在接收到許多造訪。我們必須正視這個問題。不幸的是，我們至今還無法從科學上解釋它。
     status: completed
     confidence: high
-    notes: Santa Maria 指聖瑪利亞上校1980年的UFO遭遇事件
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8149,7 +8149,7 @@ segments:
     end: 01:23:27,780
   source_text: Yes. Just with respect for how the media treats us when there's a UFO case, I've worked with many airlines and crews. And I would say that starting in the 90s, pilots talk very openly about experiences that they've had, what they've seen, what they've heard.
   translation:
-    text: 是的。關於媒體如何報導不明飛行物案件，我與許多航空公司和機組人員合作過。我要說的是，從90年代開始，飛行員非常公開地談論他們的經歷，他們看到的、聽到的。
+    text: 是的。關於媒體如何報導不明飛行物案件，我與許多航空公司和機組人員合作過。我要說的是，從 90 年代開始，飛行員非常公開地談論他們的經歷，他們看到的、聽到的。
     status: completed
     confidence: high
     notes: null
@@ -8171,7 +8171,7 @@ segments:
     text: 因為同樣地，沒有人會嘲笑你。現在談論目擊事件是很正常的，這對任何人的職業生涯都沒有任何影響。我很高興情況是這樣。以我在阿根廷的經驗，我當了三十年的國際記者，我看到了演變。當我開始的時候，媒體比較冷淡。很難接受採訪。很難打開這個話題的潘朵拉盒子。但我看到，在全世界，我看到這正在改變。例如，隨著歷史頻道的系列節目《遠古外星人》或《UFO獵人》，人們變得更加開放。例如今天，我們每天都在新聞中發現與地球相似的行星。令人難以置信的是，天文學和外太空生物學每天都出現在您早餐桌上的報紙裡。這種態度也幫助了不明飛行物
     status: completed
     confidence: high
-    notes: ancient aliens 譯為《遠古外星人》，exobiology 譯為外太空生物學
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8194,7 +8194,7 @@ segments:
     end: 01:25:08,340
   source_text: too. And for example, regarding with the pilots, it's interesting how the Latin American pilots are so open. Every time I travel, I go to the cockpit to talk with the pilots, and the pilots have experiences different to the United States, who the pilots are more shy. And I say, "What happened? We have only activities out of the border and not here?" It's interesting.
   translation:
-    text: 的議題。例如，關於飛行員，有趣的是拉丁美洲的飛行員如此開放。每次我旅行時，我都會去駕駛艙和飛行員交談，這些飛行員的經歷與美國不同，美國的飛行員比較害羞。我會說：『怎麼回事？我們只有在邊境外才有活動，這裡沒有嗎？』這很有意思。
+    text: 的議題。例如，關於飛行員，有趣的是拉丁美洲的飛行員如此開放。每次我旅行時，我都會去駕駛艙和飛行員交談，這些飛行員的經歷與美國不同，美國的飛行員比較害羞。我會說：「怎麼回事？我們只有在邊境外才有活動，這裡沒有嗎？」這很有意思。
     status: completed
     confidence: high
     notes: null
@@ -8214,10 +8214,10 @@ segments:
     end: 01:25:50,180
   source_text: See, and sometimes I feel ridiculous asking, but I always go also to the airline I travel in, United American Airlines. I say, "No, they don't talk too much." But I think it's a totally paradigm shift. It's a shift now in all levels of consciousness. And I think it's positive for the new generations. When I was growing up as a ufologist, yeah, my own family was kind of, "Oh, he liked these subjects." And they were not kind of accepting that, also the media. But I think it's totally a new hope for all of us.
   translation:
-    text: 看，有時候我覺得問這個問題很可笑，但我總是會去我搭乘的航空公司，聯合航空或美國航空。我說：『不，他們不太願意談。』但我認為這是一場完全的典範轉移。現在在各個意識層面都在轉變。我認為這對新一代來說是正面的。當我作為一名幽浮學家成長時，是的，我自己的家人會說：『哦，他喜歡這些主題。』他們不太接受，媒體也是。但我認為這對我們所有人來說是一個全新的希望。
+    text: 看，有時候我覺得問這個問題很可笑，但我總是會去我搭乘的航空公司，聯合航空或美國航空。我說：「不，他們不太願意談。」但我認為這是一場完全的典範轉移。現在在各個意識層面都在轉變。我認為這對新一代來說是正面的。當我作為一名幽浮學家成長時，是的，我自己的家人會說：「哦，他喜歡這些主題。」他們不太接受，媒體也是。但我認為這對我們所有人來說是一個全新的希望。
     status: completed
     confidence: high
-    notes: paradigm shift 譯為典範轉移
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8254,10 +8254,10 @@ segments:
     end: 01:26:27,100
   source_text: I have a question, and Dr. Choy was absolutely my straight man on this one. My question is to you, Colonel Santa Maria. There was a phenomena in the surprise that the object, the UFO did not, was not attacking back. And would you respond to that?
   translation:
-    text: 我有一個問題，蔡伊博士在這個問題上絕對是我的好搭檔。我的問題是給您的，聖瑪利亞上校。有一個令人驚訝的現象，那個物體，不明飛行物沒有，沒有反擊。您能回應一下嗎？
+    text: 我有一個問題，喬伊博士在這個問題上絕對是我的好搭檔。我的問題是給您的，聖瑪利亞上校。有一個令人驚訝的現象，那個物體，不明飛行物沒有，沒有反擊。您能回應一下嗎？
     status: completed
     confidence: medium
-    notes: straight man 在此指喜劇中的搭檔／捧哏角色；Dr. Choi 應為 Dr. Choy（蔡伊博士）
+    notes: straight man 在此指喜劇中的搭檔／捧哏角色；原文 Dr. Choi 應為 Dr. Choy（喬伊博士）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8294,7 +8294,7 @@ segments:
     end: 01:27:21,820
   source_text: Thank you. Representative Kilpatrick. Thank you, Madam Chair. To Colonel Sanchez and Dr.
   translation:
-    text: 謝謝。基爾帕特里克議員。謝謝，主席女士。請問桑切斯上校和
+    text: 謝謝。基爾派翠克眾議員。謝謝，主席女士。請問桑切斯上校和
     status: completed
     confidence: high
     notes: null
@@ -8311,10 +8311,10 @@ segments:
     end: 01:27:30,380
   source_text: Choy, what kind of scientific information do you seek that would verify the phenomena?
   translation:
-    text: 蔡伊博士，您尋求什麼樣的科學資訊來驗證這個現象？
+    text: 喬伊博士，您尋求什麼樣的科學資訊來驗證這個現象？
     status: completed
     confidence: high
-    notes: Choi 應為 Choy（蔡伊博士）
+    notes: 原文 Choi 應為 Choy（承接 seg 459）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8328,7 +8328,7 @@ segments:
     end: 01:28:31,820
   source_text: Well, we, in theory, have no idea what it is we're actually investigating. So we use scientific methods to conduct our investigations. I can say that in 1993 we saw two luminous spheres hovering over a field in the interior part of Uruguay, these luminous spheres that measured about 30 or 40 centimeters, no more than that. They left prints where scientifically through laboratory studies we saw a diminishment of phosphorus and zinc and magnesium. So samples were taken from where it had touched the soil. We saw there were eight different tracks there.
   translation:
-    text: 嗯，理論上，我們根本不知道我們實際上在調查什麼。所以我們使用科學方法進行調查。我可以說，1993年我們在烏拉圭內陸地區的一片田野上空看到兩個發光球體，這些發光球體大約30或40公分，不超過這個尺寸。它們留下了痕跡，通過實驗室研究我們科學地看到磷、鋅和鎂的減少。所以我們從它接觸土壤的地方採集了樣本。我們看到那裡有八個不同的痕跡。
+    text: 嗯，理論上，我們根本不知道我們實際上在調查什麼。所以我們使用科學方法進行調查。我可以說，1993 年我們在烏拉圭內陸地區的一片田野上空看到兩個發光球體，這些發光球體大約 30 或 40 公分，不超過這個尺寸。它們留下了痕跡，透過實驗室研究我們科學地看到磷、鋅和鎂的減少。所以我們從它接觸土壤的地方採集了樣本。我們看到那裡有八個不同的痕跡。
     status: completed
     confidence: high
     notes: null
@@ -8350,7 +8350,7 @@ segments:
     end: 01:29:39,100
   source_text: And again, there was a reduction in phosphorus, zinc, and magnesium. We continue to use scientific methods to investigate in an attempt to see if this was reminiscent of any type of other interaction we've seen because of the color, the energy. But we don't know because we don't have anything else to analyze. However, we continue to work on projects that have been underway for several years. We're working with Norway in an analysis of lights that have been seen hovering over Uruguay, over dams, in mountainous areas of rivers where there have been witnesses. We have photographs. We're trying to conduct a film and photographic analysis. And again, we're also working with Chile on this. We have a written agreement between the Uruguayan and the Chilean Air Force in the sharing of information and data.
   translation:
-    text: 同樣地，磷、鋅和鎂都減少了。我們繼續使用科學方法進行調查，試圖看看這是否讓我們想起因為顏色、能量而見過的任何其他類型的互動。但我們不知道，因為我們沒有其他東西可以分析。然而，我們繼續進行已經進行了好幾年的項目。我們正在與挪威合作分析在烏拉圭上空、水壩上空、河流山區出現的光，那裡有目擊者。我們有照片。我們正在嘗試進行影片和照片分析。同樣地，我們也在與智利合作。我們有烏拉圭和智利空軍之間關於資訊和數據共享的書面協議。
+    text: 同樣地，磷、鋅和鎂都減少了。我們繼續使用科學方法進行調查，試圖看看這是否讓我們想起因為顏色、能量而見過的任何其他類型的互動。但我們不知道，因為我們沒有其他東西可以分析。然而，我們繼續進行已經進行了好幾年的項目。我們正在與挪威合作分析在烏拉圭上空、水壩上空、河流山區出現的光，那裡有目擊者。我們有照片。我們正在嘗試進行影片和照片分析。同樣地，我們也在與智利合作。我們有烏拉圭和智利空軍之間關於資訊和資料共享的書面協議。
     status: completed
     confidence: high
     notes: null
@@ -8392,7 +8392,7 @@ segments:
     end: 01:30:04,460
   source_text: In my particular case, when I was working with the Peruvian Air Force, I was cooperating with them in their UFO office. The focus was on serious formal scientific investigations.
   translation:
-    text: 就我個人而言，當我在秘魯空軍工作時，我與他們在他們的不明飛行物辦公室合作。重點是嚴肅的正式科學調查。
+    text: 就我個人而言，當我在祕魯空軍工作時，我與他們在他們的不明飛行物辦公室合作。重點是嚴肅的正式科學調查。
     status: completed
     confidence: high
     notes: null
@@ -8427,10 +8427,10 @@ segments:
     end: 01:30:38,980
   source_text: Then we had to cross this information with weather, data, et cetera. But this morning I was talking about the Chulucanas incident. We saw these spheres of light that moved intelligently because they interacted with the people. When people tried to approach, they saw the spheres approaching then going back to where they were. And so it defied conventional science.
   translation:
-    text: 然後我們必須將這些資訊與天氣、數據等交叉比對。但今天早上我在談論丘盧坎事件。我們看到這些光球以智慧方式移動，因為它們與人們互動。當人們試圖接近時，他們看到光球接近，然後又回到原來的位置。所以這違背了傳統科學。
+    text: 然後我們必須將這些資訊與天氣、資料等交叉比對。但今天早上我在談論丘盧卡納斯事件。我們看到這些光球以智慧方式移動，因為它們與人們互動。當人們試圖接近時，他們看到光球接近，然後又回到原來的位置。所以這違背了傳統科學。
     status: completed
     confidence: high
-    notes: Chulucan incident 譯為丘盧坎事件
+    notes: 原文 Chulucan 應為 Chulucanas（同 UFO-13 丘盧卡納斯事件）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8447,7 +8447,7 @@ segments:
     end: 01:31:41,020
   source_text: And we sought explanations. We investigated for three years. And so the only way of understanding this phenomenon, again, is escaped traditional scientific cannons, that it was possible that we had to look for new possibilities. And in a conference, I was saying that if it's 73 million light years away, how do you continue to analyze it? And in 2010, there was a home in Lima, the capital of Peru, where there was a phenomenon where things started flying, floating around, things exploded. And there was a cell phone from the house owner. It was found in another house. And 25 people saw how that particular cell phone disappeared from one house and appeared in another house. And it wasn't that it flew from one place.
   translation:
-    text: 我們尋求解釋。我們調查了三年。所以理解這種現象的唯一方式，再次強調，是超越傳統科學的範疇，我們必須尋找新的可能性。在一次會議上，我說如果它在7300萬光年之外，你怎麼繼續分析它？2010年，在秘魯首都利馬有一棟房子，那裡發生了一種現象，東西開始飛起來、漂浮，東西爆炸了。還有屋主的手機。它在另一棟房子裡被發現。25個人看到那支手機如何從一棟房子消失，然後出現在另一棟房子裡。它不是從一個地方飛過去的。
+    text: 我們尋求解釋。我們調查了三年。所以理解這種現象的唯一方式，再次強調，是超越傳統科學的範疇，我們必須尋找新的可能性。在一次會議上，我說如果它在 7,300 萬光年之外，你怎麼繼續分析它？2010 年，在祕魯首都利馬有一棟房子，那裡發生了一種現象，東西開始飛起來、漂浮，東西爆炸了。還有屋主的手機。它在另一棟房子裡被發現。25 個人看到那支手機如何從一棟房子消失，然後出現在另一棟房子裡。它不是從一個地方飛過去的。
     status: completed
     confidence: high
     notes: null
@@ -8474,7 +8474,7 @@ segments:
     text: 它從A點消失，然後在B點重新出現。這有點像科幻小說中的瞬間移動。但它有目擊者。人們稱這為超自然現象，這在科學界幾乎像是一個髒話。但我們必須想辦法嘗試理解這些現象。
     status: completed
     confidence: high
-    notes: teleporting 譯為瞬間移動，paranormal phenomenon 譯為超自然現象
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8491,10 +8491,10 @@ segments:
     end: 01:32:58,700
   source_text: Thank you. Representative Cook? Yes. Colonel Santamaria, I'd like to ask you, so that we can do due diligence on any possible other explanation or hologram explanation, for example, could you tell us what your Air Squad commander ordered you to do that day? How many people on the ground witnessed the globe, as you described it initially, as about 600 meters above the earth, at about five kilometers away from the base, and particularly interested in how long at speeds that you described as 1.6, up to 1.6 Mach speed, you did this, you kept this globe in your sights.
   translation:
-    text: 謝謝。庫克議員？是的。聖瑪利亞上校，我想問您，為了讓我們盡職調查任何其他可能的解釋或全息圖解釋，例如，您能告訴我們那天您的空軍中隊指揮官命令您做什麼嗎？有多少地面人員目擊了那個球體，正如您最初描述的，大約在離地面600公尺、距離基地約5公里的地方，我特別感興趣的是，以您所描述的1.6馬赫速度，您將這個球體保持在視線中多久。
+    text: 謝謝。庫克眾議員？是的。聖瑪利亞上校，我想問您，為了讓我們盡職調查任何其他可能的解釋或全息圖解釋，例如，您能告訴我們那天您的空軍中隊指揮官命令您做什麼嗎？有多少地面人員目擊了那個球體，正如您最初描述的，大約在離地面 600 公尺、距離基地約 5 公里的地方，我特別感興趣的是，以您所描述的 1.6 馬赫速度，您將這個球體保持在視線中多久。
     status: completed
     confidence: high
-    notes: hologram 譯為全息圖，Mach 譯為馬赫
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8514,7 +8514,7 @@ segments:
     end: 01:33:09,060
   source_text: When this balloon observed, there were 1,800 people who were in our morning formations.
   translation:
-    text: 當這個氣球被觀察到時，我們的晨間編隊中有1800人。
+    text: 當這個氣球被觀察到時，我們的晨間編隊中有 1,800 人。
     status: completed
     confidence: high
     notes: null
@@ -8565,7 +8565,7 @@ segments:
     end: 01:34:19,940
   source_text: It's not on the radar. We thought it might be spy equipment, and it was in restricted airspace for civilian flights. So I was given the order. This could be a spy object. And so I was given the order to pursue it. And so if it did not move away, I was supposed to engage it with fire. So 1,800 people witnessed it. But 400 people were in combat positions that if it started to attack, that they would intervene. So as I fired and it moved away from the base, the other 400 kept their position. They remained on standby. And they saw that it moved up in the air, and the object moved away. So I chased it. I think it was 1,800 people who saw this very clearly.
   translation:
-    text: 它不在雷達上。我們認為它可能是間諜設備，而且它在民用航班的禁飛空域。所以我接到了命令。這可能是一個間諜物體。於是我接到命令去追擊它。如果它不離開，我就應該開火攻擊它。所以有1800人目擊了這個事件。但有400人處於戰鬥位置，如果它開始攻擊，他們會介入。所以當我開火，它離開基地時，另外400人保持他們的位置。他們保持待命狀態。他們看到它升上空中，然後物體離開了。於是我追擊它。我想有1800人非常清楚地看到了這一切。
+    text: 它不在雷達上。我們認為它可能是間諜設備，而且它在民用航班的禁飛空域。所以我接到了命令。這可能是一個間諜物體。於是我接到命令去追擊它。如果它不離開，我就應該開火攻擊它。所以有 1,800 人目擊了這個事件。但有 400 人處於戰鬥位置，如果它開始攻擊，他們會介入。所以當我開火，它離開基地時，另外 400 人保持他們的位置。他們保持待命狀態。他們看到它升上空中，然後物體離開了。於是我追擊它。我想有 1,800 人非常清楚地看到了這一切。
     status: completed
     confidence: high
     notes: null
@@ -8643,7 +8643,7 @@ segments:
     end: 01:34:56,380
   source_text: Representative Bartlett.
   translation:
-    text: 巴特利特議員。
+    text: 巴特利特眾議員。
     status: completed
     confidence: high
     notes: null
@@ -8680,7 +8680,7 @@ segments:
     end: 01:35:42,500
   source_text: So let me just ask the question. I want just a one-word answer from you. Where your military and your government is on a scale of 1 to 10, where 1 is open and accepting and investigative, and 10 is denial and ridicule. Our country is pretty close to 10. Tell us on that scale where your countries are. Just a number.
   translation:
-    text: 所以讓我直接問這個問題。我只想要您給我一個詞的答案。您的軍方和政府在1到10的尺度上處於什麼位置，1是開放、接受和調查的，10是否認和嘲笑的。我們的國家非常接近10。請告訴我們您的國家在這個尺度上處於什麼位置。只要一個數字。
+    text: 所以讓我直接問這個問題。我只想要您給我一個詞的答案。您的軍方和政府在 1 到 10 的尺度上處於什麼位置，1 是開放、接受和調查的，10 是否認和嘲笑的。我們的國家非常接近 10。請告訴我們您的國家在這個尺度上處於什麼位置。只要一個數字。
     status: completed
     confidence: high
     notes: null
@@ -8700,7 +8700,7 @@ segments:
     end: 01:35:47,180
   source_text: Just a number. Being 0 total openness and 10 total ridicule.
   translation:
-    text: 只要一個數字。0是完全開放，10是完全嘲笑。
+    text: 只要一個數字。0 是完全開放，10 是完全嘲笑。
     status: completed
     confidence: high
     notes: null
@@ -8717,7 +8717,7 @@ segments:
     end: 01:35:49,700
   source_text: Yeah, 1 or 0 total openness, right. Yeah.
   translation:
-    text: 是的，1或0是完全開放，對。是的。
+    text: 是的，1 或 0 是完全開放，對。是的。
     status: completed
     confidence: high
     notes: null
@@ -8734,7 +8734,7 @@ segments:
     end: 01:35:53,700
   source_text: I would say we are 3. 3? Pretty good. 2, 3.
   translation:
-    text: 我會說我們是3。3？相當不錯。2、3。
+    text: 我會說我們是 3。3？相當不錯。2、3。
     status: completed
     confidence: high
     notes: null
@@ -8770,7 +8770,7 @@ segments:
     end: 01:36:11,660
   source_text: After this, the Iguachu forged the Iguachu letter and the recent meeting at the Ministry of Defense in Brazil two weeks ago, only two weeks ago, maybe we can go an update, an upgrade to 1.
   translation:
-    text: 在此之後，伊瓜蘇信函的促成，以及兩週前在巴西國防部的會議，僅僅兩週前，也許我們可以更新、升級到1。
+    text: 在此之後，伊瓜蘇信函的促成，以及兩週前在巴西國防部的會議，僅僅兩週前，也許我們可以更新、升級到 1。
     status: completed
     confidence: medium
     notes: Iguachu letter 譯為伊瓜蘇信函，原文 'forged' 在此應指促成/推動之意
@@ -8823,10 +8823,10 @@ segments:
     end: 01:37:15,940
   source_text: Well, I think that we have to distinguish between the recognition that the UFO phenomenon is real and the extraterrestrial hypothesis, because that's another step. So in the terms of the acceptance of UFOs as a real phenomenon, I mean, we have this statement from General Bermudez. Another important ufologist in Chile from the Army is Major Bravo, who was with the aviation branch of the Army. That would be a 0, a 1. They totally recognize that the UFO phenomenon is real. But the extraterrestrial hypothesis, that's another question, because then you would have to have a body or a piece of metal or something that really could be proven. So there, I don't know, they admit the possibility, but there I would say maybe a 6 or 7 as far as the ET part. But the UFO, total acceptance that it's a real phenomenon and that it may pose possibly a threat to aviation. And that is something that governments
   translation:
-    text: 嗯，我認為我們必須區分對不明飛行物現象是真實的認知，以及外星假說，因為那是另一個層次。所以就接受不明飛行物作為真實現象而言，我的意思是，我們有貝爾穆德斯將軍的這份聲明。智利軍方另一位重要的幽浮學家是布拉沃少校，他隸屬於陸軍航空部門。那會是0，是1。他們完全承認不明飛行物現象是真實的。但外星假說，那是另一個問題，因為那樣的話你必須有一具屍體或一塊金屬或某種可以真正被證明的東西。所以在那方面，我不知道，他們承認這種可能性，但在那方面我會說可能是6或7，就外星人部分而言。但不明飛行物，完全接受它是真實的現象，而且它可能對航空構成威脅。這是政府
+    text: 嗯，我認為我們必須區分對不明飛行物現象是真實的認知，以及外星假說，因為那是另一個層次。所以就接受不明飛行物作為真實現象而言，我的意思是，我們有貝爾穆德斯將軍的這份聲明。智利軍方另一位重要的幽浮學家是布拉沃（Bravo）少校，他隸屬於陸軍航空部門。那會是 0，是 1。他們完全承認不明飛行物現象是真實的。但外星假說，那是另一個問題，因為那樣的話你必須有一具屍體或一塊金屬或某種可以真正被證明的東西。所以在那方面，我不知道，他們承認這種可能性，但在那方面我會說可能是 6 或 7，就外星人部分而言。但不明飛行物，完全接受它是真實的現象，而且它可能對航空構成威脅。這是政府
     status: completed
     confidence: high
-    notes: General Bermudez 譯為貝爾穆德斯將軍，extraterrestrial hypothesis 譯為外星假說
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8866,7 +8866,7 @@ segments:
     end: 01:38:24,300
   source_text: The vision of Uruguay from the point of view of the Uruguayan Air Force is people, I would say, 0. Because Uruguay, through its Air Force and UFO Investigation Commission, even welcomed the idea of extraterrestrials as a possibility. However, there are 40 cases, again, that we've been unable to resolve because of how odd they are. And you have civilian pilots, military pilots that have chased these UFOs and have taken photographs. So I would say the openness in Uruguay means that people have a good image of what the information we're providing is.
   translation:
-    text: 從烏拉圭空軍的角度來看，烏拉圭的觀點是人們，我會說，0。因為烏拉圭，通過其空軍和不明飛行物調查委員會，甚至歡迎外星人作為一種可能性。然而，有40個案例，再次強調，我們因為它們太奇特而無法解決。而且有民航飛行員、軍方飛行員追擊過這些不明飛行物並拍攝了照片。所以我會說烏拉圭的開放性意味著人們對我們提供的資訊有很好的印象。
+    text: 從烏拉圭空軍的角度來看，烏拉圭的觀點是人們，我會說，0。因為烏拉圭，透過其空軍和不明飛行物調查委員會，甚至歡迎外星人作為一種可能性。然而，有 40 個案例，再次強調，我們因為它們太奇特而無法解決。而且有民航飛行員、軍方飛行員追擊過這些不明飛行物並拍攝了照片。所以我會說烏拉圭的開放性意味著人們對我們提供的資訊有很好的印象。
     status: completed
     confidence: high
     notes: null
@@ -8888,7 +8888,7 @@ segments:
     end: 01:38:57,580
   source_text: They believe it's reliable. And again, we use scientific methods because there's no other way to do it from our point of view. And the groups that address UFOs, like spiritual groups, that are also working in investigating this accept what we are proposing. And we've even held a conference in 2012 where we invited all of the groups in Uruguay that do these investigations. I think people were very happy, and I think there was acceptance. Thank you very much.
   translation:
-    text: 他們相信這是可靠的。同樣地，我們使用科學方法，因為從我們的角度來看，沒有其他方法可以做到。而且那些研究不明飛行物的團體，比如靈性團體，也在進行調查並接受我們提出的建議。我們甚至在2012年舉辦了一次會議，邀請了烏拉圭所有從事這些調查的團體。我認為人們非常高興，而且我認為得到了認可。非常感謝。
+    text: 他們相信這是可靠的。同樣地，我們使用科學方法，因為從我們的角度來看，沒有其他方法可以做到。而且那些研究不明飛行物的團體，比如靈性團體，也在進行調查並接受我們提出的建議。我們甚至在 2012 年舉辦了一次會議，邀請了烏拉圭所有從事這些調查的團體。我認為人們非常高興，而且我認為得到了認可。非常感謝。
     status: completed
     confidence: high
     notes: null
@@ -8910,7 +8910,7 @@ segments:
     end: 01:39:59,740
   source_text: Thank you, Congressman. Before giving my response, I would like to clearly state that I profoundly love my country, Peru, and I profoundly respect the armed forces of my country. In fact, they gave me the opportunity to work with them, and I profoundly admire the American people here as well. I want that to be very clear before I respond. What you're asking me is very complex, because at the moment when the Peruvian government decided to open this investigation office, they were admitting that there was a reality to this. They're not going to open an office on unicorns and ghosts. No, that's not what we're doing here. But on the other hand, this has been going on for 13 years, and we have seen minimal results. And when I talk to the military personnel, they say that they have seen UFOs, but they can't come out publicly and say because there is a policy that has not yet opened up. And so I would
   translation:
-    text: 謝謝，議員先生。在給出我的回答之前，我想清楚地聲明，我深愛我的祖國秘魯，我深深尊重我國的武裝部隊。事實上，他們給了我與他們合作的機會，我也深深敬佩這裡的美國人民。在我回答之前，我希望這一點非常清楚。您問我的問題非常複雜，因為當秘魯政府決定開設這個調查辦公室時，他們就承認了這件事的真實性。他們不會為了獨角獸和鬼魂開設一個辦公室。不，我們在這裡不是在做這個。但另一方面，這已經持續了13年，我們看到的成果微乎其微。當我與軍方人員交談時，他們說他們看到過不明飛行物，但他們不能公開說出來，因為有一項政策尚未開放。所以我會
+    text: 謝謝，議員先生。在給出我的回答之前，我想清楚地聲明，我深愛我的祖國祕魯，我深深尊重我國的武裝部隊。事實上，他們給了我與他們合作的機會，我也深深敬佩這裡的美國人民。在我回答之前，我希望這一點非常清楚。您問我的問題非常複雜，因為當祕魯政府決定開設這個調查辦公室時，他們就承認了這件事的真實性。他們不會為了獨角獸和鬼魂開設一個辦公室。不，我們在這裡不是在做這個。但另一方面，這已經持續了 13 年，我們看到的成果微乎其微。當我與軍方人員交談時，他們說他們看到過不明飛行物，但他們不能公開說出來，因為有一項政策尚未開放。所以我會
     status: completed
     confidence: high
     notes: null
@@ -8936,7 +8936,7 @@ segments:
     end: 01:40:07,460
   source_text: say that that's why I couldn't give it a 10. But that would just be my response.
   translation:
-    text: 說這就是為什麼我不能給它10分。但這只是我的回答。
+    text: 說這就是為什麼我不能給它 10 分。但這只是我的回答。
     status: completed
     confidence: high
     notes: null
@@ -8953,10 +8953,10 @@ segments:
     end: 01:40:47,400
   source_text: The Argentina government doesn't pronounce the extraterrestrial hypothesis open, but in the history of our traditions, for example, in 1968, the president of Argentina, General Onganía, said, "I believe in the flying saucers." Yo creo en los platos voladores. That openness always exists. In that case, it was the president of a nation. But the government is investigating the UFOs with scientifically correctness in this moment. And in the future, maybe it will be some pronunciation. That is it.
   translation:
-    text: 阿根廷政府沒有公開宣稱外星假說，但在我們的傳統歷史中，例如，1968年，阿根廷總統翁加尼亞將軍說：『我相信飛碟。』Yo creo en los platos voladores（西班牙語：我相信飛碟）。這種開放性一直存在。在那种情况下，那是一個國家的總統。但政府目前正在以科學正確性調查不明飛行物。將來，也許會有一些正式聲明。就是這樣。
+    text: 阿根廷政府沒有公開宣稱外星假說，但在我們的傳統歷史中，例如，1968 年，阿根廷總統翁加尼亞將軍說：「我相信飛碟。」Yo creo en los platos voladores（西班牙語：我相信飛碟）。這種開放性一直存在。在那種情況下，那是一個國家的總統。但政府目前正在以科學正確性調查不明飛行物。將來，也許會有一些正式聲明。就是這樣。
     status: completed
     confidence: high
-    notes: General Onganía 譯為翁加尼亞將軍，原文保留西班牙語引述
+    notes: null
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9026,7 +9026,7 @@ segments:
     end: 01:41:13,380
   source_text: I want to thank our panel for being here today. This has been really interesting, and your openness and what's happening in each of your countries has been, I think, a real eye-opener for the rest of us. And with that, I'm going to conclude this hearing. We will be back here at 1.45.
   translation:
-    text: 我要感謝我們的小組成員今天來到這裡。這真的很有意思，你們的開放態度以及你們每個國家發生的事情，我認為對我們其他人來說是一個真正的開眼界的經驗。就此，我要結束這場聽證會。我們將於1點45分回到這裡。
+    text: 我要感謝我們的小組成員今天來到這裡。這真的很有意思，你們的開放態度以及你們每個國家發生的事情，我認為對我們其他人來說是一個真正的開眼界的經驗。就此，我要結束這場聽證會。我們將於 1 點 45 分回到這裡。
     status: completed
     confidence: high
     notes: null

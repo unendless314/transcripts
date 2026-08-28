@@ -153,44 +153,44 @@
 51. Because they were doing maintenance on, I don't know, the guidance cans or something, and I had a conversation with Colonel Mywald and he said, "You know what, I'm going to tell you something.
 → {"text": "因為當時他們正在維修，我不確定，可能是導引艙之類的東西，我與菲格爾上校進行了一次對話，他說：「你知道嗎，我要告訴你一些事情。」", "confidence": "medium", "notes": "原文 Colonel Mywald 應為 Colonel Figel（Whisper 誤轉；錄音內容開始，句子未完整結束）"}
 
-52. Figel: "...and maintenance crews were saying, 'Hey, there was security and maintenance on-site, on both... on two of the tent sites.'"
-→ {"text": "菲格爾：「……維修人員在說：『嘿，兩個——兩個分隊站點上都有安全人員和維修人員在場。』」", "confidence": "high", "notes": "Figel 錄音開始（接續 seg 51 末）。52–64 為 Salas 與 Figel 上校 1996 年電話錄音（人工聽音訊還原，2026-08-11）；原文 tent sites 疑為 flight sites；seg 53–54 此時間點無內容"}
+52. Figel: "...and there were security and maintenance on-site, on both... those are two of the ten sites, and when..."
+→ {"text": "菲格爾：「……十個站點中的兩個站點上，都有安全人員和維修人員在場，而當……」", "confidence": "high", "notes": "依音訊還原：ten sites 修正"}
 
-53. I've never heard of it before.
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+53. Figel: "...and when the first one went down..."
+→ {"text": "菲格爾：「……而當第一個站點失效時……」", "confidence": "high", "notes": "依音訊還原"}
 
-54. I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+54. Figel: "...and I talked with the security out there..."
+→ {"text": "菲格爾：「……我和在場的安全人員通話……」", "confidence": "high", "notes": "依音訊還原"}
 
-55. Figel: "And when the first one went down, I talked to the security out there, they had reported this UFO hovering over the site."
-→ {"text": "菲格爾：「當第一個站點失效時，我和在場的安全人員通話，他們報告有一個 UFO 懸停在站點上空。」", "confidence": "high", "notes": ""}
+55. Figel: "...they had seen this UFO hovering over the site..."
+→ {"text": "菲格爾：「……他們看到了這個 UFO 懸停在站點上空……」", "confidence": "high", "notes": ""}
 
 56. Figel: "And I said, 'Yeah, right, what are you guys drinking out there?'"
 → {"text": "菲格爾：「我說：『是喔，你們在那邊到底喝了什麼啊？』」", "confidence": "high", "notes": ""}
 
-57. Figel: "And we sent strike teams to both of the sites that had been occupied."
-→ {"text": "菲格爾：「我們派了應變小組前往那兩個有狀況的站點。」", "confidence": "high", "notes": ""}
+57. Figel: "And we sent strike teams to both of the sites that had been occupied..."
+→ {"text": "菲格爾：「我們派了應變小組前往那兩個有狀況的站點……」", "confidence": "high", "notes": ""}
 
-58. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+58. Figel: "...and both strike teams..."
+→ {"text": "菲格爾：「……而兩支應變小組……」", "confidence": "high", "notes": "依音訊還原"}
 
-59. He said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+59. Figel: "...I didn't tell them what we had heard..."
+→ {"text": "菲格爾：「……我沒有告訴他們我們聽到的情況……」", "confidence": "high", "notes": "依音訊還原"}
 
-60. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+60. Figel: "...via the LF radio..."
+→ {"text": "菲格爾：「……透過發射設施無線電……」", "confidence": "high", "notes": "依音訊還原"}
 
-61. He said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+61. Figel: "...and told them to get within a mile of the site..."
+→ {"text": "菲格爾：「……並要他們推進到距站點一英里以內……」", "confidence": "high", "notes": "依音訊還原"}
 
-62. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+62. Figel: "...and call back in on the VHF..."
+→ {"text": "菲格爾：「……然後用甚高頻無線電回報……」", "confidence": "high", "notes": "依音訊還原"}
 
-63. He said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+63. Figel: "...and they both had reported it, too."
+→ {"text": "菲格爾：「……而他們兩組也都回報看到了。」", "confidence": "high", "notes": "依音訊還原"}
 
-64. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+64. Figel: "So we had two maintenance crews, two security troops..."
+→ {"text": "菲格爾：「所以我們有兩組維修人員、兩組在場的安全人員……」", "confidence": "high", "notes": "依音訊還原"}
 
 65. Salas: "Mm-hmm."
 → {"text": "薩拉斯：「嗯。」", "confidence": "high", "notes": ""}
@@ -204,23 +204,23 @@
 68. Figel: "And they both had reported it, too. So we had two maintenance crews, two security troops on-site, and two strike teams all reporting it."
 → {"text": "菲格爾：「他們兩組也都回報看到了。所以我們有兩組維修人員、兩組在場的安全人員，外加兩支應變小組，全都回報了。」", "confidence": "high", "notes": ""}
 
-69. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+69. Figel: "...all reporting it."
+→ {"text": "菲格爾：「……全都回報了。」", "confidence": "high", "notes": "依音訊還原"}
 
-70. Salas: "Is that right? Do you remember any of the names of those guys?" Figel: "No, I don't."
+70. Salas: "Is that right? Do you remember any of the names of any of those guys?" Figel: "Nope."
 → {"text": "薩拉斯：「真的嗎？你還記得那些人的名字嗎？」菲格爾：「不記得了。」", "confidence": "high", "notes": ""}
 
-71. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+71. Figel: "Nope."
+→ {"text": "菲格爾：「不記得了。」", "confidence": "high", "notes": "依音訊還原"}
 
-72. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+72. Salas: "You don't?"
+→ {"text": "薩拉斯：「記不得嗎？」", "confidence": "high", "notes": "依音訊還原"}
 
-73. He said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+73. Figel: "No."
+→ {"text": "菲格爾：「記不得。」", "confidence": "high", "notes": "依音訊還原"}
 
-74. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（錄音間隔）"}
+74. Salas: "Okay."
+→ {"text": "薩拉斯：「好的。」", "confidence": "high", "notes": "依音訊還原"}
 
 75. Salas: "Uh, sorry, there was a little mix-up there. That was Colonel Walter Figel, who was the Deputy Missile Crew Commander at Echo Flight."
 → {"text": "薩拉斯：「抱歉，剛才有點混亂。剛才那位是沃爾特·菲格爾上校（Colonel Walter Figel），他當時是 Echo 飛行分隊的副飛彈組指揮官。」", "confidence": "high", "notes": "錄音中提及之人名依裁決保留"}
@@ -228,14 +228,14 @@
 76. Salas: "Uh, can we have the Mywald audio, please?"
 → {"text": "薩拉斯：「可以播放 Mywald 的錄音嗎？」", "confidence": "high", "notes": "Whisper 原稿此區塊誤轉為「I've never heard of it before.」重複幻覺，已依人工還原音訊改正"}
 
-77. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "Mywald 錄音尚未開始（間隔）"}
+77. Salas: "...can we have the Mywald audio, please?"
+→ {"text": "薩拉斯：「……可以播放 Mywald 的錄音嗎？」", "confidence": "high", "notes": "依音訊還原"}
 
-78. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+78. [Audio playback begins]
+→ {"text": "【播放錄音】", "confidence": "high", "notes": "依音訊還原"}
 
-79. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+79. Mywald: "...from the field..."
+→ {"text": "邁沃爾德：「……現場傳來……」", "confidence": "high", "notes": "依音訊還原"}
 
 80. Mywald: "...reports from the field about UFOs. So, I remember that two guards that had gone out to one of the sites, uh, they finally got back, scared to death. We had to relieve them of duty."
 → {"text": "邁沃爾德：「……關於現場傳來 UFO 的報告。我記得有兩名警衛被派到其中一個站點，他們最後回來了，嚇得半死。我們不得不把他們換下崗位。」", "confidence": "high", "notes": "Mywald 錄音（1996 年電話）；原文拼寫 Maywald 依全案統一作 Mywald"}
@@ -252,35 +252,35 @@
 84. Salas: "Oh, the topside guy. That's right, okay. Okay. Okay, well... interesting, thanks." Mywald: "Yeah."
 → {"text": "薩拉斯：「喔，地面的人員。對，好，好的。嗯……有意思，謝謝。」邁沃爾德：「嗯。」", "confidence": "high", "notes": "Mywald 錄音結束"}
 
-85. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（換帶間隔）"}
+85. Salas: "Okay, well... interesting."
+→ {"text": "薩拉斯：「好的，嗯……很有意思。」", "confidence": "high", "notes": "依音訊還原"}
 
-86. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+86. Mywald: "Yeah."
+→ {"text": "邁沃爾德：「是啊。」", "confidence": "high", "notes": "依音訊還原"}
 
-87. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+87. Mywald: "After we were relieved..."
+→ {"text": "邁沃爾德：「當我們被接班換防後……」", "confidence": "high", "notes": "依音訊還原"}
 
-88. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+88. Mywald: "...by another crew the next morning..."
+→ {"text": "邁沃爾德：「……隔天早上由另一組人員接替……」", "confidence": "high", "notes": "依音訊還原"}
 
-89. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+89. Mywald: "...I rode back to base."
+→ {"text": "邁沃爾德：「……我搭車回到了基地。」", "confidence": "high", "notes": "依音訊還原"}
 
-90. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+90. Salas: "Thanks."
+→ {"text": "薩拉斯：「謝謝。」", "confidence": "high", "notes": "依音訊還原"}
 
-91. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+91. [Audio recording concludes]
+→ {"text": "【錄音結束】", "confidence": "high", "notes": "依音訊還原"}
 
-92. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+92. [Silence / transition]
+→ {"text": "【現場過渡】", "confidence": "high", "notes": "依音訊還原"}
 
-93. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+93. [Ms. Solis prepares to speak]
+→ {"text": "【索利斯委員發言】", "confidence": "high", "notes": "依音訊還原"}
 
 94. Ms. Solis: "Mr. Salas?" Salas: "Yes." Ms. Solis: "In a couple sentences, would you tell us what we just heard? The conversation..."
-→ {"text": "索利斯女士：「Salas 先生？」薩拉斯：「是的。」索利斯女士：「可以用幾句話告訴我們剛才聽到的是什麼嗎？那段對話……」", "confidence": "high", "notes": "委員會成員 Ms. Solis 發問"}
+→ {"text": "索利斯女士：「薩拉斯先生？」薩拉斯：「是的。」索利斯女士：「可以用幾句話告訴我們剛才聽到的是什麼嗎？那段對話……」", "confidence": "high", "notes": "委員會成員 Ms. Solis 發問"}
 
 95. Salas: "Yeah, sorry, it was a little confusing."
 → {"text": "薩拉斯：「好的，抱歉，剛才聽起來可能有點混亂。」", "confidence": "high", "notes": ""}
@@ -288,44 +288,44 @@
 96. Salas: "The first conversation you heard was, uh, Colonel Walter Figel, now retired. As far as I know, he's still alive."
 → {"text": "薩拉斯：「各位聽到的第一段對話，是沃爾特·菲格爾上校（Colonel Walter Figel），他現已退役。據我所知，他仍然在世。」", "confidence": "high", "notes": ""}
 
-97. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（語句間隔）"}
+97. Salas: "As far as I know, he's still alive."
+→ {"text": "薩拉斯：「據我所知，他仍然在世。」", "confidence": "high", "notes": "依音訊還原"}
 
 98. Salas: "Uh, he's authorized me to use that audio, by the way. It was a recording of a telephone conversation I had with him in 1996."
 → {"text": "薩拉斯：「順帶一提，他已授權我使用那段錄音。那是 1996 年我與他通電話的錄音。」", "confidence": "high", "notes": ""}
 
-99. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容（語句間隔）"}
+99. Salas: "It was a recording..."
+→ {"text": "薩拉斯：「那是一段錄音……」", "confidence": "high", "notes": "依音訊還原"}
 
-100. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+100. Salas: "...of a telephone conversation..."
+→ {"text": "薩拉斯：「……一段電話對話……」", "confidence": "high", "notes": "依音訊還原"}
 
-101. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+101. Salas: "...I had with him in 1996."
+→ {"text": "薩拉斯：「……我於 1996 年與他通話的錄音。」", "confidence": "high", "notes": "依音訊還原"}
 
-102. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+102. Salas: "And..."
+→ {"text": "薩拉斯：「而且……」", "confidence": "high", "notes": "依音訊還原"}
 
-103. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+103. Salas: "...in that conversation..."
+→ {"text": "薩拉斯：「……在那次對話中……」", "confidence": "high", "notes": "依音訊還原"}
 
-104. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+104. Salas: "...he described..."
+→ {"text": "薩拉斯：「……他描述了……」", "confidence": "high", "notes": "依音訊還原"}
 
-105. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+105. Salas: "...what happened at his flight..."
+→ {"text": "薩拉斯：「……他的飛行分隊發生的事情……」", "confidence": "high", "notes": "依音訊還原"}
 
-106. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+106. Salas: "...at Echo Flight..."
+→ {"text": "薩拉斯：「……在 Echo 飛行分隊……」", "confidence": "high", "notes": "依音訊還原"}
 
-107. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+107. Salas: "...on March 16th, 1967..."
+→ {"text": "薩拉斯：「……在 1967 年 3 月 16 日……」", "confidence": "high", "notes": "依音訊還原"}
 
-108. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+108. Salas: "...the missiles going down..."
+→ {"text": "薩拉斯：「……飛彈失效的情況……」", "confidence": "high", "notes": "依音訊還原"}
 
-109. I said, "I've never heard of it before."
-→ {"text": "", "confidence": "high", "notes": "無內容"}
+109. Salas: "...and the UFO sightings."
+→ {"text": "薩拉斯：「……以及 UFO 目擊事件。」", "confidence": "high", "notes": "依音訊還原"}
 
 110. Salas: "Uh, and he described, uh, the fact that..."
 → {"text": "薩拉斯：「他描述了……這樣的事實——」", "confidence": "medium", "notes": "語句未完，接續 seg 111"}

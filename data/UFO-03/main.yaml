@@ -60,10 +60,10 @@ segments:
     end: 00:00:31,480
   source_text: And we're going to begin with Dr. Greer.
   translation:
-    text: 我們將從 Dr. Greer 開始。
+    text: 我們將從格里爾博士（Dr. Greer）開始。
     status: completed
     confidence: high
-    notes: null
+    notes: 人名統一中譯：Steven Greer → 史蒂芬·格里爾（本集新增定譯）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -148,7 +148,7 @@ segments:
     end: 00:01:10,040
   source_text: And this got reported into a Department of Defense memo or report that was done by John Peterson at the Arlington Institute.
   translation:
-    text: 此事被記錄於一份國防部備忘錄或報告中，該文件由 Arlington Institute 的 John Peterson 撰寫。
+    text: 此事被記錄於一份國防部備忘錄或報告中，該文件由阿靈頓研究所（Arlington Institute）的約翰·彼得森（John Peterson）撰寫。
     status: completed
     confidence: high
     notes: null
@@ -166,7 +166,7 @@ segments:
     end: 00:01:16,560
   source_text: And he was friends with the man who became CIA Director Woolsey.
   translation:
-    text: 他與後來成為 CIA 局長的 Woolsey 是朋友。
+    text: 他與後來成為 CIA 局長的伍爾西（Woolsey）是朋友。
     status: completed
     confidence: high
     notes: null
@@ -183,7 +183,7 @@ segments:
     end: 00:01:24,040
   source_text: CIA Director Woolsey invited us to come to Washington to meet with him and some folks to discuss this.
   translation:
-    text: CIA 局長 Woolsey 邀請我們前往華盛頓與他及一些人士會面討論此事。
+    text: CIA 局長伍爾西邀請我們前往華盛頓與他及一些人士會面討論此事。
     status: completed
     confidence: high
     notes: null
@@ -310,7 +310,7 @@ segments:
     end: 00:02:55,800
   source_text: During the period around the time we had our meetings with Mr. Rockefeller, I had already set up briefings through the head of intelligence for the Joint Chiefs of Staff, Admiral Wilson, meeting at Wright-Patterson Air Force Base to which the remains of the Roswell event was sent.
   translation:
-    text: 在我們與 Rockefeller 先生會面的那段期間，我已透過參謀長聯席會議情報主管威爾森上將（Admiral Wilson）安排了簡報，會面地點在萊特-帕特森空軍基地（Wright-Patterson Air Force Base），羅斯威爾事件（Roswell event）的殘骸曾被送往該處。
+    text: 在我們與洛克菲勒先生會面的那段期間，我已透過參謀長聯席會議情報主管威爾森上將（Admiral Wilson）安排了簡報，會面地點在萊特-帕特森空軍基地（Wright-Patterson Air Force Base），羅斯威爾事件（Roswell event）的殘骸曾被送往該處。
     status: completed
     confidence: high
     notes: null
@@ -365,7 +365,7 @@ segments:
     end: 00:03:32,360
   source_text: That then led to a series of events where we decided what we needed to do was pull together the best military, intelligence, and corporate, Lockheed, Northrop, and other witnesses as we call them, to this issue and begin to do briefings for various members of Congress and people in the administration.
   translation:
-    text: 這促成了一系列後續事件，我們決定集結最優秀的軍方、情報界與企業界人士——包括 Lockheed、Northrop 等公司的證人——並開始向國會議員及政府人士進行簡報。
+    text: 這促成了一系列後續事件，我們決定集結最優秀的軍方、情報界與企業界人士——包括洛克希德（Lockheed）、諾斯羅普（Northrop）等公司的證人——並開始向國會議員及政府人士進行簡報。
     status: completed
     confidence: high
     notes: null
@@ -385,7 +385,7 @@ segments:
     end: 00:03:44,420
   source_text: In 1995, I organized, and Mr. Rockefeller funded, a gathering of the first of witnesses at Asilomar near Monterey in California.
   translation:
-    text: 1995 年，我組織了首次證人聚會，由 Rockefeller 先生資助，地點在加州蒙特雷附近的 Asilomar。
+    text: 1995 年，我組織了首次證人聚會，由洛克菲勒先生資助，地點在加州蒙特雷附近的阿西洛馬（Asilomar）。
     status: completed
     confidence: high
     notes: null
@@ -403,7 +403,7 @@ segments:
     end: 00:04:01,840
   source_text: These were people, they were cosmonauts, they were from Russia, they were astronauts such as Edgar Mitchell, they were people who had worked with Eisenhower and knew of Eisenhower's concern that he had lost control over the secrecy on this issue around 1956.
   translation:
-    text: 這些人包括太空人、俄羅斯太空員、Edgar Mitchell 這樣的太空人，以及曾與艾森豪共事的人士，他們知道艾森豪曾擔憂在 1956 年左右失去了對此議題保密工作的控制權。
+    text: 這些人包括來自俄羅斯的太空人、像艾德加·米切爾（Edgar Mitchell）這樣的太空人，以及曾與艾森豪共事的人士，他們知道艾森豪曾擔憂在 1956 年左右失去了對此議題保密工作的控制權。
     status: completed
     confidence: high
     notes: null
@@ -458,7 +458,7 @@ segments:
     end: 00:04:47,240
   source_text: We did in 1997, and Congressman Dan Burton, who was chairman of the House Government Oversight Committee came, along with a number of other congressmen and senators, and also following that, we did what's called a stand-up briefing, Edgar Mitchell and I did, the Sixth Man to Walk on the Moon, with some of our military sources for then head of intelligence joint staff, Admiral Tom Wilson.
   translation:
-    text: 我們於 1997 年舉行了會議，眾議院政府監督委員會主席 Dan Burton 眾議員與其他多位國會議員及參議員出席。隨後，我與第六位登月太空人 Edgar Mitchell 一同為當時的聯合參謀部情報主管湯姆·威爾森上將（Admiral Tom Wilson）進行了所謂的立式簡報，並提供了我們的軍方消息來源。
+    text: 我們於 1997 年舉行了會議，眾議院政府監督委員會主席丹·伯頓眾議員（Dan Burton）與其他多位國會議員及參議員出席。隨後，我與第六位登月太空人艾德加·米切爾一同為當時的聯合參謀部情報主管湯姆·威爾森上將（Admiral Tom Wilson）進行了所謂的立式簡報，並提供了我們的軍方消息來源。
     status: completed
     confidence: high
     notes: null
@@ -497,10 +497,10 @@ segments:
     end: 00:05:16,680
   source_text: What I was astonished and appalled to learn is that the first document that I have in this document is a National Reconnaissance Office document that has actionable intelligence listing project code names and code numbers, effective as of the early '90s.
   translation:
-    text: 令我震驚與憤慨的是，該文件中的第一份文件是一份國家偵察辦公室（National Reconnaissance Office）的文件，包含可採取行動的情報，列出了截至 1990 年代初期仍有效的計畫代號與代碼。
+    text: 令我震驚與憤慨的是，該文件中的第一份文件是一份國家偵察局（NRO）的文件，包含可採取行動的情報，列出了截至 1990 年代初期仍有效的計畫代號與代碼。
     status: completed
     confidence: high
-    notes: null
+    notes: 機構名依本集術語表／主表定譯為國家偵察局（NRO）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -516,10 +516,10 @@ segments:
     end: 00:05:28,680
   source_text: This Admiral, Tom Wilson, looked through this document, identified one of the compartments, contacted them and was told, and I'm quoting, "Sir, you do not have a need to know."
   translation:
-    text: 這位湯姆·威爾森上將（Admiral Tom Wilson）翻閱了這份文件，確認了其中一個機密區間（compartment），聯繫了該單位，卻被告知——我引述原話——「長官，您沒有知曉的必要性。」
+    text: 這位湯姆·威爾森上將（Admiral Tom Wilson）翻閱了這份文件，確認了其中一個機密區間（compartment），聯繫了該單位，卻被告知——我引述原話——「長官，您沒有需知權限。」
     status: completed
     confidence: high
-    notes: null
+    notes: need to know 依主表譯為「需知」（deprecated：知密權）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -553,7 +553,7 @@ segments:
     end: 00:05:50,200
   source_text: Because of that event, we then wrote a unless otherwise directed letter.
   translation:
-    text: 由於此事件，我們隨後撰寫了一封「除非另有指示」信函（Unless Otherwise Directed letter，UNOD）。
+    text: 由於此事件，我們隨後撰寫了一封「除非另有指示」信函（Unless Otherwise Directed letter, UNOD）。
     status: completed
     confidence: high
     notes: null
@@ -570,7 +570,7 @@ segments:
     end: 00:06:03,480
   source_text: My military advisor said, "Dr. Greer, what you need to do is do a UNOD letter that goes to all branches of government that says that we have concluded that this subject is being managed in an extra-constitutional fashion.
   translation:
-    text: 我的軍方顧問說：「Dr. Greer，您需要撰寫一封 UNOD 信函送交政府各部門，聲明我們已得出結論：此議題正以超憲法方式進行管理。
+    text: 我的軍方顧問說：「格里爾博士，您需要撰寫一封 UNOD 信函送交政府各部門，聲明我們已得出結論：此議題正以超憲法方式進行管理。
     status: completed
     confidence: high
     notes: null
@@ -766,10 +766,10 @@ segments:
     end: 00:07:35,520
   source_text: The day before 9/11, September 10th, that there was a memo from a comment, I should say, in a speech by then Secretary of Defense Rumsfeld who stated that there is $2.3 trillion unaccounted for in the Department of Defense budget.
   translation:
-    text: 在 9/11 的前一天，也就是 9 月 10 日，時任國防部長倫斯斐（Rumsfeld）在一次演講中發表評論——應該說是一份備忘錄——指出國防部預算中有 2.3 兆美元下落不明。
+    text: 在 9/11 的前一天，也就是 9 月 10 日，時任國防部長倫斯斐（Rumsfeld）曾提到一份備忘錄——更正確地說，是他在一次演講中的評論——指出國防部預算中有 2.3 兆美元下落不明。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文講者先說 memo 再自我修正為演講中的評論，原譯方向相反已更正
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -819,10 +819,10 @@ segments:
     end: 00:08:09,040
   source_text: Now, prior to that, I was not surprised at that comment because back in 1994, I had a meeting with Mr. D'Amato, not the senator, who was the chief counsel for the Senate Appropriations Committee, and he informed me that they felt that there was upwards of or in excess of $900 billion a year missing out of the Treasury going into so-called black projects.
   translation:
-    text: 在此之前，我對這番評論並不驚訝，因為早在 1994 年，我曾與參議院撥款委員會（Senate Appropriations Committee）首席法律顧問 DeMato 先生（不是參議員）會面，他告知我，他們認為每年有高達或超過 9，000 億美元從財政部流失，流向所謂的黑計畫。
+    text: 在此之前，我對這番評論並不驚訝，因為早在 1994 年，我曾與參議院撥款委員會（Senate Appropriations Committee）首席法律顧問達馬托先生（D'Amato，不是參議員）會面，他告知我，他們認為每年有高達或超過 9,000 億美元從財政部流失，流向所謂的黑計畫。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 DeMato 應為 D'Amato（理查·達馬托，講者特別澄清非達馬托參議員）；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1138,8 +1138,8 @@ segments:
   translation:
     text: 莫蘭上將（Admiral Moran）曾榮獲法國安培獎（Ampere Prize），他跟我一樣是醫學博士，同時也是物理學博士，曾擔任薩科齊總統（President Sarkozy）等人的顧問，他一直與我們會面，我們也參與了其他國家的相關計畫。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: Admiral Moran 身份查證未果（法國海軍上將兼醫學、物理雙博士與安培獎得主的組合罕見），音譯保留待查
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1334,7 +1334,7 @@ segments:
     end: 00:11:42,280
   source_text: My uncle was a senior project engineer at Grumman that became Northrop Grumman that put the first man on the moon with the lunar module.
   translation:
-    text: 我的叔叔是 Grumman（後來成為 Northrop Grumman）的資深項目工程師，該公司以登月艙將第一位人類送上月球。
+    text: 我的叔叔是格魯曼公司（Grumman，後來成為諾斯羅普·格魯曼 Northrop Grumman）的資深專案工程師，該公司以登月艙將第一位人類送上月球。
     status: completed
     confidence: high
     notes: null
@@ -1369,7 +1369,7 @@ segments:
     end: 00:12:08,340
   source_text: What I have found through my uncle and other contacts at Lockheed is that we have had since about the mid-1950s operational electromagnetic-gravitic devices, basically in parlance of the pop culture anti-gravity devices, that are deeply classified and are the next generation beyond rockets and jet aircraft.
   translation:
-    text: 透過我叔叔及 Lockheed 的其他聯絡人，我發現自 1950 年代中期左右，我們就已擁有可運作的電磁-重力裝置，用流行文化的說法就是反重力裝置，這些裝置被深度機密化，是超越火箭與噴射機的下一代技術。
+    text: 透過我叔叔及洛克希德（Lockheed）的其他聯絡人，我發現自 1950 年代中期左右，我們就已擁有可運作的電磁-重力裝置，用流行文化的說法就是反重力裝置，這些裝置被深度機密化，是超越火箭與噴射機的下一代技術。
     status: completed
     confidence: high
     notes: null
@@ -1423,10 +1423,10 @@ segments:
     end: 00:12:49,200
   source_text: We have an enormous amount of information on this, including a facility, Norton Air Force Base, where we had Frank Carlucci, the Secretary of Defense for Ronald Reagan, was ushered in there, and some people who were with him, such as Brad Sorensen, have given us information and actually have helped us provide schematics and drawings for these so-called alien reproduction vehicles, a bit of a misnomer because in reality advanced anti-gravity research began with T. Townsend Brown in 1929.
   translation:
-    text: 我們掌握了大量相關資訊，包括一處設施——諾頓空軍基地（Norton Air Force Base）——雷根總統的國防部長法蘭克·卡魯奇（Frank Carlucci）曾被帶至該處，與他同行的人士如 Brad Sorensen 向我們提供了資訊，並協助我們取得這些所謂「仿製外星載具」（alien reproduction vehicles）的原理圖與設計圖。這個名稱其實有些不當，因為先進反重力研究實際上始於托馬斯·湯森·布朗（T. Townsend Brown）在 1929 年的研究。
+    text: 我們掌握了大量相關資訊，包括一處設施——諾頓空軍基地（Norton Air Force Base）——雷根總統的國防部長法蘭克·卡魯奇（Frank Carlucci）曾被帶至該處，與他同行的人士如布萊德·索倫森（Brad Sorensen）向我們提供了資訊，並協助我們取得這些所謂「仿製外星載具」（alien reproduction vehicles）的原理圖與設計圖。這個名稱其實有些不當，因為先進反重力研究實際上始於湯森·布朗（T. Townsend Brown）在 1929 年的研究。
     status: completed
     confidence: high
-    notes: null
+    notes: T. Townsend Brown 依主表譯為湯森·布朗（deprecated：托馬斯·湯森·布朗）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1516,7 +1516,7 @@ segments:
     end: 00:13:31,040
   source_text: Daniel.
   translation:
-    text: Daniel。
+    text: 丹尼爾。
     status: completed
     confidence: high
     notes: null
@@ -1551,10 +1551,10 @@ segments:
     end: 00:14:02,400
   source_text: I just touched on it briefly earlier in the other panel that when I was at the Cahill Gordon law firm in New York, we were brought the Pentagon Papers at that time, and Jim Goodale, the chief counsel for the New York Times contacted us.
   translation:
-    text: 我在先前的小組中簡短提到過，當時我在紐約的 Cahill Gordon 律師事務所工作，五角大樓文件（Pentagon Papers）被送到我們手中，《紐約時報》首席法律顧問 Jim Goodell 與我們聯繫。
+    text: 我在先前的小組中簡短提到過，當時我在紐約的 Cahill Gordon 律師事務所工作，五角大樓文件（Pentagon Papers）被送到我們手中，《紐約時報》首席法律顧問吉姆·古德爾（Jim Goodale）與我們聯繫。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Jim Goodell 應為 Jim Goodale（《紐約時報》五角大樓文件案法律顧問 James Goodale）；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1589,10 +1589,10 @@ segments:
     end: 00:14:32,560
   source_text: So I was at the firm and was working on the briefs, and Jim Goodale brought us the information that they had the Pentagon Papers, and so it was the first time that I found myself in a situation where I had to kind of try to put myself in the shoes of people that I had the luxury prior to that time of just saying, "We ought to get it all out.
   translation:
-    text: 所以我在事務所工作並撰寫訴訟摘要時，Jim Goodell 告知我們他們取得了五角大樓文件。這是我第一次發現自己身處這樣的處境：我必須設身處地為他人著想，而在此之前我一直享有輕鬆地說出「我們應該全部公開」的特權。
+    text: 所以我在事務所工作並撰寫訴訟摘要時，吉姆·古德爾告知我們他們取得了五角大樓文件。這是我第一次發現自己身處這樣的處境：我必須設身處地為他人著想，而在此之前我一直享有輕鬆地說出「我們應該全部公開」的特權。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Jim Goodell 應為 Jim Goodale（同 seg 87）；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1696,10 +1696,10 @@ segments:
     end: 00:15:11,280
   source_text: We found out about the Nugan Hand Bank that was set up by Theodore Shackley, who was the CIA station chief in Saigon.
   translation:
-    text: 我們發現了紐根漢德銀行（Nugan Hand Bank），該銀行是由 CIA 西貢站長西奧多·謝克利（Theodore Shackley）設立的。
+    text: 我們發現了紐根漢德銀行（Nugan Hand Bank），該銀行是由 CIA 西貢站長西奧多·沙克利（Theodore Shackley）設立的。
     status: completed
     confidence: high
-    notes: null
+    notes: Shackley 依主表譯為沙克利（deprecated：謝克利）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1932,7 +1932,7 @@ segments:
     end: 00:17:15,240
   source_text: There it was, and we went and we briefed Peter Stockton.
   translation:
-    text: 事實就在那裡，我們前往並向 Peter Stockton 簡報。
+    text: 事實就在那裡，我們前往並向彼得·史塔克頓（Peter Stockton）簡報。
     status: completed
     confidence: high
     notes: null
@@ -1949,7 +1949,7 @@ segments:
     end: 00:17:17,800
   source_text: He was the chief investigator for John Dingell.
   translation:
-    text: 他是 John Dingell 的首席調查員。
+    text: 他是約翰·丁格爾（John Dingell）的首席調查員。
     status: completed
     confidence: high
     notes: null
@@ -1966,10 +1966,10 @@ segments:
     end: 00:18:03,760
   source_text: John Dingell was chairing the House Subcommittee on Energy and the Environment, and because of the oversight of authority they had over nuclear facilities environmentally, we briefed them and told them all about this, and they actually set up a -- they tasked a real-time national security agency satellite to actually monitor the smuggling of these materials and actually track them onto being put on charter oil company ships and then boarded by Mossad and brought to Israel, and at that time they were under the condition that they had to share some of the special nuclear materials, 98 percent pure bomb-grade plutonium, that they had to share them with the Shah of Iran.
   translation:
-    text: John Dingell 當時擔任眾議院能源與環境小組委員會主席，由於他們對核設施擁有環境監督權，我們向他們簡報並告知所有情況。他們實際上部署了國家安全局（National Security Agency）的即時衛星來監控這些材料的走私活動，並實際追蹤到這些材料被裝上租賃的石油公司船隻，然後由摩薩德（Mossad）接收並運往以色列。當時他們的條件是必須分享部分特殊核材料——98% 純度的武器級鈽——必須與伊朗國王（Shah of Iran）分享。
+    text: 丁格爾當時擔任眾議院能源與環境小組委員會主席，由於他們對核設施擁有環境監督權，我們向他們簡報並告知所有情況。他們實際上部署了國家安全局的即時衛星來監控這些材料的走私活動，並實際追蹤到這些材料被裝上租賃的石油公司船隻，然後由摩薩德（Mossad）接收並運往以色列。當時他們的條件是必須分享部分特殊核材料——98% 純度的武器級鈽——必須與伊朗國王（Shah of Iran）分享。
     status: completed
     confidence: high
-    notes: null
+    notes: National Security Agency 全名依主表統一為「國家安全局」
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2065,10 +2065,10 @@ segments:
     end: 00:19:14,400
   source_text: The whole interfering with her right to travel on the highway, her First Amendment right to meet with the New York Times, because David Burnham was waiting for her at the Holiday Inn to receive the documents showing that these -- it was 40 pounds, 98 percent pure platinum grade plutonium was missing.
   translation:
-    text: 整個干涉她在公路上旅行的權利、她根據第一修正案（First Amendment）與《紐約時報》會面的權利——因為 David Burnham 正在 Holiday Inn 等她，準備接收顯示這些——40 磅 98% 純度鉑級鈽失蹤的文件。
+    text: 整個干涉她在公路上旅行的權利、她根據第一修正案（First Amendment）與《紐約時報》會面的權利——因為大衛·伯納姆（David Burnham）正在假日飯店（Holiday Inn）等她，準備接收顯示這些——40 磅 98% 純度鉑級鈽失蹤的文件。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 platinum grade 疑為 bomb-grade（武器級）之口誤或誤聽，依規則保留原文「鉑級」並標註
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2102,7 +2102,7 @@ segments:
     end: 00:19:32,960
   source_text: They called Stansfield Turner in, they brought him downstairs, put him under oath, challenged him about this, and the only reason I knew about it was because Peter Stockton told us about it.
   translation:
-    text: 他們傳喚了斯坦斯菲爾德·特納（Stansfield Turner），將他帶到樓下，讓他宣誓，並就此事質問他。我之所以知道此事，唯一的原因是 Peter Stockton 告訴了我們。
+    text: 他們傳喚了斯坦斯菲爾德·特納（Stansfield Turner），將他帶到樓下，讓他宣誓，並就此事質問他。我之所以知道此事，唯一的原因是彼得·史塔克頓告訴了我們。
     status: completed
     confidence: high
     notes: null
@@ -2141,7 +2141,7 @@ segments:
     end: 00:20:09,440
   source_text: And so I realized that at that time there were these -- there was this dimension, such as Dr. Greer has talked about, there are levels of classification that are way beyond people in the congress, way beyond us as civilians, but I spent a lot of time looking into this whole process.
   translation:
-    text: 因此我意識到，當時存在著這些——如 Dr. Greer 所談論的那樣——存在著遠遠超出國會人士、遠遠超出我們這些平民的機密等級。但我花了很多時間研究整個過程。
+    text: 因此我意識到，當時存在著這些——如格里爾博士所談論的那樣——存在著遠遠超出國會人士、遠遠超出我們這些平民的機密等級。但我花了很多時間研究整個過程。
     status: completed
     confidence: high
     notes: null
@@ -2215,7 +2215,7 @@ segments:
     end: 00:20:52,680
   source_text: And as I tried to bring information to some people in congress and the senate, et cetera, talked with Tip O'Neill about all of this, and we -- as I discovered all this stuff was going on, I was then later contacted by Dr. John Mack, as I told you, to represent him, and I was aware of the fact that there was this realm of ultimate secrecy that existed.
   translation:
-    text: 當我試圖將資訊帶給國會與參議院的一些人士，與 Tip O'Neill 討論所有這些事情時——當我發現所有這些事情正在發生時——如我所說，後來 Dr. John Mack 聯繫我代表他，而我意識到存在著終極保密領域（realm of ultimate secrecy）。
+    text: 當我試圖將資訊帶給國會與參議院的一些人士，與提普·歐尼爾（Tip O'Neill）討論所有這些事情時——當我發現所有這些事情正在發生時——如我所說，後來約翰·麥克博士（Dr. John Mack）聯繫我代表他，而我意識到存在著終極保密領域（realm of ultimate secrecy）。
     status: completed
     confidence: high
     notes: null
@@ -2253,10 +2253,10 @@ segments:
     end: 00:21:32,840
   source_text: There's a whole category of cosmic top secret that has to do with this particular category, and that there's information in there about contacts with these beings that were recovered from Roswell, a living being, one particular living being that they brought to Wright-Patterson, that they didn't know what to do with the being, they didn't know how to take care of the being, they had to keep the being isolated, but they were afraid of potential contamination.
   translation:
-    text: 有一整個宇宙最高機密類別與這個特定類別有關，其中包含關於與這些從羅斯威爾（Roswell）回收的存有（beings）接觸的資訊——一個活的存有，他們將其中一個特定的活體存有帶到萊特-帕特森（Wright-Patterson），他們不知道該如何處理這個存有，不知道如何照顧這個存有，他們必須將其隔離，但又害怕潛在的污染。
+    text: 有一整個宇宙最高機密類別與這個特定類別有關，其中包含關於與這些從羅斯威爾回收的存有（beings）接觸的資訊——一個活的存有，他們將其中一個特定的活體存有帶到萊特-帕特森空軍基地（Wright-Patterson Air Force Base），他們不知道該如何處理這個存有，不知道如何照顧這個存有，他們必須將其隔離，但又害怕潛在的污染。
     status: completed
     confidence: high
-    notes: null
+    notes: Roswell 依規範全中譯不保留原文；Wright-Patterson 補全稱
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2311,7 +2311,7 @@ segments:
     end: 00:22:06,520
   source_text: Because if you're not going to tell me about it, I can tell you I'm going after it, and I'm going to be going after it in a context that may make it automatically available to anybody once I get it.
   translation:
-    text: 因為如果你們不告訴我，我可以告訴你們我會追查下去，而且我會在一個可能使任何人一旦我取得它就能自動獲取的環境中追查。
+    text: 因為如果你們不告訴我，我可以告訴你們我會追查下去，而且一旦我取得它，我可能會以一種讓任何人都能自動取得的方式來追查。
     status: completed
     confidence: high
     notes: null
@@ -2364,7 +2364,7 @@ segments:
     end: 00:22:27,640
   source_text: And so what I've done is I'm just coming to you today to tell you that with my experience directly as one of the attorneys in the Pentagon Papers case, I was in F. Lee Bailey's office when we did the Watergate burglary.
   translation:
-    text: 所以我今天來到這裡，是要告訴你們，憑藉我作為五角大樓文件案（Pentagon Papers case）律師之一的直接經驗——我在處理水門案竊案時身處 F. Lee Bailey 的辦公室。
+    text: 所以我今天來到這裡，是要告訴你們，憑藉我作為五角大樓文件案（Pentagon Papers case）律師之一的直接經驗——我在處理水門案竊案時身處 F·李·貝利（F. Lee Bailey）的辦公室。
     status: completed
     confidence: high
     notes: null
@@ -2383,10 +2383,10 @@ segments:
     end: 00:22:43,360
   source_text: It was our office that got McCord to write the letter to Judge Sirica, blowing the whistle on the Watergate plumbers, the Karen Silkwood case with the smuggling of the plutonium, the Iran-Contra case with all of the smuggling of cocaine that was going on.
   translation:
-    text: 正是我們的辦公室讓 McCord 寫信給 Sirica 法官，揭發水門竊聽者（Watergate plumbers）；凱倫·絲克伍案（Karen Silkwood case）涉及鈽走私；伊朗門案（Iran-Contra case）涉及所有正在進行的古柯鹼走私。
+    text: 正是我們的辦公室讓麥科德（McCord）寫信給西里卡法官（Judge Sirica），揭發水門「水管工」（Watergate plumbers）；凱倫·絲克伍案（Karen Silkwood case）涉及鈽走私；伊朗門案（Iran-Contra case）涉及所有正在進行的古柯鹼走私。
     status: completed
     confidence: high
-    notes: null
+    notes: Watergate plumbers 為白宮秘密單位綽號「水管工」，原譯「竊聽者」已修正
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2602,7 +2602,7 @@ segments:
     end: 00:24:50,600
   source_text: Mr. Cameron.
   translation:
-    text: Cameron 先生。
+    text: 卡麥隆先生。
     status: completed
     confidence: high
     notes: null
@@ -2688,7 +2688,7 @@ segments:
     end: 00:25:22,520
   source_text: My testimony is based on 1,000 pages of documents that were released to me in 2001 by the Clinton White House in response to a FOIA for UFO files.
   translation:
-    text: 我的證詞基於 2001 年柯林頓白宮根據資訊自由法（FOIA）申請而向我公開的 1，000 頁不明飛行物檔案文件。
+    text: 我的證詞基於 2001 年柯林頓白宮根據資訊自由法（FOIA）申請而向我公開的 1,000 頁不明飛行物檔案文件。
     status: completed
     confidence: high
     notes: null
@@ -2759,7 +2759,7 @@ segments:
     end: 00:25:49,320
   source_text: I received about 1,000 pages of UFO documents, which included an awful lot of material that Stephen Greer had said to the President.
   translation:
-    text: 我收到了約 1，000 頁的不明飛行物文件，其中包含大量 Stephen Greer 向總統提供的資料。
+    text: 我收到了約 1,000 頁的不明飛行物文件，其中包含大量史蒂芬·格里爾（Stephen Greer）向總統提供的資料。
     status: completed
     confidence: high
     notes: null
@@ -2777,7 +2777,7 @@ segments:
     end: 00:25:57,880
   source_text: The 1,000 pages that I'm going to talk about right now were not part of the disclosure, and both maintain that they don't have them.
   translation:
-    text: 我現在要談的這 1，000 頁文件並不在那次公開範圍內，兩個機構都聲稱沒有這些文件。
+    text: 我現在要談的這 1,000 頁文件並不在那次公開範圍內，兩個機構都聲稱沒有這些文件。
     status: completed
     confidence: high
     notes: null
@@ -3170,10 +3170,10 @@ segments:
     end: 00:28:54,840
   source_text: The Government Accountability Office was also doing a reinvestigation of the Roswell crash.
   translation:
-    text: 美國政府問責署也在重新調查羅斯威爾墜毀事件。
+    text: 美國審計總署（GAO）也在重新調查羅斯威爾墜毀事件。
     status: completed
     confidence: high
-    notes: null
+    notes: GAO 依主表譯為美國審計總署（1995 年當時全名為 General Accounting Office）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3187,10 +3187,10 @@ segments:
     end: 00:29:12,680
   source_text: That investigation was initiated by New Mexico Congressman Steven Schiff, who ordered the GAO investigation after his requests for information were stonewalled by Clinton's first Secretary of Defense, Les Aspin.
   translation:
-    text: 該調查由新墨西哥州眾議員史蒂文·希夫（Congressman Steven Schiff）發起，他在柯林頓首任國防部長萊斯·阿斯平（Les Aspin）阻撓其資訊請求後，下令政府問責署進行調查。
+    text: 該調查由新墨西哥州史蒂芬·希夫眾議員（Steven Schiff）發起，他在柯林頓首任國防部長萊斯·阿斯平（Les Aspin）阻撓其資訊請求後，下令 GAO 進行調查。
     status: completed
     confidence: high
-    notes: null
+    notes: Schiff 依主表譯為史蒂芬·希夫（deprecated：史蒂文·希夫）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3206,7 +3206,7 @@ segments:
     end: 00:29:21,560
   source_text: The GAO study, however, was quite limited; only FOIA replies on the Roswell crash were used.
   translation:
-    text: 然而，政府問責署的研究相當有限，僅使用了關於羅斯威爾墜毀事件的資訊自由法回覆。
+    text: 然而，GAO 的研究相當有限，僅使用了關於羅斯威爾墜毀事件的資訊自由法回覆。
     status: completed
     confidence: high
     notes: null
@@ -3296,7 +3296,7 @@ segments:
     end: 00:30:10,560
   source_text: In 1995, in Belfast, Northern Ireland, President Clinton challenged the official U.S. Air Force Roswell report, which had no discussion of the reported alien bodies.
   translation:
-    text: 1995 年，柯林頓總統在北愛爾蘭貝爾法斯特（Belfast， Northern Ireland）質疑美國空軍官方羅斯威爾報告，因為該報告完全沒有討論被報導的外星存有屍體。
+    text: 1995 年，柯林頓總統在北愛爾蘭貝爾法斯特（Belfast, Northern Ireland）質疑美國空軍官方羅斯威爾報告，因為該報告完全沒有討論被報導的外星存有遺體。
     status: completed
     confidence: high
     notes: null
@@ -3314,7 +3314,7 @@ segments:
     end: 00:30:27,280
   source_text: In a speech that he gave, he stated, "As far as I know, an alien spacecraft did not crash in Roswell, New Mexico, but if the United States Air Force did recover alien bodies, they didn't tell me about it either, and I want to know."
   translation:
-    text: 他在演講中表示：「就我所知，外星飛行器並未在新墨西哥州羅斯威爾墜毀，但如果美國空軍確實回收了外星存有屍體，他們也沒有告訴我，而我想知道真相。」
+    text: 他在演講中表示：「就我所知，外星飛行器並未在新墨西哥州羅斯威爾墜毀，但如果美國空軍確實回收了外星存有遺體，他們也沒有告訴我，而我想知道真相。」
     status: completed
     confidence: high
     notes: null
@@ -3371,7 +3371,7 @@ segments:
     end: 00:31:03,840
   source_text: The report was the Air Force's lame attempt intended to answer Clinton's challenge about the alien bodies mentioned in Belfast.
   translation:
-    text: 這份報告是空軍對柯林頓在貝爾法斯特提到的外星存有屍體質疑所做的蹩腳回應。
+    text: 這份報告是空軍對柯林頓在貝爾法斯特提到的外星存有遺體質疑所做的蹩腳回應。
     status: completed
     confidence: high
     notes: null
@@ -3389,7 +3389,7 @@ segments:
     end: 00:31:17,920
   source_text: Without any official record of the event, Lawrence Rockefeller did sit down with Bill and Hillary Clinton, and most of those documents were provided by Stephen Greer, who provided them to Lawrence Rockefeller.
   translation:
-    text: 儘管沒有此事件的官方記錄，勞倫斯·洛克菲勒確實與比爾·柯林頓（Bill Clinton）和希拉蕊·柯林頓（Hillary Clinton）會面，而大部分文件是由 Stephen Greer 提供給勞倫斯·洛克菲勒的。
+    text: 儘管沒有此事件的官方記錄，勞倫斯·洛克菲勒確實與比爾·柯林頓（Bill Clinton）和希拉蕊·柯林頓（Hillary Clinton）會面，而大部分文件是由史蒂芬·格里爾提供給勞倫斯·洛克菲勒的。
     status: completed
     confidence: high
     notes: null
@@ -3986,7 +3986,7 @@ segments:
     text: 該倡議記錄於數百頁的通信文件中，幾年前由白宮科學技術政策辦公室（White House Office of Science and Technology Policy，或稱 OSTP）根據《資訊自由法》（Freedom of Information Act）公開。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 'or STP' 應為 'or OSTP'；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4117,7 +4117,7 @@ segments:
     end: 00:38:15,400
   source_text: Between 1985 and 1991, Jones was special assistant to Senator Claiborne Pell, the powerful Rhode Island Democrat chairman of the Senate Foreign Relations Committee, who was deeply interested in parapsychology and who probably many of you met personally.
   translation:
-    text: 在 1985 年至 1991 年間，Jones 擔任克萊伯恩·佩爾參議員（Senator Claiborne Pell）的特別助理，這位羅德島州民主黨籍的有力人士擔任參議院外交關係委員會（Senate Foreign Relations Committee）主席，對超心理學深感興趣，各位許多人可能親自見過他。
+    text: 在 1985 年至 1991 年間，瓊斯擔任克萊伯恩·佩爾參議員（Senator Claiborne Pell）的特別助理，這位羅德島州民主黨籍的有力人士擔任參議院外交關係委員會（Senate Foreign Relations Committee）主席，對超心理學深感興趣，各位許多人可能親自見過他。
     status: completed
     confidence: high
     notes: null
@@ -4136,7 +4136,7 @@ segments:
     end: 00:38:35,280
   source_text: Senator Pell was also friends with Lawrence Rockefeller and both served on the board of the Human Potential Foundation, a small think tank launched in 1989 in Vienna, Virginia by Jones to conduct "research into all conditions of humankind, physiological, psychological, and spiritual."
   translation:
-    text: 佩爾參議員（Senator Pell）也是勞倫斯·洛克菲勒（Lawrence Rockefeller）的朋友，兩人均擔任人類潛能基金會（Human Potential Foundation）的董事會成員。這是一個小型智庫，由 Jones 於 1989 年在維吉尼亞州維也納（Vienna， Virginia）創立，旨在進行「人類所有狀態的研究，包括生理、心理與精神層面」。
+    text: 佩爾參議員（Senator Pell）也是勞倫斯·洛克菲勒（Lawrence Rockefeller）的朋友，兩人均擔任人類潛能基金會（Human Potential Foundation）的董事會成員。這是一個小型智庫，由瓊斯於 1989 年在維吉尼亞州維也納（Vienna, Virginia）創立，旨在進行「人類所有狀態的研究，包括生理、心理與精神層面」。
     status: completed
     confidence: high
     notes: null
@@ -4156,10 +4156,10 @@ segments:
     end: 00:38:55,800
   source_text: Many of the papers released by the White House OSTP come from Scott-Jones, who knew Dr. John Gibbons, a physicist who worked for many years as director of the Office of Technology Assessment for the U.S. Congress and was appointed in 1993 by the Clinton administration to direct the OSTP.
   translation:
-    text: 白宮科學技術政策辦公室（White House OSTP）公開的許多文件來自 Scott-Jones，他認識約翰·吉本斯博士（Dr. John Gibbons），一位物理學家，多年來擔任美國國會技術評估辦公室（Office of Technology Assessment）主任，並於 1993 年由柯林頓政府任命主管科學技術政策辦公室。
+    text: 白宮科學技術政策辦公室（White House OSTP）公開的許多文件來自史考特-瓊斯，他認識約翰·吉本斯博士（Dr. John Gibbons），一位物理學家，多年來擔任美國國會技術評估辦公室（Office of Technology Assessment）主任，並於 1993 年由柯林頓政府任命主管科學技術政策辦公室。
     status: completed
     confidence: high
-    notes: null
+    notes: John Gibbons 即 topic_03 的 Jack Gibbons（Jack 為 John 的暱稱），同一人
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4308,10 +4308,10 @@ segments:
     end: 00:40:51,600
   source_text: We know from the record that following the initial meeting with Gibbons and subsequent correspondence, the government decided to constrict the more general issue of UFOs into the specific and famous UFO crash of July 1947 in Roswell, New Mexico.
   translation:
-    text: 從記錄中我們得知，在與吉本斯（Gibbons）的初次會面與後續通信之後，政府決定將更廣泛的不明飛行物議題縮減至 1947 年 7 月發生於新墨西哥州羅斯威爾（Roswell， New Mexico）的特定且著名的不明飛行物墜毀事件。
+    text: 從記錄中我們得知，在與吉本斯（Gibbons）的初次會面與後續通信之後，政府決定將更廣泛的不明飛行物議題縮減至 1947 年 7 月發生於新墨西哥州羅斯威爾的特定且著名的不明飛行物墜毀事件。
     status: completed
     confidence: high
-    notes: null
+    notes: Roswell 依規範全中譯不保留原文
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4382,7 +4382,7 @@ segments:
     end: 00:41:52,600
   source_text: By 1995, Lawrence Rockefeller switched his UFO-related coordinator from Scott Jones to Marie Galbraith, the well-connected wife of investment banker Evan Galbraith, who was ambassador to France during the Reagan administration, Republican candidate for New York governor in 1994, and chairman of William Buckley's National Review, among other things.
   translation:
-    text: 到了 1995 年，勞倫斯·洛克菲勒（Lawrence Rockefeller）將其不明飛行物相關協調人從 Scott Jones 換成瑪莉·高布瑞斯（Marie Galbraith），她是人脈廣闊的投資銀行家伊凡·高布瑞斯（Evan Galbraith）的妻子。伊凡曾在雷根政府期間擔任駐法大使、1994 年紐約州州長的共和黨候選人，以及威廉·巴克利（William Buckley）《國家評論》（National Review）的主席等職務。
+    text: 到了 1995 年，勞倫斯·洛克菲勒（Lawrence Rockefeller）將其不明飛行物相關協調人從史考特·瓊斯換成瑪莉·高布瑞斯（Marie Galbraith），她是人脈廣闊的投資銀行家伊凡·高布瑞斯（Evan Galbraith）的妻子。伊凡曾在雷根政府期間擔任駐法大使、1994 年紐約州州長的共和黨候選人，以及威廉·巴克利（William Buckley）《國家評論》（National Review）的主席等職務。
     status: completed
     confidence: high
     notes: 已修正 Whisper 轉錄錯誤：原文 'Goldbreath' 應為 'Galbraith'
@@ -4458,10 +4458,10 @@ segments:
     end: 00:42:54,160
   source_text: It was Rockefeller's and Goldbreath's idea to give the copyright to the UFO Research Coalition, a consortium of the three main American UFO organizations, MUFON, that is the Neutral UFO Network, CUFOS, Center for UFO Studies, and FUFOR, the Fund for UFO Research, whose directors endorsed the document.
   translation:
-    text: 將版權授予 UFO 研究聯盟（UFO Research Coalition）是洛克菲勒與高布瑞斯的主意，該聯盟由三大美國不明飛行物組織組成，分別是 MUFON（即 UFO 互動網絡，Mutual UFO Network）、CUFOS（UFO 研究中心，Center for UFO Studies）與 FUFOR（UFO 研究基金會，Fund for UFO Research），其董事會背書了該文件。
+    text: 將版權授予 UFO 研究聯盟（UFO Research Coalition）是洛克菲勒與高布瑞斯的主意，該聯盟由三大美國不明飛行物組織組成，分別是 MUFON（即 UFO 互動網路，Mutual UFO Network）、CUFOS（UFO 研究中心，Center for UFO Studies）與 FUFOR（UFO 研究基金會，Fund for UFO Research），其董事會背書了該文件。
     status: completed
     confidence: high
-    notes: 已修正 Whisper 轉錄錯誤：原文 'Goldbreath' 應為 'Galbraith'；'Neutral' 應為 'Mutual'
+    notes: 已修正 Whisper 轉錄錯誤：原文 'Goldbreath' 應為 'Galbraith'；'Neutral' 應為 'Mutual'；互動網絡→互動網路（台灣用語）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4552,10 +4552,10 @@ segments:
     end: 00:43:50,480
   source_text: And one of the briefings' case histories was the famous UFO landing case in Trans-en-Provence in 1981.
   translation:
-    text: 簡報中的案例歷史之一，是 1981 年發生於特朗桑普羅旺斯（Trans-en-Provence）的著名不明飛行物著陸案。
+    text: 簡報中的案例歷史之一，是 1981 年發生於特朗斯昂普羅旺斯（Trans-en-Provence）的著名不明飛行物著陸案。
     status: completed
     confidence: high
-    notes: 已修正 Whisper 轉錄錯誤：原文 'Transant Provence' 應為 'Trans-en-Provence'
+    notes: 已修正 Whisper 轉錄錯誤：原文 'Transant Provence' 應為 'Trans-en-Provence'；音譯隨正確拼寫調整
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4679,10 +4679,10 @@ segments:
     end: 00:44:58,840
   source_text: A major meeting, closed to both the public and the press, was held from September 29 to October 3, 1997, at the Pocantico Conference Center in Tarrytown, New York.
   translation:
-    text: 一場對公眾與媒體封閉的重要會議，於 1997 年 9 月 29 日至 10 月 3 日在紐約塔里敦（Tarrytown， New York）的波坎蒂科會議中心（Pocantico Conference Center）舉行。
+    text: 一場對公眾與媒體封閉的重要會議，於 1997 年 9 月 29 日至 10 月 3 日在紐約塔里敦（Tarrytown, New York）的波坎蒂科會議中心（Pocantico Conference Center）舉行。
     status: completed
     confidence: high
-    notes: 已修正 Whisper 轉錄錯誤：原文 'Taritone' 應為 'Tarrytown'
+    notes: 已修正 Whisper 轉錄錯誤：原文 'Taritone' 應為 'Tarrytown'；'close to' 應為 'closed to'（會議不對外公開）；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4738,7 +4738,7 @@ segments:
     text: 簡報涵蓋了所有主要科學領域，包括攝影證據、亮度估算、雷達證據、赫斯達倫計畫（Hessdalen Project）。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 'Hess-Dowling Project' 應為 'Hessdalen Project'（挪威赫斯達倫光現象研究計畫）；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4827,7 +4827,7 @@ segments:
     text: 洛克菲勒似乎對此次活動的成果非常滿意，他甚至撰寫了該書的前言，這成為他唯一一份為出版而撰寫的不明飛行物聲明。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 'the books forward' 應為 'the book's foreword'；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -5017,7 +5017,7 @@ segments:
     end: 00:47:27,440
   source_text: So Mr. Bartlett.
   translation:
-    text: 那麼，請 Bartlett 先生發言。
+    text: 那麼，請巴特利特先生發言。
     status: completed
     confidence: high
     notes: null
@@ -5051,7 +5051,7 @@ segments:
     end: 00:47:36,640
   source_text: Dr. Greer, you mentioned that there was a very large amount of money that could not be accounted for in the Pentagon.
   translation:
-    text: Dr. Greer，您提到五角大樓有一筆非常龐大的款項無法交代其去向。
+    text: 格里爾博士，您提到五角大樓有一筆非常龐大的款項無法交代其去向。
     status: completed
     confidence: high
     notes: null
@@ -5209,7 +5209,7 @@ segments:
     end: 00:48:34,680
   source_text: I know that this is one of the things that Stephen Hawking is trying to harmonize, relativity, gravity and so forth.
   translation:
-    text: 我知道這是 Stephen Hawking 正試圖統一的內容之一，相對論、重力等等。
+    text: 我知道這是史蒂芬·霍金（Stephen Hawking）正試圖統一的內容之一，相對論、重力等等。
     status: completed
     confidence: high
     notes: null
@@ -5332,7 +5332,7 @@ segments:
     end: 00:49:28,440
   source_text: This is tapping what's called the zero point energy field, the renowned defense journalist Nick Cook wrote a book about this called The Hunt for Zero Point.
   translation:
-    text: 這是在汲取所謂的零點能量場（zero point energy field），知名國防記者 Nick Cook 寫了一本關於此主題的書，名為《追尋零點》（The Hunt for Zero Point）。
+    text: 這是在汲取所謂的零點能量場（zero point energy field），知名國防記者尼克·庫克（Nick Cook）寫了一本關於此主題的書，名為《追尋零點》（The Hunt for Zero Point）。
     status: completed
     confidence: high
     notes: null
@@ -5350,10 +5350,10 @@ segments:
     end: 00:49:42,320
   source_text: Without getting too much into the physics of this, I will just say that studies on this matter began actually in the 1920s with T. Townsend Brown, who later became key to the Rand Corporation.
   translation:
-    text: 在不過度深入物理學細節的情況下，我只想說，關於此事的研究實際上始於 1920 年代的托馬斯·湯森·布朗（T. Townsend Brown），他後來成為蘭德公司（Rand Corporation）的核心人物。
+    text: 在不過度深入物理學細節的情況下，我只想說，關於此事的研究實際上始於 1920 年代的湯森·布朗（T. Townsend Brown），他後來成為蘭德公司（Rand Corporation）的核心人物。
     status: completed
     confidence: high
-    notes: null
+    notes: T. Townsend Brown 依主表譯為湯森·布朗（deprecated：托馬斯·湯森·布朗）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -5369,10 +5369,10 @@ segments:
     end: 00:50:03,560
   source_text: But also, I should point out that in Germany, the Kowsky-Frost experiment, which we'll go into on Friday, using crystalline structures, and now we're using nano-crystalline materials like you find in transformers to create a electromagnetic field, if you will, around an object that gives it lift.
   translation:
-    text: 此外，我應該指出，在德國進行的 Koloski-Frost 實驗——我們會在週五深入討論——使用結晶結構，而現在我們使用變壓器中會發現的奈米結晶材料，來在物體周圍創造電磁場，從而產生升力。
+    text: 此外，我應該指出，在德國進行的考斯基-弗羅斯特實驗（Kowsky-Frost experiment）——我們會在週五深入討論——使用結晶結構，而現在我們使用變壓器中會發現的奈米結晶材料，來在物體周圍創造電磁場，從而產生升力。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 'Koloski-Frost' 應為 'Kowsky-Frost'（1927 年石英晶體反重力實驗）；已補錄 topics.json potential_errors
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -5407,10 +5407,10 @@ segments:
     end: 00:50:38,560
   source_text: But the ones that look like they're circular, so-called flying saucers, there have been prototypes of this for a number of years, and about October 1954, from sources I have who have been in what's called the Vault at the National Security Agency and other facilities, we really figured out gravity control, which means that we can do lifter systems, such as the ones that people report in UFOs.
   translation:
-    text: 但那些看起來是圓形的，也就是所謂的飛碟（flying saucers），這種原型機已經存在多年。根據我在國家安全局（National Security Agency）所謂的「金庫」（Vault）及其他設施工作過的消息來源，大約在 1954 年 10 月，我們真正弄清楚了重力控制，這意味著我們可以製造升力系統，就像人們在不明飛行物（UFO）中報告的那樣。
+    text: 但那些看起來是圓形的，也就是所謂的飛碟（flying saucers），這種原型機已經存在多年。根據我在國家安全局所謂的「金庫」（Vault）及其他設施工作過的消息來源，大約在 1954 年 10 月，我們真正弄清楚了重力控制，這意味著我們可以製造升力系統，就像人們在不明飛行物中報告的那樣。
     status: completed
     confidence: high
-    notes: null
+    notes: National Security Agency 全名依主表統一為「國家安全局」；「不明飛行物（UFO）」為 deprecated 寫法，已改為不明飛行物
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -5446,7 +5446,7 @@ segments:
     end: 00:50:56,040
   source_text: Mr. Sheehan mentioned necessary secrets, things that we keep from the American people.
   translation:
-    text: Sheehan 先生提到了「必要的秘密」，那些我們對美國人民保密的事情。
+    text: 希恩先生提到了「必要的秘密」，那些我們對美國人民保密的事情。
     status: completed
     confidence: high
     notes: null
@@ -5480,10 +5480,10 @@ segments:
     end: 00:51:19,160
   source_text: I will acknowledge that you may argue that there are necessary secrets, that there are black projects, you didn't characterize them that way, but some of these top, top secret things that you're talking about, above top secret, it's a black world, I've had several briefings and a special SCIF on black projects.
   translation:
-    text: 我承認您可能會主張存在必要的秘密，存在黑預算項目（black projects），雖然您沒有這樣描述它們，但您所談論的這些最高、最高機密事項，超越最高機密（above top secret），這是一個黑色世界，我曾在特殊的保密設施（SKIF）中接受過幾次關於黑預算項目的簡報。
+    text: 我承認您可能會主張存在必要的秘密，存在黑計畫（black projects），雖然您沒有這樣描述它們，但您所談論的這些最高、最高機密事項，超越最高機密（above top secret），這是一個黑色世界，我曾在特殊的 SCIF（敏感分隔資訊設施）中接受過幾次關於黑計畫的簡報。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 'a special skiff' 應為 'a special SCIF'（Sensitive Compartmented Information Facility）；已補錄 topics.json potential_errors；black projects 統一譯為黑計畫（同 seg 46）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -5587,7 +5587,7 @@ segments:
     end: 00:52:00,600
   source_text: We're ignoring the Constitution to do all of the education that we do, because none of those three things, where we spend a huge amount of money, are specific enumerated powers in Article I, Section 8, and both the Ninth Amendment and the Tenth Amendment, pretty clearly say if you can't find it there, you can't do it.
   translation:
-    text: 我們為了進行所有教育工作而忽視憲法，因為我們花費巨額資金的這三項工作，沒有一項是第一條第八款（Article I， Section 8）中的具體列舉權力，而第九修正案（Ninth Amendment）與第十修正案（Tenth Amendment）都相當明確地表示，如果您在那裡找不到，就不能做。
+    text: 我們為了進行所有教育工作而忽視憲法，因為我們花費巨額資金的這三項工作，沒有一項是第一條第八款（Article I, Section 8）中的具體列舉權力，而第九修正案（Ninth Amendment）與第十修正案（Tenth Amendment）都相當明確地表示，如果您在那裡找不到，就不能做。
     status: completed
     confidence: high
     notes: null
@@ -5715,10 +5715,10 @@ segments:
     end: 00:53:08,520
   source_text: And the same thing with Lord Hill Norton, the Minister of Defense of Great Britain, and I said, "Sir, the reason they don't is that you're good folk, and you would not go along with criminal secrecy, illegal secrecy, that is withholding science and technologies that would give us a civilization without oil."
   translation:
-    text: 英國國防大臣彼得·希爾-諾頓勳爵（Lord Hill Norton）也是如此，我對他說：「長官，他們不告訴您的原因是因為您是好人，您不會配合犯罪性的保密、非法的保密，這些保密隱瞞了能讓我們擁有無需石油文明的科學與技術。」
+    text: 英國國防大臣希爾-諾頓勳爵（Lord Hill Norton）也是如此，我對他說：「長官，他們不告訴您的原因是因為您是好人，您不會配合犯罪性的保密、非法的保密，這些保密隱瞞了能讓我們擁有無需石油文明的科學與技術。」
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 譯名依主表改為希爾-諾頓勳爵（deprecated：彼得·希爾-諾頓勳爵）；其實際職銜為英國國防參謀長（Chief of the Defence Staff），非國防大臣，保留講者原話並標註
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -5859,7 +5859,7 @@ segments:
     end: 00:54:01,720
   source_text: There is a document that I have from the Federation of American Scientists released two years ago that there are 5,135 patents that have been seized under the National Security Act.
   translation:
-    text: 我手上有一份美國科學家聯盟（Federation of American Scientists）兩年前發布的文件，顯示有 5，135 項專利已根據《國家安全法》（National Security Act）被扣押。
+    text: 我手上有一份美國科學家聯盟（Federation of American Scientists）兩年前發布的文件，顯示有 5,135 項專利已根據《國家安全法》（National Security Act）被扣押。
     status: completed
     confidence: high
     notes: null
@@ -5877,7 +5877,7 @@ segments:
     end: 00:54:09,600
   source_text: Dr. Greer, we have to end your response, and it is Senator Gravel.
   translation:
-    text: Dr. Greer，我們必須結束您的回答，現在輪到格拉維爾參議員（Senator Gravel）。
+    text: 格里爾博士，我們必須結束您的回答，現在輪到格拉維爾參議員（Senator Gravel）。
     status: completed
     confidence: high
     notes: null
@@ -5894,7 +5894,7 @@ segments:
     end: 00:54:33,960
   source_text: I won't take my full time because some of these questions need to be elaborated like Dr. Greer was doing, but let me add, because of our view that we want to get the Congress to do something, there's a ruling of the Supreme Court, and my colleague will be interested in about the constitutionality of it.
   translation:
-    text: 我不會用完我的全部時間，因為其中一些問題需要像 Dr. Greer 那樣詳細闡述，但讓我補充一點，因為我們的觀點是希望國會採取行動，最高法院有一項裁決，我的同事會對其合憲性感興趣。
+    text: 我不會用完我的全部時間，因為其中一些問題需要像格里爾博士那樣詳細闡述，但讓我補充一點，因為我們的觀點是希望國會採取行動，最高法院有一項裁決，我的同事會對其合憲性感興趣。
     status: completed
     confidence: high
     notes: null
@@ -5968,8 +5968,8 @@ segments:
   translation:
     text: 那是 9 比 4 的裁決，仍然讓我面臨風險，因為除了在參議院發布這些文件外，我還在參議院外出版了這些文件，但這是一項一致的決議，即我有權向公眾揭露我所知道的任何秘密，並且不能在政府的任何其他領域受到質疑。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: Gravel v. United States (1972) 實際裁決為 5 比 4；依規則保留原文數字 9 比 4 並標註疑義
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6079,10 +6079,10 @@ segments:
     end: 00:56:47,000
   source_text: The other is I want to add to Sheehan's comments, which of course was I'm sure a revelation to a lot of people, that here in Israel, we shipped this nuclear capability to Israel, and one of their tasks was to share it with the Shah.
   translation:
-    text: 另外，我想補充希恩（Sheehan）的評論，這當然對很多人來說是一個啟示，即我們在這裡向以色列運送了這種核能力，他們的任務之一就是與伊朗國王（Shah）分享。
+    text: 另外，我想補充希恩（Sheehan）的評論，這當然對很多人來說是一個啟示，即我們向以色列運送了這種核能力，他們的任務之一就是與伊朗國王（Shah）分享。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 'here in Israel' 句構破碎（Whisper 常見），譯文依語境補足
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6117,10 +6117,10 @@ segments:
     end: 00:57:20,660
   source_text: What had happened after the revolution, and this is what most Americans don't know right now, is that it was the Ayatollah Khomeini who made the decision that that reactor would not be used for any nuclear devices, bomb-making devices.
   translation:
-    text: 革命後發生的事情，這是大多數美國人現在不知道的，是由阿亞圖拉·霍梅尼（Ayatollah Khomeini）做出了決定，該反應爐不會用於任何核裝置、製造炸彈的裝置。
+    text: 革命後發生的事情，這是大多數美國人現在不知道的，是由霍梅尼（Ayatollah Khomeini）做出了決定，該反應爐不會用於任何核裝置、製造炸彈的裝置。
     status: completed
     confidence: high
-    notes: null
+    notes: Khomeini 依本集術語表譯為霍梅尼
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6172,10 +6172,10 @@ segments:
     end: 00:57:41,880
   source_text: We tried to give them the bomb under the Shah, and they're the ones that decided they don't want it.
   translation:
-    text: 我們曾試圖在伊朗國王統治下給他們炸彈，而他們是決定不要的一方。
+    text: 我們曾試圖在伊朗國王時期給他們核彈，是他們自己決定不要的。
     status: completed
     confidence: high
-    notes: null
+    notes: the bomb 在此語境指核彈（承接伊朗核武議題）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6241,7 +6241,7 @@ segments:
     end: 00:57:59,520
   source_text: I'll yield back the balance of my time because I can't think of an intelligent question I could ask to the intelligent testimony we just had.
   translation:
-    text: 我將交還我剩餘的時間，因為我想不出可以向剛才的智慧證詞提出的智慧問題。
+    text: 我將交還剩餘的時間，因為面對我們剛才聽到的這番睿智的證詞，我實在想不出任何睿智的問題可以提。
     status: completed
     confidence: high
     notes: null
@@ -6276,10 +6276,10 @@ segments:
     end: 00:58:05,280
   source_text: Congresswoman Kilpatrick.
   translation:
-    text: 基爾派屈克女眾議員（Congresswoman Kilpatrick）。
+    text: 基爾派翠克眾議員（Congresswoman Kilpatrick）。
     status: completed
     confidence: high
-    notes: null
+    notes: Kilpatrick 依主表譯為基爾派翠克
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6380,10 +6380,10 @@ segments:
     end: 00:58:43,320
   source_text: Going back to the millions of dollars that are missing, or inaudible, or missing, in the defensive budget over several years, 2.3, Dr. Greer, I think was the number you gave, 2.3 trillion, 2.3 trillion, and that's over several years.
   translation:
-    text: 回到國防預算中失蹤的數百萬美元，或者說無法審計的，或者說失蹤的，在幾年間，Dr. Greer，我想您提到的數字是 2.3——2.3 兆美元，2.3 兆美元，而且這是幾年累積的。
+    text: 回到國防預算中失蹤的數百萬美元，或者說無法審計的，或者說失蹤的，在幾年間，格里爾博士，我想您提到的數字是 2.3——2.3 兆美元，2.3 兆美元，而且這是幾年累積的。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 'or inaudible' 依語境理解為 'unauditable'（無法審計）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6435,10 +6435,10 @@ segments:
     end: 00:59:00,080
   source_text: We don't know its bottom number or any of that because, quote, it's over our classified.
   translation:
-    text: 我們不知道它的底線數字或任何相關資訊，因為，引述，這超出了我們的機密等級。
+    text: 我們不知道它的最終數字或任何相關資訊，因為（引述）「這超出了我們的機密權限」。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 it's over our classified 句構破碎（Whisper 常見），依語境補足為「超出機密權限」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6452,7 +6452,7 @@ segments:
     end: 00:59:03,280
   source_text: Members of Congress are also classified to a point.
   translation:
-    text: 國會議員也有一定程度的機密等級。
+    text: 國會議員能接觸的機密也僅到一定程度。
     status: completed
     confidence: high
     notes: null
@@ -6469,7 +6469,7 @@ segments:
     end: 00:59:11,000
   source_text: When we come in office, as you know, I'm sure we take an oath and sign for the intelligence level that we can hear.
   translation:
-    text: 如您所知，我相信，當我們上任時，我們宣誓並簽署我們可以聽取的情報等級。
+    text: 正如各位所知，我確信，當我們上任時，我們宣誓就職，並簽署文件，以取得聽取特定情報層級的權限。
     status: completed
     confidence: high
     notes: null
@@ -6487,7 +6487,7 @@ segments:
     end: 00:59:18,960
   source_text: Of course, there's super, super intelligence that we don't, and I think we're discussing much of that today, which is where the money is and where that intelligence budget is gone.
   translation:
-    text: 當然，還有超級、超級情報，我們無法獲得，我認為我們今天討論的大部分內容，就是資金所在以及情報預算的去向。
+    text: 當然，還有一些層級極高的情報是我們無權接觸的，而我想我們今天討論的許多內容正是屬於這一類——那裡正是資金所在，也是情報預算的去向。
     status: completed
     confidence: high
     notes: null
@@ -6803,7 +6803,7 @@ segments:
     text: 我認為我們使用石油、煤炭和核能，是因為真正先進的科學與技術長期受到積極的抑制。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 an active longitude 疑為轉錄錯誤（對照 seg 386 active suppression），依語境意譯
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6904,7 +6904,7 @@ segments:
     end: 01:01:15,960
   source_text: It's the biggest private solar farm in Virginia, but it's not practical for most people, whereas there are advanced technologies dealing with the physics of zero-point energy, so that every home and car would have a generator pulling energy out of the fabric of space-time, and you would never have to burn another drop of oil.
   translation:
-    text: 這是維吉尼亞州最大的私人太陽能農場，但對大多數人來說這並不實際，然而有處理零點能量物理學的先進技術，使得每個家庭和汽車都能有一個從時空結構中提取能量的發電機，您永遠不必再燃燒一滴石油。
+    text: 這是維吉尼亞州最大的私人太陽能農場，但對大多數人來說這並不實際，然而有運用零點能量物理原理的先進技術，使得每個家庭和汽車都能有一個從時空結構中提取能量的發電機，您永遠不必再燃燒一滴石油。
     status: completed
     confidence: high
     notes: null
@@ -6924,7 +6924,7 @@ segments:
     end: 01:01:16,960
   source_text: Why are we not there?
   translation:
-    text: 我們為什麼還沒有達到那裡？
+    text: 為什麼我們還沒有走到那一步？
     status: completed
     confidence: high
     notes: null
@@ -6975,7 +6975,7 @@ segments:
     end: 01:01:27,960
   source_text: As Mr. Sheehan reported, there are people on my team who have been threatened.
   translation:
-    text: 正如 Sheehan 先生報告的，我的團隊中有人曾受到威脅。
+    text: 正如希恩先生所述，我的團隊中有人曾受到威脅。
     status: completed
     confidence: high
     notes: null
@@ -6992,7 +6992,7 @@ segments:
     end: 01:01:31,320
   source_text: There is a man working on one of these devices for my group.
   translation:
-    text: 有一個人正在為我的團隊研究這些裝置之一。
+    text: 有一個人正在為我的團隊研發這類裝置中的一種。
     status: completed
     confidence: high
     notes: null
@@ -7009,7 +7009,7 @@ segments:
     end: 01:01:43,960
   source_text: We provided some grant funding, and about two or three years ago, a former CIA director, who I don't want to talk about, with a group of people went down there and threatened him and his wife if he didn't stop.
   translation:
-    text: 我們提供了一些資助，大約兩三年前，一位前 CIA 局長——我不想談論是誰——帶著一群人去了那裡，威脅他和他的妻子，如果他不停止的話。
+    text: 我們提供了一些資助，大約兩三年前，一位我不想指名道姓的前 CIA 局長帶著一群人去了那裡，威脅他和他妻子，要他停手。
     status: completed
     confidence: high
     notes: null
@@ -7045,10 +7045,10 @@ segments:
     end: 01:01:52,400
   source_text: He had been clear to do it for us.
   translation:
-    text: 他已經被清除可以為我們做這件事。
+    text: 他原本已獲安全許可，可以為我們進行這項工作。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 clear 即 cleared（通過安全審查），舊譯「被清除」為誤譯
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7164,10 +7164,10 @@ segments:
     end: 01:02:02,960
   source_text: Threatened, near-death, exercise, eliminated, or whatever that means.
   translation:
-    text: 威脅、瀕死、演習、消滅，或任何這意味著的。
+    text: 被威脅、瀕臨死亡、演習、被除掉，或不管那是什麼意思。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 exercise 在此列舉語境中語意不明，暫譯「演習」；疑為轉錄錯誤但無法確定原詞
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7335,7 +7335,7 @@ segments:
     end: 01:02:30,400
   source_text: There is a committee, it used to be called Majestic, that deals with this issue.
   translation:
-    text: 有一個委員會，曾經被稱為 Majestic，處理這個問題。
+    text: 有一個處理這個問題的委員會，過去被稱為 Majestic。
     status: completed
     confidence: high
     notes: null
@@ -7352,7 +7352,7 @@ segments:
     end: 01:02:42,360
   source_text: And I will give the committee a document, this document I refer to, and the second one down is Cosmic Ops, and the third one is Magic Ops and Magi Ops.
   translation:
-    text: 我將向委員會提供一份文件，我提到的這份文件，第二個是 Cosmic Ops，第三個是 Magic Ops 和 Magi Ops。
+    text: 我會交給委員會一份文件，就是我提到的這份，當中第二項是 Cosmic Ops，第三項是 Magic Ops 和 Magi Ops。
     status: completed
     confidence: high
     notes: null
@@ -7370,7 +7370,7 @@ segments:
     end: 01:02:45,360
   source_text: You know how important that would be if we had it in front of us?
   translation:
-    text: 您知道如果我們面前有它會有多重要嗎？
+    text: 您知道如果這些文件就擺在我們面前，會有多重要嗎？
     status: completed
     confidence: high
     notes: null
@@ -7404,7 +7404,7 @@ segments:
     end: 01:02:47,680
   source_text: We're going to get it for you.
   translation:
-    text: 我們會為您取得它。
+    text: 我們會為您把文件找來。
     status: completed
     confidence: high
     notes: null
@@ -7489,7 +7489,7 @@ segments:
     end: 01:02:56,080
   source_text: And when you refer to things, we can see it as well as hear it, and it's internalized better.
   translation:
-    text: 當您提到事情時，我們既能看到又能聽到，這樣內化得更好。
+    text: 當您提及這些內容時，我們不僅能聽到，還能親眼看到，這樣更能消化吸收。
     status: completed
     confidence: high
     notes: null
@@ -7524,7 +7524,7 @@ segments:
     end: 01:02:59,800
   source_text: And we have a computer disk we'll give each of you that has all of this.
   translation:
-    text: 我們有一張電腦光碟會給你們每個人，上面有所有這些內容。
+    text: 我們還有一張電腦光碟，會發給在座每一位，上面有所有這些內容。
     status: completed
     confidence: high
     notes: null
@@ -7541,7 +7541,7 @@ segments:
     end: 01:03:09,760
   source_text: What's key about the document, however, is that these compartmented operations that are known to exist work mainly in the science and technology area.
   translation:
-    text: 然而，該文件的關鍵在於，這些已知存在的分區行動主要在科學技術領域工作。
+    text: 然而，這份文件的關鍵之處在於，這些已知存在的機密分隔行動主要運作於科學與技術領域。
     status: completed
     confidence: high
     notes: null
@@ -7629,10 +7629,10 @@ segments:
     end: 01:03:36,800
   source_text: Actually, everything that we have, even if -- we have determined, as I said through the unless otherwise directed order that we sent out a letter, that all of this information is declassified.
   translation:
-    text: 實際上，我們擁有的所有東西，即使——我們已經確定，正如我所說的，通過我們發出的「除非另有指示」命令信函，所有這些資訊都已解密。
+    text: 實際上，我們擁有的所有東西，即使——正如我所說，透過我們發出的信函，依據「除非另有指示」的命令，我們已確定所有這些資訊都已解密。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文句構破碎（Whisper 常見），譯文依語境整理
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7665,10 +7665,10 @@ segments:
     end: 01:03:49,020
   source_text: Because we have determined that the secrecy has been maintained outside a proper constitutional -- look, I met personally with the head of the Defense Intelligence Agency for a very long period of time.
   translation:
-    text: 因為我們已經確定，保密是在適當的憲法框架之外維持的——聽著，我親自與國防情報局（Defense Intelligence Agency）局長會面了很長時間。
+    text: 因為我們已經確定，這種保密是在適當的憲法框架之外維持的——聽著，我親自與國防情報局（Defense Intelligence Agency）局長會面了很長時間。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 outside a proper constitutional -- 中斷，譯文補足「框架」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7684,10 +7684,10 @@ segments:
     end: 01:03:58,040
   source_text: He was given information, actionable intelligence, and he, along -- as well as Admiral Wilson, and this man is General Patrick Hughes, and many of you may have known him.
   translation:
-    text: 他獲得了資訊、可行的情報，而他，以及威爾森上將（Admiral Wilson），這個人是派翠克·休斯將軍（General Patrick Hughes），你們中的許多人可能認識他。
+    text: 他獲得了資訊、可據以行動的情報，而他——以及威爾森上將（Admiral Wilson）——這位就是派翠克·休斯將軍（General Patrick Hughes），你們當中的許多人可能認識他。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文句構破碎，語意承接下段「他被拒絕訪問」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7736,10 +7736,10 @@ segments:
     end: 01:04:05,200
   source_text: You cannot be denying senior people who are in the chain of command.
   translation:
-    text: 您不能拒絕指揮鏈中的高層人員。
+    text: 你們不能拒絕指揮鏈上的高層人員取得這些資訊。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文語意簡略，譯文補足「取得這些資訊」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -7873,7 +7873,7 @@ segments:
     end: 01:04:16,200
   source_text: We want the information -- Thank you. -- in writing, as well as verbally, and I yield back the balance of my time.
   translation:
-    text: 我們想要書面形式的資訊——謝謝——以及口頭形式，我交還我剩餘的時間。
+    text: 我們希望取得這些資訊——謝謝——以書面以及口頭兩種形式，我交還剩餘的時間。
     status: completed
     confidence: high
     notes: null
@@ -8028,7 +8028,7 @@ segments:
     end: 01:04:30,480
   source_text: I'd like to continue with Dr. Greer for a moment.
   translation:
-    text: 我想繼續與 Dr. Greer 討論片刻。
+    text: 我想繼續與格里爾博士討論片刻。
     status: completed
     confidence: high
     notes: null
@@ -8045,7 +8045,7 @@ segments:
     end: 01:04:46,000
   source_text: You talked about 14 countries that have opened up UFO files, and I take it that these are probably similar to files that the United States has that the United States government has refused to open up.
   translation:
-    text: 您談到了 14 個國家開放了不明飛行物（UFO）檔案，我認為這些檔案可能與美國政府擁有但拒絕開放的檔案類似。
+    text: 您談到了 14 個國家開放了不明飛行物檔案，我認為這些檔案可能與美國政府擁有但拒絕開放的檔案類似。
     status: completed
     confidence: high
     notes: null
@@ -8099,7 +8099,7 @@ segments:
     end: 01:05:06,440
   source_text: Great Britain, for example, has recently opened up a large number of files, but those are the ones that can be obtained by a FOIA-type officer, same thing in France.
   translation:
-    text: 例如，英國最近開放了大量檔案，但那些是可以通過類似資訊自由法（FOIA）的官員獲得的檔案，法國也是如此。
+    text: 例如，英國最近開放了大量檔案，但那些是可以透過類似資訊自由法（FOIA）程序的官員取得的檔案，法國的情況也是如此。
     status: completed
     confidence: high
     notes: null
@@ -8224,7 +8224,7 @@ segments:
     end: 01:06:01,560
   source_text: Well, Secretary of Defense Rumsfeld didn't comment on how long.
   translation:
-    text: 嗯，國防部長倫斯斐（Secretary of Defense Rumsfeld）沒有評論時間跨度。
+    text: 嗯，國防部長倫斯斐（Secretary of Defense Rumsfeld）沒有說明那是多久期間的累計。
     status: completed
     confidence: high
     notes: null
@@ -8299,7 +8299,7 @@ segments:
     text: 項目，對，USAP。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 USABs 應為 USAPs（口誤或轉錄錯誤）；yet 疑為 yes
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8382,7 +8382,7 @@ segments:
     end: 01:06:53,840
   source_text: Over several decades, and we estimate it's between, at this point, $100 billion and $200 billion a year.
   translation:
-    text: 在幾十年內，我們估計目前每年在 1，000 億至 2，000 億美元之間。
+    text: 在幾十年內，我們估計目前每年在 1,000 億至 2,000 億美元之間。
     status: completed
     confidence: high
     notes: null
@@ -8489,7 +8489,7 @@ segments:
     end: 01:07:22,160
   source_text: We think it is, and in fact, I believe that's what he was saying over a number of years, many years.
   translation:
-    text: 我們認為是的，事實上，我相信這就是他在許多年，很多年來所說的。
+    text: 我們認為是的，事實上，我相信這正是他多年來、許多年以來一直所說的。
     status: completed
     confidence: high
     notes: null
@@ -8507,10 +8507,10 @@ segments:
     end: 01:07:48,200
   source_text: If we have counted in those projects things like anti-gravity machines, things like space elevators that are based on anti-gravity research and magnetism and electricity that goes far beyond any of us are really totally aware of right now, or some may be, or I can think of a number of things, but here's my question.
   translation:
-    text: 如果我們在這些項目中計算了像反重力機器、基於反重力研究以及磁力和電力的太空電梯等東西，這遠遠超出了我們現在真正完全了解的範圍，或者有些人可能了解，或者我能想到的許多事情，但這是我的問題。
+    text: 如果我們把諸如反重力機器、基於反重力研究以及磁電技術的太空電梯等東西算進這些項目——這些遠超出我們任何人目前真正完全了解的範圍，或許有些人了解——我能想到許多東西，但我的問題是：
     status: completed
     confidence: high
-    notes: null
+    notes: 原文句構破碎（Whisper 常見），譯文依語境整理
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8544,7 +8544,7 @@ segments:
     end: 01:07:57,380
   source_text: And I want you to really give me your best possible feeling on this.
   translation:
-    text: 我希望您真正給我您對此的最佳可能感受。
+    text: 我希望您能盡可能給我您對此最真切的感受。
     status: completed
     confidence: high
     notes: null
@@ -8595,10 +8595,10 @@ segments:
     end: 01:08:23,680
   source_text: In fact, I was approached by some folks after Obama was elected to support an initiative to privately bring out the lifter or electromagnetic gravitics, and I said because they could become a delivery system, and I was meeting with an Air Force colonel at the time, I think that some of that needs to be looked at very carefully.
   translation:
-    text: 事實上，在歐巴馬當選後，我被一些人接觸，支持一項私下公開升力系統或電磁重力系統的倡議，我說因為它們可能成為投射系統，我當時正在與一位空軍上校會面，我認為其中一些需要非常仔細地審查。
+    text: 事實上，歐巴馬當選後，有人來接觸我，希望我支持一項倡議，私下公開升力系統或電磁重力技術；我回應說，由於它們可能成為武器投射系統——我當時正與一位空軍上校會面——我認為其中一些需要非常仔細地審視。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文句構破碎，譯文依語境整理；delivery system 指武器投射系統
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8651,7 +8651,7 @@ segments:
     end: 01:08:59,760
   source_text: So I think you do have to have a very -- and I'm saying this, and I know there are people who probably in the disclosure movement are going to be appalled by what I'm about to say -- is that we do not yet live in a world where everyone on the planet should have a lifter and transfer transportation system that could get us from here to Paris in two or three minutes, and I think that those sort of technologies obviously have weapons delivery applications.
   translation:
-    text: 所以我認為您必須非常——我說這個，我知道在真相揭露（disclosure）運動中可能有人會對我接下來要說的感到震驚——是我們還沒有生活在一個地球上每個人都應該擁有升力和傳輸運輸系統的世界，這種系統可以讓我們在兩三分鐘內從這裡到達巴黎，我認為這些類型的技術顯然具有武器投射應用。
+    text: 所以我認為您必須非常——我這麼說，也知道真相揭露（disclosure）運動中可能有些人會對我接下來要說的話感到震驚——我們還沒有生活在一個地球上每個人都該擁有升力載具和傳送式運輸系統的世界，那種系統可以讓我們兩三分鐘內從這裡到達巴黎，而我認為這類技術顯然有武器投射的用途。
     status: completed
     confidence: high
     notes: null
@@ -8673,10 +8673,10 @@ segments:
     end: 01:09:25,800
   source_text: However, the part of the technology that deals with energy generation should come out and has also been suppressed for reasons mainly of macroeconomic stability, because as you know, part of the national security discussion has always been these would be highly disruptive technologies, to which I say, well, good, you want to be disrupted now or later when we go through a terminus with the environment melting down around us.
   translation:
-    text: 然而，處理能源發電的技術部分應該公開，而且也因為主要是宏觀經濟穩定的原因而受到抑制，因為如您所知，國家安全（national security）討論的一部分一直是這些將是高度破壞性的技術，對此我說，好吧，您想現在被破壞還是以後，當我們經歷環境在我們周圍崩潰的終點時。
+    text: 然而，其中涉及能源生產的技術部分應該公開；它們受到抑制，主要也是出於宏觀經濟穩定的考量。因為如您所知，國家安全的討論中一直有人說這些是高度顛覆性的技術，對此我要說：好啊，那您是想現在被顛覆，還是想等到以後——等到我們走向終局、環境在我們四周崩解的時候？
     status: completed
     confidence: high
-    notes: null
+    notes: disruptive 在此譯「顛覆性」；terminus 譯「終局」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8711,10 +8711,10 @@ segments:
     end: 01:10:06,200
   source_text: Okay, well, then my last question to you, Dr. Greer, would be these 14 countries that are disclosing, or at least making it possible for the people in those countries and people around the world to know what's in those files, is it possible that one of the reasons they may be motivated over the United States is because they think some of this stuff that's being seen and this phenomena, the maneuvering that's been talked about, the maneuvering that defies the laws of physics, might be something the United States is testing, that the United States just refuses to talk about?
   translation:
-    text: 好的，那麼我對您的最後一個問題，Dr. Greer，將是這 14 個正在揭露或至少讓這些國家的人民以及世界各地的人知道這些檔案內容的國家，是否有可能他們的動機之一超過美國的原因是，他們認為一些被看到的東西和這種現象，被談論的機動性，違反物理定律的機動性，可能是美國正在測試的東西，而美國只是拒絕談論它？
+    text: 好的，那麼我對您的最後一個問題，格里爾博士，是關於這 14 個正在揭露、或至少讓本國人民和世界各地的人知道檔案內容的國家——他們之所以比美國更積極，動機之一是否可能是：他們認為人們看到的這些東西、這種現象，那些被談論的、違反物理定律的機動表現，可能是美國正在測試、卻拒絕談論的東西？
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 motivated over the United States 句構破碎，依語境理解為「比美國更積極」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8802,10 +8802,10 @@ segments:
     end: 01:10:34,760
   source_text: They know that some of them are man-made, and the Lockheed Skunk Works and some of my witnesses and sources work in the famous Skunk Works, and I will tell you that Ben Rich, who headed up the Lockheed Skunk Works, said before he died, and we have a witness to this comment that we "already have the technologies to take ET home."
   translation:
-    text: 他們知道其中一些是人造的，洛克希德臭鼬工廠（Lockheed Skunk Works）以及我的一些證人和消息來源在著名的臭鼬工廠工作，我會告訴您，領導洛克希德臭鼬工廠的班·里奇（Ben Rich）在他去世前說過，我們有一位證人證實了這一評論，「我們已經擁有將 ET 帶回家的技術」。
+    text: 他們知道其中一些是人造的——洛克希德臭鼬工廠（Lockheed Skunk Works）；我的一些證人和消息來源就在那家著名的臭鼬工廠工作。我要告訴您，領導過洛克希德臭鼬工廠的班·里奇（Ben Rich）生前說過——我們有證人可以證實這句話——「我們已經擁有把 ET 帶回家的技術。」
     status: completed
     confidence: high
-    notes: null
+    notes: 原文句構破碎，譯文依語境整理
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8822,7 +8822,7 @@ segments:
     end: 01:10:42,280
   source_text: In other words, we already have at the Skunk Works interstellar-capable technologies.
   translation:
-    text: 換句話說，我們在臭鼬工廠已經擁有星際旅行能力的技術。
+    text: 換句話說，我們已經在臭鼬工廠擁有具備星際航行能力的技術。
     status: completed
     confidence: high
     notes: null
@@ -8890,7 +8890,7 @@ segments:
     end: 01:11:12,720
   source_text: When you have other countries opening up, is there any reason that we shouldn't do the same, at least to the extent that they're doing?
   translation:
-    text: 當其他國家開放時，我們有什麼理由不做同樣的事情，至少在他們做的程度上？
+    text: 既然有其他國家在開放檔案，我們有什麼理由不跟進，至少做到他們的程度？
     status: completed
     confidence: high
     notes: null
@@ -8908,10 +8908,10 @@ segments:
     end: 01:11:22,840
   source_text: We talked about, or you talked about some restrictions at places that we might not want to go for actually really good reasons.
   translation:
-    text: 我們談到，或您談到了一些我們可能出於真正好的理由而不想去的限制地點。
+    text: 我們討論過，或者說您提過一些限制——有些領域我們可能不願涉足，而那確實有充分的理由。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文語意簡略，譯文依語境補足
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8944,7 +8944,7 @@ segments:
     end: 01:11:41,020
   source_text: No, there's not, and in fact, I think that in reality, the secrecy undermines our democracy, and my mom's family were some of the original founders of the United States.
   translation:
-    text: 不，沒有，事實上，我認為實際上，保密削弱了我們的民主，我母親的家族是美國的一些原始創始人之一。
+    text: 不，沒有理由。事實上，我認為這種保密實際上削弱了我們的民主——我母親的家族是美國最初的建國者之一。
     status: completed
     confidence: high
     notes: null
@@ -8962,10 +8962,10 @@ segments:
     end: 01:12:12,140
   source_text: They were the first, well, we say the losers, who got caught by the British and were thrown in prison, so we were the first POWs, and my family and many of us, and my uncle who worked at Northrop Grumman, are appalled at the illegality of the secrecy and the ruthlessness with which it's been enforced, and those of us who've gone through that buzzsaw, and I've gone through a fair amount of it, it is not pretty, and what I would say is that this really does undermine our whole concept of a free society.
   translation:
-    text: 他們是第一批，嗯，我們說失敗者，被英國人抓住並投入監獄，所以我們是第一批戰俘，我的家族和我們許多人，以及我在諾斯洛普格魯曼（Northrop Grumman）工作的叔叔，都對保密的非法性以及執行保密的無情感到震驚，我們這些經歷過那種鋸齒式攻擊的人，我經歷了相當多，這並不美好，我想說的是，這確實削弱了我們自由社會的整個概念。
+    text: 他們是第一批——嗯，用我們的話說——被英國人逮住關進監獄的失敗者，所以我們家算是第一批戰俘。我的家族、我們當中的許多人，還有我在諾斯洛普格魯曼（Northrop Grumman）工作的叔叔，都對這種保密的非法性、以及執行保密手段的無情感到震驚。我們這些經歷過那場煎熬的人——我自己就經歷過不少——那絕非美好的經驗。我想說的是，這確實動搖了我們對自由社會的整個信念。
     status: completed
     confidence: high
-    notes: null
+    notes: buzzsaw 為比喻（煎熬/磨難），非字面攻擊
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9001,7 +9001,7 @@ segments:
     end: 01:12:30,280
   source_text: This was one of my key points that I made to Mr. Rockefeller and to the Clinton administration, is that when you have almost 60 percent of the public believing this is real and some part of the government's hiding it, it makes a laughing stock when the Air Force has trotted out to say everything's a weather balloon.
   translation:
-    text: 這是我向洛克菲勒先生（Mr. Rockefeller）和柯林頓政府（Clinton administration）提出的關鍵點之一，即當您有近百分之六十的公眾相信這是真實的，政府的某些部分正在隱瞞它時，當空軍被拿出來說一切都是氣象氣球時，這讓政府成為笑柄。
+    text: 這是我向洛克菲勒先生（Mr. Rockefeller）和柯林頓政府（Clinton administration）提出的關鍵論點之一：當近六成民眾相信這是真的、而政府的某個部分正在隱瞞時，空軍卻一再出面宣稱一切都是氣象氣球，這實在讓政府淪為笑柄。
     status: completed
     confidence: high
     notes: null
@@ -9021,7 +9021,7 @@ segments:
     end: 01:12:54,000
   source_text: It's just as ridiculous, so the more we can release, the better, and I think the technology end of it needs to at least be released at the level where we would be able to have practical applications and sort of a peace dividend and an environmental dividend to this $2.3 trillion that are unaccounted for in the Department of Defense, and that certainly ought to happen.
   translation:
-    text: 這同樣荒謬，所以我們能發布的越多越好，我認為其中的技術部分至少需要在我們能夠擁有實際應用的層面上發布，並對這 2.3 兆美元未計入國防部的資金獲得某種和平紅利和環境紅利，這當然應該發生。
+    text: 這同樣荒謬，所以我們能公開的愈多愈好。我認為其中的技術部分至少必須公開到讓我們能有實際應用的程度，並針對國防部這筆去向不明的 2.3 兆美元取得某種和平紅利與環境紅利，這當然應該實現。
     status: completed
     confidence: high
     notes: null
@@ -9113,10 +9113,10 @@ segments:
     end: 01:14:03,360
   source_text: Well, I think, you know, we would have to make a concerted effort, and I have to tell you, the look of fear, and I'm being very honest here, the fear and the anger I saw in the faces of General Patrick Hughes and Admiral Wilson when we provided the information that I'm going to provide for you, and which was provided to these people, as well as C.I.
   translation:
-    text: 嗯，我認為，您知道，我們必須做出一致的努力，我必須告訴您，當我們提供我將為您提供的資訊時，我在派翠克·休斯將軍（General Patrick Hughes）和威爾森上將（Admiral Wilson）臉上看到的恐懼和憤怒，我非常誠實地說，這種恐懼和憤怒。
+    text: 嗯，我認為，您知道，我們必須做出一致的努力。我必須告訴您——我在這裡非常誠實——當我們提供這份資訊時（也就是我稍後要交給您的那份，而這份資訊當時也提供給了這些人，以及 CIA——
     status: completed
     confidence: high
-    notes: null
+    notes: 原文於 C.I. 處中斷，與下段 Director Woolsey 合為 CIA Director Woolsey（CIA 局長伍爾西）；本段句構承接後續段落
   metadata:
     topic_id: topic_05
     speaker_hint: '>>'
@@ -9133,10 +9133,10 @@ segments:
     end: 01:14:04,360
   source_text: Director Woolsey.
   translation:
-    text: 伍爾西局長（Director Woolsey）。
+    text: 局長伍爾西）——我在派翠克·休斯將軍（General Patrick Hughes）和威爾森上將（Admiral Wilson）臉上看到的恐懼與憤怒。
     status: completed
     confidence: high
-    notes: null
+    notes: 承接 seg 508 的斷句（as well as C.I. Director Woolsey）；恐懼與憤怒的描述主句於此收束
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9150,10 +9150,10 @@ segments:
     end: 01:14:29,820
   source_text: It was palpable, because they realized that there was this very deep secret national security state that even they, who are supposed to be looking out after our best interests, were being denied access to, and when I asked the Admiral, Admiral Wilson, the head of intelligence joint staff, to please try to get control of this, he looked at me, he says, "My understanding now is that the best thing I have is a B2 stealth.
   translation:
-    text: 這是顯而易見的，因為他們意識到存在這個非常深層的秘密國家安全國家（national security state），即使是他們，應該照顧我們最佳利益的人，也被拒絕訪問，當我要求上將，威爾森上將，聯合參謀部情報主管，請試圖控制這個時，他看著我，他說：「我現在的理解是，我擁有的最好的東西是 B2 隱形轟炸機。」
+    text: 那種感覺顯而易見，因為他們意識到存在著一個非常深層的秘密國家安全體系（national security state），即使是他們——理應守護我們最佳利益的人——也被拒絕訪問。當我請求威爾森上將（參謀長聯席會議情報主管）設法掌控這個局面時，他看著我說：「我現在的理解是，我手上最好的東西就是一架 B-2 隱形轟炸機。」
     status: completed
     confidence: high
-    notes: null
+    notes: B-2 依術語表加連字號；head of intelligence joint staff 依主表譯「參謀長聯席會議情報主管」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9171,10 +9171,10 @@ segments:
     end: 01:14:33,840
   source_text: What this secret organization has are things that can do circles around it.
   translation:
-    text: 這個秘密組織擁有的東西可以繞著它轉圈。
+    text: 而這個秘密組織所擁有的，是性能遠在 B-2 之上的東西。
     status: completed
     confidence: high
-    notes: null
+    notes: do circles around 為俚語「遠遠超越」；it 指上段的 B-2 隱形轟炸機
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9188,10 +9188,10 @@ segments:
     end: 01:14:35,740
   source_text: I'm outgunned."
   translation:
-    text: 我被比下去了。
+    text: 我在武力上被完全壓制了。」
     status: completed
     confidence: high
-    notes: null
+    notes: 承接 seg 510 威爾森上將的引言
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9205,7 +9205,7 @@ segments:
     end: 01:14:57,960
   source_text: He also said that until the civilian leaders of the government order him to do something, the Secretary of Defense and the President, he can only do so much, but we couldn't get President Clinton to lean into this for reasons, well, I don't know if I want to even go into that, but it's for security reasons, safety reasons.
   translation:
-    text: 他還說，除非政府的文職領導人，國防部長和總統，命令他做某事，否則他只能做這麼多，但我們無法讓柯林頓總統（President Clinton）深入此事，原因是，嗯，我不知道我是否想深入探討，但這是出於安全原因、安全理由。
+    text: 他還說，除非政府的文職領導人——國防部長和總統——命令他採取行動，否則他能做的有限；但我們無法讓柯林頓總統（President Clinton）投入此事，原因嘛，嗯，我不知道自己是否想談這個，但那是出於安全和人身安危的考量。
     status: completed
     confidence: high
     notes: null
@@ -9225,10 +9225,10 @@ segments:
     end: 01:15:22,680
   source_text: So I think that this is the sort of problem you run into, and General Patrick Hughes went over to a shelf, now this is the head of the Defense Intelligence Agency, huge, and he said, "This is all I've ever gotten from the Defense Intelligence Agency chain of command in my inquiries into this subject," and he had a little ET doll brought at a toy store, and we all laughed but wanted to cry.
   translation:
-    text: 所以我認為這就是您會遇到的問題，派翠克·休斯將軍（General Patrick Hughes）走到一個架子前，現在這是國防情報局（Defense Intelligence Agency）局長，巨大的，他說：「這就是我從國防情報局指揮鏈對此主題的調查中獲得的全部」，他有一個在玩具店買的小 ET 娃娃，我們都笑了但想哭。
+    text: 所以我認為這就是您會遇到的那種問題。派翠克·休斯將軍（General Patrick Hughes）——他可是國防情報局（Defense Intelligence Agency）局長——走到一個巨大的架子前，說：「這就是我循國防情報局指揮鏈調查這個主題所得到的全部。」架上有個從玩具店買來的小 ET 娃娃，我們都笑了，卻又想哭。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文句構破碎（huge 指架子），譯文依語境整理
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9299,7 +9299,7 @@ segments:
     end: 01:15:49,520
   source_text: Well, that's what I found in the hearing when I asked about how do we get to that place where they can go through an audit.
   translation:
-    text: 嗯，這就是我在聽證會上詢問我們如何到達他們可以進行審計的地方時發現的。
+    text: 嗯，這就是我在聽證會上詢問如何讓他們能夠通過審計時所發現的情況。
     status: completed
     confidence: high
     notes: null
@@ -9335,10 +9335,10 @@ segments:
     end: 01:16:24,560
   source_text: One of the reasons is this, and this is going to have to get reformed somehow, I know an auditor for my uncle's old company, Northrop Grumman, he said, "Basically, if you're dealing with one of these unacknowledged projects, they will tell you, 'Well, we have an undisclosed amount of money doing an undisclosed project, and you don't have a need to know,' and they will then just rubber-stamp what's going into Northrop Grumman, or Lockheed Martin, or Science Applications International Corporation, or MITRE Corporation."
   translation:
-    text: 其中一個原因是這個，這必須以某種方式改革，我認識我叔叔的老公司諾斯洛普格魯曼（Northrop Grumman）的一位審計員，他說：「基本上，如果您正在處理這些未公開項目之一，他們會告訴您：『嗯，我們有一筆未公開的金額在做一個未公開的項目，而您沒有知曉的必要性』，然後他們會直接橡皮圖章批准進入諾斯洛普格魯曼、洛克希德馬丁（Lockheed Martin）、科學應用國際公司（Science Applications International Corporation）或 MITRE 公司的款項。」
+    text: 其中一個原因是這個，而這遲早必須改革。我認識我叔叔老東家諾斯洛普格魯曼（Northrop Grumman）的一位審計員，他說：「基本上，如果您處理的是這些未公開項目之一，他們會告訴您：『嗯，我們有一筆未公開金額的資金在進行一個未公開的項目，而您沒有需知權限。』然後他們對流入諾斯洛普格魯曼、洛克希德馬丁（Lockheed Martin）、科學應用國際公司（Science Applications International Corporation）或 MITRE 公司的款項就只是蓋橡皮圖章放行。」
     status: completed
     confidence: high
-    notes: null
+    notes: need to know 依主表譯「需知權限」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9374,10 +9374,10 @@ segments:
     end: 01:16:42,320
   source_text: One of the sections in here that I will provide for you, and Congressman Christopher Cox, who later became Bush's head of the SEC, asked me to put this together for him, and it's a list of the facilities and corporations and sub-corporations and sub-facilities where this activity is going on.
   translation:
-    text: 我將為您提供的其中一個部分，眾議員克里斯托弗·考克斯（Congressman Christopher Cox），他後來成為布希的證券交易委員會（SEC）主管，要求我為他整理這個，這是一份設施、公司、子公司和子設施的清單，這些活動正在進行的地方。
+    text: 我稍後會提供給您的其中一個部分——是克里斯托弗·考克斯眾議員（Congressman Christopher Cox）要求我為他整理的，他後來出任布希政府的證券交易委員會（SEC）主席——那是一份清單，列出進行這些活動的設施、公司、子公司與子設施。
     status: completed
     confidence: high
-    notes: null
+    notes: head of the SEC 即 SEC 主席
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9394,7 +9394,7 @@ segments:
     end: 01:16:46,640
   source_text: This is actionable intelligence if anyone wants to follow up on it.
   translation:
-    text: 如果有人想跟進，這是可行的情報。
+    text: 如果有人想跟進，這是可據以行動的情報。
     status: completed
     confidence: high
     notes: null
@@ -9428,7 +9428,7 @@ segments:
     end: 01:16:59,080
   source_text: We have found out, but it's something that would have to be a concerted effort under subpoena power by people who would not take no for an answer, and that I think the people deserve.
   translation:
-    text: 我們已經找出來了，但這需要在傳票權力下進行一致的努力，由不會接受拒絕答案的人進行，我認為人民應該得到這個。
+    text: 我們已經查出來了，但這必須由不接受拒絕的人憑藉傳票權限一致努力才能做到，而我認為這是人民應得的。
     status: completed
     confidence: high
     notes: null
@@ -9483,10 +9483,10 @@ segments:
     end: 01:17:39,200
   source_text: And in 1995, the Rockefeller-funded conference in Asilomar, my question, as you were talking about it, was, well, what were their goals?
   translation:
-    text: 而在 1995 年，洛克菲勒資助的在 Asilomar 的會議，我的問題，當您談論它時，是，他們的目標是什麼？
+    text: 而在 1995 年，當您談到那場由洛克菲勒資助、在阿西洛馬（Asilomar）舉行的會議時，我的問題是：他們的目標是什麼？
     status: completed
     confidence: high
-    notes: 已修正 Whisper 轉錄錯誤：'conference in the Sylmar' → 'conference in Asilomar'
+    notes: 已修正 Whisper 轉錄錯誤：'conference in the Sylmar' → 'conference in Asilomar'；Asilomar 依 topic_01 定譯「阿西洛馬」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9535,7 +9535,7 @@ segments:
     end: 01:17:55,040
   source_text: And what we're doing today, this many years later, is there enough different out there that we can make a difference this week?
   translation:
-    text: 我們今天所做的，這麼多年後，外面是否有足夠的不同，我們可以在本週產生影響？
+    text: 而這麼多年後的今天我們正在做的事——如今外部環境是否已有足夠的改變，讓我們本週就能帶來影響？
     status: completed
     confidence: high
     notes: null
@@ -9571,10 +9571,10 @@ segments:
     end: 01:18:14,600
   source_text: I had grown men, old enough to be my grandfather, cry on my shoulder and say, "We've been wanting to talk about this our whole lives," who were astronauts, who were cosmonauts.
   translation:
-    text: 我有年齡大到足以成為我祖父的成年男子在我肩膀上哭泣，說：「我們一輩子都想談論這個」，他們是太空人，他們是太空員。
+    text: 曾有一些成年男子——年紀大得足以當我的祖父——在我肩頭哭泣，說：「我們一輩子都想談談這件事。」他們當中有太空人，也有宇宙飛行員。
     status: completed
     confidence: high
-    notes: null
+    notes: astronauts（美）與 cosmonauts（蘇/俄）分別譯為太空人、宇宙飛行員
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9606,10 +9606,10 @@ segments:
     end: 01:18:28,120
   source_text: They had signed oaths saying that they would never talk about any of this stuff, and they were afraid, and some of them had been in unacknowledged projects where they were told they would be terminated, killed, if they talked about it, and this is true.
   translation:
-    text: 他們簽署了誓言，說他們永遠不會談論任何這些東西，他們害怕，其中一些人曾在未公開項目中，他們被告知如果談論它就會被終止、被殺，這是真的。
+    text: 他們簽署過誓言，絕不談論這一切；他們很害怕。其中有些人曾參與未公開項目，被告知如果說出去就會被除掉、被殺害——這是千真萬確的。
     status: completed
     confidence: high
-    notes: null
+    notes: terminated 在此指人被除掉，非合約終止
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -9697,7 +9697,7 @@ segments:
     end: 01:19:11,800
   source_text: Now, with this process, there's the possibility of galvanizing a larger movement, because I think if the people will lead, the leaders will have to follow, but we have to get the information that we have out.
   translation:
-    text: 現在，通過這個過程，有可能激發一個更大的運動，因為我認為如果人民帶頭，領導者就必須跟隨，但我們必須把我們擁有的資訊公開。
+    text: 現在，透過這個過程，有可能激發一個更大的運動，因為我認為如果人民帶頭，領導者就必須跟隨，但我們必須把我們擁有的資訊公開。
     status: completed
     confidence: high
     notes: null
@@ -9716,10 +9716,10 @@ segments:
     end: 01:19:35,560
   source_text: But I think that to the extent that you folks could influence some of your colleagues who are still in the Congress to take a serious interest in this, that isn't just a dog-and-pony show of denial and ridicule, but really drills down on the, again, actionable intelligence that we've put together over the last 15 years, I think that that would result to really the lid coming off this thing and the people knowing the truth once and for all.
   translation:
-    text: 但我認為，在您們能夠影響您們在國會中的一些仍在任的同事，讓他們認真對待此事，而不僅僅是拒絕和嘲笑的狗和小馬秀，而是真正深入挖掘我們在過去 15 年中整理的，再次，可行的情報，我認為這將導致這件事的蓋子真正被揭開，人民終於知道真相。
+    text: 但我認為，如果您們能影響一些仍在國會的同仁，讓他們認真關注此事——而不只是一場充斥否認與嘲笑的表面秀——真正深入探究我們過去 15 年間整理出的、可據以行動的情報，我相信那將真正掀開這件事的蓋子，讓人民一勞永逸地知道真相。
     status: completed
     confidence: high
-    notes: null
+    notes: dog-and-pony show 為慣用語（做給看的表面秀），非字面義
   metadata:
     topic_id: topic_05
     speaker_hint: null

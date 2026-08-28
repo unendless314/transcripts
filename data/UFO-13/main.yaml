@@ -470,10 +470,10 @@ segments:
     end: 00:01:55,040
   source_text: Mr. Givard from Brazil.
   translation:
-    text: 來自巴西的 Gevaerd 先生。
+    text: 來自巴西的熱瓦爾德（Gevaerd）先生。
     status: completed
     confidence: high
-    notes: 原文 Givard 為轉錄錯誤，根據 topics.json 應為 Gevaerd
+    notes: 原文 Givard 為轉錄錯誤，應為 Gevaerd（依 topics.json）；網路無流通中譯，採葡語音譯
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -646,7 +646,7 @@ segments:
     end: 00:03:31,280
   source_text: Now he has some views that he would like to share with us, with you, and I would like to ask permission to introduce Mr. Wilson Pickler.
   translation:
-    text: 現在他有一些觀點想與我們、與各位分享，我想請求允許我介紹 Wilson Pickler 先生。
+    text: 現在他有一些觀點想與我們、與各位分享，我想請求允許我介紹威爾遜·皮克勒（Wilson Pickler）先生。
     status: completed
     confidence: high
     notes: null
@@ -980,10 +980,10 @@ segments:
     end: 00:06:11,200
   source_text: The power of the last detonation, which was by Russians, it is 3,333 times the power of Hiroshima bomb.
   translation:
-    text: 俄羅斯人上一次核爆的威力，是廣島原子彈的 3，333 倍。
+    text: 俄羅斯人上一次核爆的威力，是廣島原子彈的 3,333 倍。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 講者所指應為蘇聯 1961 年試爆的沙皇炸彈（Tsar Bomba，威力約為廣島原子彈三千倍上下）；原文 3,333 倍與實際略有出入，依規範保留講者原數字
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1066,7 +1066,7 @@ segments:
     end: 00:06:36,200
   source_text: So just looking at the name of this artifact, like Hiroshima bomb, little boy.
   translation:
-    text: 所以光是看這個武器的名字，就像廣島原子彈叫『小男孩』。
+    text: 所以光是看這個武器的名字，就像廣島原子彈叫「小男孩」（Little Boy）。
     status: completed
     confidence: high
     notes: null
@@ -1083,7 +1083,7 @@ segments:
     end: 00:06:38,420
   source_text: The other one, fat man.
   translation:
-    text: 另一顆叫『胖子』。
+    text: 另一顆叫「胖子」（Fat Man）。
     status: completed
     confidence: high
     notes: 指長崎原子彈
@@ -1361,7 +1361,7 @@ segments:
     end: 00:08:01,680
   source_text: I'd like to start out with Mr. Gevaerd.
   translation:
-    text: 首先請 Gevaerd 先生發言。
+    text: 首先請熱瓦爾德先生發言。
     status: completed
     confidence: high
     notes: null
@@ -1412,7 +1412,7 @@ segments:
     end: 00:08:06,160
   source_text: Thank you, Professor Wilson-Pickler.
   translation:
-    text: 謝謝 Wilson Pickler 教授。
+    text: 謝謝威爾遜·皮克勒教授。
     status: completed
     confidence: high
     notes: null
@@ -1634,7 +1634,7 @@ segments:
     end: 00:11:12,560
   source_text: I would like to show you some pictures, please, Jennifer, of this meeting that took place on April 18th.
   translation:
-    text: 我想向各位展示一些照片，請 Jennifer 幫忙播放，這是 4 月 18 日舉行的那場會議。
+    text: 我想向各位展示一些照片，請珍妮佛（Jennifer）幫忙播放，這是 4 月 18 日舉行的那場會議。
     status: completed
     confidence: high
     notes: null
@@ -1652,7 +1652,7 @@ segments:
     end: 00:11:19,200
   source_text: This is our federal capital, this is Brasilia, it's a modern capital, please, the next one.
   translation:
-    text: 這是我們的聯邦首都，這是巴西利亞，是一座現代化的首都，請看下一张。
+    text: 這是我們的聯邦首都，這是巴西利亞，是一座現代化的首都，請看下一張。
     status: completed
     confidence: high
     notes: null
@@ -1705,7 +1705,7 @@ segments:
     end: 00:11:51,400
   source_text: There you can see this meeting that was being conducted by the Secretary of the Minister, Ambassador Celso Amorim, next please.
   translation:
-    text: 各位可以看到這場會議是由部長的秘書 Celso Amorim 大使主持的，請看下一张。
+    text: 各位可以看到這場會議是由部長的秘書塞爾索·阿莫里姆（Celso Amorim）大使主持的，請看下一張。
     status: completed
     confidence: high
     notes: null
@@ -1961,7 +1961,7 @@ segments:
     text: 大約十年後，或者說二十年後，也就是 1977 年，我們有另一個非常重要的計畫來調查亞馬遜地區的這個現象，特別是亞馬遜的一個特定區域，當地居民觀察到 UFO 現象，尤其是科拉雷斯島（Colares）的居民。
     status: completed
     confidence: high
-    notes: Colares 為巴西地名，音譯為科拉雷斯
+    notes: null
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2103,7 +2103,7 @@ segments:
     end: 00:16:29,920
   source_text: This is all very intense. 2,000 pages have been produced by 3,000 men who took part in this operation.
   translation:
-    text: 這一切都是非常密集的。參與這次行動的 3，000 人製作了 2，000 頁的文件。
+    text: 這一切都是非常密集的。參與這次行動的 3,000 人製作了 2,000 頁的文件。
     status: completed
     confidence: high
     notes: null
@@ -2438,10 +2438,10 @@ segments:
     end: 00:19:14,160
   source_text: Its committee, known as CEFAA, which is a translation for committee for the study of anomalous aerial phenomena, is under the Civil Aviation Agency, DGAC.
   translation:
-    text: 其委員會稱為 CEFA，全名為異常空中現象研究委員會（Committee for the Study of Anomalous Aerial Phenomena），隸屬於智利民航局（DGAC）。
+    text: 其委員會稱為 CEFAA，全名為異常空中現象研究委員會（Committee for the Study of Anomalous Aerial Phenomena），隸屬於智利民航局（DGAC）。
     status: completed
     confidence: high
-    notes: CEFA 首次出現譯全稱加原文，DGAC 為智利民航局縮寫
+    notes: 原文 CEFA 應為 CEFAA（seg 191 原文作 CEFAA，UFO-14 同），轉錄錯誤已補錄 topics.json
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2459,7 +2459,7 @@ segments:
     text: 換句話說，這就像美國聯邦航空管理局（FAA）設有一個不明飛行物部門。
     status: completed
     confidence: high
-    notes: FAA 首次出現譯全稱加原文
+    notes: null
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2493,10 +2493,10 @@ segments:
     end: 00:20:05,880
   source_text: Chile has a rich history of UFO cases, some of them highly strange, like an incident involving a group of seven soldiers in a corporal near Putre in Chile's northern Atacama region near the border with Peru in 1977, the so-called time warp case of Corporal Valdés, which became the subject of my very first UFO article back in 1977.
   translation:
-    text: 智利有豐富的不明飛行物案例歷史，其中一些非常奇特，例如 1977 年發生在智利北部阿塔卡馬地區、靠近秘魯邊境的普特雷附近，涉及一名下士和七名士兵的事件，即所謂的 Valdez 下士「時間扭曲」案，這成為我 1977 年第一篇不明飛行物文章的主題。
+    text: 智利有豐富的不明飛行物案例歷史，其中一些非常奇特，例如 1977 年發生在智利北部阿塔卡馬地區、靠近秘魯邊境的普特雷附近，涉及一名下士和七名士兵的事件，即所謂的瓦爾德斯（Valdés）下士「時間扭曲」案，這成為我 1977 年第一篇不明飛行物文章的主題。
     status: completed
     confidence: high
-    notes: Corporal Valdez 譯為 Valdez 下士
+    notes: 原文 Valdez 應為 Valdés（網路流通慣例 Armando Valdés），人工裁決更正原文拼寫（topics.json 已紀錄），中譯不變
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2513,7 +2513,7 @@ segments:
     end: 00:20:23,600
   source_text: In the 1980s, Gustavo Rodriguez, an air traffic controller, began to collect cases involving pilots who would call the control tower asking if there was any traffic that could explain lights or objects they were seeing during the course of their flights.
   translation:
-    text: 1980 年代，航管員 Gustavo Rodriguez 開始收集涉及飛行員的案例，這些飛行員會呼叫塔台，詢問是否有任何航班可以解釋他們在飛行過程中看到的光點或物體。
+    text: 1980 年代，航管員古斯塔沃·羅德里格斯（Gustavo Rodriguez）開始收集涉及飛行員的案例，這些飛行員會呼叫塔台，詢問是否有任何航班可以解釋他們在飛行過程中看到的光點或物體。
     status: completed
     confidence: high
     notes: null
@@ -2550,10 +2550,10 @@ segments:
     end: 00:20:40,860
   source_text: In the mid-90s, Rodriguez received the support of General Ramon Vega, a former commander in chief of the Chilean Air Force and later a senator.
   translation:
-    text: 1990 年代中期，Rodriguez 獲得了 Ramon Vega 將軍的支持，他曾任智利空軍總司令，後來成為參議員。
+    text: 1990 年代中期，羅德里格斯獲得了拉蒙·貝加（Ramon Vega）將軍的支持，他曾任智利空軍總司令，後來成為參議員。
     status: completed
     confidence: high
-    notes: General Ramon Vega 譯為 Ramon Vega 將軍
+    notes: null
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2568,7 +2568,7 @@ segments:
     end: 00:20:48,540
   source_text: I had the opportunity of meeting both Gustavo Rodriguez and General Vega during several trips to Santiago in the 1990s.
   translation:
-    text: 我在 1990 年代幾次前往聖地牙哥期間，有機會見到了 Gustavo Rodriguez 和 Vega 將軍。
+    text: 我在 1990 年代幾次前往聖地牙哥期間，有機會見到了古斯塔沃·羅德里格斯和貝加將軍。
     status: completed
     confidence: high
     notes: null
@@ -2586,10 +2586,10 @@ segments:
     end: 00:21:03,960
   source_text: I gave the general, in fact, a copy of the Lawrence Rockefeller-sponsored UFO briefing document which I had co-authored and which perhaps played a small role in marshaling the evidence for the creation of CEFA-A in 1997.
   translation:
-    text: 事實上，我給了這位將軍一份勞倫斯·洛克菲勒資助的不明飛行物簡報文件，這是我共同撰寫的，這份文件或許在為 1997 年 CEFA-A 的成立整理證據方面發揮了小小的作用。
+    text: 事實上，我給了這位將軍一份勞倫斯·洛克菲勒資助的不明飛行物簡報文件，這是我共同撰寫的，這份文件或許在為 1997 年 CEFAA 的成立整理證據方面發揮了小小的作用。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Lawrence 應為 Laurance（依 UFO-03/04 裁決與主表）；CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2605,10 +2605,10 @@ segments:
     end: 00:21:13,000
   source_text: During its first months, however, CEFAA seemed rudderless until Air Force General retired Ricardo Bermudez, who was named director.
   translation:
-    text: 然而，在最初幾個月，CEFA-A 似乎缺乏方向，直到空軍退役將軍 Ricardo Bermudez 被任命為主任。
+    text: 然而，在最初幾個月，CEFAA 似乎缺乏方向，直到空軍退役將領里卡多·貝爾穆德斯（Ricardo Bermudez）被任命為主任。
     status: completed
     confidence: high
-    notes: General Ricardo Bermudez 譯為 Ricardo Bermudez 將軍
+    notes: 原文 CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2623,7 +2623,7 @@ segments:
     end: 00:21:26,400
   source_text: General Bermudez was the director of the Technical School of Aeronautics, which trains air traffic controllers, and it was at this school, which I visited many times, where the commission was housed for a number of years.
   translation:
-    text: Bermudez 將軍是航空技術學校的校長，該校負責培訓航管員，而這個委員會就在這所學校辦公多年，我曾多次造訪該校。
+    text: 貝爾穆德斯將軍是航空技術學校的校長，該校負責培訓航管員，而這個委員會就在這所學校辦公多年，我曾多次造訪該校。
     status: completed
     confidence: high
     notes: null
@@ -2642,10 +2642,10 @@ segments:
     end: 00:21:49,280
   source_text: CEFA-A's mission is to "record and analyze all relevant reports concerning UAP, unidentified aerial phenomena, occurring within the national territory on the basis of a serious objective and scientific analysis with the purpose of determining any possible risk to air operations."
   translation:
-    text: CEFA-A 的任務是『記錄和分析所有關於不明空中現象（UAP）的相關報告，這些現象發生在國家領土內，基於嚴肅、客觀和科學的分析，以確定對飛行作業的任何可能風險。』
+    text: CEFAA 的任務是「記錄和分析所有關於不明空中現象（UAP）的相關報告，這些現象發生在國家領土內，基於嚴肅、客觀和科學的分析，以確定對飛行作業的任何可能風險。」
     status: completed
     confidence: high
-    notes: UAP 譯為不明空中現象
+    notes: 原文 CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2661,10 +2661,10 @@ segments:
     end: 00:22:09,400
   source_text: In 2002, CEFA-A became essentially inactive for a number of years, but in December of 2009, the DGAC, the Civil Aviation Agency, announced that CEFA-A was being reactivated and once again General Bermudez was brought back to direct it and Gustavo Rodriguez to serve as secretary.
   translation:
-    text: 2002 年，CEFA-A 基本上停擺了數年，但在 2009 年 12 月，智利民航局（DGAC）宣布 CEFA-A 重新啟動，Bermudez 將軍再次被召回領導，Gustavo Rodriguez 擔任秘書。
+    text: 2002 年，CEFAA 基本上停擺了數年，但在 2009 年 12 月，智利民航局（DGAC）宣布 CEFAA 重新啟動，貝爾穆德斯將軍再次被召回領導，羅德里格斯擔任秘書。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2736,10 +2736,10 @@ segments:
     end: 00:23:12,680
   source_text: CEFA-A has an external committee of advisors, which includes eight top scientists from the Chilean Commission of Nuclear Energy, Aerospace Medicine at Santiago University, astronomers from the Metropolitan and Catholic Universities, a plasma physicist from Santiago University, a geographer and expert on satellite imagery from Chile State University, and two psychologists.
   translation:
-    text: CEFA-A 設有外部顧問委員會，包括八位頂尖科學家，分別來自智利核能委員會、聖地牙哥大學航空醫學系、都會大學與天主教大學的天文學家、聖地牙哥大學的電漿物理學家、智利州立大學的地理學家與衛星影像專家，以及兩位心理學家。
+    text: CEFAA 設有外部顧問委員會，包括八位頂尖科學家，分別來自智利核能委員會、聖地牙哥大學航空醫學系、都會大學與天主教大學的天文學家、聖地牙哥大學的電漿物理學家、智利州立大學的地理學家與衛星影像專家，以及兩位心理學家。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2756,10 +2756,10 @@ segments:
     end: 00:23:25,880
   source_text: There is also a CEFA-A internal committee, which includes experts on operation safety, air control center, meteorology, air accidents investigations, aerospace engineering, and audiovisual.
   translation:
-    text: CEFA-A 還設有內部委員會，包括作業安全、航管中心、氣象、空難調查、航太工程和視聽方面的專家。
+    text: CEFAA 還設有內部委員會，包括作業安全、航管中心、氣象、空難調查、航太工程和視聽方面的專家。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2880,10 +2880,10 @@ segments:
     end: 00:24:21,880
   source_text: CEFA-A has fully complied with the requirements of the transparency law, and as explained by General Bermudez, "This is the way we deal with the phenomena, openly and freely."
   translation:
-    text: CEFA-A 完全遵守《透明度法》的要求，正如 Bermudez 將軍所解釋的：『這是我們處理這個現象的方式，公開且自由。』
+    text: CEFAA 完全遵守《透明度法》的要求，正如貝爾穆德斯將軍所解釋的：「這是我們處理這個現象的方式，公開且自由。」
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2898,10 +2898,10 @@ segments:
     end: 00:24:28,720
   source_text: CEFA-A has documented many UFO cases involving commercial and military pilots.
   translation:
-    text: CEFA-A 記錄了許多涉及民航和軍方飛行員的不明飛行物案例。
+    text: CEFAA 記錄了許多涉及民航和軍方飛行員的不明飛行物案例。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 CEFA-A 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2915,10 +2915,10 @@ segments:
     end: 00:24:41,560
   source_text: One of the more interesting ones, known as the Pelican case, occurred on June 24, 2010, and it involved three different aircraft, two airliners and a Navy plane called Pelican.
   translation:
-    text: 其中一個較有趣的案例被稱為『鵜鶘案』，發生於 2010 年 6 月 24 日，涉及三架不同的飛機，兩架客機和一架名為『鵜鶘』的海軍飛機。
+    text: 其中一個較有趣的案例被稱為「鵜鶘案」，發生於 2010 年 6 月 24 日，涉及三架不同的飛機，兩架客機和一架名為「鵜鶘」的海軍飛機。
     status: completed
     confidence: high
-    notes: Pelican case 譯為鵜鶘案
+    notes: null
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2933,7 +2933,7 @@ segments:
     end: 00:24:53,280
   source_text: As put by General Bermudez at a lecture he gave at the International UFO Congress in Fountain Hills, Arizona in 2012, "Three airplanes witnessed the same phenomenon.
   translation:
-    text: 正如 Bermudez 將軍 2012 年在亞利桑那州 Fountain Hills 舉行的國際不明飛行物大會上演講時所說：『三架飛機目擊了同一個現象。』
+    text: 正如貝爾穆德斯將軍 2012 年在亞利桑那州方丹山（Fountain Hills）舉行的國際不明飛行物大會上演講時所說：「三架飛機目擊了同一個現象。
     status: completed
     confidence: high
     notes: null
@@ -3002,7 +3002,7 @@ segments:
     end: 00:25:14,280
   source_text: In the audio communication, one can hear the pilot saying, 'Roger, at this moment, I can't see it anymore.
   translation:
-    text: 在通話錄音中，可以聽到飛行員說：『收到，此刻我看不到它了。』
+    text: 在通話錄音中，可以聽到飛行員說：「收到，此刻我看不到它了。
     status: completed
     confidence: high
     notes: null
@@ -3037,7 +3037,7 @@ segments:
     end: 00:25:24,560
   source_text: It looked like a cloud, camouflaged as a cloud, but with erratic motion.'"
   translation:
-    text: 它看起來像一朵雲，偽裝成雲的樣子，但運動軌跡不規則。』
+    text: 它看起來像一朵雲，偽裝成雲的樣子，但運動軌跡不規則。」
     status: completed
     confidence: high
     notes: null
@@ -3072,7 +3072,7 @@ segments:
     end: 00:25:40,480
   source_text: As explained by General Bermudez, quote, "Think for a moment.
   translation:
-    text: 正如 Bermudez 將軍所解釋的，引用他的話：『請想一下。』
+    text: 正如貝爾穆德斯將軍所解釋的，引用他的話：「請想一下。
     status: completed
     confidence: high
     notes: null
@@ -3124,7 +3124,7 @@ segments:
     end: 00:26:03,000
   source_text: But if a third pilot, a military one, confirms the same fact, I tend to believe it."
   translation:
-    text: 但如果第三位飛行員，一位軍方飛行員，確認同樣的事實，我就傾向於相信它。』
+    text: 但如果第三位飛行員，一位軍方飛行員，確認同樣的事實，我就傾向於相信它。」
     status: completed
     confidence: high
     notes: null
@@ -3176,7 +3176,7 @@ segments:
     end: 00:26:36,560
   source_text: During the same lecture at the International UFO Congress, General Bermudez released a multiple video case taken at the El Bosque base in Santiago, where the Air Force Academy is located, which made world headlines.
   translation:
-    text: 在國際不明飛行物大會的同一場演講中，Bermudez 將軍發布了在聖地牙哥埃爾博斯克基地（El Bosque）拍攝的多段影片案例，該基地是空軍學院所在地，這成為了世界頭條新聞。
+    text: 在國際不明飛行物大會的同一場演講中，貝爾穆德斯將軍發布了在聖地牙哥埃爾博斯克基地（El Bosque）拍攝的多段影片案例，該基地是空軍學院所在地，這成為了世界頭條新聞。
     status: completed
     confidence: high
     notes: El Bosque base 譯為埃爾博斯克基地（El Bosque）
@@ -3195,7 +3195,7 @@ segments:
     end: 00:27:00,960
   source_text: This was because several videos were taken during an important ceremony for the change of the commander of the Chilean Air Force on November 4, 2010, attended by the president, all the commanders of the armed forces and top brass, the minister of defense, and other cabinet members, the diplomatic corps, and many other important officials, including General Bermudez himself.
   translation:
-    text: 這是因為在 2010 年 11 月 4 日智利空軍司令交接的重要典禮上拍攝了多段影片，當時總統、所有武裝部隊指揮官和高級將領、國防部長、其他內閣成員、外交使團以及許多其他重要官員都出席了，包括 Bermudez 將軍本人。
+    text: 這是因為在 2010 年 11 月 4 日智利空軍司令交接的重要典禮上拍攝了多段影片，當時總統、所有武裝部隊指揮官和高級將領、國防部長、其他內閣成員、外交使團以及許多其他重要官員都出席了，包括貝爾穆德斯將軍本人。
     status: completed
     confidence: high
     notes: null
@@ -3269,10 +3269,10 @@ segments:
     end: 00:27:43,560
   source_text: I'm enclosing an interview I did with General Bermudez, published in Open Minds Magazine issue 16, October, November 2012, where he explains the methodology of CEFAA, as well as many of their best UFO cases, including the multiple footage case of El Bosque.
   translation:
-    text: 我附上了一份我對 Bermudez 將軍的訪談，發表於 2012 年 10 月至 11 月的《Open Minds Magazine》第 16 期，其中他解釋了 CEFA 的方法論，以及他們許多最優秀的不明飛行物案例，包括埃爾博斯克的多段影片案例。
+    text: 我附上了一份我對貝爾穆德斯將軍的訪談，發表於 2012 年 10 月至 11 月的《Open Minds Magazine》第 16 期，其中他解釋了 CEFAA 的方法論，以及他們許多最優秀的不明飛行物案例，包括埃爾博斯克的多段影片案例。
     status: completed
     confidence: high
-    notes: CFA 應為 CEFA 的簡稱
+    notes: 原文 CFA 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3288,10 +3288,10 @@ segments:
     end: 00:27:52,960
   source_text: CFA has shown that a serious and open official investigation of UFOs can be conducted in a serious and scientific manner.
   translation:
-    text: CEFA 已經證明，對不明飛行物進行嚴肅且公開的官方調查是可以以嚴謹和科學的方式進行的。
+    text: CEFAA 已經證明，對不明飛行物進行嚴肅且公開的官方調查是可以以嚴謹和科學的方式進行的。
     status: completed
     confidence: high
-    notes: CFA 應為 CEFA 的簡稱
+    notes: 原文 CFA 應為 CEFAA
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3378,10 +3378,10 @@ segments:
     end: 00:28:45,980
   source_text: For this reason, CEFAA and CRIDOVNI, the official UFO agency run by the Uruguayan Air Force since 1978, signed an official agreement of cooperation and exchange of data in 2012.
   translation:
-    text: 因此，CEFAA 和 CRIDOVNI（烏拉圭空軍自 1978 年以來運作的官方不明飛行物機構）於 2012 年簽署了官方合作與數據交換協議。
+    text: 因此，CEFAA 和 CRIDOVNI（烏拉圭空軍自 1978 年以來運作的官方不明飛行物機構）於 2012 年簽署了官方合作與資料交換協議。
     status: completed
     confidence: high
-    notes: CRIDOVNI 為烏拉圭空軍不明飛行物機構，保留原文
+    notes: null
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3396,7 +3396,7 @@ segments:
     end: 00:28:54,360
   source_text: And we have here with us Colonel Sanchez, who was in fact the person that signed that agreement with General Bermudez.
   translation:
-    text: 而我們這裡有 Sanchez 上校，他實際上就是與 Bermudez 將軍簽署該協議的人。
+    text: 而我們這裡有桑切斯（Sanchez）上校，他實際上就是與貝爾穆德斯將軍簽署該協議的人。
     status: completed
     confidence: high
     notes: null
@@ -3468,7 +3468,7 @@ segments:
     end: 00:29:30,280
   source_text: Let me finish with a quote from my interview with General Bermudez.
   translation:
-    text: 讓我以我對 Bermudez 將軍訪談中的一段話作為結束。
+    text: 讓我以我對貝爾穆德斯將軍訪談中的一段話作為結束。
     status: completed
     confidence: high
     notes: null
@@ -3485,7 +3485,7 @@ segments:
     end: 00:29:45,560
   source_text: Now I'm quoting him, "The official conclusion is that the anomalous aerial phenomenon known as unidentified flying objects is real and is present within the controlled airspace and outside the controlled airspace.
   translation:
-    text: 現在我引用他的話：『官方結論是，被稱為不明飛行物的異常空中現象是真實存在的，它存在於受控空域之內，也存在於受控空域之外。』
+    text: 現在我引用他的話：「官方結論是，被稱為不明飛行物的異常空中現象是真實存在的，它存在於受控空域之內，也存在於受控空域之外。
     status: completed
     confidence: high
     notes: null
@@ -3504,7 +3504,7 @@ segments:
     end: 00:29:47,640
   source_text: It is also present in the sea.
   translation:
-    text: 它也出現在海上。』
+    text: 它也出現在海上。
     status: completed
     confidence: high
     notes: null
@@ -3521,7 +3521,7 @@ segments:
     end: 00:29:51,480
   source_text: We have some reports from our Navy in that respect.
   translation:
-    text: 我們的海軍在這方面有一些報告。』
+    text: 我們的海軍在這方面有一些報告。
     status: completed
     confidence: high
     notes: null
@@ -3538,7 +3538,7 @@ segments:
     end: 00:30:11,560
   source_text: It is present everywhere and therefore it is necessary to share the information in order to have more background and be able to study it more scientifically so that we can give real information to the people and not rely on what is shown in TV and in the sensationalist media."
   translation:
-    text: 它無處不在，因此有必要分享資訊，以便有更多背景資料，能夠更科學地研究它，這樣我們才能給予人民真實的資訊，而不是依賴電視和聳動媒體所展示的內容。』
+    text: 它無處不在，因此有必要分享資訊，以便有更多背景資料，能夠更科學地研究它，這樣我們才能給予人民真實的資訊，而不是依賴電視和聳動媒體所展示的內容。」
     status: completed
     confidence: high
     notes: null
@@ -3592,10 +3592,10 @@ segments:
     end: 00:30:30,520
   source_text: General Ariel Sanchez, I think we might need our microphones on.
   translation:
-    text: Ariel Sánchez 將軍，我想我們可能需要打開麥克風。
+    text: 艾瑞爾·桑切斯（Ariel Sánchez）將軍，我想我們可能需要打開麥克風。
     status: completed
     confidence: high
-    notes: null
+    notes: 講者稍後自述為退役上校（seg 207），主席此處稱將軍；人工裁決尊重講者自我表達，照原文翻譯
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3643,7 +3643,7 @@ segments:
     end: 00:30:52,080
   source_text: Ladies and gentlemen, I am Ariel Sanchez Ruiz.
   translation:
-    text: 女士們、先生們，我是 Ariel Sánchez Ruiz。
+    text: 女士們、先生們，我是艾瑞爾·桑切斯·魯伊斯（Ariel Sanchez Ruiz）。
     status: completed
     confidence: high
     notes: null
@@ -3679,7 +3679,7 @@ segments:
     end: 00:31:27,640
   source_text: I was a technical director and I have been 23 years researching this subject.
   translation:
-    text: 我曾擔任技術主任，研究這個主題已有23年。
+    text: 我曾擔任技術主任，研究這個主題已有 23 年。
     status: completed
     confidence: high
     notes: null
@@ -3731,7 +3731,7 @@ segments:
     end: 00:32:20,000
   source_text: Uruguay in these groups of investigation has about 1,300 cases that have been investigated for a long 30 years with 3% of these cases that have non-conventional characteristics.
   translation:
-    text: 烏拉圭在這些調查組織中，約有1，300個案例經過長達30年的調查，其中3%的案例具有非常規特徵。
+    text: 烏拉圭在這些調查組織中，約有 1,300 個案例經過長達 30 年的調查，其中 3% 的案例具有非常規特徵。
     status: completed
     confidence: high
     notes: null
@@ -3749,10 +3749,10 @@ segments:
     end: 00:32:32,360
   source_text: Uruguay is a small country with only 3,250,000 inhabitants in a land of 176,215 square kilometers.
   translation:
-    text: 烏拉圭是一個小國，僅有325萬人口，國土面積為176，215平方公里。
+    text: 烏拉圭是一個小國，僅有 325 萬人口，國土面積為 176,215 平方公里。
     status: completed
     confidence: high
-    notes: 已依據 potential_errors 修正 square feet 為平方公里
+    notes: topics.json 紀錄 square feet 應為 square kilometers，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3766,7 +3766,7 @@ segments:
     end: 00:32:56,320
   source_text: Its principal industry of Uruguay is cattle and raising and agriculture. 1979 was created an office for the citizens' reporting of unidentified objects, most reiterated based on the 1970s, but the first registers started up in 1942.
   translation:
-    text: 烏拉圭的主要產業是畜牧業和農業。1979年設立了公民不明物體通報辦公室，雖然在1970年代已有多次重申，但最早的記錄始於1942年。
+    text: 烏拉圭的主要產業是畜牧業和農業。1979 年設立了公民不明物體通報辦公室，雖然在 1970 年代已有多次重申，但最早的記錄始於 1942 年。
     status: completed
     confidence: high
     notes: null
@@ -3821,7 +3821,7 @@ segments:
     end: 00:33:51,760
   source_text: Here in these 33 years of activity, the Uruguay command of the Air Force has given any information of the diffusion or stopped the reporting of all this information.
   translation:
-    text: 在這33年的運作期間，烏拉圭空軍指揮部從未隱瞞或阻止任何資訊的傳播與報導。
+    text: 在這 33 年的運作期間，烏拉圭空軍指揮部從未隱瞞或阻止任何資訊的傳播與報導。
     status: completed
     confidence: high
     notes: null
@@ -3911,10 +3911,10 @@ segments:
     end: 00:35:09,040
   source_text: In 7 of August in 1979, three officers were nominated for all this recopilation and analysis and 20 civil researchers were also called in to the help.
   translation:
-    text: 1979年8月7日，三名軍官被任命負責所有資料的彙整與分析，同時也召集了20位民間研究人員協助。
+    text: 1979 年 8 月 7 日，三名軍官被任命負責所有資料的彙整與分析，同時也召集了 20 位民間研究人員協助。
     status: completed
     confidence: high
-    notes: null
+    notes: recopilation 應為西班牙語 recopilación（彙整）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3966,7 +3966,7 @@ segments:
     end: 00:36:23,320
   source_text: The results of this idea in 2012, two forces joined, Chile had been doing the first cooperation exchange with the international press with all this research.
   translation:
-    text: 這個構想的成果在2012年實現，兩個機構聯合起來，智利已經與國際媒體進行了首次合作交流，分享所有這些研究成果。
+    text: 這個構想的成果在 2012 年實現，兩個機構聯合起來，智利已經與國際媒體進行了首次合作交流，分享所有這些研究成果。
     status: completed
     confidence: medium
     notes: null
@@ -3987,7 +3987,7 @@ segments:
     text: CRIDOVNI 希望使用相同類型的要素來審查並整合所有關於這些報告的研究。
     status: completed
     confidence: high
-    notes: 已依據 potential_errors 將 LACRI OVNI 修正為 CRIDOVNI
+    notes: 原文 LACRI OVNI 應為 CRIDOVNI（轉錄錯誤，topics.json 已紀錄）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -4314,10 +4314,10 @@ segments:
     end: 00:41:44,360
   source_text: Yes, Anthony Choy from Peru, welcome.
   translation:
-    text: 歡迎來自祕魯的 Anthony Choy。
+    text: 歡迎來自祕魯的安東尼·喬伊（Anthony Choy）。
     status: completed
     confidence: high
-    notes: null
+    notes: 網路查無流通中譯，採音譯；Choy 為華裔姓氏（蔡）的粵語拼寫
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4365,7 +4365,7 @@ segments:
     end: 00:41:56,240
   source_text: My name is Anthony Choy.
   translation:
-    text: 我的名字是 Anthony Choy。
+    text: 我的名字是安東尼·喬伊。
     status: completed
     confidence: high
     notes: null
@@ -4416,10 +4416,10 @@ segments:
     end: 00:42:18,520
   source_text: I am the main investigator of the non-identified objects and I have attended the Area War School of Peru and Space for Peru.
   translation:
-    text: 我是不明物體的主要調查員，曾就讀於祕魯戰爭學院（Area War School of Peru）。
+    text: 我是不明物體的主要調查員，曾就讀於祕魯戰爭學院（Area War School of Peru），也參加過 Space for Peru。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: Space for Peru 機構或課程名稱不詳，保留原文
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4434,10 +4434,10 @@ segments:
     end: 00:42:27,600
   source_text: I am the main investigator for the official UFO research of Peru, founded on 1st November on 1971.
   translation:
-    text: 我是祕魯官方不明飛行物研究的主要調查員，該機構成立於1971年11月1日。
+    text: 我是祕魯官方不明飛行物研究的主要調查員，該機構成立於 1971 年 11 月 1 日。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 祕魯空軍 UFO 調查辦公室實際成立於 2001 年 11 月 1 日，講者稱 1971 年疑為口誤或轉錄錯誤；依規範保留講者原數字
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4452,7 +4452,7 @@ segments:
     end: 00:42:43,280
   source_text: I have been investigating for 13 years this phenomena in Peru and I have also a radio program in Peru which is one of the most important in Pan America.
   translation:
-    text: 我在祕魯調查這個現象已有13年，並且在祕魯主持一個廣播節目，這是泛美洲地區最重要的節目之一。
+    text: 我在祕魯調查這個現象已有 13 年，並且在祕魯主持一個廣播節目，這是泛美洲地區最重要的節目之一。
     status: completed
     confidence: high
     notes: null
@@ -4470,7 +4470,7 @@ segments:
     end: 00:42:55,640
   source_text: I would like to go, please, to image number one, please, around 7 p.m. on 13th of October 2001 in the skies of this city.
   translation:
-    text: 請讓我們看第一張圖片，2001年10月13日晚上7點左右，在這個城市的天空。
+    text: 請讓我們看第一張圖片，2001 年 10 月 13 日晚上 7 點左右，在這個城市的天空。
     status: completed
     confidence: high
     notes: null
@@ -4557,7 +4557,7 @@ segments:
     end: 00:43:55,280
   source_text: These lights have been for two and a half hours, absolutely in silence and forming figures that were geometric alignments, so somehow they were giving a light show for all the witnesses and then suddenly disappeared. 25th of October, another luminous object about 25 meters of diameter.
   translation:
-    text: 這些光持續了兩個半小時，完全寂靜無聲，並且形成幾何排列的圖形，彷彿在為所有目擊者表演一場燈光秀，然後突然消失。10月25日，又出現另一個發光物體，直徑約25公尺。
+    text: 這些光持續了兩個半小時，完全寂靜無聲，並且形成幾何排列的圖形，彷彿在為所有目擊者表演一場燈光秀，然後突然消失。10 月 25 日，又出現另一個發光物體，直徑約 25 公尺。
     status: completed
     confidence: high
     notes: null
@@ -4612,7 +4612,7 @@ segments:
     end: 00:44:22,840
   source_text: The whole view lasted 26 minutes.
   translation:
-    text: 整個景象持續了26分鐘。
+    text: 整個景象持續了 26 分鐘。
     status: completed
     confidence: high
     notes: null
@@ -4714,7 +4714,7 @@ segments:
     end: 00:44:51,600
   source_text: And lastly, on November 15th, another red luminous sphere descended on the same city, which after a few minutes, it disappeared.
   translation:
-    text: 最後，11月15日，另一個紅色發光球體降落在同一座城市，幾分鐘後便消失了。
+    text: 最後，11 月 15 日，另一個紅色發光球體降落在同一座城市，幾分鐘後便消失了。
     status: completed
     confidence: high
     notes: null
@@ -4750,10 +4750,10 @@ segments:
     end: 00:45:10,040
   source_text: They were recorded by Iván Ascanio Fajardo, who was a cameraman from that community, and I asked him for a copy so that I could begin my respective investigation.
   translation:
-    text: 這些影片由 Iván Ascanio Fajardo 拍攝，他是當地社區的攝影師，我向他索取了一份副本以便展開相關調查。
+    text: 這些影片由伊萬·阿斯卡尼奧·法哈多（Iván Ascanio Fajardo）拍攝，他是當地社區的攝影師，我向他索取了一份副本以便展開相關調查。
     status: completed
     confidence: high
-    notes: 已根據 topics.json 的 potential_errors 修正人名
+    notes: topics.json 紀錄 Ivan Issa Nanfardo 應為 Iván Ascanio Fajardo，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4768,7 +4768,7 @@ segments:
     end: 00:45:26,520
   source_text: In the media, the case was called the Chulucanas incident, and the videos were turned over to the Peruvian Air Force and given to Peruvian Air Force Commander Julio Chamorro-Flores, who is the chief of the Peruvian Air Force's UFO investigation office.
   translation:
-    text: 媒體將此案稱為「丘盧卡納斯事件」（Chulucanas incident），影片已移交給祕魯空軍，並交給祕魯空軍指揮官 Julio Chamorro-Flores，他是祕魯空軍不明飛行物調查辦公室的負責人。
+    text: 媒體將此案稱為「丘盧卡納斯事件」（Chulucanas incident），影片已移交給祕魯空軍，並交給祕魯空軍指揮官胡里奧·查莫羅-弗洛雷斯（Julio Chamorro-Flores），他是祕魯空軍不明飛行物調查辦公室的負責人。
     status: completed
     confidence: high
     notes: null
@@ -4908,7 +4908,7 @@ segments:
     end: 00:46:35,120
   source_text: In 1959, during a military training flight of a squadron of four P-47 planes near the city of Chulucanas, Peruvian Air Force Captain Ernesto Arancivia Linares had an encounter with a UFO that shut down his plane's engine.
   translation:
-    text: 1959年，在丘盧卡納斯市附近，一支由四架P-47戰鬥機組成的中隊進行軍事訓練飛行時，祕魯空軍上尉 Ernesto Arancivia Linares 遭遇了一架不明飛行物，導致他的飛機引擎熄火。
+    text: 1959 年，在丘盧卡納斯市附近，一支由四架 P-47 戰鬥機組成的中隊進行軍事訓練飛行時，祕魯空軍上尉埃內斯托·阿蘭西維亞·利納雷斯（Ernesto Arancivia Linares）遭遇了一架不明飛行物，導致他的飛機引擎熄火。
     status: completed
     confidence: high
     notes: null
@@ -4927,7 +4927,7 @@ segments:
     end: 00:46:52,200
   source_text: It was hovering in the air for an hour, and during which time Captain Arancivia states that he had an encounter and communication with the alleged crew members who, based on his testimony, official testimony, seemed to be humans with Nordic features.
   translation:
-    text: 該物體在空中盤旋了一個小時，在此期間 Arancivia 上尉表示他與所謂的機組人員進行了接觸和交流，根據他的官方證詞，這些人似乎是有北歐特徵的人類。
+    text: 該物體在空中盤旋了一個小時，在此期間阿蘭西維亞上尉表示他與所謂的機組人員進行了接觸和交流，根據他的官方證詞，這些人似乎是有北歐特徵的人類。
     status: completed
     confidence: high
     notes: null
@@ -4946,7 +4946,7 @@ segments:
     end: 00:46:57,960
   source_text: Captain Arancivia reported this to his command, but his command never made this public.
   translation:
-    text: Arancivia 上尉向他的指揮部報告了此事，但指揮部從未將此事公開。
+    text: 阿蘭西維亞上尉向他的指揮部報告了此事，但指揮部從未將此事公開。
     status: completed
     confidence: high
     notes: null
@@ -4980,7 +4980,7 @@ segments:
     end: 00:47:16,320
   source_text: This is retired Captain Arancivia right now, and this is an illustration that he drew, his description of this UFO that he saw hovering in the air for an hour.
   translation:
-    text: 這是現已退役的 Arancivia 上尉，這是他繪製的圖畫，描述他看到在空中盤旋一個小時的不明飛行物。
+    text: 這是現已退役的阿蘭西維亞上尉，這是他繪製的圖畫，描述他看到在空中盤旋一個小時的不明飛行物。
     status: completed
     confidence: high
     notes: null
@@ -5015,7 +5015,7 @@ segments:
     end: 00:47:47,680
   source_text: In 2002, during a nighttime military training flight in the area close to Moropon, very close to Chulucanas, Peruvian Air Force Captain Germán Shrock Castillo and another pilot, after receiving a report from a commercial flight and flying at an altitude of 12,000 feet, detected an unexplainable, perfect circle outlined by fire of an immense diameter of between 15 and 18 kilometers.
   translation:
-    text: 2002年，在 Moropon 附近，離丘盧卡納斯很近的區域進行夜間軍事訓練飛行時，祕魯空軍上尉 Germán Shrock Castillo 和另一位飛行員在收到商業航班的報告後，於12，000英呎的高度飛行，發現了一個無法解釋的、由火焰勾勒出的完美圓圈，直徑巨大，介於15到18公里之間。
+    text: 2002 年，在莫羅蓬（Moropon）附近，離丘盧卡納斯很近的區域進行夜間軍事訓練飛行時，祕魯空軍上尉赫爾曼·施羅克·卡斯蒂略（Germán Shrock Castillo）和另一位飛行員在收到商業航班的報告後，於 12,000 英呎的高度飛行，發現了一個無法解釋的、由火焰勾勒出的完美圓圈，直徑巨大，介於 15 到 18 公里之間。
     status: completed
     confidence: high
     notes: null
@@ -5053,7 +5053,7 @@ segments:
     end: 00:48:08,800
   source_text: In 2004, and now we'll see image number 12, a team from the Univision Television Network in Denver, Colorado, traveled to the area to work on a news report on UFOs.
   translation:
-    text: 2004年，現在我們來看第十二張圖片，來自科羅拉多州丹佛市 Univision 電視網的團隊前往該地區製作關於不明飛行物的新聞報導。
+    text: 2004 年，現在我們來看第十二張圖片，來自科羅拉多州丹佛市 Univision 電視網的團隊前往該地區製作關於不明飛行物的新聞報導。
     status: completed
     confidence: high
     notes: null
@@ -5071,7 +5071,7 @@ segments:
     end: 00:48:26,120
   source_text: And on August 6th of that year, at approximately 1.33 a.m., this team was able to record a video of a strange object flying over Cerro Pilán.
   translation:
-    text: 當年8月6日凌晨約1點33分，這個團隊成功錄製到一段影片，拍攝到一個奇怪物體飛越皮蘭山（Cerro Pilán）。
+    text: 當年 8 月 6 日凌晨約 1 點 33 分，這個團隊成功錄製到一段影片，拍攝到一個奇怪物體飛越皮蘭山（Cerro Pilán）。
     status: completed
     confidence: high
     notes: null
@@ -5089,7 +5089,7 @@ segments:
     end: 00:49:13,680
   source_text: The Colonel José Ratti from FAP Airspace Director of Peru, representing the Peru Air Force, the first officer officially of a case that was recognized to all media of communications.
   translation:
-    text: 祕魯空軍航太主任 José Ratti 上校代表祕魯空軍，是第一位正式向所有媒體公開承認此案的軍官。
+    text: 祕魯空軍航太主任何塞·拉蒂（José Ratti）上校代表祕魯空軍，是第一位正式向所有媒體公開承認此案的軍官。
     status: completed
     confidence: high
     notes: null
@@ -5245,7 +5245,7 @@ segments:
     end: 00:51:21,760
   source_text: Peru is one of the six places that for 6,000 years that we have human inhabitation, the Mayas ancestry.
   translation:
-    text: 祕魯是六個擁有6，000年人類居住歷史的地方之一，有著瑪雅祖先的傳承。
+    text: 祕魯是六個擁有 6,000 年人類居住歷史的地方之一，有著瑪雅祖先的傳承。
     status: completed
     confidence: medium
     notes: 原文提到 Mayas ancestry，但瑪雅文明主要在墨西哥和中美洲，此處可能是講者口誤或泛指古代文明
@@ -5297,7 +5297,7 @@ segments:
     end: 00:52:03,920
   source_text: That they have been turned down for informing anything in regards to this event. 1980s, my colleagues and I, we commence studying these events.
   translation:
-    text: 他們被告知不得透露任何與此事件相關的資訊。1980年代，我和我的同事開始研究這些事件。
+    text: 他們被告知不得透露任何與此事件相關的資訊。1980 年代，我和我的同事開始研究這些事件。
     status: completed
     confidence: medium
     notes: null
@@ -5453,7 +5453,7 @@ segments:
     end: 00:53:55,520
   source_text: It's about 60 years that this phenomenon has been studied in my country, but the governments are protectionists or interested in not disclosing the information pertaining to this phenomenon of unidentified objects.
   translation:
-    text: 這個現象在我的國家已經研究了約60年，但政府採取保護主義態度，或不願公開與這些不明物體現象相關的資訊。
+    text: 這個現象在我的國家已經研究了約 60 年，但政府採取保護主義態度，或不願公開與這些不明物體現象相關的資訊。
     status: completed
     confidence: high
     notes: null
@@ -5542,7 +5542,7 @@ segments:
     end: 00:54:47,040
   source_text: And next we have Colonel Oscar Santamaria.
   translation:
-    text: 接下來有請 Oscar Santa María 上校。
+    text: 接下來有請奧斯卡·聖瑪利亞（Oscar Santa María）上校。
     status: completed
     confidence: high
     notes: null
@@ -5611,10 +5611,10 @@ segments:
     end: 00:55:02,200
   source_text: I'm Oscar Santa María Huertas.
   translation:
-    text: 我是 Oscar Santa María Huertas。
+    text: 我是奧斯卡·聖瑪利亞·韋爾塔斯（Oscar Santa María Huertas）。
     status: completed
     confidence: high
-    notes: 原文轉錄為 'I'm Mr. Huertas'，已根據 topics.json 修正為全名
+    notes: topics.json 紀錄 I'm Mr. Huertas 應為全名，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -5628,10 +5628,10 @@ segments:
     end: 00:55:14,840
   source_text: I have been a combat pilot of Peru's Air Force, and I would like to present a document to the U.S. Department of Defense.
   translation:
-    text: 我曾是祕魯空軍的戰鬥機飛行員，現在想向美國國防部呈報一份文件。
+    text: 我曾是祕魯空軍的戰鬥機飛行員，現在想呈報一份美國國防部的文件。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文發音經人工聽音確認確為 to；本段為同步口譯，推測口譯者文法有誤，依 seg 320 語境（該文件為美國 1982 年製作），講者原意應是向委員會呈報一份美國國防部的文件，譯文依語境補足語意
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -5683,7 +5683,7 @@ segments:
     text: 國防部文件中提到，在祕魯南部的拉霍亞基地（La Joya）附近，曾發生數次不明飛行物目擊事件，第一次是當天上午，第二次則是次日晚间。
     status: completed
     confidence: high
-    notes: 原文 'La Jolla' 為轉錄錯誤，已根據 topics.json 修正為 'La Joya'
+    notes: topics.json 紀錄 La Jolla 應為 La Joya，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -5787,7 +5787,7 @@ segments:
     end: 00:57:37,040
   source_text: In the area base of La Joya in the Department of Arequipa in the south of Peru, 11 April 1980, in the morning, 1,800 people, civil and military, that they were part of the base could observe at the end of the landing strip an object that looked like an aerostatic globe suspended in the air, about five kilometers of distance and 1,500 of altitude.
   translation:
-    text: 1980 年 4 月 11 日上午，在祕魯南部阿雷基帕省的拉霍亞基地，約 1，800 名軍民人員在跑道盡頭觀察到一個懸浮在空中的氣球形飛行器，距離約 5 公里，高度約 1，500 公尺。
+    text: 1980 年 4 月 11 日上午，在祕魯南部阿雷基帕省的拉霍亞基地，約 1,800 名軍民人員在跑道盡頭觀察到一個懸浮在空中的氣球形飛行器，距離約 5 公里，高度約 1,500 公尺。
     status: completed
     confidence: high
     notes: null
@@ -5898,10 +5898,10 @@ segments:
     end: 00:59:09,720
   source_text: I did an ascent from the right to the 1,500 meters of height, and I initiated the attack procedures.
   translation:
-    text: 我從右側爬升至 1，500 公尺高度，並開始執行攻擊程序。
+    text: 我從右側爬升至 1,500 公尺高度，並開始執行攻擊程序。
     status: completed
     confidence: medium
-    notes: 原文 '1,500 kilometers' 應為 '1,500 meters'（公尺），但依原文翻譯
+    notes: 原文 1,500 kilometers 應為 1,500 meters（口誤或轉錄錯誤），譯文逕採公尺；已補錄 topics.json
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -6040,7 +6040,7 @@ segments:
     end: 01:01:15,720
   source_text: The next view, I accelerated my airplane to get to 1.6 mach, approximately 1,850 kilometers per hour, and I began to ascend.
   translation:
-    text: 接著，我將飛機加速至 1.6 馬赫，約每小時 1，850 公里，並開始爬升。
+    text: 接著，我將飛機加速至 1.6 馬赫，約每小時 1,850 公里，並開始爬升。
     status: completed
     confidence: high
     notes: null
@@ -6095,7 +6095,7 @@ segments:
     end: 01:02:17,160
   source_text: So we got up to 19,200 meters, about 63,000 feet, as you can see here, where the balloon stopped its ascent, and I tried to, again, get it in my sights to be able to fire, but it was impossible.
   translation:
-    text: 我們爬升至 19，200 公尺，約 63，000 英呎，如各位在此所見，該氣球形飛行器在此停止爬升，我試圖再次瞄準它以便開火，但這是不可能的。
+    text: 我們爬升至 19,200 公尺，約 63,000 英呎，如各位在此所見，該氣球形飛行器在此停止爬升，我試圖再次瞄準它以便開火，但這是不可能的。
     status: completed
     confidence: high
     notes: null
@@ -6327,7 +6327,7 @@ segments:
     text: 這是蘇霍伊 Su-22 戰鬥機。
     status: completed
     confidence: high
-    notes: 原文 'Sukui 22' 為轉錄錯誤，已根據 topics.json 修正為 'Sukhoi Su-22'
+    notes: topics.json 紀錄 Sukui 22 應為 Sukhoi Su-22，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -6392,10 +6392,10 @@ segments:
     end: 01:04:34,800
   source_text: And then we have Alejandro Chionetti.
   translation:
-    text: 接下來是 Alejandro Chionetti。
+    text: 接下來是亞歷杭德羅·基奧內蒂（Alejandro Chionetti）。
     status: completed
     confidence: high
-    notes: null
+    notes: topics.json 紀錄 Chinoti 應為 Chionetti，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -6566,10 +6566,10 @@ segments:
     end: 01:06:24,320
   source_text: In the 1980s, my group, the UFO Investigations Commission, or CU as it is known, which is directed by Dr. J. Allen Hynek, who is a recognized astronomer and advisor to the Blue Book Project, chose us as representatives of this organization as editors of its bulletin in Spanish in the International UFO Report.
   translation:
-    text: 1980年代，我的團體——不明飛行物調查委員會（簡稱 CU），由知名天文學家、藍皮書計畫（Blue Book Project）顧問 J. Allen Hynek 博士指導，選派我們作為該組織代表，擔任《國際不明飛行物報告》西班牙語版通訊的編輯。
+    text: 1980 年代，我的團體——不明飛行物調查委員會（簡稱 CU），由知名天文學家、藍皮書計畫（Project Blue Book）顧問 J·艾倫·海尼克博士（Dr. J. Allen Hynek）指導，選派我們作為該組織代表，擔任《國際不明飛行物報告》西班牙語版通訊的編輯。
     status: completed
     confidence: high
-    notes: Blue Book Project 譯為「藍皮書計畫」並保留原文
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -6586,10 +6586,10 @@ segments:
     end: 01:06:30,960
   source_text: At that time, Heineck was seeking international exchange and the timing was perfect.
   translation:
-    text: 當時，Hynek 博士正尋求國際交流，時機恰到好處。
+    text: 當時，海尼克博士正尋求國際交流，時機恰到好處。
     status: completed
     confidence: high
-    notes: Heineck 為轉錄錯誤，正確為 Hynek
+    notes: 原文 Heineck 應為 Hynek（轉錄錯誤，topics.json 已紀錄）
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -6606,7 +6606,7 @@ segments:
     text: 我們帶他拜訪了國家太空研究委員會（NIE），希望能重振我們的努力，協助這一現象受到嚴肅看待，並獲得對近期案件調查的支持，例如發生在巴塔哥尼亞北部的墜毀事件。
     status: completed
     confidence: high
-    notes: National Commission for Space Studies (NIE) 譯為「國家太空研究委員會（NIE）」
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -6641,7 +6641,7 @@ segments:
     end: 01:07:08,480
   source_text: Global projects began to gain support in the 1960s.
   translation:
-    text: 全球性專案在1960年代開始獲得支持。
+    text: 全球性專案在 1960 年代開始獲得支持。
     status: completed
     confidence: high
     notes: null
@@ -6658,7 +6658,7 @@ segments:
     end: 01:07:17,500
   source_text: There was the famous case of Captain Miotti that I was able to investigate research years later in Yacanto, a province of Cordoba.
   translation:
-    text: 有一個著名的 Miotti 艦長案件，數年後我得以在科爾多瓦省的亞坎托進行調查研究。
+    text: 有一個著名的米奧蒂（Miotti）艦長案件，數年後我得以在科爾多瓦省的亞坎托進行調查研究。
     status: completed
     confidence: high
     notes: null
@@ -6780,10 +6780,10 @@ segments:
     end: 01:08:10,760
   source_text: My first contact with classified archives came through my friendship with journalist Eduardo Azcuy, who was one of the first advisers to the Navy on the naval project.
   translation:
-    text: 我首次接觸機密檔案，是透過與記者 Eduardo Azcuy 的友誼，他是海軍專案最早的海軍顧問之一。
+    text: 我首次接觸機密檔案，是透過與記者愛德華多·阿茲庫伊（Eduardo Azcuy）的友誼，他是海軍專案最早的海軍顧問之一。
     status: completed
     confidence: high
-    notes: classified archives 譯為「機密檔案」
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -6798,7 +6798,7 @@ segments:
     end: 01:08:25,040
   source_text: In the 1960s, the Navy was on alert for the apparition of submerged objects that were not detected by sonar and they moved at high speeds.
   translation:
-    text: 1960年代，海軍對於未被聲納偵測到、以高速移動的潛水物體出現保持警戒。
+    text: 1960 年代，海軍對於未被聲納偵測到、以高速移動的潛水物體出現保持警戒。
     status: completed
     confidence: high
     notes: null
@@ -6836,7 +6836,7 @@ segments:
     text: 我們稱這些為不明潛水物（USO）。
     status: completed
     confidence: high
-    notes: USO 譯為「不明潛水物（USO）」
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -6884,10 +6884,10 @@ segments:
     end: 01:09:04,280
   source_text: The first official group of the Navy was called COPEFO, which was the permanent commission for the study of UFOs and it was led by now late Captain Omar Pagani.
   translation:
-    text: 海軍的第一個官方團體稱為 COPEFO，即不明飛行物永久研究委員會，由已故的 Omar Pagani 艦長領導。
+    text: 海軍的第一個官方團體稱為 COPEFO，即不明飛行物永久研究委員會，由已故的奧馬爾·帕加尼（Omar Pagani）艦長領導。
     status: completed
     confidence: high
-    notes: Captain Omar Pagani 譯為「Omar Pagani 艦長」
+    notes: topics.json 紀錄 Parani 應為 Pagani，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -6937,7 +6937,7 @@ segments:
     end: 01:09:31,600
   source_text: In 1965, personnel from the Deception Island, also in Antarctica, were able to take a single photo.
   translation:
-    text: 1965年，同樣在南極洲的欺騙島（Deception Island）人員成功拍攝到一張照片。
+    text: 1965 年，同樣在南極洲的欺騙島（Deception Island）人員成功拍攝到一張照片。
     status: completed
     confidence: high
     notes: null
@@ -6990,7 +6990,7 @@ segments:
     end: 01:09:53,480
   source_text: The '70s were a particularly busy time, but this began in the '60s.
   translation:
-    text: 1970年代是特別繁忙的時期，但這一切始於1960年代。
+    text: 1970 年代是特別繁忙的時期，但這一切始於 1960 年代。
     status: completed
     confidence: high
     notes: null
@@ -7007,7 +7007,7 @@ segments:
     end: 01:10:09,440
   source_text: In 1962, a fighter plane squadron from the Esporta base, which is inside the Buenos Aires province, detected UFOs on the landing strip and they made an attempt to intercept them.
   translation:
-    text: 1962年，一支來自布宜諾斯艾利斯省內埃斯波爾塔基地的戰鬥機中隊，在跑道上偵測到不明飛行物，並試圖進行攔截。
+    text: 1962 年，一支來自布宜諾斯艾利斯省內埃斯波爾塔基地的戰鬥機中隊，在跑道上偵測到不明飛行物，並試圖進行攔截。
     status: completed
     confidence: high
     notes: null
@@ -7025,7 +7025,7 @@ segments:
     end: 01:10:14,000
   source_text: In 1965, the same thing happened in that same area.
   translation:
-    text: 1965年，同一地區再次發生類似事件。
+    text: 1965 年，同一地區再次發生類似事件。
     status: completed
     confidence: high
     notes: null
@@ -7042,7 +7042,7 @@ segments:
     end: 01:10:23,680
   source_text: This is an area that is very dry and hot and there was a great concentration of sightings in the '60s.
   translation:
-    text: 這是一個非常乾燥炎熱的地區，1960年代曾有大量目擊事件集中發生。
+    text: 這是一個非常乾燥炎熱的地區，1960 年代曾有大量目擊事件集中發生。
     status: completed
     confidence: high
     notes: null
@@ -7060,7 +7060,7 @@ segments:
     end: 01:10:36,200
   source_text: In 1978, there was a very interesting case in El Dique de la Florida where a UFO landed and there was a humanoid who exited.
   translation:
-    text: 1978年，在佛羅里達堤岸（El Dique de la Florida）發生了一起非常有趣的案件，一架不明飛行物降落，並有一個類人生物走出。
+    text: 1978 年，在佛羅里達堤岸（El Dique de la Florida）發生了一起非常有趣的案件，一架不明飛行物降落，並有一個類人生物走出。
     status: completed
     confidence: high
     notes: null
@@ -7169,10 +7169,10 @@ segments:
     end: 01:11:56,560
   source_text: In 1986, in Cordova, in Cerro El Pajarillo, which is one of the communities in Uritorco, Cruz de Eje, there was a print that seemed to be the crash of a UFO.
   translation:
-    text: 1986年，在科爾多瓦的埃爾帕哈里約山（Cerro El Pajarillo），該地區位於克魯斯德埃赫的烏里托爾科山（Uritorco）社群之一，發現了一個看似不明飛行物墜毀的痕跡。
+    text: 1986 年，在科爾多瓦的埃爾帕哈里約山（Cerro El Pajarillo），該地區位於克魯斯德埃赫的烏里托爾科山（Uritorco）社群之一，發現了一個看似不明飛行物墜毀的痕跡。
     status: completed
     confidence: high
-    notes: Uritorco 譯為「烏里托爾科山（Uritorco）」，原轉錄 El Huitorco 為錯誤
+    notes: topics.json 紀錄 El Huitorco 應為 Uritorco，經查原文已正確，屬失效紀錄
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7205,7 +7205,7 @@ segments:
     end: 01:12:40,080
   source_text: Between '87 and '89, a commission was created under the armed forces and it was led by a great friend of mine, Julio Goxena-Aguaro, and it was very important in the province of Entre Rios, there was a phenomenon of UFOs that would actually have an impact on the ground and I had the opportunity of taking video and investigate this over several years.
   translation:
-    text: 1987至1989年間，武裝部隊成立了一個委員會，由我的摯友 Julio Goxena-Aguaro 領導。在恩特雷里奧斯省發生了一起非常重要的不明飛行物現象，這些物體確實對地面造成了影響，我有機會拍攝影片並進行多年的調查。
+    text: 1987 至 1989 年間，武裝部隊成立了一個委員會，由我的摯友胡里奧·戈塞納-阿瓜羅（Julio Goxena-Aguaro）領導。在恩特雷里奧斯省發生了一起非常重要的不明飛行物現象，這些物體確實對地面造成了影響，我有機會拍攝影片並進行多年的調查。
     status: completed
     confidence: high
     notes: null
@@ -7225,10 +7225,10 @@ segments:
     end: 01:12:52,960
   source_text: In 2009, Argentinian investigation groups were united under a single association called CEFORA, which is the Commission for the Study of UFO Phenomena in the Argentinian Republic.
   translation:
-    text: 2009年，阿根廷各調查團體聯合組成了一個單一協會，稱為 CEFORA，即阿根廷共和國不明飛行物現象研究委員會。
+    text: 2009 年，阿根廷各調查團體聯合組成了一個單一協會，稱為 CEFORA，即阿根廷共和國不明飛行物現象研究委員會。
     status: completed
     confidence: high
-    notes: CEFORA 保留原文
+    notes: CEFORA 保留原文；主表 CEFORA 詞條廢棄列表與首選譯名矛盾，收尾回報人工裁決
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7264,7 +7264,7 @@ segments:
     text: 該委員會首先推動的目標之一是獲得阿根廷空軍的支持與認可，空軍於三年前決定成立 CEFAE，即航太現象研究委員會（Commission on Aerospace Phenomena Study）。
     status: completed
     confidence: high
-    notes: CEFAE 譯為「航太現象研究委員會（CEFAE）」，原轉錄 CEFA 為錯誤
+    notes: 原文 CEFAEE 應為 CEFAE（轉錄錯誤，topics.json 已紀錄）
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7280,10 +7280,10 @@ segments:
     end: 01:13:37,760
   source_text: This was under the leadership of Captain Mariano Mohaupt and a few civilians.
   translation:
-    text: 該委員會由 Mariano Mohabt 艦長及若干民間人士領導。
+    text: 該委員會由馬里亞諾·莫哈特（Mariano Mohaupt）艦長及若干民間人士領導。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Mohabt 應為 Mohaupt（阿根廷空軍新聞發言人、CEFAE 首任主任），人工查證確認，更正已補錄 topics.json
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7297,7 +7297,7 @@ segments:
     end: 01:13:46,040
   source_text: They have investigation brigades like Carlos Ferguson, Carlos Urchuk, and Andrea Simondini.
   translation:
-    text: 他們擁有調查小組，成員包括 Carlos Ferguson、Carlos Urchuk 以及 Andrea Simondini。
+    text: 他們擁有調查小組，成員包括卡洛斯·弗格森（Carlos Ferguson）、卡洛斯·烏爾丘克（Carlos Urchuk）以及安德烈亞·西蒙迪尼（Andrea Simondini）。
     status: completed
     confidence: high
     notes: null
@@ -7314,10 +7314,10 @@ segments:
     end: 01:13:53,280
   source_text: The second phase, which continues today, is under the guise of Commodore Guillermo Aloy.
   translation:
-    text: 第二階段持續至今，由 Guillermo Aloy 准將領導。
+    text: 第二階段持續至今，由吉列爾莫·阿洛伊（Guillermo Aloy）准將領導。
     status: completed
     confidence: high
-    notes: Commodore 譯為「准將」
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7331,7 +7331,7 @@ segments:
     end: 01:14:10,520
   source_text: The first official investigation took place in September of 2011, when a glowing ball fell from the sky and led to a lethal and tremendous explosion in Monte Grande, which is in the province of Buenos Aires.
   translation:
-    text: 第一次官方調查於2011年9月進行，當時一個發光球體從天而降，在布宜諾斯艾利斯省的蒙特格蘭德（Monte Grande）引發了一起致命且巨大的爆炸。
+    text: 第一次官方調查於 2011 年 9 月進行，當時一個發光球體從天而降，在布宜諾斯艾利斯省的蒙特格蘭德（Monte Grande）引發了一起致命且巨大的爆炸。
     status: completed
     confidence: high
     notes: null
@@ -7407,7 +7407,7 @@ segments:
     text: CEFORA 持續要求將本案及過往案件的相關文件解密。
     status: completed
     confidence: high
-    notes: CEFORA 保留原文，原轉錄 Sephora 為錯誤
+    notes: topics.json 紀錄 Sephora 應為 CEFORA；經查本段原文已正確，Sephora 實際見於 seg 424/428/430
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7422,7 +7422,7 @@ segments:
     end: 01:15:01,400
   source_text: There's a case in Guadalupe, Polanco.
   translation:
-    text: 在瓜達盧佩的波朗科（Guadalupe， Polanco）有一個案件。
+    text: 在瓜達盧佩的波朗科（Guadalupe, Polanco）有一個案件。
     status: completed
     confidence: high
     notes: null
@@ -7442,7 +7442,7 @@ segments:
     text: 這是阿根廷航空公司的一起案件，機長看到一架不明飛行物試圖降落在巴里洛切機場（Bariloche）。
     status: completed
     confidence: high
-    notes: Bariloche airport 譯為「巴里洛切機場（Bariloche）」
+    notes: null
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7513,7 +7513,7 @@ segments:
     text: CEFORA 成功取得了飛機與塔台之間的通訊記錄。
     status: completed
     confidence: high
-    notes: Sephora 為轉錄錯誤，正確為 CEFORA
+    notes: 原文 Sephora 應為 CEFORA（轉錄錯誤，topics.json 已紀錄）
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7545,7 +7545,7 @@ segments:
     end: 01:16:03,200
   source_text: They have recently begun to declassify cases like the case of Campo de Mayo in the province of Buenos Aires from November 1972.
   translation:
-    text: 他們最近開始解密一些案件，例如1972年11月發生在布宜諾斯艾利斯省五月營（Campo de Mayo）的案件。
+    text: 他們最近開始解密一些案件，例如 1972 年 11 月發生在布宜諾斯艾利斯省五月營（Campo de Mayo）的案件。
     status: completed
     confidence: high
     notes: null
@@ -7584,7 +7584,7 @@ segments:
     text: CEFORA 目前正在與不同部會協商不明飛行物文件的解密事宜。
     status: completed
     confidence: high
-    notes: Sephora 為轉錄錯誤，正確為 CEFORA
+    notes: 原文 Sephora 應為 CEFORA（轉錄錯誤，topics.json 已紀錄）
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7598,10 +7598,10 @@ segments:
     end: 01:16:38,480
   source_text: One is the Ministry of Defense, under which the Air Force and the Navy fall, and the other is the Ministry of Security, which includes the national gendarmerie and the prefecture.
   translation:
-    text: 一個是國防部，下轄空軍與海軍；另一個是安全部，下轄國家憲兵隊與地方行政長官公署。
+    text: 一個是國防部，下轄空軍與海軍；另一個是安全部，下轄國家憲兵隊與海岸巡防隊。
     status: completed
     confidence: high
-    notes: Ministry of Defense 譯為「國防部」
+    notes: prefecture 指阿根廷海岸巡防隊（Prefectura Naval Argentina）
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7619,7 +7619,7 @@ segments:
     text: CEFORA 已收集超過一千名公民的簽名，用於向國家眾議院、行政部門以及國防部提出法案，要求解密這些文件。
     status: completed
     confidence: high
-    notes: Sephora 為轉錄錯誤，正確為 CEFORA；Ministry of Defense 譯為「國防部」
+    notes: 原文 Sephora 應為 CEFORA（轉錄錯誤，topics.json 已紀錄）
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -7704,7 +7704,7 @@ segments:
     end: 01:17:49,160
   source_text: Many investigators, as I noted before, Jaime and some of the other international investigators, we believe that some of these cases, these rich cases that are very strange but there have been reliable sightings, could bring new elements to the fore.
   translation:
-    text: 許多調查員，正如我之前提到的 Jaime 以及其他國際調查員，我們相信這些案件中，這些內容豐富、雖然非常奇怪但有可靠目擊的案件，可能會揭示新的線索。
+    text: 許多調查員，正如我之前提到的海梅（Jaime）以及其他國際調查員，我們相信這些案件中，這些內容豐富、雖然非常奇怪但有可靠目擊的案件，可能會揭示新的線索。
     status: completed
     confidence: high
     notes: null
@@ -7723,7 +7723,7 @@ segments:
     end: 01:18:08,780
   source_text: I remember Dr. Hynek always told me that perhaps we'll never know about this phenomenon fully in our lifetimes, but it's worth the sacrifice and energy we are investing in our investigations.
   translation:
-    text: 我記得 Hynek 博士總是告訴我，也許我們在有生之年永遠無法完全了解這個現象，但我們在調查中投入的犧牲與精力是值得的。
+    text: 我記得海尼克博士總是告訴我，也許我們在有生之年永遠無法完全了解這個現象，但我們在調查中投入的犧牲與精力是值得的。
     status: completed
     confidence: high
     notes: null
@@ -7759,7 +7759,7 @@ segments:
     end: 01:18:43,000
   source_text: And in conclusion, with regard to official investigations, over the last 40 years, military entities have studied UFOs with scientific care to separate misinterpretations, natural misinterpretations, and the difference between science and nature.
   translation:
-    text: 總而言之，關於官方調查，在過去40年間，軍事機構以科學的嚴謹態度研究不明飛行物，以區分誤判、自然現象的誤判，以及科學與自然之間的差異。
+    text: 總而言之，關於官方調查，在過去 40 年間，軍事機構以科學的嚴謹態度研究不明飛行物，以區分誤判、自然現象的誤判，以及科學與自然之間的差異。
     status: completed
     confidence: high
     notes: null
@@ -7795,7 +7795,7 @@ segments:
     end: 01:18:50,840
   source_text: The position of these agencies has not changed much since the 1960s up till now.
   translation:
-    text: 這些機構的立場從1960年代至今並未有太大改變。
+    text: 這些機構的立場從 1960 年代至今並未有太大改變。
     status: completed
     confidence: high
     notes: null
@@ -7829,7 +7829,7 @@ segments:
     end: 01:19:04,760
   source_text: I have spent the past 36 years investigating these UFO phenomena, not just in Argentina but in Latin America and the world as a whole.
   translation:
-    text: 過去36年來，我一直在調查這些不明飛行物現象，不僅在阿根廷，也在拉丁美洲以及全世界。
+    text: 過去 36 年來，我一直在調查這些不明飛行物現象，不僅在阿根廷，也在拉丁美洲以及全世界。
     status: completed
     confidence: high
     notes: null
@@ -7970,7 +7970,7 @@ segments:
     end: 01:20:14,600
   source_text: So what do you think, 15 minutes? 15 minutes, so if we can be back at a quarter to 11, that would be perfect.
   translation:
-    text: 各位覺得如何，休息15分鐘？15分鐘，如果我們能在10點45分回來，那就太好了。
+    text: 各位覺得如何，休息 15 分鐘？15 分鐘，如果我們能在 10 點 45 分回來，那就太好了。
     status: completed
     confidence: high
     notes: null

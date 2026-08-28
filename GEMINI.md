@@ -30,7 +30,7 @@ This project is a modular, LLM-powered translation pipeline designed to process 
 1.  **Install Dependencies:** `pip install -r requirements.txt`
 2.  **Setup Environment:** `cp .env.example .env` and add your API keys (Gemini, OpenAI, etc.).
 
-### Standard Workflow (10 Steps)
+### Standard Workflow (9 Steps)
 Always run tools with `PYTHONPATH=.` and a specific config file.
 
 1.  **Initialize Episode:** `mkdir -p input/UFO-01 data/UFO-01 ...`
@@ -39,10 +39,9 @@ Always run tools with `PYTHONPATH=.` and a specific config file.
 4.  **Thematic Analysis:** `python3 tools/topics_analysis_driver.py --config configs/UFO-01.yaml`
 5.  **Fix Transcription Errors:** `python3 tools/fix_transcription_errors.py --config configs/UFO-01.yaml`
 6.  **Prepare Drafts:** `python3 tools/prepare_topic_drafts.py --config configs/UFO-01.yaml`
-7.  **Translate:** Edit Markdown files in `data/UFO-01/drafts/`.
-8.  **QA (Punctuation):** `python3 tools/fix_chinese_punctuation.py --config configs/UFO-01.yaml`
-9.  **Backfill:** `python3 tools/backfill_translations.py --config configs/UFO-01.yaml`
-10. **Export SRT:** `python3 tools/export_srt.py --config configs/UFO-01.yaml`
+7.  **Translate & Proofread:** Edit Markdown files in `data/UFO-01/drafts/`.
+8.  **Backfill:** `python3 tools/backfill_translations.py --config configs/UFO-01.yaml`
+9.  **Export SRT:** `python3 tools/export_srt.py --config configs/UFO-01.yaml`
     -   *Optional:* Split long lines with `tools/split_srt.py`.
 
 ## 📏 Development Conventions

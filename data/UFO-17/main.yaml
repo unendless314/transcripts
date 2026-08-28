@@ -78,7 +78,7 @@ segments:
     end: 00:00:51,520
   source_text: They've also been involved as controllers and I understand FAA administration is represented here as someone from that.
   translation:
-    text: 他們也曾擔任航空管制員，而且我了解現場也有來自FAA（聯邦航空總署）的代表。
+    text: 他們也曾擔任航空管制員，而且我了解現場也有來自 FAA（聯邦航空總署）的代表。
     status: completed
     confidence: high
     notes: null
@@ -321,7 +321,7 @@ segments:
     end: 00:02:07,600
   source_text: I was the Division Chief of the Accidents Evaluations and Investigation Division of the FAA in Washington D.C. from 1981 to 1988.
   translation:
-    text: 我於1981年至1988年擔任FAA（聯邦航空總署）華盛頓特區事故評估與調查部的主管。
+    text: 我於 1981 年至 1988 年擔任 FAA（聯邦航空總署）華盛頓特區事故評估與調查部的主管。
     status: completed
     confidence: high
     notes: null
@@ -373,7 +373,7 @@ segments:
     end: 00:02:31,080
   source_text: FAA had no quality control in the system until the strike and then I was selected for that position and it turned out to be a division with five branches.
   translation:
-    text: FAA在罷工之前系統內沒有品質管控機制，後來我被選上擔任這個職位，結果這成了一個有五個分支部門的單位。
+    text: FAA 在罷工之前系統內沒有品質管控機制，後來我被選上擔任這個職位，結果這成了一個有五個分支部門的單位。
     status: completed
     confidence: high
     notes: null
@@ -461,7 +461,7 @@ segments:
     end: 00:02:57,200
   source_text: In early January of 1987 I received a call from the air traffic control facility out in Alaska.
   translation:
-    text: 1987年1月初，我接到來自阿拉斯加航空管制中心的電話。
+    text: 1987 年 1 月初，我接到來自阿拉斯加航空管制中心的電話。
     status: completed
     confidence: high
     notes: null
@@ -549,7 +549,7 @@ segments:
     end: 00:03:33,520
   source_text: We had established a procedure that if anything newsworthy happened in the FAA, we and our division would know right away so we could defend the United States government.
   translation:
-    text: 我們有一套既定程序，如果FAA發生任何有新聞價值的事件，我們部門應該會立刻知道，以便我們能為美國政府辯護。
+    text: 我們有一套既定程序，如果 FAA 發生任何有新聞價值的事件，我們部門應該會立刻知道，以便我們能為美國政府辯護。
     status: completed
     confidence: high
     notes: null
@@ -584,7 +584,7 @@ segments:
     end: 00:03:46,880
   source_text: He said, "A couple of weeks ago," is what he told me, it was really a couple of months ago, they had a UFO chase at 747 across the Alaskan skies for some 31 minutes.
   translation:
-    text: 他說：「大約幾週前。」但他告訴我的其實是幾個月前，有一架747客機在阿拉斯加上空被不明飛行物追逐了約31分鐘。
+    text: 他說：「大約幾週前。」但他告訴我的其實是幾個月前，有一架 747 客機在阿拉斯加上空被不明飛行物追逐了約 31 分鐘。
     status: completed
     confidence: high
     notes: null
@@ -705,7 +705,7 @@ segments:
     end: 00:04:26,200
   source_text: And in those days when we talk about computer data and disk, we're talking about those disks that were like a 78 record player and it looked like a Pi case that they have in the delis.
   translation:
-    text: 在那個年代，當我們說到電腦數據和磁碟時，我們指的是那些像78轉唱片的磁碟，看起來就像熟食店裡的派盒那樣。
+    text: 在那個年代，當我們說到電腦數據和磁碟時，我們指的是那些像 78 轉唱片的磁碟，看起來就像熟食店裡的派盒那樣。
     status: completed
     confidence: high
     notes: null
@@ -723,7 +723,7 @@ segments:
     end: 00:04:28,800
   source_text: There'd be 10 or 12 of these things inside.
   translation:
-    text: 裡面會有10到12個這樣的東西。
+    text: 裡面會有 10 到 12 個這樣的東西。
     status: completed
     confidence: high
     notes: null
@@ -792,7 +792,7 @@ segments:
     end: 00:04:41,680
   source_text: I want everything sent to the FAA tech center by tomorrow morning.
   translation:
-    text: 我要所有東西在明天早上之前送到FAA技術中心。
+    text: 我要所有東西在明天早上之前送到 FAA 技術中心。
     status: completed
     confidence: high
     notes: null
@@ -827,7 +827,7 @@ segments:
     end: 00:04:56,800
   source_text: And the tech center is where they create the software programs for the FAA, 548 facilities there were at the time.
   translation:
-    text: 技術中心是他們為FAA開發軟體程式的地方，當時有548個設施。
+    text: 技術中心是他們為 FAA 開發軟體程式的地方，當時有 548 個設施。
     status: completed
     confidence: high
     notes: null
@@ -845,7 +845,7 @@ segments:
     end: 00:05:02,420
   source_text: I used to run that automation department, had 176 people working for me.
   translation:
-    text: 我以前管理那個自動化部門，有176個人為我工作。
+    text: 我以前管理那個自動化部門，有 176 個人為我工作。
     status: completed
     confidence: high
     notes: null
@@ -862,7 +862,7 @@ segments:
     end: 00:05:10,400
   source_text: They also had a program called Playback or they had another name too, I forget it right now.
   translation:
-    text: 他們還有一個叫做Playback的程式，或者還有另一個名字，我現在忘了。
+    text: 他們還有一個叫做 Playback 的程式，或者還有另一個名字，我現在忘了。
     status: completed
     confidence: high
     notes: null
@@ -1179,7 +1179,7 @@ segments:
     end: 00:06:59,420
   source_text: Well, toward the end, the controllers had taken a United and they asked them if they could delay his arrival time and have him check this 747 that was coming southbound.
   translation:
-    text: 嗯，到了快結束的時候，管制員聯繫了一架聯合航空的飛機，問他們是否可以延遲抵達時間，並讓他查看這架正在向南飛行的747客機。
+    text: 嗯，到了快結束的時候，管制員聯繫了一架聯合航空的飛機，問他們是否可以延遲抵達時間，並讓他查看這架正在向南飛行的 747 客機。
     status: completed
     confidence: high
     notes: null
@@ -1197,7 +1197,7 @@ segments:
     end: 00:07:04,480
   source_text: So they vectored him over to the 747, he's about 2,000 feet beneath him.
   translation:
-    text: 所以他們引導他飛向那架747，他在747下方約2，000英呎處。
+    text: 所以他們引導他飛向那架 747，他在 747 下方約 2,000 英呎處。
     status: completed
     confidence: high
     notes: null
@@ -1265,7 +1265,7 @@ segments:
     end: 00:07:24,840
   source_text: Well, after he passed by, that target that had been chasing the 747 turned around and started following the United as he went down into Alaska.
   translation:
-    text: 嗯，在他飛過去之後，那個一直在追逐747的目標轉身開始跟隨那架聯合航空的飛機，一直跟到阿拉斯加。
+    text: 嗯，在他飛過去之後，那個一直在追逐 747 的目標轉身開始跟隨那架聯合航空的飛機，一直跟到阿拉斯加。
     status: completed
     confidence: high
     notes: null
@@ -1283,7 +1283,7 @@ segments:
     end: 00:07:41,680
   source_text: Now, when the Japanese pilot first come on the frequency, for you guys that are familiar with radar or how the military or the controllers work, when he first come on the frequency for the controller, the first words out of his mouth was, "Do you have traffic for me?"
   translation:
-    text: 現在，當那位日本飛行員第一次使用這個頻道時，對於熟悉雷達或軍方或管制員作業方式的各位來說，當他第一次使用管制頻道時，他開口說的第一句話是：「你們有我的周邊交通嗎？」
+    text: 好，當那位日本飛行員第一次接上管制頻率時——對於熟悉雷達、軍方或管制員作業方式的各位來說——他開口說的第一句話是：「你們有我的周邊交通嗎？」
     status: completed
     confidence: high
     notes: null
@@ -1353,7 +1353,7 @@ segments:
     end: 00:08:04,760
   source_text: And the Japanese pilot says, "Oh yeah, there's traffic out here and it's at 12 o'clock and about eight miles."
   translation:
-    text: 然後日本飛行員說：「哦，有的，這裡有周邊交通，在12點鐘方向，大約8英里處。」
+    text: 然後日本飛行員說：「哦，有的，這裡有周邊交通，在 12 點鐘方向，大約 8 英里處。」
     status: completed
     confidence: high
     notes: null
@@ -1508,7 +1508,7 @@ segments:
     end: 00:08:39,200
   source_text: Well, this machine followed him down for 31 minutes halfway through his flight.
   translation:
-    text: 嗯，這個飛行器在航程中途跟隨了他31分鐘。
+    text: 嗯，這個飛行器在航程中途跟隨了他 31 分鐘。
     status: completed
     confidence: high
     notes: null
@@ -1525,7 +1525,7 @@ segments:
     end: 00:08:41,480
   source_text: He makes a 360 degree turn.
   translation:
-    text: 他做了一個360度轉彎。
+    text: 他做了一個 360 度轉彎。
     status: completed
     confidence: high
     notes: null
@@ -1542,7 +1542,7 @@ segments:
     end: 00:08:47,920
   source_text: Now, when I say he makes it, he doesn't do anything unless the FAA says you can do this.
   translation:
-    text: 我說他做這個動作，意思是除非FAA說可以這麼做，否則他不會擅自行動。
+    text: 我說他做這個動作，意思是除非 FAA 說可以這麼做，否則他不會擅自行動。
     status: completed
     confidence: high
     notes: null
@@ -1576,7 +1576,7 @@ segments:
     end: 00:08:59,840
   source_text: When he changed his altitude a couple of times, he makes a 360 and this UFO stayed with him all the way, scared the pants off him.
   translation:
-    text: 當他改變了幾次高度後，他做了一個360度轉彎，這個不明飛行物全程跟著他，把他嚇壞了。
+    text: 當他改變了幾次高度後，他做了一個 360 度轉彎，這個不明飛行物全程跟著他，把他嚇壞了。
     status: completed
     confidence: high
     notes: null
@@ -1646,7 +1646,7 @@ segments:
     end: 00:09:11,120
   source_text: So I shoot back to the FAA center and the administrator at the time was Admiral Engen.
   translation:
-    text: 所以我趕回FAA中心，當時的局長是恩根上將。
+    text: 所以我趕回 FAA 中心，當時的局長是恩根上將。
     status: completed
     confidence: high
     notes: null
@@ -1666,7 +1666,7 @@ segments:
     text: 我不知道各位是否認識恩根上將。
     status: completed
     confidence: high
-    notes: 原文Admiral Ingen為Admiral Engen之轉錄錯誤
+    notes: 原文 Admiral Ingen 為 Admiral Engen 之轉錄錯誤
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1804,7 +1804,7 @@ segments:
     end: 00:09:57,720
   source_text: So when he got all done, he says, "Don't talk to anybody.
   translation:
-    text: 所以當他全部看完後，他說：「不要跟任何人談論這件事。」
+    text: 所以當他全部看完後，他說：「不要跟任何人談論這件事。
     status: completed
     confidence: high
     notes: null
@@ -1821,7 +1821,7 @@ segments:
     end: 00:09:59,840
   source_text: I'll get back with you and I'll tell you what to do.
   translation:
-    text: 我會再聯繫你，告訴你該怎麼做。」
+    text: 我會再聯繫你，告訴你該怎麼做。
     status: completed
     confidence: high
     notes: null
@@ -1838,7 +1838,7 @@ segments:
     end: 00:10:01,920
   source_text: I'm on my way to see Reagan."
   translation:
-    text: 我正要去見雷根總統。
+    text: 我正要去見雷根總統。」
     status: completed
     confidence: high
     notes: null
@@ -1855,7 +1855,7 @@ segments:
     end: 00:10:06,200
   source_text: Next morning I came to work and I got a call from some guy who said he was at the CIA.
   translation:
-    text: 「隔天早上我來上班，接到一個自稱是CIA的人打來的電話。
+    text: 隔天早上我來上班，接到一個自稱是 CIA 的人打來的電話。
     status: completed
     confidence: high
     notes: null
@@ -1872,7 +1872,7 @@ segments:
     end: 00:10:07,480
   source_text: He wanted to talk about a UFO.
   translation:
-    text: 「他想談談不明飛行物的事。
+    text: 他想談談不明飛行物的事。
     status: completed
     confidence: high
     notes: null
@@ -1889,7 +1889,7 @@ segments:
     end: 00:10:09,760
   source_text: I said, "Are you talking to the wrong guy?
   translation:
-    text: 「我說：「你打錯電話了吧？」
+    text: 我說：「你打錯電話了吧？
     status: completed
     confidence: high
     notes: null
@@ -1906,7 +1906,7 @@ segments:
     end: 00:10:11,920
   source_text: I don't know anything about UFOs."
   translation:
-    text: 「我對不明飛行物一無所知。」
+    text: 我對不明飛行物一無所知。」
     status: completed
     confidence: high
     notes: null
@@ -1923,7 +1923,7 @@ segments:
     end: 00:10:15,520
   source_text: He says, "Well, the one that happened over Alaska," I said, "You probably want to talk to the Admiral.
   translation:
-    text: 「他說：「嗯，就是發生在阿拉斯加上空的那個。」我說：「你可能想跟局長談談。」
+    text: 他說：「嗯，就是發生在阿拉斯加上空的那個。」我說：「你可能想跟局長談談。
     status: completed
     confidence: high
     notes: null
@@ -1941,7 +1941,7 @@ segments:
     end: 00:10:16,680
   source_text: I don't know what you're talking about."
   translation:
-    text: 「我不知道你在說什麼。」
+    text: 我不知道你在說什麼。」
     status: completed
     confidence: high
     notes: null
@@ -1958,7 +1958,7 @@ segments:
     end: 00:10:26,320
   source_text: A few minutes later, the Admiral calls down and says, "I've stopped a briefing for you tomorrow at 10 o'clock or 9 o'clock," whatever it was, "in the round room."
   translation:
-    text: 「幾分鐘後，局長打電話下來說：「我幫你安排了明天10點或9點的簡報會，」反正就是某個時間，「在圓形會議室。」
+    text: 幾分鐘後，局長打電話下來說：「我幫你安排了明天 10 點或 9 點的簡報會，」反正就是某個時間，「在圓形會議室。」
     status: completed
     confidence: high
     notes: null
@@ -1976,7 +1976,7 @@ segments:
     end: 00:10:30,260
   source_text: He says, "The president's scientific staff is coming over.
   translation:
-    text: 「他說：「總統的科學幕僚會過來。」
+    text: 他說：「總統的科學幕僚會過來。
     status: completed
     confidence: high
     notes: null
@@ -1993,7 +1993,7 @@ segments:
     end: 00:10:31,760
   source_text: Some CIA guys will be there."
   translation:
-    text: 「一些CIA的人也會在場。」
+    text: 一些 CIA 的人也會在場。」
     status: completed
     confidence: high
     notes: null
@@ -2010,7 +2010,7 @@ segments:
     end: 00:10:35,760
   source_text: I think he said three, matter of fact, and some grunts will be coming along with them.
   translation:
-    text: 「我想他說了三個人，事實上，還會有一些基層人員跟他們一起來。」
+    text: 我想他說了三個人，事實上，還會有一些基層人員跟他們一起來。
     status: completed
     confidence: high
     notes: null
@@ -2027,7 +2027,7 @@ segments:
     end: 00:10:40,640
   source_text: He says, "Your task is to hand this stuff off to them.
   translation:
-    text: 「他說：「你的任務是把這些資料交給他們。」
+    text: 他說：「你的任務是把這些資料交給他們。
     status: completed
     confidence: high
     notes: null
@@ -2044,7 +2044,7 @@ segments:
     end: 00:10:48,280
   source_text: When they leave here, they have to take this with them because the FAA does not control UFOs."
   translation:
-    text: 「他們離開這裡時，必須把這些資料帶走，因為FAA不管轄不明飛行物。」
+    text: 他們離開這裡時，必須把這些資料帶走，因為 FAA 不管轄不明飛行物。」
     status: completed
     confidence: high
     notes: null
@@ -2062,7 +2062,7 @@ segments:
     end: 00:10:51,240
   source_text: Now, I showed him all this stuff.
   translation:
-    text: 「現在，我把所有這些資料都給他們看了。」
+    text: 當時，我把所有這些資料都給他們看了。
     status: completed
     confidence: high
     notes: null
@@ -2079,7 +2079,7 @@ segments:
     end: 00:10:53,240
   source_text: When they got all- They had about 45 seconds.
   translation:
-    text: 「當他們全部——他們大約還有45秒。」
+    text: 當他們全部——他們大約還有 45 秒。
     status: completed
     confidence: medium
     notes: 語句不完整，應指時間限制
@@ -2097,7 +2097,7 @@ segments:
     end: 00:10:54,240
   source_text: Okay.
   translation:
-    text: 「好的。」
+    text: 好的。
     status: completed
     confidence: high
     notes: null
@@ -2114,10 +2114,10 @@ segments:
     end: 00:11:09,120
   source_text: Well, then, one of the scientists come out and said they had three or four questions they wanted to know the speed of the antenna, the frequency of the antenna, the algorithm for the height-finding equipment, and the people I brought with me just happened to be experts, and they answered all the questions.
   translation:
-    text: 「做得好，其中一位科學家出來說他們有三、四個問題，他們想知道天線的速度、天線的頻率、測高設備的對數，而我帶來的人正好是專家，他們回答了所有問題。」
+    text: 接著，其中一位科學家出來說他們有三、四個問題，他們想知道天線的速度、天線的頻率、測高設備的演算法，而我帶來的人正好是專家，他們回答了所有問題。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Well done 應為 Well then、logarithm 應為 algorithm 之轉錄錯誤
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -2134,7 +2134,7 @@ segments:
     end: 00:11:20,720
   source_text: When they get done, the CIA guy standing next to me says to the people, "This event," pointing to the big screen they have in the room, "This event never happened.
   translation:
-    text: 「當他們結束後，站在我旁邊的CIA人員對大家說：「這個事件，」指著他們房間裡的大螢幕，「這個事件從未發生過。」
+    text: 當他們結束後，站在我旁邊的 CIA 人員對大家說：「這個事件，」指著他們房間裡的大螢幕，「這個事件從未發生過。
     status: completed
     confidence: high
     notes: null
@@ -2152,7 +2152,7 @@ segments:
     end: 00:11:23,800
   source_text: We were never here.
   translation:
-    text: 「我們從沒來過這裡。」
+    text: 我們從沒來過這裡。
     status: completed
     confidence: high
     notes: null
@@ -2169,10 +2169,10 @@ segments:
     end: 00:11:28,400
   source_text: We're confiscating all this data, and you're all sworn to secrecy."
   translation:
-    text: 「你們要沒收所有這些資料，而且你們都要發誓保密。」
+    text: 我們會沒收所有這些資料，而且你們都要發誓保密。」
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 You're 應為 We're 之轉錄錯誤，由 CIA 沒收資料
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -2186,7 +2186,7 @@ segments:
     end: 00:11:29,920
   source_text: Scared the pants off of them.
   translation:
-    text: 「把他們嚇壞了。」
+    text: 把他們嚇壞了。
     status: completed
     confidence: high
     notes: null
@@ -2203,7 +2203,7 @@ segments:
     end: 00:11:34,920
   source_text: I had 22 people in the air, and they were leaving the room right away, don't know what's going to happen.
   translation:
-    text: 「我有22個下屬，他們馬上就要離開房間，不知道會發生什麼事。」
+    text: 我有 22 個下屬，他們馬上就要離開房間，不知道會發生什麼事。
     status: completed
     confidence: high
     notes: null
@@ -2221,7 +2221,7 @@ segments:
     end: 00:11:37,020
   source_text: So I said to this guy, "Well, what do you think it was?"
   translation:
-    text: 「所以我對那個人說：「嗯，你覺得那是什麼？」」
+    text: 所以我對那個人說：「嗯，你覺得那是什麼？」
     status: completed
     confidence: high
     notes: null
@@ -2238,10 +2238,10 @@ segments:
     end: 00:11:40,000
   source_text: I'm thinking at the time it's the Stealth Bomber.
   translation:
-    text: 「我當時以為那是隱形轟炸機。」
+    text: 我當時以為那是隱形轟炸機。
     status: completed
     confidence: high
-    notes: 原文South Bomber已修正為Stealth Bomber
+    notes: 原文 South Bomber 已修正為 Stealth Bomber
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -2255,7 +2255,7 @@ segments:
     end: 00:11:43,120
   source_text: He says, "Oh," he says, "It's a UFO.
   translation:
-    text: 「他說：「哦，」他說，「那是不明飛行物。」」
+    text: 他說：「哦，」又說：「那是不明飛行物。」
     status: completed
     confidence: high
     notes: null
@@ -2272,7 +2272,7 @@ segments:
     end: 00:11:44,120
   source_text: Look at these guys.
   translation:
-    text: 「看看這些人。」
+    text: 看看這些人。
     status: completed
     confidence: high
     notes: null
@@ -2289,7 +2289,7 @@ segments:
     end: 00:11:45,120
   source_text: They're drooling.
   translation:
-    text: 「他們都流口水了。」
+    text: 他們都流口水了。
     status: completed
     confidence: high
     notes: 口語表達，形容極度渴望
@@ -2306,7 +2306,7 @@ segments:
     end: 00:11:47,200
   source_text: They can't wait to get their hands on all this data.
   translation:
-    text: 「他們迫不及待想拿到所有這些資料。」
+    text: 他們迫不及待想拿到所有這些資料。
     status: completed
     confidence: high
     notes: null
@@ -2323,7 +2323,7 @@ segments:
     end: 00:11:50,320
   source_text: We had boxes and boxes in those days of printouts.
   translation:
-    text: 「那時候我們有一箱又一箱的列印輸出。」
+    text: 那時候我們有一箱又一箱的列印輸出。
     status: completed
     confidence: high
     notes: null
@@ -2340,7 +2340,7 @@ segments:
     end: 00:11:52,360
   source_text: Can't wait to get their hands on that stuff."
   translation:
-    text: 「迫不及待想拿到那些東西。」
+    text: 迫不及待想拿到那些東西。
     status: completed
     confidence: high
     notes: null
@@ -2357,7 +2357,7 @@ segments:
     end: 00:11:53,880
   source_text: I says, "Is that right?"
   translation:
-    text: 「我說：「是這樣嗎？」」
+    text: 我說：「是這樣嗎？」
     status: completed
     confidence: high
     notes: null
@@ -2374,7 +2374,7 @@ segments:
     end: 00:11:59,840
   source_text: He says, "Yeah, this is the first time they ever had more than a moment of radar data to look at."
   translation:
-    text: 「他說：「對啊，這是他們第一次有超過片刻的雷達數據可以研究。」」
+    text: 他說：「對啊，這是他們第一次有超過片刻的雷達數據可以研究。」
     status: completed
     confidence: high
     notes: null
@@ -2392,7 +2392,7 @@ segments:
     end: 00:12:09,140
   source_text: Now, the big key was the word he had said, "This is the first time they ever had more than a minute or so of radar data, and now we've got 31 minutes."
   translation:
-    text: 「現在，關鍵就在他說的這句話：「這是他們第一次有一分鐘左右的雷達數據，而現在我們有31分鐘。」」
+    text: 關鍵就在他說的這句話：「這是他們第一次有一分鐘左右的雷達數據，而現在我們有 31 分鐘。」
     status: completed
     confidence: high
     notes: null
@@ -2410,7 +2410,7 @@ segments:
     end: 00:12:10,140
   source_text: Thank you.
   translation:
-    text: 「謝謝。」
+    text: 謝謝。
     status: completed
     confidence: high
     notes: null
@@ -2461,7 +2461,7 @@ segments:
     end: 00:12:34,640
   source_text: I'm a retired Air Force major with the 5,000 flying hours, and I'm currently the Eastern Regional Director of the Mutual UFO Network, which is studying this phenomenon, and editor of the Filers Files.
   translation:
-    text: 我是退役空軍少校，累積了5，000飛行小時，目前擔任MUFON（UFO互動網絡）東部地區主管，該組織正在研究這個現象，同時也是《Filer's Files》的編輯。
+    text: 我是退役空軍少校，累積了 5,000 飛行小時，目前擔任 MUFON（UFO 互動網絡）東部地區主管，該組織正在研究這個現象，同時也是《Filer's Files》的編輯。
     status: completed
     confidence: high
     notes: null
@@ -2480,7 +2480,7 @@ segments:
     end: 00:13:00,640
   source_text: When I was flying for the Air Force 420th Air Refueling Squadron stationed at RAF Sculthorpe in England in January of '62, we were in orbit for refueling fighter aircraft over the North Sea at about 30,000 feet in our KB-50J tanker just after sunset on a clear night.
   translation:
-    text: 1962年1月，當時我隸屬於駐紮在英格蘭RAF Sculthorpe基地的空軍第420空中加油中隊，我們在一個晴朗的夜晚日落後不久，駕駛KB-50J加油機在北海上空約30，000英呎處盤旋，準備為戰鬥機加油。
+    text: 1962 年 1 月，當時我隸屬於駐紮在英格蘭 RAF Sculthorpe 基地的空軍第 420 空中加油中隊，我們在一個晴朗的夜晚日落後不久，駕駛 KB-50J 加油機在北海上空約 30,000 英呎處盤旋，準備為戰鬥機加油。
     status: completed
     confidence: high
     notes: null
@@ -2622,7 +2622,7 @@ segments:
     end: 00:14:28,640
   source_text: It was some 60 miles ahead and then 40 and so on, and as we got closer, we got the radar going on our aircraft and picked up the hovering UFO in the distance, about 30 miles.
   translation:
-    text: 它最初在約60英里前方，然後是40英里，以此類推，隨著我們靠近，我們啟動了飛機上的雷達，在約30英里處捕捉到那個盤旋的不明飛行物。
+    text: 它最初在約 60 英里前方，然後是 40 英里，以此類推，隨著我們靠近，我們啟動了飛機上的雷達，在約 30 英里處捕捉到那個盤旋的不明飛行物。
     status: completed
     confidence: high
     notes: null
@@ -2726,7 +2726,7 @@ segments:
     end: 00:15:10,040
   source_text: We were doing about 425 miles per hour as we approached about 10 miles.
   translation:
-    text: 當我們接近到約10英里時，我們的時速約為425英里。
+    text: 當我們接近到約 10 英里時，我們的時速約為 425 英里。
     status: completed
     confidence: high
     notes: null
@@ -2846,7 +2846,7 @@ segments:
     end: 00:15:55,320
   source_text: It seemed to go straight up, just estimating speed like 50,000 miles an hour, 100 times faster than we were moving.
   translation:
-    text: 它似乎筆直向上飛去，估計速度約為每小時50，000英里，比我們的速度快了100倍。
+    text: 它似乎筆直向上飛去，估計速度約為每小時 50,000 英里，比我們的速度快了 100 倍。
     status: completed
     confidence: high
     notes: null
@@ -2881,7 +2881,7 @@ segments:
     end: 00:16:07,920
   source_text: London Control seemed as disappointed as we were, and the controller said, "There are no rocket launches in the area.
   translation:
-    text: 倫敦航管中心似乎和我們一樣失望，管制員說：「該區域沒有火箭發射。」
+    text: 倫敦航管中心似乎和我們一樣失望，管制員說：「該區域沒有火箭發射。
     status: completed
     confidence: high
     notes: null
@@ -3007,10 +3007,10 @@ segments:
     end: 00:17:45,240
   source_text: This gives you some indications of the ships that this one was taking over Japan, and if you notice, there's a large cylinder, but outside the cylinder, there's 12 disc craft, and this is typically what they do.
   translation:
-    text: 這讓你了解在日本上空出現的飛船的一些特徵，如果你注意看，有一個巨大的圓柱體，但在圓柱體外面，有12個碟形飛行器，這是它們典型的運作方式。
+    text: 這讓你了解在日本上空出現的飛船的一些特徵，如果你注意看，有一個巨大的圓柱體，但在圓柱體外面，有 12 個碟形飛行器，這是它們典型的運作方式。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文句構破碎（the ships that this one was taking over Japan），依語境推斷
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3044,7 +3044,7 @@ segments:
     end: 00:18:05,800
   source_text: This picture was taken by NASA over the Atlantic Ocean near Iceland.
   translation:
-    text: 這張照片是NASA在冰島附近的大西洋上空拍攝的。
+    text: 這張照片是 NASA 在冰島附近的大西洋上空拍攝的。
     status: completed
     confidence: high
     notes: null
@@ -3061,7 +3061,7 @@ segments:
     end: 00:18:18,520
   source_text: This one was actually a video, this is one shot from the video taken over England on Burnham on the Sea on February 11, 2009.
   translation:
-    text: 這實際上是一段影片，這是2009年2月11日在英格蘭濱海伯納姆上空拍攝的影片中的一個畫面。
+    text: 這實際上是一段影片，這是 2009 年 2 月 11 日在英格蘭濱海伯納姆上空拍攝的影片中的一個畫面。
     status: completed
     confidence: high
     notes: null
@@ -3131,7 +3131,7 @@ segments:
     end: 00:19:19,560
   source_text: This is how they're made, these ditches are carved out, and if you think about the type of energy that it takes to make what amounts to a two mile around section of these ditches, the British archeologists call them cursus because they remind them of kind of a racetrack, but I suggest that they, in fact, show that the craft had been there in ancient times.
   translation:
-    text: 它們是這樣建造的，這些溝渠被挖掘出來，如果你想想需要什麼樣的能量才能挖掘出約兩英里長的溝渠區域，英國考古學家稱它們為cursus，因為它們讓人想起賽跑道，但我認為它們實際上顯示了這些飛行器在古代就曾出現在那裡。
+    text: 它們是這樣建造的，這些溝渠被挖掘出來，如果你想想需要什麼樣的能量才能挖掘出約兩英里長的溝渠區域，英國考古學家稱它們為 cursus，因為它們讓人想起賽跑道，但我認為它們實際上顯示了這些飛行器在古代就曾出現在那裡。
     status: completed
     confidence: high
     notes: cursus 為考古學術語，指巨石陣附近的平行溝渠遺跡
@@ -3151,10 +3151,10 @@ segments:
     end: 00:19:27,320
   source_text: There's another picture of one, the Stonehenge cursus, and as you see outlined on the ground.
   translation:
-    text: 還有另一張照片，是巨石陣的cursus，正如你在地面上看到的輪廓。
+    text: 還有另一張照片，是巨石陣的 cursus，正如你在地面上看到的輪廓。
     status: completed
     confidence: high
-    notes: 原文curses應為cursus之轉錄錯誤
+    notes: 原文 curses 應為 cursus 之轉錄錯誤
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3257,7 +3257,7 @@ segments:
     text: 我們認為這類似於二戰時期的貨物崇拜。
     status: completed
     confidence: high
-    notes: cargo coat應為cargo cult（貨物崇拜）之轉錄錯誤
+    notes: cargo coat 應為 cargo cult（貨物崇拜）之轉錄錯誤
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3306,7 +3306,7 @@ segments:
     end: 00:20:40,200
   source_text: This is one of the better craft pictures taken in Cumberland, Rhode Island on July 3rd, 1967, and this was colorized, and the windows put in next.
   translation:
-    text: 這是1967年7月3日在羅德島坎伯蘭拍攝的較好的飛行器照片之一，這張經過彩色處理，並加上了窗戶。
+    text: 這是 1967 年 7 月 3 日在羅德島坎伯蘭拍攝的較好的飛行器照片之一，這張經過彩色處理，並加上了窗戶。
     status: completed
     confidence: high
     notes: null
@@ -3324,10 +3324,10 @@ segments:
     end: 00:20:59,720
   source_text: One Navy chief petty officer, flight engineer with 10,000 hours, had also seen a UFO, and he said that cigar-shaped craft was twice the size of two aircraft carriers.
   translation:
-    text: 一位累積了10，000飛行小時的海軍士官長、飛航工程師也看到了不明飛行物，他說那個雪茄形飛行器有兩艘航空母艦那麼大。
+    text: 一位累積了 10,000 飛行小時的海軍士官長、飛航工程師也看到了不明飛行物，他說那個雪茄形飛行器有兩艘航空母艦的兩倍大。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 twice the size of two aircraft carriers 語意含混，此處直譯
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3342,7 +3342,7 @@ segments:
     end: 00:21:08,400
   source_text: And the object moved east at about 100 knots and was a huge aircraft.
   translation:
-    text: 而且該物體以約100節的速度向東移動，是一架巨大的飛行器。
+    text: 而且該物體以約 100 節的速度向東移動，是一架巨大的飛行器。
     status: completed
     confidence: high
     notes: null
@@ -3359,7 +3359,7 @@ segments:
     end: 00:21:18,680
   source_text: A similar one was seen by two pilots on two different airlines over the English Channel on April 23rd, 2007.
   translation:
-    text: 2007年4月23日，兩位來自不同航空公司的飛行員在英吉利海峽上空看到了類似的飛行器。
+    text: 2007 年 4 月 23 日，兩位來自不同航空公司的飛行員在英吉利海峽上空看到了類似的飛行器。
     status: completed
     confidence: high
     notes: null
@@ -3394,7 +3394,7 @@ segments:
     end: 00:21:30,560
   source_text: Captain Ray Bauer in his Aurigny aircraft and a Blue Islands pilot had seen these UFOs and reported them.
   translation:
-    text: Aurigny航空的雷·鮑爾機長和一位Blue Islands的飛行員看到了這些不明飛行物並報告了此事。
+    text: Aurigny 航空的雷·鮑爾機長和一位 Blue Islands 的飛行員看到了這些不明飛行物並報告了此事。
     status: completed
     confidence: high
     notes: null
@@ -3446,7 +3446,7 @@ segments:
     end: 00:21:39,560
   source_text: Here's Captain Bauer reporting it in 2007.
   translation:
-    text: 這是鮑爾機長在2007年報告此事的紀錄。
+    text: 這是鮑爾機長在 2007 年報告此事的紀錄。
     status: completed
     confidence: high
     notes: null
@@ -3638,7 +3638,7 @@ segments:
     end: 00:23:02,400
   source_text: I've been an airline captain for 31 years, flying 46 years, and have over 32,000 flight hours rated as a captain, 747s.
   translation:
-    text: 我擔任航線機長已經31年，飛行資歷46年，擁有超過32，000小時的機長飛行時數，執飛過747客機。
+    text: 我擔任航線機長已經 31 年，飛行資歷 46 年，擁有超過 32,000 小時的機長飛行時數，執飛過 747 客機。
     status: completed
     confidence: high
     notes: null
@@ -3674,10 +3674,10 @@ segments:
     end: 00:23:47,360
   source_text: Got interested in this subject in 1962 when I was reaching for a book on flying in a small library and a book fell out called Flying Saucer's Top Secret by Major Donald Kehoe, and he was one of the ringleaders in helping get a lot of this information out, and most of his books are credible, professional people that were, you know, people that were trained to know what they were seeing, pilots and astronomers, ground observers, such.
   translation:
-    text: 我於1962年開始對這個主題產生興趣，當時我在一間小圖書館想找一本關於飛行的書，結果一本書掉了出來，是唐納德·基霍少校所著的《飛碟最高機密》，他是協助揭露這些資訊的主要人物之一，他的書中大多是可信的專業人士，也就是受過訓練能夠辨識所見之物的人，包括飛行員、天文學家和地面觀察員等。
+    text: 我於 1962 年開始對這個主題產生興趣，當時我在一間小圖書館想找一本關於飛行的書，結果一本書掉了出來，是唐納德·基霍少校所著的《飛碟最高機密》（Flying Saucers Top Secret），他是協助揭露這些資訊的主要人物之一，他的書中大多是可信的專業人士，也就是受過訓練能夠辨識所見之物的人，包括飛行員、天文學家和地面觀察員等。
     status: completed
     confidence: high
-    notes: Major Donald Kehoe 依術語表譯為唐納德·基霍少校
+    notes: Major Donald Kehoe 依術語表譯為唐納德·基霍少校；書名原文通作 Flying Saucers Top Secret
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3733,7 +3733,7 @@ segments:
     text: 我希望軍方或民航飛行員在目睹某些事物時所受到的對待能夠有所改變。
     status: completed
     confidence: medium
-    notes: null
+    notes: 原文句構破碎，依語境潤飾
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3765,7 +3765,7 @@ segments:
     end: 00:24:35,480
   source_text: A friend of mine was a flight engineer, 747, with an air carrier I was flying for at the time, and they were over the Pacific, and they had a similar sighting to what happened with the Japan Airlines flight in 1986, but this was in 1980.
   translation:
-    text: 我有一位朋友是747客機的飛航工程師，當時任職於我服務的航空公司，他們在太平洋上空時，目睹了類似1986年日本航空班機所發生的事件，但這件事發生在1980年。
+    text: 我有一位朋友是 747 客機的飛航工程師，當時任職於我服務的航空公司，他們在太平洋上空時，目睹了類似 1986 年日本航空班機所發生的事件，但這件事發生在 1980 年。
     status: completed
     confidence: high
     notes: null
@@ -3784,7 +3784,7 @@ segments:
     end: 00:24:42,400
   source_text: There was no radar, and my friend came up to me later after his trip, and he said, "You don't believe what we saw.
   translation:
-    text: 當時沒有雷達追蹤，我的朋友在飛行結束後來找我，他說：「你不會相信我們看到了什麼。」
+    text: 當時沒有雷達追蹤，我的朋友在飛行結束後來找我，他說：「你不會相信我們看到了什麼。
     status: completed
     confidence: high
     notes: null
@@ -3802,7 +3802,7 @@ segments:
     end: 00:24:49,120
   source_text: This thing was bigger than an aircraft carrier," and he said, "We were obviously flying a 747.
   translation:
-    text: 「那東西比航空母艦還大，」他說：「我們當時顯然正在飛747客機。」
+    text: 那東西比航空母艦還大，」他說：「我們當時顯然正在飛 747 客機。
     status: completed
     confidence: high
     notes: null
@@ -3837,7 +3837,7 @@ segments:
     end: 00:24:58,760
   source_text: They were told to park the aircraft when they got there, and then they were debriefed, told never to talk about it."
   translation:
-    text: 「他們被告知抵達後要停放飛機，然後接受簡報，並被告知永遠不要談論這件事。」
+    text: 他們被告知抵達後要停放飛機，然後接受簡報，並被告知永遠不要談論這件事。」
     status: completed
     confidence: high
     notes: null
@@ -3875,10 +3875,10 @@ segments:
     end: 00:25:37,480
   source_text: Some of them were astronauts, some cosmonauts, some generals, and I usually don't get into what I've been told, and they tell me what they know in closed-door sessions, and it's almost verbatim what I've been told before.
   translation:
-    text: 其中有些是太空人，有些是太空人，有些是將軍，我通常不會透露他們告訴我的內容，他們在閉門會議中告訴我所知道的事情，而這與我之前被告知的內容幾乎一字不差。
+    text: 其中有些是美國太空人，有些是蘇聯太空人，有些是將軍，我通常不會透露他們告訴我的內容，他們在閉門會議中告訴我所知道的事情，而這與我之前被告知的內容幾乎一字不差。
     status: completed
     confidence: high
-    notes: null
+    notes: astronauts 與 cosmonauts 原文有別，分別譯為美國／蘇聯太空人
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3929,7 +3929,7 @@ segments:
     end: 00:26:19,720
   source_text: So I'm not going to get in too much into that aspect, but what happened to me as far as I had a sighting over New Mexico, 1995, ironically, I had just finished talking to my first officer about this subject, which I had been told sometimes it wasn't a good idea.
   translation:
-    text: 所以我不會太深入那個層面，但關於我自己的經歷，我在1995年於新墨西哥州上空有一次目擊事件，諷刺的是，我剛剛才跟我的副機長談論過這個主題，而有人曾告訴我有時候這不是個好主意。
+    text: 所以我不會太深入那個層面，但關於我自己的經歷，我在 1995 年於新墨西哥州上空有一次目擊事件，諷刺的是，我剛剛才跟我的副機長談論過這個主題，而有人曾告訴我有時候這不是個好主意。
     status: completed
     confidence: high
     notes: null
@@ -3948,7 +3948,7 @@ segments:
     end: 00:26:23,400
   source_text: He said, "I've been flying 25 years, I've never seen anything."
   translation:
-    text: 他說：「我已經飛了25年，從來沒有見過任何東西。」
+    text: 他說：「我已經飛了 25 年，從來沒有見過任何東西。」
     status: completed
     confidence: high
     notes: null
@@ -4053,7 +4053,7 @@ segments:
     end: 00:27:01,440
   source_text: We were just about 100 miles past Albuquerque.
   translation:
-    text: 我們當時剛飛過阿布奎基約100英里。
+    text: 我們當時剛飛過阿布奎基約 100 英里。
     status: completed
     confidence: high
     notes: null
@@ -4123,7 +4123,7 @@ segments:
     end: 00:27:28,400
   source_text: We had seen a flash of white light, and the thing took off at about a 45-degree angle back into space.
   translation:
-    text: 我們看到一道白色閃光，那東西以大約45度角的角度衝回太空。
+    text: 我們看到一道白色閃光，那東西以大約 45 度角的角度衝回太空。
     status: completed
     confidence: high
     notes: null
@@ -4212,7 +4212,7 @@ segments:
     end: 00:28:53,000
   source_text: I have been invited in to talk with a small group of high-level people, a couple of senators, and Gordon Cooper, the astronaut, one of our original seven, and Edgar Mitchell are friends of mine, and I'm really proud of the effort they put out trying to get this information out because it is very hard to get to the truth on this subject, which is ridiculed so much, but it's also so hard to get to the proof, and that's what everybody's after, and I have found out why this proof is so hard to get after, and there's so much more I could share, but when you're down to just a few minutes, you have to almost be a top 40 disc jockey to get through this.
   translation:
-    text: 我曾受邀與一小群高層人士談話，包括幾位參議員，而戈登·庫珀，那位太空人，我們最初的七位太空人之一，以及艾德加·米切爾博士都是我的朋友，我為他們努力揭露這些資訊感到驕傲，因為在這個經常被嘲笑的主題上要找到真相非常困難，但要找到證據也同樣困難，而這正是每個人都在追求的，我已經發現為什麼這些證據如此難以取得，而我還有更多可以分享的，但當你只剩下幾分鐘時，你幾乎得像個電台DJ一樣快速講完。
+    text: 我曾受邀與一小群高層人士談話，包括幾位參議員，而戈登·庫珀，那位太空人，我們最初的七位太空人之一，以及艾德加·米切爾博士都是我的朋友，我為他們努力揭露這些資訊感到驕傲，因為在這個經常被嘲笑的主題上要找到真相非常困難，但要找到證據也同樣困難，而這正是每個人都在追求的，我已經發現為什麼這些證據如此難以取得，而我還有更多可以分享的，但當你只剩下幾分鐘時，你幾乎得像個電台 DJ 一樣快速講完。
     status: completed
     confidence: high
     notes: Gordon Cooper 譯為戈登·庫珀，Edgar Mitchell 譯為艾德加·米切爾博士，依術語表
@@ -4288,7 +4288,7 @@ segments:
     end: 00:29:25,840
   source_text: I told the History Channel about it back when it first came out, it first came out in '78, but in 1992, the second edition came out and they added the section, this is the fire officer's guide to disaster control for our federal and civilian fire disaster people for atomic wars or whatever, and how to deal with it.
   translation:
-    text: 這本書首次出版時我就告訴過歷史頻道，它最初是在1978年出版的，但在1992年，第二版問世，他們增加了一個章節，這是《消防官員災難控制指南》，供我們的聯邦和民間消防人員在原子戰爭或其他災難時參考，以及如何處理相關情況。
+    text: 這本書首次出版時我就告訴過歷史頻道，它最初是在 1978 年出版的，但在 1992 年，第二版問世，他們增加了一個章節，這是《消防官員災難控制指南》，供我們的聯邦和民間消防人員在原子戰爭或其他災難時參考，以及如何處理相關情況。
     status: completed
     confidence: high
     notes: Fire Officer's Guide to Disaster Control 依術語表譯為《消防官員災難控制指南》
@@ -4308,7 +4308,7 @@ segments:
     end: 00:30:00,360
   source_text: It's written by Navy personnel, one's an attorney, one's a PhD, and the main section that they revised in 1992 was on the UFO threat of fact, and it tells the firefighters who are usually first on the scene how to deal with the crashed UFO, possibly dead extraterrestrials or live aliens, and how to deal with the crowd situation, radiation problems, and that's that information.
   translation:
-    text: 這本書由海軍人員撰寫，一位是律師，一位是博士，他們在1992年修訂的主要章節是關於UFO威脅的事實部分，它告訴通常最先到達現場的消防員如何處理墜毀的不明飛行物、可能是死亡的外星人或活著的外星生物，以及如何處理人群狀況、輻射問題等資訊。
+    text: 這本書由海軍人員撰寫，一位是律師，一位是博士，他們在 1992 年修訂的主要章節是關於 UFO 威脅的事實部分，它告訴通常最先到達現場的消防員如何處理墜毀的不明飛行物、可能是死亡的外星人或活著的外星生物，以及如何處理人群狀況、輻射問題等資訊。
     status: completed
     confidence: high
     notes: null
@@ -4328,7 +4328,7 @@ segments:
     end: 00:30:07,220
   source_text: So it's a very interesting addition that they added in 1992 on this book.
   translation:
-    text: 所以這是他們在1992年對這本書增加的一個非常有趣的內容。
+    text: 所以這是他們在 1992 年對這本書增加的一個非常有趣的內容。
     status: completed
     confidence: high
     notes: null
@@ -4345,7 +4345,7 @@ segments:
     end: 00:30:33,080
   source_text: There are some very important books that people always ask me, because after I got involved talking about this subject to some co-pilots, I was turned in and I was evaluated for four days of flight testing, and everything went smooth, and in fact, the chief pilot said, "Well, you got through okay, you get to keep your job, and I'm very interested in this subject now.
   translation:
-    text: 有一些非常重要的書籍是人們經常問我的，因為在我開始跟一些副機長談論這個主題後，我被檢舉了，並接受了為期四天的飛行測試評估，而一切都很順利，事實上，主任飛行員說：「嗯，你通過了，你可以保住你的工作，而我現在對這個主題非常感興趣。」
+    text: 有一些非常重要的書籍是人們經常問我的，因為在我開始跟一些副機長談論這個主題後，我被檢舉了，並接受了為期四天的飛行測試評估，而一切都很順利，事實上，主任飛行員說：「嗯，你通過了，你可以保住你的工作，而我現在對這個主題非常感興趣。
     status: completed
     confidence: high
     notes: null
@@ -4366,7 +4366,7 @@ segments:
     end: 00:30:35,880
   source_text: It looks like there's more to this than I thought."
   translation:
-    text: 「看起來這比我想像的還要複雜。」
+    text: 看起來這比我想像的還要複雜。」
     status: completed
     confidence: high
     notes: null
@@ -4383,10 +4383,10 @@ segments:
     end: 00:30:58,360
   source_text: So we used to have long talks about this, and through that situation, I was so upset about my freedom of speech rights after how I was treated as a pilot, and other pilots around the world have been treated, that I ended up getting the opportunity to do a five day a week live uncensored television show for almost three years.
   translation:
-    text: 所以我們以前經常長談這個話題，通過那個情況，我對自己作為飛行員所受到的待遇，以及世界各地其他飛行員所受到的待遇，感到言論自由權利受到侵犯，非常沮喪，結果我得到了一個機會，做了一個每週五天直播、未經審查的電視節目，持續了將近三年。
+    text: 所以我們以前經常長談這個話題，經過那次經歷，我對自己作為飛行員所受到的待遇，以及世界各地其他飛行員所受到的待遇，感到言論自由權利受到侵犯，非常沮喪，結果我得到了一個機會，做了一個每週五天直播、未經審查的電視節目，持續了將近三年。
     status: completed
     confidence: medium
-    notes: null
+    notes: 口語長句，語序經調整
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4403,7 +4403,7 @@ segments:
     end: 00:31:09,520
   source_text: And we did just a little over 500 shows on this subject, and other mysteries that I found out regarding the ... The UFO subject is basically the tip of the iceberg.
   translation:
-    text: 我們做了超過500集關於這個主題的節目，以及我所發現的其他神秘事件……UFO主題基本上只是冰山一角。
+    text: 我們做了超過 500 集關於這個主題的節目，以及我所發現的其他神秘事件……UFO 主題基本上只是冰山一角。
     status: completed
     confidence: high
     notes: null
@@ -4461,7 +4461,7 @@ segments:
     end: 00:31:53,160
   source_text: You've got about 30 seconds.
   translation:
-    text: 你還有大约30秒。
+    text: 你還有大約 30 秒。
     status: completed
     confidence: high
     notes: null
@@ -4534,7 +4534,7 @@ segments:
     end: 00:32:36,680
   source_text: I have a collection of over probably 3,000 UFO books at my house, and hundreds and hundreds of videos.
   translation:
-    text: 我家裡收藏了超過大概3，000本UFO相關書籍，以及數百部影片。
+    text: 我家裡收藏了超過大概 3,000 本 UFO 相關書籍，以及數百部影片。
     status: completed
     confidence: high
     notes: null
@@ -4743,7 +4743,7 @@ segments:
     end: 00:34:02,200
   source_text: You could see down as much as 200 feet in it.
   translation:
-    text: 可以看到水下約200英尺深的地方。
+    text: 可以看到水下約 200 英尺深的地方。
     status: completed
     confidence: high
     notes: null
@@ -4813,7 +4813,7 @@ segments:
     end: 00:34:37,000
   source_text: Very soon after that, he came out of the water going approximately 100 miles an hour.
   translation:
-    text: 很快之後，他以大約每小時100英里的速度衝出水面。
+    text: 很快之後，他以大約每小時 100 英里的速度衝出水面。
     status: completed
     confidence: high
     notes: null
@@ -4830,7 +4830,7 @@ segments:
     end: 00:34:46,740
   source_text: As soon as he broke the surface of the water, he increased his speed to approximately 2,500 miles an hour and quickly went out of sight.
   translation:
-    text: 他一衝出水面，就將速度提升到每小時約2，500英里，迅速消失在我的視線中。
+    text: 他一衝出水面，就將速度提升到每小時約 2,500 英里，迅速消失在我的視線中。
     status: completed
     confidence: high
     notes: null
@@ -4848,7 +4848,7 @@ segments:
     end: 00:34:50,560
   source_text: He was gone for about 15 or 20 minutes.
   translation:
-    text: 他離開了大約15到20分鐘。
+    text: 他離開了大約 15 到 20 分鐘。
     status: completed
     confidence: high
     notes: null
@@ -4865,7 +4865,7 @@ segments:
     end: 00:35:13,760
   source_text: He came right back, right, went and slowed down very much, went in the water again at about 100 miles an hour, went on down to ... He and the other one, you could see them working on the UFOs.
   translation:
-    text: 他回來了，大幅減速，以每小時約100英里的速度再次潛入水中，繼續下潛……他和另一個外星人，你可以看到他們正在修理那些不明飛行物。
+    text: 他回來了，大幅減速，以每小時約 100 英里的速度再次潛入水中，繼續下潛……他和另一個外星人，你可以看到他們正在修理那些不明飛行物。
     status: completed
     confidence: medium
     notes: 原文有口語化的停頓和重複，已調整為流暢的中文
@@ -4884,7 +4884,7 @@ segments:
     end: 00:35:42,720
   source_text: After about approximately 2 hours of apparently performing maintenance on the UFOs, the two of them took off together again, left the water at about 100 miles an hour, immediately accelerated to well over 2,500 miles an hour, went virtually straight up and disappeared.
   translation:
-    text: 在進行了大約兩小時的維修工作後，兩艘飛行物一起再次起飛，以每小時約100英里的速度離開水面，隨即加速到超過每小時2，500英里，幾乎垂直上升後消失。
+    text: 在進行了大約兩小時的維修工作後，兩艘飛行物一起再次起飛，以每小時約 100 英里的速度離開水面，隨即加速到超過每小時 2,500 英里，幾乎垂直上升後消失。
     status: completed
     confidence: high
     notes: null
@@ -5010,7 +5010,7 @@ segments:
     end: 00:37:03,520
   source_text: It was down there for approximately 15 minutes and turned around and came right back out.
   translation:
-    text: 它在那裡停留了大約15分鐘，然後掉頭飛了出來。
+    text: 它在那裡停留了大約 15 分鐘，然後掉頭飛了出來。
     status: completed
     confidence: high
     notes: null
@@ -5047,10 +5047,10 @@ segments:
     end: 00:37:41,360
   source_text: They may very well be and have been for some time actually defending the earth because what other purpose would they have for it?
   translation:
-    text: 他們很可能已經在一段時間內實際上在保護地球，因為除此之外還有什麼目的呢？
+    text: 他們很可能實際上早已在保護地球，因為除此之外他們還能有什麼目的呢？
     status: completed
     confidence: medium
-    notes: null
+    notes: 原文語序口語化，已潤飾
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -5160,7 +5160,7 @@ segments:
     text: 我個人目擊的最後一次事件就發生在我最近居住的塞多納。事情是這樣的，我過去常在傍晚時分到後院露臺看星星，如果你去過塞多納，就知道那裡的景色非常壯觀。
     status: completed
     confidence: medium
-    notes: null
+    notes: 口語長句，語序經調整
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -5212,7 +5212,7 @@ segments:
     end: 00:40:00,160
   source_text: And I believed that until the thing turned 180 degrees and flew back.
   translation:
-    text: 我一直這樣認為，直到那東西轉了180度又飛了回來。
+    text: 我一直這樣認為，直到那東西轉了 180 度又飛了回來。
     status: completed
     confidence: high
     notes: null
@@ -5451,7 +5451,7 @@ segments:
     end: 00:40:40,400
   source_text: I live near Stephenville, Texas.
   translation:
-    text: 我住在德州斯蒂芬維爾（Stephenville， Texas）附近。
+    text: 我住在德州斯蒂芬維爾（Stephenville, Texas）附近。
     status: completed
     confidence: high
     notes: null
@@ -5659,7 +5659,7 @@ segments:
     end: 00:41:57,120
   source_text: On the evening of January the 8th, 2008, at 6.15 p.m. in Selden, Texas, just outside of Stephenville at my friend's home, Mike Odom, I witnessed a set of four very bright high intensity lights flying extremely fast in a very low altitude, what seemed to be coming directly at us, flying from east to west.
   translation:
-    text: 2008年1月8日晚上6點15分，在德州塞爾登（Selden， Texas），也就是斯蒂芬維爾郊外我朋友麥克·奧多姆（Mike Odom）的家中，我目擊到四盞非常明亮的高強度燈光，以極快的速度在低空飛行，看起來正朝著我們直飛而來，由東向西飛行。
+    text: 2008 年 1 月 8 日晚上 6 點 15 分，在德州塞爾登（Selden, Texas），也就是斯蒂芬維爾郊外我朋友麥克·奧多姆（Mike Odom）的家中，我目擊到四盞非常明亮的高強度燈光，以極快的速度在低空飛行，看起來正朝著我們直飛而來，由東向西飛行。
     status: completed
     confidence: high
     notes: null
@@ -5747,7 +5747,7 @@ segments:
     end: 00:42:21,000
   source_text: The lights came past us at approximately 3,000 feet AGL, that's above ground level.
   translation:
-    text: 這些燈光從我們附近飛過，高度大約是3，000英尺 AGL，也就是離地高度。
+    text: 這些燈光從我們附近飛過，高度大約是 3,000 英尺 AGL，也就是離地高度。
     status: completed
     confidence: high
     notes: AGL = Above Ground Level，離地高度
@@ -6298,7 +6298,7 @@ segments:
     end: 00:45:18,360
   source_text: I received many phone calls daily with no less than 60 calls per day from actual witnesses.
   translation:
-    text: 我每天接到很多電話，每天至少有60通來自真正目擊者的電話。
+    text: 我每天接到很多電話，每天至少有 60 通來自真正目擊者的電話。
     status: completed
     confidence: high
     notes: null
@@ -6439,7 +6439,7 @@ segments:
     end: 00:46:27,200
   source_text: Ten days later, lo and behold, a press release stating they did in fact have 10 F-16s in the area.
   translation:
-    text: 十天後，你猜怎麼著，他們發布新聞稿承認，該區域確實有10架 F-16 戰機。
+    text: 十天後，你猜怎麼著，他們發布新聞稿承認，該區域確實有 10 架 F-16 戰機。
     status: completed
     confidence: high
     notes: null
@@ -6525,7 +6525,7 @@ segments:
     end: 00:46:53,800
   source_text: There it was, an unidentified aircraft with no transponder traveling from east to west at 1,900 to 2,100 miles an hour.
   translation:
-    text: 報告顯示，有一架沒有航空應答機（transponder）的不明飛行器，以每小時1，900到2，100英里的速度由東向西飛行。
+    text: 報告顯示，有一架沒有航空應答機（transponder）的不明飛行器，以每小時 1,900 到 2,100 英里的速度由東向西飛行。
     status: completed
     confidence: high
     notes: null
@@ -6543,7 +6543,7 @@ segments:
     end: 00:47:00,600
   source_text: Then in less than ten seconds, slowing to a speed of less than 50 miles an hour over Stephenville, Texas.
   translation:
-    text: 然後在不到十秒內，減速到每小時不到50英里，飛越德州斯蒂芬維爾上空。
+    text: 然後在不到十秒內，減速到每小時不到 50 英里，飛越德州斯蒂芬維爾上空。
     status: completed
     confidence: high
     notes: null
@@ -6630,7 +6630,7 @@ segments:
     end: 00:47:31,200
   source_text: Also an AWACS, Airborne Warning and Control System, that's the aircraft with the giant frisbee-like radar on its rear at 41,000 foot, circling the area for over four hours.
   translation:
-    text: 還有一架 AWACS 空中預警機（Airborne Warning and Control System），也就是機尾裝有巨大飛盤狀雷達的飛機，在41，000英尺高空盤旋該區域超過四小時。
+    text: 還有一架 AWACS 空中預警機（Airborne Warning and Control System），也就是機尾裝有巨大飛盤狀雷達的飛機，在 41,000 英尺高空盤旋該區域超過四小時。
     status: completed
     confidence: high
     notes: AWACS = Airborne Warning and Control System，空中預警管制系統
@@ -6682,7 +6682,7 @@ segments:
     end: 00:47:46,200
   source_text: The craft ended up ten miles from the former President Bush's Western White House in Crawford, Texas.
   translation:
-    text: 這架飛行器最後出現在德州克勞福德（Crawford， Texas）前總統布希的西部白宮（Western White House）附近十英里處。
+    text: 這架飛行器最後出現在德州克勞福德（Crawford, Texas）前總統布希的西部白宮（Western White House）附近十英里處。
     status: completed
     confidence: high
     notes: null
@@ -7621,7 +7621,7 @@ segments:
     end: 00:52:54,480
   source_text: And we were, you know, probably around 35,000 feet, 32,000, the other incident.
   translation:
-    text: 我們當時大概在 35，000 英呎左右，另一次事件是在 32，000 英呎。
+    text: 我們當時大概在 35,000 英呎左右，另一次事件是在 32,000 英呎。
     status: completed
     confidence: high
     notes: null
@@ -7655,10 +7655,10 @@ segments:
     end: 00:53:04,960
   source_text: Two in the morning, the first one a little past 3.30 in the morning, the other one, both times no radar contact.
   translation:
-    text: 凌晨兩點，第一次是凌晨三點半過後，另一次也是，兩次都沒有雷達接觸。
+    text: 一次在凌晨兩點，另一次在凌晨三點半過後，兩次都沒有雷達接觸。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文語序混亂（Two in the morning, the first one a little past 3.30...），依語境重組
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7675,8 +7675,8 @@ segments:
   translation:
     text: 諷刺的是它們非常相似，我以前從未聽說過在那麼高的地方有這種形狀的物體，但根據我的研究。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文句尾不完整（but in my research.）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7815,7 +7815,7 @@ segments:
     end: 00:54:16,600
   source_text: And both times when we asked the controllers, "Do you have anything on the radar?"
   translation:
-    text: 兩次我們都問航管員：『雷達上有顯示任何東西嗎？』
+    text: 兩次我們都問航管員：「雷達上有顯示任何東西嗎？」
     status: completed
     confidence: high
     notes: null
@@ -7832,10 +7832,10 @@ segments:
     end: 00:54:22,160
   source_text: And they said, "We show no traffic in your ART CAS," which is our traffic avoidance system never went off.
   translation:
-    text: 他們說：『我們在您的航空防撞系統上沒有顯示任何飛行物。』也就是說我們的空中防撞系統從未啟動。
+    text: 他們說：「我們在您的航空防撞系統上沒有顯示任何飛行物。」也就是說我們的航空防撞系統從未啟動。
     status: completed
     confidence: high
-    notes: null
+    notes: ART CAS 依術語表譯為航空防撞系統
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8022,10 +8022,10 @@ segments:
     end: 00:55:35,320
   source_text: Ben Rich at Lockheed indicated that, in so many words, we had back-engineered some of these craft and we're now able to take ET home.
   translation:
-    text: 洛克希德公司的班·里奇曾表示，換句話說，我們已經對其中一些飛行器進行了逆向工程，現在我們能夠帶 ET 回家了。
+    text: 洛克希德公司的班·里奇曾明確表示，我們已經對其中一些飛行器進行了反向工程，現在我們能夠帶 ET 回家了。
     status: completed
     confidence: high
-    notes: null
+    notes: in so many words 意為明確地、幾乎原話如此；back-engineered 依術語表譯為反向工程
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8110,10 +8110,10 @@ segments:
     end: 00:56:52,160
   source_text: I mean, you know, maybe we're way more clever than any of us realize, and my question would be, and it's just a push back on making sure we've covered all ground, are we setting, are Earthlings setting this up in the first place, you know, so that we find our way to outer space and for what could come with wars in outer space, but, or are the non-Earthlings coming to us and showing us what they know, and we're realizing we've got to compete?
   translation:
-    text: 我是說，也許我們比任何人意識到的都更聰明，我的問題是，這只是為了確保我們涵蓋所有面向的反駁，是我們地球人一開始就在策劃這一切，為了讓我們找到通往外太空的道路，以及為了可能發生的外太空戰爭做準備？還是非地球生物來找我們，向我們展示他們所知道的，而我們意識到我們必須競爭？
+    text: 我是說，也許我們比任何人意識到的都更聰明。我的問題是——這只是提出一點反向思考，確保我們方方面面都考慮到——是我們地球人一開始就在策劃這一切，為了讓我們找到通往外太空的道路，並為未來可能的外太空戰爭做準備？還是非地球生物來找我們，向我們展示他們所知道的，而我們意識到自己必須競爭？
     status: completed
     confidence: high
-    notes: null
+    notes: 口語長句，語序經調整
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8148,7 +8148,7 @@ segments:
     end: 00:57:19,880
   source_text: The people I talk to that have been involved in the reverse engineering, they call it, with the UFOs that they captured, they could, by now, because it's been, what, 30 years or more, they could have developed a ship that they could be out practicing with or a group of ships.
   translation:
-    text: 我交談過的那些參與逆向工程的人，他們這樣稱呼，用他們捕獲的不明飛行物，到現在，因為已經過了 30 多年，他們可能已經開發出一艘或一組可以用來演練的飛船。
+    text: 我交談過的那些參與反向工程的人，他們這樣稱呼，用他們捕獲的不明飛行物，到現在，因為已經過了 30 多年，他們可能已經開發出一艘或一組可以用來演練的飛船。
     status: completed
     confidence: high
     notes: null
@@ -8168,7 +8168,7 @@ segments:
     end: 00:57:52,560
   source_text: If you remember Dr. Mitchell, when he spoke, he said when he was en route to the moon, he looked out the left portal, I would call it a window, and he called down to NASA and said I'm now a fighter too, he thought that that spaceship flying along with them was made here in the United States and they were flight checking it, so it is possible that the United States has been making these UFOs, but I don't think they're going to tell us, and it's just one of those, how do you really know?
   translation:
-    text: 如果您記得米切爾博士發言時說過，當他在前往月球的途中，他從左邊的窗口望出去，我會稱之為窗戶，他打電話給 NASA 說我現在也是戰鬥機飛行員了，他以為那艘與他們一起飛行的太空船是在美國製造的，他們正在進行飛行測試，所以美國有可能一直在製造這些不明飛行物，但我不認為他們會告訴我們，這就是問題所在，你怎麼能確定呢？
+    text: 如果您記得米切爾博士發言時說過，當他在前往月球的途中，他從左邊的艙口望出去——我會稱之為窗戶——他通報 NASA 說：「我現在也是戰鬥機飛行員了。」他以為那艘與他們並行的太空船是在美國製造的，他們正在進行飛行測試。所以美國有可能一直在製造這些不明飛行物，但我不認為他們會告訴我們，這就是問題所在，你怎麼能確定呢？
     status: completed
     confidence: high
     notes: null
@@ -8332,7 +8332,7 @@ segments:
     text: 我年輕時教我飛行的人是一位二戰時期的王牌飛行員，有兩本書是關於他的，其中一本是空軍軍官學校的一位將軍寫的，他的名字是萊羅伊·高佛上校，他是二戰時期第一批 100 位美國飛行員之一，他去了加拿大，然後成為鷹中隊的指揮官。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Triple H 應為轉錄錯誤（ace 之類），LeRoy Gover 確為二戰王牌（5 架擊落紀錄），已查證
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8619,7 +8619,7 @@ segments:
     end: 01:01:37,520
   source_text: I don't know, 20, 30.
   translation:
-    text: 我不知道，20、30個吧。
+    text: 我不知道，20、30 個吧。
     status: completed
     confidence: high
     notes: null
@@ -8636,7 +8636,7 @@ segments:
     end: 01:01:39,440
   source_text: Twenty-three people?
   translation:
-    text: 23個人？
+    text: 23 個人？
     status: completed
     confidence: high
     notes: null
@@ -8724,7 +8724,7 @@ segments:
     end: 01:02:23,760
   source_text: If you're an air traffic controller and you're working your sector in front of you, you've got 500 miles that you're taking care of, the antenna's going by every nine or 10 seconds and it picks up a primary target, which is the size of a pencil eraser, and it puts it on your scope right here.
   translation:
-    text: 如果你是航空管制員，負責你面前的管制區域，你要管理500英里的空域，天線每9到10秒掃描一次，當它捕捉到一個主要目標，只有橡皮擦那麼大，就會顯示在你的螢幕上。
+    text: 如果你是航空管制員，負責你面前的管制區域，你要管理 500 英里的空域，天線每 9 到 10 秒掃描一次，當它捕捉到一個主要目標，只有橡皮擦那麼大，就會顯示在你的螢幕上。
     status: completed
     confidence: high
     notes: null
@@ -8779,7 +8779,7 @@ segments:
     end: 01:02:45,720
   source_text: Ten seconds later, that target is over here someplace, nowhere near your traffic, so your mind says it must have been an 18 wheeler, it could be somebody low, I don't know what it was.
   translation:
-    text: 10秒後，那個目標已經到了別的地方，完全不在你的航班附近，所以你的直覺會說那一定是輛18輪大卡車，可能是飛得很低的什麼東西，我不知道那是什麼。
+    text: 10 秒後，那個目標已經到了別的地方，完全不在你的航班附近，所以你的直覺會說那一定是輛 18 輪大卡車，可能是飛得很低的什麼東西，我不知道那是什麼。
     status: completed
     confidence: high
     notes: null
@@ -8816,7 +8816,7 @@ segments:
     end: 01:02:59,000
   source_text: Today, to fly in the FAA system, if you're flying below 10,000, you have to stay at 250 knots.
   translation:
-    text: 現在，要在 FAA 系統中飛行，如果你在10，000英尺以下，必須保持250節以下。
+    text: 現在，要在 FAA 系統中飛行，如果你在 10,000 英尺以下，必須保持 250 節以下。
     status: completed
     confidence: high
     notes: null
@@ -8834,7 +8834,7 @@ segments:
     end: 01:03:06,600
   source_text: If you're flying above 10,000 or above 18,000, you have to have a working transponder on your aircraft.
   translation:
-    text: 如果你在10，000或18，000英尺以上飛行，你的飛機必須配備正常運作的航空應答機。
+    text: 如果你在 10,000 或 18,000 英尺以上飛行，你的飛機必須配備正常運作的航空應答機。
     status: completed
     confidence: high
     notes: null
@@ -9010,7 +9010,7 @@ segments:
     end: 01:04:16,660
   source_text: The pilot at 02-27-06, NORAD called, they lost the target.
   translation:
-    text: 在02:27:06時，NORAD（北美防空司令部）打來電話說他們失去了目標。
+    text: 在 02:27:06 時，NORAD（北美防空司令部）打來電話說他們失去了目標。
     status: completed
     confidence: high
     notes: null
@@ -9061,7 +9061,7 @@ segments:
     end: 01:04:32,880
   source_text: Now, when I was talking to the engineers, the hardware and software engineers, I asked them to tell me what the target was alongside the 747.
   translation:
-    text: 當時我在和工程師們談話，包括硬體和軟體工程師，我請他們告訴我那個在747旁邊的目標是什麼。
+    text: 當時我在和工程師們談話，包括硬體和軟體工程師，我請他們告訴我那個在 747 旁邊的目標是什麼。
     status: completed
     confidence: high
     notes: 07-47 應為 747 客機
@@ -9302,7 +9302,7 @@ segments:
     end: 01:05:31,120
   source_text: He has to slow down to somewhere around 600 knots.
   translation:
-    text: 它必須減速到大約600節左右。
+    text: 它必須減速到大約 600 節左右。
     status: completed
     confidence: high
     notes: null
@@ -9440,7 +9440,7 @@ segments:
     end: 01:06:25,160
   source_text: If it was a Learjet or a military aircraft, had the pilot said, "It looks like an F-106 playing games out here," we would have tracked that little dot all the way until he landed, then we would have rolled him up for flying and controlled airspace without the FAA's approval.
   translation:
-    text: 如果那是里爾噴射機或軍用飛機，飛行員說：「看起來像是一架F-106在這裡玩遊戲」，我們就會一路追蹤那個小點直到它降落，然後我們會因為它在未經 FAA 批准的管制空域飛行而將它攔下。
+    text: 如果那是里爾噴射機或軍用飛機，飛行員說：「看起來像是一架 F-106 在這裡玩遊戲」，我們就會一路追蹤那個小點直到它降落，然後我們會因為它在未經 FAA 批准的管制空域飛行而將它攔下。
     status: completed
     confidence: high
     notes: null
@@ -9704,7 +9704,7 @@ segments:
     end: 01:07:44,720
   source_text: For example, right now, there's some 200 pyramids in China with flat tops to them, which make them ideal for a craft landing on them.
   translation:
-    text: 例如，現在中國有約200座平頂金字塔，這使它們成為飛行器降落的理想地點。
+    text: 例如，現在中國有約 200 座平頂金字塔，這使它們成為飛行器降落的理想地點。
     status: completed
     confidence: high
     notes: null
@@ -9722,7 +9722,7 @@ segments:
     end: 01:07:48,840
   source_text: The Chinese are declaring that they're some 10,000 years old.
   translation:
-    text: 中國方面宣稱它們有約10，000年的歷史。
+    text: 中國方面宣稱它們有約 10,000 年的歷史。
     status: completed
     confidence: high
     notes: null
@@ -10187,7 +10187,7 @@ segments:
     end: 01:09:31,440
   source_text: This happened in 1997.
   translation:
-    text: 這發生在1997年。
+    text: 這發生在 1997 年。
     status: completed
     confidence: high
     notes: null
@@ -10204,7 +10204,7 @@ segments:
     end: 01:09:58,040
   source_text: I was with four friends, and we were up at an area called the Boulders, which is actually northern Scottsdale, and that was when the Phoenix Lights, where they were explaining what they were, was that they were actually targets for gunnery practice.
   translation:
-    text: 我和四位朋友在一起，我們在Boulders地區，也就是斯科茨代爾北部，那時正是鳳凰城光點事件發生的時候，官方解釋說那些是射擊訓練用的靶標。
+    text: 我和四位朋友在一起，我們在 Boulders 地區，也就是斯科茨代爾北部，那時正是鳳凰城光點事件發生的時候，官方解釋說那些是射擊訓練用的靶標。
     status: completed
     confidence: high
     notes: null
@@ -10240,7 +10240,7 @@ segments:
     end: 01:10:14,880
   source_text: Number one, one of those target, gunnery targets, they're a flare, and the flare burns for exactly one minute and 21 seconds.
   translation:
-    text: 第一，那些射擊訓練靶標是照明彈，而照明彈燃燒的時間正好是1分21秒。
+    text: 第一，那些射擊訓練靶標是照明彈，而照明彈燃燒的時間正好是 1 分 21 秒。
     status: completed
     confidence: high
     notes: null
@@ -10363,10 +10363,10 @@ segments:
     end: 01:11:26,240
   source_text: When it went by, and now it's going at this time at about 50 miles an hour, and descending slowly and headed in the direction of Tucson to the south, well, as it got past me in about probably 30 miles down, the lights out on the range, they didn't go out, they stayed on, but they started heading for Tucson.
   translation:
-    text: 當它飛過時，那時它以大約每小時50英里的速度飛行，緩慢下降，朝著南方的圖森方向前進，嗯，當它飛過我，大概在我下方30英里處，那些在山區的光點，它們沒有熄滅，還亮著，但開始朝圖森方向移動。
+    text: 當它飛過時，那時它以大約每小時 50 英里的速度飛行，緩慢下降，朝著南方的圖森方向前進。嗯，當它飛過我、大約在前方 30 英里處時，那些山區的光點沒有熄滅，還亮著，但開始朝圖森方向移動。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 30 miles down 指沿航向前方約 30 英里，非高度
   metadata:
     topic_id: topic_07
     speaker_hint: null
@@ -10400,7 +10400,7 @@ segments:
     end: 01:11:48,480
   source_text: It was less than 100 yards from me, and you could hear absolutely nothing, yet the vehicle was actually nearly a mile long and approximately 60 feet in diameter.
   translation:
-    text: 它離我不到100碼，你完全聽不到任何聲音，但這個飛行器實際上將近一英里長，直徑約60英尺。
+    text: 它離我不到 100 碼，你完全聽不到任何聲音，但這個飛行器實際上將近一英里長，直徑約 60 英尺。
     status: completed
     confidence: high
     notes: null
@@ -10489,10 +10489,10 @@ segments:
     end: 01:12:40,920
   source_text: I go to Representative Kilpatrick.
   translation:
-    text: 請 Kilpatrick 眾議員發言。
+    text: 請基爾派翠克眾議員發言。
     status: completed
     confidence: high
-    notes: null
+    notes: Kilpatrick 依主表譯為基爾派翠克
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -10523,7 +10523,7 @@ segments:
     end: 01:12:51,920
   source_text: Jim, I'd like to ask you a question.
   translation:
-    text: Jim，我想請教你一個問題。
+    text: 吉姆，我想請教你一個問題。
     status: completed
     confidence: high
     notes: null
@@ -10594,7 +10594,7 @@ segments:
     text: 據我所知，這是現代社會對公眾進行緩慢教育過程的開端，從那時起，跟其他機組人員談論這種情況就變得比較容易了。
     status: completed
     confidence: medium
-    notes: null
+    notes: 原文句構破碎，依語境潤飾
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -10791,7 +10791,7 @@ segments:
     text: 所以你真正需要思考的是，也許相對論之外還有其他的東西，而什麼比光速還快？意念。據我從參與這些項目的科學家那裡了解，他們——這些外星生命——可能比我們先進數千年，而且他們肯定使用了某種不可思議的意念過程，某種反轉能量過程來到這裡，他們基本上是在扭曲時間。
     status: completed
     confidence: medium
-    notes: null
+    notes: 涉及複雜科學概念（蟲洞、扭曲時間），且原文 inversion energy process 語意不明
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -11020,7 +11020,7 @@ segments:
     end: 01:17:00,120
   source_text: And actually, I write about it in my filers' files, which I'm happy to send to anyone.
   translation:
-    text: 事實上，我在我的 Filer's Files 中通訊中撰寫這些內容，我很樂意寄給任何有興趣的人。
+    text: 事實上，我在我的通訊刊物《Filer's Files》中撰寫這些內容，我很樂意寄給任何有興趣的人。
     status: completed
     confidence: high
     notes: null
@@ -11454,10 +11454,10 @@ segments:
     end: 01:21:03,280
   source_text: Mr. Chair?
   translation:
-    text: Thayer 先生？
+    text: 主席先生？
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Mr. Thayer 經人工觀看影片確認為 Mr. Chair，講者（基爾派翠克）保留剩餘時間後將發言權交還主席
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -11488,10 +11488,10 @@ segments:
     end: 01:21:08,320
   source_text: I'd like to ask Senator Gravel.
   translation:
-    text: 我想請教 Gravel 參議員。
+    text: 我想請格拉維爾參議員發言。
     status: completed
     confidence: high
-    notes: null
+    notes: Gravel 依主表譯為格拉維爾；經人工確認此處為主席請 Gravel 接續發言
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -11662,10 +11662,10 @@ segments:
     end: 01:22:41,400
   source_text: They aren't disc-shaped, so unfortunately, the pilots never wanted to talk about it again after it hit the news, and they played their voice tapes over the television, and they took some heat for it, but thank God I've got Danny Sheehan over there to protect me as a good attorney in case I get in trouble here.
   translation:
-    text: 它們不是圓盤形狀的，所以不幸的是，這件事上新聞後，飛行員們再也不想談論這件事了，而且他們的語音錄音在電視上播放了，他們因此承受了一些壓力，但感謝上帝，我有 Danny Sheehan 在那邊保護我，作為一名好律師，以防我在這裡惹上麻煩。
+    text: 它們不是圓盤形狀的，所以不幸的是，這件事上新聞後，飛行員們再也不想談論這件事了，而且他們的語音錄音在電視上播放了，他們因此承受了一些壓力，但感謝上帝，我有丹尼爾·希恩（Danny Sheehan）在那邊保護我，他是位好律師，以防我在這裡惹上麻煩。
     status: completed
     confidence: high
-    notes: null
+    notes: Danny Sheehan 即主表 Daniel Sheehan（丹尼爾·希恩）
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -11786,10 +11786,10 @@ segments:
     end: 01:23:16,000
   source_text: Are they pilots like this movie, Flight with Mr. Washington?
   translation:
-    text: 他們是像《機長》這部電影裡 Washington 先生飾演的那種飛行員嗎？
+    text: 他們是像電影《機長》（Flight）裡丹佐·華盛頓飾演的那種飛行員嗎？
     status: completed
     confidence: high
-    notes: null
+    notes: 指 2012 年電影 Flight，由 Denzel Washington 主演
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -11857,8 +11857,8 @@ segments:
   translation:
     text: 我有一個兒時好友是泛美航空的機長，飛過四種機型中最大的那一種。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 the largest of four 語意含混，依語境推斷
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -12274,7 +12274,7 @@ segments:
     end: 01:28:26,160
   source_text: Jim, please.
   translation:
-    text: Jim，請說。
+    text: 吉姆，請說。
     status: completed
     confidence: high
     notes: null
@@ -12398,10 +12398,10 @@ segments:
     end: 01:29:41,040
   source_text: I would only respond to what you had said, John, that was that I found in my life and in my career that there are more conspiracies than people are aware of, but there are less conspiracies than people think.
   translation:
-    text: 我只想回應你說的話，John，那就是我在我的生活和職業生涯中發現，陰謀比人們意識到的要多，但比人們想像的要少。
+    text: 我只想回應你說的話，約翰，那就是我在我的生活和職業生涯中發現，陰謀比人們意識到的要多，但比人們想像的要少。
     status: completed
     confidence: high
-    notes: null
+    notes: John 應指 John Callahan（約翰·卡拉漢）
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -12559,10 +12559,10 @@ segments:
     end: 01:30:59,960
   source_text: I'm not enough scientist, I defer to my colleague, Congressman Bartlett, who's a lot more educated in that area, but he comes up with the same queries.
   translation:
-    text: 我不夠資格當科學家，我聽從我的同事 Barrett 眾議員的意見，他在那個領域受過更多教育，但他提出的也是同樣的疑問。
+    text: 我不夠資格當科學家，我聽從我的同事巴特利特眾議員的意見，他在那個領域受過更多教育，但他提出的也是同樣的疑問。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Barrett 經查證聽證會小組名單確認為 Bartlett（巴特利特），時任科學委員會委員
   metadata:
     topic_id: topic_08
     speaker_hint: null
@@ -12647,10 +12647,10 @@ segments:
     end: 01:31:14,720
   source_text: We could go to Representative Kilpatrick.
   translation:
-    text: 我們請 Kilpatrick 議員發言。
+    text: 我們請基爾派翠克議員發言。
     status: completed
     confidence: high
-    notes: null
+    notes: Kilpatrick 依主表譯為基爾派翠克
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -13059,7 +13059,7 @@ segments:
     end: 01:34:45,960
   source_text: The defense budget is $700 billion of that.
   translation:
-    text: 其中國防預算佔了 7，000 億美元。
+    text: 其中國防預算佔了 7,000 億美元。
     status: completed
     confidence: high
     notes: null
@@ -13213,10 +13213,10 @@ segments:
     end: 01:35:12,960
   source_text: Our country is economically, socially, and economically at a disadvantage right now.
   translation:
-    text: 我們的國家在經濟上、社會上、以及經濟上都處於劣勢。
+    text: 我們的國家目前在經濟上、社會上都處於劣勢。
     status: completed
     confidence: high
-    notes: null
+    notes: 講者口誤重複 economically 兩次，譯文去蕪存菁
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -13282,10 +13282,10 @@ segments:
     end: 01:35:34,400
   source_text: That's what's wrong with our nation, I think, and our country, and our world.
   translation:
-    text: 我認為這就是我們國家、我們的國家、我們的世界所存在的問題。
+    text: 我認為這就是我們的國家、我們的世界所存在的問題。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 nation 與 country 同義重複，譯文合併
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -13388,10 +13388,10 @@ segments:
     end: 01:36:17,680
   source_text: I think Mr. Coran, if I'm pronouncing that right, Coran, you said something about proof.
   translation:
-    text: 我想 Coran 先生，如果我發音正確的話，Coran，你說過關於證據的事情。
+    text: 我想庫蘭特先生——如果我發音正確的話——你提過關於證據的事。
     status: completed
     confidence: high
-    notes: Coran 應為 Courant
+    notes: 原文 Coran 應為 Courant（庫蘭特）
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -13457,10 +13457,10 @@ segments:
     end: 01:36:34,700
   source_text: Is there an extra SAO presence in the world?
   translation:
-    text: 世界上是否有外星智慧生物 (extraterrestrial) 的存在？
+    text: 世界上是否有外星生命 (extraterrestrial) 的存在？
     status: completed
     confidence: medium
-    notes: SAO 應為 terrestrial 或 extraterrestrial 的口誤
+    notes: SAO 應為 extraterrestrial 的轉錄錯誤
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -13826,10 +13826,10 @@ segments:
     end: 01:39:01,760
   source_text: Gordon mentioned maybe it was our UFOs, which said to me, and I think it's one of the two of you guys, gentlemen, that it might have been one of our UFOs, which to me says to me, America's UFOs.
   translation:
-    text: Gordon 提到也許那是我們的不明飛行物，這讓我想到，我想你們兩位先生中有一位說過，那可能是我們的不明飛行物，對我來說這意味著是美國的不明飛行物。
+    text: 戈登提到也許那是我們的不明飛行物，這讓我想到，我想你們兩位先生中有一位說過，那可能是我們的不明飛行物，對我來說這意味著是美國的不明飛行物。
     status: completed
     confidence: high
-    notes: null
+    notes: Gordon 指戈登·庫珀
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -14314,10 +14314,10 @@ segments:
     end: 01:41:23,760
   source_text: Right, okay, and do we have, is there, and I know there were newspaper reports of exactly what you said.
   translation:
-    text: 好的，我們有，有沒有，而且我知道報紙上報導了你所說的內容。
+    text: 好的，我們有沒有——我知道報紙上確實報導了你所說的情況。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文口語破碎，已潤飾
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -14524,7 +14524,7 @@ segments:
     end: 01:43:08,840
   source_text: Well, obviously, we have stealth technology now, where that came from, I'm not going to speculate on, but I know they just had a site, it's in the news this week, Airbus Aircraft British coming into Glasgow, Scotland, December 2nd, and it just broke in the news yesterday or two days ago, and they were at 4,000 feet, and this disc-shaped thing came under them with, you know, strange lights and all that, and they never got any warning from their TCAS system or wasn't on radar.
   translation:
-    text: 嗯，顯然，我們現在有隱形技術，它從哪裡來的，我不會推測，但我知道他們剛剛有一個事件，本週新聞報導了，英國空中巴士飛機在 12 月 2 日飛入蘇格蘭格拉斯哥，昨天或前天新聞才報導出來，他們在 4，000 英呎高度，這個碟形東西從他們下方飛過，有奇怪的光等等，他們的空中防撞系統 (TCAS) 完全沒有發出警告，雷達上也沒有顯示。
+    text: 嗯，顯然，我們現在有隱形技術，它從哪裡來的，我不會推測，但我知道他們剛剛有一個事件，本週新聞報導了，英國空中巴士飛機在 12 月 2 日飛入蘇格蘭格拉斯哥，昨天或前天新聞才報導出來，他們在 4,000 英呎高度，這個碟形東西從他們下方飛過，有奇怪的光等等，他們的空中防撞系統 (TCAS) 完全沒有發出警告，雷達上也沒有顯示。
     status: completed
     confidence: high
     notes: null
@@ -14637,10 +14637,10 @@ segments:
     end: 01:44:08,240
   source_text: If you're wondering about articles from around -- since the '50s, Rob Simone did an excellent job on UFOs and the headlines, real reporting on a real phenomena.
   translation:
-    text: 如果你想知道從 50 年代以來的文章，Rob Simone 在不明飛行物和頭條新聞方面做了出色的工作，對真實現象的真實報導。
+    text: 如果你想知道從 50 年代以來的文章，羅布·西蒙尼（Rob Simone）在不明飛行物和頭條新聞方面做了出色的工作，對真實現象的真實報導。
     status: completed
     confidence: high
-    notes: null
+    notes: Rob Simone 主表未收錄，採音譯
   metadata:
     topic_id: topic_09
     speaker_hint: null
@@ -16055,7 +16055,7 @@ segments:
     end: 01:51:24,860
   source_text: If it's a UFO, and he's traveling at 3,000, 4,000 miles an hour, when you look at your scope, you see him here, okay?
   translation:
-    text: 如果是不明飛行物，它以每小時 3，000、4，000 英里的速度飛行，當你看你的螢幕時，你看到他在這裡，對吧？
+    text: 如果是不明飛行物，它以每小時 3,000、4,000 英里的速度飛行，當你看你的螢幕時，你看到他在這裡，對吧？
     status: completed
     confidence: high
     notes: null

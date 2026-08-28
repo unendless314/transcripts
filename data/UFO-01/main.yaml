@@ -25,7 +25,7 @@ segments:
     end: 00:00:30,560
   source_text: And we are, as Chairman Bartlett said, we're going to be sitting like we are in committee, and we're going to pattern what we're doing today after a formal congressional hearing.
   translation:
-    text: 如同巴特利特主席所言，我們將以委員會的形式就座，今天的活動將仿照正式的國會聽證會進行。
+    text: 如同巴特利特主席（Roscoe Bartlett）所言，我們將以委員會的形式就座，今天的活動將仿照正式的國會聽證會進行。
     status: completed
     confidence: high
     notes: null
@@ -43,7 +43,7 @@ segments:
     end: 00:00:42,440
   source_text: And first of all, we have with us Congresswoman Darlene Hooley, and we have Senator Gravel, Mike Gravel.
   translation:
-    text: 首先，我們有眾議員 Darlene Hooley，以及參議員 Mike Gravel。
+    text: 首先，我們有胡利眾議員（Darlene Hooley），以及麥克·格拉維爾參議員（Mike Gravel）。
     status: completed
     confidence: high
     notes: null
@@ -61,7 +61,7 @@ segments:
     end: 00:00:55,080
   source_text: We have Congresswoman Carolyn Kilpatrick, and we have Congressman Merrill Cook.
   translation:
-    text: 我們有眾議員 Carolyn Kilpatrick，以及眾議員 Merrill Cook。
+    text: 我們有卡蘿琳·基爾派翠克眾議員（Carolyn Kilpatrick），以及梅里爾·庫克眾議員（Merrill Cook）。
     status: completed
     confidence: high
     notes: null
@@ -112,7 +112,7 @@ segments:
     end: 00:01:11,840
   source_text: And Roscoe and I, we're classmates.
   translation:
-    text: Roscoe 和我是同學。
+    text: 羅斯科和我是同學。
     status: completed
     confidence: high
     notes: null
@@ -202,7 +202,7 @@ segments:
     end: 00:02:16,080
   source_text: And right now, though, we get to swear in the first two witnesses.
   translation:
-    text: 現在，我們要宣誓前兩位證人。
+    text: 現在，我們要請首批兩位證人宣誓。
     status: completed
     confidence: high
     notes: null
@@ -219,7 +219,7 @@ segments:
     end: 00:02:24,040
   source_text: And initially, I think, Dr. Edgar Mitchell will be brought in on Skype.
   translation:
-    text: 首先，我認為，艾德加·米切爾博士將透過 Skype 加入。
+    text: 首先，我認為，艾德加·米切爾博士（Dr. Edgar Mitchell）將透過 Skype 加入。
     status: completed
     confidence: high
     notes: null
@@ -270,7 +270,7 @@ segments:
     end: 00:02:34,680
   source_text: I am a former astronaut, flew to the moon on Apollo 14.
   translation:
-    text: 我是前太空人，曾搭乘阿波羅 14 號登月。
+    text: 我是前太空人，曾搭乘阿波羅 14 號（Apollo 14）登月。
     status: completed
     confidence: high
     notes: null
@@ -287,7 +287,7 @@ segments:
     end: 00:02:56,400
   source_text: And so I have a little bit of out-of-the-earth experience, but also I grew up near Roswell, New Mexico on a ranch, and the so-called Roswell incident of 1947 occurred when I was a senior in high school and getting ready to go off to college in the East.
   translation:
-    text: 因此我有一些離開地球的經驗，但我也在新墨西哥州 Roswell 附近的牧場長大，1947 年所謂的羅斯威爾事件發生時，我正就讀高中最後一年，準備前往東部上大學。
+    text: 因此我有一些離開地球的經驗，但我也在新墨西哥州羅斯威爾（Roswell）附近的牧場長大，1947 年所謂的羅斯威爾事件發生時，我正就讀高中最後一年，準備前往東部上大學。
     status: completed
     confidence: high
     notes: null
@@ -327,7 +327,7 @@ segments:
     end: 00:03:54,640
   source_text: And we have a history that I'm aware of, particularly starting with the Roswell incident, but even long before that, that we have been visited by aliens or visitors from different star systems and different planets.
   translation:
-    text: 據我所知，我們有一段歷史，特別是從羅斯威爾事件開始，但甚至在那之前很久，我們就一直被來自不同星系和不同星球的外星人或訪客造訪。
+    text: 據我所知，我們有一段歷史，特別是從羅斯威爾事件開始，但甚至在那之前很久，我們就一直被來自不同恆星系統和不同星球的外星人或訪客造訪。
     status: completed
     confidence: high
     notes: null
@@ -424,7 +424,7 @@ segments:
     end: 00:05:12,320
   source_text: We have been having visitors for a long, long time, perhaps hundreds, maybe even thousands of years.
   translation:
-    text: 我們接受訪客造訪已經很長、很長時間了，也許數百年，甚至可能數千年。
+    text: 訪客造訪我們已經很長、很長時間了，也許數百年，甚至可能數千年。
     status: completed
     confidence: high
     notes: null
@@ -534,7 +534,7 @@ segments:
     end: 00:06:07,800
   source_text: We can't go there, and in due course, we will.
   translation:
-    text: 我們目前還無法前往那裡，但最終我們會做到。
+    text: 我們目前還無法前往那裡，但終有一天我們也能前往。
     status: completed
     confidence: high
     notes: null
@@ -551,10 +551,10 @@ segments:
     end: 00:06:32,320
   source_text: And for the last, I've been very interested in this for the last 16 or 17 years on a basis of speaking about it publicly, and since I went to the moon 47 years ago, and my co-colleague Gordon Cooper also had an incident when he was at Edwards Air Force Base as a duty officer at a UFO land while he was on duty.
   translation:
-    text: 在過去 16 或 17 年裡，我一直對此非常感興趣，並公開談論這個話題，自從我 47 年前登月以來，我的同事 Gordon Cooper 在 Edwards 空軍基地擔任值勤官時，也曾在值勤期間目擊一架 UFO 降落。
+    text: 在過去 16 或 17 年裡，我一直對此非常感興趣，並公開談論這個話題，自從我 47 年前登月以來，我的同事高登·庫珀在愛德華茲空軍基地擔任值勤官時，也曾在值勤期間目擊一架 UFO 降落。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文「47 年前登月」與事實有出入：阿波羅 14 號登月為 1971 年，距 2013 年聽證會應約 42 年，疑為轉錄誤聽或講者口誤，保留原數字
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -674,7 +674,7 @@ segments:
     end: 00:07:06,200
   source_text: I'm Paul Hellyer, former Minister of Defense of Canada.
   translation:
-    text: 我是 Paul Hellyer，加拿大前國防部長。
+    text: 我是保羅·赫勒（Paul Hellyer），加拿大前國防部長。
     status: completed
     confidence: high
     notes: null
@@ -813,7 +813,7 @@ segments:
     end: 00:08:22,640
   source_text: Whether to your friends or family or to the citizens of nations, I believe this citizens hearing serves that purpose, and like my friend, Edgar Mitchell, I say without equivocation, we are not alone in the cosmos.
   translation:
-    text: 無論是對你的朋友、家人，還是對各國公民，我相信這場公民聽證會正是為了這個目的，而且就像我的朋友 Edgar Mitchell 一樣，我毫不含糊地說，我們在宇宙中並不孤單。
+    text: 無論是對你的朋友、家人，還是對各國公民，我相信這場公民聽證會正是為了這個目的，而且就像我的朋友艾德加·米切爾一樣，我毫不含糊地說，我們在宇宙中並不孤單。
     status: completed
     confidence: high
     notes: null
@@ -900,7 +900,7 @@ segments:
     end: 00:08:45,520
   source_text: I think it was about 33 years ago I was camping in West Virginia on a mountain 4,000 feet high.
   translation:
-    text: 我想那是大約 33 年前，我在西維吉尼亞州一座 4，000 英呎高的山上露營。
+    text: 我想那是大約 33 年前，我在西維吉尼亞州一座 4,000 英呎高的山上露營。
     status: completed
     confidence: high
     notes: null
@@ -1037,7 +1037,7 @@ segments:
     end: 00:09:12,060
   source_text: If the Milky Way was the United States, we're a fairly mediocre star somewhere in South Georgia.
   translation:
-    text: 如果把銀河比作美國，我們就是南喬治亞州某處一顆相當普通的恆星。
+    text: 如果把銀河比作美國，我們就是喬治亞州南部某處一顆相當普通的恆星。
     status: completed
     confidence: high
     notes: null
@@ -1091,8 +1091,8 @@ segments:
   translation:
     text: 我在 66 年前取得博士學位。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文「66 年前」疑為轉錄誤聽：講者應為 Roscoe Bartlett，其於 1952 年取得博士學位，距 2013 年聽證會應約 61 年，保留原數字
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1192,7 +1192,7 @@ segments:
     end: 00:09:54,440
   source_text: If we could have Ms. Howe, Mr. Dolan, Mr. Friedman, and Mr. Cameron come forward.
   translation:
-    text: 請 Howe 女士、Dolan 先生、Friedman 先生以及 Cameron 先生上前。
+    text: 請豪女士（Linda Moulton Howe）、多蘭先生（Richard Dolan）、弗里德曼先生（Stanton Friedman）以及卡麥隆先生（Grant Cameron）上前。
     status: completed
     confidence: high
     notes: null
@@ -1226,7 +1226,7 @@ segments:
     end: 00:10:07,560
   source_text: And gentlemen and Ms. Hell, if you'd like to repeat after me, I do hereby affirm --
   translation:
-    text: 各位先生與 Howe 女士，請跟我複誦，我在此宣誓——
+    text: 各位先生與豪女士，請跟我複誦，我在此宣誓——
     status: completed
     confidence: high
     notes: 原文 Ms. Hell 是 Ms. Howe 的誤聽
@@ -1612,7 +1612,7 @@ segments:
     end: 00:13:04,840
   source_text: And yet, the military and other branches of government have created the fiction for public consumption only that the UFO problem is nothing to be concerned about, certainly not the result of little green men.
   translation:
-    text: 然而，軍方和其他政府部門僅為公眾消費創造了一個虛構說法，聲稱 UFO 問題不值得關注，當然也不是小綠人所為。
+    text: 然而，軍方和其他政府部門編造了一個只說給公眾聽的虛構說法，聲稱 UFO 問題不值得關注，當然也不是小綠人所為。
     status: completed
     confidence: high
     notes: null
@@ -1631,7 +1631,7 @@ segments:
     end: 00:13:17,200
   source_text: We are fortunate that starting in the 1970s, the US Freedom of Information Act began to help researchers learn some of the truth that lay behind the facade of propaganda.
   translation:
-    text: 幸運的是，從 1970 年代開始，美國資訊自由法開始幫助研究人員了解隱藏在宣傳表象背後的部分真相。
+    text: 幸運的是，從 1970 年代開始，美國資訊自由法（FOIA）開始幫助研究人員了解隱藏在宣傳表象背後的部分真相。
     status: completed
     confidence: high
     notes: null
@@ -1736,7 +1736,7 @@ segments:
     end: 00:14:01,680
   source_text: Already by the end of 1947, a contingent of analysts at the Air Technical Intelligence Center, ATIC, at Wright-Patterson Air Force Base, believed that UFOs were extraterrestrial.
   translation:
-    text: 早在 1947 年底，萊特-帕特森空軍基地空軍技術情報中心（ATIC）的一批分析師就相信 UFO 具有外星起源。
+    text: 早在 1947 年底，萊特-帕特森空軍基地（Wright-Patterson Air Force Base）空軍技術情報中心（ATIC）的一批分析師就相信 UFO 具有外星起源。
     status: completed
     confidence: high
     notes: null
@@ -1842,7 +1842,7 @@ segments:
     end: 00:14:42,240
   source_text: Here is one from General Robert B. Landry, Air Force aide to President Harry S. Truman.
   translation:
-    text: 這裡有一個來自羅伯特·B·蘭德里將軍的聲明，他是杜魯門總統的空軍助理。
+    text: 這裡有一個來自羅伯特·B·蘭德里將軍（General Robert B. Landry）的聲明，他是杜魯門總統（President Truman）的空軍助理。
     status: completed
     confidence: high
     notes: null
@@ -2042,10 +2042,10 @@ segments:
     end: 00:17:02,080
   source_text: And one more quote from the early years, this one from a former head of the CIA, Roscoe Hillenkoetter, speaking in 1960, "Behind the scenes, high ranking Air Force officers are soberly concerned about UFOs, but through official secrecy and ridicule, many citizens are led to believe the unknown flying objects are nonsense."
   translation:
-    text: 還有一段早期的引文，這段來自 CIA 前局長羅斯科·希倫庫特，他在 1960 年說：「在幕後，高階空軍軍官嚴肅地關注 UFO，但透過官方保密與嘲笑，許多公民被引導相信這些不明飛行物體是無稽之談。」
+    text: 還有一段早期的引文，這段來自 CIA 前局長羅斯科·希倫科特（Roscoe Hillenkoetter），他在 1960 年說：「在幕後，高階空軍軍官嚴肅地關注 UFO，但透過官方保密與嘲笑，許多公民被引導相信這些不明飛行物體是無稽之談。」
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Roscoe Hillencutter 為 Hillenkoetter 之誤拼（首任 CIA 局長），譯名以正確拼寫為準
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2099,7 +2099,7 @@ segments:
     end: 00:17:40,080
   source_text: During the summer of 2002, just outside this city, over the town of Waldorf of Maryland, dozens of witnesses reported an incredible scene.
   translation:
-    text: 2002 年夏天，就在這座城市外，在馬里蘭州沃爾多夫鎮上空，數十名目擊者報告了一個令人難以置信的景象。
+    text: 2002 年夏天，就在這座城市外，在馬里蘭州沃爾多夫鎮（Waldorf, Maryland）上空，數十名目擊者報告了一個令人難以置信的景象。
     status: completed
     confidence: high
     notes: null
@@ -2188,7 +2188,7 @@ segments:
     end: 00:18:23,880
   source_text: The Air Force conclusion was that it could have been "any number of things."
   translation:
-    text: 空軍的結論是這可能是「任何數量的東西」。
+    text: 空軍的結論是它「可能是任何東西」。
     status: completed
     confidence: high
     notes: null
@@ -2222,7 +2222,7 @@ segments:
     end: 00:18:39,360
   source_text: What blue object can descend at an 80 degree angle, stop, reverse course, and accelerate away from two F-16 jets near the nation's capital in post-9/11 America?
   translation:
-    text: 什麼藍色物體能夠以 80 度角下降、停止、反轉方向，然後在 9/11 後的美國首都附近加速遠離兩架 F-16 噴射機？
+    text: 什麼藍色物體能夠以 80 度角下降、停止、反轉方向，然後在 9/11 事件後的美國首都附近加速遠離兩架 F-16 戰機？
     status: completed
     confidence: high
     notes: null
@@ -2257,7 +2257,7 @@ segments:
     end: 00:18:45,200
   source_text: Over Chicago, O'Hare Airport.
   translation:
-    text: 在芝加哥歐海爾機場上空。
+    text: 在芝加哥歐海爾機場（O'Hare Airport）上空。
     status: completed
     confidence: high
     notes: null
@@ -2413,7 +2413,7 @@ segments:
     end: 00:19:50,640
   source_text: The two largest websites for collecting North American UFO reports, the National UFO Reporting Center and the Mutual UFO Network, have a combined total of well over 10,000 reports every year.
   translation:
-    text: 收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心和 UFO 互動網絡，每年合計收到遠超過 10，000 份報告。
+    text: 收集北美 UFO 報告的兩個最大網站，國家 UFO 報告中心（National UFO Reporting Center）和 UFO 互動網路（MUFON），每年合計收到遠超過 10,000 份報告。
     status: completed
     confidence: high
     notes: null
@@ -2501,7 +2501,7 @@ segments:
     end: 00:20:13,000
   source_text: They are unexplained, and at least by our conventional wisdom, unexplainable.
   translation:
-    text: 它們無法解釋，至少以我們的常規智慧而言，無法解釋。
+    text: 它們尚未獲得解釋，而至少以我們的常規認知而言，是無法解釋的。
     status: completed
     confidence: high
     notes: null
@@ -2518,7 +2518,7 @@ segments:
     end: 00:20:29,200
   source_text: The combination of astonishing performance, powerful statements from selected senior officials, and unremitting silence and dismissal by our political establishment point to a problem.
   translation:
-    text: 驚人的性能表現、精選高階官員的有力聲明，以及政治體制持續不斷的沉默與否認，這些結合在一起指向一個問題。
+    text: 驚人的性能表現、特定高階官員的有力聲明，以及政治體制持續不斷的沉默與否認，這些結合在一起指向一個問題。
     status: completed
     confidence: high
     notes: null
@@ -2691,7 +2691,7 @@ segments:
     end: 00:21:36,200
   source_text: I'm the director of the President's UFO website.
   translation:
-    text: 我是總統 UFO 網站的負責人。
+    text: 我是總統 UFO 網站（President's UFO Website）的負責人。
     status: completed
     confidence: high
     notes: null
@@ -2708,7 +2708,7 @@ segments:
     end: 00:21:49,320
   source_text: As Steve Bassett mentioned, the Obama administration has come out with an official statement saying there is no ET evidence for an interaction with ET's and there is no cover-up.
   translation:
-    text: 如同 Steve Bassett 所提到的，歐巴馬政府發布了一份官方聲明，表示沒有與外星人互動的證據，也沒有真相掩蓋。
+    text: 如同史蒂夫·巴塞特（Stephen Bassett）所提到的，歐巴馬（Barack Obama）政府發布了一份官方聲明，表示沒有與外星人互動的證據，也沒有真相掩蓋。
     status: completed
     confidence: high
     notes: null
@@ -2871,7 +2871,7 @@ segments:
     end: 00:23:27,520
   source_text: They were provided with a number of films and pictures, including a film of extraterrestrials landing at Holloman Air Force Base, of which they used eight seconds in the final production.
   translation:
-    text: 他們獲得了多部影片和照片，包括一部外星人在霍洛曼空軍基地降落的影片，其中他們在最終製作中使用了八秒鐘。
+    text: 他們獲得了多部影片和照片，包括一部外星人在霍洛曼空軍基地（Holloman Air Force Base）降落的影片，其中他們在最終製作中使用了八秒鐘。
     status: completed
     confidence: high
     notes: null
@@ -2925,7 +2925,7 @@ segments:
     end: 00:24:00,840
   source_text: A CIA agent was present through the entire production, and as Linda Howe can testify, she saw a letter to one of the producers from President Richard Nixon thanking him for his cooperation on the project.
   translation:
-    text: 一位 CIA 特工在整個製作過程中都在場，而且如同 Linda Howe 可以作證的，她看到一封尼克森總統寫給其中一位製作人的信，感謝他在這個專案上的合作。
+    text: 一位 CIA 特工在整個製作過程中都在場，而且如同琳達·豪可以作證的，她看到一封尼克森總統（President Nixon）寫給其中一位製作人的信，感謝他在這個專案上的合作。
     status: completed
     confidence: high
     notes: null
@@ -2944,7 +2944,7 @@ segments:
     end: 00:24:23,000
   source_text: Former Senator Barry Goldwater wrote extensively on UFOs, such as in 1975 when he wrote about his friend General Curtis LeMay, who refused him access in 1964 to the Blue Room at Wright Patterson Air Force Base, where alien hardware and bodies were rumored to have been held.
   translation:
-    text: 前參議員貝利·高華德廣泛撰寫關於 UFO 的文章，例如 1975 年他寫到他的朋友柯蒂斯·李梅將軍，將軍在 1964 年拒絕他進入萊特-帕特森空軍基地的藍色機密房，據傳該處存放著外星硬體和遺體。
+    text: 前參議員貝利·高華德（Senator Barry Goldwater）廣泛撰寫關於 UFO 的文章，例如 1975 年他寫到他的朋友柯蒂斯·李梅將軍（General Curtis LeMay），將軍在 1964 年拒絕他進入萊特-帕特森空軍基地的藍色機密房（Blue Room），據傳該處存放著外星硬體和遺體。
     status: completed
     confidence: high
     notes: null
@@ -3017,7 +3017,7 @@ segments:
     end: 00:25:08,000
   source_text: In another letter, Goldwater wrote, "I have no idea who controls the flow of need to know because, frankly, I was told in such an emphatic way that it was none of my business that I've never tried to make it my business since."
   translation:
-    text: 在另一封信中，高華德寫道：「我不知道誰控制著知情權的流通，因為坦白說，我被如此強硬地告知這不關我的事，以至於從那以後我再也沒有試圖讓它成為我的事。」
+    text: 在另一封信中，高華德寫道：「我不知道誰控制著需知資訊的流通，因為坦白說，我被如此強硬地告知這不關我的事，以至於從那以後我再也沒有試圖讓它成為我的事。」
     status: completed
     confidence: high
     notes: null
@@ -3057,8 +3057,8 @@ segments:
   translation:
     text: 那些等待總統站出來宣布外星人存在的人應該知道，這件事已經在 1981 年 6 月 27 日發生了。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 1981 年疑為 1982 年之誤：《E.T. 外星人》1982 年 6 月 11 日上映，白宮放映會記錄為 1982 年 6 月 27 日（月日與原文相符），保留原數字
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3073,7 +3073,7 @@ segments:
     end: 00:25:44,000
   source_text: Steven Spielberg stated that after the screening of ET, the extraterrestrial, in the White House Theatre, Reagan "just stood up and looked around the room, almost like he was doing a head count.
   translation:
-    text: 史蒂芬·史匹柏表示，在白宮劇院放映《E.T. 外星人》之後，雷根「站了起來，環顧房間，幾乎像是在清點人數。
+    text: 史蒂芬·史匹柏（Steven Spielberg）表示，在白宮劇院放映《E.T. 外星人》之後，雷根（President Reagan）「站了起來，環顧房間，幾乎像是在清點人數。
     status: completed
     confidence: high
     notes: null
@@ -3161,7 +3161,7 @@ segments:
     end: 00:26:11,200
   source_text: If you check the files of the Bush Library, you'll find nothing on UFOs.
   translation:
-    text: 如果你查閱布希圖書館的檔案，你不會找到任何關於 UFO 的資料。
+    text: 如果你查閱布希（George H.W. Bush）圖書館的檔案，你不會找到任何關於 UFO 的資料。
     status: completed
     confidence: high
     notes: null
@@ -3213,7 +3213,7 @@ segments:
     end: 00:26:32,040
   source_text: Likewise, I have a video of Vice President Dan Quayle stating, "The alien situation is very interesting.
   translation:
-    text: 同樣地，我有一段副總統丹·奎爾的影片，他說：「外星情況非常有趣。
+    text: 同樣地，我有一段副總統丹·奎爾（Dan Quayle）的影片，他說：「外星情況非常有趣。
     status: completed
     confidence: high
     notes: null
@@ -3248,7 +3248,7 @@ segments:
     end: 00:26:47,760
   source_text: In April 2001, I asked Vice President Dick Cheney if he had been ever briefed on the subject of UFOs while he was on the Diane Rehm Show here in Washington.
   translation:
-    text: 2001 年 4 月，我在華盛頓的 Diane Rehm 節目中詢問副總統迪克·錢尼，他是否曾接受過關於 UFO 主題的簡報。
+    text: 2001 年 4 月，我在華盛頓的 Diane Rehm 節目中詢問副總統迪克·錢尼（Dick Cheney），他是否曾接受過關於 UFO 主題的簡報。
     status: completed
     confidence: high
     notes: 原文 Diana Ream show 應為 Diane Rehm Show
@@ -3303,7 +3303,7 @@ segments:
     end: 00:27:20,000
   source_text: This might be because neither he nor anybody in his office saw the petition on ET question despite the fact that over 12,000 people signed the petition addressed to the President.
   translation:
-    text: 這可能是因為儘管有超過 12，000 人簽署了致總統的外星人問題請願書，但他本人和辦公室裡的任何人都沒有看到這份請願書。
+    text: 這可能是因為儘管有超過 12,000 人簽署了致總統的外星人問題請願書，但他本人和辦公室裡的任何人都沒有看到這份請願書。
     status: completed
     confidence: high
     notes: null
@@ -3321,7 +3321,7 @@ segments:
     end: 00:27:32,200
   source_text: During a visit to Roswell, New Mexico in 2012, President Obama referred to the White House -- to the Roswell crash saying, "We're going to keep our secrets here."
   translation:
-    text: 2012 年在訪問新墨西哥州 Roswell 期間，歐巴馬總統提到白宮——提到羅斯威爾墜毀事件時說：「我們要在這裡保守我們的秘密。」
+    text: 2012 年在訪問新墨西哥州羅斯威爾期間，歐巴馬總統提到白宮——提到羅斯威爾墜毀事件時說：「我們要在這裡保守我們的秘密。」
     status: completed
     confidence: high
     notes: null
@@ -3357,10 +3357,10 @@ segments:
     end: 00:27:51,920
   source_text: Then during a White House tour, President Obama anticipated a question that actor Will Smith's son Jaden wanted to ask about the reality of extraterrestrials.
   translation:
-    text: 然後在一次白宮參觀期間，歐巴馬總統預料到演員 Will Smith 的兒子 Jayden 想要詢問關於外星人真實性的問題。
+    text: 然後在一次白宮參觀期間，歐巴馬總統預料到演員威爾·史密斯（Will Smith）的兒子傑登（Jaden Smith）想要詢問關於外星人真實性的問題。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Jayden 應為 Jaden（傑登·史密斯）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3375,7 +3375,7 @@ segments:
     end: 00:27:58,560
   source_text: When they arrived in the White House situation room, the President said to Jayden, "I know what you want to ask.
   translation:
-    text: 當他們抵達白宮戰情室時，總統對 Jayden 說：「我知道你想問什麼。
+    text: 當他們抵達白宮戰情室時，總統對傑登說：「我知道你想問什麼。
     status: completed
     confidence: high
     notes: null
@@ -3413,7 +3413,7 @@ segments:
     text: 我既不能確認也不能否認外星人曾造訪過地球。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 conform 應為 confirm（neither confirm nor deny 為慣用語）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -3445,7 +3445,7 @@ segments:
     end: 00:28:24,800
   source_text: Then there is the story of Area 51, covered by 19-time Emmy Award-winning investigative reporter George Knapp, who has spent years covering the story.
   translation:
-    text: 然後還有 51 區的故事，由 19 次艾美獎得主調查記者喬治·奈普報導，他花了多年時間追蹤這個故事。
+    text: 然後還有 51 區（Area 51）的故事，由 19 次艾美獎得主調查記者喬治·奈普（George Knapp）報導，他花了多年時間追蹤這個故事。
     status: completed
     confidence: high
     notes: null
@@ -3482,7 +3482,7 @@ segments:
     end: 00:28:58,680
   source_text: He has also revealed during interviews that he had a discussion with Senator Howard Cannon shortly before his death, and that Howard Cannon basically confirmed to him that he had talked to Goldwater and the stories were true.
   translation:
-    text: 他還在訪談中透露，他在參議員 Howard Cannon 去世前不久與他進行過討論，Howard Cannon 基本上向他確認，他曾與高華德談過，而那些故事是真的。
+    text: 他還在訪談中透露，他在霍華德·坎農參議員去世前不久與他進行過討論，坎農基本上向他確認，他曾與高華德談過，而那些故事是真的。
     status: completed
     confidence: high
     notes: null
@@ -3519,7 +3519,7 @@ segments:
     end: 00:29:23,200
   source_text: Finally, in July 2012, Chase Brandon, a 42-year veteran of the CIA, was a guest of the 2 million listeners of the overnight radio talk show called "Coast to Coast."
   translation:
-    text: 最後，2012 年 7 月，CIA 42 年資深人員蔡斯·布蘭登成為擁有 200 萬聽眾的深夜電台談話節目 Coast to Coast 的嘉賓。
+    text: 最後，2012 年 7 月，CIA 42 年資深人員蔡斯·布蘭登（Chase Brandon）成為擁有 200 萬聽眾的深夜電台談話節目 Coast to Coast 的嘉賓。
     status: completed
     confidence: high
     notes: null
@@ -3555,7 +3555,7 @@ segments:
     end: 00:29:46,720
   source_text: To quote Chase Brandon, "I absolutely know, as I sit here talking to you, that there was a craft beyond this world that crashed at Roswell, and that the military picked up the remains of not just a wreckage, but of cadavers.
   translation:
-    text: 引用蔡斯·布蘭登的話：「我絕對知道，當我坐在這裡與你交談時，有一架來自地球以外的飛行器在 Roswell 墜毀，而且軍方不僅回收了殘骸，還回收了屍體。
+    text: 引用蔡斯·布蘭登的話：「我絕對知道，當我坐在這裡與你交談時，有一架來自地球以外的飛行器在羅斯威爾墜毀，而且軍方不僅回收了殘骸，還回收了屍體。
     status: completed
     confidence: high
     notes: null
@@ -3659,7 +3659,7 @@ segments:
     end: 00:30:32,840
   source_text: As a retired nuclear physicist who has been studying the evidence about UFOs since 1958 and since 1967 has given well over 700 lectures in all 50 states, 10 Canadian provinces and 18 other countries, I've reached four major conclusions.
   translation:
-    text: 作為一位退休的核子物理學家，自 1958 年以來一直在研究有關不明飛行物 (UFO) 的證據，並且自 1967 年以來已在全美 50 個州、加拿大 10 個省份以及其他 18 個國家進行了超過 700 場演講，我得出了四個主要結論。
+    text: 作為一位退休的核物理學家，自 1958 年以來一直在研究有關不明飛行物 (UFO) 的證據，並且自 1967 年以來已在全美 50 個州、加拿大 10 個省份以及其他 18 個國家進行了超過 700 場演講，我得出了四個主要結論。
     status: completed
     confidence: high
     notes: null
@@ -3904,7 +3904,7 @@ segments:
     end: 00:31:56,640
   source_text: These include Project Blue Book Special Report Number 14, the largest study ever done for the United States Air Force, covering more than 3,200 cases with more than 200 charts, tables, graphs, and maps.
   translation:
-    text: 其中包括藍皮書計畫特別報告14號 (Project Blue Book Special Report Number 14)，這是為美國空軍進行的最大規模研究，涵蓋超過 3，200 個案例，包含超過 200 個圖表、表格、圖形與地圖。
+    text: 其中包括藍皮書計畫特別報告 14 號 (Project Blue Book Special Report Number 14)，這是為美國空軍進行的最大規模研究，涵蓋超過 3,200 個案例，包含超過 200 個圖表、表格、圖形與地圖。
     status: completed
     confidence: high
     notes: null
@@ -3923,7 +3923,7 @@ segments:
     end: 00:32:01,280
   source_text: It is quality evaluation, cross-comparison between unknowns and knowns.
   translation:
-    text: 這是一個質量評估，對未知案例與已知案例進行交叉比較。
+    text: 這是一個品質評估，對未知案例與已知案例進行交叉比較。
     status: completed
     confidence: high
     notes: null
@@ -3993,7 +3993,7 @@ segments:
     end: 00:32:37,080
   source_text: This statement was not backed up by reference to data, but is directly contradicted by the Blue Book Special Report 14 data.
   translation:
-    text: 這個說法並沒有數據支持，反而與藍皮書特別報告14號的數據直接矛盾。
+    text: 這個說法並沒有數據支持，反而與藍皮書特別報告 14 號的數據直接矛盾。
     status: completed
     confidence: high
     notes: null
@@ -4294,7 +4294,7 @@ segments:
     end: 00:35:06,480
   source_text: He noted physical trace cases of which, by now, more than 5,000 have been collected by Ted Phillips from 95 countries.
   translation:
-    text: 他注意到了物理痕跡案例，至今 Ted Phillips 已從 95 個國家收集了超過 5，000 個此類案例。
+    text: 他注意到了物理痕跡案例，至今泰德·菲利普斯已從 95 個國家收集了超過 5,000 個此類案例。
     status: completed
     confidence: high
     notes: null
@@ -4365,7 +4365,7 @@ segments:
     end: 00:35:36,680
   source_text: I was the youngest contributor to those, and I think the only survivor since then, to those hearings in 1968.
   translation:
-    text: 我是 1968 年那些聽證會中最年輕的貢獻者，我想我也是至今唯一的倖存者。
+    text: 我是 1968 年那些聽證會中最年輕的參與者，我想我也是至今唯一的倖存者。
     status: completed
     confidence: high
     notes: null
@@ -4417,7 +4417,7 @@ segments:
     end: 00:36:00,360
   source_text: One of the contributors was Dr. J. Allen Hynek, chairman of the astronomy department at Northwestern University, and for 20 years, United States Air Force scientific consultant to Project Blue Book.
   translation:
-    text: 其中一位貢獻者是 Dr. J. Allen Hynek，他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。
+    text: 其中一位參與者是 J·艾倫·海尼克博士（Dr. J. Allen Hynek），他是西北大學天文學系主任，並且擔任美國空軍藍皮書計畫 (Project Blue Book) 的科學顧問長達 20 年。
     status: completed
     confidence: high
     notes: null
@@ -4454,7 +4454,7 @@ segments:
     end: 00:36:41,280
   source_text: According to another source here, according to a special UFO subcommittee of the American Institute of Aeronautics and Astronautics, world's largest group of space scientists, 30% of the 117 cases studied by the University of Colorado, government-sponsored study in the late '60s, and discussed in the Condon Report, Edward U. Condon, could not be identified, and yet the headline said, "Scientific study shows no UFOs."
   translation:
-    text: 根據另一個資料來源，根據美國航空航天學會——世界最大的太空科學家團體——的 UFO 特別小組委員會，科羅拉多大學在 60 年代後期進行的政府資助研究中所研究的 117 個案例中，有 30% 無法被識別，而這些案例在 Edward U. Condon 的康登報告 (Condon Report) 中有討論，但頭條卻寫著「科學研究顯示沒有 UFO」。
+    text: 根據另一個資料來源，根據美國航空太空學會——世界最大的太空科學家團體——的 UFO 特別小組委員會，科羅拉多大學在 60 年代後期進行的政府資助研究中所研究的 117 個案例中，有 30% 無法被識別，而這些案例在愛德華·康登的康登報告 (Condon Report) 中有討論，但頭條卻寫著「科學研究顯示沒有 UFO」。
     status: completed
     confidence: high
     notes: null
@@ -4510,7 +4510,7 @@ segments:
     end: 00:37:04,940
   source_text: There's also the COMETA Report from France, which goes into numerous excellent officially involved cases in France.
   translation:
-    text: 還有來自法國的COMETA報告 (COMETA Report)，其中詳細介紹了許多由法國官方參與的優秀案例。
+    text: 還有來自法國的 COMETA 報告 (COMETA Report)，其中詳細介紹了許多由法國官方參與的優秀案例。
     status: completed
     confidence: high
     notes: null
@@ -4665,7 +4665,7 @@ segments:
     end: 00:37:55,460
   source_text: A really bad example of bias and ignorance appeared in Astronomy Magazine this month, May 2013, by Dr. Phil Plait.
   translation:
-    text: 一個極糟糕的偏見與無知例子出現在本月——2013 年 5 月——的《Astronomy Magazine》上，作者是 Dr. Phil Plait。
+    text: 一個極糟糕的偏見與無知例子出現在本月——2013 年 5 月——的《Astronomy Magazine》上，作者是菲爾·普萊特博士。
     status: completed
     confidence: high
     notes: null
@@ -4717,7 +4717,7 @@ segments:
     end: 00:38:29,000
   source_text: He somehow manages to mention none of the five large-scale scientific studies that I've just talked about, or any of the 5,000 physical trace cases, or any multiple witness radar visual cases, or abductions nor advanced technology studies at national labs and an industry showing trips to nearby stars in reasonable round-trip times using fusion propulsion are feasible.
   translation:
-    text: 他竟然完全沒有提及我剛才談到的五項大規模科學研究，也沒有提到任何 5，000 個物理痕跡案例，或任何多名目擊者的雷達視覺案例，或綁架案，也沒有提到國家實驗室與產業界進行的先進技術研究——這些研究顯示使用核融合推進在合理的往返時間內前往鄰近恆星是可行的。
+    text: 他竟然完全沒有提及我剛才談到的五項大規模科學研究，也沒有提到任何 5,000 個物理痕跡案例，或任何多名目擊者的雷達視覺案例，或綁架案，也沒有提到國家實驗室與產業界進行的先進技術研究——這些研究顯示使用核融合推進在合理的往返時間內前往鄰近恆星是可行的。
     status: completed
     confidence: high
     notes: null
@@ -4808,7 +4808,7 @@ segments:
     end: 00:39:12,640
   source_text: That was in 1944, in 1945, the first A-bomb, 15,000 tons of TNT, not 10.
   translation:
-    text: 那是在 1944 年，到了 1945 年，第一顆原子彈的威力相當於 15，000 噸 TNT，而不是 10 噸。
+    text: 那是在 1944 年，到了 1945 年，第一顆原子彈的威力相當於 15,000 噸 TNT，而不是 10 噸。
     status: completed
     confidence: high
     notes: null
@@ -4843,7 +4843,7 @@ segments:
     end: 00:39:29,960
   source_text: It released the energy of 10 million tons of TNT.
   translation:
-    text: 它釋放了相當於 1，000 萬噸 TNT 的能量。
+    text: 它釋放了相當於 1,000 萬噸 TNT 的能量。
     status: completed
     confidence: high
     notes: null
@@ -4860,7 +4860,7 @@ segments:
     end: 00:39:35,080
   source_text: So you go from 10 to 15,000 to 10 million tons.
   translation:
-    text: 所以你從 10 噸到 15，000 噸再到 1，000 萬噸。
+    text: 所以你從 10 噸到 15,000 噸再到 1,000 萬噸。
     status: completed
     confidence: high
     notes: null
@@ -4877,7 +4877,7 @@ segments:
     end: 00:39:39,240
   source_text: And the Russians sent off one that was 50 million tons of TNT.
   translation:
-    text: 而俄羅斯人引爆了一顆相當於 5，000 萬噸 TNT 的氫彈。
+    text: 而俄羅斯人引爆了一顆相當於 5,000 萬噸 TNT 的氫彈。
     status: completed
     confidence: high
     notes: null
@@ -5153,7 +5153,7 @@ segments:
     end: 00:41:19,240
   source_text: I have a whole book, it's impossible, isn't it, was going to be the title, but science was wrong is what the publisher decided on.
   translation:
-    text: 我有一整本書，原本打算用「這是不可能的，對吧」作為書名，但出版商決定用「科學錯了」這個標題。
+    text: 我有一整本書，原本打算用《這是不可能的，對吧》作為書名，但出版商決定用《科學錯了》這個標題。
     status: completed
     confidence: high
     notes: null
@@ -5188,10 +5188,10 @@ segments:
     end: 00:41:47,000
   source_text: Ferdinand Magellan's ship, he didn't make it, but his ship did, went around the planet in three years, in 1523, three years, three years before the mast, you might say.
   translation:
-    text: Ferdinand Magellan 的船——他本人沒能完成，但他的船完成了——在 1523 年花了三年時間環繞地球，三年，你可以說是在桅杆前的三年。
+    text: 斐迪南·麥哲倫的船——他本人沒能完成，但他的船完成了——在 1523 年花了三年時間環繞地球，三年，你可以說是在船上度過的三年。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 1523 年疑為 1522 年之誤：麥哲倫船隊維多利亞號於 1522 年 9 月返抵西班牙，保留原數字
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -5257,10 +5257,10 @@ segments:
     end: 00:42:21,680
   source_text: A second problem I have found, I worked under security for 14 years for major companies like GE, GM, Westinghouse, McDonnell Douglas, TRW systems, Aerojet-General Nucleonics, I set a record for working on cancelled government sponsored research and development programs.
   translation:
-    text: 我發現的第二個問題是，我曾在保密條件下為 GE、GM、Westinghouse、McDonald Douglas、TRW systems、Aerojet-General Nucleonics 等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。
+    text: 我發現的第二個問題是，我曾在保密條件下為 GE、GM、西屋（Westinghouse）、麥克唐納-道格拉斯（McDonnell Douglas）、TRW 系統、航空噴射通用核子（Aerojet-General Nucleonics）等大公司工作了 14 年，我創下了參與被取消的政府資助研發計畫的記錄。
     status: completed
     confidence: high
-    notes: 原文「aerogenerals, nucleonics」為 Whisper 轉錄錯誤，已修正為 Aerojet-General Nucleonics（航空噴射通用核子公司）
+    notes: 原文 aerogenerals, nucleonics 應為 Aerojet-General Nucleonics；McDonald Douglas 應為 McDonnell Douglas
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -5310,7 +5310,7 @@ segments:
     end: 00:43:00,960
   source_text: Two astronomers have demonstrated this, Dr. Seth Shostak of the SETI Institute, S-E-T-I, that stands for Silly Effort to Investigate, incidentally, that's another story which I've written about in the book, said you can prove that the government can't keep secrets by how badly FEMA fouled up with Katrina and how poorly the post offices operated.
   translation:
-    text: 兩位天文學家展示了這一點，SETI研究所 (SETI Institute) 的 Dr. Seth Shostak——S-E-T-I，順帶一提，我把它理解為「愚蠢的調查努力」，這是我在書中寫過的另一個故事——他說你可以通過 FEMA 在 Katrina 颶風中的糟糕表現以及郵局運作的低效來證明政府無法保守秘密。
+    text: 兩位天文學家展示了這一點，SETI研究所 (SETI Institute) 的賽斯·蕭斯塔克博士——S-E-T-I，順帶一提，我把它理解為「愚蠢的調查努力」，這是我在書中寫過的另一個故事——他說你可以透過 FEMA 在卡崔娜颶風中的糟糕表現以及郵局運作的低效來證明政府無法保守秘密。
     status: completed
     confidence: high
     notes: null
@@ -5365,7 +5365,7 @@ segments:
     end: 00:43:26,360
   source_text: Another great astronomer, Dr. Neil deGrasse Tyson, head of Hayden Planetarium, he said the proof that governments can't keep secrets is shown by how much we know about President Clinton's genitalia.
   translation:
-    text: 另一位偉大的天文學家，Hayden Planetarium 負責人 Dr. Neil deGrasse Tyson，他說政府無法保守秘密的證據是我們對柯林頓總統生殖器的了解程度。
+    text: 另一位偉大的天文學家，海頓天象館館長尼爾·德格拉斯·泰森博士，他說政府無法保守秘密的證據是我們對柯林頓總統（President Clinton）生殖器的了解程度。
     status: completed
     confidence: high
     notes: null
@@ -5401,7 +5401,7 @@ segments:
     end: 00:43:45,820
   source_text: Now the proof, and I'll show some of this in my lecture Tuesday night, about government cover-up, it's not just an idle concept.
   translation:
-    text: 現在關於政府掩蓋的證據——我會在星期二晚上的演講中展示其中一些——這不僅僅是一個空洞的概念。
+    text: 現在關於政府掩蓋真相的證據——我會在星期二晚上的演講中展示其中一些——這不僅僅是一個空洞的概念。
     status: completed
     confidence: high
     notes: null
@@ -5419,7 +5419,7 @@ segments:
     end: 00:43:56,760
   source_text: If you wish you can get a hold of 156 top-secret Umbra NSA UFO documents.
   translation:
-    text: 如果你願意，你可以取得 156 份絕密 Umbra 等級的 NSA UFO 文件。
+    text: 如果你願意，你可以取得 156 份最高機密 Umbra 等級的 NSA UFO 文件。
     status: completed
     confidence: high
     notes: null
@@ -5662,7 +5662,7 @@ segments:
     end: 00:45:31,160
   source_text: UFO reports which could affect national security are not part of the Blue Book system.
   translation:
-    text: 可能影響國家安全的 UFO 報告不是 Blue Book 系統的一部分。
+    text: 可能影響國家安全的 UFO 報告不是藍皮書系統的一部分。
     status: completed
     confidence: high
     notes: null
@@ -5921,7 +5921,7 @@ segments:
     end: 00:46:54,300
   source_text: I grew up in Boise, Idaho where my father, Chet Moulton, was Director of Aeronautics.
   translation:
-    text: 我在愛達荷州博伊西長大，我的父親 Chet Moulton 是航空局局長。
+    text: 我在愛達荷州博伊西長大，我的父親切特·莫爾頓是航空局局長。
     status: completed
     confidence: high
     notes: null
@@ -5938,7 +5938,7 @@ segments:
     end: 00:47:04,480
   source_text: One of his friends was Kenneth Arnold, who reported the unidentified flying objects over Mount Rainier in June of 1947.
   translation:
-    text: 他的一位朋友是肯尼斯·阿諾德，他在 1947 年 6 月報告了雷尼爾山上空的不明飛行物。
+    text: 他的一位朋友是肯尼斯·阿諾德（Kenneth Arnold），他在 1947 年 6 月報告了雷尼爾山（Mount Rainier）上空的不明飛行物。
     status: completed
     confidence: high
     notes: null
@@ -6063,10 +6063,10 @@ segments:
     end: 00:48:11,640
   source_text: Later I was honored at WCVB in Boston as a producer sharing the station's Peabody Award for Science and Medical Programming Excellence.
   translation:
-    text: 後來我在波士頓的 WCVB 電視台擔任製作人，榮獲該台科學與醫療節目卓越獎的皮博迪獎。
+    text: 後來我在波士頓的 WCVB 電視台擔任製作人，分享該台因科學與醫療節目卓越表現而獲得的皮博迪獎。
     status: completed
     confidence: high
-    notes: null
+    notes: sharing 指分享電視台共同榮譽，非個人獲獎
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6213,7 +6213,7 @@ segments:
     end: 00:50:15,140
   source_text: The first research interview that I did for that animal mutilation documentary was with former Logan County Sheriff Tex Graves.
   translation:
-    text: 我為那部動物肢解紀錄片進行的第一次研究訪談對象是前洛根郡警長 Tex Graves。
+    text: 我為那部動物肢解紀錄片進行的第一次研究訪談對象是前洛根郡警長泰克斯·格雷夫斯。
     status: completed
     confidence: high
     notes: null
@@ -6284,10 +6284,10 @@ segments:
     end: 00:50:58,520
   source_text: And in fact, a few ranchers told me about beams of light from round glowing objects in the sky that they had seen with their own eyes pick up cattle from a pasture or lure an animal to a pasture, dead with the same bloodless excisions.
   translation:
-    text: 事實上，有幾位牧場主告訴我，他們親眼看到天空中圓形發光物體射出的光束從牧場吸起牛隻，或將動物引誘到牧場，死後出現同樣的無血切割。
+    text: 事實上，有幾位牧場主告訴我，他們親眼看到天空中圓形發光物體射出的光束從牧場吸起牛隻，或把動物引誘到牧場上，之後發現牠們已經死亡，身上都有同樣的無血切割。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 rounder 疑為 round 之轉錄錯誤
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6321,7 +6321,7 @@ segments:
     end: 00:51:31,420
   source_text: The animals are found in what is equivalent to face powder with no tracks around a 2,000 pound or 1,800 pound animal that has an ear, eye, tongue, jaw flesh, genitals and rectum removed without any blood.
   translation:
-    text: 這些動物被發現時周圍是像撲粉一樣的細土，在這隻重達 2，000 磅或 1，800 磅、耳朵、眼睛、舌頭、下顎肌肉、生殖器和直腸被移除且沒有任何血跡的動物周圍沒有任何足跡。
+    text: 這些動物被發現時，四周的細土就像撲粉一樣，無論是重達 2,000 磅或 1,800 磅的動物，屍體周圍都沒有任何足跡，而牠們的耳朵、眼睛、舌頭、下顎肌肉、生殖器和直腸都已被移除，且沒有留下任何血跡。
     status: completed
     confidence: high
     notes: null
@@ -6340,7 +6340,7 @@ segments:
     end: 00:51:37,120
   source_text: The documentary that I produced, A Strange Harvest, was awarded a regional Emmy.
   translation:
-    text: 我製作的紀錄片《詭異收穫》獲得了地區艾美獎。
+    text: 我製作的紀錄片《詭異收穫》（A Strange Harvest）獲得了地區艾美獎。
     status: completed
     confidence: high
     notes: null
@@ -6375,10 +6375,10 @@ segments:
     end: 00:52:14,400
   source_text: A contract was signed and New York attorney Peter Gersten, who filed the first freedom of information request back at the end of the 1970s for information about UFOs and his filing went to the CIA, the NSA, the DIA, the NRO, and other military offices.
   translation:
-    text: 合約簽署後，紐約律師彼得·格斯汀——他在 1970 年代末首次提出關於 UFO 資訊的資訊自由法申請，對象包括 CIA、NSA、DIA、NRO 以及其他軍事機構。
+    text: 合約簽署後，紐約律師彼得·格斯汀（Peter Gersten）——他在 1970 年代末首次提出關於 UFO 資訊的資訊自由法申請，對象包括 CIA、NSA、DIA、NRO 以及其他軍事機構。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Peter Gerstin 應為 Peter Gersten
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6394,7 +6394,7 @@ segments:
     end: 00:52:19,400
   source_text: He arranged for me to have a meeting at Kirtland Air Force Base in Albuquerque.
   translation:
-    text: 他為我安排了在阿布奎基柯特蘭空軍基地的會面。
+    text: 他為我安排了在阿布奎基（Albuquerque）柯特蘭空軍基地（Kirtland Air Force Base）的會面。
     status: completed
     confidence: high
     notes: 原文誤為 Curlin，已修正為 Kirtland
@@ -6411,7 +6411,7 @@ segments:
     end: 00:52:34,880
   source_text: Mr. Gersten had received correspondence from an agent at the U.S. Air Force Office of Special Investigations about a dramatic landing of a disk and humanoid entities at Ellsworth Air Force Base in South Dakota.
   translation:
-    text: 格斯汀先生收到了來自美國空軍特別調查辦公室一名探員的信件，內容關於南達科他州埃爾斯沃思空軍基地發生的戲劇性碟形飛行器與類人實體降落事件。
+    text: 格斯汀先生收到了來自美國空軍特別調查辦公室（AFOSI）一名探員的信件，內容關於南達科他州埃爾斯沃思空軍基地（Ellsworth Air Force Base）發生的戲劇性碟形飛行器與類人實體降落事件。
     status: completed
     confidence: high
     notes: null
@@ -6594,7 +6594,7 @@ segments:
     end: 00:54:34,760
   source_text: The alleged presidential briefing paper also described information from a live extraterrestrial biological entity.
   translation:
-    text: 這份據稱的總統簡報文件還描述了來自一個活體外星生物實體的資訊。
+    text: 這份據稱的總統簡報文件還描述了來自一個活體外星生物實體（EBE）的資訊。
     status: completed
     confidence: high
     notes: null
@@ -6612,7 +6612,7 @@ segments:
     end: 00:54:59,880
   source_text: The acronym is EBE, E-B-E, taken from a crash site near Roswell, New Mexico in 1949, two years after the historically famous 1947 July crashes of not disks, but my understanding is wedge-shaped craft that contained small humanoid bodies, both dead and alive.
   translation:
-    text: 這個縮寫是 EBE，E-B-E，取自 1949 年新墨西哥州羅斯威爾附近墜毀現場，這是在歷史上著名的 1947 年 7 月墜毀事件兩年之後，墜毀的不是碟形飛行器，而據我理解是楔形飛行器，裡面有小型類人屍體，既有死亡的也有活著的。
+    text: 這個縮寫是 EBE，E-B-E，取自 1949 年新墨西哥州羅斯威爾附近墜毀現場，這是在歷史上著名的 1947 年 7 月墜毀事件兩年之後，墜毀的不是碟形飛行器，而據我理解是楔形飛行器，裡面有小型類人身軀，既有死亡的也有活著的。
     status: completed
     confidence: high
     notes: 原文誤為 EBA，已修正為 EBE
@@ -6687,10 +6687,10 @@ segments:
     end: 00:57:01,160
   source_text: Today on April 29, 2013, 30 years later, as a longtime TV producer and investigative reporter who produces the science and environment website, earthfiles.com, and also reports monthly for premier radio networks broadcast of Coast to Coast AM in Los Angeles, I can, before you today, assert that the pressure of facts accumulated from military and intelligence eyewitnesses, from ranchers and pathologists, from pilots and astronauts, from fellow human experiencers in the UFO abduction syndrome, and from leaks by scientists and computer experts who have worked on back engineering extraterrestrial technologies extracted from non-human craft, there is no doubt that the United States government since World War II and the FDR and Truman administrations has known about the extraterrestrial interactions with earth and that their policies of denial in the alleged interest of national security
   translation:
-    text: 今天是 2013 年 4 月 29 日，30 年後，作為一名長期從事電視製作和調查報導工作的記者，我經營科學與環境網站 earthfiles.com，同時每月為洛杉磯首屈一指的廣播網絡 Coast to Coast AM 報導，我今天可以在各位面前斷言，從軍事和情報目擊證人、從牧場主和病理學家、從飛行員和太空人、從 UFO 綁架症候群的人類經歷者同伴、以及從曾從事逆向工程研究從非人類飛行器中提取的外星技術的科學家和電腦專家的洩密中累積的事實壓力證明，毫無疑問，美國政府自第二次世界大戰以及羅斯福和杜魯門政府以來就已經知道外星生命與地球的互動，而他們以所謂國家安全利益為由的否認政策
+    text: 今天是 2013 年 4 月 29 日，30 年後，作為一名長期從事電視製作和調查報導工作的記者，我經營科學與環境網站 earthfiles.com，同時每月為洛杉磯首屈一指的廣播網路 Coast to Coast AM 報導，我今天可以在各位面前斷言，從軍事和情報目擊證人、從牧場主和病理學家、從飛行員和太空人、從 UFO 綁架症候群的人類經歷者同伴、以及從曾從事逆向工程研究從非人類飛行器中提取的外星技術的科學家和電腦專家的洩密中累積的事實壓力證明，毫無疑問，美國政府自第二次世界大戰以及羅斯福和杜魯門政府以來就已經知道外星生命與地球的互動，而他們以所謂的國家安全理由的否認政策
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 military and intelligent eyewitnesses 疑為 intelligence 之轉錄錯誤，譯文已按「情報目擊證人」處理
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6766,7 +6766,7 @@ segments:
     end: 00:57:36,740
   source_text: Every American and the whole world deserves the truth about non-humans past, present, and future interacting with this planet.
   translation:
-    text: 每一位美國人和全世界都應該知道關於非人類過去、現在和未來與這個星球互動的真相。
+    text: 每一位美國人和全世界都應該知道過去、現在和未來與這個星球互動的非人類存有的真相。
     status: completed
     confidence: high
     notes: null
@@ -7385,7 +7385,7 @@ segments:
     end: 01:02:45,120
   source_text: She was in on these meetings and she had agreed to go on camera with George Knapp after the story started to break in 1989, she was visited by two officers the same day she was going to go on camera and they said we just want to remind you, you have a security clearance, you're still under oath.
   translation:
-    text: 她參加了這些會議，在 1989 年故事開始曝光後，她同意與 George Knapp 一起上鏡頭，就在她要上鏡頭的當天，兩名軍官拜訪了她，他們說我們只是想提醒你，你有安全許可，你仍然受誓言約束。
+    text: 她參加了這些會議，在 1989 年故事開始曝光後，她同意與喬治·奈普一起上鏡頭，就在她要上鏡頭的當天，兩名軍官拜訪了她，他們說我們只是想提醒你，你有安全許可，你仍然受誓言約束。
     status: completed
     confidence: high
     notes: null
@@ -7456,7 +7456,7 @@ segments:
     end: 01:03:04,160
   source_text: George Knapp told me personally this woman is so scared that 20 years later she's still will not talk about it.
   translation:
-    text: George Knapp 親自告訴我，這位女士非常害怕，20 年後她仍然不願談論此事。
+    text: 喬治·奈普親自告訴我，這位女士非常害怕，20 年後她仍然不願談論此事。
     status: completed
     confidence: high
     notes: null
@@ -7474,7 +7474,7 @@ segments:
     end: 01:03:12,880
   source_text: They had witnesses at Nellis Air Force Base, the golf instructor at Nellis Air Force Base, the golf pro, the guy who did the taxes for the generals.
   translation:
-    text: 他們在 Nellis 空軍基地有證人，Nellis 空軍基地的高爾夫教練、高爾夫專業人員、為將軍們報稅的人。
+    text: 他們在內利斯空軍基地有證人，內利斯空軍基地的高爾夫教練、高爾夫職業選手、為將軍們報稅的人。
     status: completed
     confidence: high
     notes: null
@@ -7510,7 +7510,7 @@ segments:
     end: 01:03:30,620
   source_text: One of the key witnesses is a guy by the name of Alfred O'Donnell who the Appropriations Committee at Congress actually tried to talk to this guy.
   translation:
-    text: 其中一位關鍵證人是一個叫阿爾弗雷德·歐唐納的人，國會撥款委員會實際上曾試圖與這個人談話。
+    text: 其中一位關鍵證人是一個叫阿爾弗雷德·歐唐納（Alfred O'Donnell）的人，國會撥款委員會實際上曾試圖與這個人談話。
     status: completed
     confidence: high
     notes: null
@@ -7545,7 +7545,7 @@ segments:
     end: 01:03:44,420
   source_text: George Knapp had a number of witnesses and he figured that he wanted to track down this Alfred O'Donnell, figured if anybody knew if the Area 51 crash saucer stories were true it would be Alfred O'Donnell.
   translation:
-    text: George Knapp 有許多證人，他認為他想追蹤這位阿爾弗雷德·歐唐納，認為如果有人知道 51 區墜毀飛碟的故事是否屬實，那就會是阿爾弗雷德·歐唐納。
+    text: 喬治·奈普有許多證人，他認為他想追蹤這位阿爾弗雷德·歐唐納，認為如果有人知道 51 區墜毀飛碟的故事是否屬實，那就會是阿爾弗雷德·歐唐納。
     status: completed
     confidence: high
     notes: null
@@ -7618,7 +7618,7 @@ segments:
     end: 01:04:08,200
   source_text: And George said, "No, I didn't come here to talk about that."
   translation:
-    text: George 說：「不，我來這裡不是要談那個的。」
+    text: 喬治說：「不，我來這裡不是要談那個的。」
     status: completed
     confidence: high
     notes: null
@@ -7652,7 +7652,7 @@ segments:
     end: 01:04:13,400
   source_text: And George said, "Yeah, that's why I'd like to know about it."
   translation:
-    text: George 說：「是的，這就是為什麼我想知道這件事。」
+    text: 喬治說：「是的，這就是為什麼我想知道這件事。」
     status: completed
     confidence: high
     notes: null
@@ -7669,7 +7669,7 @@ segments:
     end: 01:04:17,020
   source_text: And he said, "Well," and George said, "It took six months to get this guy to talk."
   translation:
-    text: 他說：「嗯，」George 說：「花了六個月才讓這個人開口說話。」
+    text: 他說：「嗯，」喬治說：「花了六個月才讓這個人開口說話。」
     status: completed
     confidence: high
     notes: null
@@ -7704,7 +7704,7 @@ segments:
     end: 01:04:35,440
   source_text: Area 51, we have the saucers there and George said, "Weren't you afraid that the story would get out?"
   translation:
-    text: 51 區，我們那裡有飛碟，George 說：「你們不怕這個故事會洩露出去嗎？」
+    text: 51 區，我們那裡有飛碟，喬治說：「你們不怕這個故事會洩露出去嗎？」
     status: completed
     confidence: high
     notes: null
@@ -7808,10 +7808,10 @@ segments:
     end: 01:04:55,800
   source_text: Thank you, Ms. Kilpatrick.
   translation:
-    text: 謝謝您，Kilpatrick 女士。
+    text: 謝謝您，基爾派翠克女士。
     status: completed
     confidence: high
-    notes: 'Transcription error corrected: Ms. Kilfetrick → Ms. Kilpatrick'
+    notes: 原文誤為 Kilfetrick，已修正為 Kilpatrick
   metadata:
     topic_id: topic_06
     speaker_hint: '>>'
@@ -7842,10 +7842,10 @@ segments:
     end: 01:05:06,880
   source_text: Mr. Friedman, you were going to answer or add something to what Congressman Woolsey said, I'll give you that opportunity for a minute of my time if you'd like.
   translation:
-    text: Friedman 先生，您要回答或補充一些關於 Woolsey 議員所說的話，如果您願意，我可以給您一分鐘時間。
+    text: 弗里德曼先生，您要回答或補充一些關於伍爾西議員所說的話，如果您願意，我可以給您一分鐘時間。
     status: completed
     confidence: high
-    notes: 原文 Mr. Freeman 應為 Mr. Friedman（核子物理學家 Stanton Friedman）
+    notes: 原文 Mr. Freeman 應為 Mr. Friedman（核物理學家 Stanton Friedman）；原文 Congressman Woolsey 應為 Congresswoman Woolsey（琳恩·伍爾西為女性眾議員）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -7914,7 +7914,7 @@ segments:
     end: 01:05:43,120
   source_text: We have the problem of Pat Robertson saying all the UFO stuff is the work of the devil, and all the intelligent life in the universe is here on planet Earth, I take issue with that.
   translation:
-    text: 我們有 Pat Robertson 的問題，他說所有 UFO 的東西都是魔鬼的作為，而宇宙中所有的智慧生命都在地球上，我對此有異議。
+    text: 我們有派特·羅伯森的問題，他說所有 UFO 的東西都是魔鬼的作為，而宇宙中所有的智慧生命都在地球上，我對此有異議。
     status: completed
     confidence: high
     notes: null
@@ -8425,10 +8425,10 @@ segments:
     end: 01:08:18,080
   source_text: Things like we're doing today, the US Congress since 1968 has not had a hearing to do something else about it in the science committee that they did some 40 plus years ago, comment?
   translation:
-    text: 像我們今天所做的事情，國會自 1968 年以來就沒有舉行過聽證會來處理這件事，在科學委員會中他們在 40 多年前做過，有何評論？
+    text: 像我們今天所做的事情，國會自 1968 年以來就沒有再舉行過聽證會來處理這件事，而他們在 40 多年前曾在科學委員會做過，有何評論？
     status: completed
     confidence: medium
-    notes: Complex sentence structure
+    notes: 原文 urgent Congress 疑為 US Congress 之轉錄錯誤；原文句構破碎
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -8514,7 +8514,7 @@ segments:
     end: 01:09:16,040
   source_text: And after that as a professional working as director of special projects at the CBS station, I went on to do astronaut training in Colorado, Martin Marietta, and a thousand other subjects over the last 30 some years.
   translation:
-    text: 在那之後，作為 CBS 電視台特別專案主任的專業人員，我繼續報導了科羅拉多州的太空人訓練、Martin Marietta，以及過去 30 多年來的其他上千個主題。
+    text: 在那之後，作為 CBS 電視台特別專案總監的專業人員，我繼續報導了科羅拉多州的太空人訓練、馬丁·瑪麗埃塔，以及過去 30 多年來的其他上千個主題。
     status: completed
     confidence: high
     notes: null
@@ -8844,10 +8844,10 @@ segments:
     end: 01:10:26,560
   source_text: With all due respect, let me correct, I pronounce it within my family Gravel.
   translation:
-    text: 恕我糾正，在我家族中我們發音為 Gravel。
+    text: 恕我糾正，在我家族中我們把這個名字唸作 Gravel（格拉維爾）。
     status: completed
     confidence: high
-    notes: null
+    notes: 此段討論姓氏發音，保留原文並括註中譯
   metadata:
     topic_id: topic_06
     speaker_hint: '>>'
@@ -9164,7 +9164,7 @@ segments:
     end: 01:12:50,960
   source_text: Let's face it from an alien viewpoint, we are all earthlings, Terrans as the science fiction writers would say.
   translation:
-    text: 讓我們面對現實，從外星人的觀點來看，我們都是地球人，就像科幻作家所說的 Terrans。
+    text: 讓我們面對現實，從外星人的觀點來看，我們都是地球人，就像科幻作家所說的地球人（Terrans）。
     status: completed
     confidence: high
     notes: null
@@ -9217,7 +9217,7 @@ segments:
     end: 01:13:13,320
   source_text: There are some religious problems, extremists who say we're the only intelligent life in the universe and their followers don't want any part of visitors from outer space.
   translation:
-    text: 有一些宗教問題，極端主義者說我們是宇宙中唯一的智慧生命，他們的追隨者不想要任何來自外太空訪客的部分。
+    text: 有一些宗教問題，極端主義者說我們是宇宙中唯一的智慧生命，他們的追隨者不想和外太空來的訪客有任何瓜葛。
     status: completed
     confidence: high
     notes: null
@@ -9252,10 +9252,10 @@ segments:
     end: 01:13:22,360
   source_text: Planet was created in 4004 BC instead of 4 billion in 4 BC.
   translation:
-    text: 行星是在公元前 4004 年創造的，而不是 40 億年前。
+    text: 說地球是公元前 4004 年創造的，而不是 40 億年前。
     status: completed
     confidence: medium
-    notes: Transcription appears garbled at end
+    notes: 原文尾段轉錄破碎（4 billion in 4 BC），語意應為對比公元前 4004 年創世說與 40 億年科學估計
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9338,7 +9338,7 @@ segments:
     end: 01:14:04,920
   source_text: There were 200 fatal military plane crashes between 1951 and '56, including 5 where the pilots had over 100 missions in Korea where there were MiGs trying to shoot them down.
   translation:
-    text: 1951 年至 1956 年間有 200 起致命的軍機墜毀事故，其中 5 起涉及在韓國執行過 100 多次任務的飛行員，當時有米格機試圖擊落他們。
+    text: 1951 年至 1956 年間有 200 起致命的軍機墜毀事故，其中 5 起涉及在北韓執行過 100 多次任務的飛行員，當時有米格機試圖擊落他們。
     status: completed
     confidence: high
     notes: null
@@ -9408,7 +9408,7 @@ segments:
     end: 01:14:40,180
   source_text: And it won't come as a shock to you, but there were 166 Air Force guys on board reconnaissance planes that were tickling North Korea, Russia, and China right after the war.
   translation:
-    text: 這對你來說不會感到震驚，但戰後有 166 名空軍人員在偵察機上挑釁北韓、俄羅斯和中國。
+    text: 這不會讓你驚訝，但戰後有 166 名空軍人員在偵察機上挑釁北韓、俄羅斯和中國。
     status: completed
     confidence: high
     notes: null
@@ -9549,10 +9549,10 @@ segments:
     end: 01:15:30,680
   source_text: I talked earlier about why I think that the possession of certain radical technology would have initiated some of the secrecy.
   translation:
-    text: 我之前談到為什麼我認為擁有某些激進技術會啟動一些保密措施。
+    text: 我之前談到為什麼我認為擁有某些顛覆性技術會啟動一些保密措施。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 radical technology 語意應為革命性／顛覆性技術
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9815,7 +9815,7 @@ segments:
     end: 01:17:06,920
   source_text: But there would be some very deep questions to ask about that, about the nature of special access programs and unacknowledged special access programs and the primordial black budget.
   translation:
-    text: 但關於這一點會有一些非常深刻的問題要問，關於特殊准入計畫的性質、未公開的特殊准入計畫以及原始的黑預算。
+    text: 但關於這一點會有一些非常深刻的問題要問，關於特殊准入計畫的性質、未公開的特殊准入計畫以及最初的黑預算。
     status: completed
     confidence: high
     notes: null
@@ -9909,7 +9909,7 @@ segments:
     end: 01:18:34,600
   source_text: We had been retrieving craft and bodies from at least 1941 in Cape Girardeau, Missouri.
   translation:
-    text: 我們至少從 1941 年起就在密蘇里州開普吉拉多回收飛行器和遺體。
+    text: 我們至少從 1941 年起就在密蘇里州開普吉拉多（Cape Girardeau, Missouri）回收飛行器和遺體。
     status: completed
     confidence: high
     notes: null
@@ -10015,10 +10015,10 @@ segments:
     end: 01:19:32,860
   source_text: And then you combine that with a sentence that I read in the alleged briefing paper that I was shown at Kirtland Air Force Base in the OSI office, the quote which has never left my mind.
   translation:
-    text: 然後你將這一點與我在柯特蘭空軍基地 OSI 辦公室看到的那份所謂簡報文件中讀到的一句話結合起來，那句引文從未離開過我的腦海。
+    text: 然後你將這一點與我在柯特蘭空軍基地空軍特別調查辦公室看到的那份所謂簡報文件中讀到的一句話結合起來，那句引文從未離開過我的腦海。
     status: completed
     confidence: high
-    notes: 'Transcription error corrected: Curlin → Kirtland'
+    notes: 原文誤為 Curlin，已修正為 Kirtland
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10034,7 +10034,7 @@ segments:
     end: 01:19:41,560
   source_text: These extraterrestrial biological entities manipulated DNA and already evolving primates to create Homo sapien, close quote.
   translation:
-    text: 「這些外星生物實體操縱了 DNA 和已經在進化的靈長類動物，以創造現代智人」，引文結束。
+    text: 「這些外星生物實體操縱了 DNA 和已經在進化的靈長類動物，以創造現代智人（Homo sapiens）」，引文結束。
     status: completed
     confidence: high
     notes: null
@@ -10238,7 +10238,7 @@ segments:
     end: 01:22:15,000
   source_text: Congressman Cook.
   translation:
-    text: Cook 議員。
+    text: 庫克議員。
     status: completed
     confidence: high
     notes: null
@@ -10815,7 +10815,7 @@ segments:
     end: 01:25:32,440
   source_text: Before I invite maybe 15 seconds from both Mr. Friedman and Ms. Howe, could you also comment on the testimony here that hasn't really said a whole lot.
   translation:
-    text: 在我邀請 Friedman 先生和 Howe 女士各花大約 15 秒之前，您能否也評論一下這裡的證詞，它並沒有真正說太多。
+    text: 在我邀請弗里德曼先生和豪女士各花大約 15 秒之前，您能否也評論一下這裡的證詞，它並沒有真正說太多。
     status: completed
     confidence: medium
     notes: Incomplete sentence in source
@@ -11009,7 +11009,7 @@ segments:
     end: 01:26:43,200
   source_text: The presidents, I spent a lot of time trying to find stories of UFOs back in history through presidents.
   translation:
-    text: 關於總統們，我花了很多時間試圖通過總統在歷史上尋找 UFO 的故事。
+    text: 關於總統們，我花了很多時間試圖透過總統在歷史上尋找 UFO 的故事。
     status: completed
     confidence: high
     notes: null
@@ -11223,7 +11223,7 @@ segments:
     text: 原子彈、用於殺戮而非像有些人說的那樣用於遞送郵件的強大火箭，以及電子革命開始時的強大雷達。
     status: completed
     confidence: high
-    notes: 原文 Dark bombs 指的是原子彈
+    notes: 原文 Dark bombs 疑為 atom bombs 之轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11439,7 +11439,7 @@ segments:
     end: 01:30:03,720
   source_text: We're dealing with technologies that can bend space-time and put the corner to the corner.
   translation:
-    text: 我們正在處理可以彎曲時空並將角落對角落的技術。
+    text: 我們正在處理可以彎曲時空並把兩個角對接在一起的技術。
     status: completed
     confidence: high
     notes: null
@@ -11610,7 +11610,7 @@ segments:
     end: 01:31:05,040
   source_text: Has there been a decrease in the number of incidents that have happened, at least in this country, or because it seemed like this was talked about a lot, and there were a lot of sightings at some time, whether it was over the Prairie State, but that seems ... You don't read about it very much today.
   translation:
-    text: 至少在這個國家，發生的事件數量是否減少了，還是因為這似乎被談論很多，而且在某個時期有很多目擊事件，無論是在大草原州，但那似乎……你今天不太讀到它了。
+    text: 至少在這個國家，發生的事件數量是否減少了，還是因為這似乎被談論很多，而且在某個時期有很多目擊事件，無論是在大草原州（伊利諾州），但那似乎……你今天不太讀到它了。
     status: completed
     confidence: medium
     notes: Long, somewhat rambling sentence
@@ -11734,7 +11734,7 @@ segments:
     end: 01:31:31,380
   source_text: MUFON, the Mutual UFO Network, is getting over 600 reports a month.
   translation:
-    text: MUFON，UFO 互動網絡，每月收到超過 600 份報告。
+    text: MUFON，UFO 互動網路，每月收到超過 600 份報告。
     status: completed
     confidence: high
     notes: null
@@ -11803,7 +11803,7 @@ segments:
     end: 01:31:50,080
   source_text: That's an awful small number, George Knapp being one.
   translation:
-    text: 那是一個非常小的數字，George Knapp 是其中之一。
+    text: 那是一個非常小的數字，喬治·奈普是其中之一。
     status: completed
     confidence: high
     notes: null
@@ -11855,7 +11855,7 @@ segments:
     end: 01:32:05,960
   source_text: The sightings are very common, but what isn't uniform are proper distribution networks or reporting systems that are in place.
   translation:
-    text: 目擊事件非常普遍，但不統一的是適當的分發網絡或現有的報告系統。
+    text: 目擊事件非常普遍，但不統一的是適當的分發網路或現有的報告系統。
     status: completed
     confidence: high
     notes: null
@@ -11890,7 +11890,7 @@ segments:
     end: 01:32:23,060
   source_text: As I mentioned earlier, my estimate is a rough one, but it's not less than 10,000 reports actually are written by people per year, 10,000 in North America, the US and Canada.
   translation:
-    text: 正如我之前提到的，我的估計是粗略的，但實際上每年有人寫的報告不少於 10，000 份，在北美、美國和加拿大有 10，000 份。
+    text: 正如我之前提到的，我的估計是粗略的，但實際上每年有人寫的報告不少於 10,000 份，在北美、美國和加拿大有 10,000 份。
     status: completed
     confidence: high
     notes: null
@@ -12555,7 +12555,7 @@ segments:
     end: 01:35:50,640
   source_text: Congressman Cook asked a question.
   translation:
-    text: Cook 議員問了一個問題。
+    text: 庫克議員問了一個問題。
     status: completed
     confidence: high
     notes: null
@@ -12572,10 +12572,10 @@ segments:
     end: 01:36:02,760
   source_text: There wasn't a lengthy discussion of it, and that is there have been a number of sightings before anybody had an airplane or a lighter-than-air aircraft in the air, and I think that people need to understand that this is not just a current day.
   translation:
-    text: 對此沒有太長的討論，那就是在任何人擁有飛機或比飛機更輕的航空器在空中之前就有許多目擊事件，我認為人們需要理解這不僅僅是當今的事情。
+    text: 對此沒有太長的討論，那就是在任何人擁有飛機或輕於空氣的航空器升空之前就有許多目擊事件，我認為人們需要理解這不僅僅是當今的事情。
     status: completed
     confidence: medium
-    notes: Complex sentence
+    notes: 原文 lighter than aircraft 疑為 lighter-than-air aircraft（輕於空氣的航空器）之轉錄錯誤
   metadata:
     topic_id: topic_06
     speaker_hint: null

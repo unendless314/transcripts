@@ -169,7 +169,6 @@ tools/                 # CLI tool scripts
 ├── topics_analysis_driver.py # LLM topic analysis
 ├── prepare_topic_drafts.py   # Generate translation work files
 ├── backfill_translations.py  # Update main.yaml with translations
-├── fix_chinese_punctuation.py # QA: Fix punctuation
 ├── export_srt.py             # Export translated SRT
 └── split_srt.py              # Split long subtitles
 ```
@@ -211,7 +210,7 @@ PYTHONPATH=. python3 tools/main_yaml_to_json.py --config configs/UFO-01.yaml [--
 # Each file contains source text with empty JSON translation fields
 PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/UFO-01.yaml [--force] [--verbose]
 
-# Step 5: Translate (manual editing or with Claude Code/LLM assistance)
+# Step 5: Translate & Proofread (manual editing or with Claude Code/LLM assistance)
 # Work files: data/<episode>/drafts/topic_XX.md
 # Edit each file to fill in JSON fields:
 #   {"text": "翻譯內容", "confidence": "high/medium/low", "notes": "備註說明"}
@@ -222,13 +221,6 @@ PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/UFO-01.yaml 
 # For proofreading (post-translation review), follow:
 #   - configs/proofread_guidelines_template.md (common rules)
 #   - data/<episode>/proofread_guidelines.md (episode-specific copy)
-
-# Step 5.5: QA - Fix Chinese punctuation (recommended after translation)
-# Automatically corrects English punctuation to Chinese in translation text fields
-# LLM translations often mix English commas (,) instead of Chinese (，)
-PYTHONPATH=. python3 tools/fix_chinese_punctuation.py --config configs/UFO-01.yaml [--dry-run] [--verbose]
-# Alternative: manually specify files
-# PYTHONPATH=. python3 tools/fix_chinese_punctuation.py data/UFO-01/drafts/topic_*.md [--dry-run] [--verbose]
 
 # Step 6: Backfill completed translations to main.yaml
 # Reads completed topic_XX.md files and updates main.yaml with translations
@@ -288,7 +280,6 @@ done
 - `tools/validate_terminology.py` - Validate terminology.yaml structure ✅
 - `tools/prepare_topic_drafts.py` - Generate topic-based translation work files (topic_XX.md) ✅
 - `tools/backfill_translations.py` - Read completed topic_XX.md files and update main.yaml with translations ✅
-- `tools/fix_chinese_punctuation.py` - QA tool to fix English punctuation in Chinese translations ✅
 - `tools/export_srt.py` - Convert main.yaml back to SRT format ✅
 - `tools/split_srt.py` - Split long SRT subtitles for better readability ✅
 - `tools/check_glossary_consistency.py` - Cross-episode glossary consistency audit (term → per-episode translation matrix, plus sense-aware drift check against the terminology master) ✅
@@ -328,8 +319,6 @@ QA tools should validate:
 - Timecode integrity
 - Status completeness (all segments translated)
 - Segments with `metadata.truncated: true` should be flagged as `needs_review`
-
-**Note:** LLM translations commonly mix English punctuation in Chinese text. Always run `fix_chinese_punctuation.py` after translation (Step 5.5) before backfilling to main.yaml.
 
 ## Whisper SRT Characteristics
 

@@ -65,7 +65,6 @@
 
 ### 標點與排版
 - **數字千分位用半形逗號**：`4,000`、`10,000`、`1,000 萬`
-  - 歷史背景：`fix_chinese_punctuation.py` 舊版會把數字內半形逗號轉成全形（「4，000」），已於 2026-08-07 修正工具並清理全專案既有污染；校稿時仍可用 `\d，\d` 模式抽查確認
 - 中文譯文用中文標點（，。：「」）；引號用「」『』
 - **保留全形括註「中譯（English）」**（2026-08-09 人工裁決）：草稿中人名／地名／專有名詞的原文括註**不得刪除**，校稿僅可修正括註內的錯字或標點；重要專有名詞首次出現若無括註可補上。括註內若為純英文內容，其標點用半形（例：（Ramstein, Germany））
 - 既有半形括號的原文註釋（例：藍皮書計畫 (Project Blue Book)）保留原樣，無需強改全形
@@ -206,3 +205,53 @@
   1. ~~seg 52–110 幻覺重複~~ **已解決（2026-08-11）**：人工還原音訊，內容已回填
   2. ~~seg 544「斯科特上尉」~~ **已裁決（2026-08-11 人工）**：逕改「斯科特士官」，notes 註明原文 Captain Scott 為主持人口誤——已執行
 - ⚠️ 收尾流程（回填、修原文、匯出）依模板第七節**暫停等待人工確認**，不得逕行。
+
+### 後續追蹤與字幕註記（2026-08-28）
+
+- **05:50–08:40 字幕抓取問題**：經人工聽音比對，該時間區段（seg 52–110，涵蓋電話錄音播放與現場過渡）受限於原始 Whisper 轉錄破碎及時間軸切分粒度，字幕抓取與時間軸對齊仍有瑕疵，目前已補填可接受之譯文；待後續提供完整原文後再行進一步精細校準。
+
+[05:50] and there were security and maintenance on site on both uh those are two of the ten sites and when
+
+[05:58] the first one went down and i talked with the community security out there they had saw this ufo
+
+[06:02] hovering over the site and said yeah right what are you guys drinking out there and we struck strike teams
+
+[06:07] to boast the sites that have been occupied and uh both straight teams i didn't tell them what we had
+
+[06:13] heard via the ls radio and that's how they go to get within a mile of sight and call back
+
+[06:19] in on the vhf and uh they both had reported too so we had two maintenance crews two security troops
+
+[06:26] on site and two strike teams all reporting it is that right yep do you remember any of the names
+
+[06:32] of any of those guys nope you don't sorry there's a little mix up there that was colonel Walter Figel
+
+[06:39] who was the deputy missile crew commander at echo flight can we have the my Walter audio please from their
+
+[06:48] field about ufos
+
+[06:54] that had gone out to one of the sites finally got back scared to death
+
+[07:15] on the lf and on the way back they lost radio contact and we ended up having to send them
+
+[07:22] back to base earlier i'm not sure what happened i don't think they ever returned to uh guard duty and
+
+[07:31] what were they scared about well they had seen these crazy things and oh they did yeah did they report
+
+[07:38] that to you i reported it to the top side guy oh the top side guy that's right okay okay
+
+[07:46] okay well interesting what's sick
+
+[07:55] after we were relieved by another crew the next morning i rode back base uh mr solis yes in a
+
+[08:02] couple sentences would you tell us what we just heard the conversation yeah i'm sorry it was a little confusing
+
+[08:07] uh the first conversation you heard was uh colonel walter fiegel written now retired as far as i know he's
+
+[08:17] still alive he's authorized me to use that audio by the way it was recording of a telephone conversation i
+
+[08:24] had with him in 1996.
+
+[08:29] and he described the the the fact that he had on two of his launch facilities he had maintenance crews
+
+[08:40] out there and security guards

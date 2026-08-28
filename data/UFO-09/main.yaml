@@ -183,7 +183,7 @@ segments:
     end: 00:01:56,420
   source_text: And then I'm going to take an opportunity to walk the committee through a number of the roughly 86,000 reports that are in our database that I've collected over the last 19 years.
   translation:
-    text: 然後，我將帶領委員會瀏覽我們資料庫中大約86，000份報告中的若干案例，這些是我在過去19年間蒐集的。
+    text: 然後，我將帶領委員會瀏覽我們資料庫中大約86,000份報告中的若干案例，這些是我在過去19年間蒐集的。
     status: completed
     confidence: high
     notes: null
@@ -519,7 +519,7 @@ segments:
     end: 00:04:41,680
   source_text: We also have a website, ufocenter.com, where over the course of the last 19 years I've accumulated approximately 86,000 written reports.
   translation:
-    text: 我們也有網站 ufocenter.com，在過去19年間，我累積了約86，000份書面報告。
+    text: 我們也有網站 ufocenter.com，在過去19年間，我累積了約86,000份書面報告。
     status: completed
     confidence: high
     notes: null
@@ -876,7 +876,7 @@ segments:
     end: 00:07:30,880
   source_text: They have malfunctions.
   translation:
-    text: 它們會故障嗎。
+    text: 它們會故障。
     status: completed
     confidence: high
     notes: null
@@ -1035,10 +1035,10 @@ segments:
     end: 00:08:49,800
   source_text: Next case, Longview, Washington, an elk, an adult female elk lifted out of the forest of the state of Washington before 14 witnesses at about one minute before noon.
   translation:
-    text: 下一個案例，華盛頓州朗維尤（Longview），一頭麋鹿，一頭成年母麋鹿在14名目擊者面前，於近中午前一分鐘被從華盛頓州的森林中抬起。
+    text: 下一個案例，華盛頓州朗維尤（Longview），一頭加拿大馬鹿，一頭成年母加拿大馬鹿在14名目擊者面前，於近中午前一分鐘被從華盛頓州的森林中抬起。
     status: completed
     confidence: high
-    notes: null
+    notes: 北美 elk（wapiti）應譯「加拿大馬鹿」，非麋鹿
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1388,10 +1388,10 @@ segments:
     end: 00:11:42,920
   source_text: Moving down further on page four, the location, Andrews Air Force Base, Waldorf, Maryland, Mr. Richard Dolan first alluded to this case on the morning of Monday this week.
   translation:
-    text: 繼續往第四頁下方看，地點是馬里蘭州沃爾多夫（Waldorf）的安德魯斯空軍基地（Andrews Air Force Base），理查德·多蘭先生（Richard Dolan）本週一上午首次提到這個案例。
+    text: 繼續往第四頁下方看，地點是安德魯斯空軍基地（Andrews Air Force Base）一帶，馬里蘭州沃爾多夫（Waldorf），理查德·多蘭先生（Richard Dolan）本週一上午首次提到這個案例。
     status: completed
     confidence: high
-    notes: null
+    notes: 目擊地點為沃爾多夫，鄰近安德魯斯空軍基地
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1406,7 +1406,7 @@ segments:
     end: 00:12:02,520
   source_text: A blue object, there's an error in the citation, I think Mr. Dolan reported it accurately however, a blue object seen streaking over Waldorf, Maryland on that date, July 26, the year 2002, being pursued by two F-16 fighters.
   translation:
-    text: 一個藍色物體，引用中有錯誤，不過我認為多蘭先生報告得很準確，那天，也就是2002年7月26日，一個藍色物體被看到快速飛越馬里蘭州沃爾多夫，並被兩架F-16戰機追逐。
+    text: 一個藍色物體，引用中有錯誤，不過我認為多蘭先生報告得很準確，那天，也就是2002年7月26日，一個藍色物體被看到快速飛越馬里蘭州沃爾多夫，並被兩架 F-16 戰機追逐。
     status: completed
     confidence: high
     notes: null
@@ -1655,7 +1655,7 @@ segments:
     end: 00:14:26,520
   source_text: Going down to a case at the bottom of page five, the O'Hare Airport case of November 7, 2006, Mr. Dolan, Richard Dolan, alluded to this case earlier in the week's testimony, a very, very dramatic case, a disc estimated to be some 30 to 40 feet in diameter hovering above gate C-17 at O'Hare Airport, seen for perhaps as long as 10 minutes or even longer.
   translation:
-    text: 往下看第五頁底部的案例，2006年11月7日的歐海爾機場事件（O'Hare Airport case），多蘭先生，理查德·多蘭，本週早些時候的證詞中提到了這個案例，這是一個非常、非常戲劇性的案例，一個估計直徑約30到40英尺的碟狀物體懸停在歐海爾機場C-17登機門上方，被目擊了可能長達10分鐘甚至更久。
+    text: 往下看第五頁底部的案例，2006年11月7日的歐海爾機場事件（O'Hare Airport case），多蘭先生，理查德·多蘭，本週早些時候的證詞中提到了這個案例，這是一個非常、非常戲劇性的案例，一個估計直徑約30到40英尺的碟狀物體懸停在歐海爾機場 C-17 登機門上方，被目擊了可能長達10分鐘甚至更久。
     status: completed
     confidence: high
     notes: null
@@ -1941,7 +1941,7 @@ segments:
     end: 00:16:59,600
   source_text: It's very interesting, and in my opinion, it may represent the fact that we may have rounded the corner, so to speak, in the field of ufology when it comes to the dramatic nature of many of the reports that are coming to us.
   translation:
-    text: 這非常有趣，在我看來，這可能代表我們在UFO學領域已經，可以說，轉過了一個彎，就許多提交給我們的報告的戲劇性本質而言。
+    text: 這非常有趣，在我看來，就提交給我們的許多報告的戲劇性而言，這可能代表UFO學領域可以說已經跨過了一個轉折點。
     status: completed
     confidence: high
     notes: null
@@ -1977,7 +1977,7 @@ segments:
     end: 00:17:09,200
   source_text: But we have roughly 2,000 to 3,000 of these sightings posted to our website.
   translation:
-    text: 但我們在網站上發布了大約2，000到3，000起這類目擊事件。
+    text: 但我們在網站上發布了大約2,000到3,000起這類目擊事件。
     status: completed
     confidence: high
     notes: null
@@ -2437,10 +2437,10 @@ segments:
     end: 00:21:19,800
   source_text: I've talked to military officers, senior officers, general or flagship officers, flag officers, who in quiet conversations have admitted to me that they are very interested in this phenomenon and in their opinion there is very real evidence in support of what this committee is addressing in these hearings this week.
   translation:
-    text: 我與軍官、高級軍官、將領或旗艦軍官、將級軍官交談過，他們在私下對話中向我承認，他們對這個現象非常感興趣，並且在他們看來，有非常真實的證據支持本委員會本週在這些聽證會中討論的內容。
+    text: 我與軍官、高階軍官、將領或將級軍官（flag officers，講者先口誤為 flagship officers）交談過，他們在私下對話中向我承認，他們對這個現象非常感興趣，並且在他們看來，有非常真實的證據支持本委員會本週在這些聽證會中討論的內容。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 flagship officers 為講者口誤，隨即自行更正為 flag officers
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -3223,10 +3223,10 @@ segments:
     end: 00:27:35,240
   source_text: Why then have the overwhelming majority and Mr. Davenport hit the nail on the head?
   translation:
-    text: 那麼為什麼絕大多數人，達文波特先生一針見血地指出了這點？
+    text: 那麼，為什麼絕大多數（媒體）會這樣？達文波特先生一針見血地指出了這點。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文句構破碎，語意依脈絡補足
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3362,7 +3362,7 @@ segments:
     end: 00:28:57,640
   source_text: The following year I met and chatted briefly with Larry Warren, the former United States Air Force security police officer, who had completely on his own, and to a degree at great risk, certainly to his peace of mind and character, become the whistleblower in this case, was directly responsible for the FOIA that resulted in the release of Colonel Halt's January 1981 report, which was then published in England in '83 and the story broke.
   translation:
-    text: 隔年我遇到並短暫交談了賴瑞·華倫（Larry Warren），這位前美國空軍安全警察，他完全憑一己之力，並在某種程度上冒著極大風險，當然是對他的內心平靜和品格的風險，成為此案的吹哨者，他直接促成了資訊自由法申請，導致霍爾特上校（Colonel Halt）1981年1月報告的公開，該報告隨後於1983年在英國發布，故事因此爆發。
+    text: 隔年我遇到並短暫交談了賴瑞·華倫（Larry Warren），這位前美國空軍安全警察，他完全憑一己之力，並在某種程度上冒著極大風險，當然是對他的內心平靜和品格的風險，成為此案的吹哨者，他透過資訊自由法（FOIA）申請，促成了霍爾特上校（Colonel Halt）1981年1月報告的公開，該報告隨後於1983年在英國發布，故事因此爆發。
     status: completed
     confidence: high
     notes: null
@@ -3540,7 +3540,7 @@ segments:
     end: 00:29:52,240
   source_text: I thought it might take a year or two, obviously result in a huge best seller movie deal, many checks to endorse, and women to fight off.
   translation:
-    text: 我以為這可能需要一、兩年，顯然會促成一筆巨大的暢銷書電影交易、許多支票要簽署，還有女人要擺脫。
+    text: 我以為這可能需要一、兩年，顯然會促成暢銷書與電影版權的大交易、無數要背書的支票，還有應付不完的仰慕女性。
     status: completed
     confidence: high
     notes: null
@@ -3661,10 +3661,10 @@ segments:
     end: 00:31:01,720
   source_text: It was immediately in the library of the then new Prime Minister Tony Blair, one of our greatest champions in the United Kingdom, became former Admiral of the Fleet, former Chief of Staff of the Ministry of Defense, Lord Peter Hill Norton, who as an MP brought his hardcover copy onto the book of the floor of House of Lords and confronted the then Secretary for Defense with four questions taken right out of the book, all of which were demured, when my co-author lost his passport, the State Department refusing to renew it for "speaking out on sensitive defense issues in a public forum on foreign soil."
   translation:
-    text: 它立即被放入當時的新首相東尼·布萊爾（Tony Blair）的圖書館，我們在英國最偉大的支持者之一，成為前海軍元帥、前國防部參謀長彼得·希爾·諾頓勳爵（Lord Peter Hill Norton），他作為國會議員將精裝本帶到上議院議場，用書中直接摘錄的四個問題質問當時的國防大臣，所有問題都被迴避，當我的合著者失去護照時，國務院拒絕續發，理由是「在外國土地上的公共論壇上談論敏感的國防問題」。
+    text: 它立即被放入當時新任首相東尼·布萊爾（Tony Blair）的藏書中。我們在英國最有力的支持者之一，是前海軍元帥、前國防參謀長彼得·希爾·諾頓勳爵（Lord Peter Hill Norton），他以貴族身分將精裝本帶進上議院議場，用直接摘自書中的四個問題質詢當時的國防大臣，全部遭到迴避。後來我的合著者失去了護照，國務院拒絕換發，理由是「在外國領土的公開場合談論敏感國防議題」。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文句構嚴重破碎，語意依史實補足；希爾·諾頓為上議院貴族議員，原文 MP 為轉錄訛誤
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3720,10 +3720,10 @@ segments:
     end: 00:31:32,280
   source_text: Some of the things that were done to the more unconscionable as far as I'm concerned, and this is of more interest and focus for me than whatever the source of the intelligences behind the events of December 1980.
   translation:
-    text: 就我而言，對他們所做的一些事情更加不可理喻，這對我來說比1980年12月事件背後情報來源的任何事情都更令人關注和在意。
+    text: 就我而言，對他們所做的一些事情更加不可理喻，這對我來說比1980年12月事件背後智慧體（intelligences）的來源究竟是甚麼更令人關注和在意。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文句構破碎；intelligences 指非人類智慧體，非情報
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -4040,7 +4040,7 @@ segments:
     text: 過去五年來，我一直與查爾斯·霍爾特上校合作，他就是撰寫霍爾特備忘錄的那位副基地指揮官，而那絕對是一座核武設施。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Charles Holt 應為 Charles Halt（霍爾特備忘錄作者）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4147,7 +4147,7 @@ segments:
     text: 它通常被簡稱為PRUFOS資料庫。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Proof Force Police Database 為轉錄錯誤，應為 PRUFOS（Police Reporting UFO Sightings）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4355,7 +4355,7 @@ segments:
     end: 00:35:37,760
   source_text: This is referred to as the Cosford Incident.
   translation:
-    text: 這被稱為科斯福德事件。
+    text: 這被稱為科斯福德事件（Cosford Incident）。
     status: completed
     confidence: high
     notes: null
@@ -4425,10 +4425,10 @@ segments:
     end: 00:36:19,080
   source_text: For example, in October 1984 near RAF Northolt, Middlesex, a silent black triangular object was seen at low altitude by two uniformed police officers on mobile patrol wallet, which they described as being the size of three football fields.
   translation:
-    text: 例如，1984年10月在米德爾塞克斯郡RAF Northolt附近，兩名執行機動巡邏的制服警察在低空目擊一個無聲的黑色三角形物體，他們描述其大小相當於三個足球場。
+    text: 例如，1984年10月在米德爾塞克斯郡（Middlesex）諾索爾皇家空軍基地（RAF Northolt）附近，兩名執行機動巡邏的制服警察在低空目擊一個無聲的黑色三角形物體，他們描述其大小相當於三個足球場。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文此段轉錄嚴重訛誤（Arief North Alton Middlesex），依史實更正為 RAF Northolt, Middlesex；句尾 wallet 疑為轉錄雜訊，未譯
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -5331,7 +5331,7 @@ segments:
     end: 00:45:32,600
   source_text: My four books include An Alien Harvest, 1989, Glimpses of Other Realities, Volume One, Facts and Eyewitnesses, 1993, Glimpses of Other Realities, Volume Two, High Strangeness, 1998, Mysterious Lights, and Crop Circle, Second Edition, 2002.
   translation:
-    text: 我的四本著作包括1989年的《外星收穫》（An Alien Harvest）、1993年的《其他現實的一瞥，第一卷：事實與目擊者》（Glimpses of Other Realities， Volume One， Facts and Eyewitnesses）、1998年的《其他現實的一瞥，第二卷：高度怪異》（Glimpses of Other Realities， Volume Two， High Strangeness）、以及2002年的《神秘光點與麥田圈，第二版》（Mysterious Lights， and Crop Circle， Second Edition）。
+    text: 我的四本著作包括1989年的《外星收穫》（An Alien Harvest）、1993年的《其他現實的一瞥，第一卷：事實與目擊者》（Glimpses of Other Realities, Volume One, Facts and Eyewitnesses）、1998年的《其他現實的一瞥，第二卷：高度怪異》（Glimpses of Other Realities, Volume Two, High Strangeness）、以及2002年的《神秘光點與麥田圈，第二版》（Mysterious Lights, and Crop Circle, Second Edition）。
     status: completed
     confidence: high
     notes: null
@@ -6320,10 +6320,10 @@ segments:
     end: 00:55:06,800
   source_text: These changes are referred to as the string beans signed by a pathologist indicating tissue exposure to high heat, as in laser or hot needle surgery, but again, there is no carbon residue.
   translation:
-    text: 病理學家將這些變化稱為「豌豆串」（string beans）徵象，表示組織暴露於高溫，如雷射或熱針手術，但同樣沒有碳殘留。
+    text: 病理學家將這些變化稱為「四季豆」（string beans）徵象，表示組織暴露於高溫，如雷射或熱針手術，但同樣沒有碳殘留。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 signed 應為 sign（徵象）；string beans 為四季豆，非豌豆
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6536,7 +6536,7 @@ segments:
     end: 00:57:12,360
   source_text: Len Lauber, head of animal mutilation investigations at the Royal Canadian Mounted Police in Calgary Alberta in 1980, where the local Canadian media were told by the RCMP that the cause of the mutilations there in the hundreds were satanic cults.
   translation:
-    text: 1980年在亞伯達省卡加利（Calgary Alberta）的加拿大皇家騎警動物肢解調查負責人蘭·勞伯（Len Lauber），當時加拿大皇家騎警告訴當地加拿大媒體，那裡數百起肢解案件的原因是邪教所為。
+    text: 1980年在亞伯達省卡加利（Calgary Alberta）的加拿大皇家騎警動物肢解調查負責人連恩·勞伯（Len Lauber），當時加拿大皇家騎警告訴當地加拿大媒體，那裡數百起肢解案件的原因是邪教所為。
     status: completed
     confidence: high
     notes: null
@@ -6555,10 +6555,10 @@ segments:
     end: 00:57:36,080
   source_text: But Len Lauber called me at KMGH TV in Denver after the broadcast of my TV documentary, A Strange Harvest, and he said that he had seen my documentary, and he was calling me because, and this is what he said to me, he knew that something from outer space was involved in the mutilations that the RCMP in Canada had investigated.
   translation:
-    text: 但蘭·勞伯在我的電視紀錄片《詭異收穫》播出後打電話到丹佛的KMGH電視台找我，他說他看了我的紀錄片，他打電話給我是因為——這是他對我說的——他知道加拿大皇家騎警調查的肢解案件涉及來自外太空的東西。
+    text: 但連恩·勞伯在我的電視紀錄片《詭異收穫》播出後打電話到丹佛的KMGH電視台找我，他說他看了我的紀錄片，他打電話給我是因為——這是他對我說的——他知道加拿大皇家騎警調查的肢解案件涉及來自外太空的東西。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Lynn Lauber 應為 Len Lauber（同 seg 367）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6705,7 +6705,7 @@ segments:
     text: 要讓這些人，無論是執法人員還是牧場主，站在攝影機前告訴世界他們親眼所見，是我整個職業生涯中最大的困難，因為我們生活在一個人類更害怕人類和他們的嘲笑，勝過害怕外星人的星球上。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 they're 應為 their
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6759,7 +6759,7 @@ segments:
     end: 01:00:05,800
   source_text: They have more data than I do.
   translation:
-    text: 他們擁有比我更多的數據。
+    text: 他們擁有比我更多的資料。
     status: completed
     confidence: high
     notes: null
@@ -7422,7 +7422,7 @@ segments:
     end: 01:04:37,700
   source_text: And I note that we still have these stupid wars and kill each other and there's got to be a civilization somewhere in this huge universe with a billion stars in our galaxy and a billion galaxies out there.
   translation:
-    text: 我注意到我們仍然在進行這些愚蠢的戰爭，互相殘殺，而在這個擁有數十億恆星的銀河系以及外面數十億個星系的巨大宇宙中，一定存在某個文明。
+    text: 我注意到我們仍然在進行這些愚蠢的戰爭，互相殘殺，而在這個擁有十億顆恆星的銀河系以及外面十億個星系的巨大宇宙中，一定存在某個文明。
     status: completed
     confidence: high
     notes: null
@@ -7494,7 +7494,7 @@ segments:
     end: 01:05:12,240
   source_text: I'm sure the Air Force thought that they could explain away nearly 12,000, 12,618 sightings.
   translation:
-    text: 我確信空軍認為他們可以解釋掉將近12，000個，也就是12，618個目擊事件。
+    text: 我確信空軍認為他們可以解釋掉將近12,000個，也就是12,618個目擊事件。
     status: completed
     confidence: high
     notes: null
@@ -8087,10 +8087,10 @@ segments:
     end: 01:08:35,360
   source_text: The next person to ask questions is Congresswoman Lynn Woolsey.
   translation:
-    text: 下一位提問的是林恩·沃爾西眾議員。
+    text: 下一位提問的是林恩·伍爾西（Lynn Woolsey）眾議員。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Wolsey 應為 Woolsey，網路流通譯名「伍爾西」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8243,7 +8243,7 @@ segments:
     end: 01:09:44,120
   source_text: Okay, Peter Davenport, you said that there's over 80,000 written reports and examples that you get, I mean, reports you get every year on your hotline and in your organization?
   translation:
-    text: 好的，彼得·達文波特，你說你們有超過80，000份書面報告和案例，我是說，你們每年通過熱線和組織收到的報告？
+    text: 好的，彼得·達文波特，你說你們有超過80,000份書面報告和案例，我是說，你們每年通過熱線和組織收到的報告？
     status: completed
     confidence: high
     notes: null
@@ -8261,7 +8261,7 @@ segments:
     end: 01:09:48,560
   source_text: We receive probably between 3,000 and 6,000 reports a year.
   translation:
-    text: 我們每年大概收到3，000到6，000份報告。
+    text: 我們每年大概收到3,000到6,000份報告。
     status: completed
     confidence: high
     notes: null
@@ -8278,7 +8278,7 @@ segments:
     end: 01:09:52,880
   source_text: We have, I think, 86,000 reports accumulated in our database.
   translation:
-    text: 我想我們的資料庫中累積了86，000份報告。
+    text: 我想我們的資料庫中累積了86,000份報告。
     status: completed
     confidence: high
     notes: null
@@ -8313,7 +8313,7 @@ segments:
     end: 01:10:10,980
   source_text: Thank you for the question, Congresswoman Woolsey.
   translation:
-    text: 謝謝您的提問，沃爾西眾議員。
+    text: 謝謝您的提問，伍爾西眾議員。
     status: completed
     confidence: high
     notes: null
@@ -8401,7 +8401,7 @@ segments:
     end: 01:10:57,680
   source_text: It was that large above their heads, at which time it was not less than 8,000 feet above ground level.
   translation:
-    text: 它在他們頭頂上就是那麼大，當時它距離地面不少於8，000英呎。
+    text: 它在他們頭頂上就是那麼大，當時它距離地面不少於8,000英呎。
     status: completed
     confidence: high
     notes: null
@@ -8660,7 +8660,7 @@ segments:
     end: 01:12:16,640
   source_text: But about 1,500 witnesses submitted written reports.
   translation:
-    text: 但大約有1，500名目擊者提交了書面報告。
+    text: 但大約有1,500名目擊者提交了書面報告。
     status: completed
     confidence: high
     notes: null
@@ -9022,7 +9022,7 @@ segments:
     end: 01:14:29,520
   source_text: Oh I think they're common knowledge in popular culture but the specifics of the dynamics of these machines and what they're capable of for most intelligent people would mimic a machine from another planet or something.
   translation:
-    text: 哦，我認為它們在流行文化中是常識，但對於大多數聰明人來說，這些機器的動力學細節以及它們的能力會模仿來自另一個星球的機器或類似的東西。
+    text: 哦，我認為它們在流行文化中是常識，但對大多數聰明人來說，這些機器的動力學細節及其性能，看起來就如同來自另一個星球的機器。
     status: completed
     confidence: high
     notes: null
@@ -9078,7 +9078,7 @@ segments:
     end: 01:15:08,240
   source_text: The main thing is to paraphrase our friend and colleague Stanton Friedman, the question is not are UFOs per se machines of advanced technology from parts unknown.
   translation:
-    text: 主要的是，套用我們的朋友和同事斯坦頓·弗里德曼的話，問題不在於UFO本身是否是來自未知地方的先進技術機器。
+    text: 主要的是，套用我們的朋友和同事斯坦頓·弗里德曼（Stanton Friedman）的話，問題不在於UFO本身是否是來自未知地方的先進技術機器。
     status: completed
     confidence: high
     notes: null
@@ -9856,7 +9856,7 @@ segments:
     end: 01:21:24,000
   source_text: But the evidence goes to implication and that's what you're asking about.
   translation:
-    text: 但證據涉及影響，這就是你在問的。
+    text: 但證據指向的是其意涵，這正是你在問的。
     status: completed
     confidence: high
     notes: null
@@ -9873,7 +9873,7 @@ segments:
     end: 01:21:39,240
   source_text: And the implication of all of this is most of the world is probably at the stage of pretty lights in the sky that form patterns or can be stationary and put beams down.
   translation:
-    text: 所有這一切的影響是，世界上大多數人可能還停留在天空中漂亮的光形成圖案或可以靜止並發射光束的階段。
+    text: 所有這一切的意涵是，世界上大多數人可能還停留在天空中漂亮的光點形成圖案、或可以靜止並投射光束的階段。
     status: completed
     confidence: high
     notes: null
@@ -9984,7 +9984,7 @@ segments:
     end: 01:24:05,240
   source_text: And I think that what I had just realized and you're asking me the question which goes to implication is that the disconnect between the current world population of seven billion and what is actually happening on this planet in relationship to other intelligences, the gap is so great that to address the details that are known and what our government knows is so difficult that right now the inertia of silence on the part of government agencies who have a great deal of information, let me guarantee you, that they feel that this is a subject that cannot be presented.
   translation:
-    text: 我認為我剛剛意識到的，而你問我這個涉及影響的問題是，目前全球70億人口與這個星球上與其他智慧的關係中實際發生的事情之間的脫節，差距是如此之大，以至於要處理已知的細節和我們政府所知道的是如此困難，讓我向你保證，現在擁有大量資訊的政府機構的沉默慣性，他們認為這是一個無法呈現的主題。
+    text: 我認為我剛剛意識到的，而你問我這個涉及意涵的問題是，目前全球70億人口與這個星球上與其他智慧的關係中實際發生的事情之間的脫節，差距是如此之大，以至於要處理已知的細節和我們政府所知道的是如此困難，讓我向你保證，現在擁有大量資訊的政府機構的沉默慣性，他們認為這是一個無法呈現的主題。
     status: completed
     confidence: high
     notes: null
@@ -10060,7 +10060,7 @@ segments:
     end: 01:25:01,280
   source_text: And the implication there politically is that we are now in the United States of America where there is an unstated policy of total complete silence for the foreseeable future because it is too difficult to change what has been known to something that might upend a lot of subjects.
   translation:
-    text: 而在政治上的影響是，我們現在在美國，在可預見的未來有一個未明說的完全徹底沉默的政策，因為改變已知的東西為可能顛覆許多主題的東西太困難了。
+    text: 而在政治上的意涵是，我們現在在美國，在可預見的未來有一個未明說的完全徹底沉默的政策，因為把已知的事情改變為可能顛覆許多主題的東西太困難了。
     status: completed
     confidence: high
     notes: null
@@ -10080,10 +10080,10 @@ segments:
     end: 01:25:15,760
   source_text: I would like to turn it now to Congressman Carolyn Kilpatrick, please.
   translation:
-    text: 現在我想請卡洛琳·基爾帕特里克眾議員發言。
+    text: 現在我想請卡洛琳·基爾帕特里克（Carolyn Kilpatrick）眾議員發言。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Congressman 應為 Congresswoman，講者隨即更正（見下段）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -10302,10 +10302,10 @@ segments:
     end: 01:26:08,640
   source_text: I think I want to ask you first, Mr. Heseltine, Royal Air Force, security, police, hundreds of incidents yet today, what is the position of the British government on UFOs?
   translation:
-    text: 我想我要先問你，黑茲爾頓先生，英國皇家空軍、安全、警察，直到今天數百起事件，英國政府對UFO的立場是什麼？
+    text: 我想我要先問你，海絲汀先生，英國皇家空軍、安全、警察，直到今天數百起事件，英國政府對UFO的立場是什麼？
     status: completed
-    confidence: medium
-    notes: 轉錄中姓名誤拼為 Hazelton，實際應為 Heseltine（海絲汀）
+    confidence: high
+    notes: 原文 Hazelton 應為 Heseltine
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -10461,10 +10461,10 @@ segments:
     end: 01:27:12,160
   source_text: For example, a British case in 1957, Milton Torres, a pilot, US pilot flying over Ipswich in Suffolk, England and he was stationed there flying a super saber.
   translation:
-    text: 例如，1957年的一個英國案例，米爾頓·托雷斯，一名飛行員，美國飛行員在英格蘭薩福克郡伊普斯威奇上空飛行，他駐紮在那裡駕駛超級軍刀戰機。
+    text: 例如，1957年的一個英國案例，米爾頓·托雷斯（Milton Torres），一名飛行員，美國飛行員在英格蘭薩福克郡伊普斯威奇上空飛行，他駐紮在那裡駕駛超級軍刀戰機。
     status: completed
     confidence: high
-    notes: null
+    notes: super saber 指 F-100 Super Sabre 超級軍刀戰機
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -10479,7 +10479,7 @@ segments:
     end: 01:27:18,960
   source_text: He was vectored towards a radar target and he was ordered to fire his missile at the target.
   translation:
-    text: 他被引導向一個雷達目標，他被命令向目標發射導彈。
+    text: 他被引導向一個雷達目標，他被命令向目標發射飛彈。
     status: completed
     confidence: high
     notes: null
@@ -10906,7 +10906,7 @@ segments:
     end: 01:28:49,520
   source_text: If I have my military who comes to me and tells me they've got data, experiences and other kinds of things that this is real, other countries I've been on elevator and in the hotels with others from Chile and Peru and everywhere else in the world or many places in the world, when we already acknowledge that whatever it is is more significant than what we have here and obviously in Britain and some of the other countries, the why of it, your scientific data is outstanding.
   translation:
-    text: 如果我的軍方來找我告訴我他們有數據、經驗和其他各種東西證明這是真實的，我在電梯裡和酒店裡遇到來自智利、秘魯和世界各地或世界許多地方的其他國家的人，當我們已經承認無論它是什麼，都比我們這裡擁有的更重要，顯然在英國和其他一些國家也是如此，它的原因，你們的科學數據是傑出的。
+    text: 如果我的軍方來找我告訴我他們有資料、經驗和其他各種東西證明這是真實的，我在電梯裡和飯店裡遇到來自智利、秘魯和世界各地或世界許多地方的其他國家的人，當我們已經承認無論它是什麼，都比我們這裡擁有的更重要，顯然在英國和其他一些國家也是如此，它的原因，你們的科學資料是傑出的。
     status: completed
     confidence: high
     notes: null
@@ -10997,10 +10997,10 @@ segments:
     end: 01:29:53,400
   source_text: I for one at least have been exposed to information from two people that within 24 hours of the Jim Peniston, John Burroughs and Ed Kvansack encounter with the black glassy craft with the hieroglyphic symbols on it in the forest that within 24 hours in the UK, the National Security Agency of the United States took over everything that was happening at Rendlesham Forest.
   translation:
-    text: 至少我個人從兩個人那裡接觸到資訊，在吉姆·彭尼斯頓、約翰·巴勒斯和艾德·克萬薩克在森林中遭遇那個帶有象形符號的黑色玻璃狀飛行器後的24小時內，在英國，美國國家安全局接管了蘭德沙姆森林發生的一切。
+    text: 至少我個人從兩個人那裡接觸到資訊，在吉姆·潘尼斯頓（Jim Penniston）、約翰·巴勒斯（John Burroughs）和艾德·克萬薩克（Ed Kvansack）在森林中遭遇那個帶有象形符號的黑色玻璃狀飛行器後的24小時內，在英國，美國國家安全局接管了蘭德沙姆森林發生的一切。
     status: completed
     confidence: medium
-    notes: Van Water 應為 Rendlesham（蘭德沙姆森林）
+    notes: Van Water 應為 Rendlesham（蘭德沙姆森林）；潘尼斯頓譯名依主表（UFO-05 人工裁決網路流通譯法）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -12540,7 +12540,7 @@ segments:
     end: 01:36:34,380
   source_text: How is it that my saying to you, Congresswoman, I saw something in the sky the other day or the other night that I couldn't recognize or did something that I had never seen, case closed, why is it that in terms of 66 years of Western journalism, popular culture, attitudes and ideas about flying saucers and little green men that you hear me make a simple observation and you're wired to think, gee, I didn't know Peter had mental problems or maybe he's kind of gone mystical or he wants to feel special or he wants to perpetrate a hoax or he wants to be on the Oprah show or in the words of the late Dr. Wilhelm Reich, evasion of the obvious.
   translation:
-    text: 為什麼我對你說，眾議員女士，我前幾天或前幾晚在天空中看到了我無法辨認的東西，或者做了我從未見過的事情，案件結束，為什麼在66年的西方新聞業、流行文化、關於飛碟和小綠人的態度和想法方面，你聽到我做一個簡單的觀察，你就被設定成認為，哇，我不知道彼得有精神問題，或者也許他有點走向神秘主義，或者他想感覺特別，或者他想製造騙局，或者他想上歐普拉秀，或者用已故的威廉·萊希博士的話說，逃避明顯的事實。
+    text: 為什麼我對你說，眾議員女士，我前幾天或前幾晚在天空中看到了我無法辨認的東西，或者做了我從未見過的事情，案件結束，為什麼在66年的西方新聞業、流行文化、關於飛碟和小綠人的態度和想法方面，你聽到我做一個簡單的觀察，你就被設定成認為，哇，我不知道彼得有精神問題，或者也許他有點走向神秘主義，或者他想感覺特別，或者他想製造騙局，或者他想上歐普拉秀，或者用已故的威廉·賴希（Wilhelm Reich）博士的話說，逃避明顯的事實。
     status: completed
     confidence: high
     notes: null
@@ -12739,10 +12739,10 @@ segments:
     end: 01:37:43,340
   source_text: The influence the Times exerted over the other news syndicates was marked.
   translation:
-    text: 《泰晤士報》對其他新聞聯合組織施加的影響是顯著的。
+    text: 《紐約時報》對其他新聞聯合組織施加的影響是顯著的。
     status: completed
     confidence: high
-    notes: null
+    notes: The Times 此處指 New York Times（承上文），非倫敦《泰晤士報》
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -12756,10 +12756,10 @@ segments:
     end: 01:37:55,100
   source_text: The Copley Syndicate, Hearst Papers, all of the major American papers followed the Times lead as a rule, and the Times hit the floor with all four wheels spinning.
   translation:
-    text: 科普利聯合組織、赫斯特報業，所有主要的美國報紙通常都追隨《泰晤士報》的領導，而《泰晤士報》全力以赴。
+    text: 科普利聯合組織（Copley Syndicate）、赫斯特報業（Hearst Papers），所有主要的美國報紙通常都追隨《紐約時報》的領導，而《紐約時報》全力以赴。
     status: completed
     confidence: high
-    notes: null
+    notes: The Times 此處指 New York Times，非倫敦《泰晤士報》
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -13003,10 +13003,10 @@ segments:
     end: 01:40:31,620
   source_text: I cannot prove, I couldn't offer you a shred of real evidence of why I think this is and how it happened, but deductive reasoning, a lot of study and common sense suggest to me that a number of key individuals in the Truman administration, either with the understanding of the president or not to preserve plausible liability, either with the coordination of the study group that had formed around the president in 1947 or not, went to New York, to Boston, to Los Angeles to meet with people like David Sarnoff of NBC, the owners of The Times, the Hearst people, and one of several things passed.
   translation:
-    text: 我無法證明，我無法為你提供任何真實證據來說明我為什麼這樣認為以及它是如何發生的，但演繹推理、大量研究和常識向我表明，杜魯門政府中的一些關鍵人物，無論是在總統的理解下還是為了保留合理的責任，無論是否與1947年在總統周圍形成的研究小組協調，都去了紐約、波士頓、洛杉磯，與NBC的大衛·薩諾夫、《泰晤士報》的所有者、赫斯特人等人會面，並傳達了幾件事情之一。
+    text: 我無法證明，我無法為你提供任何真實證據來說明我為什麼這樣認為以及它是如何發生的，但演繹推理、大量研究和常識向我表明，杜魯門政府中的一些關鍵人物，無論是否在總統的諒解下，為了保留合理的免責空間，無論是否與1947年在總統周圍形成的研究小組協調，都去了紐約、波士頓、洛杉磯，與NBC的大衛·薩諾夫（David Sarnoff）、《紐約時報》的所有者、赫斯特報業的人會面，並傳達了幾件事情之一。
     status: completed
     confidence: high
-    notes: null
+    notes: The Times 此處指 New York Times，非倫敦《泰晤士報》；原文 plausible liability 應為 plausible deniability（合理的可推諉性）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -13443,7 +13443,7 @@ segments:
     end: 01:43:19,680
   source_text: And I believe that that is the way that the Defense Department and local media, that was shortly after World War II, and so the population was less and the local media were much, much more inclined to take some requests by the Pentagon.
   translation:
-    text: 我相信這就是國防部和地方媒體的方式，那是在第二次世界大戰後不久，所以人口較少，地方媒體更更傾向於接受五角大廈的一些要求。
+    text: 我相信這就是國防部和地方媒體的方式，那是在第二次世界大戰後不久，所以人口較少，地方媒體更加傾向於接受五角大廈的一些要求。
     status: completed
     confidence: high
     notes: null
@@ -13513,7 +13513,7 @@ segments:
     end: 01:43:43,100
   source_text: Mr. Davenport, you indicated you received about 86,000 incidents, I guess, over the years, about 3,000 to 5,000 a year.
   translation:
-    text: 達文波特先生，你說你這些年來收到了大約86，000個事件，我想，每年大約3，000到5，000個。
+    text: 達文波特先生，你說你這些年來收到了大約86,000個事件，我想，每年大約3,000到5,000個。
     status: completed
     confidence: high
     notes: null
@@ -13601,7 +13601,7 @@ segments:
     end: 01:44:41,380
   source_text: There were several criteria, the drama involved with the sighting, the degree of corroboration, the degree of verification, but in essence, I drew up that list as a distillation from the 86,000 cases for the committee's benefit to show you some of the more dramatic, well-founded cases that we have in our database.
   translation:
-    text: 有幾個標準，目擊事件涉及的戲劇性、佐證程度、驗證程度，但本質上，我從86，000個案例中提煉出那份清單，以便委員會了解我們資料庫中一些更戲劇性、有充分依據的案例。
+    text: 有幾個標準，目擊事件涉及的戲劇性、佐證程度、驗證程度，但本質上，我從86,000個案例中提煉出那份清單，以便委員會了解我們資料庫中一些更戲劇性、有充分依據的案例。
     status: completed
     confidence: high
     notes: null
@@ -13621,7 +13621,7 @@ segments:
     end: 01:44:50,860
   source_text: And you, like others that have studied this, would probably say that a high percentage of the 86,000 that you've received are probably not credible.
   translation:
-    text: 而你，像其他研究過這個的人一樣，可能會說你收到的86，000個案例中有很高比例可能是不可信的。
+    text: 而你，像其他研究過這個的人一樣，可能會說你收到的86,000個案例中有很高比例可能是不可信的。
     status: completed
     confidence: high
     notes: null
@@ -14258,7 +14258,7 @@ segments:
     end: 01:49:04,200
   source_text: This is a pretty thick list, a lot of them, so I imagine the credibility on your list you would rank as certainly higher than what many people that collect data would indicate.
   translation:
-    text: 這是一份相當厚的清單，有很多，所以我想像你清單上的可信度你會評為肯定比許多收集數據的人所表示的要高。
+    text: 這是一份相當厚的清單，有很多，所以我想你清單上的可信度，你會評為肯定比許多收集資料的人所表示的要高。
     status: completed
     confidence: high
     notes: null
@@ -14293,7 +14293,7 @@ segments:
     end: 01:49:41,800
   source_text: No, you've actually highlighted something that I hope to be able to answer, and I think the real answer is that when I said to you before that the accepted figure is three percent after investigation, well that's not really the end of it because I would argue that in the high caliber witness categories, high caliber I would mean astronauts, cosmonauts, pilots, military and commercial, radar operators, sonar operators, in these very high caliber witness categories, the percentage after investigation would be much, much higher than that three percent.
   translation:
-    text: 不，你實際上突顯了我希望能夠回答的東西，我認為真正的答案是，當我之前對你說調查後公認的數字是3%時，嗯，這並不是真正的終點，因為我會爭辯說，在高水準證人類別中，高水準我指的是太空人、宇航員、飛行員、軍事和商業、雷達操作員、聲納操作員，在這些非常高水準的證人類別中，調查後的百分比會比那3%高得多。
+    text: 不，你實際上突顯了我希望能夠回答的東西，我認為真正的答案是，當我之前對你說調查後公認的數字是3%時，嗯，這並不是真正的終點，因為我會爭辯說，在高水準證人類別中，高水準我指的是太空人（astronauts）、俄國太空人（cosmonauts）、飛行員、軍用和民航、雷達操作員、聲納操作員，在這些非常高水準的證人類別中，調查後的百分比會比那3%高得多。
     status: completed
     confidence: high
     notes: null
@@ -14335,10 +14335,10 @@ segments:
     end: 01:50:17,780
   source_text: Okay, then I'm going to quickly ask you, well I'm not going to ask you because I only have a minute left, but I'm going to say certainly credibility of people like Captain Salas who's sitting here in the front row, that probably caused the United States Air Force to come up with filters over their ICBM silos is certainly going to be a credible experience in the UFO.
   translation:
-    text: 好的，那麼我要快速問你，嗯我不會問你因為我只剩一分鐘了，但我要說的是，像坐在前排的索拉斯上尉這樣的人的可信度，這可能導致美國空軍在他們的ICBM發射井上安裝過濾器，這肯定會是UFO方面的可信經驗。
+    text: 好的，那麼我要快速問你，嗯我不會問你因為我只剩一分鐘了，但我要說的是，像坐在前排的薩拉斯上尉（Captain Salas）這樣的人的可信度，這可能導致美國空軍在他們的洲際彈道飛彈（ICBM）發射井上加裝濾鏡，這肯定會是UFO方面的可信經驗。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Solace 應為 Salas（與 UFO-07/08 薩拉斯上尉同一人）；filters 指飛彈發射井的光學／觀測濾鏡
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -14373,10 +14373,10 @@ segments:
     end: 01:50:50,900
   source_text: I'm sorry to catch you, but I know that we're trying, I'm going to ask Ms. Howe, very interesting slides, very interesting, Nevada Proving Ground, Dugway, Utah, I'm from Utah, talk about secrets, let's talk about nuclear testing secrets, could nuclear testing have a lot to do with these animal carcasses and the bloodless?
   translation:
-    text: 對不起打斷你，但我知道我們正在努力，我要問豪女士，非常有趣的幻燈片，非常有趣，內華達試驗場、猶他州達格威，我來自猶他州，談談秘密，讓我們談談核試驗秘密，核試驗是否與這些動物屍體和失血有很大關係？
+    text: 對不起打斷你，但我知道我們正在努力，我要問豪女士，非常有趣的投影片，非常有趣，內華達試驗場（Nevada Proving Ground）、猶他州達格威（Dugway），我來自猶他州，談談秘密，讓我們談談核試驗秘密，核試驗是否與這些動物屍體和無血現象有很大關係？
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Dagway 應為 Dugway（Dugway Proving Ground，猶他州生化武器試驗場）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -14640,7 +14640,7 @@ segments:
     end: 01:53:27,380
   source_text: If our government, going back to FDR, which there were also leaked documents about the discussion between FDR and the Secretary of War, Marshall, after February 1942, made the front page of the Los Angeles Times, the photograph of our artillery and beams going up to a diamond shaped object, distributing some 1,417 bullets, and then having that discussed in documents by Franklin Delano Roosevelt with the Secretary of War, and that in those documents that had been leaked, it uses the terms, these were interplanetary, celestial, and that we were retrieving these craft because we wanted to examine them.
   translation:
-    text: 如果我們的政府，追溯到羅斯福，也有關於1942年2月之後羅斯福與戰爭部長馬歇爾之間討論的洩露文件，登上了《洛杉磯時報》的頭版，我們的火炮和光束射向一個菱形物體的照片，發射了大約1，417發子彈，然後富蘭克林·德拉諾·羅斯福與戰爭部長在文件中討論了這件事，而在那些洩露的文件中，它使用了這些術語，這些是行星際的、天體的，我們正在回收這些飛行器因為我們想檢查它們。
+    text: 如果我們的政府，追溯到羅斯福，也有關於1942年2月之後羅斯福與戰爭部長馬歇爾之間討論的洩露文件，登上了《洛杉磯時報》的頭版，我們的火炮和光束射向一個菱形物體的照片，發射了大約1,417發子彈，然後富蘭克林·德拉諾·羅斯福與戰爭部長在文件中討論了這件事，而在那些洩露的文件中，它使用了這些術語，這些是行星際的、天體的，我們正在回收這些飛行器因為我們想檢查它們。
     status: completed
     confidence: high
     notes: null
@@ -14700,7 +14700,7 @@ segments:
     end: 01:53:59,740
   source_text: I want to get the best information I can, as credibly put together as I can, to help, as I said, break down the truth embargo.
   translation:
-    text: 我想獲得我能獲得的最好資訊，盡可能可信地組合在一起，以幫助，正如我所說的，打破真相禁運。
+    text: 我想獲得我能獲得的最好資訊，盡可能可信地組合在一起，以幫助，正如我所說的，打破真相封鎖。
     status: completed
     confidence: high
     notes: null

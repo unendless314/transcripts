@@ -107,34 +107,28 @@ PYTHONPATH=. python3 tools/topics_analysis_driver.py --config configs/UFO-01.yam
 PYTHONPATH=. python3 tools/prepare_topic_drafts.py --config configs/UFO-01.yaml --verbose
 ```
 
-### 步驟 6：翻譯
+### 步驟 6：翻譯與校稿
 
-編輯 `data/UFO-01/drafts/topic_XX.md` 檔案，填入翻譯內容。
+編輯 `data/UFO-01/drafts/topic_XX.md` 檔案，填入翻譯與校稿內容。
 
 參考資料：
 - `data/UFO-01/translation_guidelines.md` - 翻譯風格指南
 - `data/UFO-01/terminology.yaml` - 術語對照表
 - `data/UFO-01/topics.json` - 主題摘要
 
-### 步驟 7：QA - 修正中文標點
-
-```bash
-PYTHONPATH=. python3 tools/fix_chinese_punctuation.py --config configs/UFO-01.yaml --verbose
-```
-
-### 步驟 8：回填翻譯到 main.yaml
+### 步驟 7：回填翻譯到 main.yaml
 
 ```bash
 PYTHONPATH=. python3 tools/backfill_translations.py --config configs/UFO-01.yaml --verbose
 ```
 
-### 步驟 9：匯出翻譯後的 SRT
+### 步驟 8：匯出翻譯後的 SRT
 
 ```bash
 PYTHONPATH=. python3 tools/export_srt.py --config configs/UFO-01.yaml --verbose
 ```
 
-### 步驟 10：分割長字幕（可選）
+### 步驟 9：分割長字幕（可選）
 
 ```bash
 PYTHONPATH=. python3 tools/split_srt.py \
@@ -171,8 +165,6 @@ cp .env.example .env
 
 ## 注意事項
 
-- LLM 翻譯常見問題：中文翻譯中混用英文標點符號（例如 `,` 而非 `，`）
-- 建議在翻譯後執行 `fix_chinese_punctuation.py` 進行修正
 - 長字幕建議執行 `split_srt.py` 2-3 次以達到理想長度
 
 ---

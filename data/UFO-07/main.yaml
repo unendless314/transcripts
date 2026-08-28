@@ -128,7 +128,7 @@ segments:
     end: 00:00:38,520
   source_text: We'll begin with Captain Robert Salas.
   translation:
-    text: 我們將從羅伯特·薩拉斯上尉 (Captain Robert Salas) 開始。
+    text: 我們將從羅伯特·薩拉斯上尉（Captain Robert Salas） 開始。
     status: completed
     confidence: high
     notes: 已修正 Whisper 錯誤（原為 Roger Salas）
@@ -213,7 +213,7 @@ segments:
     end: 00:00:52,560
   source_text: Mr. Kilpatrick and panel, I would first like to briefly describe the incident that I experienced in March 1967.
   translation:
-    text: Kilpatrick 先生以及各位委員，我想首先簡要描述我在 1967 年 3 月經歷的事件。
+    text: 基爾派翠克先生以及各位委員，我想首先簡要描述我在 1967 年 3 月經歷的事件。
     status: completed
     confidence: high
     notes: null
@@ -231,7 +231,7 @@ segments:
     end: 00:00:57,860
   source_text: At that time, I was a First Lieutenant, U.S. Air Force Station at Malmstrom Air Force Base, Montana.
   translation:
-    text: 當時，我是一名少尉，駐紮於蒙大拿州馬姆斯特羅姆空軍基地 (Malmstrom Air Force Base)，隸屬美國空軍。
+    text: 當時，我是一名少尉，駐紮於蒙大拿州馬姆斯特羅姆空軍基地（Malmstrom Air Force Base），隸屬美國空軍。
     status: completed
     confidence: high
     notes: 已修正 Whisper 錯誤（原為 Maldenstrom）
@@ -249,7 +249,7 @@ segments:
     end: 00:01:05,140
   source_text: I was trained in assigned duties as a missile launch officer for the Minuteman I intercontinental ballistic missile.
   translation:
-    text: 我接受訓練並被指派擔任民兵一型洲際彈道導彈 (Minuteman I intercontinental ballistic missile) 的導彈發射官。
+    text: 我接受訓練並被指派擔任民兵一型洲際彈道飛彈（Minuteman I intercontinental ballistic missile） 的飛彈發射官。
     status: completed
     confidence: high
     notes: null
@@ -267,7 +267,7 @@ segments:
     end: 00:01:10,720
   source_text: I was designated Deputy Missile Combat Crew Commander and part of a two-man crew.
   translation:
-    text: 我被指定為副導彈戰鬥組指揮官，隸屬於一個兩人編組。
+    text: 我被指定為副飛彈戰鬥組指揮官，隸屬於一個兩人編組。
     status: completed
     confidence: high
     notes: null
@@ -284,7 +284,7 @@ segments:
     end: 00:01:14,260
   source_text: My commander at that time was Lieutenant Frederick Mywald.
   translation:
-    text: 我當時的指揮官是弗雷德里克·邁沃爾德中尉 (Lieutenant Frederick Mywald)。
+    text: 我當時的指揮官是弗雷德里克·邁沃爾德中尉（Lieutenant Frederick Mywald）。
     status: completed
     confidence: high
     notes: 已修正 Whisper 錯誤（原為 Mywold）
@@ -336,7 +336,7 @@ segments:
     end: 00:01:38,900
   source_text: We were on duty inside the Oscar Launch Control Center, a concrete capsule located about 60 feet underground.
   translation:
-    text: 我們在 Oscar 發射控制中心 (Oscar Launch Control Center) 內值勤，那是一個位於地下約 60 英呎的混凝土艙室。
+    text: 我們在 Oscar 發射控制中心（Oscar Launch Control Center） 內值勤，那是一個位於地下約 60 英呎的混凝土艙室。
     status: completed
     confidence: high
     notes: null
@@ -354,7 +354,7 @@ segments:
     end: 00:01:43,800
   source_text: We had operational control over 10 Minuteman nuclear missiles.
   translation:
-    text: 我們負責操作控制 10 枚民兵核導彈。
+    text: 我們負責操作控制 10 枚民兵核飛彈。
     status: completed
     confidence: high
     notes: null
@@ -371,7 +371,7 @@ segments:
     end: 00:01:49,940
   source_text: Each missile operates independently and has its own source of primary and backup power systems.
   translation:
-    text: 每枚導彈都獨立運作，並配備各自的主要電源與備用電源系統。
+    text: 每枚飛彈都獨立運作，並配備各自的主要電源與備用電源系統。
     status: completed
     confidence: high
     notes: null
@@ -389,7 +389,7 @@ segments:
     end: 00:01:57,920
   source_text: It is important for you to note that the command and control for these missiles was entirely located within the capsule.
   translation:
-    text: 各位務必注意，這些導彈的指揮與控制系統完全位於艙室內部。
+    text: 各位務必注意，這些飛彈的指揮與控制系統完全位於艙室內部。
     status: completed
     confidence: high
     notes: null
@@ -407,7 +407,7 @@ segments:
     end: 00:02:05,300
   source_text: There was absolutely no means to affect any of the missile systems from outside the capsule.
   translation:
-    text: 從艙室外部絕對沒有任何方法能夠影響導彈系統。
+    text: 從艙室外部絕對沒有任何方法能夠影響飛彈系統。
     status: completed
     confidence: high
     notes: null
@@ -424,7 +424,7 @@ segments:
     end: 00:02:19,020
   source_text: On the evening of March 24, 1967, while my commander was on a scheduled rest break, I received the first of two phone calls from my topside flight security controller, FSC.
   translation:
-    text: 1967 年 3 月 24 日晚間，當我的指揮官正在預定的休息時間休息時，我接到來自地面飛行安全管制員 (FSC) 的第一通電話。
+    text: 1967 年 3 月 24 日晚間，當我的指揮官正在預定的休息時間休息時，我接到來自地面飛行安全管制員（FSC） 的第一通電話。
     status: completed
     confidence: high
     notes: null
@@ -583,7 +583,7 @@ segments:
     end: 00:03:39,060
   source_text: Of course, our primary duty was to secure those nuclear missiles.
   translation:
-    text: 當然，我們的首要職責是確保那些核導彈的安全。
+    text: 當然，我們的首要職責是確保那些核飛彈的安全。
     status: completed
     confidence: high
     notes: null
@@ -617,7 +617,7 @@ segments:
     end: 00:03:48,780
   source_text: As I started to inform my commander, our missiles began to shut down.
   translation:
-    text: 就在我開始向指揮官報告的同時，我們的導彈開始關閉。
+    text: 就在我開始向指揮官報告的同時，我們的飛彈開始關閉。
     status: completed
     confidence: high
     notes: null
@@ -634,7 +634,7 @@ segments:
     end: 00:03:54,140
   source_text: We lost alert status on all 10 missiles while this object was above our facility.
   translation:
-    text: 當這個物體在我們設施上方時，我們失去了全部 10 枚導彈的警戒狀態。
+    text: 當這個物體在我們設施上方時，我們失去了全部 10 枚飛彈的警戒狀態。
     status: completed
     confidence: high
     notes: null
@@ -651,7 +651,7 @@ segments:
     end: 00:03:58,820
   source_text: When we queried the fault system, all missiles reported guidance and control system failure.
   translation:
-    text: 當我們查詢故障系統時，所有導彈都顯示導引與控制系統故障。
+    text: 當我們查詢故障系統時，所有飛彈都顯示導引與控制系統故障。
     status: completed
     confidence: high
     notes: null
@@ -703,7 +703,7 @@ segments:
     end: 00:04:21,700
   source_text: At the same time, we had indicator lights showing security violations at two of the launch facilities where the missiles were physically located.
   translation:
-    text: 與此同時，我們有指示燈顯示在兩個導彈實際所在的發射設施出現安全警報。
+    text: 與此同時，我們有指示燈顯示在兩個飛彈實際所在的發射設施出現安全警報。
     status: completed
     confidence: high
     notes: null
@@ -721,7 +721,7 @@ segments:
     end: 00:04:36,620
   source_text: While Lieutenant Mywald reported the incident to the Wing Command post, I phoned upstairs and directed the security alert team to be sent to those launch facilities with security violations to investigate those indications.
   translation:
-    text: 當 Mywald 中尉向聯隊指揮所報告這個事件時，我打電話到地面，指示派遣安全警戒小組前往那些出現安全警報的發射設施進行調查。
+    text: 當 邁沃爾德中尉向聯隊指揮所報告這個事件時，我打電話到地面，指示派遣安全警戒小組前往那些出現安全警報的發射設施進行調查。
     status: completed
     confidence: high
     notes: null
@@ -792,7 +792,7 @@ segments:
     end: 00:05:08,280
   source_text: After speaking to the Wing Command post, Lieutenant Mywald informed me that the same thing happened at another flight.
   translation:
-    text: 在與聯隊指揮所通話後，Mywald 中尉告訴我同樣的事情也發生在另一個飛行中隊。
+    text: 在與聯隊指揮所通話後，邁沃爾德中尉告訴我同樣的事情也發生在另一個飛行分隊。
     status: completed
     confidence: high
     notes: null
@@ -810,7 +810,7 @@ segments:
     end: 00:05:20,540
   source_text: At that time, I assumed that meant that night, but it turns out what he meant was it happened at another flight about a week earlier, and that's the Echo flight incident, which I'll talk about shortly.
   translation:
-    text: 當時我以為他是指當晚，但事實證明他指的是大約一週前在另一個飛行中隊發生的事件，那就是 Echo 飛行中隊事件，我稍後會談到。
+    text: 當時我以為他是指當晚，但事實證明他指的是大約一週前在另一個飛行分隊發生的事件，那就是 Echo 飛行分隊事件，我稍後會談到。
     status: completed
     confidence: high
     notes: null
@@ -898,12 +898,12 @@ segments:
   timecode:
     start: 00:06:12,900
     end: 00:06:15,900
-  source_text: 'Figel: "...and maintenance crews were saying, ''Hey, there was security and maintenance on-site, on both... on two of the tent sites.''"'
+  source_text: 'Figel: "...and there were security and maintenance on-site, on both... those are two of the ten sites, and when..."'
   translation:
-    text: 菲格爾：「……維修人員在說：『嘿，兩個——兩個分隊站點上都有安全人員和維修人員在場。』」
+    text: 菲格爾：「……十個站點中的兩個站點上，都有安全人員和維修人員在場，而當……」
     status: completed
     confidence: high
-    notes: Figel 錄音開始（接續 seg 51 末）。52–64 為 Salas 與 Figel 上校 1996 年電話錄音（人工聽音訊還原，2026-08-11）；原文 tent sites 疑為 flight sites；seg 53–54 此時間點無內容
+    notes: 依音訊還原：ten sites 修正
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -915,12 +915,12 @@ segments:
   timecode:
     start: 00:06:15,900
     end: 00:06:16,900
-  source_text: I've never heard of it before.
+  source_text: 'Figel: "...and when the first one went down..."'
   translation:
-    text: null
+    text: 菲格爾：「……而當第一個站點失效時……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -932,12 +932,12 @@ segments:
   timecode:
     start: 00:06:16,900
     end: 00:06:17,900
-  source_text: I've never heard of it before."
+  source_text: 'Figel: "...and I talked with the security out there..."'
   translation:
-    text: null
+    text: 菲格爾：「……我和在場的安全人員通話……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -949,9 +949,9 @@ segments:
   timecode:
     start: 00:06:17,900
     end: 00:06:18,900
-  source_text: 'Figel: "And when the first one went down, I talked to the security out there, they had reported this UFO hovering over the site."'
+  source_text: 'Figel: "...they had seen this UFO hovering over the site..."'
   translation:
-    text: 菲格爾：「當第一個站點失效時，我和在場的安全人員通話，他們報告有一個 UFO 懸停在站點上空。」
+    text: 菲格爾：「……他們看到了這個 UFO 懸停在站點上空……」
     status: completed
     confidence: high
     notes: null
@@ -983,9 +983,9 @@ segments:
   timecode:
     start: 00:06:19,900
     end: 00:06:20,900
-  source_text: 'Figel: "And we sent strike teams to both of the sites that had been occupied."'
+  source_text: 'Figel: "And we sent strike teams to both of the sites that had been occupied..."'
   translation:
-    text: 菲格爾：「我們派了應變小組前往那兩個有狀況的站點。」
+    text: 菲格爾：「我們派了應變小組前往那兩個有狀況的站點……」
     status: completed
     confidence: high
     notes: null
@@ -1000,12 +1000,12 @@ segments:
   timecode:
     start: 00:06:20,900
     end: 00:06:21,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Figel: "...and both strike teams..."'
   translation:
-    text: null
+    text: 菲格爾：「……而兩支應變小組……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1017,12 +1017,12 @@ segments:
   timecode:
     start: 00:06:21,900
     end: 00:06:22,900
-  source_text: He said, "I've never heard of it before."
+  source_text: 'Figel: "...I didn''t tell them what we had heard..."'
   translation:
-    text: null
+    text: 菲格爾：「……我沒有告訴他們我們聽到的情況……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1034,12 +1034,12 @@ segments:
   timecode:
     start: 00:06:22,900
     end: 00:06:23,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Figel: "...via the LF radio..."'
   translation:
-    text: null
+    text: 菲格爾：「……透過發射設施無線電……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1051,12 +1051,12 @@ segments:
   timecode:
     start: 00:06:23,900
     end: 00:06:24,900
-  source_text: He said, "I've never heard of it before."
+  source_text: 'Figel: "...and told them to get within a mile of the site..."'
   translation:
-    text: null
+    text: 菲格爾：「……並要他們推進到距站點一英里以內……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1068,12 +1068,12 @@ segments:
   timecode:
     start: 00:06:24,900
     end: 00:06:25,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Figel: "...and call back in on the VHF..."'
   translation:
-    text: null
+    text: 菲格爾：「……然後用甚高頻無線電回報……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1085,12 +1085,12 @@ segments:
   timecode:
     start: 00:06:25,900
     end: 00:06:26,900
-  source_text: He said, "I've never heard of it before."
+  source_text: 'Figel: "...and they both had reported it, too."'
   translation:
-    text: null
+    text: 菲格爾：「……而他們兩組也都回報看到了。」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1102,12 +1102,12 @@ segments:
   timecode:
     start: 00:06:26,900
     end: 00:06:27,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Figel: "So we had two maintenance crews, two security troops..."'
   translation:
-    text: null
+    text: 菲格爾：「所以我們有兩組維修人員、兩組在場的安全人員……」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1187,12 +1187,12 @@ segments:
   timecode:
     start: 00:06:34,900
     end: 00:06:35,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Figel: "...all reporting it."'
   translation:
-    text: null
+    text: 菲格爾：「……全都回報了。」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1204,7 +1204,7 @@ segments:
   timecode:
     start: 00:06:35,900
     end: 00:06:36,900
-  source_text: 'Salas: "Is that right? Do you remember any of the names of those guys?" Figel: "No, I don''t."'
+  source_text: 'Salas: "Is that right? Do you remember any of the names of any of those guys?" Figel: "Nope."'
   translation:
     text: 薩拉斯：「真的嗎？你還記得那些人的名字嗎？」菲格爾：「不記得了。」
     status: completed
@@ -1221,12 +1221,12 @@ segments:
   timecode:
     start: 00:06:36,900
     end: 00:06:37,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Figel: "Nope."'
   translation:
-    text: null
+    text: 菲格爾：「不記得了。」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1238,12 +1238,12 @@ segments:
   timecode:
     start: 00:06:37,900
     end: 00:06:38,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "You don''t?"'
   translation:
-    text: null
+    text: 薩拉斯：「記不得嗎？」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1255,12 +1255,12 @@ segments:
   timecode:
     start: 00:06:38,900
     end: 00:06:39,900
-  source_text: He said, "I've never heard of it before."
+  source_text: 'Figel: "No."'
   translation:
-    text: null
+    text: 菲格爾：「記不得。」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1272,12 +1272,12 @@ segments:
   timecode:
     start: 00:06:39,900
     end: 00:06:40,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "Okay."'
   translation:
-    text: null
+    text: 薩拉斯：「好的。」
     status: completed
     confidence: high
-    notes: 無內容（錄音間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1323,12 +1323,12 @@ segments:
   timecode:
     start: 00:06:42,900
     end: 00:06:43,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...can we have the Mywald audio, please?"'
   translation:
-    text: null
+    text: 薩拉斯：「……可以播放 Mywald 的錄音嗎？」
     status: completed
     confidence: high
-    notes: Mywald 錄音尚未開始（間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1340,12 +1340,12 @@ segments:
   timecode:
     start: 00:06:43,900
     end: 00:06:44,900
-  source_text: I said, "I've never heard of it before."
+  source_text: '[Audio playback begins]'
   translation:
-    text: null
+    text: 【播放錄音】
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1357,12 +1357,12 @@ segments:
   timecode:
     start: 00:06:44,900
     end: 00:06:45,900
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Mywald: "...from the field..."'
   translation:
-    text: null
+    text: 邁沃爾德：「……現場傳來……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1459,12 +1459,12 @@ segments:
   timecode:
     start: 00:08:00,940
     end: 00:08:01,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "Okay, well... interesting."'
   translation:
-    text: null
+    text: 薩拉斯：「好的，嗯……很有意思。」
     status: completed
     confidence: high
-    notes: 無內容（換帶間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1476,12 +1476,12 @@ segments:
   timecode:
     start: 00:08:01,940
     end: 00:08:02,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Mywald: "Yeah."'
   translation:
-    text: null
+    text: 邁沃爾德：「是啊。」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1493,12 +1493,12 @@ segments:
   timecode:
     start: 00:08:02,940
     end: 00:08:03,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Mywald: "After we were relieved..."'
   translation:
-    text: null
+    text: 邁沃爾德：「當我們被接班換防後……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1510,12 +1510,12 @@ segments:
   timecode:
     start: 00:08:03,940
     end: 00:08:04,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Mywald: "...by another crew the next morning..."'
   translation:
-    text: null
+    text: 邁沃爾德：「……隔天早上由另一組人員接替……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1527,12 +1527,12 @@ segments:
   timecode:
     start: 00:08:04,940
     end: 00:08:05,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Mywald: "...I rode back to base."'
   translation:
-    text: null
+    text: 邁沃爾德：「……我搭車回到了基地。」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1544,12 +1544,12 @@ segments:
   timecode:
     start: 00:08:05,940
     end: 00:08:06,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "Thanks."'
   translation:
-    text: null
+    text: 薩拉斯：「謝謝。」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1561,12 +1561,12 @@ segments:
   timecode:
     start: 00:08:06,940
     end: 00:08:07,940
-  source_text: I said, "I've never heard of it before."
+  source_text: '[Audio recording concludes]'
   translation:
-    text: null
+    text: 【錄音結束】
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1578,12 +1578,12 @@ segments:
   timecode:
     start: 00:08:07,940
     end: 00:08:08,940
-  source_text: I said, "I've never heard of it before."
+  source_text: '[Silence / transition]'
   translation:
-    text: null
+    text: 【現場過渡】
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1595,12 +1595,12 @@ segments:
   timecode:
     start: 00:08:08,940
     end: 00:08:09,940
-  source_text: I said, "I've never heard of it before."
+  source_text: '[Ms. Solis prepares to speak]'
   translation:
-    text: null
+    text: 【索利斯委員發言】
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1614,7 +1614,7 @@ segments:
     end: 00:08:10,940
   source_text: 'Ms. Solis: "Mr. Salas?" Salas: "Yes." Ms. Solis: "In a couple sentences, would you tell us what we just heard? The conversation..."'
   translation:
-    text: 索利斯女士：「Salas 先生？」薩拉斯：「是的。」索利斯女士：「可以用幾句話告訴我們剛才聽到的是什麼嗎？那段對話……」
+    text: 索利斯女士：「薩拉斯先生？」薩拉斯：「是的。」索利斯女士：「可以用幾句話告訴我們剛才聽到的是什麼嗎？那段對話……」
     status: completed
     confidence: high
     notes: 委員會成員 Ms. Solis 發問
@@ -1663,12 +1663,12 @@ segments:
   timecode:
     start: 00:08:12,940
     end: 00:08:13,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "As far as I know, he''s still alive."'
   translation:
-    text: null
+    text: 薩拉斯：「據我所知，他仍然在世。」
     status: completed
     confidence: high
-    notes: 無內容（語句間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1697,12 +1697,12 @@ segments:
   timecode:
     start: 00:08:14,940
     end: 00:08:15,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "It was a recording..."'
   translation:
-    text: null
+    text: 薩拉斯：「那是一段錄音……」
     status: completed
     confidence: high
-    notes: 無內容（語句間隔）
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1714,12 +1714,12 @@ segments:
   timecode:
     start: 00:08:15,940
     end: 00:08:16,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...of a telephone conversation..."'
   translation:
-    text: null
+    text: 薩拉斯：「……一段電話對話……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1731,12 +1731,12 @@ segments:
   timecode:
     start: 00:08:16,940
     end: 00:08:17,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...I had with him in 1996."'
   translation:
-    text: null
+    text: 薩拉斯：「……我於 1996 年與他通話的錄音。」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1748,12 +1748,12 @@ segments:
   timecode:
     start: 00:08:17,940
     end: 00:08:18,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "And..."'
   translation:
-    text: null
+    text: 薩拉斯：「而且……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1765,12 +1765,12 @@ segments:
   timecode:
     start: 00:08:18,940
     end: 00:08:19,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...in that conversation..."'
   translation:
-    text: null
+    text: 薩拉斯：「……在那次對話中……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1782,12 +1782,12 @@ segments:
   timecode:
     start: 00:08:19,940
     end: 00:08:20,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...he described..."'
   translation:
-    text: null
+    text: 薩拉斯：「……他描述了……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1799,12 +1799,12 @@ segments:
   timecode:
     start: 00:08:20,940
     end: 00:08:21,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...what happened at his flight..."'
   translation:
-    text: null
+    text: 薩拉斯：「……他的飛行分隊發生的事情……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1816,12 +1816,12 @@ segments:
   timecode:
     start: 00:08:21,940
     end: 00:08:22,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...at Echo Flight..."'
   translation:
-    text: null
+    text: 薩拉斯：「……在 Echo 飛行分隊……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1833,12 +1833,12 @@ segments:
   timecode:
     start: 00:08:22,940
     end: 00:08:23,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...on March 16th, 1967..."'
   translation:
-    text: null
+    text: 薩拉斯：「……在 1967 年 3 月 16 日……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1850,12 +1850,12 @@ segments:
   timecode:
     start: 00:08:23,940
     end: 00:08:24,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...the missiles going down..."'
   translation:
-    text: null
+    text: 薩拉斯：「……飛彈失效的情況……」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1867,12 +1867,12 @@ segments:
   timecode:
     start: 00:08:24,940
     end: 00:08:25,940
-  source_text: I said, "I've never heard of it before."
+  source_text: 'Salas: "...and the UFO sightings."'
   translation:
-    text: null
+    text: 薩拉斯：「……以及 UFO 目擊事件。」
     status: completed
     confidence: high
-    notes: 無內容
+    notes: 依音訊還原
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1920,7 +1920,7 @@ segments:
     end: 00:08:53,940
   source_text: And when the first missile went down in his flight, they reported that there were UFOs overhead as the missiles went down.
   translation:
-    text: 當他的飛行中隊中第一枚導彈失效時，他們報告說導彈失效的同時，有不明飛行物在上空。
+    text: 當他的飛行分隊中第一枚飛彈失效時，他們報告說飛彈失效的同時，有不明飛行物在上空。
     status: completed
     confidence: high
     notes: null
@@ -1937,7 +1937,7 @@ segments:
     end: 00:08:56,940
   source_text: He lost all 10 of his missiles in rapid succession.
   translation:
-    text: 他在短時間內連續失去了全部 10 枚導彈。
+    text: 他在短時間內連續失去了全部 10 枚飛彈。
     status: completed
     confidence: high
     notes: null
@@ -1971,7 +1971,7 @@ segments:
     end: 00:09:03,940
   source_text: He launched them and they went down?
   translation:
-    text: 他發射了導彈然後它們就失效了？
+    text: 他發射了飛彈然後它們就失效了？
     status: completed
     confidence: high
     notes: 委員提問
@@ -1988,7 +1988,7 @@ segments:
     end: 00:09:08,940
   source_text: No, no, the missiles were not launched.
   translation:
-    text: 不，不，導彈並沒有發射。
+    text: 不，不，飛彈並沒有發射。
     status: completed
     confidence: high
     notes: null
@@ -2005,7 +2005,7 @@ segments:
     end: 00:09:20,940
   source_text: They reported that the objects were above them, and at that point the missiles started shutting down, disabled.
   translation:
-    text: 他們報告說那些物體在他們上方，就在那時導彈開始關閉，被癱瘓了。
+    text: 他們報告說那些物體在他們上方，就在那時飛彈開始關閉，被癱瘓了。
     status: completed
     confidence: high
     notes: null
@@ -2022,7 +2022,7 @@ segments:
     end: 00:09:34,940
   source_text: The second audio recording you heard was that of Colonel Mywald talking about the fact that we had security light violations and we had to send guards out to one or more of the LFs.
   translation:
-    text: 各位剛才聽到的第二段錄音是 Mywald 上校談論我們出現安全燈警報的事實，我們必須派警衛前往一個或多個發射設施。
+    text: 各位剛才聽到的第二段錄音是 邁沃爾德上校談論我們出現安全燈警報的事實，我們必須派警衛前往一個或多個發射設施。
     status: completed
     confidence: high
     notes: null
@@ -2056,7 +2056,7 @@ segments:
     end: 00:09:47,940
   source_text: By the way, I've got more audio available that's where Colonel Mywald supports my entire statement about what occurred.
   translation:
-    text: 順帶一提，我還有更多錄音，其中 Mywald 上校支持我關於所發生事件的全部陳述。
+    text: 順帶一提，我還有更多錄音，其中 邁沃爾德上校支持我關於所發生事件的全部陳述。
     status: completed
     confidence: high
     notes: null
@@ -2209,7 +2209,7 @@ segments:
     end: 00:10:42,940
   source_text: The sensitive information network, SIN cables that carried the signals to the missile systems were triply shielded from electromagnetic interference.
   translation:
-    text: 敏感資訊網絡，也就是將訊號傳輸到導彈系統的 SIN 纜線，具有三重電磁干擾防護。
+    text: 敏感資訊網路，也就是將訊號傳輸到飛彈系統的 SIN 纜線，具有三重電磁干擾防護。
     status: completed
     confidence: high
     notes: null
@@ -2226,7 +2226,7 @@ segments:
     end: 00:10:48,940
   source_text: The preliminary investigation isolated the failure to the logic coupler at each missile.
   translation:
-    text: 初步調查將故障定位到每枚導彈的邏輯耦合器。
+    text: 初步調查將故障定位到每枚飛彈的邏輯耦合器。
     status: completed
     confidence: high
     notes: null
@@ -2243,7 +2243,7 @@ segments:
     end: 00:10:52,940
   source_text: The logic coupler is associated with the missile guidance system.
   translation:
-    text: 邏輯耦合器與導彈導引系統相關聯。
+    text: 邏輯耦合器與飛彈導引系統相關聯。
     status: completed
     confidence: high
     notes: null
@@ -2294,7 +2294,7 @@ segments:
     end: 00:11:14,940
   source_text: I believe you have documents that I supplied you with that talk about the echo flight incident.
   translation:
-    text: 我相信各位手上有我提供的關於 Echo 飛行中隊事件的文件。
+    text: 我相信各位手上有我提供的關於 Echo 飛行分隊事件的文件。
     status: completed
     confidence: high
     notes: null
@@ -2345,7 +2345,7 @@ segments:
     end: 00:11:38,940
   source_text: The possibility of this is very remote due to the fact that all ten couplers would have to fail in the flight within a few seconds of each other.
   translation:
-    text: 這種可能性極其微小，因為該飛行中隊的全部十個耦合器必須在幾秒鐘內相繼失效。
+    text: 這種可能性極其微小，因為該飛行分隊的全部十個耦合器必須在幾秒鐘內相繼失效。
     status: completed
     confidence: high
     notes: null
@@ -2362,7 +2362,7 @@ segments:
     end: 00:11:45,940
   source_text: This statement confirms that signals were sent to each individual missile separately in order to disable them.
   translation:
-    text: 這段陳述證實了訊號是分別發送到每一枚導彈，以便使它們失效。
+    text: 這段陳述證實了訊號是分別發送到每一枚飛彈，以便使它們失效。
     status: completed
     confidence: high
     notes: null
@@ -2379,7 +2379,7 @@ segments:
     end: 00:12:07,940
   source_text: From my knowledge of the operating system at the time, neither I nor the investigative team could define the method or means by which these signals were sent to disable the missiles each in the same manner, meaning each missile failed for the same reason, guidance and control system failure.
   translation:
-    text: 根據我當時對操作系統的了解，無論是我還是調查小組都無法確定這些訊號是透過何種方法或手段發送，以相同方式使每枚導彈失效，也就是說每枚導彈都因相同原因失效：導引與控制系統故障。
+    text: 根據我當時對操作系統的了解，無論是我還是調查小組都無法確定這些訊號是透過何種方法或手段發送，以相同方式使每枚飛彈失效，也就是說每枚飛彈都因相同原因失效：導引與控制系統故障。
     status: completed
     confidence: high
     notes: null
@@ -2397,7 +2397,7 @@ segments:
     end: 00:12:15,940
   source_text: Mr. Robert Kaminsky was the Boeing team leader for the investigation of the echo flight shutdown.
   translation:
-    text: 羅伯特·卡明斯基先生 (Robert Kaminsky) 是波音公司負責調查 Echo 飛行中隊關閉事件的小組負責人。
+    text: 羅伯特·卡明斯基先生（Robert Kaminsky）是波音公司負責調查 Echo 飛行分隊關閉事件的小組負責人。
     status: completed
     confidence: high
     notes: null
@@ -2431,7 +2431,7 @@ segments:
     end: 00:12:33,940
   source_text: The team met with me to report their findings and it was decided that the final report would have nothing significant in it to explain what happened at echo flight.
   translation:
-    text: 調查小組與我會面報告他們的調查結果，並決定最終報告將不會包含任何重大內容來解釋 Echo 飛行中隊發生了什麼。
+    text: 調查小組與我會面報告他們的調查結果，並決定最終報告將不會包含任何重大內容來解釋 Echo 飛行分隊發生了什麼。
     status: completed
     confidence: high
     notes: null
@@ -2567,10 +2567,10 @@ segments:
     end: 00:13:19,940
   source_text: Even though the Boeing company was the principal contractor for the Minuteman missile, the report on the incident was not submitted by specific request of the Air Force.
   translation:
-    text: 儘管波音公司是民兵導彈的主要承包商，但根據空軍的明確要求，該事件的報告並未提交。
+    text: 儘管波音公司是民兵飛彈的主要承包商，但根據空軍的明確要求，該事件的報告並未提交。
     status: completed
     confidence: high
-    notes: 已修正 M91 missile 錯誤
+    notes: 原文 M91 missile 應為 Minuteman missile
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -2601,7 +2601,7 @@ segments:
     end: 00:13:41,940
   source_text: In my opinion, we did not have the technical capability to produce a machine then or now that would be able to instigate the failure mode of these missiles identified in the unit wing history.
   translation:
-    text: 我認為，無論是當時還是現在，我們都不具備製造能夠引發聯隊歷史記錄中所述導彈故障模式的機器的技術能力。
+    text: 我認為，無論是當時還是現在，我們都不具備製造能夠引發聯隊歷史記錄中所述飛彈故障模式的機器的技術能力。
     status: completed
     confidence: high
     notes: null
@@ -2703,7 +2703,7 @@ segments:
     end: 00:14:51,940
   source_text: I'll refer to this study as the Condon investigation for its team leader, Edward Condon. In fact, it was never intended to be a scientific study because the Air Force did not propose that any scientific hypothesis regarding the phenomenon be evaluated.
   translation:
-    text: 我將這項研究稱為康登調查（Condon investigation），以其小組負責人愛德華·康登（Edward Condon）命名。事實上，它從來就不打算成為一項科學研究，因為空軍並未提議評估任何關於該現象的科學假設。
+    text: 我將這項研究稱為康登調查（Condon investigation），以其主持人愛德華·康登（Edward Condon）命名。事實上，它從來就不打算成為一項科學研究，因為空軍並未提議評估任何關於該現象的科學假設。
     status: completed
     confidence: high
     notes: null
@@ -2771,7 +2771,7 @@ segments:
     end: 00:15:23,940
   source_text: With respect to the 1967 Echo and Oscar flight UFO incidents, there was a deliberate effort to keep information about those incidents from the Condon committee.
   translation:
-    text: 關於 1967 年 Echo 與 Oscar 飛行中隊的 UFO 事件，存在著一個刻意將這些事件資訊隱瞞於康登委員會的努力。
+    text: 關於 1967 年 Echo 與 Oscar 飛行分隊的 UFO 事件，存在著一個刻意將這些事件資訊隱瞞於康登委員會的努力。
     status: completed
     confidence: high
     notes: null
@@ -2788,7 +2788,7 @@ segments:
     end: 00:15:39,940
   source_text: In 1967, Dr. Roy Craig, the chief investigator for the Condon committee, was informed by Mr. Raymond Fowler, a contractor working for Sylvania on Minuteman Electrical Systems, that the Echo flight shutdowns at Malmstrom had occurred during UFO sighting.
   translation:
-    text: 1967 年，康登委員會的首席調查員羅伊·克雷格博士（Dr. Roy Craig）被在 Sylvania 公司從事民兵導彈電氣系統工作的承包商雷蒙德·福勒先生（Raymond Fowler）告知，Malmstrom 空軍基地的 Echo 飛行中隊關閉事件發生在 UFO 目擊期間。
+    text: 1967 年，康登委員會的首席調查員羅伊·克雷格博士（Dr. Roy Craig）被在 Sylvania 公司從事民兵飛彈電氣系統工作的承包商雷蒙德·福勒先生（Raymond Fowler）告知，Malmstrom 空軍基地的 Echo 飛行分隊關閉事件發生在 UFO 目擊期間。
     status: completed
     confidence: high
     notes: null
@@ -2822,10 +2822,10 @@ segments:
     end: 00:15:56,940
   source_text: After Colonel Chase and I had exchanged pleasantries in his office. This is a quotation.
   translation:
-    text: 在與蔡斯上校在他辦公室寒暄之後。這是一段引述。
+    text: 蔡斯上校與我在他辦公室寒暄之後——以下是一段引述。
     status: completed
-    confidence: high
-    notes: null
+    confidence: medium
+    notes: 原文 hinted 應為 and I（Whisper 誤轉）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -2873,10 +2873,10 @@ segments:
     end: 00:16:27,940
   source_text: Since Colonel Chase was the last man I would doubt, when he conveyed this information, I accepted the information as factual and turned the review over to Bob Lowe, who had received -- Robert Lowe was the project coordinator, and he was the only one cleared to look at classified information.
   translation:
-    text: 由於蔡斯上校是我最不會懷疑的人，當他傳達這個資訊時，我接受這個資訊為事實，並將審查工作轉交給鮑勃·洛（Bob Low），他是——羅伯特·洛是專案協調員，他是唯一獲准查閱機密資訊的人。
+    text: 由於蔡斯上校是我最不會懷疑的人，當他傳達這個資訊時，我接受這個資訊為事實，並將審查工作轉交給鮑勃·洛（Bob Low）——羅伯特·洛（Robert Low）是專案協調員，他是唯一獲准查閱機密資訊的人。
     status: completed
     confidence: high
-    notes: 已修正 deputy accountant 錯誤為 project coordinator
+    notes: 原文 deputy accountant 應為 project coordinator（Whisper 誤轉）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -2894,7 +2894,7 @@ segments:
     text: 當羅伯特·洛博士要求空軍允許他審閱 Echo 事件的機密報告時，他被告知該報告的機密等級太高，無法允許審閱。
     status: completed
     confidence: high
-    notes: 原文 deputy accountant 應為筆誤
+    notes: 原文 deputy accountant 應為 project coordinator（Whisper 誤轉）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -2925,7 +2925,7 @@ segments:
     end: 00:16:55,940
   source_text: He did not interview either of the crews, Echo or Oscar crew.
   translation:
-    text: 他沒有訪談任何一組人員，無論是 Echo 還是 Oscar 飛行中隊的人員。
+    text: 他沒有訪談任何一組人員，無論是 Echo 還是 Oscar 飛行分隊的人員。
     status: completed
     confidence: high
     notes: null
@@ -2962,7 +2962,7 @@ segments:
     text: 他基本上是藍皮書計畫的負責人。
     status: completed
     confidence: medium
-    notes: right-pat 可能為口語化表達
+    notes: 原文 right-pat 疑為亂碼轉錄，語意推測為藍皮書計畫負責人
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -3078,7 +3078,7 @@ segments:
     end: 00:18:00,940
   source_text: This is evidence that the Air Force purposefully denied the con investigators the knowledge that the Echo and Oscar flight shutdowns were UFO-related incidents.
   translation:
-    text: 這是空軍刻意拒絕讓康登調查員知曉 Echo 與 Oscar 飛行中隊關閉事件與 UFO 有關的證據。
+    text: 這是空軍刻意拒絕讓康登調查員知曉 Echo 與 Oscar 飛行分隊關閉事件與 UFO 有關的證據。
     status: completed
     confidence: high
     notes: null
@@ -3147,10 +3147,10 @@ segments:
     end: 00:18:51,940
   source_text: Very, very briefly, I just want to point out the fact that the next two witnesses that you will hear from, Mr. Scindelli and Mr. Scott, this is the very first time they are going public, and I want to honor these guys for having the courage to do so. Thank you.
   translation:
-    text: 非常非常簡短地，我只想指出一個事實，各位接下來將聽到的兩位證人，Scindelli 先生與 Scott 先生，這是他們第一次公開作證，我想向這些有勇氣這麼做的人致敬。謝謝。
+    text: 非常非常簡短地，我只想指出一個事實，各位接下來將聽到的兩位證人，辛德利先生（Mr. Scindelli）與斯科特先生（Mr. Scott），這是他們第一次公開作證，我想向這些有勇氣這麼做的人致敬。謝謝。
     status: completed
     confidence: high
-    notes: null
+    notes: 兩位證人首次公開作證
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -3165,10 +3165,10 @@ segments:
     end: 00:18:59,940
   source_text: Thank you. Thank you very much. Thank you, Kathy. Mr. Scindelli.
   translation:
-    text: 謝謝。非常感謝。謝謝，Kathy。Scindelli 先生。
+    text: 謝謝。非常感謝。謝謝，凱西。辛德利先生。
     status: completed
     confidence: high
-    notes: null
+    notes: Kathy 為聽證會工作人員，音譯凱西
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -3182,7 +3182,7 @@ segments:
     end: 00:19:06,940
   source_text: My name is David D. Scindelli, Captain, U.S. Air Force, retired.
   translation:
-    text: 我的名字是大衛·D·辛德利 (David D. Scindelli)，上尉，美國空軍退役。
+    text: 我的名字是大衛·D·辛德利（David D. Scindelli），上尉，美國空軍退役。
     status: completed
     confidence: high
     notes: null
@@ -3199,7 +3199,7 @@ segments:
     end: 00:19:15,940
   source_text: In 1966, I was involved in an incident while stationed at Minot Air Force Base, North Dakota.
   translation:
-    text: 1966 年，我在北達科他州邁諾特空軍基地 (Minot Air Force Base) 駐紮時經歷了一起事件。
+    text: 1966 年，我在北達科他州邁諾特空軍基地（Minot Air Force Base） 駐紮時經歷了一起事件。
     status: completed
     confidence: high
     notes: null
@@ -3267,7 +3267,7 @@ segments:
     end: 00:19:57,940
   source_text: I was a Minuteman ICBM launch control officer, a first lieutenant, and a deputy missile combat crew commander in a two-man launch control, launch crew with my crew commander who held the rank of captain.
   translation:
-    text: 我是一名民兵洲際彈道導彈 (Minuteman ICBM) 發射控制官，當時是少尉軍銜，擔任副導彈戰鬥組指揮官，與我的組長（上尉軍銜）組成兩人發射控制組。
+    text: 我是一名民兵洲際彈道飛彈（Minuteman ICBM）發射控制官，當時是少尉軍銜，擔任副飛彈戰鬥組指揮官，與我的組長（上尉軍銜）組成兩人發射控制組。
     status: completed
     confidence: high
     notes: null
@@ -3302,7 +3302,7 @@ segments:
     end: 00:20:25,940
   source_text: It all began one morning when I was watching TV while having breakfast, and I heard the local news announcer mention that some residents in the town of Mohall, North Dakota had seen strange lights overnight, which they attributed to a UFO.
   translation:
-    text: 這一切始於某天早上，我在吃早餐時看電視，我聽到當地新聞播報員提到北達科他州莫霍爾鎮 (Mohall) 的一些居民在夜間看到奇怪的光點，他們認為是 UFO。
+    text: 這一切始於某天早上，我在吃早餐時看電視，我聽到當地新聞播報員提到北達科他州莫霍爾鎮（Mohall） 的一些居民在夜間看到奇怪的光點，他們認為是 UFO。
     status: completed
     confidence: high
     notes: 已修正 Mole Hall 錯誤
@@ -3321,7 +3321,7 @@ segments:
     end: 00:20:42,940
   source_text: This caught my attention because I was scheduled for duty that morning at a launch control facility called November Flight, about three miles west of Mohall, and about 37 miles north of Minot, North Dakota.
   translation:
-    text: 這引起了我的注意，因為我當天早上被安排在一個名為 November 飛行中隊的發射控制設施值勤，位於莫霍爾以西約 3 英里，邁諾特以北約 37 英里。
+    text: 這引起了我的注意，因為我當天早上被安排在一個名為 November 飛行分隊的發射控制設施值勤，位於莫霍爾以西約 3 英里，邁諾特以北約 37 英里。
     status: completed
     confidence: high
     notes: 已修正 Minut 錯誤
@@ -3339,7 +3339,7 @@ segments:
     end: 00:21:00,940
   source_text: I lived in the town of Minut at the time, and I drove to the air base to attend the morning pre-departure crew briefing at Wing headquarters, where all 15 missile crews would normally meet each day prior to pulling alert duty at the respective launch control facilities.
   translation:
-    text: 當時我住在邁諾特鎮，我開車前往空軍基地參加聯隊總部的早晨出發前組員簡報，在那裡所有 15 個導彈組員通常每天在前往各自的發射控制設施執行警戒任務之前會面。
+    text: 當時我住在邁諾特鎮，我開車前往空軍基地參加聯隊總部的早晨出發前組員簡報，在那裡所有 15 個飛彈組員通常每天在前往各自的發射控制設施執行警戒任務之前會面。
     status: completed
     confidence: high
     notes: 已修正 Wigan 為 Wing headquarters
@@ -3358,7 +3358,7 @@ segments:
     end: 00:21:13,940
   source_text: During that pre-departure crew briefing, it was mentioned that some missiles at November Flight had gone off alert, but there was no further information provided.
   translation:
-    text: 在出發前簡報期間，有人提到 November 飛行中隊的一些導彈已經脫離警戒狀態，但沒有提供進一步的資訊。
+    text: 在出發前簡報期間，有人提到 November 飛行分隊的一些飛彈已經脫離警戒狀態，但沒有提供進一步的資訊。
     status: completed
     confidence: high
     notes: null
@@ -3394,7 +3394,7 @@ segments:
     end: 00:21:37,940
   source_text: When the briefing was over, several of the launch crews seated near me commented about the news item, which they had also heard that morning, and there was speculation about a possible connection with November Flight.
   translation:
-    text: 簡報結束後，坐在我附近的幾個發射組員評論了他們那天早上也聽到的新聞報導，並推測可能與 November 飛行中隊有關。
+    text: 簡報結束後，坐在我附近的幾個發射組員評論了他們那天早上也聽到的新聞報導，並推測可能與 November 飛行分隊有關。
     status: completed
     confidence: high
     notes: null
@@ -3776,7 +3776,7 @@ segments:
     end: 00:25:12,940
   source_text: All our missiles, our 10 missiles, were located 4 to 14 miles away from the launch control facility.
   translation:
-    text: 我們所有的導彈，我們的 10 枚導彈，都位於距離發射控制設施 4 到 14 英里的地方。
+    text: 我們所有的飛彈，我們的 10 枚飛彈，都位於距離發射控制設施 4 到 14 英里的地方。
     status: completed
     confidence: high
     notes: null
@@ -3810,7 +3810,7 @@ segments:
     end: 00:25:27,940
   source_text: This was the launch crew quarters and the launch control center for all 10 interconnected nuclear-tipped missiles that were located away from the launch facility.
   translation:
-    text: 這是發射組員宿舍和發射控制中心，負責控制所有 10 枚相互連接的核彈頭導彈，這些導彈位於遠離發射設施的地方。
+    text: 這是發射組員宿舍和發射控制中心，負責控制所有 10 枚相互連接的核彈頭飛彈，這些飛彈位於遠離發射設施的地方。
     status: completed
     confidence: high
     notes: null
@@ -3861,7 +3861,7 @@ segments:
     end: 00:25:54,940
   source_text: After entering the capsule, our eyes were immediately transfixed on the launch control console, which showed that all missiles were off alert and unlaunchable.
   translation:
-    text: 進入艙室後，我們的目光立即被發射控制台吸引住，它顯示所有導彈都脫離警戒狀態且無法發射。
+    text: 進入艙室後，我們的目光立即被發射控制台吸引住，它顯示所有飛彈都脫離警戒狀態且無法發射。
     status: completed
     confidence: high
     notes: null
@@ -3895,7 +3895,7 @@ segments:
     end: 00:26:12,940
   source_text: The outgoing crew briefed us on the wild events that transpired overnight and indicated that the missiles malfunctioned at the time the object was hovering directly above the capsule and next to the main gate.
   translation:
-    text: 即將離開的組員向我們簡報了整夜發生的瘋狂事件，並指出導彈故障發生在物體直接懸停在艙室上方和主入口旁邊的時候。
+    text: 即將離開的組員向我們簡報了整夜發生的瘋狂事件，並指出飛彈故障發生在物體直接懸停在艙室上方和主入口旁邊的時候。
     status: completed
     confidence: high
     notes: null
@@ -3929,7 +3929,7 @@ segments:
     end: 00:26:32,940
   source_text: We had no doubt, however, that the 10 outlying nuclear-tipped missiles of November flight had been compromised, tampered with, and put out of commission by the object that had paid a visit.
   translation:
-    text: 然而，我們毫不懷疑，November 飛行中隊的 10 枚外圍核彈頭導彈已被造訪的物體破壞、篡改並使其失去作用。
+    text: 然而，我們毫不懷疑，November 飛行分隊的 10 枚外圍核彈頭飛彈已被造訪的物體破壞、篡改並使其失去作用。
     status: completed
     confidence: high
     notes: null
@@ -3946,7 +3946,7 @@ segments:
     end: 00:26:48,940
   source_text: Normally, it was quite unusual to have even one missile down, except for maintenance, and Wing headquarters was very proud of having more than 95 percent uptime for all 150 missiles of the Wing.
   translation:
-    text: 通常來說，除了維修之外，即使有一枚導彈失效都是相當不尋常的，聯隊總部非常自豪地保持著聯隊所有 150 枚導彈超過 95% 的運行時間。
+    text: 通常來說，除了維修之外，即使有一枚飛彈失效都是相當不尋常的，聯隊總部非常自豪地保持著聯隊所有 150 枚飛彈超過 95% 的運行時間。
     status: completed
     confidence: high
     notes: null
@@ -3966,7 +3966,7 @@ segments:
     text: 隔天早上，在我們被接班組接替後，我們回到地面，我試圖進一步詢問當時值勤的飛行安全管制員。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Hopside 應為 topside（Whisper 誤轉），故譯「回到地面」
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -4014,10 +4014,10 @@ segments:
     end: 00:27:27,940
   source_text: When I asked where the directive came from, he said the OSI.
   translation:
-    text: 當我問指令來自哪裡時，他說是 OSI（特別調查辦公室）。
+    text: 當我問指令來自哪裡時，他說是空軍特別調查辦公室（OSI）。
     status: completed
     confidence: high
-    notes: null
+    notes: OSI（Office of Special Investigations）定譯空軍特別調查辦公室，沿用 UFO-06 裁決
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -4031,7 +4031,7 @@ segments:
     end: 00:27:31,940
   source_text: He evidently received a call from the OSI.
   translation:
-    text: 他顯然接到了 OSI 的電話。
+    text: 他顯然接到了空軍特別調查辦公室的電話。
     status: completed
     confidence: high
     notes: null
@@ -4133,7 +4133,7 @@ segments:
     end: 00:28:27,940
   source_text: My commander and I were not there during the encounter, but we had to deal with the ramifications of the incident, and I'll never forget the frightened emotion on the faces of topside airmen who were gathered with me when I was briefed by the site manager.
   translation:
-    text: 我的組長和我在遭遇時不在場，但我們必須處理事件的後果，我永遠不會忘記當現場經理向我簡報時，與我聚在一起的地面空軍人員臉上的恐懼表情。
+    text: 我的組長和我在遭遇時不在場，但我們必須處理事件的後果，我永遠不會忘記當現場經理向我簡報時，與我聚在一起的地面人員臉上的恐懼表情。
     status: completed
     confidence: high
     notes: null
@@ -4150,7 +4150,7 @@ segments:
     end: 00:28:52,940
   source_text: Besides those of us at the launch control facility, there had to be many more people involved with this, including maintenance people who had to retarget and reline the missiles, also additional security personnel to guard and protect the missile launch facilities, and who knows how many others on base were concerned.
   translation:
-    text: 除了我們這些在發射控制設施的人之外，肯定還有更多人參與其中，包括必須重新瞄準和重新校準導彈的維修人員，以及負責守衛和保護導彈發射設施的額外安全人員，還有誰知道基地上還有多少其他相關人員。
+    text: 除了我們這些在發射控制設施的人之外，肯定還有更多人參與其中，包括必須重新瞄準和重新校準飛彈的維修人員，以及負責守衛和保護飛彈發射設施的額外安全人員，還有誰知道基地上還有多少其他相關人員。
     status: completed
     confidence: high
     notes: null
@@ -4235,7 +4235,7 @@ segments:
     end: 00:29:53,940
   source_text: Since then, I have run across several missileers from my days at Minot who were there with me in the wing, and two of them have gone public with their own experiences.
   translation:
-    text: 從那以後，我遇到了幾位與我一起在邁諾特服役的導彈軍官，他們當時與我在聯隊中，其中兩人已公開講述他們自己的經歷。
+    text: 從那以後，我遇到了幾位與我一起在邁諾特服役的飛彈軍官，他們當時與我在聯隊中，其中兩人已公開講述他們自己的經歷。
     status: completed
     confidence: high
     notes: null
@@ -4303,7 +4303,7 @@ segments:
     end: 00:30:30,940
   source_text: And then there's the late Captain Val Smith of my squadron, who is mentioned in official documents released by FOIA.
   translation:
-    text: 還有我中隊已故的瓦爾·史密斯上尉 (Captain Val Smith)，他在根據資訊自由法 (FOIA) 公布的官方文件中被提及。
+    text: 還有我中隊已故的瓦爾·史密斯上尉（Captain Val Smith），他在根據資訊自由法（FOIA） 公布的官方文件中被提及。
     status: completed
     confidence: high
     notes: 已修正 FIA 錯誤
@@ -4320,7 +4320,7 @@ segments:
     end: 00:30:50,940
   source_text: He was interviewed by the late Dr. J. Allen Hynek of Blue Book fame, who wrote an article in the Saturday Evening Post, published on 17 December 1966, which described the incident that Smith was involved with on 25 August 1966.
   translation:
-    text: 他接受了已故的藍皮書計畫知名人物 J·艾倫·海尼克博士 (Dr. J. Allen Hynek) 的訪談，海尼克在 1966 年 12 月 17 日出版的《週六晚郵報》(Saturday Evening Post) 上寫了一篇文章，描述了史密斯在 1966 年 8 月 25 日參與的事件。
+    text: 他接受了已故的 J·艾倫·海尼克博士（Dr. J. Allen Hynek）的訪談，海尼克因藍皮書計畫而聞名，他在 1966 年 12 月 17 日出版的《週六晚郵報》（Saturday Evening Post）上寫了一篇文章，描述了史密斯在 1966 年 8 月 25 日參與的事件。
     status: completed
     confidence: high
     notes: 已修正 Alan Heineck 錯誤
@@ -4340,7 +4340,7 @@ segments:
     text: 海尼克在文章中表示：「這起事件沒有被媒體報導。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 Heineck 應為 Hynek（Whisper 誤轉）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -4507,7 +4507,7 @@ segments:
     end: 00:32:31,940
   source_text: Sergeant Scott.
   translation:
-    text: Scott 士官。
+    text: 斯科特士官。
     status: completed
     confidence: high
     notes: 主持人稱呼證人
@@ -4541,10 +4541,10 @@ segments:
     end: 00:32:52,940
   source_text: At the time of my sighting, I was an Airman First Class with a secret security clearance and was assigned to Alpha Flight 91st Missile Security Squadron, Strategic Air Command, Minot Air Force Base, North Dakota.
   translation:
-    text: 在我目擊事件發生時，我是一等兵（Airman First Class），持有機密安全許可，被分配到戰略空軍司令部（Strategic Air Command）邁諾特空軍基地（Minot Air Force Base）第91飛彈安全中隊 Alpha 飛行分隊。
+    text: 在我目擊事件發生時，我是一等兵（Airman First Class），持有機密安全許可，被分配到戰略空軍司令部（Strategic Air Command）邁諾特空軍基地（Minot Air Force Base）第 91 飛彈安全中隊 Alpha 飛行分隊。
     status: completed
     confidence: high
-    notes: Airman First Class 為空軍一等兵軍銜
+    notes: Airman First Class 為空軍一等兵軍銜；飛彈聯隊編制中 flight 指分隊（管轄一座發射控制設施及所屬發射設施）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4558,10 +4558,10 @@ segments:
     end: 00:33:11,940
   source_text: November, 1974. It was after midnight when Airman Bill Gray, a member of my security alert team, and I were dispatched from Alpha 1 Launch Control Facility to an alarm situation at one of our 10-minute manned nuclear missile sites.
   translation:
-    text: 1974 年 11 月。午夜過後，我和我安全警戒小組的成員比爾·格雷一等兵（Airman Bill Gray）從 Alpha 1 發射控制設施被派遣到我們管轄的其中一個核導彈站點處理警報情況。
+    text: 1974 年 11 月。午夜過後，我和我安全警戒小組的成員比爾·格雷一等兵（Airman Bill Gray）從 Alpha 1 發射控制設施被派遣到我們管轄的其中一個核飛彈站點處理警報情況。
     status: completed
     confidence: high
-    notes: 10-minute manned 可能為 Whisper 轉錄錯誤，根據上下文應指管轄的 10 個導彈站點之一
+    notes: 10-minute manned 可能為 Whisper 轉錄錯誤，根據上下文應指管轄的 10 個飛彈站點之一
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -4592,7 +4592,7 @@ segments:
     end: 00:33:23,940
   source_text: As we drove there, Gray spotted a strange light in the night sky, called it to my attention.
   translation:
-    text: 當我們開車前往那裡時，Gray 發現夜空中有一道奇怪的光，引起了我的注意。
+    text: 當我們開車前往那裡時，格雷 發現夜空中有一道奇怪的光，引起了我的注意。
     status: completed
     confidence: high
     notes: null
@@ -4626,7 +4626,7 @@ segments:
     end: 00:33:39,940
   source_text: We checked the site and found everything secure. Gray said the strange light had gotten bigger and acted weird when I was below.
   translation:
-    text: 我們檢查了站點，發現一切安全。Gray 說當我在下面時，那道奇怪的光變得更大並且表現怪異。
+    text: 我們檢查了站點，發現一切安全。格雷 說當我在下面時，那道奇怪的光變得更大並且表現怪異。
     status: completed
     confidence: high
     notes: below 指進入地下檢查設施
@@ -4694,7 +4694,7 @@ segments:
     end: 00:34:10,940
   source_text: Gray and I sat there on guard duty for 45 minutes, protecting our missile site.
   translation:
-    text: Gray 和我在那裡執行警戒任務 45 分鐘，保護我們的導彈站點。
+    text: 格雷 和我在那裡執行警戒任務 45 分鐘，保護我們的飛彈站點。
     status: completed
     confidence: high
     notes: null
@@ -4745,7 +4745,7 @@ segments:
     end: 00:34:36,940
   source_text: As it did, Sergeant Hicks, our flight security controller, called and ordered us back to Alpha 1.
   translation:
-    text: 就在此時，我們的飛行安全管制員 Hicks 士官呼叫我們，命令我們返回 Alpha 1。
+    text: 就在此時，我們的飛行安全管制員 希克斯士官呼叫我們，命令我們返回 Alpha 1。
     status: completed
     confidence: high
     notes: flight security controller 為飛行安全管制員
@@ -4762,7 +4762,7 @@ segments:
     end: 00:34:41,940
   source_text: All alarms had reset properly back at the missile site.
   translation:
-    text: 導彈站點的所有警報都已正常重置。
+    text: 飛彈站點的所有警報都已正常重置。
     status: completed
     confidence: high
     notes: null
@@ -4796,7 +4796,7 @@ segments:
     end: 00:34:52,940
   source_text: We reported our story to Sergeant Hicks about the strange light.
   translation:
-    text: 我們向 Hicks 士官報告了關於那道奇怪光的經歷。
+    text: 我們向 希克斯士官報告了關於那道奇怪光的經歷。
     status: completed
     confidence: high
     notes: null
@@ -4847,7 +4847,7 @@ segments:
     end: 00:35:04,940
   source_text: Then Sergeant Hicks hit us with a bombshell.
   translation:
-    text: 然後 Hicks 士官向我們透露了一個驚人消息。
+    text: 然後 希克斯士官向我們透露了一個驚人消息。
     status: completed
     confidence: high
     notes: bombshell 意為驚人消息
@@ -4864,7 +4864,7 @@ segments:
     end: 00:35:11,940
   source_text: All Minuteman nuclear missile site alarms in our wing had sounded simultaneously.
   translation:
-    text: 我們聯隊所有民兵核導彈站點的警報都同時響起了。
+    text: 我們聯隊所有民兵核飛彈站點的警報都同時響起了。
     status: completed
     confidence: high
     notes: wing 為聯隊
@@ -4881,7 +4881,7 @@ segments:
     end: 00:35:23,940
   source_text: Many security police and security alert teams reported seeing the strange lights, which Gray and I saw, and they too lost radio communication and vehicle power.
   translation:
-    text: 許多安全警察和安全警戒小組報告看到 Gray 和我所看到的那些奇怪光點，他們也同樣失去了無線電通訊和車輛電力。
+    text: 許多安全警察和安全警戒小組報告看到 格雷 和我所看到的那些奇怪光點，他們也同樣失去了無線電通訊和車輛電力。
     status: completed
     confidence: high
     notes: null
@@ -4898,7 +4898,7 @@ segments:
     end: 00:35:27,940
   source_text: '"You know what I think?" Gray asked. "I think it was a UFO."'
   translation:
-    text: 「你知道我怎麼想嗎？」Gray 問道。「我認為那是不明飛行物。」
+    text: 「你知道我怎麼想嗎？」格雷 問道。「我認為那是不明飛行物。」
     status: completed
     confidence: high
     notes: 對話使用中文引號
@@ -4915,7 +4915,7 @@ segments:
     end: 00:35:29,940
   source_text: Sergeant Hicks just nodded.
   translation:
-    text: Hicks 士官只是點了點頭。
+    text: 希克斯士官只是點了點頭。
     status: completed
     confidence: high
     notes: null
@@ -4932,7 +4932,7 @@ segments:
     end: 00:35:36,940
   source_text: I ventured. "Should we report it? Gray and I aren't lying. We'll write statements."
   translation:
-    text: 我試探性地說：「我們應該報告嗎？Gray 和我沒有說謊。我們會寫書面陳述。」
+    text: 我試探性地說：「我們應該報告嗎？格雷 和我沒有說謊。我們會寫書面陳述。」
     status: completed
     confidence: high
     notes: ventured 意為試探性地說
@@ -4949,7 +4949,7 @@ segments:
     end: 00:35:39,940
   source_text: Gray signaled his agreement with a nod.
   translation:
-    text: Gray 點頭表示同意。
+    text: 格雷 點頭表示同意。
     status: completed
     confidence: high
     notes: null
@@ -4966,7 +4966,7 @@ segments:
     end: 00:35:43,940
   source_text: Sergeant Hicks said, "Why stir up a lot of trouble?
   translation:
-    text: Hicks 士官說：「何必自找麻煩？
+    text: 希克斯士官說：「何必自找麻煩？
     status: completed
     confidence: high
     notes: null
@@ -5017,7 +5017,7 @@ segments:
     end: 00:36:06,940
   source_text: A few nights later, in the security police barracks back at Minot Air Force Base, I was listening to a news broadcast from Winnipeg, Canada, radio station.
   translation:
-    text: 幾天後的一個晚上，在邁諾特空軍基地的安全警察營房裡，我正在收聽加拿大溫尼伯（Winnipeg， Canada）廣播電台的新聞廣播。
+    text: 幾天後的一個晚上，在邁諾特空軍基地的安全警察營房裡，我正在收聽加拿大溫尼伯（Winnipeg, Canada）廣播電台的新聞廣播。
     status: completed
     confidence: high
     notes: null
@@ -5068,7 +5068,7 @@ segments:
     end: 00:36:32,940
   source_text: The Canadians responded to the UFO that was over our missile site.
   translation:
-    text: 加拿大人對出現在我們導彈站點上空的不明飛行物做出了回應。
+    text: 加拿大人對出現在我們飛彈站點上空的不明飛行物做出了回應。
     status: completed
     confidence: high
     notes: null
@@ -5136,10 +5136,10 @@ segments:
     end: 00:37:28,940
   source_text: Completed, sir? You're complete? Thank you very much, Sergeant Scott. Thank you. Very riveting and thank you for your service as well. Now, Captain, I won't even try to pronounce your name. Please say it for us.
   translation:
-    text: 結束了嗎，先生？您結束了嗎？非常感謝，Scott 士官。謝謝。非常引人入勝，也感謝您的服務。現在，上尉，我甚至不會嘗試唸您的名字。請為我們說一下。
+    text: 結束了嗎，先生？您結束了嗎？非常感謝，斯科特士官。謝謝。非常引人入勝，也感謝您的服務。現在，上校，我甚至不會嘗試唸您的名字。請您自己為我們唸一下。
     status: completed
     confidence: high
-    notes: 主持人結束 Scott 證詞並轉向下一位證人（Fenstermacher 上尉）
+    notes: 主持人結束斯科特質證並轉向下一位證人（芬斯特馬赫上尉）；此處 Captain 指主持人基爾派翠克（陸軍上校），非上尉
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -5153,7 +5153,7 @@ segments:
     end: 00:37:29,940
   source_text: Fenstermacher.
   translation:
-    text: Fenstermacher。
+    text: 芬斯特馬赫。（Fenstermacher）
     status: completed
     confidence: high
     notes: null
@@ -5170,7 +5170,7 @@ segments:
     end: 00:37:30,940
   source_text: Fenstermacher.
   translation:
-    text: Fenstermacher。
+    text: 芬斯特馬赫。（Fenstermacher）
     status: completed
     confidence: high
     notes: null
@@ -5340,7 +5340,7 @@ segments:
     end: 00:38:37,940
   source_text: The LCF was the part of Romeo that was above the ground, as we saw with David Scindelli, and the launch control capsule was the one that we took an elevator down to.
   translation:
-    text: 發射設施是 Romeo 的地面部分，就像我們剛才在 David Scindelli 那裡看到的，而發射控制艙室則是我們搭電梯下去的地方。
+    text: 發射設施是 Romeo 的地面部分，就像我們剛才在大衛·辛德利（David Scindelli）那裡看到的，而發射控制艙室則是我們搭電梯下去的地方。
     status: completed
     confidence: high
     notes: 已修正 Whisper 錯誤 Schindley 改為 Scindelli
@@ -5391,7 +5391,7 @@ segments:
     end: 00:39:04,940
   source_text: David was one of them, David Scott, and between our flight security controller, FSC, our topside NCO.
   translation:
-    text: David 是其中之一，David Scott，以及我們的飛行安全管制員（FSC），我們的地面士官。
+    text: 大衛是其中之一，大衛·斯科特，以及我們的飛行安全管制員（FSC），我們的地面士官。
     status: completed
     confidence: high
     notes: null
@@ -5629,7 +5629,7 @@ segments:
     end: 00:41:00,940
   source_text: It was hard to see his perspective exactly because he didn't know if it was way high, it could have been 1,000 feet long. If it was way low, it could have been less, but that was his best guess.
   translation:
-    text: 很難確定他的視角，因為他不知道如果它非常高，它可能長達 1，000 英呎。如果它很低，可能會更短，但這是他的最佳估計。
+    text: 很難確定他的視角，因為他不知道如果它非常高，它可能長達 1,000 英呎。如果它很低，可能會更短，但這是他的最佳估計。
     status: completed
     confidence: high
     notes: null
@@ -5800,7 +5800,7 @@ segments:
     end: 00:43:00,940
   source_text: At our next hourly 400th SMS crew check for the flights Papa, Quebec, Romeo, Sierra, and Tango, we told the other crew members what our object had done and received laughter and an attitude of general disbelief.
   translation:
-    text: 在我們下一次第 400 戰略飛彈中隊的每小時組員檢查時，針對 Papa、Quebec、Romeo、Sierra 和 Tango 飛行中隊，我們告訴其他組員我們看到的物體做了什麼，卻收到嘲笑和普遍的不相信態度。
+    text: 在我們下一次第 400 戰略飛彈中隊的每小時組員檢查時，針對 Papa、Quebec、Romeo、Sierra 和 Tango 飛行分隊，我們告訴其他組員我們看到的物體做了什麼，卻收到嘲笑和普遍的不相信態度。
     status: completed
     confidence: high
     notes: null
@@ -5817,7 +5817,7 @@ segments:
     end: 00:43:07,940
   source_text: What are you guys crazy? Right after the group communication, the crew from Quebec called.
   translation:
-    text: 你們瘋了嗎？就在集體通訊結束後，Quebec 飛行中隊的組員打來電話。
+    text: 你們瘋了嗎？就在集體通訊結束後，Quebec 飛行分隊的組員打來電話。
     status: completed
     confidence: high
     notes: null
@@ -5885,7 +5885,7 @@ segments:
     end: 00:43:51,940
   source_text: Well, he was right about that. They also mentioned that the SAT team that they had sent to one of the LFs had had an accident leaving the LF, and the Quebec crew seemed to find humor in that sad accident, and that's important for what happens a few years later.
   translation:
-    text: 嗯，他說得對。他們還提到他們派往其中一個發射設施的安全警戒小組在離開發射設施時發生了事故，Quebec 飛行中隊的組員似乎對那起悲傷的事故感到有趣，這對幾年後發生的事情很重要。
+    text: 嗯，他說得對。他們還提到他們派往其中一個發射設施的安全警戒小組在離開發射設施時發生了事故，Quebec 飛行分隊的組員似乎對那起悲傷的事故感到有趣，這對幾年後發生的事情很重要。
     status: completed
     confidence: high
     notes: null
@@ -5989,7 +5989,7 @@ segments:
     end: 00:44:53,940
   source_text: At no time did our missiles go offline, though. At no time did our missiles go offline, and I now understand why. Only recent information came out for that.
   translation:
-    text: 不過，我們的導彈從未失效。我們的導彈從未失效，我現在明白為什麼了。只是最近才有相關資訊出現。
+    text: 不過，我們的飛彈從未失效。我們的飛彈從未失效，我現在明白為什麼了。只是最近才有相關資訊出現。
     status: completed
     confidence: high
     notes: null
@@ -6009,7 +6009,7 @@ segments:
     text: 與此同時，回到 1976 年，隔天早上，我們被另一組人員接班，正常返回 F.E. Warren，當我們回到地面時，我們發現飛行安全管制員蜷縮在椅子上，呈現胎兒姿勢。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 LFE Warren 應為 F.E. Warren（Whisper 誤轉）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -6233,7 +6233,7 @@ segments:
     end: 00:47:08,940
   source_text: After a press conference in September 2010, I was given a name of a former Quebec SAT team that wanted to talk to me.
   translation:
-    text: 在 2010 年 9 月的一次新聞發布會後，我得到了一位前 Quebec 安全警戒小組成員的名字，他想和我談談。
+    text: 在 2010 年 9 月的一次新聞發布會後，我得到了一位前 Quebec 分隊安全警戒小組成員的名字，他想和我談談。
     status: completed
     confidence: high
     notes: null
@@ -6320,7 +6320,7 @@ segments:
     end: 00:48:00,940
   source_text: That tied into me that that, in fact, was the Quebec team that was on duty that night when my Quebec commanders told me that their SAT team had an accident, so I was confident they were them.
   translation:
-    text: 這讓我確信，事實上，這就是當晚值勤的 Quebec 小組，因為我的 Quebec 指揮官告訴我他們的安全警戒小組發生了事故，所以我確信就是他們。
+    text: 這讓我確信，事實上，這就是當晚值勤的 Quebec 小組，因為我的 Quebec 分隊指揮官告訴我他們的安全警戒小組發生了事故，所以我確信就是他們。
     status: completed
     confidence: high
     notes: null
@@ -6460,7 +6460,7 @@ segments:
     end: 00:49:13,940
   source_text: This guy's name was Bob Salas, and I thought he was one of the crew members from Quebec.
   translation:
-    text: 這個人的名字是 Bob Salas，我以為他是 Quebec 飛行中隊的組員之一。
+    text: 這個人的名字是 勃·薩拉斯，我以為他是 Quebec 飛行分隊的組員之一。
     status: completed
     confidence: high
     notes: null
@@ -6511,7 +6511,7 @@ segments:
     end: 00:49:31,940
   source_text: A skeptic on that show did not believe Mr. Salas' story and seemed to doubt his credibility, his honesty, and his sanity.
   translation:
-    text: 節目上的一位懷疑論者不相信 Salas 先生的故事，似乎懷疑他的可信度、誠實和理智。
+    text: 節目上的一位懷疑論者不相信 薩拉斯先生的故事，似乎懷疑他的可信度、誠實和理智。
     status: completed
     confidence: high
     notes: null
@@ -6635,7 +6635,7 @@ segments:
     end: 00:50:47,940
   source_text: So, some things they just don't know, but we're going to take it to them. Okay? [applause] Mr. Dolan. Thank you, Madam Chair and committee.
   translation:
-    text: 所以，有些事情他們就是不知道，但我們會把真相告訴他們。好嗎？[掌聲] Dolan 先生。謝謝主席女士與各位委員。
+    text: 所以，有些事情他們就是不知道，但我們會把真相告訴他們。好嗎？[掌聲] 多蘭先生（Mr. Dolan）。謝謝主席女士與各位委員。
     status: completed
     confidence: high
     notes: 已修正 Whisper 錯誤（原為 Mr. Doley）
@@ -6708,7 +6708,7 @@ segments:
     end: 00:51:26,940
   source_text: We're fortunate in having obtained a few items of interest through the Freedom of Information Act.
   translation:
-    text: 我們很幸運透過資訊自由法 (Freedom of Information Act) 取得了一些有趣的資料。
+    text: 我們很幸運透過資訊自由法（Freedom of Information Act） 取得了一些有趣的資料。
     status: completed
     confidence: high
     notes: null
@@ -6777,7 +6777,7 @@ segments:
     end: 00:51:50,940
   source_text: This is from a U.S. Navy officer named Byron D. Varner, who wrote a privately published book.
   translation:
-    text: 這來自一位名叫 Byron D. Varner 的美國海軍軍官，他撰寫了一本私人出版的書籍。
+    text: 這來自一位名叫拜倫·D·瓦爾納（Byron D. Varner）的美國海軍軍官，他撰寫了一本私人出版的書籍。
     status: completed
     confidence: high
     notes: null
@@ -6794,10 +6794,10 @@ segments:
     end: 00:51:58,940
   source_text: It's called "Living on the Edge--An American War Hero's Daring Feats as a Navy Fighter Pilot, Civilian Test Pilot, and CIA Mercenary."
   translation:
-    text: 書名是《生活在邊緣——一位美國戰爭英雄作為海軍戰鬥機飛行員、民間試飛員與 CIA 傭兵的大膽事蹟》。
+    text: 書名是《Living on the Edge——An American War Hero's Daring Feats as a Navy Fighter Pilot, Civilian Test Pilot, and CIA Mercenary》。
     status: completed
     confidence: high
-    notes: null
+    notes: 書名無通行中譯，依準則保留原文；原譯「生活在邊緣——一位美國戰爭英雄作為海軍戰鬥機飛行員、民間試飛員與 CIA 傭兵的大膽事蹟」
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -6828,7 +6828,7 @@ segments:
     end: 00:52:06,940
   source_text: The book includes a UFO encounter by another Navy pilot, a man named Roland Powell.
   translation:
-    text: 書中記載了另一位海軍飛行員遭遇 UFO 的經歷，這位飛行員名叫 Roland Powell。
+    text: 書中記載了另一位海軍飛行員遭遇 UFO 的經歷，這位飛行員名叫羅蘭·鮑威爾（Roland Powell）。
     status: completed
     confidence: high
     notes: null
@@ -6845,7 +6845,7 @@ segments:
     end: 00:52:15,940
   source_text: Both of these gentlemen were interviewed at length by the then head of the Mutual UFO Network, Mr. Walter Andrus.
   translation:
-    text: 這兩位先生都曾接受當時 UFO 互動網絡 (Mutual UFO Network) 負責人 Walter Andrus 先生的詳細訪談。
+    text: 這兩位先生都曾接受當時 UFO 互動網路（Mutual UFO Network）負責人沃爾特·安德魯斯先生（Walter Andrus）的詳細訪談。
     status: completed
     confidence: high
     notes: null
@@ -6862,7 +6862,7 @@ segments:
     end: 00:52:21,940
   source_text: Mutual UFO Network, or MUFON, is the largest civilian UFO organization in the U.S., has been for years.
   translation:
-    text: UFO 互動網絡，簡稱 MUFON，多年來一直是美國最大的民間 UFO 組織。
+    text: UFO 互動網路，簡稱 MUFON，多年來一直是美國最大的民間 UFO 組織。
     status: completed
     confidence: high
     notes: null
@@ -6879,7 +6879,7 @@ segments:
     end: 00:52:38,940
   source_text: So here's what happened. In July 1945, near the close of the Pacific War, the Hanford Atomic Facility, located in the state of Washington, one of the key elements of America's new nuclear infrastructure was there.
   translation:
-    text: 事情是這樣的。1945 年 7 月，接近太平洋戰爭尾聲時，位於華盛頓州的漢福德原子設施 (Hanford Atomic Facility)，美國新核武基礎設施的關鍵要素之一就在那裡。
+    text: 事情是這樣的。1945 年 7 月，接近太平洋戰爭尾聲時，位於華盛頓州的漢福德原子設施（Hanford Atomic Facility），美國新核武基礎設施的關鍵要素之一就在那裡。
     status: completed
     confidence: high
     notes: null
@@ -6966,7 +6966,7 @@ segments:
     end: 00:53:21,940
   source_text: Six pilots flying Grumman F6F Hellcats were sent up. Finally, they saw it, and they flew to intercept it.
   translation:
-    text: 六名駕駛格魯曼 F6F 地獄貓戰鬥機 (Grumman F6F Hellcats) 的飛行員被派遣升空。最後，他們看到了它，並飛去攔截。
+    text: 六名駕駛格魯曼 F6F 地獄貓戰鬥機（Grumman F6F Hellcats） 的飛行員被派遣升空。最後，他們看到了它，並飛去攔截。
     status: completed
     confidence: high
     notes: null
@@ -6983,7 +6983,7 @@ segments:
     end: 00:53:26,940
   source_text: It was estimated to be about 65,000 feet, very, very high up.
   translation:
-    text: 估計它的高度約為 65，000 英呎，非常非常高。
+    text: 估計它的高度約為 65,000 英呎，非常非常高。
     status: completed
     confidence: high
     notes: null
@@ -7017,7 +7017,7 @@ segments:
     end: 00:53:48,940
   source_text: The pilot, Roland Powell, later described this object to be as large as "three aircraft carriers, side-by-side, oval-shaped, very streamlined, like a stretched-out egg, and pinkish in color."
   translation:
-    text: 飛行員 Roland Powell 後來描述這個物體的大小如同「三艘航空母艦並排放置，橢圓形，非常流線型，像一顆拉長的蛋，顏色呈粉紅色」。
+    text: 飛行員 鮑威爾 後來描述這個物體的大小如同「三艘航空母艦並排放置，橢圓形，非常流線型，像一顆拉長的蛋，顏色呈粉紅色」。
     status: completed
     confidence: high
     notes: null
@@ -7172,7 +7172,7 @@ segments:
     end: 00:54:40,940
   source_text: Finally, some engines, according to Roland Powell, did begin to fail.
   translation:
-    text: 根據 Roland Powell 的說法，最後有些引擎確實開始故障。
+    text: 根據 鮑威爾 的說法，最後有些引擎確實開始故障。
     status: completed
     confidence: high
     notes: null
@@ -7223,7 +7223,7 @@ segments:
     end: 00:54:53,940
   source_text: They had pushed their aircraft up to 42,000 feet, which was 5,000 feet above their maximum ceiling.
   translation:
-    text: 他們將飛機推升到 42，000 英呎，比最大升限高出 5，000 英呎。
+    text: 他們將飛機推升到 42,000 英呎，比最大升限高出 5,000 英呎。
     status: completed
     confidence: high
     notes: null
@@ -7292,7 +7292,7 @@ segments:
     end: 00:55:26,940
   source_text: Several from the FBI describe a series of events over and near Los Alamos.
   translation:
-    text: 其中幾份來自 FBI 的文件描述了在洛斯阿拉莫斯 (Los Alamos) 上空及附近發生的一系列事件。
+    text: 其中幾份來自 FBI 的文件描述了在洛斯阿拉莫斯（Los Alamos） 上空及附近發生的一系列事件。
     status: completed
     confidence: high
     notes: null
@@ -7378,7 +7378,7 @@ segments:
     end: 00:56:10,940
   source_text: The witnesses were all very high caliber. We're talking special agents of OSI, airline pilots, military pilots, Los Alamos security inspectors.
   translation:
-    text: 證人的可信度都非常高。我們談的是特別調查處 (OSI) 的特別探員、航空公司飛行員、軍方飛行員、洛斯阿拉莫斯安全檢查員。
+    text: 證人的可信度都非常高。我們談的是空軍特別調查辦公室（OSI）的特別探員、航空公司飛行員、軍方飛行員、洛斯阿拉莫斯安全檢查員。
     status: completed
     confidence: high
     notes: null
@@ -7605,7 +7605,7 @@ segments:
     end: 00:57:55,940
   source_text: Another key place where the U.S. developed its atomic technologies was at Oak Ridge, Tennessee.
   translation:
-    text: 美國發展原子技術的另一個關鍵地點是田納西州橡樹嶺 (Oak Ridge， Tennessee)。
+    text: 美國發展原子技術的另一個關鍵地點是田納西州橡樹嶺（Oak Ridge， Tennessee）。
     status: completed
     confidence: high
     notes: null
@@ -7622,7 +7622,7 @@ segments:
     end: 00:58:00,940
   source_text: Here's where the Manhattan Project had established a pilot plant to produce plutonium.
   translation:
-    text: 曼哈頓計畫 (Manhattan Project) 就是在這裡建立了生產鈽的試驗工廠。
+    text: 曼哈頓計畫（Manhattan Project） 就是在這裡建立了生產鈽的試驗工廠。
     status: completed
     confidence: high
     notes: null
@@ -7674,7 +7674,7 @@ segments:
     end: 00:58:21,940
   source_text: They were slow, low in the sky, less than 5,000 feet, maybe 1,000.
   translation:
-    text: 它們速度緩慢，在低空飛行，低於 5，000 英呎，也許只有 1，000 英呎。
+    text: 它們速度緩慢，在低空飛行，低於 5,000 英呎，也許只有 1,000 英呎。
     status: completed
     confidence: high
     notes: null
@@ -7986,7 +7986,7 @@ segments:
     end: 00:59:57,940
   source_text: It was about 12,000 to 15,000 feet altitude.
   translation:
-    text: 它的高度約為 12，000 到 15，000 英呎。
+    text: 它的高度約為 12,000 到 15,000 英呎。
     status: completed
     confidence: high
     notes: null
@@ -8241,7 +8241,7 @@ segments:
     end: 01:01:04,940
   source_text: '"Since 30 July 1950, objects round in form have been sighted over the Hanford AEC plant."'
   translation:
-    text: 「自 1950 年 7 月 30 日以來，在漢福德原子能委員會 (AEC) 工廠上空目擊到圓形物體。」
+    text: 「自 1950 年 7 月 30 日以來，在漢福德原子能委員會（AEC） 工廠上空目擊到圓形物體。」
     status: completed
     confidence: high
     notes: null
@@ -8261,7 +8261,7 @@ segments:
     text: 那就是原子能委員會工廠。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 plan 應為 plant（Whisper 誤轉）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -8649,7 +8649,7 @@ segments:
     end: 01:03:31,940
   source_text: We're now going to open it to our members, and we're going to start with Congressman Bartlett.
   translation:
-    text: 我們現在將開放給委員會成員提問，我們將從巴特利特眾議員 (Congressman Bartlett) 開始。
+    text: 我們現在將開放給委員會成員提問，我們將從巴特利特眾議員（Congressman Bartlett） 開始。
     status: completed
     confidence: high
     notes: null
@@ -8700,7 +8700,7 @@ segments:
     end: 01:04:17,940
   source_text: Mr. Dolan, what was the reference for size, because the description of one of these is different than the description of others.
   translation:
-    text: 多蘭先生 (Mr. Dolan)，尺寸的參考依據是什麼，因為其中一個的描述與其他描述不同。
+    text: 多蘭先生（Mr. Dolan），尺寸的參考依據是什麼，因為其中一個的描述與其他描述不同。
     status: completed
     confidence: high
     notes: 可能為 Dolan 的口誤，context 確認為 Richard Dolan
@@ -8990,7 +8990,7 @@ segments:
     end: 01:05:28,940
   source_text: Well, I don't want to jump if you had to say something, Robert.
   translation:
-    text: 嗯，如果 Robert 有話要說，我不想搶先。
+    text: 嗯，如果 羅伯特 有話要說，我不想搶先。
     status: completed
     confidence: high
     notes: 可能指 Captain Salas
@@ -9007,7 +9007,7 @@ segments:
     end: 01:05:36,940
   source_text: Recently, let's say 2010, there was a shutdown of 50 missiles at Francis E. Warren Air Force Base.
   translation:
-    text: 最近，比如說 2010 年，F.E. Warren 空軍基地 (Francis E. Warren Air Force Base) 發生了 50 枚導彈關閉事件。
+    text: 最近，比如說 2010 年，F.E. Warren 空軍基地（Francis E. Warren Air Force Base） 發生了 50 枚飛彈關閉事件。
     status: completed
     confidence: high
     notes: null
@@ -9075,7 +9075,7 @@ segments:
     end: 01:06:03,940
   source_text: I'm not sure I believe that, but we do have witnesses that have come forward, both civilian and Air Force, that said they saw an object in the sky at the time of these shutdowns.
   translation:
-    text: 我不確定我是否相信，但我們確實有證人站出來，包括平民和空軍人員，他們說在這些導彈關閉時看到天空中有物體。
+    text: 我不確定我是否相信，但我們確實有證人站出來，包括平民和空軍人員，他們說在這些飛彈關閉時看到天空中有物體。
     status: completed
     confidence: high
     notes: null
@@ -9212,10 +9212,10 @@ segments:
     end: 01:06:39,940
   source_text: It was mentioned previously in the Bentwaters panel.
   translation:
-    text: 在之前的 Bentwaters 證人小組中曾提到過。
+    text: 在之前的本特沃特斯場次中曾提到過。
     status: completed
     confidence: high
-    notes: null
+    notes: Bentwaters 場次指藍道申森林事件證詞（UFO-05/06），基地名定譯本特沃特斯
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9265,7 +9265,7 @@ segments:
     end: 01:07:21,940
   source_text: But that's one of the reasons I think Mr. Fenstermacher noted that some of their people were very reluctant to report what they saw, and I'm sure that had to do with the PRP program.
   translation:
-    text: 但這就是我認為芬斯特馬赫先生 (Mr. Fenstermacher) 指出的原因之一，他們的一些人非常不願意報告他們所看到的，我確信這與 PRP（人員可靠性計畫）有關。
+    text: 但這就是我認為芬斯特馬赫先生（Mr. Fenstermacher） 指出的原因之一，他們的一些人非常不願意報告他們所看到的，我確信這與 PRP（人員可靠性計畫）有關。
     status: completed
     confidence: high
     notes: PRP = Personnel Reliability Program
@@ -9283,7 +9283,7 @@ segments:
     end: 01:07:35,940
   source_text: Two points. Since all of you have followed this activity, you know, we're not the only country that has Minutemen missiles in holes in the ground pointed at somebody.
   translation:
-    text: 兩點。既然你們所有人都一直關注這項活動，你們知道，我們不是唯一一個在地下洞穴中擁有民兵導彈瞄準某人的國家。
+    text: 兩點。既然你們所有人都一直關注這項活動，你們知道，我們不是唯一一個在地下洞穴中擁有民兵飛彈瞄準某人的國家。
     status: completed
     confidence: high
     notes: null
@@ -9318,7 +9318,7 @@ segments:
     end: 01:07:54,940
   source_text: Did they have any, as a result of the implosion of the Soviet Union, the data that came forward and a lot of their files, do you have any knowledge as to whether or not the Russians or the Soviets had a similar experience with their missiles?
   translation:
-    text: 由於蘇聯的解體，湧現出的數據和大量檔案，你們是否了解俄羅斯人或蘇聯人是否對他們的導彈有過類似的經歷？
+    text: 由於蘇聯的解體，湧現出的資料和大量檔案，你們是否了解俄羅斯人或蘇聯人是否對他們的飛彈有過類似的經歷？
     status: completed
     confidence: high
     notes: null
@@ -9336,10 +9336,10 @@ segments:
     end: 01:07:58,940
   source_text: Anyone that wants to answer that? We'll start with Captain Scott.
   translation:
-    text: 誰想回答這個問題？我們從斯科特上尉 (Captain Scott) 開始。
+    text: 誰想回答這個問題？我們從斯科特士官開始。
     status: completed
-    confidence: medium
-    notes: 委員會主席提問，但 Scott 是技術士官非上尉，可能口誤
+    confidence: high
+    notes: 原文 Captain Scott 為主持人對軍銜的口誤（Scott 實為技術士官），中譯逕改士官（2026-08-11 人工裁決）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9421,7 +9421,7 @@ segments:
     end: 01:08:32,940
   source_text: But as I recall, UFO came over and actually started their missile on the launch sequence.
   translation:
-    text: 但據我回憶，不明飛行物飛過來，實際上啟動了他們導彈的發射序列。
+    text: 但據我回憶，不明飛行物飛過來，實際上啟動了他們飛彈的發射序列。
     status: completed
     confidence: high
     notes: null
@@ -9472,7 +9472,7 @@ segments:
     end: 01:08:48,940
   source_text: There's a large, large quantity there also of incidents where UFOs were seen over missile bases.
   translation:
-    text: 在那裡也有大量的事件，UFO 被看到在導彈基地上空。
+    text: 在那裡也有大量的事件，UFO 被看到在飛彈基地上空。
     status: completed
     confidence: high
     notes: null
@@ -9489,7 +9489,7 @@ segments:
     end: 01:08:57,940
   source_text: Did they have the same effect that is stopping the ability of the missile to work through whatever device?
   translation:
-    text: 他們是否有相同的效果，也就是透過某種裝置阻止導彈工作的能力？
+    text: 他們是否有相同的效果，也就是透過某種裝置阻止飛彈工作的能力？
     status: completed
     confidence: high
     notes: 委員追問
@@ -9523,7 +9523,7 @@ segments:
     end: 01:09:10,940
   source_text: Okay. And Captain Fenstermacher, did you nod at your head like you had some knowledge in that?
   translation:
-    text: 好的。芬斯特馬赫上尉 (Captain Fenstermacher)，您點頭了，是不是對此有所了解？
+    text: 好的。芬斯特馬赫上尉（Captain Fenstermacher），您點頭了，是不是對此有所了解？
     status: completed
     confidence: high
     notes: null
@@ -9540,7 +9540,7 @@ segments:
     end: 01:09:16,940
   source_text: I saw the same report that Bob Salas had. I saw it on ABC.
   translation:
-    text: 我看到了 Bob Salas 看到的同一份報告。我在 ABC 上看到的。
+    text: 我看到了 勃·薩拉斯 看到的同一份報告。我在 ABC 上看到的。
     status: completed
     confidence: high
     notes: 已修正 Salwas 拼寫錯誤
@@ -9728,10 +9728,10 @@ segments:
     end: 01:10:32,940
   source_text: So I was just curious that, you know, if there was a focus of attention on U.S. ICBMs, obviously extraterrestrial would have an interest in the Soviet ICBMs and also would have interest in ICBMs in the world today, not by other countries.
   translation:
-    text: 所以我只是好奇，你知道，如果關注焦點在美國洲際彈道導彈上，顯然外星的存在會對蘇聯洲際彈道導彈感興趣，也會對當今世界其他國家的洲際彈道導彈感興趣。
+    text: 所以我只是好奇，你知道，如果關注焦點在美國的洲際彈道飛彈上，顯然外星生命也會對蘇聯的洲際彈道飛彈感興趣，也會對當今世界上其他國家的洲際彈道飛彈感興趣。
     status: completed
     confidence: high
-    notes: extraterrestrial 用作形容詞
+    notes: 原文 "not by other countries" 疑為 Whisper 誤轉，依語境理解為其他國家
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -9747,7 +9747,7 @@ segments:
     end: 01:10:34,940
   source_text: At the very end of the Soviet -- Richard, I was going to just come to you.
   translation:
-    text: 在蘇聯末期——Richard，我正要問你。
+    text: 在蘇聯末期——理查德，我正要問你。
     status: completed
     confidence: high
     notes: 委員轉向 Richard Dolan
@@ -9834,10 +9834,10 @@ segments:
     end: 01:10:59,940
   source_text: And there were a number of cases, one at Kapustin Yar in 1989.
   translation:
-    text: 有許多案例，其中一個是 1989 年在 Kasputin Yar 的案例。
+    text: 有許多案例，其中一個是 1989 年在卡普斯京亞爾（Kapustin Yar）的案例。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文拼寫 Kasputin Yar，標準拼寫 Kapustin Yar，蘇聯飛彈試驗場
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10041,7 +10041,7 @@ segments:
     end: 01:12:00,940
   source_text: Thank you. Congresswoman Hooley.
   translation:
-    text: 謝謝。胡利女議員 (Congresswoman Hooley)。
+    text: 謝謝。胡利眾議員（Congresswoman Hooley）。
     status: completed
     confidence: high
     notes: null
@@ -10075,7 +10075,7 @@ segments:
     end: 01:12:09,940
   source_text: I have some questions just in general, and maybe we'll start with Captain Salas.
   translation:
-    text: 我有一些一般性的問題，也許我們從薩拉斯上尉 (Captain Salas) 開始。
+    text: 我有一些一般性的問題，也許我們從薩拉斯上尉（Captain Salas） 開始。
     status: completed
     confidence: high
     notes: null
@@ -10160,10 +10160,10 @@ segments:
     end: 01:12:36,940
   source_text: In 1994, I happened to pick up a book called "Above Top Secret" by Timothy Good.
   translation:
-    text: 1994 年，我碰巧拿起一本名為《絕密之上》(Above Top Secret) 的書，作者是 Timothy Goode。
+    text: 1994 年，我碰巧拿起一本名為《Above Top Secret》的書，作者是提摩西·古德（Timothy Good）。
     status: completed
     confidence: high
-    notes: null
+    notes: 書名無通行中譯，保留原文（意為「最高機密之上」）；原文 Timothy Goode 應為 Timothy Good（Whisper 誤轉）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10177,10 +10177,10 @@ segments:
     end: 01:12:48,940
   source_text: On page 301 of that book, it stated in a very short paragraph that missiles were shut down in Malmstrom Air Force Base during UFO sighting in 1967.
   translation:
-    text: 在那本書的第 301 頁，有一個非常簡短的段落指出，1967 年在 Malmstrom 空軍基地 UFO 目擊期間導彈被關閉了。
+    text: 在那本書的第 301 頁，有一個非常簡短的段落指出，1967 年在 Malmstrom 空軍基地 UFO 目擊期間飛彈被關閉了。
     status: completed
     confidence: high
-    notes: Malsom 可能為轉錄錯誤
+    notes: 原文 Malsom 應為 Malmstrom（Whisper 誤轉）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10214,7 +10214,7 @@ segments:
     end: 01:13:11,940
   source_text: They were talking about the echo flight shutdown because I thought that was my incident.
   translation:
-    text: 他們談論的是 Echo 飛行中隊關閉事件，因為我以為那是我的事件。
+    text: 他們談論的是 Echo 飛行分隊關閉事件，因為我以為那是我的事件。
     status: completed
     confidence: high
     notes: null
@@ -10248,7 +10248,7 @@ segments:
     end: 01:13:28,940
   source_text: I just asked for, well, actually my researcher, James Klotz, who was with MUFON at the time, requested this information under FOIA.
   translation:
-    text: 我只是要求，嗯，實際上是我的研究員 James Klotz，當時在 MUFON（UFO 互動網絡）工作，根據 FOIA 要求這些資訊。
+    text: 我只是要求，嗯，實際上是我的研究員詹姆斯·克洛茨（James Klotz），當時在 MUFON（UFO 互動網路）工作，根據 FOIA 要求這些資訊。
     status: completed
     confidence: high
     notes: null
@@ -10353,10 +10353,10 @@ segments:
     end: 01:14:17,940
   source_text: It wasn't until 1996 when I contacted my commander, Fred Mywald, that I realized I was at Oscar flight.
   translation:
-    text: 直到 1996 年，當我聯繫我的指揮官 Fred Mywald 時，我才意識到我在 Oscar 飛行中隊。
+    text: 直到 1996 年，當我聯繫我的指揮官弗雷德·邁沃爾德（Fred Mywald）時，我才意識到我在 Oscar 飛行分隊。
     status: completed
     confidence: high
-    notes: Mywall 可能為 Mywald 的轉錄錯誤
+    notes: 原文 Mywall 應為 Mywald（Whisper 誤轉）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -10597,7 +10597,7 @@ segments:
     end: 01:16:14,940
   source_text: In fact, during the incident over Los Alamos that I mentioned earlier, there was speculation, wondering, could this have been a Soviet type of technology?
   translation:
-    text: 事實上，在我之前提到的洛斯阿拉莫斯 (Los Alamos) 上空的事件期間，有人推測，想知道這會不會是蘇聯類型的技術？
+    text: 事實上，在我之前提到的洛斯阿拉莫斯（Los Alamos） 上空的事件期間，有人推測，想知道這會不會是蘇聯類型的技術？
     status: completed
     confidence: high
     notes: null
@@ -10838,7 +10838,7 @@ segments:
     end: 01:17:25,940
   source_text: Thank you, Congresswoman.
   translation:
-    text: 謝謝，女議員。
+    text: 謝謝，眾議員。
     status: completed
     confidence: high
     notes: null
@@ -10855,7 +10855,7 @@ segments:
     end: 01:17:29,940
   source_text: Congressman Cook, please.
   translation:
-    text: 庫克眾議員 (Congressman Cook)，請。
+    text: 庫克眾議員（Congressman Cook），請。
     status: completed
     confidence: high
     notes: null
@@ -10907,7 +10907,7 @@ segments:
     end: 01:17:46,940
   source_text: I just came forward after I saw Bob Salas.
   translation:
-    text: 我只是在看到 Bob Salas 之後才站出來。
+    text: 我只是在看到 勃·薩拉斯 之後才站出來。
     status: completed
     confidence: high
     notes: 已修正 Salazar 拼寫錯誤
@@ -11009,7 +11009,7 @@ segments:
     end: 01:18:20,940
   source_text: But the reason I'm asking this is because I want to ask you all each about the Air Force Project Blue Book.
   translation:
-    text: 但我問這個的原因是因為我想問你們每個人關於空軍藍皮書計畫 (Project Blue Book) 的事情。
+    text: 但我問這個的原因是因為我想問你們每個人關於空軍藍皮書計畫（Project Blue Book） 的事情。
     status: completed
     confidence: high
     notes: null
@@ -11116,7 +11116,7 @@ segments:
     text: 我想你們的——你們所看到目擊的年份——76 年。
     status: completed
     confidence: medium
-    notes: ear 可能為 year 的轉錄錯誤
+    notes: 原文 ear 應為 year（Whisper 誤轉）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11405,10 +11405,10 @@ segments:
     end: 01:20:31,940
   source_text: So no, when the Condon investigator came to Malmstrom Air Force Base to talk to our deputy base commander, Colonel Chase, Colonel Chase said this was a classified incident, you could not review the report.
   translation:
-    text: 所以不，當康登調查員 (Condon investigator) 來到 Malmstrom 空軍基地與我們的副基地指揮官蔡斯上校 (Colonel Chase) 交談時，蔡斯上校說這是一起機密事件，你不能查閱報告。
+    text: 所以不，當康登調查員（Condon investigator） 來到 Malmstrom 空軍基地與我們的副基地指揮官蔡斯上校（Colonel Chase） 交談時，蔡斯上校說這是一起機密事件，你不能查閱報告。
     status: completed
     confidence: high
-    notes: Conant 可能為 Condon 的轉錄錯誤
+    notes: 原文 Conant 應為 Condon（Whisper 誤轉）
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11440,7 +11440,7 @@ segments:
     end: 01:20:43,940
   source_text: And do you have any feeling on the same question, Captain Scindelli?
   translation:
-    text: 辛德利上尉 (Captain Scindelli)，你對同一個問題有什麼看法？
+    text: 辛德利上尉（Captain Scindelli），你對同一個問題有什麼看法？
     status: completed
     confidence: high
     notes: 已修正 Schindl 拼寫錯誤
@@ -11525,7 +11525,7 @@ segments:
     end: 01:21:17,940
   source_text: And I find out about Val Smith, who's in my squadron.
   translation:
-    text: 我發現了 Val Smith，他在我的中隊。
+    text: 我發現了瓦爾·史密斯（Val Smith），他在我的中隊。
     status: completed
     confidence: high
     notes: null
@@ -11747,7 +11747,7 @@ segments:
     end: 01:22:18,940
   source_text: Yes, Mr. Cook.
   translation:
-    text: 是的，庫克先生 (Mr. Cook)。
+    text: 是的，庫克先生（Mr. Cook）。
     status: completed
     confidence: high
     notes: Salas 回答
@@ -11781,7 +11781,7 @@ segments:
     end: 01:22:27,940
   source_text: The Condon investigation, which was supposed to look into the UFO question for the Air Force, was a whitewash.
   translation:
-    text: 康登調查 (Condon investigation)，本應為空軍調查 UFO 問題，是一次粉飾。
+    text: 康登調查（Condon investigation），本應為空軍調查 UFO 問題，是一次粉飾。
     status: completed
     confidence: high
     notes: null
@@ -11815,7 +11815,7 @@ segments:
     end: 01:22:53,940
   source_text: And I have evidence of that. The evidence that I have is the fact that Dr. Craig, who was the chief investigator for Condon, was given information about the Echo and Oscar flight shutdowns. He was given names and dates, et cetera.
   translation:
-    text: 我有證據證明這一點。我擁有的證據是克雷格博士 (Dr. Craig)，康登調查的首席調查員，被給予了關於 Echo 和 Oscar 飛行中隊關閉的資訊。他被給予了姓名和日期等等。
+    text: 我有證據證明這一點。我擁有的證據是克雷格博士（Dr. Craig），康登調查的首席調查員，被給予了關於 Echo 和 Oscar 飛行分隊關閉的資訊。他被給予了姓名和日期等等。
     status: completed
     confidence: high
     notes: null
@@ -11832,10 +11832,10 @@ segments:
     end: 01:23:08,940
   source_text: And never followed up on it. The Condon investigators never followed up on it. Robert Lowe never followed up on it. It was never mentioned. And that's because it was classified.
   translation:
-    text: 但從未跟進。康登調查員從未跟進。Robert Low 從未跟進。它從未被提及。那是因為它是機密的。
+    text: 但從未跟進。康登調查員從未跟進。羅伯特·洛從未跟進。它從未被提及。那是因為它是機密的。
     status: completed
     confidence: high
-    notes: Robert Lowe 可能為 Low 的拼寫錯誤
+    notes: 原文 Robert Lowe，歷史人物實為 Robert Low
   metadata:
     topic_id: topic_06
     speaker_hint: null
@@ -11917,7 +11917,7 @@ segments:
     end: 01:23:40,940
   source_text: The order came down after the CIA sponsored Robertson Panel, which was at the very end of the Truman administration, to say, that's too high.
   translation:
-    text: 在 CIA 贊助的羅伯森調查小組 (Robertson Panel) 之後，也就是在杜魯門政府的最後期間，命令下來說，這太高了。
+    text: 在 CIA 贊助的羅伯森調查小組（Robertson Panel） 之後，也就是在杜魯門政府的最後期間，命令下來說，這太高了。
     status: completed
     confidence: high
     notes: null
@@ -12002,7 +12002,7 @@ segments:
     end: 01:24:49,940
   source_text: Is your opinion then, Mr. Dolan, that the Air Force is more reluctant even today than they were during that period of '52 to '67 to even talk about or discuss or take information from captains and sergeants and colonels and even generals, any kind of pilots and so on, than they were then?
   translation:
-    text: 那麼，多蘭先生 (Mr. Dolan)，你的意見是，空軍今天甚至比他們在 1952 到 1967 年期間更不願意談論或討論或從上尉、士官、上校甚至將軍、任何類型的飛行員等那裡獲取資訊嗎？
+    text: 那麼，多蘭先生（Mr. Dolan），你的意見是，空軍今天甚至比他們在 1952 到 1967 年期間更不願意談論或討論或從上尉、士官、上校甚至將軍、任何類型的飛行員等那裡獲取資訊嗎？
     status: completed
     confidence: high
     notes: null
@@ -12036,7 +12036,7 @@ segments:
     end: 01:25:20,940
   source_text: Our final presenter before our break, our ten minute break or so, will be Congresswoman Wolsey. Well, I was sitting here, thank you, all five of you, and Steve who was there before you, getting really uncomfortable about the position this has put you in all these years.
   translation:
-    text: 我們休息前的最後一位發言人，我們的十分鐘左右的休息，將是伍爾西女議員 (Congresswoman Woolsey)。嗯，我坐在這裡，謝謝你們五位，以及在你們之前的 Steve，對這些年來這讓你們處於的位置感到非常不舒服。
+    text: 我們休息前的最後一位發言人，我們的十分鐘左右的休息，將是伍爾西眾議員（Congresswoman Woolsey）。嗯，我坐在這裡，謝謝你們五位，以及在你們之前的 Steve，對這些年來這讓你們處於的位置感到非常不舒服。
     status: completed
     confidence: high
     notes: Wolsey 可能拼寫為 Woolsey
@@ -12087,7 +12087,7 @@ segments:
     end: 01:26:17,940
   source_text: Well, you know what? We don't have a lot to lose. But it would be, this would be one of the issues that a sitting member would risk losing an election over. 60 second, I mean, ad. And clearance, yeah, to find out data that you have to have clearance for.
   translation:
-    text: 嗯，你知道嗎？我們沒有太多可失去的。但這將是，這將是現任議員可能會因此失去選舉的問題之一。60 秒，我的意思是，廣告。還有許可，是的，要找出你必須有許可才能知道的數據。
+    text: 嗯，你知道嗎？我們沒有太多可失去的。但這將是，這將是現任議員可能會因此失去選舉的問題之一。60 秒，我的意思是，廣告。還有許可，是的，要找出你必須有許可才能知道的資料。
     status: completed
     confidence: medium
     notes: 句子結構較鬆散，口語化
@@ -12190,7 +12190,7 @@ segments:
     end: 01:28:01,940
   source_text: Ms. Woolsey, may I make a comment? For the last year, we have been sending documents, myself and Mr. Victor Viggiani of ZlandCommunications have been sending documents to Representative Peter King of New York.
   translation:
-    text: 伍爾西女士 (Ms. Woolsey)，我可以發表評論嗎？在過去的一年裡，我們一直在發送文件，我和 ZlandCommunications 的 Victor Viggiani 先生一直在向紐約州眾議員 Peter King 發送文件。
+    text: 伍爾西女士，我可以發表評論嗎？在過去的一年裡，我們一直在發送文件，我和 ZlandCommunications 的維克多·維吉亞尼（Victor Viggiani）先生一直在向紐約州眾議員彼得·金（Peter King）發送文件。
     status: completed
     confidence: high
     notes: 已修正 Bigliani/Zeeland 拼寫錯誤
@@ -12224,7 +12224,7 @@ segments:
     end: 01:28:18,940
   source_text: I've also briefed Congressman Rohrabacher, a congressman from California. I think he's still in Congress.
   translation:
-    text: 我還向加州眾議員羅拉巴克 (Congressman Rohrabacher) 作了簡報。我想他還在國會。
+    text: 我還向加州眾議員羅拉巴克（Congressman Rohrabacher） 作了簡報。我想他還在國會。
     status: completed
     confidence: high
     notes: null

@@ -670,7 +670,7 @@ segments:
     end: 00:02:56,720
   source_text: Mr. Scott?
   translation:
-    text: Scott 先生？
+    text: 斯科特先生？
     status: completed
     confidence: high
     notes: null
@@ -860,10 +860,10 @@ segments:
     end: 00:03:52,960
   source_text: I'm going to let Mr. Salas and I'm going to come to Mr. Dolan.
   translation:
-    text: 我要請 Salas 先生發言，然後我會請 Dole 先生發言。
+    text: 我要請薩拉斯先生發言，然後我會請多蘭先生發言。
     status: completed
     confidence: high
-    notes: 'terminology.yaml: Robert Salas 上尉'
+    notes: 原文 Mr. Dole 應為 Mr. Dolan（Whisper 誤轉，指 Richard Dolan）
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1066,7 +1066,7 @@ segments:
     end: 00:05:01,440
   source_text: Well, they could shut our missiles down until we put EMF filters on our missiles in the early '70s, and by '76, they couldn't shut them down, because in my opinion of the EMF filters and some of the documentation that Robert Salas got unsealed, I looked at and found, in fact, in '68, after studying his shutdowns, they were looking at EMF as a problem.
   translation:
-    text: 嗯，它們能夠關閉我們的飛彈，直到我們在 1970 年代初期在飛彈上安裝了 EMF 過濾器，到了 1976 年，它們就無法關閉飛彈了，因為根據我對 EMF 過濾器的了解，以及 Robert Salas 設法解密的一些文件，我查閱後發現，事實上在 1968 年，在研究他遭遇的飛彈關閉事件後，他們就將 EMF 視為一個問題。
+    text: 嗯，它們能夠關閉我們的飛彈，直到我們在 1970 年代初期在飛彈上安裝了 EMF 過濾器，到了 1976 年，它們就無法關閉飛彈了，因為根據我對 EMF 過濾器的了解，以及羅伯特·薩拉斯（Robert Salas）設法解密的一些文件，我查閱後發現，事實上在 1968 年，在研究他遭遇的飛彈關閉事件後，他們就將 EMF 視為一個問題。
     status: completed
     confidence: high
     notes: 'terminology.yaml: EMF filters, Robert Salas'
@@ -1106,10 +1106,10 @@ segments:
     end: 00:05:23,440
   source_text: And I also accompanied a nuclear warhead or crew duty.
   translation:
-    text: 我也曾執行核彈頭護送任務或機組值勤。
+    text: 我也曾隨行押運核彈頭，或執行相關值勤任務。
     status: completed
     confidence: medium
-    notes: 語句稍微不完整，可能是口語表達
+    notes: 原文語句不完整（疑 Whisper 轉錄殘缺），下段補充說明為護送車隊任務
   metadata:
     topic_id: topic_01
     speaker_hint: null
@@ -1141,7 +1141,7 @@ segments:
     end: 00:05:46,360
   source_text: So in my opinion, the EMF filters caused a problem to these entities until they worked around that by the time in 2010.
   translation:
-    text: 所以我認為，EMF 過濾器對這些實體造成了問題，直到它們在 2010 年前找到了解決辦法。
+    text: 所以我認為，EMF 過濾器對這些實體造成了問題，直到它們到 2010 年時找到了破解辦法。
     status: completed
     confidence: high
     notes: null
@@ -1159,7 +1159,7 @@ segments:
     end: 00:06:05,400
   source_text: I don't want to disagree with Mr. Fenstermacher, but I would like to point out that about the incident that I just mentioned in 2010, the jury's still out as to whether or not that was a UFO incident where 50 nuclear missiles were shut down while objects were seen overhead.
   translation:
-    text: 我不想與 Fenstermacher 先生意見相左，但我想指出，關於我剛才提到的 2010 年事件，這是否是一起在有物體被目擊於上空時 50 枚核飛彈被關閉的不明飛行物事件，目前仍無定論。
+    text: 我不想與芬斯特馬赫先生意見相左，但我想指出，關於我剛才提到的 2010 年事件，這是否是一起在有物體被目擊於上空時 50 枚核飛彈被關閉的不明飛行物事件，目前仍無定論。
     status: completed
     confidence: high
     notes: 'terminology.yaml: Captain Fenstermacher'
@@ -1197,7 +1197,7 @@ segments:
     end: 00:06:28,880
   source_text: Mr. Dolan?
   translation:
-    text: Dolan 先生？
+    text: 多蘭先生？
     status: completed
     confidence: high
     notes: 'terminology.yaml: Richard Dolan, UFO researcher'
@@ -1285,7 +1285,7 @@ segments:
     end: 00:07:17,160
   source_text: But we actually know from the declassified literature that even as early as 1947, there were wind tunnel tests of disk-shaped airframes that were being conducted at Wright Field in Dayton, Ohio, and these were explicitly based on UFO sightings.
   translation:
-    text: 但我們實際上從解密的文獻中得知，早在 1947 年，俄亥俄州代頓的萊特機場就進行了碟形機身的風洞測試，而這些測試明確是基於不明飛行物的目擊事件。
+    text: 但我們實際上從解密的文獻中得知，早在 1947 年，俄亥俄州代頓的萊特機場（Wright Field）就進行了碟形機身的風洞測試，而這些測試明確是基於不明飛行物的目擊事件。
     status: completed
     confidence: high
     notes: 'terminology.yaml: Wright Field'
@@ -1304,7 +1304,7 @@ segments:
     end: 00:07:24,120
   source_text: We have a document from October 1947 authored by Colonel Wentworth, I believe, in which he references this.
   translation:
-    text: 我們有一份我相信是溫特沃斯上校撰寫的 1947 年 10 月文件，其中提到了這件事。
+    text: 我們有一份我相信是溫特沃斯上校（Colonel Wentworth）撰寫的 1947 年 10 月文件，其中提到了這件事。
     status: completed
     confidence: high
     notes: 'terminology.yaml: Colonel Wentworth'
@@ -1322,7 +1322,7 @@ segments:
     end: 00:07:31,980
   source_text: So the obvious connection between UFO sightings alone and technological development is right there from the beginning.
   translation:
-    text: 所以僅從不明飛行物目擊事件與技術發展之間的明顯聯繫，從一開始就存在。
+    text: 所以光是從不明飛行物的目擊事件與技術發展之間的明顯聯繫，便可看出這條脈絡從一開始就存在。
     status: completed
     confidence: high
     notes: null
@@ -1376,7 +1376,7 @@ segments:
     end: 00:07:58,760
   source_text: The FAA quickly and clearly had, what could they literally say to the world?
   translation:
-    text: 聯邦航空總署迅速且清楚地面臨，他們實際上能對世界說什麼呢？
+    text: 聯邦航空總署（FAA）迅速且清楚地面臨一個問題：他們實際上能對世界說什麼呢？
     status: completed
     confidence: medium
     notes: 句子稍微不完整，口語表達
@@ -1505,7 +1505,7 @@ segments:
     end: 00:09:58,160
   source_text: We are supposedly the defense country of the world. If there's something in our atmosphere in the world that may question that, it seems to me, this member, that we need to take a look at it. If they wanted to blow us up, seems like they'd have done it 20, 30, 40 years ago. Maybe they want to coexist, but to not even begin to, whatever, you guys got more intelligence than I have. It's just the wrong way. I mean, there won't be a world.
   translation:
-    text: 我們理應是世界的防禦國家。如果我們的大氣層中、世界上有什麼東西可能對此提出質疑，在我這個委員看來，我們需要對此進行調查。如果它們想要炸毀我們，似乎在二、三、四十年前就已經做了。也許它們想要共存，但甚至不去嘗試，無論如何，你們比我有更多的情報。這就是錯誤的做法。我的意思是，將不會有一個世界。
+    text: 我們理應是世界的防禦國家。如果我們的大氣層中、世界上有什麼東西可能對此提出質疑，在我這個委員看來，我們需要對此進行調查。如果它們想要炸毀我們，似乎在二、三、四十年前就已經做了。也許它們想要共存，但甚至不去嘗試，無論如何，你們比我有更多的情報。這就是錯誤的做法。我的意思是，到頭來這個世界就不存在了。
     status: completed
     confidence: medium
     notes: 句子稍顯複雜，口語表達
@@ -1543,7 +1543,7 @@ segments:
     end: 00:10:19,960
   source_text: Then my last one at this time would be the press, the press, very, very powerful. Do any of you know of any occasions where the press might have been, I don't know, caused to go one way or the other? Positive or make joke of it or all? Captain Salas?
   translation:
-    text: 那麼我此時最後一個問題是關於媒體，媒體，非常、非常有影響力。你們是否知道任何媒體可能被，我不知道，促使往某個方向報導的情況？正面報導或嘲笑它或所有情況？Salas 上尉？
+    text: 那麼我此時最後一個問題是關於媒體，媒體，非常、非常有影響力。你們是否知道任何媒體可能被，我不知道，促使往某個方向報導的情況？正面報導或嘲笑它或所有情況？薩拉斯上尉？
     status: completed
     confidence: medium
     notes: 口語化表達，略微不完整
@@ -1562,7 +1562,7 @@ segments:
     end: 00:10:38,880
   source_text: Thank you, Ms. Gilpatrick. In 2004, I was contacted by the Peter Jennings group who's putting together a UFO special and flown to Dallas, Texas for about two or three days.
   translation:
-    text: 謝謝，吉爾派翠克女士。2004 年，我被正在製作不明飛行物特輯的彼得·詹寧斯團隊聯繫，並飛往德州達拉斯待了大約兩、三天。
+    text: 謝謝，基爾派翠克女士（Ms. Gilpatrick）。2004 年，我被正在製作不明飛行物特輯的彼得·詹寧斯（Peter Jennings）團隊聯繫，並飛往德州達拉斯待了大約兩、三天。
     status: completed
     confidence: high
     notes: 'terminology.yaml: Peter Jennings, Ms. Gilpatrick'
@@ -1602,10 +1602,10 @@ segments:
     end: 00:11:40,320
   source_text: Anyone else have any press? Before we go to the members, does anyone else at the table like to make a final statement as we go through? It may not be your final because we're going to interact a little bit longer, but if you want to add something at this point, otherwise I'll go right. Mr. Scott, Sergeant Scott?
   translation:
-    text: 還有其他人有媒體經驗嗎？在我們轉向委員之前，在座的各位是否還有人想在這個過程中做最後陳述？這可能不是你們的最後發言，因為我們還會再互動一段時間，但如果你們現在想補充什麼，否則我就繼續了。Scott 先生，Scott 中士？
+    text: 還有其他人有媒體經驗嗎？在我們轉向委員之前，在座的各位是否還有人想在這個過程中做最後陳述？這可能不是你們的最後發言，因為我們還會再互動一段時間，但如果你們現在想補充什麼，否則我就繼續了。斯科特先生，斯科特中士？
     status: completed
     confidence: high
-    notes: null
+    notes: 證人實際軍銜為技術士官（UFO-07 定譯斯科特士官），此處依主持人口語譯「中士」
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1684,10 +1684,10 @@ segments:
     end: 00:13:48,200
   source_text: I have several articles. I'm going to comment on only one of them and I really don't know where it played. It says the mock Congress hearing on aliens is heavy on real-life Mulders and not Scullies. I didn't know who Mulders and Scullies were until I read it. But apparently in the X-Files, Agent Fox Mulder believes in all things, little green men, Roswell men in black, whatever, and Agent Dana Scully believes in science. Scully forces Mulder to find hard evidence that there's a massive conspiracy to cover up aliens' existence.
   translation:
-    text: 我有幾篇文章。我只會評論其中一篇，我真的不知道它刊登在哪裡。文章說，模擬國會的外星人聽證會充滿了現實生活中的穆德，而非史考莉。我在讀到這篇文章之前不知道穆德和史考莉是誰。但顯然在《X檔案》中，Fox Mulder 探員相信所有事情，小綠人、羅斯威爾、黑衣人，隨便什麼，而 Dana Sculley 探員相信科學。史考莉迫使穆德找到確鑿證據，證明存在掩蓋外星人存在的大規模陰謀。
+    text: 我有幾篇文章。我只會評論其中一篇，我真的不知道它刊登在哪裡。文章說，模擬國會的外星人聽證會充滿了現實生活中的穆德，而非史考莉。我在讀到這篇文章之前不知道穆德和史考莉是誰。但顯然在《X檔案》中，福克斯·穆德（Fox Mulder）探員相信所有事情，小綠人、羅斯威爾、黑衣人，隨便什麼，而丹娜·史考莉（Dana Scully）探員相信科學。史考莉迫使穆德找到確鑿證據，證明存在掩蓋外星人存在的大規模陰謀。
     status: completed
     confidence: high
-    notes: 'terminology.yaml: Mulders and Scullies, X-Files, Roswell'
+    notes: '原文 Sculley 應為 Scully（《X檔案》角色，Whisper 誤拼）；terminology.yaml: Mulders and Scullies, X-Files, Roswell'
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1706,7 +1706,7 @@ segments:
     end: 00:14:57,280
   source_text: The problem with this week's alien panel, that we're an alien panel now, at the National Press Club is that any of the participating members of Congress who might nationally be a Scully have been incented to suspend their disbelief because the Citizen Hearing Foundation is paying them $20,000 plus expenses to listen to the testimony. That's just insulting that we can be bought for $20,000. That's ridiculous. It goes on to say that panelists, and I mention the panelists and I'm one of the panelists, and former member Roscoe Bartlett, in an opening statement, Bartlett said he hadn't fulfilled his duty in office by failing to hold hearings on extraterrestrials. I never said that. What I had said was that the Congress, I a part of it, had failed in its responsibility to respond to the constitutional requirement that we had a responsibility to respond to people to petition their government for a
   translation:
-    text: 本週在國家新聞俱樂部舉行的外星人小組，我們現在是外星人小組了，問題在於任何原本可能扮演史考莉角色的參與國會議員都被激勵暫停懷疑，因為公民聽證會基金會支付他們兩萬美元加上費用來聆聽證詞。說我們可以被兩萬美元收買，這簡直是侮辱。這太荒謬了。文章繼續說小組成員，我提到小組成員，我就是小組成員之一，前議員羅斯科·巴特利特在開幕陳述中說，巴特利特表示他未能履行職責，因為他在任內未能就外星人舉行聽證會。我從未這麼說。我所說的是，國會，我是其中一員，未能履行回應憲法要求的責任，即我們有責任回應人民向其政府請願要求
+    text: 本週在國家新聞俱樂部舉行的外星人小組，我們現在是外星人小組了，問題在於任何原本可能扮演史考莉角色的參與國會議員都被誘使暫時放下懷疑，因為公民聽證會基金會支付他們兩萬美元加上開銷來聆聽證詞。說我們可以被兩萬美元收買，這簡直是侮辱。這太荒謬了。文章繼續說小組成員，我提到小組成員，我就是小組成員之一，前議員羅斯科·巴特利特在開幕陳述中說，巴特利特表示他未能履行職責，因為他在任內未能就外星人舉行聽證會。我從未這麼說。我所說的是，國會，我是其中一員，未能履行回應憲法要求的責任，即我們有責任回應人民向其政府請願要求
     status: completed
     confidence: high
     notes: 'terminology.yaml: National Press Club, Citizen Hearing Foundation, Roscoe Bartlett。段落未完，等待下一段'
@@ -1786,10 +1786,10 @@ segments:
     end: 00:15:38,240
   source_text: I don't know. You tell me. No, no. Who's it from? What network of paper?
   translation:
-    text: 我不知道。你告訴我。不，不。這是哪裡來的？哪個網路或報紙？
+    text: 我不知道。你告訴我。不，不。這是哪裡來的？哪個電視網或報紙？
     status: completed
     confidence: high
-    notes: null
+    notes: 原文疑為 network or paper（電視網或報紙），口語略破碎
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1820,7 +1820,7 @@ segments:
     end: 00:16:04,080
   source_text: It's terrible. It's terrible. Yeah. I want to read on. This is why I'm wacky. Bartlett has warned of the dangers of an electromagnetic pulse, a theoretical nuclear blast in space that would fry electrical circuits and kill the Internet. This is not theoretical.
   translation:
-    text: 太糟糕了。太糟糕了。是的。我想繼續讀下去。這就是為什麼我很古怪。巴特利特警告過電磁脈衝的危險，一種理論上的太空核爆炸，會炸毀電路並癱瘓互聯網。這不是理論性的。
+    text: 太糟糕了。太糟糕了。是的。我想繼續讀下去。這就是為什麼我很古怪。巴特利特警告過電磁脈衝的危險，一種理論上的太空核爆炸，會炸毀電路並癱瘓網際網路。這不是理論性的。
     status: completed
     confidence: high
     notes: 'terminology.yaml: electromagnetic pulse'
@@ -1839,10 +1839,10 @@ segments:
     end: 00:16:33,680
   source_text: We did precisely that in 1962 over at Johnston Island. It's called Starfish Prime, and it shut down – we didn't have any electronics in '62. It shut down electrical equipment in Hawaii 800 miles away. The Congress set up an EMP commission. It functioned for eight years for four congresses. It was chaired by Dr. Bill Graham, the science advisor to President Reagan. Johnny Foster was on it, the father of most of our nuclear weapons.
   translation:
-    text: 我們在 1962 年在約翰遜島就精確地做了這件事。它叫做海星計畫，它關閉了——我們在 1962 年還沒有任何電子設備。它關閉了 800 英里外夏威夷的電氣設備。國會成立了一個 EMP 委員會。它運作了八年，經歷了四屆國會。它由雷根總統的科學顧問 Bill Graham 博士主持。Johnny Foster 也在其中，他是我們大部分核武器之父。
+    text: 1962 年我們在約翰斯頓島（Johnston Island）就精確地做了這件事。那個試驗叫做星魚主（Starfish Prime），它癱瘓了——我們在 1962 年還沒有任何電子設備——它癱瘓了 800 英里外夏威夷的電氣設備。國會成立了一個 EMP 委員會。它運作了八年，經歷了四屆國會。它由雷根總統的科學顧問比爾·格雷厄姆（Bill Graham）博士主持。約翰·福斯特（John S. Foster Jr.）博士也在其中，他是我們大部分核武器之父。
     status: completed
     confidence: high
-    notes: 'terminology.yaml: Johnson Island, Starfish Prime, EMP commission'
+    notes: '原文 Johnson Island 應為 Johnston Island（約翰斯頓島，太平洋核試驗場）；Starfish Prime 網路流通譯名「星魚主」（詞彙表舊譯海星計畫不合流通）；原文 Johnny Foster 實為 John S. Foster Jr.（2026-08-11 人工查證）；terminology.yaml: Johnson Island, Starfish Prime, EMP commission'
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1860,10 +1860,10 @@ segments:
     end: 00:17:15,440
   source_text: Dr. Joan Woodard was on it. She is the deputy director at Sandia Labs. And Dr. Lowell Wood from Lawrence Livermore was on it. This is the person that Tom Clancy told me, and his view was the smartest man hired by the U.S. government. That commission functioned for eight years. As a result of their functioning, the Pentagon has set up a permanent commission of permanent panel task force on EMP. Jon Kyl has made a statement that says that this is one of the few – as a matter of fact, I think it's the only event I know of – that could end us as a sovereign nation. You can read his comment on that.
   translation:
-    text: Joan Woodard 博士也在其中。她是桑迪亞國家實驗室的副主任。來自勞倫斯利福摩爾國家實驗室的 Lowell Wood 博士也在其中。Tom Clancy 告訴我這個人，在他看來是美國政府聘用的最聰明的人。該委員會運作了八年。由於他們的工作，五角大廈成立了一個關於 EMP 的常設委員會或常設小組特別工作組。John Kyle 發表聲明說，這是少數幾個——事實上，我認為這是我所知道的唯一一個——可能終結我們作為主權國家的事件。你可以閱讀他對此的評論。
+    text: 瓊·伍達德（Joan Woodard）博士也在其中。她是桑迪亞國家實驗室的副主任。來自勞倫斯利福摩爾國家實驗室的勞威爾·伍德（Lowell L. Wood Jr.）博士也在其中。湯姆·克蘭西（Tom Clancy）跟我提過這個人，在他看來是美國政府聘用的最聰明的人。該委員會運作了八年。由於他們的工作，五角大廈成立了一個關於 EMP 的常設委員會或常設小組特別工作組。瓊·凱爾（Jon Kyl）發表聲明說，這是少數幾個——事實上，我認為這是我所知道的唯一一個——可能終結我們作為主權國家的事件。你可以閱讀他對此的評論。
     status: completed
     confidence: high
-    notes: null
+    notes: 原文 John Kyle 應為參議員 Jon Kyl（2026-08-11 人工裁決，轉錄錯誤）；Joan Woodard 查無其人，疑為福斯特／伍德連讀混音之轉錄亂碼，edge case 照字面保留（人工裁決）；Lowell Wood 實為 Lowell L. Wood Jr.（人工查證）
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -1904,7 +1904,7 @@ segments:
     text: 這是空軍發布的事實說明書。它是關於不明飛行物和空軍藍皮書計畫。他們盡一切努力揭穿 12,618 次目擊事件，但其中 701 次他們找不到任何方法來合理化解釋。這是一個相當大的數字。然後他們做了兩個陳述。你知道，他們說的一件事是從未有任何跡象表明對我們國家安全構成威脅。那麼為什麼還要機密分類，秘密分類，如果對我們的安全沒有威脅？
     status: completed
     confidence: high
-    notes: 'terminology.yaml: Air Force Project Blue Book, National Security'
+    notes: '原文 12,800 – 618 為講者口語，指藍皮書計畫官方數字 12,618 起目擊、701 起無法解釋；terminology.yaml: Air Force Project Blue Book, National Security'
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2074,10 +2074,10 @@ segments:
     end: 00:20:10,720
   source_text: Congresswoman Woolsey.
   translation:
-    text: Woolsey 女眾議員。
+    text: 伍爾西眾議員。
     status: completed
     confidence: high
-    notes: 'terminology.yaml: Congresswoman Woolsey (原 Woesey 為轉錄錯誤)'
+    notes: 原 Woesey 為轉錄錯誤（main.yaml 已預先修正為 Woolsey）；指 Lynn Woolsey 眾議員
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2091,10 +2091,10 @@ segments:
     end: 00:20:54,900
   source_text: Well, I have a thought. And the thought is, once there can be disclosure about what is out there and what is coming in and an understanding, which will take certainly hearings within the Congress and in the House and the Senate. But we have a big question, and that question is, are we doing this because we are going to arm space? And you know, let's just talk about getting rid of humanity in general. One more war, but it's up there in space.
   translation:
-    text: 嗯，我有一個想法。這個想法是，一旦能夠揭露那裡有什麼以及正在進入什麼，並達成理解，這當然需要在國會、眾議院和參議院內舉行聽證會。但我們有一個大問題，這個問題是，我們這樣做是因為我們要武裝太空嗎？你知道，讓我們來談談總體上擺脫人類。再來一場戰爭，但這次是在太空中。
+    text: 嗯，我有一個想法。這個想法是，一旦能夠揭露那裡有什麼以及正在進入什麼，並達成理解，這當然需要在國會、眾議院和參議院內舉行聽證會。但我們有一個大問題，這個問題是，我們這樣做是因為我們要武裝太空嗎？你知道，讓我們就來談談從整體上消滅人類這回事吧——再打一場戰爭，只不過這回是在太空裡。
     status: completed
-    confidence: medium
-    notes: 'terminology.yaml: Disclosure。「擺脫人類」可能指「消滅人類」或「人類滅亡」'
+    confidence: high
+    notes: 'terminology.yaml: Disclosure'
   metadata:
     topic_id: topic_02
     speaker_hint: null
@@ -2240,10 +2240,10 @@ segments:
     end: 00:22:58,080
   source_text: Well, I'm sorry I ruined his afternoon, because I brought the press stuff to his attention. [laughter] It's garbage. I mean, it's garbage. But does that surprise you? I would ask one question on the Peter Jennings. Did they go on with the show?
   translation:
-    text: 嗯，我很抱歉毀了他的下午，因為我把媒體報導拿給他看。（笑聲）那是垃圾。我的意思是，那真是垃圾。但這讓你驚訝嗎？我想問一個關於 Peter Jennings 的問題。他們有繼續播出那個節目嗎？
+    text: 嗯，我很抱歉毀了他的下午，因為我把媒體報導拿給他看。（笑聲）那是垃圾。我的意思是，那真是垃圾。但這讓你驚訝嗎？我想問一個關於彼得·詹寧斯的問題。他們有繼續播出那個節目嗎？
     status: completed
     confidence: high
-    notes: Peter Jennings 保留原文
+    notes: null
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2346,10 +2346,10 @@ segments:
     end: 00:23:35,320
   source_text: I mean, that's par for the course for mainstream media. He brought to my attention, so he's ruining my afternoon. This is the fact sheet put out by the government. There is no evidence indicating that sightings categorized as unidentified were extraterrestrial. What else could they be? There's no -- I mean -- and this, I think -- I want to hit a couple of you on this.
   translation:
-    text: 我是說，這對主流媒體來說是意料中事。他把這拿給我看，所以毀了我的下午。這是政府發布的事實說明書。沒有證據顯示被歸類為不明的目擊事件是外星的。那它們還能是什麼？沒有——我是說——而這點，我認為——我想就這點問你們幾個。
+    text: 我是說，這對主流媒體來說是意料中事。他把這拿給我看，所以毀了我的下午。這是政府發布的事實說明書。沒有證據顯示被歸類為不明的目擊事件是外星生命。那它們還能是什麼？沒有——我是說——而這點，我認為——我想就這點問你們幾個。
     status: completed
     confidence: high
-    notes: extraterrestrial 譯為「外星的」，符合 terminology.yaml
+    notes: extraterrestrial 此處為名詞用法，譯「外星生命」（沿用 UFO-07 慣例）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2366,10 +2366,10 @@ segments:
     end: 00:24:23,640
   source_text: You know, you could say, "Well, we're skeptical." Sure, I'm skeptical of everything. But by the same token, if there's no other rational reason for something, you have to come to a conclusion. And the conclusion I can share with you, which is just logic, is if there's anything in this whole compendium of knowledge of UFOs, it's got to be what happened at Minot and Wyoming and so forth. What's been proven is that somebody out there, extraterrestrial, can shut off our defense capability just like that. Just like that. Now, how do you think that makes the people in Congress who are appropriating billions and billions of dollars for a defense system that doesn't work if you really push the shove?
   translation:
-    text: 你知道，你可以說「嗯，我們持懷疑態度。」當然，我對所有事情都抱持懷疑。但同樣地，如果某件事沒有其他合理的解釋，你就必須得出結論。而我可以與你們分享的結論，純粹基於邏輯，就是如果在整個 UFO 知識彙編中有任何真實的事件，那必定是發生在邁諾特空軍基地和懷俄明州等地的事件。已經被證實的是，外太空的某個存在，外星的存在，能夠就這樣關閉我們的防禦能力。就這樣。現在，你認為這會讓國會那些撥款數十億美元用於防禦系統的人作何感想？如果真的面對緊急情況時，這個系統根本不管用？
+    text: 你知道，你可以說「嗯，我們持懷疑態度。」當然，我對所有事情都抱持懷疑。但同樣地，如果某件事沒有其他合理的解釋，你就必須得出結論。而我可以與你們分享的結論，純粹基於邏輯，就是如果在整個不明飛行物知識彙編中有任何真實的事件，那必定是發生在邁諾特空軍基地和懷俄明州等地的事件。已經被證實的是，某個外星存在能夠就這樣關閉我們的防禦能力。就這樣。現在，你認為這會讓國會那些撥款數十億美元用於防禦系統的人作何感想？如果真的面對緊急情況時，這個系統根本不管用？
     status: completed
     confidence: high
-    notes: Minot 譯為「邁諾特空軍基地」，extraterrestrial 譯為「外星的」，均符合 terminology.yaml
+    notes: Minot 譯為「邁諾特空軍基地」，符合 terminology.yaml
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2390,7 +2390,7 @@ segments:
     end: 00:24:24,640
   source_text: (Applause.)
   translation:
-    text: （掌聲。）
+    text: （掌聲）
     status: completed
     confidence: high
     notes: null
@@ -2629,10 +2629,10 @@ segments:
     end: 00:29:15,880
   source_text: Congresswoman Hooley?
   translation:
-    text: 胡利女眾議員？
+    text: 胡利眾議員？
     status: completed
     confidence: high
-    notes: Congresswoman Hooley 譯為「胡利女眾議員」，符合 terminology.yaml
+    notes: 主表定譯胡利眾議員（女眾議員為廢棄譯名）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2646,10 +2646,10 @@ segments:
     end: 00:29:46,040
   source_text: Yes. Thank you, Madam Chair. First of all, I'd like to thank our panel. You have been terrific. And anyone that wants to jump in and answer this question, I'm originally from North Dakota. I'm very familiar with Minot. So I have a problem with understanding why anyone would go to Minot. I'm sorry. That's not a good thing. I love you, North Dakota.
   translation:
-    text: 是的。謝謝您，主席女士。首先，我想感謝我們的證人小組。你們表現得非常好。任何想參與回答這個問題的人，我來自北達科他州。我對邁諾特非常熟悉。所以我無法理解為什麼有人會去邁諾特。我很抱歉。那不是什麼好地方。我愛你，北達科他州。
+    text: 是的。謝謝您，主席女士。首先，我想感謝我們的證人小組。你們表現得非常好。任何想參與回答這個問題的人，我來自北達科他州。我對邁諾特空軍基地非常熟悉。所以我無法理解為什麼有人會去邁諾特空軍基地。我很抱歉。那不是什麼好地方。我愛你，北達科他州。
     status: completed
     confidence: high
-    notes: Minot 譯為「邁諾特」，符合 terminology.yaml
+    notes: Minot 譯為「邁諾特空軍基地」，符合 terminology.yaml；此為幽默自嘲語氣
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2666,10 +2666,10 @@ segments:
     end: 00:30:17,780
   source_text: But wherever they come from, somebody is in Minot shutting off the missiles. Why? I mean, is that to show us that they can do that? Why would you do that?
   translation:
-    text: 但不管他們來自哪裡，有人在邁諾特關閉了飛彈。為什麼？我的意思是，這是為了向我們展示他們能做到這一點嗎？為什麼要這樣做？
+    text: 但不管他們來自哪裡，有人在邁諾特空軍基地關閉了飛彈。為什麼？我的意思是，這是為了向我們展示他們能做到這一點嗎？為什麼要這樣做？
     status: completed
     confidence: high
-    notes: Minot 譯為「邁諾特」，符合 terminology.yaml
+    notes: Minot 譯為「邁諾特空軍基地」，符合 terminology.yaml
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2728,7 +2728,7 @@ segments:
     end: 00:32:27,600
   source_text: Anyone else want to jump in? Yes. Sergeant Scott? Yeah. In June of 2001, President Bush came on scene on ABC News, and it was carried throughout the networks and in Popular Mechanics magazine. He had with him a general from the Air Force, and he was announcing that the general was going to be the head of a new military force called the Space Force, and they were going to build this force and also put a military base on the moon. Now nobody questioned him on why. What was the purpose for that? But then September 11th comes around.
   translation:
-    text: 還有其他人想參與嗎？有的。Scott 中士？是的。2001 年 6 月，布希總統在 ABC 新聞上露面，這則新聞被各大電視網和《大眾機械》雜誌報導。他帶著一位空軍將領，宣布這位將領將成為一支名為太空部隊的新軍事力量的首長，他們將建立這支部隊，並在月球上設立軍事基地。現在沒有人質疑他為什麼。那個目的是什麼？但隨後 911 事件發生了。
+    text: 還有其他人想參與嗎？有的。斯科特中士？是的。2001 年 6 月，布希總統在 ABC 新聞上露面，這則新聞被各大電視網和《大眾機械》雜誌報導。他帶著一位空軍將領，宣布這位將領將成為一支名為太空部隊的新軍事力量的首長，他們將建立這支部隊，並在月球上設立軍事基地。現在沒有人質疑他為什麼。那個目的是什麼？但隨後 911 事件發生了。
     status: completed
     confidence: high
     notes: Space Force 譯為「太空部隊」，符合 terminology.yaml
@@ -2750,7 +2750,7 @@ segments:
     end: 00:33:37,140
   source_text: The terrorist attack comes. This general is posted as the chairman of the Joint Chiefs of Staff, and the Space Force never comes about. The question I have still, why did he want to create a new military force for outer space unless there's a threat? We have one. We have a space force. It's in existence. And it's been written about extensively. It's there. Okay. All right. Some acknowledge it and some don't. But your point's well taken, Sergeant. Is that the Black Ops? Black Ops, that's the real. Well, yeah, I know. You want me to answer that? No. No, I won't. No. Let me go to Congress. Oh, I'm sorry. He jumped in. Right, I'm sorry. You're absolutely right. Continuous. Your time, Congresswoman. I'd like to hear from you. I just said what he's talking about is Black Ops. And I don't doubt that.
   translation:
-    text: 恐怖攻擊發生了。這位將領被任命為參謀長聯席會議主席，而太空部隊從未成立。我仍然有個疑問，為什麼他想要為外太空創建一支新的軍事力量，除非有威脅？我們有一支。我們有太空部隊。它已經存在了。而且已經被廣泛報導過。它就在那裡。好的。沒錯。有些人承認，有些人不承認。但你的觀點很有道理，中士。那是黑色行動嗎？黑色行動，那才是真的。嗯，是的，我知道。你要我回答嗎？不。不，我不會。不。讓我回到國會。哦，對不起。他插話了。對，對不起。你完全正確。繼續。您的時間，女眾議員。我想聽聽您的意見。我剛才說的是，他談論的是黑色行動。我對此毫不懷疑。
+    text: 恐怖攻擊發生了。這位將領被任命為參謀長聯席會議主席，而太空部隊從未成立。我仍然有個疑問，為什麼他想要為外太空創建一支新的軍事力量，除非有威脅？我們有一支。我們有太空部隊。它已經存在了。而且已經被廣泛報導過。它就在那裡。好的。沒錯。有些人承認，有些人不承認。但你的觀點很有道理，中士。那是黑色行動嗎？黑色行動，那才是真的。嗯，是的，我知道。你要我回答嗎？不。不，我不會。不。讓我回到國會。哦，對不起。他插話了。對，對不起。你完全正確。繼續。您的時間，眾議員。我想聽聽您的意見。我剛才說的是，他談論的是黑色行動。我對此毫不懷疑。
     status: completed
     confidence: medium
     notes: Joint Chiefs of Staff 譯為「參謀長聯席會議」，Space Force 譯為「太空部隊」，Black Ops 譯為「黑色行動」，均符合 terminology.yaml；段落包含多人對話，語氣較口語化
@@ -2775,10 +2775,10 @@ segments:
     end: 00:34:47,360
   source_text: But I'm concerned that they're trying to tell us. I don't quite totally agree with Bob, but I do agree with you. That's okay. I think they're at least trying to tell us to pay attention. We have the power to do this. Be careful. And one of my, I've got scenarios in my mind about, I've thought about this an awful lot. And one of my scenarios is perhaps in fact they've communicated with the leaders of the world and said back off from this stuff, or else you're going to annihilate yourself. And maybe that's why we cut back some of our missiles. And other scenarios, do these, I'll call them beings, do these entities, are we aware of these entities enough that they can go public instead of saying you can't handle the truth, we can't handle the truth, and going public with an innocuous thing like harmless beings that are visiting us just to keep in touch and everything's fine, or
   translation:
-    text: 但我擔心的是，他們正試圖告訴我們。我不完全同意 Bob 的看法，但我同意你的觀點。沒關係。我認為他們至少試圖告訴我們要注意。我們有能力做到這一點。小心點。我有一個，我腦海中有一些場景，我對此想了很多。我的場景之一是，也許事實上他們已經與世界領導人溝通過，並說退出這些東西，否則你們會毀滅自己。也許這就是我們削減一些飛彈的原因。還有其他場景，這些，我稱他們為生命體，這些實體，我們對這些實體的了解是否足夠讓他們能夠公開露面，而不是說你們無法承受真相，我們無法承受真相，而是公開一些無害的事情，比如有無害的生命體正在拜訪我們只是為了保持聯繫，一切都很好，或者
+    text: 但我擔心的是，他們正試圖告訴我們。我不完全同意鮑勃的看法，但我同意你的觀點。沒關係。我認為他們至少試圖告訴我們要注意。我們有能力做到這一點。小心點。我有一個，我腦海中有一些場景，我對此想了很多。我的場景之一是，也許事實上他們已經與世界領導人溝通過，並說退出這些東西，否則你們會毀滅自己。也許這就是我們削減一些飛彈的原因。還有其他場景，這些，我稱他們為生命體，這些實體，我們對這些實體的了解是否足夠讓他們能夠公開露面，而不是說你們無法承受真相，我們無法承受真相，而是公開一些無害的事情，比如有無害的生命體正在拜訪我們只是為了保持聯繫，一切都很好，或者
     status: completed
     confidence: medium
-    notes: 段落較長且口語化，Bob 保留原文（指證人 Bob Salas）
+    notes: 段落較長且口語化；Bob 指證人 Bob Salas（鮑勃·薩拉斯）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2824,10 +2824,10 @@ segments:
     end: 00:35:38,200
   source_text: Thank you so much. Yes, David?
   translation:
-    text: 非常感謝。是的，David？
+    text: 非常感謝。是的，大衛？
     status: completed
     confidence: high
-    notes: David 保留原文（指證人姓名）
+    notes: David 指證人 David Schindele（大衛·辛德利）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2875,10 +2875,10 @@ segments:
     end: 00:36:41,600
   source_text: But these missiles being shut down, Captain Salas described two flights that he's aware of. I described to you one flight of 10 missiles that I'm aware of, but I'm also aware of other launch officers who've described to me similar situations. So, you know, it's not unique that him and I have been involved here. I mean, this was a situation that was occurring quite often when I served in 1966 and '67. And who knows that it's not still happening out there? There is no act of officers of any kind that will come out and admit that right now. But what I'd like to know is what's your speculation on these missiles being shut down?
   translation:
-    text: 但關於這些飛彈被關閉的事，Salas 上尉描述了他所知道的兩次飛行中隊事件。我向您描述了我所知道的一次 10 枚飛彈的飛行中隊，但我也知道其他發射官員向我描述過類似的情況。所以，你知道，我和他參與其中並不是獨一無二的。我的意思是，這是我在 1966 年和 1967 年服役時經常發生的情況。誰知道現在是否還在發生？目前沒有任何軍官願意站出來承認這一點。但我想知道的是，您對這些飛彈被關閉有什麼推測？
+    text: 但關於這些飛彈被關閉的事，薩拉斯上尉描述了他所知道的兩次飛行分隊事件。我向您描述了我所知道的一次 10 枚飛彈的飛行分隊，但我也知道其他發射官員向我描述過類似的情況。所以，你知道，我和他參與其中並不是獨一無二的。我的意思是，這是我在 1966 年和 1967 年服役時經常發生的情況。誰知道現在是否還在發生？目前沒有任何軍官願意站出來承認這一點。但我想知道的是，您對這些飛彈被關閉有什麼推測？
     status: completed
     confidence: high
-    notes: Captain Salas 譯為「Salas 上尉」
+    notes: flight＝飛彈聯隊編制中的「分隊」（沿用 UFO-06/07 裁決，非飛行中隊）
   metadata:
     topic_id: topic_03
     speaker_hint: null
@@ -2967,7 +2967,7 @@ segments:
     end: 00:37:43,920
   source_text: I might have something to end on, too. Let me get -- Let me offer one very -- 30-second opinion. I feel that we really do not have enough data, even now, to know exactly why this is happening. Because despite the number of cases where this does appear to have happened, there are thousands of missiles. And not all of them have been shut down, as far as we can tell. So if they're doing this, they're obviously not doing it uniformly. And I just -- I don't really feel that any researcher who has enough data to know precisely what those motivations might be. They obviously -- they seem to have demonstrated superiority over our technology. That's for sure. So at discrete moments, they seem to be able to do this. But they're not doing it uniformly. And they certainly haven't stopped all of the massive wars that have, you know, run over the planet. So there are
   translation:
-    text: 我也可能有話要作為結束。讓我——讓我提供一個非常——30 秒的意見。我覺得我們即使到現在也真的沒有足夠的數據來確切知道為什麼會發生這種情況。因為儘管出現過許多這種情況，但有數千枚飛彈。而據我們所知，並非所有飛彈都被關閉了。所以如果他們在做這件事，他們顯然不是統一地這樣做。我只是——我真的不認為有任何研究者擁有足夠的數據來準確知道這些動機可能是什麼。他們顯然——他們似乎展示了對我們技術的優越性。這是肯定的。所以在特定時刻，他們似乎能夠做到這一點。但他們並不是統一地這樣做。而且他們當然沒有阻止所有席捲全球的大規模戰爭。所以
+    text: 我也可能有話要作為結束。讓我——讓我提供一個非常——30 秒的意見。我覺得我們即使到現在也真的沒有足夠的資料來確切知道為什麼會發生這種情況。因為儘管出現過許多這種情況，但有數千枚飛彈。而據我們所知，並非所有飛彈都被關閉了。所以如果他們在做這件事，他們顯然不是統一地這樣做。我只是——我真的不認為有任何研究者擁有足夠的資料來準確知道這些動機可能是什麼。他們顯然——他們似乎展示了對我們技術的優越性。這是肯定的。所以在特定時刻，他們似乎能夠做到這一點。但他們並不是統一地這樣做。而且他們當然沒有阻止所有席捲全球的大規模戰爭。所以
     status: completed
     confidence: high
     notes: null
@@ -3027,10 +3027,10 @@ segments:
     end: 00:37:53,280
   source_text: Thank you, Congresswoman -- Congressman Cook.
   translation:
-    text: 謝謝您，女眾議員——Cook 眾議員。
+    text: 謝謝您，眾議員——庫克眾議員。
     status: completed
     confidence: high
-    notes: null
+    notes: 指梅里爾·庫克（Merrill Cook，前猶他州眾議員），沿用 UFO-03 定譯；主持人先口誤女眾議員後改口
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3087,7 +3087,7 @@ segments:
     end: 00:39:06,760
   source_text: See, I was involved in three sightings, three different bases, and not one time did I have to sign anything away. Okay, Sergeant Scott, I appreciate that clarification.
   translation:
-    text: 您看，我參與過三次目擊事件，在三個不同的基地，沒有一次我需要簽署任何東西。好的，Scott 中士，我感謝您的澄清。
+    text: 您看，我參與過三次目擊事件，在三個不同的基地，沒有一次我需要簽署任何東西。好的，斯科特中士，我感謝您的澄清。
     status: completed
     confidence: high
     notes: null
@@ -3165,10 +3165,10 @@ segments:
     end: 00:40:51,720
   source_text: I think I discovered the main reason, and that is -- is this on? Okay. That the Condon investigation was ongoing at the time, and the idea of the Condon investigation basically was to give the Air Force a way out of investigating UFOs. And if they had allowed me to speak to the Condon investigator about my incident, and Mr. Fiegel, and Mr. Mywald, and Mr. Carlson, they would have discovered that this was really a serious problem. And so that, I think, was the primary reason they were so anxious to get us to sign these nondisclosure statements at the time.
   translation:
-    text: 我認為我發現了主要原因，那就是——這個開著嗎？好的。當時康登調查正在進行中，而康登調查的目的基本上是為空軍提供一個退出調查 UFO 的途徑。如果他們允許我向康登調查員談論我的事件，以及 Fiegel 先生、Mywald 先生和 Carlson 先生的事件，他們就會發現這確實是一個嚴重的問題。所以我認為，這就是他們當時如此急於讓我們簽署這些保密聲明的主要原因。
+    text: 我認為我發現了主要原因，那就是——這個開著嗎？好的。當時康登調查正在進行中，而康登調查的目的基本上是為空軍提供一個退出調查不明飛行物的途徑。如果他們允許我向康登調查員談論我的事件，以及菲格爾先生、邁沃爾德先生和卡爾森先生的事件，他們就會發現這確實是一個嚴重的問題。所以我認為，這就是他們當時如此急於讓我們簽署這些保密聲明的主要原因。
     status: completed
     confidence: high
-    notes: Conant investigation 應為 Condon investigation（康登調查），已按正確名稱翻譯
+    notes: 原文 Conant investigation 應為 Condon investigation（康登調查）；Fiegel＝Figel 菲格爾（沿用 UFO-07 裁決）；Mywald 統一邁沃爾德（UFO-07）；Carlson 音譯卡爾森，身分待查證
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3425,10 +3425,10 @@ segments:
     end: 00:43:47,000
   source_text: Captain, Professor Markham, we're going to ask you this then. You made the comments about the filters, and I don't know all the technical terms, but I was quite interested. The timing of those filters coming on to protect nuclear installations, and that was in the '70s, you say? '74, '75.
   translation:
-    text: 上尉，Markham 教授，那麼我們要問你這個問題。你對過濾器發表了評論，我不知道所有的技術術語，但我非常感興趣。那些用於保護核設施的過濾器出現的時機，你說那是在 70 年代嗎？74 年、75 年。
+    text: 上尉，馬卡姆教授（Professor Markham），那麼我們要問你這個問題。你對過濾器發表了評論，我不知道所有的技術術語，但我非常感興趣。那些用於保護核設施的過濾器出現的時機，你說那是在 70 年代嗎？74 年、75 年。
     status: completed
     confidence: high
-    notes: null
+    notes: Markham 教授身分待查證（全案僅此一次出現），採台灣音譯
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3446,7 +3446,7 @@ segments:
     end: 00:44:08,360
   source_text: Well, I would ask Captain Schindele and Captain Salas, isn't it likely or not that what you said to them, they believed you, because they started building technologies to protect against the very thing you were witnessing about? Am I right on that?
   translation:
-    text: 嗯，我想問 Schindele 上尉和薩拉斯上尉，你們對他們說的話，他們相信了你們，是不是很有可能，因為他們開始建造技術來防禦你們所目擊的那件事？我說的對嗎？
+    text: 嗯，我想問辛德利上尉和薩拉斯上尉，你們對他們說的話，他們相信了你們，是不是很有可能，因為他們開始建造技術來防禦你們所目擊的那件事？我說的對嗎？
     status: completed
     confidence: high
     notes: null
@@ -3465,7 +3465,7 @@ segments:
     end: 00:44:16,360
   source_text: Well, sir, as Mr. Bartlett pointed out, it was well known that nuclear explosions produce electromagnetic pulse.
   translation:
-    text: 嗯，先生，正如 Bartlett 先生指出的，眾所周知核爆炸會產生電磁脈衝。
+    text: 嗯，先生，正如巴特利特先生指出的，眾所周知核爆炸會產生電磁脈衝。
     status: completed
     confidence: high
     notes: null
@@ -3517,7 +3517,7 @@ segments:
     end: 00:45:07,520
   source_text: There was a bench test done at Boeing on the logic coupler, and it was shown in this bench test that at a certain frequency of EMP injected into the logic coupler that the coupler would be disabled. So they had that evidence. And so there's no doubt in my mind that one reason they tried to protect the missiles from EMP was nuclear explosions, but the other was as a result of the incident that I just described to help protect against UFO disabling the missiles.
   translation:
-    text: 波音公司對邏輯耦合器進行了台架測試，這個台架測試顯示，在特定頻率的電磁脈衝注入邏輯耦合器時，耦合器會失效。所以他們有這個證據。所以我毫不懷疑，他們試圖保護飛彈免受電磁脈衝影響的一個原因是核爆炸，但另一個原因是我剛才描述的事件的結果，以幫助防禦 UFO 關閉飛彈。
+    text: 波音公司對邏輯耦合器進行了台架測試，這個台架測試顯示，在特定頻率的電磁脈衝注入邏輯耦合器時，耦合器會失效。所以他們有這個證據。所以我毫不懷疑，他們試圖保護飛彈免受電磁脈衝影響的一個原因是核爆炸，但另一個原因是我剛才描述的事件的結果，以幫助防禦不明飛行物關閉飛彈。
     status: completed
     confidence: high
     notes: null
@@ -3590,10 +3590,10 @@ segments:
     end: 00:45:13,680
   source_text: General, would you yield for just a moment?
   translation:
-    text: 將軍，您能讓一下嗎？
+    text: 將軍，能請您稍微讓出發言權嗎？
     status: completed
     confidence: high
-    notes: null
+    notes: yield 為議事用語（讓出發言權）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3679,7 +3679,7 @@ segments:
     end: 00:46:32,760
   source_text: Okay. I appreciate that. And also just wanted to quickly ask, and so it's a little bit unclear in your mind, Captain Salas, Captain Schindele, that these filters that came in the '70s that were described here today, that they could have been brought forth by the Air Force because they were finally getting to something they felt had occurred as early as the 19--or that they knew about as early as the 1950s or something they might have experienced from the testimony.
   translation:
-    text: 好的。我感謝這一點。我也只是想快速問一下，所以在你們心中有點不清楚，薩拉斯上尉、Schindele 上尉，今天在這裡描述的這些在 70 年代出現的過濾器，它們可能是空軍提出的，因為他們終於開始處理他們認為早在 19——或者他們早在 1950 年代就知道的事情，或者從證詞中可能經歷過的事情。
+    text: 好的。我感謝這一點。我也只是想快速問一下，所以在你們心中有點不清楚，薩拉斯上尉、辛德利上尉，今天在這裡描述的這些在 70 年代出現的過濾器，它們可能是空軍提出的，因為他們終於開始處理他們認為早在 19——或者他們早在 1950 年代就知道的事情，或者從證詞中可能經歷過的事情。
     status: completed
     confidence: high
     notes: null
@@ -3740,7 +3740,7 @@ segments:
     end: 00:47:45,100
   source_text: The document that Bob Salas had released was very lengthy, really, with three sub-documents, and I spent a lot of time scanning it. And in fact, there was a little piece about UFOs.
   translation:
-    text: Bob Salas 公布的文件確實非常冗長，有三個子文件，我花了很多時間掃描它。事實上，裡面有一小段關於 UFO 的內容。
+    text: 鮑勃·薩拉斯公布的文件確實非常冗長，有三個子文件，我花了很多時間掃描它。事實上，裡面有一小段關於不明飛行物的內容。
     status: completed
     confidence: high
     notes: null
@@ -3758,10 +3758,10 @@ segments:
     end: 00:48:06,920
   source_text: What it was was a technical explanation of all the echo sites and what happened at each of the sites in the first document. And there was a little piece about UFOs, and it said, "The rumor of any UFO creating this is disproved, just disowned." Disowned, I think, wasn't it?
   translation:
-    text: 它是對所有回音站點以及第一份文件中每個站點發生的事情的技術解釋。有一小段關於 UFO 的內容，它說：「任何 UFO 造成這件事的謠言都被證偽了，只是被否認了。」是否認，我想，不是嗎？
+    text: 它是對回音（Echo）飛行分隊所有站點以及第一份文件中每個站點發生的事情的技術解釋。有一小段關於不明飛行物的內容，它說：「任何不明飛行物造成這件事的謠言都被證偽了，只是被否認了。」是否認，我想，不是嗎？
     status: completed
     confidence: high
-    notes: null
+    notes: echo 指 Echo 飛行分隊（沿用 UFO-07 飛行分隊編制譯法）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3830,10 +3830,10 @@ segments:
     end: 00:48:39,320
   source_text: And I think what we installed was the result of his echo and Oscar flight and not his testimony, because it didn't happen.
   translation:
-    text: 我認為我們安裝的東西是他的回音和 Oscar 飛行的結果，而不是他的證詞，因為它沒有發生。
+    text: 我認為我們安裝的東西是他的回音（Echo）與奧斯卡（Oscar）飛行分隊事件的結果，而不是他的證詞，因為它沒有發生。
     status: completed
     confidence: high
-    notes: null
+    notes: flight 譯「飛行分隊」（沿用 UFO-06/07 裁決）
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3882,10 +3882,10 @@ segments:
     end: 00:48:54,720
   source_text: Yeah, but the technical aspects, they couldn't say it didn't happen, because the flight had all these errors, and this is what happened.
   translation:
-    text: 是的，但從技術方面來說，他們無法說它沒有發生，因為飛行出現了所有這些錯誤，這就是發生的事情。
+    text: 是的，但從技術方面來說，他們無法說它沒有發生，因為該飛行分隊（紀錄）出現了所有這些錯誤，這就是發生的事情。
     status: completed
     confidence: high
-    notes: null
+    notes: flight 指飛行分隊事件紀錄
   metadata:
     topic_id: topic_04
     speaker_hint: null
@@ -3986,10 +3986,10 @@ segments:
     end: 00:49:20,440
   source_text: I wanted to make a comment about the ballistic missile defense that Senator Gravell was talking about.
   translation:
-    text: 我想針對格拉韋爾參議員所談論的彈道飛彈防禦系統發表一些評論。
+    text: 我想針對格拉維爾參議員所談論的彈道飛彈防禦系統發表一些評論。
     status: completed
     confidence: high
-    notes: 'terminology.yaml: Senator Gravel (Gravell 為誤拼), ballistic missile defense'
+    notes: 主表定譯格拉維爾參議員（格拉韋爾為 deprecated）；原文 Gravell 為 Whisper 誤拼
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4525,7 +4525,7 @@ segments:
     text: 先生，參議員也想做最後評論。
     status: completed
     confidence: medium
-    notes: Centres 疑似 Senator 的誤聽
+    notes: 原文 Centres 應為 Senator（Whisper 誤聽，語境為格拉維爾參議員接續發言），已補錄 topics.json
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4726,10 +4726,10 @@ segments:
     end: 00:52:00,920
   source_text: Do you think they're about Korea?
   translation:
-    text: 您認為它們是針對朝鮮的嗎？
+    text: 您認為它們是針對北韓的嗎？
     status: completed
     confidence: high
-    notes: null
+    notes: Korea 此語境指北韓（與本集 seg 224 一致）
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4851,7 +4851,7 @@ segments:
     text: 您記得六個月後，中國人做了同樣的事來告訴我們以牙還牙，你們能做到，我們也能做到嗎？
     status: completed
     confidence: high
-    notes: null
+    notes: 查證：中國反衛星試驗（2007-01）實早於美國擊落 USA-193（2008-02），講者時序顛倒，依規則不擅改原文
   metadata:
     topic_id: topic_05
     speaker_hint: null
@@ -4866,7 +4866,7 @@ segments:
     end: 00:53:01,840
   source_text: And what country, and of course, the amount of money we're spending to weaponize outer space is, is a supreme idiocy of the American government, because we, well, we are the most vulnerable.
   translation:
-    text: 而哪個國家，當然，我們花在太空武器化上的資金，是美國政府至高無上的愚蠢行為，因為我們，嗯，我們是最脆弱的。
+    text: 而哪個國家，當然，我們花在太空武器化上的資金，是美國政府極大的愚蠢行為，因為我們，嗯，我們是最脆弱的。
     status: completed
     confidence: medium
     notes: 語句稍顯口語化

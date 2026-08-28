@@ -72,17 +72,12 @@
 
 ## 四、後續建議
 
-1. **執行標點符號修正**（建議在回填前執行）：
-   ```bash
-   PYTHONPATH=. python3 tools/fix_chinese_punctuation.py --config configs/UFO-17.yaml --verbose
-   ```
-
-2. **回填翻譯到 main.yaml**：
+1. **回填翻譯到 main.yaml**：
    ```bash
    PYTHONPATH=. python3 tools/backfill_translations.py --config configs/UFO-17.yaml --verbose
    ```
 
-3. **匯出 SRT 字幕**：
+2. **匯出 SRT 字幕**：
    ```bash
    PYTHONPATH=. python3 tools/export_srt.py --config configs/UFO-17.yaml --verbose
    ```
